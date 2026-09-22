@@ -720,14 +720,27 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   validación de navegación; las capacidades insertadas mantienen su revisión aparte.
 - Auditorías técnica y editorial sin errores.
 
+### ch4-service-01 a ch4-service-05 — Almacén, venenos y baños
+
+- Revisados cinco textos y títulos con referencias físicas 122-124.
+- Conservadas las condiciones de inhalación del incienso y su excepción para
+  los yuan-tis, la ceguera de la aguja, el envenenamiento incluso al superar
+  la salvación contra la jeringa y los vapores que afectan sin respirar.
+- La llave de Xopal es de latón, no de cobre. El almacén recibe suministros
+  de la superficie, no necesariamente de todos los rincones del mundo.
+- Recuperada la referencia a humanos y minotauros esclavizados por Acererak
+  en el relato de Yahru; el PDF omite a los primeros.
+- El fragmento `#chultan-names` conserva su destino original y queda pendiente
+  de comprobación de navegación. Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 469 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 474 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
-  localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 27
-  del capítulo 4. No equivale a 469 páginas del PDF.
-- 1048 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1048 campos distintos.
+  localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 32
+  del capítulo 4. No equivale a 474 páginas del PDF.
+- 1058 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1058 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
