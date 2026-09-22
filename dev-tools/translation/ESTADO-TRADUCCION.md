@@ -242,12 +242,24 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - La revisión de las biografías no incluye las acciones ni los objetos de las
   fichas. Auditorías técnica y editorial sin errores; sin comprobación visual.
 
+### ch1-tables-equipment-01 — Rumores, encuentros urbanos y yklwa
+
+- Revisados los 19 rumores de Chult (página física 37), los once encuentros
+  urbanos (194) y la descripción de la yklwa (33), además de sus nombres.
+  Se registran 36 campos, incluidas las coincidencias exactas del nombre Yklwa.
+- Se conserva el carácter de rumor, con sus posibles inexactitudes. La bruma
+  provoca alucinaciones mágicas según el inglés. Se mantienen todas las tiradas,
+  recompensas, distancias y destinos; no se añaden conversiones métricas.
+- No incluye la revisión de las imágenes de documentos de los guías ni de los
+  atributos y acciones de los actores que pueden aparecer en estos encuentros.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
 - 106 páginas de texto revisadas: seis de la introducción y cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32). No equivale a 106 páginas del PDF.
-- 256 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 256 campos distintos.
+- 292 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 292 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz

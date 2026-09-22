@@ -181,40 +181,40 @@
       }
     },
     "dmgRanEncPortNya": {
-      "name": "Encuentros de Port Nyanzaru",
+      "name": "Encuentros en Puerto Nyanzaru",
       "results": {
         "B8TJQDl8dDnP7im7": {
-          "description": "<p>Un loro caca en la cabeza de un personaje al azar.</p>"
+          "description": "<p>A un personaje elegido al azar le cae una caca de loro en la cabeza.</p>"
         },
         "OsBW4qj20eTLsciJ": {
-          "description": "<p>Cerca del puerto, un @UUID[Actor.toaAnkylosaurus0]{ankylosaurus} que remolca barcos a través de los canales del almacén va en un alboroto y debe ser calmado, restringido, o muerto.</p>"
+          "description": "<p>Cerca del puerto, un @UUID[Actor.toaAnkylosaurus0]{anquilosaurio} que remolca barcos por los canales de los almacenes se desboca y hay que calmarlo, inmovilizarlo o matarlo.</p>"
         },
         "rbJBvYxMguM7b7eq": {
-          "description": "<p>Un mercader grita: “¡Alto! ¡Ladrón!” como un joven furtivo (@UUID[Actor.H6ajGPL3X6lzsQlc]{pleader}) pasa corriendo por encima de los personajes. Si el ladrón es atrapado, el comerciante agradecido puede presentar personajes a un príncipe mercante o darles otro favor.</p>"
+          "description": "<p>Un mercader grita: «¡Detente! ¡Al ladrón!», mientras un joven de aspecto furtivo (@UUID[Actor.H6ajGPL3X6lzsQlc]{plebeyo}) pasa a toda prisa al lado de los personajes. Si se atrapa al ladrón, el agradecido mercader puede presentar a los aventureros a un príncipe mercante o hacerles algún otro favor.</p>"
         },
         "FMhxeXiEZtqHgoEo": {
-          "description": "<p>Un marinero extranjero borracho (no armado) @UUID[Actor.MIbGBptGOW5OSlHY]{veterano}) está tratando en voz alta de elegir una pelea con tres locales @UUID[Actor.H6ajGPL3X6lzsQlc]{plebeyos}, que claramente no son rival para el lut. Si los personajes intervienen, los agradecidos locales se convierten en una fuente confiable de información sobre Port Nyanzaru, pero el marinero y sus compañeros emboscan a los personajes en otras partes de la ciudad más tarde.</p>"
+          "description": "<p>Un marinero extranjero borracho (@UUID[Actor.MIbGBptGOW5OSlHY]{veterano} sin armadura) está intentando provocar a gritos una pelea con tres @UUID[Actor.H6ajGPL3X6lzsQlc]{plebeyos} locales, que claramente no son rivales para el patán. Si los personajes intervienen, los agradecidos lugareños se convertirán en una fuente de información fiable sobre Puerto Nyanzaru, pero el marinero y sus compañeros de tripulación emboscarán a los aventureros más tarde en otro punto de la ciudad.</p>"
         },
         "dqQqiECuPOka2PLj": {
-          "description": "<p>Un mendigo (@UUID[Actor.H6ajGPL3X6lzsQlc]{pleader}) agarra un personaje por el brazo y grita: “¡El antiguo bajo la Ciudad Prohibida da a luz a un terrible nuevo dios! ¡Los hombres serpiente lo saben! ¡Ellos lo saben!” Luego él tropieza entre la multitud. Los transeúntes les dicen a los aventureros que ignoren al mendigo, y que sus predicciones están equivocadas la mayor parte del tiempo.</p>"
+          "description": "<p>Un mendigo (@UUID[Actor.H6ajGPL3X6lzsQlc]{plebeyo}) agarra del brazo a un personaje y grita: «¡El anciano bajo la Ciudad Prohibida da a luz a un nuevo dios terrible! ¡Los hombres serpiente lo saben! ¡Lo saben!». Luego se pierde tropezando entre la multitud. Los transeúntes les dicen a los aventureros que ignoren al mendigo, que sus profecías casi nunca aciertan.</p>"
         },
         "WEFnahMjCBzegU20": {
-          "description": "<p>Los cuernos de alarma declaran que los muertos vivientes están atacando la Garganta de Malar. Los mercenarios mantienen a los monstruos fuera de la ciudad, pero la gente está atrapada en el templo de Tymora y sitiada por [[/r 2d6]] @UUID[Actor.J6yWqkj0lotaRnTh]{zombies} y [[/r 2d6]] @UUID[Actor.pA11aGfCpX7OhuDH]{esqueletos} dirigida por un @UUID[Actor.bSM1EJptwzV1JhjA]{ghoul}. Si los personajes derrotan a los muertos vivientes, el templo los recompensa con 5 galones de @UUID[Compendium.dnd-tomb-annihilation.items.Item.toaTejMugFortBel]{tej} y a @UUID[Compendium.dnd5e.items.Item.ytlsBjYsZ7OBSEBs]{poción de curación}.</p>"
+          "description": "<p>Los cuernos alertan de que los muertos vivientes están atacando la Garganta de Malar. Los mercenarios mantienen a los monstruos fuera de la ciudad propiamente dicha, pero hay personas atrapadas en el templo de Tymora, sitiado por [[/r 2d6]] @UUID[Actor.J6yWqkj0lotaRnTh]{zombis} y [[/r 2d6]] @UUID[Actor.pA11aGfCpX7OhuDH]{esqueletos} liderados por un @UUID[Actor.bSM1EJptwzV1JhjA]{gul}. Si los personajes vencen a los muertos vivientes, el templo les recompensará con 5 galones de @UUID[Compendium.dnd-tomb-annihilation.items.Item.toaTejMugFortBel]{tej} y una @UUID[Compendium.dnd5e.items.Item.ytlsBjYsZ7OBSEBs]{poción de curación}.</p>"
         },
         "KUxEaOKBUy6X7Hic": {
-          "description": "<p>Los gritos de “¡Cuidado!” dan a un personaje una breve advertencia como un barril de agua, piedra de construcción u otro peso pesado se estrella. El carácter debe tener éxito en un [[/save dex 12 format=long]] o ser golpeado, tomando [[/damage 4d6 bludgeoning average]] daño. Cualquier personaje que tenga éxito en un [[/check perception 15 format=long]] mancha un disfraz @UUID[Actor.toaYuantiPureblo]{yuan-ti sangre pura} Escabullirse de la escena.</p>"
+          "description": "<p>Unos gritos de «¡Cuidado!» son la breve advertencia que recibe un aventurero cuando se precipita sobre él un barril de agua, una piedra de un edificio u otro objeto pesado. El personaje debe superar una [[/save dex 12 format=long]] o recibirá el impacto y sufrirá [[/damage 4d6 bludgeoning average]] de daño. Cualquier aventurero que supere una [[/check perception 15 format=long]] divisa a un @UUID[Actor.toaYuantiPureblo]{yuan-ti purasangre} disfrazado escabulléndose del lugar.</p>"
         },
         "qrpX40NcgB1m26O4": {
-          "description": "<p>A @UUID[Actor.s4zO6VOQ4fxzDNyB]{tabaxi junstrel} (ver @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{Apéndice D}) le pide a uno de los personajes una pieza de oro para que la estante por el juego, prometiendo devolverla. Si el personaje está de acuerdo, el tabaxi cumple su promesa al día siguiente, devolviendo una bolsa que contiene [[/award 10gp]].</p>"
+          "description": "<p>Una @UUID[Actor.s4zO6VOQ4fxzDNyB]{juglar tabaxi} (consulta el @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{apéndice D}) pide una pieza de oro a uno de los personajes para apostar, prometiendo devolvérsela. Si el aventurero acepta, la tabaxi cumple su promesa al día siguiente y le entrega una bolsa con [[/award 10gp]].</p>"
         },
         "iCh5g1Jh6aoHSVTz": {
-          "description": "<p>Un ladrón (@UUID[Compendium.dnd5e.monsters.Actor.13K3XK2A3wwxVKLD]{espía}) trata de recoger el bolsillo de uno de los personajes.</p>"
+          "description": "<p>Un ladrón (@UUID[Compendium.dnd5e.monsters.Actor.13K3XK2A3wwxVKLD]{espía}) intenta robarle del bolsillo a uno de los personajes.</p>"
         },
         "tKr73yDMKvQl3MM3": {
-          "description": "<p>Los caracteres se encuentran @UUID[Actor.LGOEeAdUizQZYcEy]{Volothamp \"Volo\" Geddarm} (véase el apéndice D), que está entregando una copia de su nuevo libro a uno de los príncipes mercaderes de la ciudad. Hay un 50% de probabilidades de que Volo esté borracho.</p>"
+          "description": "<p>Los aventureros se encuentran con @UUID[Actor.LGOEeAdUizQZYcEy]{Volothamp «Volo» Geddarm} (consulta el apéndice D), que está entregando una copia de su nuevo libro a uno de los príncipes mercantes de la ciudad. Hay un 50 por ciento de probabilidades de que Volo esté ebrio.</p>"
         },
         "lcp3kD5mSlb6cn1f": {
-          "description": "<p>Los personajes se encuentran con un PNJ con una búsqueda lateral (ver “@UUID[JournalEntry.toaCh1SideQuests]{Misiones paralelas}”).</p>"
+          "description": "<p>Los personajes se encuentran con un PNJ con una misión secundaria (consulta «@UUID[JournalEntry.toaCh1SideQuests]{Misiones secundarias}»).</p>"
         }
       }
     },
@@ -674,64 +674,64 @@
       }
     },
     "toaChultRumors00": {
-      "name": "Rumores de chullo",
+      "name": "Rumores de Chult",
       "results": {
         "Wxn7DjzRczcdbJRL": {
-          "description": "Los pájaros habitan un monasterio que cuelga a un lado de una meseta a muchos kilómetros del río Olung, pasando la garganta sonriente. La gente de las aves tiene al último heredero real de Chul como prisionero."
+          "description": "Hay un monasterio habitado por hombres pájaro colgado del lateral de una meseta a muchas millas río Olung arriba, pasada la Garganta Risueña. Los hombres pájaro tienen prisionera a la última heredera real de Chult."
         },
         "vfMCpkolOgB83m2U": {
-          "description": "En el corazón de la selva hay una ciudad construida por los minotauros. Ahora está invadido por gente de serpientes, pero las cosas aún peores habitan abajo. En las visiones, he visto demonios extraños gritando en la oscuridad."
+          "description": "En el corazón de la selva se encuentra una ciudad construida por minotauros. Ahora está infestada de hombres serpiente, pero bajo ella viven cosas aún peores. He tenido visiones de extraños diablos gritando en la oscuridad."
         },
         "ZuVixyWB9IZco4Zk": {
-          "description": "Si subes por el río Tiryki unos cinco días en canoa, verás una aguja de piedra al este. Los nativos lo llaman Firefinger. “Terror folk” anidan allí, y si te ven, te enfrentas a una pelea."
+          "description": "Si navegas en canoa unos cinco días río Tiryki arriba, verás una aguja de piedra al este. Los nativos la llaman Dedo de Fuego. Allí anidan los «terroráctilos» y, si te ven, te has buscado una pelea."
         },
         "ocV8pAEfF8jTnqCA": {
-          "description": "Uno debe comprar una carta de exploración en Fort Beluarian antes de emprender cualquier expedición de la selva. El Puño Ardiente castiga a los exploradores que no tienen el papeleo requerido."
+          "description": "Antes de lanzarse a una expedición a la selva es necesario comprar un permiso de exploración en Fuerte Beluarian. El Puño Ardiente castiga a los exploradores que no tienen la documentación requerida."
         },
         "ftY9dIvwTnOlXvQ7": {
-          "description": "Chul tenía muchos reyes y reinas, pero ninguno más hermoso que la reina Zalkoré. Miles de guerreros mataron y murieron por ella, pero el único monumento conmemorativo de su reinado es el palacio del jardín de Nangalore, que se encuentra cerca de la orilla oriental del río Olung, al norte del lago Luo."
+          "description": "Chult ha tenido muchos reyes y reinas, pero ninguno tan bello como la reina Zalkore. Miles de guerreros mataron y murieron por ella. A pesar de ello, el único recuerdo de su reinado es el palacio jardín de Nangalore, que se encuentra cerca de la orilla oriental del río Olung, al norte del lago Luo."
         },
         "BbaIrnAZXGHHgMY1": {
-          "description": "Chult fue una vez un patio de recreo para un dragón verde. Sus huesos marcan la ubicación de un tesoro escondido. Si viajas a Mezro y te diriges al este a través de la Garganta Sonriente, luego al sur hacia Kir Sabal, ¡podrías tropezar con los huesos del dragón y ganarte un lugar en los libros de historia!"
+          "description": "Chult fue una vez el patio de recreo de una dragona verde. Sus huesos marcan la localización de un tesoro escondido. Si viajas hacia Mezro y te diriges al este cruzando la Garganta Risueña y luego al sur, en dirección a Kir Sabal, ¡quizá te encuentres con los huesos de la dragona y te hagas un hueco en los libros de historia!"
         },
         "GghpwD3Tcv5xU4RV": {
-          "description": "Después de todo, la ciudad de Mezro no fue destruida durante la plaga de conjuros. Sus ruinas son una ilusión. Oí a un hombre de piel pálida susurrarle esto a un hombre dinosaurio con una espada grande. El hombre dinosaurio olía a madreselva."
+          "description": "En realidad, la ciudad de Mezro no fue destruida durante la Plaga de Conjuros. Sus ruinas son una ilusión. Se lo oí susurrar a un hombre de piel pálida que hablaba con un hombre dinosaurio con una gran espada. El hombre dinosaurio olía a madreselva."
         },
         "cMIUmUvtWdRr0w1U": {
-          "description": "Los enanos están decididos a reclamar la mina Wyrmheart, pero un dragón rojo vive allí ahora. Hace tiempo que no veo a uno de ellos."
+          "description": "Los enanos están decididos a recuperar la Mina Wyrmheart, pero ahora vive ahí un dragón rojo. Hace tiempo que no veo a ninguno de ellos."
         },
         "r9WdsZn3GAEDA6qw": {
-          "description": "La selva está llena de espíritus de la naturaleza... raras criaturas elementales con máscaras. Ellos no hablan, y nunca he sabido que uno sea dañino, pero sus poderes mágicos no deben tomarse a la ligera."
+          "description": "La selva está llena de espíritus de la naturaleza, extrañas criaturitas elementales con máscaras. No hablan y nunca he tenido noticia de que ninguno sea dañino, pero sus poderes mágicos no se deberían tomar a la ligera."
         },
         "l3e9547eh0qqPtrD": {
-          "description": "Algunos habitantes de la ciudad esperaban la llegada de una aeronave Halruaan llamada la Diosa Estelar. Nunca llegó. Apuesto a que se estrelló en alguna parte de la selva."
+          "description": "En la ciudad había algunas personas que esperaban la llegada de una aeronave halruaana llamada Diosa Estelar. Nunca llegó. Apuesto a que se ha estrellado en algún lugar de la selva."
         },
         "9kCbz7Y389DVBGWM": {
-          "description": "Hay tortugas gigantes en Snapping Turtle Bay. Uno de ellos es tan grande como una casa. Es conocido como el rey Toba, y su caparazón tiene piedras preciosas incrustadas en él."
+          "description": "En la Bahía Tortuga Mordedora hay tortugas mordedoras gigantes. Una de ellas es tan grande como una casa. Se la conoce como Rey Toba y tiene piedras preciosas incrustadas en el caparazón."
         },
         "FEUPW50kngxXl8sG": {
-          "description": "La Orden del Guantelete vino aquí para limpiar la selva de no-muertos. Perdieron uno de sus campamentos no hace mucho. Apenas se aferran a otro. Veo a sus emisarios todo el tiempo, subiendo por el río Soshenstar en canoas para conseguir más suministros y templarios de Port Nyanzaru."
+          "description": "La Orden del Guantelete vino aquí a limpiar la selva de muertos vivientes. Hace no demasiado perdieron uno de sus campamentos y apenas logran mantener otro que todavía tienen. Veo a sus emisarios todo el rato, yendo río Soshenstar arriba en canoa para conseguir más provisiones y templarios de Puerto Nyanzaru."
         },
         "WzCW1JiOFN8CBQwo": {
-          "description": "Cuidado con cualquier niebla con un tinte azul. Contagia una fiebre que causa alucinaciones mágicas."
+          "description": "Mantente alerta si ves una bruma con un matiz azul. Extiende una fiebre que causa alucinaciones mágicas."
         },
         "jdbux46R6RNm51dK": {
-          "description": "Una tortuga dragón llamada Aremag vive en la Bahía de Chul. Si deseas zarpar desde Port Nyanzaru, necesitarás un tesoro para apaciguar al monstruo codicioso. Cuánto tesoro, no puedo decir. Aremag le dirá lo que quiere, y lo mejor es darle lo que exige."
+          "description": "Un dragón tortuga llamado Aremag vive en la Bahía de Chult. Si pretendes hacerte a la mar desde Puerto Nyanzaru, necesitarás tesoros para aplacar al codicioso monstruo. Cuántos tesoros, no te sé decir. Aremag te indicará lo que quiere y más te vale darle lo que pide."
         },
         "JyLCBh489Ypps5FN": {
-          "description": "Una ciudad arruinada se encuentra en el río Tath, pasando el desfiladero Kahakla. Supuestamente, nadie ha explorado el desfiladero, pero eso no es cierto. Es sólo que los pocos que lo lograron vivo en su mayoría se mantienen callados acerca de lo que encontraron allí. Tengo bajo buena autoridad que las ruinas están custodiadas por un naga que es sabio y generoso."
+          "description": "Hay una ciudad en ruinas río Tath arriba, pasada la Garganta Kahakla. Supuestamente, nadie ha explorado más allá de la garganta, pero no es cierto. Lo que pasa es que los pocos que han conseguido salir vivos suelen guardar silencio sobre lo que han encontrado allí. Sé de buena tinta que las ruinas están custodiadas por una naga sabia y generosa."
         },
         "24BQz2YwUFJgMVNv": {
-          "description": "El gran dios Ubtao guió una vez al pueblo de Chul, esté cansado de su constante lucha y los abandonó. Desde entonces, los chultanes han recurrido a la adoración de otros dioses, algunos de los cuales eran engañadores y engañadores."
+          "description": "Hubo un tiempo en el que el gran dios Ubtao guiaba a la gente de Chult, pero se cansó de sus constantes guerras y los abandonó. Desde entonces, los chultanos han vuelto su fe a otras deidades, algunas de las cuales son embaucadoras y embusteras."
         },
         "f2qIvCirLziaiV8F": {
-          "description": "Hace mucho tiempo, una pacífica tribu de pescadores llamada Aldani enfureció a Ubtao capturando y comiendo todas las langostas en un río. Como castigo por su codicia, todos ellos fueron transformados en monstruos que habitan en la cuenca de Aldani."
+          "description": "Hace mucho tiempo, una pacífica tribu de pescadores llamada aldani desató la ira de Ubtao al capturar y comerse todas las langostas de un río. Como castigo por su codicia, todos fueron transformados en monstruos que habitan en la cuenca Aldani."
         },
         "6zzuMAWUSuGC7am9": {
-          "description": "Encaramado sobre una meseta con vistas a la cuenca de Aldani es un pueblo fantasma. Toda la gente desapareció allí. Nadie sabe por qué. Se puede llegar a la cuenca de Aldani siguiendo el río Soshenstar."
+          "description": "Hay una aldea fantasma encaramada encima de una meseta que domina la cuenca Aldani. Todos los que se encontraban allí desaparecieron. Nadie sabe por qué. A la cuenca Aldani se puede llegar siguiendo el río Soshenstar."
         },
         "VONiTgKZkmv8Zt6W": {
-          "description": "El gran dios Ubtao amaba los laberintos. Si te encuentras en un laberinto de cualquier tipo, traza un camino a través de él. Usted ganará el favor de Ubtao al hacerlo."
+          "description": "Al gran dios Ubtao le encantaban los laberintos. Si por casualidad encuentras un laberinto de cualquier tipo, traza un camino a través de él. Con eso conseguirás el favor de Ubtao."
         }
       }
     },
