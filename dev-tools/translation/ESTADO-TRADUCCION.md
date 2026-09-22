@@ -367,10 +367,10 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 ## Balance de revisión editorial
 
 - 203 páginas de texto revisadas: seis de la introducción, cien de los cuatro
-  diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje y ochenta y
-  cinco de localizaciones del capítulo 2. No equivale a 203 páginas del PDF.
-- 496 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 496 campos distintos.
+  diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje y noventa y
+  dos de localizaciones del capítulo 2. No equivale a 203 páginas del PDF.
+- 510 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 510 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
