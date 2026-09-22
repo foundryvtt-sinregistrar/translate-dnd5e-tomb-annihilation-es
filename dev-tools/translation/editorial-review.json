@@ -7422,6 +7422,437 @@
           "status": "reviewed-against-es-extraction-and-en-export"
         }
       ]
+    },
+    {
+      "id": "ch2-wyrmheart-01",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaWyrmheartMine.pages.CKpFwrsS4h0qR8YN.text",
+          "sourceSha256": "825ca2ed5007becec00975918c50883bba1879a322697550b4371b21a8ade75b",
+          "translationSha256": "69404f4efd6be32c017c9dbff1460b2615e2701aae6d4b886cdd6936ea53c19c",
+          "pdfEsPages": [
+            77
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaWyrmheartMine.pages.CKpFwrsS4h0qR8YN.name",
+          "sourceSha256": "966da5fcb4085c9f7f98b2cd59f33162ae219e261b481e02a22ab2090764c632",
+          "translationSha256": "41afa574d17c6e6c38f8293f39a8e5c3cd42a24185158fc133f86ee32778b5a5",
+          "pdfEsPages": [
+            77
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-wyrmheart-02",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaWyrmheartMine.pages.GVdQXgwH567pfPJi.text",
+          "sourceSha256": "56a6875e95be1f3a414d28d756763ab6a3dde53effd29d5fa3933c101828c272",
+          "translationSha256": "e86c575b7340db731a352c374c0099a7f22fc4412ae07224270ee9b0e360e4e0",
+          "pdfEsPages": [
+            77
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaWyrmheartMine.pages.GVdQXgwH567pfPJi.name",
+          "sourceSha256": "9e380d9991e6b74209424e3476f284b459effef9b0ccf6d9f3f8acdbde004c9d",
+          "translationSha256": "3f4aef73e9b921c7257663646b4ead139e664652a8754cf1e8208b9f1f1e8737",
+          "pdfEsPages": [
+            77
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-wyrmheart-03",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaWyrmheartMine.pages.XKXF72Ma8oSE7VW1.text",
+          "sourceSha256": "dd7348f2c070169ac383f424c42ee6b0cc0dd2a71ff298e43ef2a5a95f8c793b",
+          "translationSha256": "28c6a8ec708bf29e15e1fee5114db4daabf17c69ba750153a00aa73caef4510d",
+          "pdfEsPages": [
+            77
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaWyrmheartMine.pages.XKXF72Ma8oSE7VW1.name",
+          "sourceSha256": "4475bdd52ae233f744fa3e96856b12c1ed3c94dbc8b733bc3658cc8620d30193",
+          "translationSha256": "74a77b92bf9993ca603d231192619ca71333320b8f347b0d32d0d3cfd1a1a91d",
+          "pdfEsPages": [
+            77
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-wyrmheart-04",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaWyrmheartMine.pages.3F0D4bSzSbDxBxw7.text",
+          "sourceSha256": "66b7e6482f76bfb533fa7033bb8f86092c7f7dd8e7191ee33ac37b15e3d3a952",
+          "translationSha256": "d7212a34ad35190338e08f591bc88a1162b30a0e13b08c980f0fd98929dd10c5",
+          "pdfEsPages": [
+            77
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaWyrmheartMine.pages.3F0D4bSzSbDxBxw7.name",
+          "sourceSha256": "f2eac2123cdabd21c31238f7df48bcb507958899be7f1138352975c0a55aa707",
+          "translationSha256": "252fb2641b96d3773bd7c01ffdac284421d7db8d724a3d3a889bda816d1d537e",
+          "pdfEsPages": [
+            77
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-wyrmheart-05",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaWyrmheartMine.pages.AvAU8cZw3XqnEsiN.text",
+          "sourceSha256": "a692cb3626b2712a484e895fef40a91e7d0186f33502aac0c15ccfffabfbd04d",
+          "translationSha256": "cce38956544bb48be24bc7e5ee8f84ffc045aefe47d40b944a0607b52e284df7",
+          "pdfEsPages": [
+            77
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaWyrmheartMine.pages.AvAU8cZw3XqnEsiN.name",
+          "sourceSha256": "861da863fc2ce9feefa109ddd19e1fe3e57caa1ddb4e62eac2d54777dcc6bafa",
+          "translationSha256": "7d193248c7f331d553906fdcf98bc03c7d330f40e24ad655fc7e9274cd0eddda",
+          "pdfEsPages": [
+            77
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-wyrmheart-06",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaWyrmheartMine.pages.ecxiqz6yENk35atj.text",
+          "sourceSha256": "52b49519e51506ee7355a53375a3c99962a879d7f41ad7369652343c75d8b946",
+          "translationSha256": "19c92c0774d29815d41c05dd07421a5fe4a259787fc006329b9cedf864ad62f9",
+          "pdfEsPages": [
+            77,
+            78
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaWyrmheartMine.pages.ecxiqz6yENk35atj.name",
+          "sourceSha256": "5a3af568fc609b699d94fb2653633c2063ca53dc6b0ab850c557f5d359bdd49c",
+          "translationSha256": "2e5f495ea91808e823944b5a532ddcd33dbe644009305789be955bfe723ca369",
+          "pdfEsPages": [
+            77,
+            78
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-wyrmheart-07",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaWyrmheartMine.pages.h76mbVRhQ2ofuOJW.text",
+          "sourceSha256": "d3bcc9b7f12ee050bcf420cf6c84daa509e6e74885d0f33ab9e8a0c7b61974a2",
+          "translationSha256": "575a7e126e3d4f492348908f5bb597639232f2ae65f4e8261758c63297dbdb78",
+          "pdfEsPages": [
+            78
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaWyrmheartMine.pages.h76mbVRhQ2ofuOJW.name",
+          "sourceSha256": "bb1f515802c8728dc842cbda8781a589df3914490b3e938173586db1795f0146",
+          "translationSha256": "472be4d6f170d9ab7d717645a5283ba7c4ff7b10cb9a946a12d928dc8e1c11c4",
+          "pdfEsPages": [
+            78
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-wyrmheart-08",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaWyrmheartMine.pages.GjTollHpcOyylzD4.text",
+          "sourceSha256": "75e08f4ff3cf4b3d7461ef44da63842b2002f3f8761ac1c679f7837defb2f50f",
+          "translationSha256": "0746ec4f9d235da021cad495947340027077fb0cdb8da7c81ac3be40b62ece4c",
+          "pdfEsPages": [
+            78
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaWyrmheartMine.pages.GjTollHpcOyylzD4.name",
+          "sourceSha256": "2b62d4058a14abf11856765ae5e4f6fe0256d53bb4b1fad97f932d95e80980bb",
+          "translationSha256": "6cfab0df73697b343eaa4409a1d008cca49120eb861418efc0b0bef5cd84855b",
+          "pdfEsPages": [
+            78
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-wyrmheart-09",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaWyrmheartMine.pages.DCIskvIzYT3GK36y.text",
+          "sourceSha256": "f67660b5eb599301777afc5587ae2c818f4591f83615e453e26b3a2701c168d6",
+          "translationSha256": "388da1df1186eabe86984de5fd1ec0098ba3dcdfc1dedccfba3b3c2ce3c63c70",
+          "pdfEsPages": [
+            78,
+            79
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaWyrmheartMine.pages.DCIskvIzYT3GK36y.name",
+          "sourceSha256": "77a531ecb1a33daf88a2496c13168df1ef81a47d7f8f74520db55b70a55bd34e",
+          "translationSha256": "3f043f0d10625cce4f16bb2991e9ddd868da4a4e8e0ed4f6769284048e818124",
+          "pdfEsPages": [
+            78,
+            79
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-wyrmheart-10",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaWyrmheartMine.pages.zGC3MXJ06aAdNuqw.text",
+          "sourceSha256": "c3aefc916c120d9d6f4c5e2abff99967327dff9efa82f487bf76f8dda726b941",
+          "translationSha256": "0b56ef630d37ad9a6b05bfe8cf6d9a6550ec4c23401ebe73874776cae91b7dcf",
+          "pdfEsPages": [
+            79
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaWyrmheartMine.pages.zGC3MXJ06aAdNuqw.name",
+          "sourceSha256": "ac24fe84a0aa135afcc44f553b4557713345e617e86e5b9c7292b3996187fde3",
+          "translationSha256": "90bfa6a44644fb8e237cfb574fcd6d4191678b4154b8be6e6107fc1ebc70e3cb",
+          "pdfEsPages": [
+            79
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-wyrmheart-11",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaWyrmheartMine.pages.iJG39VTEfszHpxXt.text",
+          "sourceSha256": "09c805f32eeaf4366831281e65462b79de055ba4acff84ca69d60f12fb4b415c",
+          "translationSha256": "511aea6d08e62be1a6e970504c971dbf7b08c2a8550a9b7363d0358a6820e8ef",
+          "pdfEsPages": [
+            79
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaWyrmheartMine.pages.iJG39VTEfszHpxXt.name",
+          "sourceSha256": "1ca52a8a926865fc443ec7f0eb4236e1da0f5729552cd83a32997ad131e5d728",
+          "translationSha256": "ac9ef0dacdc18dd77e0280c7181d030303dfb85dae58e9bae7960e25e37b5a4b",
+          "pdfEsPages": [
+            79
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-wyrmheart-12",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaWyrmheartMine.pages.5ncjRPrTIX2tLFj1.text",
+          "sourceSha256": "ae674ddb57fbc6a28ddfbb5cb3a4a50900ec68547fa437462a621edf0aab7cf1",
+          "translationSha256": "49a4473c47102436272a5ee2c74ba3c200721d672ac28139adf6a2585ea88a37",
+          "pdfEsPages": [
+            79
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaWyrmheartMine.pages.5ncjRPrTIX2tLFj1.name",
+          "sourceSha256": "25d3e16e3127ee38185a3eba38a5157267988552bb2e03fd66d84335cbae2b49",
+          "translationSha256": "43def2007bbdeedc75b037e84970b9be1d64322173c848d9435fa6c7be80ce70",
+          "pdfEsPages": [
+            79
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-wyrmheart-13",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaWyrmheartMine.pages.iSV8S1NcughbSz4L.text",
+          "sourceSha256": "c1a7b4bda0b015bb075422a8f801b237812b2af2e539dca934477b3652879cbb",
+          "translationSha256": "eebc3c24d43e6585ecb32afb397f1906bf63f686d62c11eff7c8b0618a81ab43",
+          "pdfEsPages": [
+            79
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaWyrmheartMine.pages.iSV8S1NcughbSz4L.name",
+          "sourceSha256": "12404c60a6e5e957bca49b951aca9d9ca3ff2948cc3323bb606f5cda195e8e4b",
+          "translationSha256": "06cf0d8fe68661b06c60d3bc97030b3ac111e942c60d7efb703d91696d716281",
+          "pdfEsPages": [
+            79
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-wyrmheart-14",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaWyrmheartMine.pages.piqLr8P6F3FzSEIM.text",
+          "sourceSha256": "f70800f3285c22c18ad617cea7f85b5f935dcc714339199f41354339724e01ce",
+          "translationSha256": "33ea4840207aa70d2f9355a17331201c37f8b582e633b5c52e87e2c0f0bbfaa7",
+          "pdfEsPages": [
+            79
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaWyrmheartMine.pages.piqLr8P6F3FzSEIM.name",
+          "sourceSha256": "ed873fa2fdb5e7237667825fce722adbada24979fe54374afb6acc14abf14897",
+          "translationSha256": "cb2cc26df80a73fde3a327c088a65f06f332dd14589438922a210ea9b5dafa66",
+          "pdfEsPages": [
+            79
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-wyrmheart-15",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaWyrmheartMine.pages.uaVEqEv24rIyRLss.text",
+          "sourceSha256": "8e0817c0c6cd6c81d5f54e4835f8a15add68cfcb928697b3d75f31c60b608c19",
+          "translationSha256": "e4924474e1670ce1c065dca30882e08a2a4db03522ba286c39ad8e5dd25ad4bc",
+          "pdfEsPages": [
+            79,
+            80
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaWyrmheartMine.pages.uaVEqEv24rIyRLss.name",
+          "sourceSha256": "ff36d0988fd0e5667fa26b73214c73af49e187337805f44451120c26300b2f54",
+          "translationSha256": "3c7dc68452128b8f8a046b3f410f7a023e108a23a3069b898f0525f816676369",
+          "pdfEsPages": [
+            79,
+            80
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-wyrmheart-16",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaWyrmheartMine.pages.z9koSsKtmHcoo7bj.text",
+          "sourceSha256": "b93a46f006eec9d1a0c86340d59f3fb2d6bca1035191ab2b5bfb987c96919fdf",
+          "translationSha256": "afc9ae372f04f74b3f7ee8a8aa07a26be8f8abbd0a8c14f176c17bf6e3f054e8",
+          "pdfEsPages": [
+            80
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaWyrmheartMine.pages.z9koSsKtmHcoo7bj.name",
+          "sourceSha256": "a9371d7698dc8681f4c5cc50978c54e1f38fd12d6e7e2362f01da8bda65b82a0",
+          "translationSha256": "a0d7c83c4e0f884af5b60f33f7681ec623324d4003085eaa049c1ac2a01387bd",
+          "pdfEsPages": [
+            80
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-wyrmheart-17",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaWyrmheartMine.pages.8UPD1ULkBPRyRkqq.text",
+          "sourceSha256": "81be924d0ce199930c68ab5c5de8d68ea34cf9a87e819ebc1ad975622979cef5",
+          "translationSha256": "4d8257f56ab47ab7db737e9bfc3785c506b042f4703ee4604f975cf1da5d0b40",
+          "pdfEsPages": [
+            78
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaWyrmheartMine.pages.8UPD1ULkBPRyRkqq.name",
+          "sourceSha256": "7c0a0f9e003effc14fd70a184474b0cb571063820a242bf042e4857a02648ba6",
+          "translationSha256": "0e5e199b72574c418712add9ac59e895087fd34ee60bf1dde2bb0eba02664752",
+          "pdfEsPages": [
+            78
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
     }
   ]
 }

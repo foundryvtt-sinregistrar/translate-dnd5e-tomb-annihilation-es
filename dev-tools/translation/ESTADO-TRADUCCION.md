@@ -468,13 +468,30 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Auditorías técnica y editorial sin errores. Las macros no se han probado
   en una sesión de juego y las fichas insertadas no se consideran revisadas.
 
+### ch2-wyrmheart-01 a ch2-wyrmheart-17 — Mina Wyrmheart
+
+- Revisados los diecisiete textos y títulos con referencias físicas 77-80:
+  entrada, vagonetas, kobolds, trampas, audiencias y guarida de Yesca.
+- Corregidas según el inglés la huida ascendente de los urds y la desventaja
+  de Yesca en Percepción por la cascada. La ventaja para quienes se esconden
+  depende de quedar fuera de la vista desde la guarida, no de estar dentro.
+- Aclarado que la cantidad aleatoria de equipo del tesoro corresponde a cada
+  tipo de objeto, no a cada caja. Se conservan el mapa 2.14 y las reglas de
+  caída, frenado, daños, CA y efectos de las trampas de Foundry.
+- Traducidas las instrucciones de la región y la macro del tronco oculto.
+  Incidencia original: los comentarios de las tiradas de frenos y del tronco
+  dicen «on a result of 1» o «on a 1», pese a usar d100 con umbrales 10 o 50.
+  Comandos conservados; discrepancia pendiente de la validación técnica.
+- Auditorías técnica y editorial sin errores; no se ha probado la escena
+  ni se acredita la revisión de los actores o los objetos enlazados.
+
 ## Balance de revisión editorial
 
-- 259 páginas de texto revisadas: seis de la introducción, cien de los cuatro
-  diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje y 141 de
-  localizaciones del capítulo 2. No equivale a 259 páginas del PDF.
-- 608 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 608 campos distintos.
+- 276 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+  diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje y 158 de
+  localizaciones del capítulo 2. No equivale a 276 páginas del PDF.
+- 642 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 642 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
@@ -482,8 +499,7 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Auditorías estáticas y editorial sin errores. No se han renovado las
   instantáneas de Babele ni realizado una importación completa de Adventure.
 - **La revisión del módulo continúa incompleta.** Continúa el capítulo 2 con
-  Kir Sabal y Nangalore,
-  además del diario de Mina Wyrmheart.
+  Kir Sabal y Nangalore. También queda por revisar el índice de localizaciones.
 - El informe v2 final solicitado queda pendiente hasta cerrar toda la revisión;
   este estado de avance no acredita una revisión completa ni la sustituye.
 
