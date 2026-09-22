@@ -705,14 +705,29 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   con el encabezado español. Los perfiles enlazados no quedan acreditados.
 - Auditorías técnica y editorial sin errores.
 
+### ch4-ras-nsi-01 a ch4-ras-nsi-04 — Fano, harén y Ras Nsi
+
+- Revisados cuatro textos y títulos con referencias físicas 120-122.
+- Corregido «skeleton crew»: queda una guardia mínima durante los rituales,
+  no una patrulla de esqueletos. El ritual conserva sus efectos actuales,
+  sin añadir la locura indefinida del PDF.
+- El harén contiene una docena, no docenas. Los candelabros valen 75 po cada
+  uno; las amatistas de Ras Nsi, 100 po cada una. Diferenciadas sus monedas
+  de platino y plata. Acererak usó a los habitantes para construir la tumba.
+- Conservados el desgaste de los escudos, las condiciones de traición del
+  doppelganger y los atributos adquiridos durante el ritual.
+- Los fragmentos `#yuan-ti-rituals` y `#teleporters` siguen pendientes de
+  validación de navegación; las capacidades insertadas mantienen su revisión aparte.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 465 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 469 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
-  localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 23
-  del capítulo 4. No equivale a 465 páginas del PDF.
-- 1040 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1040 campos distintos.
+  localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 27
+  del capítulo 4. No equivale a 469 páginas del PDF.
+- 1048 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1048 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
