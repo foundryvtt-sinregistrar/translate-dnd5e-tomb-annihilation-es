@@ -587,14 +587,29 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   `Jw1lIRKd64l8qcab`; queda pendiente de validación en Foundry.
 - Auditorías técnica y editorial sin errores.
 
+### ch3-unkh-ijin-01 a ch3-unkh-ijin-11 — Árbol caído, Unkh e I’jin
+
+- Revisados once textos y títulos con referencias físicas 103-105, incluido
+  el campamento de la Compañía del Estandarte Amarillo.
+- Normalizado Ombligo de la Luna frente al «Anillo» de este pasaje del PDF,
+  conforme al nombre usado en el capítulo 5. El objeto enlazado sigue pendiente.
+- Aclarado que forzar mal la cerradura de Unkh activa la trampa al fallar por
+  cinco o más; conservados el cuarto de vuelta y la superposición de llaves.
+- Incidencia original: el suelo de I’jin mide 20 por 10 pies, pero sus treinta
+  y dos losas de 5 pies de lado se distribuyen en ocho filas de cuatro.
+  Se conservan las medidas del exportado; requieren cotejo con el mapa.
+- El enlace de activar escena de Unkh apunta a `IaBosPPOjDC1pvv7`, la propia
+  página del santuario; pendiente de validación de navegación.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 403 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 414 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
-  localizaciones del capítulo 2, 49 de su índice y 49 del capítulo 3.
-  No equivale a 403 páginas del PDF.
-- 896 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 896 campos distintos.
+  localizaciones del capítulo 2, 49 de su índice y 60 del capítulo 3.
+  No equivale a 414 páginas del PDF.
+- 918 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 918 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
