@@ -406,13 +406,23 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   la tirada de encuentro, el parentesco de Bwayes y la hostilidad condicional.
 - Auditorías técnica y editorial sin errores.
 
+### ch2-mbala-01 a ch2-mbala-05 — Mbala
+
+- Revisados los cinco textos y sus títulos contra el inglés y las páginas
+  físicas 74-76 del PDF español: acceso, Yaya Pu’pu, ritual, tesoro y nido.
+- Corregidos el ascenso en zigzag, los cien pies hasta el borde superior,
+  la tumba del gólem fuera de la choza y la daga plateada del tesoro.
+- Aclarados el espíritu que imita al fallecido y el deterioro irreversible
+  del cuerpo. Se mantienen las reglas, cifras, UUID y estructura de Foundry.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 223 páginas de texto revisadas: seis de la introducción, cien de los cuatro
-  diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje y 105 de
-  localizaciones del capítulo 2. No equivale a 223 páginas del PDF.
-- 536 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 536 campos distintos.
+- 228 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+  diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje y 110 de
+  localizaciones del capítulo 2. No equivale a 228 páginas del PDF.
+- 546 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 546 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
@@ -420,7 +430,7 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Auditorías estáticas y editorial sin errores. No se han renovado las
   instantáneas de Babele ni realizado una importación completa de Adventure.
 - **La revisión del módulo continúa incompleta.** Continúa el capítulo 2 con
-  Hrakhamar, Fondeadero de Jahaka, Kir Sabal, Mbala, Nangalore,
+  Hrakhamar, Fondeadero de Jahaka, Kir Sabal, Nangalore,
   Orolunga, además de los diarios de Mina
   Wyrmheart y Diosa Estelar.
 - El informe v2 final solicitado queda pendiente hasta cerrar toda la revisión;
