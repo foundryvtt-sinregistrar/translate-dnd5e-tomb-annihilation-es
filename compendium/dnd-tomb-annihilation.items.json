@@ -1,0 +1,23 @@
+{
+  "label": "Objetos",
+  "mapping": {
+    "description": "system.description.value",
+    "activities": {
+      "path": "system.activities",
+      "converter": "toaActivitiesById"
+    },
+    "effects": {
+      "path": "effects",
+      "converter": "toaEffectsById"
+    },
+    "advancement": {
+      "path": "system.advancement",
+      "converter": "toaAdvancementById"
+    },
+    "descriptionChat": "system.description.chat",
+    "unidentifiedDescription": "system.unidentified.description",
+    "requirements": "system.requirements"
+  },
+  "folders": {},
+  "entries": {}
+}

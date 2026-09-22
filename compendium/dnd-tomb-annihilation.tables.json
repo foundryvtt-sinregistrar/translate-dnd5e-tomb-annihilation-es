@@ -1,0 +1,12 @@
+{
+  "label": "Tablas",
+  "mapping": {
+    "description": "description",
+    "results": {
+      "path": "results",
+      "converter": "toaTableResultsById"
+    }
+  },
+  "folders": {},
+  "entries": {}
+}

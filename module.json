@@ -1,0 +1,54 @@
+{
+  "id": "translate-dnd5e-tomb-annihilation-es",
+  "title": "Translation: DnD5e Tomb of Annihilation - Spanish Translation (Babele)",
+  "description": "Esqueleto para la traducción al español de La tumba de la aniquilación mediante Babele. Sin entradas traducidas; pendiente de validación en Foundry.",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "14.368",
+    "verified": "14.368"
+  },
+  "languages": [
+    {
+      "lang": "es",
+      "name": "Español",
+      "path": "lang/es.json"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "6.0.3",
+          "verified": "6.0.3"
+        }
+      }
+    ],
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {
+          "minimum": "2.9.1"
+        }
+      },
+      {
+        "id": "dnd-tomb-annihilation",
+        "type": "module",
+        "compatibility": {
+          "minimum": "2.0.0"
+        }
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/converters.js",
+    "scripts/babele-register.js"
+  ],
+  "authors": [
+    {
+      "name": "foundryvtt-sinregistrar"
+    }
+  ]
+}

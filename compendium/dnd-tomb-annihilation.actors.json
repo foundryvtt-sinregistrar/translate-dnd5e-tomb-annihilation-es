@@ -1,0 +1,23 @@
+{
+  "label": "Actores",
+  "mapping": {
+    "biography": "system.details.biography.value",
+    "tokenName": "prototypeToken.name",
+    "items": {
+      "path": "items",
+      "converter": "toaActorItemsById"
+    },
+    "effects": {
+      "path": "effects",
+      "converter": "toaEffectsById"
+    },
+    "alignment": "system.details.alignment",
+    "creatureType": "system.details.type.custom",
+    "creatureSubtype": "system.details.type.subtype",
+    "languages": "system.traits.languages.custom",
+    "senses": "system.attributes.senses.special",
+    "biographyPublic": "system.details.biography.public"
+  },
+  "folders": {},
+  "entries": {}
+}
