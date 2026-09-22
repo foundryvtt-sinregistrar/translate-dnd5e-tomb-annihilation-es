@@ -322,13 +322,24 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Auditorías técnica y editorial sin errores; no se han revisado aún las fichas
   de los grungs ni las imágenes insertadas.
 
+### ch2-firefinger-01 a ch2-firefinger-06 — El Caldero y Dedo de Fuego
+
+- Revisados El Caldero y las cinco páginas de Dedo de Fuego con referencias
+  físicas 53-55 y 58: aproximación, escalada, cuevas, Nephyr, pináculo y tesoros.
+- Se aclaran la prueba de grupo y las condiciones de detección, caída y daño.
+  La cima mide unos 40 pies de lado, según el inglés, no 40 pies cuadrados.
+- Se conserva la identidad femenina de la exploradora de la cueva de estirges,
+  la escalera hacia el tercer nivel omitida en el PDF y las recompensas de Nephyr.
+- Auditorías técnica y editorial sin errores; comentario interno de la tirada
+  de viento conservado en inglés. No incluye las fichas ni el mapa.
+
 ## Balance de revisión editorial
 
-- 155 páginas de texto revisadas: seis de la introducción, cien de los cuatro
-  diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje y treinta y
-  siete de localizaciones del capítulo 2. No equivale a 155 páginas del PDF.
-- 400 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 400 campos distintos.
+- 161 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+  diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje y cuarenta y
+  tres de localizaciones del capítulo 2. No equivale a 161 páginas del PDF.
+- 412 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 412 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
