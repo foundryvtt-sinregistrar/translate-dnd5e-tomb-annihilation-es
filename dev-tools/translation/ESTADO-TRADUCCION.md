@@ -616,14 +616,27 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   veinte pies cuadrados del PDF. Conservada la detección probabilística de trampas.
 - Auditorías técnica y editorial sin errores.
 
+### ch3-papazotl-nangnang-01 a ch3-papazotl-nangnang-10 — Últimos santuarios orientales
+
+- Revisados diez textos y títulos con referencias físicas 108-110, incluida
+  la visión de Acererak junto a la cascada.
+- El acertijo de Papazotl usa los seis versos españoles y la solución
+  «tapar ojos». **Pendiente funcional:** adaptar y comprobar conjuntamente
+  las ayudas 15 y 16 y su cuadrícula; revisar el texto no acredita que la
+  cuadrícula original inglesa funcione con estos versos.
+- Aclaradas la llegada de refuerzos grung y la apertura de Nangnang: solo
+  una criatura dentro del santuario puede llevar sus falsos tesoros.
+- La instrucción de activar Nangnang carece de enlace en el exportado.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 422 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 432 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
-  localizaciones del capítulo 2, 49 de su índice y 68 del capítulo 3.
-  No equivale a 422 páginas del PDF.
-- 934 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 934 campos distintos.
+  localizaciones del capítulo 2, 49 de su índice y 78 del capítulo 3.
+  No equivale a 432 páginas del PDF.
+- 954 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 954 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
