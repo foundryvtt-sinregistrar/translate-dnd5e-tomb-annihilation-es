@@ -64,6 +64,15 @@ términos generales; no todas sus entradas son citas del libro.
 | Grand Souk | Gran Zoco | 21 |
 | Fort Nyanzaru | Fortín de Nyanzaru | 23 |
 | Ortimay Swift and Dark | Ortimay Oscura y Veloz | 22 |
+| Blue Mist Fever | Fiebre de la bruma azul | 41, con reglas distintas en Foundry |
+| Shivering Sickness | Mal de los temblores | 41 |
+| Throat Leeches | Sanguijuelas de la garganta | 41 |
+
+«Fiebre de la bruma azul» corresponde a la versión inglesa de Foundry, que
+reemplaza la «Fiebre del mono loco» del PDF por alucinaciones de monos azules
+y salvaciones cada 24 horas. Se conserva esa diferencia mecánica. Para las
+sanguijuelas se sigue el inglés: una salvación fallida aumenta el cansancio;
+una exitosa lo reduce. El PDF español invierte ambas consecuencias.
 
 En los contextos narrativos revisados, «Skullbash» es el nombre de la maza de
 Musharib («Partecráneos»), y «Weed» es el apodo de Kupalue («Hierbajo»). Las

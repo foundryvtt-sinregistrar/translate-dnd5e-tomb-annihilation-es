@@ -254,12 +254,28 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   atributos y acciones de los actores que pueden aparecer en estos encuentros.
 - Auditorías técnica y editorial sin errores.
 
+### ch2-travel-01 a ch2-travel-12 — Viaje por las tierras de Chult
+
+- Revisados los doce títulos y textos de `toaCh2TheLandOfC`: preparación,
+  distancias, orientación, deshidratación, enfermedades, Artus y Dragonbait,
+  encuentros y territorios de muertos vivientes. Referencias físicas 38-39 y 41-42.
+- Conservados los ritmos, bonificadores y penalizaciones, las salvaciones,
+  condiciones de recuperación y funciones propias de Foundry.
+- `Blue Mist Fever` se traduce como «Fiebre de la bruma azul»: el original de
+  Foundry tiene alucinaciones de monos azules y salvaciones cada 24 horas, en
+  lugar de las reglas de locura de «Fiebre del mono loco» del PDF español.
+- Para las sanguijuelas, fallar la salvación aumenta el cansancio y superarla
+  lo reduce. Se corrige la inversión que contiene el PDF español según el inglés.
+- Auditorías técnica y editorial sin errores. El arte y mapa insertados no se
+  han modificado ni se consideran revisados por esta revisión del texto.
+
 ## Balance de revisión editorial
 
-- 106 páginas de texto revisadas: seis de la introducción y cien de los cuatro
-  diarios del capítulo 1 (38 + 11 + 19 + 32). No equivale a 106 páginas del PDF.
-- 292 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 292 campos distintos.
+- 118 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+  diarios del capítulo 1 (38 + 11 + 19 + 32) y doce de reglas de viaje del
+  capítulo 2. No equivale a 118 páginas del PDF.
+- 316 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 316 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
