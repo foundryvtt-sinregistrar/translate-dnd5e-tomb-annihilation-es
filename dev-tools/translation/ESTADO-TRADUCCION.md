@@ -383,13 +383,26 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Ambos bloques pasan las auditorías técnica y editorial. Las fichas e imágenes
   no se consideran revisadas por la revisión de estos diarios.
 
+### ch2-yellyark-01 a ch2-yellyark-07 — Yellyark
+
+- Revisadas las siete páginas y sus títulos con referencias físicas 90-91:
+  vigilancia, dependencias, reina Pillapincha, amuleto, hormigueros y lanzamiento.
+- Las mil yardas describen el desplazamiento de la aldea, no una altura vertical.
+  Los goblins no viajan dentro de ella; se conservan daños y defensas de la liana.
+- Traducidas desde el inglés las instrucciones para usar la torre de combate
+  como actor de grupo. No acreditan una comprobación de su funcionamiento en juego.
+- Incidencia original: el enlace del aviso «Activar la escena Yellyark» apunta
+  al diario `JournalEntry.toaCh2Yellyark00`, no a la escena. Destino conservado
+  en esta revisión y pendiente de la validación de navegación.
+- Auditorías técnica y editorial sin errores introducidos por la traducción.
+
 ## Balance de revisión editorial
 
-- 213 páginas de texto revisadas: seis de la introducción, cien de los cuatro
-  diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje y noventa y
-  cinco de localizaciones del capítulo 2. No equivale a 213 páginas del PDF.
-- 516 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 516 campos distintos.
+- 220 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+  diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje y 102 de
+  localizaciones del capítulo 2. No equivale a 220 páginas del PDF.
+- 530 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 530 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
@@ -398,7 +411,7 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   instantáneas de Babele ni realizado una importación completa de Adventure.
 - **La revisión del módulo continúa incompleta.** Continúa el capítulo 2 con
   Hrakhamar, Hvalspyd, Fondeadero de Jahaka, Kir Sabal, Mbala, Nangalore,
-  Huesos de Aguja, Orolunga, Narval y Yellyark, además de los diarios de Mina
+  Huesos de Aguja, Orolunga y Narval, además de los diarios de Mina
   Wyrmheart y Diosa Estelar.
 - El informe v2 final solicitado queda pendiente hasta cerrar toda la revisión;
   este estado de avance no acredita una revisión completa ni la sustituye.
