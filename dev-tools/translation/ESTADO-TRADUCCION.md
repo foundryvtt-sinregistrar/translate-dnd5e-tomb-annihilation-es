@@ -416,13 +416,24 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   del cuerpo. Se mantienen las reglas, cifras, UUID y estructura de Foundry.
 - Auditorías técnica y editorial sin errores.
 
+### ch2-orolunga-01 a ch2-orolunga-06 — Orolunga
+
+- Revisados los seis textos y sus títulos con referencias físicas 85-87:
+  zigurat, tres pruebas, audiencia con Saja N’baza y salida del santuario.
+- Conservados los objetos necesarios, el daño por avance, la desventaja por
+  alineamiento, el aumento de CD por fallo y la única oportunidad de audiencia.
+- Corregida la etiqueta visible truncada «Saja N’baz» a «Saja N’baza».
+- La altura total aproximada de 60 pies y los desniveles de 30, 20 y 12 pies
+  proceden del original; se conservan sin armonizar sus cifras.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 228 páginas de texto revisadas: seis de la introducción, cien de los cuatro
-  diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje y 110 de
-  localizaciones del capítulo 2. No equivale a 228 páginas del PDF.
-- 546 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 546 campos distintos.
+- 234 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+  diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje y 116 de
+  localizaciones del capítulo 2. No equivale a 234 páginas del PDF.
+- 558 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 558 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
@@ -430,8 +441,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Auditorías estáticas y editorial sin errores. No se han renovado las
   instantáneas de Babele ni realizado una importación completa de Adventure.
 - **La revisión del módulo continúa incompleta.** Continúa el capítulo 2 con
-  Hrakhamar, Fondeadero de Jahaka, Kir Sabal, Nangalore,
-  Orolunga, además de los diarios de Mina
+  Hrakhamar, Fondeadero de Jahaka, Kir Sabal y Nangalore,
+  además de los diarios de Mina
   Wyrmheart y Diosa Estelar.
 - El informe v2 final solicitado queda pendiente hasta cerrar toda la revisión;
   este estado de avance no acredita una revisión completa ni la sustituye.
