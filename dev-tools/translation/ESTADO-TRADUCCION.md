@@ -333,13 +333,28 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Auditorías técnica y editorial sin errores; comentario interno de la tirada
   de viento conservado en inglés. No incluye las fichas ni el mapa.
 
+### ch2-short-sites-01 a ch2-short-sites-21 — Geografía y localizaciones breves
+
+- Revisados 21 textos y títulos: Hisari, Ishau, Bahía Jahaka, Ensenada de Kitcher,
+  Lago Luo, Tierra de Humo y Ceniza, Barranco Brumoso, Desierto Nsi, Omu, Puerto
+  Castigliar, Bahía Refugio, los cuatro ríos, Shilku y su bahía, Hocico de Omgar
+  y los valles del Terror, Ascuas y Honor Perdido. Referencias físicas 44-45,
+  55, 58, 65-66, 70, 74, 85, 87 y 89-90.
+- Corregidas direcciones y relaciones geográficas. Las 40 millas de Bahía Jahaka
+  expresan su extensión tierra adentro, no una profundidad vertical. Las cascadas
+  del Soshenstar están a lo largo del río, no después de desembocar en la bahía.
+- En Desierto Nsi se conserva una docena de tortugas, como en el inglés, frente
+  a las decenas del PDF. En Tierra de Humo y Ceniza se conservan 20-40 grados
+  Fahrenheit sin introducir la conversión métrica del PDF.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 161 páginas de texto revisadas: seis de la introducción, cien de los cuatro
-  diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje y cuarenta y
-  tres de localizaciones del capítulo 2. No equivale a 161 páginas del PDF.
-- 412 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 412 campos distintos.
+- 182 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+  diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje y sesenta y
+  cuatro de localizaciones del capítulo 2. No equivale a 182 páginas del PDF.
+- 454 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 454 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz

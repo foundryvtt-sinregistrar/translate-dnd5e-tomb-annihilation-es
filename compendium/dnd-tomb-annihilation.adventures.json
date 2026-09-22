@@ -18900,7 +18900,7 @@
           "pages": {
             "VsmxyKBKpKufXNQ3": {
               "name": "Omu",
-              "text": "<p>La ciudad perdida de Omu se describe en @UUID[JournalEntry.toaCh3DwellersOf.JournalEntryPage.lFz3EHGuk42CziMV]{Capítulo 3}.</p>"
+              "text": "<p>La ciudad perdida de Omu se describe en el @UUID[JournalEntry.toaCh3DwellersOf.JournalEntryPage.lFz3EHGuk42CziMV]{capítulo 3}.</p>"
             }
           }
         },
@@ -20417,7 +20417,7 @@
           "pages": {
             "eJzLPtheFSixCivt": {
               "name": "Hisari",
-              "text": "<p>Esta ciudad arruinada de yuan-ti se encuentra en la selva al pie de la Corona, un volcán que humea que marca el extremo occidental de las montañas Sky Lizard. Un pupilo poderoso similar al de un @UUID[Compendium.dnd5e.spells.Item.GJ2WYm3SQFR0winH]{antipatía/simpatia} el conjuro impide que el yuan-ti entre en la ciudad. Muchas de las personas serpientes que una vez habitaron aquí se han trasladado a Omu.</p><p>La tierra se tragó la mitad de la ciudad, que descansa en una caverna subterránea que nunca ha sido calentada por el sol. El resto de Hisari permanece sobre el suelo, envuelto por vides y flores rastreras. Cada ladrillo y pilar está cubierto de musgo, y una celosía de raíces y ceniza cubre las cúpulas agrietadas y doradas de la ciudad.</p>"
+              "text": "<p>Esta ciudad yuan-ti en ruinas se alza en la selva, al pie de la Corona, un volcán humeante que marca el extremo occidental de las Montañas del Lagarto Celestial. Una poderosa protección similar a un conjuro de @UUID[Compendium.dnd5e.spells.Item.GJ2WYm3SQFR0winH]{antipatía/simpatía} impide que los yuan-tis entren en la ciudad. Muchos de los hombres serpiente que vivían aquí se han trasladado a Omu.</p><p>La tierra se tragó la mitad de la ciudad, que descansa en una extensa caverna subterránea que nunca ha recibido el calor del sol. El resto de Hisari permanece sobre el suelo, devorado por las enredaderas y las flores trepadoras. Cada ladrillo y cada pilar están cubiertos de musgo, y una trama de raíces y ceniza recubre las cúpulas doradas y agrietadas de la ciudad.</p>"
             }
           }
         },
@@ -20435,7 +20435,7 @@
           "pages": {
             "5Sp9cOmKHdr6rvdu": {
               "name": "Ishau",
-              "text": "<p>El asentamiento costero de Ishau cayó al mar. Ahora, los edificios de piedra de la aldea se encuentran completamente bajo el agua en Refuge Bay, a pocos kilómetros de la orilla. @UUID[Actor.WHCr3rghokcd5r4x]{Tiburones cazadores} y @UUID[Actor.6n3dNy50ox79ZtlK]{Tiburones de arrecife} deslizarse entre las ruinas hundidos, compitiendo con @UUID[Actor.toaPlesiosaurus0]{plesiosauros} para la posición como depredador superior — pero todos ellos temen y evitan las brujas del mar vicioso que ocasionalmente recorren las ruinas por restos humanos y baratijas anegadas.</p>"
+              "text": "<p>El asentamiento costero de Ishau se hundió en el mar. Ahora los edificios de piedra de la aldea están completamente sumergidos en Bahía Refugio, a unas pocas millas de la costa. Los @UUID[Actor.WHCr3rghokcd5r4x]{tiburones cazadores} y los @UUID[Actor.6n3dNy50ox79ZtlK]{tiburones de arrecife} se deslizan entre las ruinas hundidas, compitiendo con los @UUID[Actor.toaPlesiosaurus0]{plesiosaurios} por el puesto de depredador dominante. Sin embargo, todos temen y evitan a las crueles sagas de los mares que, de vez en cuando, registran las ruinas en busca de restos humanos y baratijas empapadas.</p>"
             }
           }
         },
@@ -20488,8 +20488,8 @@
           "name": "Bahía de Jahaka",
           "pages": {
             "BShStZnY0H657u4I": {
-              "name": "Bahía de Jahaka",
-              "text": "<p>Los barcos piratas entran y salen de esta bahía cuando van y vienen. @UUID[JournalEntry.toaCh2JahakaAnch]{Anclaje de Jahaka}. Los @UUID[JournalEntry.toaCh2RiverTath0]{Tata del río} se sumerge en múltiples cascadas antes de derramarse en la bahía, por lo que la niebla se desvía perpetuamente de la desembocadura del río y a través de la bahía. Esta niebla no es especialmente pesada, pero su efecto se acumula a lo largo de la distancia, por lo que restringe la visibilidad a unas pocas millas en todos los días menos los más ventosos. El contorno de las montañas costeras se distingue desde cualquier punto de la bahía, pero los detalles más pequeños, como algo del tamaño de un barco o menor, no pueden apreciarse a más de 2 o 3 millas de distancia. Dado que la bahía tiene unos 20 kilómetros de ancho y 40 millas de profundidad, es un excelente escondite para los piratas. Cualquier barco que vague por la bahía sin saber exactamente dónde buscar es poco probable que se topa con @UUID[JournalEntry.toaCh2JahakaAnch]{Anclaje de Jahaka}.</p>"
+              "name": "Bahía Jahaka",
+              "text": "<p>Los barcos piratas entran y salen de esta bahía al ir y venir del @UUID[JournalEntry.toaCh2JahakaAnch]{Fondeadero de Jahaka}. El @UUID[JournalEntry.toaCh2RiverTath0]{río Tath} se precipita por varias cascadas antes de desembocar en la bahía, por lo que de su desembocadura surge una niebla que se extiende constantemente por ella. No es especialmente densa, pero su efecto se acumula con la distancia y limita la visibilidad a unas pocas millas, salvo en los días de más viento. El contorno de las montañas costeras se ve desde cualquier punto de la bahía, pero los detalles menores —por ejemplo, algo del tamaño de un barco o más pequeño— no se distinguen a más de 2 o 3 millas. Como la bahía mide unas 20 millas de ancho y se adentra 40 millas en tierra, es un excelente escondite para los piratas. Es poco probable que un barco que entre en ella sin saber exactamente dónde buscar encuentre el @UUID[JournalEntry.toaCh2JahakaAnch]{Fondeadero de Jahaka} por casualidad.</p>"
             }
           }
         },
@@ -20497,8 +20497,8 @@
           "name": "Entrada de Kitcher",
           "pages": {
             "a2tgoNbLZHeFV102": {
-              "name": "Entrada de Kitcher",
-              "text": "<p>El río Olung vierte en esta bahía poco profunda llamada así por Ilyber Kitcher, un pomposo explorador cormirés que afirmó haberla descubierto hace unos siglos. Él no hizo tal cosa, por supuesto; la existencia y la ubicación de la entrada eran bien conocidos antes de Kitcher perdió el @UUID[JournalEntry.toaCh2BayofChult]{Bahía de Chul} (era un terrible navegante) y sin saberlo navegó por la costa oriental de la península antes de que una tormenta lo devolviera a la vista de la tierra. No hay nada notable en la entrada, aparte de que proporciona acceso a las ruinas de @UUID[JournalEntry.toaCh2PortCastig]{Puerto Castigliar} y @UUID[JournalEntry.toaCh2Mezro00000]{Mezro}.</p>"
+              "name": "Ensenada de Kitcher",
+              "text": "<p>El río Olung desemboca en esta bahía poco profunda, llamada así por Ilyber Kitcher, un pomposo explorador de Cormyr que afirmó haberla descubierto hace unos siglos. Por supuesto, no hizo tal cosa: la existencia y ubicación de la ensenada eran bien conocidas antes de que Kitcher se pasara de largo la @UUID[JournalEntry.toaCh2BayofChult]{Bahía de Chult} (era un navegante pésimo) y navegara sin saberlo por la costa oriental de la península, hasta que una tormenta lo devolvió a una posición desde la que se veía tierra. La ensenada no tiene nada de especial, salvo que permite acceder a las ruinas de @UUID[JournalEntry.toaCh2PortCastig]{Puerto Castigliar} y @UUID[JournalEntry.toaCh2Mezro00000]{Mezro}.</p>"
             }
           }
         },
@@ -20507,7 +20507,7 @@
           "pages": {
             "T7y1QwcndrIzZ9f2": {
               "name": "Lago Luo",
-              "text": "<p>Este lago se encuentra sobre un inmenso fregadero geotérmico, donde es calentado por respiraderos volcánicos y por lava que fluye desde el Valle de Embers. Las porciones del lago en realidad están hirviendo, enviando nubes de vapor que se pueden ver por millas. El agua es demasiado caliente y demasiado alcalina para que los peces o cualquier otro tipo de vida acuática sobrevivan en ella, y la orilla alrededor del lago es un desierto muerto de cenizas y salinas. Aparte de @UUID[Actor.l277PcOg4iRrUpS0]{Mefitos de barro} y @UUID[Actor.BYVXAcHjn7fEkaHx]{Mefitos de vapor}, pocas criaturas prosperan en la zona. El agua se enfría y pierde la mayor parte de su alcalinidad mientras fluye hacia el norte a lo largo del río Olung.</p>"
+              "text": "<p>Este lago se encuentra sobre una enorme depresión geotérmica, donde las chimeneas volcánicas y la lava que baja del Valle de Ascuas calientan el agua. Algunas partes del lago hierven y desprenden nubes de vapor visibles a varias millas de distancia. El agua está demasiado caliente y es demasiado alcalina para que sobrevivan peces u otras formas de vida acuática, y las orillas son un páramo sin vida de ceniza y salares. Aparte de los @UUID[Actor.l277PcOg4iRrUpS0]{mephits de barro} y los @UUID[Actor.BYVXAcHjn7fEkaHx]{mephits de vapor}, pocas criaturas prosperan en la zona. El agua se enfría y pierde la mayor parte de su alcalinidad al fluir hacia el norte por el río Olung.</p>"
             }
           }
         },
@@ -20515,8 +20515,8 @@
           "name": "Tierra de Ceniza y Humo",
           "pages": {
             "xqC6EuZfppVpYYS1": {
-              "name": "Tierra de Ceniza y Humo",
-              "text": "<p>Este mar infernal y ahumado de roca volcánica negra está trazado con corrientes de lava. La tierra de Ceniza y Humo es un patio de recreo para @UUID[Actor.x8SjVcKK8Cjzb5pK]{footnewts} y para @UUID[Actor.toaTinder0000000]{Tzindelor}, a <strong>joven dragón rojo</strong> (Véase @UUID[JournalEntry.toaWyrmheartMine]{Mina Wyrmheart}), que le gusta bañarse en los arroyos de lava. Este valle gris y estéril es típicamente 20 a 40 grados más caliente que en cualquier otro lugar en Chul. Recibe sólo una fracción de la lluvia que cae en el resto de la península, y la lluvia que cae rápidamente se evapora en el calor castigador. Varias expediciones han tratado de explorar la zona, pero la mayoría de lo que se sabe de ella (y se muestra en @UUID[Actor.toaSyndraSilvane]{Syndra Silvane’s} mapa) se basa en observaciones visuales realizadas desde la cima de las montañas costeras.</p>"
+              "name": "Tierra de Humo y Ceniza",
+              "text": "<p>Ríos de lava surcan este infernal y humeante mar de roca volcánica negra. La Tierra de Humo y Ceniza es un lugar de recreo para las @UUID[Actor.x8SjVcKK8Cjzb5pK]{salamandras flamígeras} y para @UUID[Actor.toaTinder0000000]{Tzindelor}, una <strong>dragona roja joven</strong> (consulta @UUID[JournalEntry.toaWyrmheartMine]{Mina Wyrmheart}) a la que le gusta bañarse en los ríos de lava. Este valle gris y estéril suele estar entre 20 y 40 grados Fahrenheit más caliente que cualquier otro lugar de Chult. Solo recibe una pequeña parte de la lluvia que cae en el resto de la península, y la poca que llega se evapora rápidamente por el calor abrasador. Varias expediciones han intentado explorar la zona, pero la mayor parte de lo que se sabe de ella (y aparece en el mapa de @UUID[Actor.toaSyndraSilvane]{Syndra Silvane}) se basa en observaciones desde lo alto de las montañas costeras.</p>"
             }
           }
         },
@@ -20524,8 +20524,8 @@
           "name": "Mistcliff",
           "pages": {
             "di6eD9Dz7GbYxNID": {
-              "name": "Mistcliff",
-              "text": "<p>El Mistcliff es un muro de roca volcánica de 1,000 pies de altura que se extiende por 200 millas a lo largo de la costa oeste de Chulth. No hay playa en absoluto, solo inmensas rocas dentadas y olas que se hunden y se estrellan. Si eso no es suficiente para mantener a la mayoría de la gente alejada, los acantilados son el hogar de grandes asentamientos aarakocra, así como nidos de @UUID[Actor.toaPteranodon000]{pteranodonas} y @UUID[Actor.T7aPJSWh7urH7WOR]{quetzalcoatluses}.</p>"
+              "name": "Barranco Brumoso",
+              "text": "<p>Barranco Brumoso es una pared de roca volcánica de 1.000 pies de altura que se extiende durante 200 millas por la costa occidental de Chult. No hay playa alguna, solo rocas inmensas y dentadas y olas que se precipitan y rompen contra ellas. Por si eso no bastara para mantener alejada a la mayoría de la gente, los acantilados albergan grandes asentamientos aarakocra y nidos de @UUID[Actor.toaPteranodon000]{pteranodones} y @UUID[Actor.T7aPJSWh7urH7WOR]{quetzalcoatlus}.</p>"
             }
           }
         },
@@ -20542,8 +20542,8 @@
           "name": "Desechos de Nsi",
           "pages": {
             "s8b7333jEkRBotNh": {
-              "name": "Desechos de Nsi",
-              "text": "<p>Esta vasta extensión de selva fue devastada por la plaga hace mucho tiempo y nunca se recuperó. Las plantas aquí son enfermizas y venenosas. En el corazón de este páramo está el palacio arruinado del caudillo. @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.lDpW1iuVY48eglkC]{Ras Nsi}: una fortaleza de piedra desmenuzada que una vez estaba sobre la espalda de una docena de tortugas gigantes no muertas. Su destrucción por el arrasador no-muerto de Ras Nsi fue tan completa que no queda nada de esta estructura una vez impresionante excepto las conchas trituradas y los huesos blanqueados de las tortugas, y montones de piedra tan revueltos que ni siquiera los contornos de las antiguas paredes pueden ser elegidos, hundiéndose lentamente en el lodo. La posibilidad de un encuentro aleatorio se duplica en esta región.</p>"
+              "name": "Desierto Nsi",
+              "text": "<p>Una plaga devastó esta extensa zona de selva hace mucho tiempo y nunca se recuperó. Las plantas están enfermas y son venenosas. En el corazón del páramo se encuentra el palacio en ruinas del señor de la guerra @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.lDpW1iuVY48eglkC]{Ras Nsi}: una fortaleza de piedra derruida que antaño se alzaba sobre los caparazones de una docena de tortugas gigantes muertas vivientes. Los muertos vivientes descontrolados de Ras Nsi la destruyeron tan completamente que de aquella estructura imponente solo quedan los caparazones aplastados y los huesos blanqueados de las tortugas, y montones de piedras tan revueltos que ni siquiera se distinguen los contornos de los antiguos muros, que se hunden poco a poco en el fango. La probabilidad de un encuentro aleatorio se duplica en esta región.</p>"
             }
           }
         },
@@ -20552,7 +20552,7 @@
           "pages": {
             "7OjfN701wDHTfvKL": {
               "name": "Puerto Castigliar",
-              "text": "<p>Port Castigliar (pronunciado kah-STEE-lee-ar) es un puerto de nombre solamente. De hecho, no es más que un tramo de playa con un depósito de suministros abandonado, siete cabañas maltratadas de bambú y paja, y un cementerio contaminado. Los muertos vivientes se alejaron de los habitantes hace mucho tiempo, y los demonios desenterraron las tumbas.</p>"
+              "text": "<p>Puerto Castigliar (pronunciado [kastíliar]) solo tiene de puerto el nombre. En realidad, no es más que un tramo de playa con un depósito de suministros abandonado, siete chozas maltrechas de bambú y paja y un cementerio profanado. Los muertos vivientes expulsaron a los habitantes hace mucho tiempo y los gules excavaron las tumbas.</p>"
             }
           }
         },
@@ -20560,8 +20560,8 @@
           "name": "Refugio Bay",
           "pages": {
             "eGFpXHCaoM41VRkL": {
-              "name": "Refugio Bay",
-              "text": "<p>Refuge Bay tiene la reputación de ser un lugar relativamente seguro para aterrizar. Muchas exploraciones de Chul han comenzado en su playa de arena blanca, que se extiende hasta donde el ojo puede ver alrededor de toda la orilla de la bahía. Un pueblo de Chultán llamado @UUID[JournalEntry.toaCh2Ishau00000]{Ishau} una vez se puso a la cabeza de la bahía, pero sus cimientos se hundieron en el mar durante la plaga de conjuros. Los edificios de la ciudad siguen intactos en gran medida, pero ahora se encuentran a más de una milla de tierra seca, y están merodeados por tiburones, plesiosaurios y hachas marinas.</p>"
+              "name": "Bahía Refugio",
+              "text": "<p>Bahía Refugio tiene fama de ser un lugar relativamente seguro para desembarcar. Muchas expediciones por Chult han comenzado en su playa de arena blanca, que se extiende hasta donde alcanza la vista por toda la orilla de la bahía. Una ciudad chultana llamada @UUID[JournalEntry.toaCh2Ishau00000]{Ishau} se alzaba antaño al fondo de la bahía, pero sus cimientos se hundieron en el mar durante la Plaga de Conjuros. Los edificios siguen en gran parte intactos, aunque ahora yacen a más de una milla de tierra firme y por ellos merodean tiburones, plesiosaurios y sagas de los mares.</p>"
             }
           }
         },
@@ -20570,7 +20570,7 @@
           "pages": {
             "FnEmnA6LuhirtFbv": {
               "name": "Río Olung",
-              "text": "<p>El agua caliente del lago Luo se enfría rápidamente al caer por los rápidos y las bajas cataratas. Este río es reconocido por los guías y exploradores como un importante límite. Hacia el este es la selva “normal”; hacia el oeste es territorio no muerto. Por esta sola razón, algunas expediciones eligen entrar en la península a través de @UUID[JournalEntry.toaCh2RefugeBay0]{Refugio Bay}.</p>"
+              "text": "<p>El agua humeante del lago Luo se enfría rápidamente al precipitarse por rápidos y pequeñas cascadas. Los guías y exploradores consideran este río una frontera importante. Al este se encuentra la selva «normal»; al oeste, el territorio de los muertos vivientes. Solo por este motivo, algunas expediciones deciden entrar en la península por @UUID[JournalEntry.toaCh2RefugeBay0]{Bahía Refugio}.</p>"
             }
           }
         },
@@ -20579,7 +20579,7 @@
           "pages": {
             "txzM7Bhdwp8XvCh4": {
               "name": "Río Soshenstar",
-              "text": "<p>El Soshenstar fluye hacia el norte desde el @UUID[JournalEntry.toaCh2AldaniBasi]{Cuenca Aldani} a la @UUID[JournalEntry.toaCh2BayofChult]{Bahía de Chul}, cayendo por cascadas cada diez a quince millas.</p>"
+              "text": "<p>El Soshenstar fluye hacia el norte desde la @UUID[JournalEntry.toaCh2AldaniBasi]{cuenca Aldani} hasta la @UUID[JournalEntry.toaCh2BayofChult]{Bahía de Chult}, descendiendo por cascadas cada diez o quince millas.</p>"
             }
           }
         },
@@ -20587,8 +20587,8 @@
           "name": "Tata del río",
           "pages": {
             "La8lweyxHfKzbYZR": {
-              "name": "Tata del río",
-              "text": "<p>Este río nace de la @UUID[JournalEntry.toaCh2AldaniBasi]{Cuenca Aldani} y meandros hacia el oeste, pasando por cascadas y a través del cañón de @UUID[JournalEntry.toaCh2AtaazKahak]{Ataaz Kahakla} antes de lavar en @UUID[JournalEntry.toaCh2JahakaBay0]{Bahía de Jahaka}.</p>"
+              "name": "Río Tath",
+              "text": "<p>Este río nace en la @UUID[JournalEntry.toaCh2AldaniBasi]{cuenca Aldani} y serpentea hacia el oeste, descendiendo por cascadas y atravesando el cañón de @UUID[JournalEntry.toaCh2AtaazKahak]{Ataaz Kahakla} antes de desembocar en @UUID[JournalEntry.toaCh2JahakaBay0]{Bahía Jahaka}.</p>"
             }
           }
         },
@@ -20597,7 +20597,7 @@
           "pages": {
             "yuAm0D48OzmGb0ht": {
               "name": "Río Tiryki",
-              "text": "<p>El Tiryki se derrama desde la parte trasera de un cañón cubierto de niebla y fluye hacia el norte hacia el @UUID[JournalEntry.toaCh2BayofChult]{Bahía de Chul}, sumergiéndose sobre cascadas cada pocos kilómetros. Esto hace que sea difícil atravesar por canoa río arriba — todo debe ser laboriosamente portado alrededor de las cataratas — y peligroso viajar río abajo, no sea que una canoa quede atrapada en la corriente y barrida sobre una cascada o aplastada en rápidos. Lo que es peor, los depredadores de la selva y los no-muertos merodean por ambas orillas del río. Considerando el nido de pterafolk en @UUID[JournalEntry.toaCh2Firefinger]{Dedo de Fuego} y los grungs que viven por encima del desfiladero, es fácil ver por qué el Tiryki es considerado el río más peligroso en Chul.</p>"
+              "text": "<p>El Tiryki nace al fondo de un cañón envuelto en niebla y fluye hacia el norte hasta la @UUID[JournalEntry.toaCh2BayofChult]{Bahía de Chult}, precipitándose por cascadas cada pocas millas. Esto hace arduo remontarlo en canoa, pues hay que transportar trabajosamente todo por tierra para rodear las cascadas. También es peligroso descenderlo, ya que la corriente puede arrastrar una canoa por una cascada o destrozarla en los rápidos. Para colmo, depredadores de la selva y muertos vivientes merodean por ambas orillas. Si se suman los hombres pterodáctilo que anidan en @UUID[JournalEntry.toaCh2Firefinger]{Dedo de Fuego} y los grungs que viven sobre la garganta, es fácil entender por qué el Tiryki se considera el río más peligroso de Chult.</p>"
             }
           }
         },
@@ -20606,7 +20606,7 @@
           "pages": {
             "PFBcU7AJXHwPOgUX": {
               "name": "Shilku",
-              "text": "<p>Esta aldea costera abandonada fue destruida y preservada por la erupción volcánica. Las calles silenciosas están enterradas en cenizas, y el puerto se ahoga con lava enfriada. Desde @UUID[JournalEntry.toaCh2Mezro00000]{Mezro} ahora está en gran parte “limpiado,” @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.JDEhEg0GWHCngJOS]{Liara Portyr} de @UUID[JournalEntry.toaCh2FortBeluar]{Fuerte Beluarian} está bajo la presión de sus clientes en la Puerta de Baldur para comenzar a explorar y excavar a Shilku por los tesoros que sin duda están enterrados allí. Tal empresa requeriría construir un nuevo fuerte desde cero en algún lugar de la costa suroeste, y Liara no tiene ni las manos ni los fondos para eso. Ella podría intentar alistar a los personajes del jugador para hacer un viaje para explorar posibles ubicaciones para tal fuerte, aunque sólo sea para que pueda asegurar a sus superiores impacientes en la Puerta de Baldur que se está progresando.</p><p>Aunque está desprovista de vida humana, la ciudad está lejos de morir. Los mefitos, los firenewts, las salamandras y otras criaturas amantes del calor merodean por sus callejones de Ashen y llevan túneles a sótanos largamente sellados por piedra volcánica.</p>"
+              "text": "<p>Una erupción volcánica destruyó y a la vez conservó esta aldea costera abandonada. Las calles silenciosas están sepultadas bajo ceniza y el puerto está obstruido por lava solidificada. Como @UUID[JournalEntry.toaCh2Mezro00000]{Mezro} ya está prácticamente «vaciada», los patrocinadores de @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.JDEhEg0GWHCngJOS]{Liara Portyr}, de @UUID[JournalEntry.toaCh2FortBeluar]{Fuerte Beluarian}, en Puerta de Baldur la presionan para que empiece a explorar y excavar Shilku en busca de los tesoros que sin duda están enterrados allí. Tal empresa exigiría construir un fuerte desde cero en algún lugar de la costa suroeste, y Liara no tiene ni personal ni fondos para ello. Podría intentar reclutar a los personajes para que viajen en busca de posibles emplazamientos, aunque solo sea para asegurar a sus impacientes superiores de Puerta de Baldur que se están haciendo progresos.</p><p>Aunque carece de vida humana, la ciudad está lejos de estar muerta. Mephits, salamandras flamígeras, salamandras y otras criaturas amantes del calor merodean por sus callejones cubiertos de ceniza y excavan túneles hacia sótanos sellados hace tiempo por la roca volcánica.</p>"
             }
           }
         },
@@ -20615,7 +20615,7 @@
           "pages": {
             "BA5RiQ0NW12XApXr": {
               "name": "Bahía de Shilku",
-              "text": "<p>La lava todavía erupciona del volcán que destruyó @UUID[JournalEntry.toaCh2Shilku0000]{Shilku}, y fluye como un río brillante hacia abajo en esta bahía. El agua sulfurosa es venenosa, por lo que la mayor parte de la vida marina de la bahía está muerta y la costa circundante es estéril. Aún se pueden encontrar lugares seguros para aterrizar en las playas a lo largo de la costa occidental, pero es probable que un velero que navegue por la costa oriental cerca de Shilku pierda sus velas —y posiblemente mucho más— ante las piedras rojas y calientes que con poca frecuencia llueven desde el cielo o hacia la ceniza ardiente que se desplaza millas hacia la bahía antes de extinguirse finalmente en el agua apestosa y silbante.</p>"
+              "text": "<p>Del volcán que destruyó @UUID[JournalEntry.toaCh2Shilku0000]{Shilku} sigue brotando lava, que fluye como un río incandescente hasta esta bahía. El agua sulfurosa es venenosa, por lo que la mayor parte de la vida marina ha muerto y la costa circundante es estéril. Aún pueden encontrarse puntos seguros de desembarco en las playas de la orilla occidental, pero un velero que navegue por la orilla oriental, cerca de Shilku, probablemente perderá sus velas —y quizá mucho más— por las piedras al rojo vivo que a veces caen del cielo o la ceniza ardiente que el viento arrastra varias millas sobre la bahía antes de apagarse en el agua maloliente y siseante.</p>"
             }
           }
         },
@@ -20632,8 +20632,8 @@
           "name": "Hondo de Omgar",
           "pages": {
             "vruwckq9oNior3Wm": {
-              "name": "Hondo de Omgar",
-              "text": "<p>Antiguamente península montañosa, el hocico de Omgar fue dividido por el mar durante la agitación de la plaga de conjuros. Un estrecho estrecho permite el paso entre el continente y lo que ahora es una gran isla. Los marineros y cartógrafos consideran que esta característica marca el límite entre las costas de Chul y las costas de Samarach.</p>"
+              "name": "Hocico de Omgar",
+              "text": "<p>El Hocico de Omgar, antaño una península montañosa, quedó dividido por el mar durante las convulsiones de la Plaga de Conjuros. Un angosto estrecho permite el paso entre el continente y lo que ahora es una gran isla. Marineros y cartógrafos consideran que este accidente geográfico marca el límite entre las costas de Chult y las de Samarach.</p>"
             }
           }
         },
@@ -20650,8 +20650,8 @@
           "name": "Valle del Terrible",
           "pages": {
             "TgSK7qVAVM6YZSlu": {
-              "name": "Valle del Terrible",
-              "text": "<p>Los exploradores que entran en Chul desde el este son propensos a caminar a través de este pasaje, que está contenido por las montañas de lagarto del cielo desgastado al norte y las montañas desgarbadas Sanrach al sur. El valle de la selva densa tiene un nombre bien conocido; es un terreno de pisadas para dinosaurios de todo tipo. También es el hogar de reinos de lagartos gobernados por reyes y reinas sin corazón.</p>"
+              "name": "Valle del Terror",
+              "text": "<p>Los exploradores que entren en Chult desde el este probablemente atraviesen este paso, delimitado al norte por las Montañas del Lagarto Celestial, erosionadas por el viento, y al sur por las escarpadas Montañas Sanrach. Este valle de selva densa hace honor a su nombre: por él vagan dinosaurios de toda clase. También alberga reinos de hombres lagarto gobernados por reyes y reinas despiadados.</p>"
             }
           }
         },
@@ -20659,8 +20659,8 @@
           "name": "Valle de Embers",
           "pages": {
             "twgvXLznoXcsutZl": {
-              "name": "Valle de Embers",
-              "text": "<p>Este valle quemado rodea @UUID[JournalEntry.toaCh2LakeLuo000]{Lago Luo}. La mayor parte de la vegetación alrededor de la orilla sur y oriental del lago ha sido eliminada por flujos piroclásticos, ríos de lava y ceniza a la deriva. Las brasas ardientes eructadas de los picos de la llama se deslizan por el cielo y caen como lluvia sobre un desierto ennegrecido. La marisma al norte del lago está lo suficientemente húmeda para sobrevivir, pero la acumulación de cenizas sobre el agua se ha convertido en una extensión casi intransitable de lodo de rodillas. @UUID[Actor.toaMudMephit0000]{Mefitos de lodo} y @UUID[Actor.BYVXAcHjn7fEkaHx]{Mefitos de vapor} Abunde.</p>"
+              "name": "Valle de Ascuas",
+              "text": "<p>Este valle calcinado rodea el @UUID[JournalEntry.toaCh2LakeLuo000]{lago Luo}. Los flujos piroclásticos, los ríos de lava y la ceniza arrastrada por el viento han arrasado la mayor parte de la vegetación de las orillas sur y este del lago. Las ascuas ardientes expulsadas por los Picos de Fuego cruzan el cielo y llueven sobre el páramo ennegrecido. El pantano al norte del lago tiene suficiente humedad para sobrevivir, pero la ceniza acumulada sobre el agua lo ha convertido en una extensión casi intransitable de fango hasta las rodillas. Abundan los @UUID[Actor.toaMudMephit0000]{mephits de barro} y los @UUID[Actor.BYVXAcHjn7fEkaHx]{mephits de vapor}.</p>"
             }
           }
         },
@@ -20669,7 +20669,7 @@
           "pages": {
             "0XgtYrMikOi84C1P": {
               "name": "Valle del Honor Perdido",
-              "text": "<p>Las hordas de muertos vivientes de @UUID[Actor.zwk4UdGbwhWumFqp]{Ras Nsi} exterminaron a una tribu de chultanes en este valle. Los huesos del Eshowe caído se han ido, junto con todo lo demás — tragado por la lava derramando desde el volcán al oeste de @UUID[JournalEntry.toaCh2Hrakhamar0]{Hrakhamar}. Los firenewts se han apoderado de esa vieja fragua enana en las montañas, y su reivindicación territorial se extiende por toda la longitud de este valle.</p><p>@UUID[Actor.x8SjVcKK8Cjzb5pK]{Guerreros Firenett} montado en @UUID[Actor.V0hTSWWR1q53iwvx]{estriadas gigantes} (ver @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{Apéndice D}) hacer cumplir esa demanda, haciendo que el valle sea muy peligroso para los intrusos.</p><p>@UUID[Actor.toaTinder0000000]{Tzindelor}, el joven dragón rojo que habita @UUID[JournalEntry.toaWyrmheartMine]{Mina Wyrmheart}, es la única criatura cuya fuerza y autoridad los firenewts respetan de mala gana. Tzindelor y los firenewts se dejan solos por ahora, pero ambos codician lo que el otro tiene: Tzindelor quisiera poseer Hrakhamar, y los firenewts se beneficiarían de controlar los recursos de hierro en la mina de Wyrmheart.</p>"
+              "text": "<p>Las hordas de muertos vivientes de @UUID[Actor.zwk4UdGbwhWumFqp]{Ras Nsi} exterminaron a una tribu chultana en este valle. Los huesos de los eshowe caídos han desaparecido junto con todo lo demás, engullidos por la lava del volcán al oeste de @UUID[JournalEntry.toaCh2Hrakhamar0]{Hrakhamar}. Las salamandras flamígeras han ocupado aquella antigua forja enana de las montañas y reclaman como suyo todo el valle.</p><p>Los @UUID[Actor.x8SjVcKK8Cjzb5pK]{guerreros salamandra flamígera} montados en @UUID[Actor.V0hTSWWR1q53iwvx]{caminantes gigantescos} (consulta el @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{apéndice D}) defienden ese dominio, por lo que el valle resulta muy peligroso para los intrusos.</p><p>@UUID[Actor.toaTinder0000000]{Tzindelor}, la dragona roja joven que habita en la @UUID[JournalEntry.toaWyrmheartMine]{Mina Wyrmheart}, es la única criatura cuyo poder y autoridad respetan a regañadientes las salamandras flamígeras. Por ahora se dejan mutuamente en paz, pero ambas partes codician lo que posee la otra: Tzindelor querría hacerse con Hrakhamar, y las salamandras flamígeras se beneficiarían de controlar los recursos de hierro de la Mina Wyrmheart.</p>"
             }
           }
         },
