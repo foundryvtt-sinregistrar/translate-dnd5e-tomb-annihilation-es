@@ -454,13 +454,27 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Auditorías técnica y editorial sin errores. La revisión de las biografías
   del recuadro no acredita la revisión de sus fichas de actor.
 
+### ch2-hrakhamar-01 a ch2-hrakhamar-11 — Hrakhamar
+
+- Revisados los once textos y títulos con referencias físicas 66-69: llegada,
+  fundición, fragua, tesoro, capilla, humo, prisioneros y vagonetas.
+- Conservados el mapa 2.9 de Foundry y los cinco niveles de cansancio de los
+  prisioneros, frente a los tres del PDF español. Las precauciones contra el
+  humo duran diez asaltos; los caminantes se liberan en cada asalto sucesivo.
+- Aclaradas las tres condiciones de activación de la trampa y que se repliega
+  la pasarela. Traducidas las instrucciones de sus macros sin modificar UUID.
+- Corregidos la fundición como estancia, el depósito de vagonetas y el plural
+  visible de martillos de guerra. Se conservan cifras, comandos y estructura.
+- Auditorías técnica y editorial sin errores. Las macros no se han probado
+  en una sesión de juego y las fichas insertadas no se consideran revisadas.
+
 ## Balance de revisión editorial
 
-- 248 páginas de texto revisadas: seis de la introducción, cien de los cuatro
-  diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje y 130 de
-  localizaciones del capítulo 2. No equivale a 248 páginas del PDF.
-- 586 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 586 campos distintos.
+- 259 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+  diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje y 141 de
+  localizaciones del capítulo 2. No equivale a 259 páginas del PDF.
+- 608 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 608 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
@@ -468,7 +482,7 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Auditorías estáticas y editorial sin errores. No se han renovado las
   instantáneas de Babele ni realizado una importación completa de Adventure.
 - **La revisión del módulo continúa incompleta.** Continúa el capítulo 2 con
-  Hrakhamar, Kir Sabal y Nangalore,
+  Kir Sabal y Nangalore,
   además del diario de Mina Wyrmheart.
 - El informe v2 final solicitado queda pendiente hasta cerrar toda la revisión;
   este estado de avance no acredita una revisión completa ni la sustituye.
