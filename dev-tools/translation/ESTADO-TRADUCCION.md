@@ -437,13 +437,30 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   aire. Traducido también el aviso de activación de escena propio de Foundry.
 - Auditorías técnica y editorial sin errores; no acredita revisión de fichas.
 
+### ch2-jahaka-01 a ch2-jahaka-10 — Fondeadero de Jahaka
+
+- Revisados los diez textos y sus títulos contra el inglés y las páginas
+  físicas 58-61: base, tres tripulaciones, defensas y todas las dependencias.
+- Corregidos los aposentos sucios (no los tripulantes), los cofres sin cerrar
+  con llave, las mesas de la taberna y los numerosos clientes de Laskilar.
+- Conservadas las dos condiciones independientes de las espadas: no atacan a
+  criaturas con parche ni se animan cuando estas manipulan el tesoro.
+- Se mantienen el nombre Kalita sin el epíteto del PDF, el mapa 2.10 de Foundry,
+  la escala de escena de 5 pies y las instrucciones sobre teletransporte.
+- Eliminada una llave de cierre sobrante del texto visible de Ojo de las
+  Profundidades. Los UUID, comandos, cifras y etiquetas HTML se conservan.
+- El enlace original con fragmento `#pirates-of-jahaka-anchorage` se conserva;
+  su navegación al encabezado traducido queda pendiente de validar en Foundry.
+- Auditorías técnica y editorial sin errores. La revisión de las biografías
+  del recuadro no acredita la revisión de sus fichas de actor.
+
 ## Balance de revisión editorial
 
-- 238 páginas de texto revisadas: seis de la introducción, cien de los cuatro
-  diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje y 120 de
-  localizaciones del capítulo 2. No equivale a 238 páginas del PDF.
-- 566 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 566 campos distintos.
+- 248 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+  diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje y 130 de
+  localizaciones del capítulo 2. No equivale a 248 páginas del PDF.
+- 586 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 586 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
@@ -451,7 +468,7 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Auditorías estáticas y editorial sin errores. No se han renovado las
   instantáneas de Babele ni realizado una importación completa de Adventure.
 - **La revisión del módulo continúa incompleta.** Continúa el capítulo 2 con
-  Hrakhamar, Fondeadero de Jahaka, Kir Sabal y Nangalore,
+  Hrakhamar, Kir Sabal y Nangalore,
   además del diario de Mina Wyrmheart.
 - El informe v2 final solicitado queda pendiente hasta cerrar toda la revisión;
   este estado de avance no acredita una revisión completa ni la sustituye.
