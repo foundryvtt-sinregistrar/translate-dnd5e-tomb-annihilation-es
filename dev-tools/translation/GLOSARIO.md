@@ -49,6 +49,20 @@ términos generales; no todas sus entradas son citas del libro.
 | Negative Plane | Plano Negativo | 7 |
 | demiplane | semiplano | 7 |
 | phylactery | filacteria | 7 |
+| Thundering Lizard | Lagarto Atronador | 17 |
+| Kaya’s House of Repose | Casa del Reposo de Kaya | 17 |
+| Stormreach | Linde Tormentoso | 16 |
+| Flaming Fist | Puño Ardiente | 31 |
+| Lords’ Alliance | Alianza de los Lores | 31 |
+| Ytepka Society | Sociedad Ytepka | 32 |
+| Tinder | Yesca | 36 |
+| Skullbash | Partecráneos | 36 |
+| Weed | Hierbajo | 36 |
+| Needle’s Bones | Huesos de Aguja | 35 |
+
+En los contextos narrativos revisados, «Skullbash» es el nombre de la maza de
+Musharib («Partecráneos»), y «Weed» es el apodo de Kupalue («Hierbajo»). Las
+equivalencias antiguas de otros documentos no acreditan revisión contextual.
 
 En `intro-02` se han comprobado visualmente las 48 filas de la página 5,
 incluidas las pronunciaciones. «Salida» → «Salysa» se aplica como nombre propio

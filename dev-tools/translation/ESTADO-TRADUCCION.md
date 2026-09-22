@@ -177,7 +177,34 @@ Commit de `intro-04`: `91c81ab` — `Review adventure summary and Acererak backg
   sigue pendiente la comprobación visual en Foundry y la portada es un recurso
   gráfico cuyo texto integrado no se ha traducido.
 
-Siguiente bloque en curso: capítulo 1, Puerto Nyanzaru.
+Commit de `intro-05` y `intro-06`: `ab70dfa` —
+`Complete editorial review of adventure introduction text`.
+
+### ch1-01 a ch1-38 — Diario principal Puerto Nyanzaru
+
+- Revisados los títulos y textos de las 38 páginas de `toaCh1PortNyanza`, usando
+  las referencias españolas de las páginas físicas 16-17, 19, 25-28 y 30-37.
+- Cobertura: llegada, orientación urbana, habitantes, facciones, príncipes,
+  Volo, comercio, carreras de dinosaurios, contratación de guías y los nueve
+  grupos de guías. Se conserva el formato de los avisos exclusivos de Foundry.
+- Los siete resúmenes de príncipes conservan sus `@Embed`. La revisión de estas
+  páginas no acredita la revisión de las biografías de actores que insertan.
+- Se conserva la numeración de documentos de Foundry, que difiere del PDF español
+  para varios guías. También se conservan las omisiones del original de Foundry,
+  como algunos detalles de Bruma y Gondolo, y las unidades originales.
+- Se corrigen sentidos frente al PDF cuando lo exige el inglés: la lona del
+  colector mide 5 pies de lado, los ataques en carreras se permiten con una
+  diferencia de 50 o menos, y el libro de Volo se sustituye por el apéndice D
+  cuando no está disponible el libro de consulta.
+- Los nueve pagos de apuestas conservan exactamente sus operadores de división
+  y multiplicación. Las tablas mantienen estadísticas, tiradas y destinos.
+- Se unifica «Barrio del Puerto» para Harbor Ward; el PDF alterna barrio/distrito.
+- 90 registros editoriales verificados contra EN y ES; auditoría de los 20.154
+  campos sin errores. Sin nueva validación visual en Foundry.
+- **El capítulo 1 no está completamente revisado**: faltan localizaciones,
+  villa, misiones secundarias y contenido insertado de fichas y tablas.
+
+Siguiente bloque en curso: misiones secundarias de Puerto Nyanzaru.
 
 ## Trabajo que sigue pendiente
 
