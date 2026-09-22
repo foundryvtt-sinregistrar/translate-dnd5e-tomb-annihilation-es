@@ -269,13 +269,27 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Auditorías técnica y editorial sin errores. El arte y mapa insertados no se
   han modificado ni se consideran revisados por esta revisión del texto.
 
+### ch2-sites-01 a ch2-sites-08 — Cuenca, gargantas y Bahía de Chult
+
+- Revisados ocho textos y sus títulos: Cuenca Aldani, Ataaz Kahakla, las cuatro
+  páginas de Ataaz Muhahah, Ataaz Yklwazi y Bahía de Chult. Referencias físicas
+  42-44 y 52. Corregidas narración, instrucciones y etiquetas de enlaces.
+- Conservadas condiciones del gólem, distancias de salto, patrullas y tributo
+  de Aremag. Las ayudas de Foundry se traducen desde el original de la exportación.
+- Detectada una discrepancia técnica original en el tributo de Aremag:
+  `[[/gmr 2d4*20]]{2d4 × 50}` muestra una cantidad distinta de la que tira.
+  El PDF español respalda ×50. Se conserva el comando original durante la
+  revisión lingüística; queda pendiente resolver esta incidencia técnica antes
+  de publicar. Las auditorías de preservación no detectan errores del original.
+- Auditorías técnica y editorial sin errores introducidos por la traducción.
+
 ## Balance de revisión editorial
 
-- 118 páginas de texto revisadas: seis de la introducción, cien de los cuatro
-  diarios del capítulo 1 (38 + 11 + 19 + 32) y doce de reglas de viaje del
-  capítulo 2. No equivale a 118 páginas del PDF.
-- 316 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 316 campos distintos.
+- 126 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+  diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje y ocho de
+  localizaciones del capítulo 2. No equivale a 126 páginas del PDF.
+- 332 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 332 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
