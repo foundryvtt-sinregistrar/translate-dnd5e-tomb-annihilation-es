@@ -307,13 +307,28 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Auditorías técnica y editorial sin errores. Las fichas de los PNJ y la escena
   no quedan acreditadas como revisadas por la revisión de este diario.
 
+### ch2-dungrunglung-01 a ch2-dungrunglung-08 y tabla — Dungrunglung
+
+- Revisados los ocho títulos y textos del diario y los nueve resultados y título
+  de la tabla del laberinto espinoso. Referencias físicas 55-58.
+- Corregidos motivaciones y lealtades, audiencias, encarcelamiento, cuatro pruebas
+  del Gran Ritual y consecuencias. Roark admite ayuda contra los muertos vivientes;
+  se corrige el sentido ambiguo de la referencia española conforme al inglés.
+- Conservada la numeración de mapas de Foundry (2.5 frente a 2.7 del PDF), las
+  cantidades, tiradas, UUID y los añadidos de automatización.
+- Pendiente en la comprobación visual: los saltos a encabezados con fragmentos
+  como `#grungs-of-dungrunglung` y las etiquetas inglesas dentro de `@Embed`.
+  Preservar el token original no acredita por sí solo su navegación o presentación.
+- Auditorías técnica y editorial sin errores; no se han revisado aún las fichas
+  de los grungs ni las imágenes insertadas.
+
 ## Balance de revisión editorial
 
-- 147 páginas de texto revisadas: seis de la introducción, cien de los cuatro
-  diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje y veintinueve
-  de localizaciones del capítulo 2. No equivale a 147 páginas del PDF.
-- 374 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 374 campos distintos.
+- 155 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+  diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje y treinta y
+  siete de localizaciones del capítulo 2. No equivale a 155 páginas del PDF.
+- 400 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 400 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz

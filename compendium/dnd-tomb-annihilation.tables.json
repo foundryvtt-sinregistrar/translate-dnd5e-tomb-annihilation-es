@@ -1052,34 +1052,34 @@
       }
     },
     "toaThornMazeEnco": {
-      "name": "Encuentros de Thorn Laberinto",
+      "name": "Encuentros en el laberinto espinoso",
       "results": {
         "pBvl5l2AMZ2d8utn": {
-          "description": "No encuentro."
+          "description": "Ningún encuentro."
         },
         "Dk1d2qYTBbCfmqCB": {
-          "description": "<p>@UUID[Actor.toaCh2GrungsDung]{1d6 + 6 grungs} (Guerreros de piel verde) en patrulla.</p>"
+          "description": "<p>@UUID[Actor.toaCh2GrungsDung]{1d6 + 6 grungs} (guerreros de piel verde) patrullando.</p>"
         },
         "BZ0vhRAPsxiGFj9G": {
-          "description": "<p>@UUID[Actor.toaCh2AssassinVi]{1d3 vides asesinas} (ver @UUID[JournalEntry.toaAppDMonstersA]{Apéndice D}) mezclando con las paredes circundantes.</p>"
+          "description": "<p>@UUID[Actor.toaCh2AssassinVi]{1d3 enredaderas asesinas} (consulta el @UUID[JournalEntry.toaAppDMonstersA]{apéndice D}) camufladas entre las paredes circundantes.</p>"
         },
         "Ql9TVhcBmW6YHCOF": {
-          "description": "<p>@UUID[Actor.toaCh2GhoulsDung]{1d4 ghouls} perdido en el laberinto.</p>"
+          "description": "<p>@UUID[Actor.toaCh2GhoulsDung]{1d4 gules} perdidos en el laberinto.</p>"
         },
         "RKhXFfhs8utKEcRK": {
-          "description": "Un escarabajo inofensivo de Yahcha (ver @UUID[JournalEntry.toaAppCDiscoveri]{apéndice C})."
+          "description": "Un escarabajo yahcha inofensivo (consulta el @UUID[JournalEntry.toaAppCDiscoveri]{apéndice C})."
         },
         "31OkuWEECx1weIp5": {
-          "description": "Los personajes escuchan un crujido que suena a la vez lujurioso y desolado. No se puede determinar su origen."
+          "description": "Los personajes oyen un croar gutural que suena a la vez vigoroso y desolado. No se puede determinar de dónde procede."
         },
         "sC5YGEDqVHCc80zx": {
-          "description": "<p>@UUID[Actor.toaCh2ZombiesDun]{1d6 zombis} perdido en el laberinto.</p>"
+          "description": "<p>@UUID[Actor.toaCh2ZombiesDun]{1d6 zombis} perdidos en el laberinto.</p>"
         },
         "9QJjR1YWnfQPXZnT": {
-          "description": "Un hoyo oculto de 5 pies de ancho, 10 pies de profundidad, y forrado con estacas de madera envenenadas. El personaje principal ve el foso con un éxito [[/check perception 15 format=long]]. El primer personaje que pisa un pozo cae, tomando [[/damage 1d6 bludgeoning average]] daños y aterrizaje en [[/r 1d4]] apuestas, cada una de las cuales trata [[/damage 1d6 piercing &amp; 2d6 poison average]] daño."
+          "description": "Un pozo oculto de 5 pies de anchura y 10 pies de profundidad, lleno de estacas de madera envenenadas. El personaje que encabeza la marcha detecta el pozo si supera una [[/check perception 15 format=long]]. El primero que lo pise cae dentro y sufre [[/damage 1d6 bludgeoning average]] de daño, además de aterrizar sobre [[/r 1d4]] estacas que infligen [[/damage 1d6 piercing &amp; 2d6 poison average]] de daño cada una."
         },
         "w2vQOwRh75ptZu8g": {
-          "description": "Una puerta secreta interior. Requiere un éxito. [[/check perception 15 format=long]] a ver."
+          "description": "Una puerta secreta interior. Para detectarla es necesario superar una [[/check perception 15 format=long]]."
         }
       }
     },
