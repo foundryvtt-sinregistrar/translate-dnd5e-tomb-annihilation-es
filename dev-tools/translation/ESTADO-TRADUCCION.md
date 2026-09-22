@@ -602,14 +602,28 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   página del santuario; pendiente de validación de navegación.
 - Auditorías técnica y editorial sin errores.
 
+### ch3-wongo-01 a ch3-wongo-08 — Wongo, anfiteatro y bazar
+
+- Revisados ocho textos y títulos con referencias físicas 105-108, incluido
+  el carro del chwinga y el decreto bilingüe de Napaka.
+- Conservadas las letras L/B/Z/V del mapa inglés de Wongo y las condiciones
+  alternativas de maldición o combate. El enlace original de polimorfar
+  contiene una etiqueta de cursiva dentro de su rótulo; requiere prueba visual.
+- Conservadas las tiradas de presencia del Rey de Plumas: sus comentarios
+  ingleses dicen «resultado de 1», aunque las fórmulas usan umbrales 50 y 25.
+  Las capacidades insertadas de la ficha no quedan revisadas por este bloque.
+- Corregida la bodega a un cuadrado de veinte pies de lado, frente a los
+  veinte pies cuadrados del PDF. Conservada la detección probabilística de trampas.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 414 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 422 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
-  localizaciones del capítulo 2, 49 de su índice y 60 del capítulo 3.
-  No equivale a 414 páginas del PDF.
-- 918 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 918 campos distintos.
+  localizaciones del capítulo 2, 49 de su índice y 68 del capítulo 3.
+  No equivale a 422 páginas del PDF.
+- 934 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 934 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
