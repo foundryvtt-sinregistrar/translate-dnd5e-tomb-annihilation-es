@@ -427,13 +427,23 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   proceden del original; se conservan sin armonizar sus cifras.
 - Auditorías técnica y editorial sin errores.
 
+### ch2-star-goddess-01 a ch2-star-goddess-04 — Diosa Estelar
+
+- Revisados los cuatro textos y sus títulos contra el inglés y las páginas
+  físicas 87-88: naufragio, supervivientes, carroñeros y suministros recuperables.
+- Conservados el mapa 2.13 de Foundry, las alturas relativas de las secciones,
+  los cuatro niveles de cansancio y las condiciones de movimiento y caída.
+- Ra-das se describe como navegante; el globo contiene gas más ligero que el
+  aire. Traducido también el aviso de activación de escena propio de Foundry.
+- Auditorías técnica y editorial sin errores; no acredita revisión de fichas.
+
 ## Balance de revisión editorial
 
-- 234 páginas de texto revisadas: seis de la introducción, cien de los cuatro
-  diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje y 116 de
-  localizaciones del capítulo 2. No equivale a 234 páginas del PDF.
-- 558 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 558 campos distintos.
+- 238 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+  diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje y 120 de
+  localizaciones del capítulo 2. No equivale a 238 páginas del PDF.
+- 566 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 566 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
@@ -442,8 +452,7 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   instantáneas de Babele ni realizado una importación completa de Adventure.
 - **La revisión del módulo continúa incompleta.** Continúa el capítulo 2 con
   Hrakhamar, Fondeadero de Jahaka, Kir Sabal y Nangalore,
-  además de los diarios de Mina
-  Wyrmheart y Diosa Estelar.
+  además del diario de Mina Wyrmheart.
 - El informe v2 final solicitado queda pendiente hasta cerrar toda la revisión;
   este estado de avance no acredita una revisión completa ni la sustituye.
 
