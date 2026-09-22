@@ -59,6 +59,11 @@ términos generales; no todas sus entradas son citas del libro.
 | Skullbash | Partecráneos | 36 |
 | Weed | Hierbajo | 36 |
 | Needle’s Bones | Huesos de Aguja | 35 |
+| Summerwise | Estival | 18 |
+| Hall of Gold | Pabellón de Oro | 24 |
+| Grand Souk | Gran Zoco | 21 |
+| Fort Nyanzaru | Fortín de Nyanzaru | 23 |
+| Ortimay Swift and Dark | Ortimay Oscura y Veloz | 22 |
 
 En los contextos narrativos revisados, «Skullbash» es el nombre de la maza de
 Musharib («Partecráneos»), y «Weed» es el apodo de Kupalue («Hierbajo»). Las

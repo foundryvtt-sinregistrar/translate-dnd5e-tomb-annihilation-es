@@ -204,7 +204,46 @@ Commit de `intro-05` y `intro-06`: `ab70dfa` —
 - **El capítulo 1 no está completamente revisado**: faltan localizaciones,
   villa, misiones secundarias y contenido insertado de fichas y tablas.
 
-Siguiente bloque en curso: misiones secundarias de Puerto Nyanzaru.
+Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journal pages`.
+
+### ch1-quests-01 a ch1-quests-11 — Misiones secundarias
+
+- Revisadas las once páginas de `toaCh1SideQuests`: introducción y diez misiones.
+  Referencias españolas de las páginas físicas 17-18.
+- Corregidos personajes, objetivos, consecuencias y recompensas sin cambiar
+  condiciones, plazos, monedas ni enlaces. Summerwise se traduce como Estival.
+
+### ch1-villa-01 a ch1-villa-19 — Villa de un príncipe mercante
+
+- Revisadas las diecinueve páginas de `toaCh1MerchantPr`, con referencias de las
+  páginas físicas 28-30: decoración, plantas, habitaciones, guardias y tesoro.
+- Conservados el mapa insertado, los enlaces relativos, estadísticas y tiradas.
+  La anotación inglesa dentro del comando de tirada del joyero se conserva como
+  parte del token técnico; no se considera traducido ese comentario de tirada.
+
+### ch1-locations-01 a ch1-locations-32 — Localizaciones de la ciudad
+
+- Revisadas las 32 páginas de `toaCh1LocPortNya`, con referencias españolas de las
+  páginas físicas 19 y 21-25. El mapa de la página 20 no se modifica.
+- Corregidos barrios, templos, comercio, transporte y descripciones narrativas.
+  Se mantienen Goldenthrone y los nombres oficiales españoles de lugares.
+- Se conserva la vela mayor cuadra indicada por el original inglés, aunque la
+  referencia española dice cangreja. El presagio de Savras trata del futuro de
+  recién nacidos, no de su aspecto físico. Las referencias técnicas siguen intactas.
+
+## Balance de revisión editorial
+
+- 106 páginas de texto revisadas: seis de la introducción y cien de los cuatro
+  diarios del capítulo 1 (38 + 11 + 19 + 32). No equivale a 106 páginas del PDF.
+- 214 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 214 campos distintos.
+- La revisión de un diario con `@Embed` no acredita el contenido del documento
+  insertado. Faltan las biografías, objetos, tablas, ayudas, escenas e interfaz
+  relacionadas, además de los capítulos 2-5 y los apéndices.
+- Auditorías estáticas y editorial sin errores. No se han renovado las
+  instantáneas de Babele ni realizado una importación completa de Adventure.
+- **La revisión del módulo continúa incompleta.** El siguiente trabajo es revisar
+  los contenidos insertados del capítulo 1 y seguir con el capítulo 2.
 
 ## Trabajo que sigue pendiente
 
