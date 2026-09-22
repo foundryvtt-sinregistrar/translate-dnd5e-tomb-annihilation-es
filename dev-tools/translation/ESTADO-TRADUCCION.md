@@ -562,14 +562,28 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Auditorías técnica y editorial sin errores; tablas, fichas y ayudas
   enlazadas no quedan acreditadas por revisar estos textos.
 
+### ch3-first-shrines-01 a ch3-first-shrines-12 — Entrada y primeros santuarios
+
+- Revisados doce textos y títulos: mapa, entrada, recinto amurallado y
+  santuarios de Kubazan y Shagambi, con referencias físicas 97-98 y 101.
+- Aclarados el disparador de la puerta de Kubazan, la retirada del peso de
+  los travesaños, el gas y la sustitución del cubo por un peso equivalente.
+- Conservadas las condiciones de victoria dentro del foso de Shagambi y
+  la regeneración de gladiadores y lanzas. Corregida la edad de las crías:
+  desarrollan serpientes a los seis meses y son adultas al año.
+- Incidencia original: el enlace de activar escena de Shagambi apunta a
+  la propia página `w4pG6tMPtjxkqscF`. Se conserva y queda pendiente de
+  validación de navegación en Foundry.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 384 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 396 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
-  localizaciones del capítulo 2, 49 de su índice y treinta del capítulo 3.
-  No equivale a 384 páginas del PDF.
-- 858 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 858 campos distintos.
+  localizaciones del capítulo 2, 49 de su índice y 42 del capítulo 3.
+  No equivale a 396 páginas del PDF.
+- 882 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 882 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
