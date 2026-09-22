@@ -231,14 +231,26 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   referencia española dice cangreja. El presagio de Savras trata del futuro de
   recién nacidos, no de su aspecto físico. Las referencias técnicas siguen intactas.
 
+### ch1-prince-actors-01 — Biografías de los príncipes mercantes
+
+- Revisadas las siete biografías completas, nombres y nombres de ficha en el
+  compendio de actores y en la aventura: 42 campos. Referencias españolas de
+  las páginas físicas 26-28, contrastadas con cada original inglés.
+- Corregidos relaciones, negocios, precios, servicios, maldición de Jessamine
+  y recompensa de Wakanga. Se mantienen los destinos propios de cada copia,
+  el enlace sin destino de Ekene-Afa en el pack y la tirada de la aventura.
+- La revisión de las biografías no incluye las acciones ni los objetos de las
+  fichas. Auditorías técnica y editorial sin errores; sin comprobación visual.
+
 ## Balance de revisión editorial
 
 - 106 páginas de texto revisadas: seis de la introducción y cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32). No equivale a 106 páginas del PDF.
-- 214 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 214 campos distintos.
+- 256 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 256 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Faltan las biografías, objetos, tablas, ayudas, escenas e interfaz
+  insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
+  objetos, tablas, ayudas, escenas e interfaz
   relacionadas, además de los capítulos 2-5 y los apéndices.
 - Auditorías estáticas y editorial sin errores. No se han renovado las
   instantáneas de Babele ni realizado una importación completa de Adventure.
