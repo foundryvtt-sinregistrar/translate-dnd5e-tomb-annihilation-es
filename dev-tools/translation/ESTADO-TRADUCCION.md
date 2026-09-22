@@ -104,7 +104,34 @@ Commit del primer lote: `e7d2a12` — `Review introduction prose against Spanish
 - Auditoría de los 20.154 campos: cero ausencias y cero discrepancias de sintaxis,
   HTML o cifras. La comprobación visual de la tabla en Foundry queda pendiente.
 
-Siguiente lote: «Dirigir la aventura», comenzando por sus indicaciones generales.
+Commit de `intro-02`: `8b6bf18` — `Review Dramatis Personae names and descriptions`.
+
+### intro-03 — Dirigir la aventura: indicaciones generales y abreviaturas
+
+- Revisado el título y el fragmento inicial de `YmJBk6SpQqatzqxa`, hasta el final
+  de las abreviaturas. **La página completa sigue parcialmente revisada.**
+- Referencias: extracciones españolas de las páginas físicas 6 y 7, contrastadas
+  con el original inglés de Foundry. Sin comprobación visual del PDF en este lote.
+- Corregidas las instrucciones de lectura en voz alta, las referencias a los
+  perfiles y los manuales, y las 19 abreviaturas de reglas, monedas y alineamientos.
+- Se usan «pg», «CA», «CD», «PX», «ppt», «po», «pe», «pp» y «pc», con los
+  significados de la edición española. Se conserva el orden de los párrafos.
+- El primer párrafo mantiene los dos manuales enumerados por Foundry; el PDF
+  enumera tres. Se conserva también la mención posterior a la Guía del Dungeon
+  Master. Los títulos de los manuales se presentan en español.
+- Se conservan los tres UUID, la clase `fvtt narrative` y el diseño de las
+  abreviaturas. El resto de la página no se ha modificado.
+- El registro editorial delimita el fragmento mediante el encabezado de la
+  sección siguiente; sus huellas corresponden solo a ese fragmento. Se conserva
+  la equivalencia parcial en `reviewed-segments.json`, sin registrar como revisado
+  el texto completo. Se retiró la huella automática local de este campo mixto;
+  esa retirada no acredita la revisión de las secciones restantes.
+- Auditoría de los 20.154 campos: cero ausencias y cero discrepancias de sintaxis,
+  HTML o cifras. Comprobación visual en Foundry pendiente.
+
+Siguiente lote: «Resumen de la aventura» y el recuadro «¿Quién es Acererak?»
+dentro de «Dirigir la aventura». Después, revisar las reglas de la maldición de
+muerte, el avance de personajes y el inicio en niveles superiores.
 
 ## Trabajo que sigue pendiente
 

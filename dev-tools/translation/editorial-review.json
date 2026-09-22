@@ -67,6 +67,34 @@
           "status": "reviewed-against-es-pdf-visual-and-en-export"
         }
       ]
+    },
+    {
+      "id": "intro-03",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaIntroduction0.pages.YmJBk6SpQqatzqxa.name",
+          "sourceSha256": "f082e2e59a8eb3b1b1c4b582ec227723b7268a5a927525d92e7e3ce14be8441c",
+          "translationSha256": "9d9fc207b73e1c97428041b28bae94f09c6fc9e655b92839b952cd205d8e037d",
+          "pdfEsPage": 6,
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaIntroduction0.pages.YmJBk6SpQqatzqxa.text",
+          "scope": {
+            "type": "prefix-before-marker",
+            "sourceEndExclusive": "<h2>Adventure Summary</h2>",
+            "translationEndExclusive": "<h2>Resumen de la aventura</h2>"
+          },
+          "sourceSha256": "d2dbbd067c7b513f3f7c880153f1791d717f8904946f0892772ac72334d89f96",
+          "translationSha256": "5afdc273051655c8e5e732cc5ad0c8e1cdaf9a081d2cbed8b5279516f31c3d2e",
+          "pdfEsPages": [
+            6,
+            7
+          ],
+          "status": "partially-reviewed-against-es-extraction-and-en-export"
+        }
+      ]
     }
   ]
 }

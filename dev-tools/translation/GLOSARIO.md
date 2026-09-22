@@ -57,6 +57,12 @@ mantener la identificación de la criatura explícita en el original de Foundry.
 
 ## Criterios
 
+Abreviaturas revisadas en `intro-03` (PDF ES, página física 7): pg = puntos de
+golpe; CA = Clase de Armadura; CD = Clase de Dificultad; PX = puntos de experiencia;
+ppt = platino; po = oro; pe = electro; pp = plata; pc = cobre; PNJ = personaje no
+jugador. Alineamientos: LB, CB, NB, LN, N, CN, LM, CM y NM. Se traducen las siglas
+visibles; las claves internas y las fórmulas de Foundry mantienen su sintaxis.
+
 - Conservar el contenido mecánico de la edición de Foundry, incluso cuando
   difiera de las reglas impresas. No introducir conversiones numéricas de unidades.
 - Mantener IDs, UUID, rutas de recursos, fórmulas, comandos de macros y scripts.

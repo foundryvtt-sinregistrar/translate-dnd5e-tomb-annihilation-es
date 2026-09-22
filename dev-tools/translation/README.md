@@ -78,3 +78,9 @@ El avance por lotes se documenta en `ESTADO-TRADUCCION.md`.
 campos revisados en esos lotes. Las huellas identifican la versión revisada;
 no deben interpretarse como una aprobación de cambios posteriores del texto.
 Las equivalencias se conservan en `reviewed-segments.json` para su reutilización.
+
+Cuando una entrada editorial incluye `scope.type = prefix-before-marker`, solo
+está revisado el fragmento anterior al marcador indicado, que queda excluido.
+Las huellas se calculan sobre ese fragmento, no sobre el campo completo. Las
+equivalencias parciales no se aplican con `apply_pilot.py`, que solo reemplaza
+campos completos por coincidencia exacta; deben incorporarse con su contexto.
