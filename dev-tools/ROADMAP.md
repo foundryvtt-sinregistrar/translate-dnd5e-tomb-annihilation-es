@@ -13,7 +13,8 @@
 8. Configurar URLs de publicación y preparar
    una publicación después de verificar la instalación y la importación.
 
-Estado: esqueleto con referencias PDF EN/ES procesadas para consulta local.
+Estado: borrador integral, referencias PDF procesadas, exportación e inventario
+completados, interfaz traducida y piloto técnico creado en Foundry.
 Consultar [el estado de traducción](translation/ESTADO-TRADUCCION.md) y
-[la guía de referencias](export/README.md). Todavía no hay exportaciones de
-Foundry ni entradas traducidas.
+[la guía de referencias](export/README.md). Quedan la revisión editorial completa,
+la prueba de importación de toda la aventura en un mundo limpio y la publicación.

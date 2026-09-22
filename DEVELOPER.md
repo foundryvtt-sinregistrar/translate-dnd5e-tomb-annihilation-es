@@ -3,8 +3,8 @@
 ## Estructura
 
 - `module.json`: identidad, dependencias y versiones objetivo.
-- `lang/es.json`: espacio vacío para futuras claves de interfaz.
-- `compendium/`: cinco plantillas con `entries` y `folders` vacíos.
+- `lang/es.json`: 126 claves de interfaz traducidas.
+- `compendium/`: cinco packs con traducciones, incluidos borradores pendientes de revisión.
 - `scripts/babele-register.js`: registro de traducciones para español en `setup`.
 - `scripts/converters.js`: registro de convertidores con prefijo propio `toa`.
 - `scripts/converters/toa-merge-by-id.js`: combinación por ID de actividades,
@@ -13,7 +13,7 @@
 - `tests/`: pruebas adaptadas de registro, idiomas y convertidores declarados.
 
 Se reutiliza la infraestructura de DM 2024, basada en los módulos de traducción
-existentes. Los mapeos son iniciales y deben contrastarse con el contenido real.
+existentes. Los mapeos se contrastan con exportaciones originales y con la ejecución de Babele.
 
 ## Reglas de edición
 
@@ -36,7 +36,7 @@ No distribuir PDF, OCR, exportaciones inglesas ni recursos del producto original
 node --test tests/*.test.mjs
 ```
 
-Estas pruebas comprueban el registro y los convertidores del esqueleto, no la
-traducción de documentos ni la importación de Adventure en un mundo real.
+Estas pruebas comprueban el registro, los convertidores y la interfaz. Consultar
+`dev-tools/translation/README.md` para las auditorías de contenido y de ejecución.
 `.gitattributes` excluye herramientas, pruebas y documentación de desarrollo
 de un futuro ZIP construido con `git archive`.

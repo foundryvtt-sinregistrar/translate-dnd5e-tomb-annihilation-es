@@ -10,4 +10,10 @@
 - Referencias PDF EN/ES procesadas localmente, con extracción por página y OCR
   selectivo; herramienta reproducible y guía de consulta incluidas.
 - Identificador corregido a `translate-dnd5e-tomb-annihilation-es`.
-- Pendientes exportación, traducción, validación en Foundry y primera publicación.
+- Exportación original de los cinco packs y catálogo de campos anidados.
+- Borrador de traducción de 20.154 campos y 126 claves de interfaz en español.
+- Glosario, reutilización verificada, auditorías y herramientas de generación local.
+- Convertidores de carpetas, actores y modificaciones de fichas de Adventure.
+- Validación con Babele y esquemas de Foundry; cinco documentos de prueba.
+- Pendientes revisión lingüística completa, importación integral en mundo limpio
+  y primera publicación.

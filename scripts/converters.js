@@ -5,7 +5,10 @@ import {
   toaActorItemsById,
   toaTableResultsById,
   toaJournalPagesById,
-  toaSceneTextById
+  toaSceneTextById,
+  toaFolderNamesById,
+  toaAdventureActorsById,
+  toaSceneTokensById
 } from "./converters/toa-merge-by-id.js";
 
 /** Convertidores estructurados de Babele para los documentos de la Tumba de la Aniquilación. */
@@ -24,7 +27,10 @@ Hooks.once("babele.init", (babele) => {
       toaActorItemsById,
       toaTableResultsById,
       toaJournalPagesById,
-      toaSceneTextById
+      toaSceneTextById,
+      toaFolderNamesById,
+      toaAdventureActorsById,
+      toaSceneTokensById
     });
   });
 });

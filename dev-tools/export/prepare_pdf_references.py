@@ -42,7 +42,7 @@ def damaged_characters(text):
 
 
 def process_page(task):
-    language, filename, number, signature, tessdata = task
+    language, filename, number, signature, tessdata, force_ocr = task
     folder = OUT / language / 'pages'
     base = folder / f'{number:04d}'
     meta = base.with_suffix('.json')
@@ -58,7 +58,7 @@ def process_page(task):
         base.with_suffix('.native.txt').write_text(native, encoding='utf-8')
         write_json(base.with_suffix('.blocks.json'), blocks)
         damaged = damaged_characters(native)
-        ocr = damaged > 3 or len(native.strip()) < 80
+        ocr = force_ocr or damaged > 3 or len(native.strip()) < 80
         if ocr:
             scratch = ROOT / 'tmp/pdf-pages'
             scratch.mkdir(parents=True, exist_ok=True)
@@ -99,6 +99,7 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--tessdata', type=Path, default=ROOT / 'tmp/tessdata')
     parser.add_argument('--workers', type=int, default=4)
+    parser.add_argument('--ocr-all', nargs='*', choices=['es', 'en'], default=[])
     args = parser.parse_args()
     engine = subprocess.check_output([str(TESSERACT), '--version']).decode().splitlines()[0]
     reports = []
@@ -111,13 +112,14 @@ def main():
             write_json(folder / 'bookmarks.json', pdf.get_toc())
         config = {'source_sha256': digest(source), 'pymupdf': pymupdf.VersionBind,
                   'tesseract': engine, 'model_sha256': digest(args.tessdata / ('spa.traineddata' if language == 'es' else 'eng.traineddata')),
-                  'script_sha256': digest(Path(__file__)), 'dpi': 300, 'psm': 3}
+                  'script_sha256': digest(Path(__file__)), 'dpi': 300, 'psm': 3,
+                  'force_ocr': language in args.ocr_all}
         signature = hashlib.sha256(json.dumps(config, sort_keys=True).encode()).hexdigest()
         report = {'source': name, 'language': language, 'page_count': count, 'config': config, 'status': 'incomplete'}
         write_json(folder / 'manifest.json', report)
         records, errors = [], []
         with ThreadPoolExecutor(max_workers=args.workers) as pool:
-            tasks = {pool.submit(process_page, (language, str(source), n, signature, args.tessdata)): n for n in range(1, count + 1)}
+            tasks = {pool.submit(process_page, (language, str(source), n, signature, args.tessdata, language in args.ocr_all)): n for n in range(1, count + 1)}
             for future in as_completed(tasks):
                 try:
                     records.append(future.result())

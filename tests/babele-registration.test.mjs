@@ -51,7 +51,7 @@ for (const language of ["es", "es-ES", "en", "en-US", "fr"]) {
                 for (const pack of ["adventures", "actors", "items", "tables", "macros"]) {
                     const data = JSON.parse(readFileSync(new URL(`../compendium/dnd-tomb-annihilation.${pack}.json`, import.meta.url)));
                     for (const mapping of Object.values(data.mapping)) {
-                        if (mapping.converter) assert.equal(typeof converters[mapping.converter], "function", mapping.converter);
+                        if (mapping.converter && mapping.converter !== "document") assert.equal(typeof converters[mapping.converter], "function", mapping.converter);
                     }
                 }
             }

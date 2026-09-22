@@ -1,8 +1,10 @@
 # La tumba de la aniquilación — Español (Babele)
 
-Esqueleto del módulo `translate-dnd5e-tomb-annihilation-es`, versión `0.1.0`.
-No contiene entradas traducidas
-ni constituye una publicación instalable desde una URL remota.
+Borrador del módulo `translate-dnd5e-tomb-annihilation-es`, versión `0.1.0`.
+Incluye traducción de los cinco compendios y 126 textos de interfaz.
+**La revisión lingüística completa sigue pendiente:** una parte importante del
+contenido procede de traducción automática local. No es una edición final ni
+una publicación instalable desde una URL remota.
 
 ## Entorno objetivo
 
@@ -10,8 +12,9 @@ ni constituye una publicación instalable desde una URL remota.
 - Babele 2.9.1 y sus dependencias.
 - Módulo oficial `dnd-tomb-annihilation` 2.0.0 instalado y activo.
 
-Las versiones del manifiesto son el objetivo del esqueleto. La carga y la
-importación de la aventura todavía deben comprobarse dentro de Foundry.
+La carga de Babele y los esquemas se han comprobado en este entorno. Se han
+creado cinco documentos de prueba; la reimportación completa de la aventura
+en un mundo limpio sigue pendiente.
 
 ## Instalación local
 
@@ -21,8 +24,8 @@ importación de la aventura todavía deben comprobarse dentro de Foundry.
 4. Seleccionar español y recargar el mundo.
 
 El registro de Babele espera a `setup`, cuando existe `core.language`, y se
-limita a español y variantes regionales. Solo hay plantillas vacías; el contenido
-de la aventura seguirá en inglés hasta incorporar las traducciones.
+limita a español y variantes regionales. Los documentos que ya estaban
+importados en un mundo no se sustituyen automáticamente al activar el módulo.
 
 ## Compendios preparados
 
@@ -36,8 +39,10 @@ de la aventura seguirá en inglés hasta incorporar las traducciones.
 
 La lista procede del manifiesto del módulo oficial local. Los diarios y escenas
 deben inventariarse dentro de la aventura: no se han inventado packs separados.
-La plantilla de aventura prepara nombre, descripción y leyenda; falta contrastar
-la traducción de sus colecciones anidadas con una exportación real.
+La traducción de Adventure incluye 475 actores, 79 diarios con 1.033 páginas,
+42 escenas y 41 carpetas. También cubre textos de modificaciones locales de
+fichas. Los nombres propios y los fragmentos puramente técnicos pueden coincidir
+con el original. Las imágenes oficiales conservan los textos que lleven integrados.
 
 ## Desarrollo
 
@@ -56,4 +61,4 @@ Los PDF, OCR y exportaciones se guardan en `dev-tools/export/data/`, excluidos
 de Git y del paquete de distribución.
 
 Traducción no oficial, sin afiliación con Wizards of the Coast ni Foundry VTT.
-Requiere el contenido oficial; este esqueleto no incluye sus datos ni recursos.
+Requiere el contenido oficial; este módulo no incluye sus bases de datos ni recursos gráficos.

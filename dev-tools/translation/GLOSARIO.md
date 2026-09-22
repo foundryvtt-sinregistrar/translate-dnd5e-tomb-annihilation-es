@@ -1,0 +1,43 @@
+# Glosario y criterios
+
+La edición española aportada es la referencia de nombres propios del libro.
+Las páginas siguientes son posiciones físicas en el PDF, empezando en 1.
+El fichero `reviewed-segments.json` contiene equivalencias breves para aplicar
+de manera uniforme. Incluye también traducciones editoriales de interfaz y
+términos generales; no todas sus entradas son citas del libro.
+
+| Inglés | Español | Referencia ES |
+|---|---|---|
+| Soulmonger | Almero | 6-8 |
+| Death Curse | Maldición de muerte | 6-8 |
+| Port Nyanzaru | Puerto Nyanzaru | 4, 16 |
+| The Land of Chult | Las tierras de Chult | 4, 38 |
+| Aldani Basin | Cuenca Aldani | 52 |
+| Heart of Ubtao | Corazón de Ubtao | 50-52 |
+| Firefinger | Dedo de Fuego | 7 |
+| Fane of the Night Serpent | El Fano de la Serpiente Nocturna | 4 |
+| Tomb of the Nine Gods | La Tumba de los Nueve Dioses | 4, 6 |
+| Rotten Halls | Salones Putrefactos | 4 |
+| Dungeon of Deception | Mazmorra de los Engaños | 4 |
+| Vault of Reflection | Bóveda del Reflejo | 4 |
+| Chambers of Horror | Cámaras del Horror | 4 |
+| Gears of Hate | Engranajes del Odio | 4 |
+| Cradle of the Death God | Cuna del Dios de la Muerte | 4 |
+| Mantrap | Atrapahombres | 4 |
+| Flail Snail | Caracol flagelo | 4 |
+| Flying Monkey | Mono volador | 4 |
+| Giant Snapping Turtle | Tortuga mordedora gigante | 4 |
+| Thorny | Espinoso | 4 |
+| Su-Monster | Sucarate | 4 |
+
+## Criterios
+
+- Conservar el contenido mecánico de la edición de Foundry, incluso cuando
+  difiera de las reglas impresas. No introducir conversiones numéricas de unidades.
+- Mantener IDs, UUID, rutas de recursos, fórmulas, comandos de macros y scripts.
+- Traducir etiquetas visibles de enlaces, conservando su destino.
+- No sustituir imágenes oficiales. Los mapas y ayudas que llevan texto integrado
+  en la imagen pueden seguir mostrando inglés aunque su nombre esté traducido.
+- Preferir «conjuro», «tirada de salvación», «acción adicional» y «cansancio».
+- Distinguir cobertura técnica, reutilización de otras traducciones y revisión
+  lingüística contra el PDF. Una traducción automática no acredita esta última.

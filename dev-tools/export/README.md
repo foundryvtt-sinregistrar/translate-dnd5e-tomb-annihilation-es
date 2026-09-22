@@ -35,6 +35,8 @@ Se conserva el flujo de texto del PDF para evitar mezclar líneas de columnas
 contiguas. Se aplica OCR a páginas con menos de 80 caracteres o más de tres
 caracteres alfabéticos ajenos al alfabeto latino, de sustitución o de uso privado.
 Este criterio detecta problemas de codificación, pero no todos los errores.
+La revisión posterior encontró texto español dañado que parecía latino. Por eso
+la caché actual usa **OCR en las 259 páginas españolas**, mediante `--ocr-all es`.
 Las páginas de pocas palabras o baja confianza aparecen en `review_pages`.
 Estas pueden ser ilustraciones, mapas o páginas vacías.
 
@@ -58,7 +60,7 @@ en `tmp/tessdata`, y Tesseract en `C:/Program Files/Tesseract-OCR`.
 
 ```powershell
 python -m pip install --target tmp/pdf-runtime pymupdf
-python dev-tools/export/prepare_pdf_references.py
+python dev-tools/export/prepare_pdf_references.py --ocr-all es
 ```
 
 Se pueden indicar modelos alternativos con `--tessdata RUTA` y ajustar
@@ -66,3 +68,19 @@ Se pueden indicar modelos alternativos con `--tessdata RUTA` y ajustar
 se serializa. El proceso reutiliza páginas cuya firma coincide con las fuentes,
 las herramientas, los modelos y el script. El resultado solo está completo
 cuando los dos manifiestos tienen `status: complete` y `errors: []`.
+
+## Exportación de Foundry
+
+Ejecutar como GM desde una macro de tipo Script, antes de activar esta traducción:
+
+```js
+const {exportCompendiums} = await import("/modules/translate-dnd5e-tomb-annihilation-es/dev-tools/export/export-compendiums.mjs");
+await exportCompendiums();
+```
+
+Exporta los cinco packs originales mediante la API de documentos y escribe
+`toa-export-inventory.json` al final, con SHA-256 y versiones. Rechaza packs
+traducidos y marcas de Babele. No modifica los compendios oficiales.
+Para regenerar las fuentes, desactivar esta traducción y recargar primero.
+Las exportaciones incluyen los documentos anidados de Adventure; sus recuentos
+completos se obtienen con `python dev-tools/translation/inventory.py`.

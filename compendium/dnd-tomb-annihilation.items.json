@@ -18,6 +18,1701 @@
     "unidentifiedDescription": "system.unidentified.description",
     "requirements": "system.requirements"
   },
-  "folders": {},
-  "entries": {}
+  "folders": {
+    "Trickster Gods": "Dioses tramposos",
+    "Poisons": "Venenos",
+    "Area 52": "Zona 52",
+    "Area 71": "Zona 71",
+    "Containers": "Contenedores",
+    "Vehicles": "Vehículos",
+    "Flora and Fauna": "Flora y Fauna",
+    "Chapter 2": "Capítulo 2",
+    "Boons": "Boons",
+    "Chapter 3": "Capítulo 3",
+    "Magic Items": "Artículos mágicos",
+    "Chapter 4": "Capítulo 4",
+    "Mundane Items": "Elementos Mundane",
+    "Area 74": "Zona 74",
+    "Equipment": "Equipo",
+    "Backgrounds": "Antecedentes",
+    "Supplemental Items": "Temas suplementarios",
+    "Chapter 5": "Capítulo 5",
+    "Features and Equipment": "Características y equipo",
+    "Area 56": "Zona 56",
+    "Puzzle Cubes": "Cubos de rompecabezas",
+    "Area 49C": "Zona 49C",
+    "Area 53": "Zona 53",
+    "Area 55": "Zona 55",
+    "Area 63": "Zona 63",
+    "Area 48": "Zona 48",
+    "Area 62D": "Zona 62D",
+    "Area 67": "Zona 67",
+    "Area 80": "Zona 80",
+    "Area 02": "Zona 02",
+    "Area 12": "Zona 12",
+    "Area 19": "Zona 19",
+    "Area 31A": "Zona 31A",
+    "Area 22": "Zona 22",
+    "Area 23": "Zona 23",
+    "Area 24": "Zona 24",
+    "Area 28": "Zona 28",
+    "Area 32": "Zona 32",
+    "Area 33": "Zona 33",
+    "Area 35B": "Zona 35B",
+    "Area 37": "Zona 37",
+    "Area 39": "Zona 39",
+    "Area 42": "Zona 42",
+    "Area 43": "Zona 43",
+    "Area 44B": "Zona 44B"
+  },
+  "entries": {
+    "0AdOEoqkCYgxTld8": {
+      "name": "Rubí",
+      "description": "<p>Un rubí encontrado en un cofre en el Dedo de Fuego.</p>"
+    },
+    "1z3XpdV5mi1W4adY": {
+      "name": "Zafiro",
+      "description": "<p>Un zafiro encontrado en un templario muerto en las letrinas dCampamento Justicia.</p>"
+    },
+    "2NQledzkhigVyUoX": {
+      "name": "Varita de miedo",
+      "description": "<p><em>(Requiere sintonía)</em></p>\n<p>Esta varita tiene 7 cargos por las siguientes propiedades. Se recupera 1d6 + 1 gastos gastados diariamente al amanecer. Si gastas la última carga de la varita, lanza un d20. En un 1, la varita se desmorona en cenizas y es destruida.</p>\n<p><strong>Comando</strong>. Mientras sostienes la varita, puedes usar una acción para gastar 1 carga y ordenar a otra criatura que huya o se agache, como con el @UUID[Compendium.dnd5e.spells.Item.arzCrMRgcNiQuh43]{Comando} conjuro (salvo CD 15).</p>\n<p><strong>Cono de miedo</strong>. Mientras sostienes la varita, puedes usar una acción para gastar 2 cargas, haciendo que la punta de la varita emita un cono de 60 pies de luz ámbar. Cada criatura en el cono debe tener éxito en un lanzamiento de ahorro de la sabiduría CD 15 o tener miedo de usted durante 1 minuto. Mientras está asustado de esta manera, una criatura debe pasar sus turnos tratando de moverse lo más lejos posible de ti, y no puede moverse voluntariamente a un espacio a menos de 30 pies de ti. Tampoco puede tomar reacciones. Para su acción, puede utilizar sólo la acción Dash o tratar de escapar de un efecto que impide que se mueva. Si no tiene ningún lugar donde se pueda mover, la criatura puede usar la acción Dodge. Al final de cada uno de sus giros, una criatura puede repetir el lanzamiento de ahorro, terminando el efecto en sí misma en un éxito.</p>",
+      "activities": {
+        "dnd5eactivity000": {
+          "name": "Cono de miedo"
+        }
+      }
+    },
+    "2PaWwU41n9rC0KQC": {
+      "name": "Valija (10 gp)",
+      "description": "<p>Una bolsa de tela o cuero puede contener hasta 20 balas de honda o 50 agujas de la sopleta, entre otras cosas. Una bolsa compartimentada para sujetar componentes del conjuro se llama bolsa del componente. Una bolsa puede contener hasta ⅕ de pie cúbico o 6 libras de equipo.</p>"
+    },
+    "2iZ4CIkn1Ct8mQdW": {
+      "name": "Pergamino ortográfico: Purificar la comida y la bebida",
+      "description": "<p><em>1er nivel &amp;Reference[Spell Scroll]</em></p><p>Todos los alimentos y bebidas no mágicos dentro de una esfera de 5 pies de radio centrada en un punto de su elección dentro del rango se purifican y se convierten en libres de veneno y enfermedad.</p>"
+    },
+    "3Nh6mj37LuW20IZS": {
+      "name": "Flecha +1",
+      "description": "<p>Munición utilizada para arcos de todas las variedades. Ha sido imbuido de magia.</p>\n<p>Tienes un bono para atacar y dañar rollos hechos con esta pieza de munición mágica. Una vez que alcanza un objetivo, la munición ya no es mágica.</p>"
+    },
+    "3PGcU29sfZky5ckm": {
+      "name": "La valija de Sefirio",
+      "description": "<p>Una bolsa de tela o cuero puede contener hasta 20 balas de honda o 50 agujas de la sopleta, entre otras cosas. Una bolsa compartimentada para sujetar componentes del conjuro se llama bolsa del componente. Una bolsa puede contener hasta ⅕ de pie cúbico o 6 libras de equipo.</p>"
+    },
+    "47RZaRBpLWbOFN4l": {
+      "name": "El valija de Lord Brixton"
+    },
+    "4M5Wpfl3qnNdDJIj": {
+      "name": "El tesoro de Papazotl"
+    },
+    "4VcumtC3F0M1w4QS": {
+      "name": "Poción de curación",
+      "description": "<p><em>La poción brilla en rojo cuando se agita.</em></p><p>Usted recupera 2d4+2 puntos de golpe cuando usted bebe esta poción.</p>"
+    },
+    "4ZDnLC18j0cGAGop": {
+      "name": "Ópalo",
+      "description": "<p>Un ópalo encontrado en un templario muerto en las letrinas dCampamento Justicia.</p>"
+    },
+    "4deps3WocWqUrlfp": {
+      "name": "Herramientas de peletero",
+      "description": "<p>Estas herramientas especiales incluyen los artículos necesarios para perseguir una artesanía o comercio en el trabajo del cuero.</p>\n<p>El dominio de un conjunto de herramientas artesanales le permite añadir su bono de habilidad a cualquier control de habilidad que realice utilizando las herramientas de su oficio. Cada tipo de herramientas artesanales requiere una habilidad separada.</p>"
+    },
+    "4iYOSes23ps0cYYG": {
+      "name": "Espada larga",
+      "description": "<p>[[/attack extended]]. [[/damage extended average]] o [[/damage twoHanded average]] daño si se utiliza con dos manos.</p><p>La espada tiene una propiedad mágica menor: su portador gana la capacidad de hablar y entender el lenguaje Draconic.</p>"
+    },
+    "4vWnKFrBQcYr179F": {
+      "name": "Zafiro",
+      "description": "<p>Un zafiro encontrado en un pecho en Firefinger.</p>"
+    },
+    "4vofYizMEcliLIGP": {
+      "name": "Antorcha",
+      "description": "<p>Una antorcha se quema durante 1 hora, proporcionando una luz brillante en un radio de 20 pies y una luz tenue para otros 20 pies. Si hace un ataque cuerpo a cuerpo con una antorcha encendida y golpea, le da 1 daño al fuego.</p>"
+    },
+    "506FVb3GuOkXS6Ak": {
+      "name": "Flecha",
+      "description": "<p>Munición estándar utilizada para arcos de todas las variedades. Estas flechas mundanas están hechas de árboles de madera lisa con plumas de ganso fletching y petacas de metal martillo.</p>"
+    },
+    "5IiQnltlB6iUtmf3": {
+      "name": "Battleaxe enano +1",
+      "description": "<p>[[/attack extended]]. [[/damage extended average]] o [[/damage twoHanded average]] si se utiliza con dos manos.</p><p>Esta arma flota en el agua y otros líquidos, otorgando su ventaja portadora en los controles de fuerza (atléticos) hechos para nadar. En el haft de la acorazada están las runas Dethek (Dwarvish) que deletrean el nombre del arma: Bob.</p>"
+    },
+    "5sZnsFNkKUVo3MaX": {
+      "name": "Sarcófago de la reina del sol"
+    },
+    "6OhOKjOXvXCi8FCl": {
+      "name": "Ojo de cristal azul oscuro",
+      "description": "<p>Obtuviste este globo de cristal azul en la Tumba de I'jin, situado en la Tumba de los Nueve Dioses.</p>"
+    },
+    "79qPxVOrjjAVXPLN": {
+      "name": "Pergamino ortográfico: Fabricar",
+      "description": "<p><em>4o nivel &amp;Reference[Spell Scroll]</em></p><p>Convierte las materias primas en productos del mismo material. Por ejemplo, se puede fabricar un puente de madera de un grupo de árboles, una cuerda de un trozo de cáñamo, y ropa de lino o lana.</p><p>Elija las materias primas que puede ver dentro del rango. Se puede fabricar un objeto grande o pequeño (contenido dentro de un cubo de 10 pies, u ocho cubos de 5 pies conectados), dada una cantidad suficiente de materia prima. Sin embargo, si trabaja con metal, piedra u otra sustancia mineral, el objeto fabricado no puede ser mayor que el medio (contenido en un solo cubo de 5 pies). La calidad de los objetos realizados por el conjuro es proporcional a la calidad de las materias primas.</p><p>Criaturas o Artículos Mágicos no pueden ser creados o transmutados por este conjuro. Tampoco puedes usarlo para crear artículos que normalmente requieren un alto grado de artesanía, como joyas, armas, vidrio o armadura, a menos que tengas competencia con el tipo de herramientas artesanales que se utilizan para crear tales objetos.</p>"
+    },
+    "7FXXC30bQYm6T0K8": {
+      "name": "Cimitarra de Zaroum Al-Sarya",
+      "description": "<p>[[/attack extended]]. [[/damage extended average]].</p><p>Esta hoja curva tiene piedras preciosas incrustadas en la empuñadura, estrechas cerca del mango envuelto pero que se ensanchan hacia una punta brillante.</p>"
+    },
+    "7n8APEuZvoRsKvGs": {
+      "name": "Caja de mapa de madera",
+      "description": "<p>Una caja de madera que contiene un mapa de una ruina o mazmorra</p>"
+    },
+    "8ydmXODpIqI4dRow": {
+      "name": "Mastodon dorados valiosos"
+    },
+    "ANRc8diNsoclyIfN": {
+      "name": "El tesoro de Keshma"
+    },
+    "BPmAaXqZvmkOP7KD": {
+      "name": "Cuerda Hempen (50 pies)",
+      "description": "<p>Cuerda, ya sea de cáñamo o seda, tiene 2 puntos de impacto y puede ser reventado con un control de fuerza CD 17.</p>"
+    },
+    "CmdmoB6i7H9pAcJd": {
+      "name": "Ojo de cristal rosado",
+      "description": "<p>Encontraste un ojo tallado de un cristal rosado en el estanque Golem en la tumba de los nueve dioses.</p>"
+    },
+    "CvqNPYpYw4zRXtYr": {
+      "name": "Poción de mayor curación",
+      "description": "<p><em>La poción brilla en rojo cuando se agita.</em></p><p>Usted recupera 4d4+4 puntos de golpe cuando usted bebe esta poción.</p>"
+    },
+    "DEHllCkN9GLW7cNF": {
+      "name": "Mano de Bigby (hielo)",
+      "description": "<p>Creas una mano grande de fuerza brillante y translúcida en un espacio desocupado que puedes ver dentro del rango. La mano dura para la Duración del conjuro, y se mueve a tus órdenes, imitando los movimientos de tu propia mano.</p><p>La mano es un objeto que tiene AC 20 e Hit Points igual a su punto de impacto máximo. Si cae a 0 puntos de impacto, el conjuro termina. Tiene una Fuerza de 26 (+8) y una Dexteridad de 10 (+0). La mano no llena su espacio.</p><p>Cuando usted lanza el conjuro y como una acción adicional en sus vueltas posteriores, usted puede mover la mano hasta 60 pies y luego causar uno de los siguientes efectos con él.</p><p><strong>Puño cerrado</strong>. La mano golpea a una criatura u objeto a menos de 5 pies de ella. Hacer un conjuro cuerpo a cuerpo Ataque para la mano usando su juego Estadísticas. En un golpe, el objetivo recibe 4d8 daños por fuerza.</p><p><strong>Mano fuerte</strong>. La mano intenta empujar a una criatura dentro de 5 pies de ella en la dirección que elija. Haga un chequeo con la Fuerza de la mano disputada por la Fuerza (Atlética) de la comprobación del objetivo. Si el objetivo es mediano o más pequeño, usted tiene ventaja en el cheque. Si tienes éxito, la mano empuja el objetivo hasta 5 pies más un número de pies igual a cinco veces su modificador de capacidad de Spellcasting. La mano se mueve con el objetivo para permanecer a menos de 5 pies de él.</p><p><strong>Mano de agarre</strong>. La mano trata de bregar con una criatura enorme o más pequeña a menos de 5 pies de distancia. Usas la puntuación de fuerza de la mano para resolver el problema. Si el objetivo es mediano o más pequeño, usted tiene ventaja en el cheque. Mientras que la mano está agarrando el objetivo, usted puede utilizar una acción adicional para tener la mano aplastarlo. Cuando lo haces, el objetivo recibe un daño de apaleamiento igual a 2d6 + tu modificador de capacidad de Spellcasting.</p><p><strong>Mano interpuesta</strong>. La mano se interpone entre usted y una criatura que usted elija hasta que le da a la mano una orden diferente. La mano se mueve para permanecer entre usted y el objetivo, proporcionándole media cubierta contra el objetivo. El objetivo no puede moverse a través del espacio de la mano si su puntuación de fuerza es menor o igual a la puntuación de fuerza de la mano. Si su puntuación de fuerza es más alta que la puntuación de fuerza de la mano, el objetivo puede moverse hacia usted a través del espacio de la mano, pero ese espacio es terreno difícil para el objetivo.</p>",
+      "activities": {
+        "gSwGZaO7FU2ENmVm": {
+          "name": "Convocatoria"
+        }
+      }
+    },
+    "DteX4yGPkUJAZscm": {
+      "name": "Esmeralda",
+      "description": "<p>Una esmeralda encontrada en un templario muerto en las letrinas del Camp Righteous.</p>"
+    },
+    "E8y0xiFk4wnjRTJh": {
+      "name": "Carcaj",
+      "description": "<p>Este temblor puede sostener hasta 20 flechas. Es un aljaba de cuero negro bordado con un mapa de estrellas de cuarzo. Fue encontrado en los Barrios de Fenthaza en el templo dedicado a Dendar la Serpiente Nocturna.</p>"
+    },
+    "EKEVYYI4wYXVPzYc": {
+      "name": "Cuchillo pequeño",
+      "description": "<p>Un cuchillo contundente usado por los eruditos para abrir cartas y correspondencia.</p>"
+    },
+    "FDyWQxiGpAEMpNGR": {
+      "name": "Valija (25 gp)",
+      "description": "<p>Una bolsa de tela o cuero puede contener hasta 20 balas de honda o 50 agujas de la sopleta, entre otras cosas. Una bolsa compartimentada para sujetar componentes del conjuro se llama bolsa del componente. Una bolsa puede contener hasta ⅕ de pie cúbico o 6 libras de equipo.</p>"
+    },
+    "FUdvtVMTTaGftw6a": {
+      "name": "Diario con cubierta de cuero",
+      "description": "<p>Un libro puede contener poesía, relatos históricos, información relativa a un campo particular de la tradición, diagramas y notas sobre artilugios gnomish, o casi cualquier otra cosa que pueda ser representada usando texto o imágenes.</p>"
+    },
+    "FepF9Ep8PSQA0ean": {
+      "name": "Piedra preciosa de ónice",
+      "description": "<p>Una gema de ónix fue descubierta en un saco dentro de la cabaña de Nanny Pu'pu en Mbala.</p>"
+    },
+    "Gce9CkNKuJgaE9tn": {
+      "name": "Paquete del explorador",
+      "description": "<p>Una mochila puede sostener un pie cúbico o 30 libras de equipo. También puedes atar objetos, como un roll de cama o una bobina de cuerda, al exterior de una mochila.</p>"
+    },
+    "II7y1G16n4FNJn5i": {
+      "name": "Pergamino ortográfico: Comuna con la Naturaleza",
+      "description": "<p><em>5o nivel &amp;Reference[Spell Scroll]</em></p><p>Se convierten brevemente en uno con la naturaleza y adquieren conocimiento del territorio circundante. En el exterior, el conjuro te da conocimiento de la tierra a menos de 3 millas de ti. En cuevas y otros entornos subterráneos naturales, el radio está limitado a 300 pies. El conjuro no funciona donde la naturaleza ha sido reemplazada por la construcción, como en mazmorras y ciudades.</p><p>Usted instantáneamente obtiene conocimiento de hasta tres hechos de su elección sobre cualquiera de los siguientes temas en cuanto se relacionan con el área:</p>\n<ul>\n<li>terreno y cuerpos de agua</li>\n<li>plantas, minerales, animales o pueblos prevalentes</li>\n<li>celestes, fey, demonios, elementales, o muertos vivientes</li>\n<li>influencia de otros planos de existencia</li>\n<li>edificios</li>\n</ul>\n<p>Por ejemplo, se puede determinar la ubicación de poderosos no-muertos en la zona, la ubicación de las principales fuentes de agua potable y la ubicación de cualquier ciudad cercana.</p>"
+    },
+    "IMi5xvbQUXwvGYcG": {
+      "name": "Yesquero",
+      "description": "<p>Este pequeño recipiente contiene pedernal, acero al fuego y tinte (normalmente paño seco empapado en aceite ligero) utilizado para encender un fuego. Usarlo para encender una antorcha - o cualquier otra cosa con combustible abundante y expuesto - toma una acción. Encender cualquier otro fuego toma 1 minuto.</p>\n<p> </p>"
+    },
+    "IPN1rtgAmvJ5vIE1": {
+      "name": "Veneno de Serpiente (lesión)",
+      "description": "<p>Este veneno debe ser cosechado de un muerto o incapacitado <strong>serpiente venenosa gigante</strong>. Una criatura sometida a este veneno debe tener éxito en un [[/save format=long]], tomando [[/damage average]] daño en un error de guardar, o la mitad de daño en un éxito.</p><p><em><strong>Lesiones</strong></em>. El veneno para lesiones se puede aplicar a armas, municiones, componentes de trampas y otros objetos que causan daños por perforación o corte y permanecen potentes hasta que se liberan a través de una herida o se lavan. Una criatura que recibe daño por perforación o corte de un objeto cubierto con el veneno está expuesta a sus efectos.</p>"
+    },
+    "IZiP1h922lWl4kXg": {
+      "name": "Esmeralda",
+      "description": "<p>Una gema esmeralda fue descubierta en el naufragio del Narwhal.</p>"
+    },
+    "JBTfxHx8l2Ga5PAc": {
+      "name": "Amuleto de salud",
+      "description": "<p><em>Artículo maravilloso (requiere sintonía)</em></p>\n<p>Tu puntuación constitucional es 19 mientras usas este amuleto. No tiene ningún efecto en ti si tu Constitución ya tiene 19 años o más sin ella.</p>",
+      "effects": {
+        "EDhQAxztAvrCtTMV": {
+          "name": "Amuleto de salud",
+          "description": "<p>Tu puntuación constitucional es 19 mientras usas este amuleto. No tiene ningún efecto en ti si tu Constitución ya tiene 19 años o más sin ella.</p>"
+        }
+      }
+    },
+    "JKAcLyea9acOWPIn": {
+      "name": "Collar de bolas de fuego",
+      "description": "<p><em>Objeto maravilloso</em></p><p>Este collar tiene 1d6 + 3 cuentas colgando de él. Puedes usar una acción para separar una cuenta y lanzarla hasta 60 pies de distancia. Cuando alcanza el final de su trayectoria, la cuenta detona como un conjuro de nivel 3 de @UUID[Compendium.dnd5e.spells.Item.ztgcdrWPshKRpFd0]{Bola de fuego} conjuro (salvo CD 15).</p><p>Puedes lanzar múltiples cuentas, o incluso todo el collar, como una sola acción. Cuando lo hagas, aumenta el nivel de la bola de fuego en 1 por cada cuenta más allá de la primera.</p><section class=\"secret foundry-note\" id=\"secret-BPYFYGO4aUSbDiBj\"><p><strong>Nota de Foundry</strong></p><p>Los 9 cargos representan el número máximo de cuentas posible de encontrar; por favor, ajuste según sea necesario. El botón Otra fórmula se puede utilizar para hacer rodar el daño adicional para las cuentas adicionales lanzadas.</p><p>Además, aquí hay una guía de precios dependiendo del número de cuentas que aún quedan. Estos precios son sólo una guía y deben ser ajustados en consecuencia para reflejar el mundo del Máster Dungeon:</p><table><thead><tr><td><strong>Número de cuentas</strong></td><td><strong>Precio (gp)</strong></td></tr></thead><tbody><tr><td>8</td><td>30,720</td></tr><tr><td>7</td><td>15,360</td></tr><tr><td>6</td><td>7680</td></tr><tr><td>5</td><td>3840</td></tr><tr><td>4</td><td>1600</td></tr><tr><td>3</td><td>960</td></tr><tr><td>2</td><td>480</td></tr><tr><td>1</td><td>300</td></tr></tbody></table></section>"
+    },
+    "JSVjKtNyak5hcgqh": {
+      "name": "Pouch del cinturón de Bravus",
+      "description": "<p>Una bolsa de componentes es una bolsa de cuero pequeña y hermética que tiene compartimentos para contener todos los componentes de material y otros artículos especiales que necesita para lanzar sus conjuros, excepto aquellos componentes que tienen un costo específico (como se indica en la descripción de un conjuro).</p>"
+    },
+    "JVpGlXWD8X70T31T": {
+      "name": "Pecho atrapado",
+      "description": "<p>El interior del pecho está forrado con plomo y contiene 300 gp, una jarra de oro en relieve con una cara triste que sonríe cuando la jarra está llena (250 gp), y un tubo de hueso con tapón que contiene un pergamino conjuro de quitar la maldición.</p>"
+    },
+    "Jaqlc33GipcoKdC4": {
+      "name": "Pergamino ortográfico: Puerta Arcana",
+      "description": "<p><em>Nivel 6 &amp;Reference[Spell Scroll], Requiere concentración</em></p><p>Usted crea portales de teletransportación enlazados que permanecen abiertos durante la duración. Elija dos puntos en el suelo que puede ver, un punto a menos de 10 pies de usted y un punto a menos de 500 pies de usted. Un portal circular, de 10 pies de diámetro, se abre sobre cada punto. Si el portal se abriría en el espacio ocupado por una criatura, el conjuro falla, y el casting se pierde.</p><p>Los portales son anillos bidimensionales brillantes llenos de niebla, que flotan pulgadas desde el suelo y perpendiculares a él en los puntos que elija. Un anillo es visible sólo desde un lado (su elección), que es el lado que funciona como un portal.</p><p>Cualquier criatura u objeto que entre en el portal sale del otro portal como si ambos estuvieran adyacentes entre sí; pasar por un portal desde el lado no portal no tiene efecto. La niebla que llena cada portal es opaca y bloquea la visión a través de él. En su turno, puede girar los anillos como una acción adicional para que el lado activo se enfrenta en una dirección diferente.</p>",
+      "activities": {
+        "KR58r9V0HjqLMbhA": {
+          "target": {
+            "affects": {
+              "special": "1 en 10 pies, el otro en 500 pies"
+            }
+          }
+        }
+      }
+    },
+    "Jp13nR3OsV46e1Uw": {
+      "name": "Huevo petrificado de labranza",
+      "description": "<p><em>Artículo maravilloso, (requiere sintonía por un hechicero)</em></p><p>Mientras que este huevo grung petrificado (perla de poder) está en su persona, usted puede utilizar una acción para hablar su palabra de comando y recuperar una espacio de conjuro gastado. Si la ranura gastada era de 4o nivel o superior, la nueva ranura es 3o nivel. Una vez que usas la perla, no se puede volver a usar hasta el próximo amanecer.</p><section id=\"secret-L7ibXA9hHBoMAJvs\" class=\"secret\"><p><strong>Nota de Foundry</strong></p><p>Un efecto activo se ha configurado para añadir resistencia al daño por veneno a su hoja de caracteres.</p></section>",
+      "activities": {
+        "dnd5eactivity000": {
+          "activation": {
+            "condition": "Palabra de comando."
+          }
+        }
+      },
+      "effects": {
+        "0SJMWHDWT5SD4JFA": {
+          "name": "Resistencia al daño por veneno",
+          "description": "<p>Un hechicero que se adapta al huevo grañon petrificado también gana resistencia al daño venenoso. </p>"
+        }
+      }
+    },
+    "JyvVO2v74KNK7jRR": {
+      "name": "Gema del ojo de tigre",
+      "description": "<p>Un ojo de tigre se encontró en la bolsa de Voj en la ciudad de Omu.</p>"
+    },
+    "KIL5t6Ua03B2xi5N": {
+      "name": "Amatista",
+      "description": "<p>Una amatista encontrada en un templario muerto en las letrinas dCampamento Justicia.</p>"
+    },
+    "KIv02BnJu6t8Rhwh": {
+      "name": "Juego de líos",
+      "description": "<p>Esta caja de estaño contiene una taza y cubiertos simples. La caja abraza juntas, y un lado se puede utilizar como una sartén y el otro como un plato o un tazón poco profundo.</p>"
+    },
+    "KVeyorwMrZ69hoTb": {
+      "name": "Poción de veneno",
+      "description": "<p><em>Este brebaje parece, huele y sabe como una poción de curación u otra poción beneficiosa.</em></p><p>Sin embargo, en realidad es veneno enmascarado por la magia de la ilusión. Un conjuro de identificación revela su verdadera naturaleza.</p><p>Si lo bebes, recibes daños por veneno en 3d6, y debes tener éxito en un lanzamiento de ahorro de la Constitución CD 13 o ser envenenado. Al principio de cada uno de sus turnos mientras usted está envenenado de esta manera, usted toma 3d6 daño venenoso. Al final de cada uno de tus turnos, puedes repetir el lanzamiento de ahorro. En un ahorro exitoso, el daño venenoso que recibes en tus turnos posteriores disminuye en 1d6. El veneno termina cuando el daño disminuye a 0.</p><section class=\"secret foundry-note\" id=\"secret-lK9L9LydgGgQJzNL\"><p><strong>Nota de Foundry</strong></p><p>Para aplicar el daño reducido de una Constitución exitosa, por favor utilice la Otra Fórmula (configurada en 1d6) según sea necesario.</p></section>"
+    },
+    "KscR8uErtbkE4kEQ": {
+      "name": "Caja de joyas",
+      "description": "<p>Este joyero en forma de cucaracha está hecho de oro, engastado con preciosas gemas (incluyendo pequeñas perlas negras para sus ojos).</p>"
+    },
+    "L7pMfdMQyspsg9jJ": {
+      "name": "Sarcófago de unkh"
+    },
+    "LxRoxvH1Q5OCqPM7": {
+      "name": "Ojo de cristal verde pálido",
+      "description": "<p>Usted ha obtenido un ojo tallado de cristal verde pálido, descubierto en el Pozo de Golem en la Tumba de los Nueve Dioses.</p>"
+    },
+    "MG7DogWG3wfNFyVC": {
+      "name": "Estofado de calabaza",
+      "description": "<p>El personaje se siente más saludable y gana ventaja en los lanzamientos de ahorro de la Constitución.</p><section class=\"secret\" id=\"secret-IQSFtQ1upA27INjA\"><p><strong>Nota de Foundry</strong></p><p><span style=\"margin:0px;padding:0px\">Esta característica incluye un <strong>Efecto activo (AE)</strong> que sirve como recordatorio, pero no automatiza los beneficios antes mencionados.</span></p></section>",
+      "effects": {
+        "mtCXHGkwNDvqWnnn": {
+          "name": "Estofado de calabaza"
+        }
+      }
+    },
+    "MpwMKb9s1wF7PEk8": {
+      "name": "Ojo de cristal escarlata",
+      "description": "<p>Encontraste un globo de cristal escarlata en la Tumba de los Nueve Dioses.</p>"
+    },
+    "Nq57IMgBfdvkC8PI": {
+      "name": "Libro de Lore",
+      "description": "<p>Un libro que contiene relatos históricos, información relativa a un campo particular de la tradición, el mito o la leyenda.</p>"
+    },
+    "O4u4AEhnjNMrcMfr": {
+      "name": "Bote plegable",
+      "description": "<p><em>Objeto maravilloso</em></p>\n<p>Este objeto aparece como una caja de madera que mide 12 pulgadas de largo, 6 pulgadas de ancho y 6 pulgadas de profundidad. Pesa 4 libras y flota. Se puede abrir para almacenar los artículos en el interior. Este ítem también tiene tres palabras de comando, cada una requiriendo que usted use una acción para hablarlo.</p>\n<p>Una palabra de comando hace que la caja se desplegue en un barco de 10 pies de largo, 4 pies de ancho y 2 pies de profundidad. El barco tiene un par de remos, un ancla, un mástil, y una vela tardía. El barco puede soportar hasta cuatro criaturas medianas cómodamente.</p>\n<p>La segunda palabra de comando hace que la caja se desplegue en un barco de 24 pies de largo, 8 pies de ancho y 6 pies de profundidad. El barco tiene una cubierta, asientos de remo, cinco juegos de remos, un remo de dirección, un ancla, una cabina de cubierta, y un mástil con una vela cuadrada. La nave puede albergar cómodamente a quince criaturas medianas.</p>\n<p>Cuando la caja se convierte en un recipiente, su peso se convierte en el de un recipiente normal de su tamaño, y cualquier cosa que se almacena en la caja permanece en el barco.</p>\n<p>La tercera palabra de comando hace que el barco plegable se doble de nuevo en una caja, siempre que no haya criaturas a bordo. Cualquier objeto en el recipiente que no pueda caber dentro de la caja permanecerá fuera de la caja mientras se dobla. Cualquier objeto en el recipiente que pueda caber dentro de la caja lo hace.</p>"
+    },
+    "OCLoYH00QB3gRg0V": {
+      "name": "Esmeralda",
+      "description": "<p>Una esmeralda encontrada en un cofre en Firefinger.</p>"
+    },
+    "OEk2R4ePgY3otyMr": {
+      "name": "Libro de ortografía (1-3)",
+      "description": "<p>Esencial para los magos, un libro de conjuros es un tomo encuadernado en cuero con 100 páginas de terciopelo en blanco adecuado para grabar conjuros.</p><p>Este libro de conjuros contiene  [[/r 1d6]] deletrea cada uno de 1 a 3er nivel.</p><p></p>"
+    },
+    "OwY6ON0Gfhos4Ok0": {
+      "name": "Amatista",
+      "description": "<p>Una amatista encontrada en un pecho en Firefinger.</p>"
+    },
+    "P0BFf371Js53Icto": {
+      "name": "Cetro de Acerrak",
+      "description": "<p>[[/attack extended]]. [[/damage extended average]].</p><p>El cetro está hecho de hierro sólido y tiene una cabeza adamantina.</p>"
+    },
+    "Q3iwOhasZLjlYfhv": {
+      "name": "Herramientas de cartógrafo",
+      "description": "<p>Estos instrumentos especiales incluyen los artículos necesarios para realizar una artesanía o un comercio de cartografía.</p>\n<p>El dominio de un conjunto de herramientas artesanales le permite añadir su bono de habilidad a cualquier control de habilidad que realice utilizando las herramientas de su oficio. Cada tipo de herramientas artesanales requiere una habilidad separada.</p>"
+    },
+    "QM2QweE1NrqwJDlD": {
+      "name": "Pluma de tinta",
+      "description": "<p>Un dispositivo utilizado en combinación con tinta para escribir o dibujar en una hoja de papel.</p>"
+    },
+    "S5UrwuSeZ88mHz2A": {
+      "name": "Ojo de cristal verde",
+      "description": "<p>Encontraste un ojo de cristal verde en el Reflejado Salón de la Tumba de los Nueve Dioses.</p>"
+    },
+    "SbW4QL68Or1LiV1J": {
+      "name": "Cuero roto Quiver",
+      "description": "<p>El aljaba de cuero podrido puede sostener hasta 20 flechas.</p>"
+    },
+    "SzItefoQkF2Orkzh": {
+      "name": "Pergamino ortográfico: Tiny Hut",
+      "description": "<p><em>3er nivel &amp;Reference[Spell Scroll]</em></p><p>Un domo de fuerza inmóvil de 10 pies de radio surge alrededor y por encima de ustedes y permanece estacionario durante todo el tiempo. El conjuro termina si dejas su área.</p><p>Nueve criaturas de tamaño mediano o más pequeño pueden caber dentro de la cúpula con usted. El conjuro falla si su área incluye una criatura más grande o más de nueve criaturas. Criaturas y objetos dentro de la cúpula cuando se lanza este conjuro puede moverse a través de ella libremente. A todas las otras criaturas y objetos se les prohíbe pasar por ella. Los conjuros y otros efectos mágicos no pueden extenderse a través de la cúpula o ser lanzados a través de ella. La atmósfera dentro del espacio es cómoda y seca, independientemente del clima exterior.</p><p>Hasta que el conjuro termine, puedes ordenar que el interior se vuelva tenuemente iluminado u oscuro. La cúpula es opaca desde el exterior, de cualquier color que elijas, pero es transparente desde el interior.</p>"
+    },
+    "UcZy9DNXQEV848Uy": {
+      "name": "Rubí",
+      "description": "<p>Una piedra preciosa rubí fue encontrada en la pagoda de Nangalore.</p>"
+    },
+    "VMnX2RS0OqoTp8KZ": {
+      "name": "Cartas de ante de tres drágonos",
+      "description": "<p>Este artículo abarca una amplia gama de tipos de cartas de juego, tanto sin marcar como marcadas.</p>\n<p>Si eres competente con un juego, puedes añadir tu bono de habilidad a los cheques de habilidad que haces para jugar un juego con ese juego. Cada tipo de juego requiere una habilidad separada.</p>"
+    },
+    "WHxyUHFXLcSHmvWx": {
+      "name": "El libro de ortografía de Devlin",
+      "description": "<p>Este libro de conjuros es un tomo encuadernado con cuero que contiene los siguientes conjuros:</p><aside class=\"epigraph\"><p>1er nivel: @UUID[Compendium.dnd5e.spells.Item.7p9IuWrSWFgfyQo2]{alarma}, @UUID[Compendium.dnd5e.spells.Item.4dSvfvTy2ZIJ3K4k]{comprender idiomas}, @UUID[Compendium.dnd5e.spells.Item.ghXTfe7sgCbgf1Q8]{detectar magia}, @UUID[Compendium.dnd5e.spells.Item.zPGohqJRir6MyQ3U]{Retirada rápida}, @UUID[Compendium.dnd5e.spells.Item.3OZnNhunvRtPOQmH]{identificar}, @UUID[Compendium.dnd5e.spells.Item.82jM6qD9axLJsTrH]{Guión ilusorio}, dormir, @UUID[Compendium.dnd5e.spells.Item.bnjXlk13ZRJuf5d0]{disco flotante}</p><p>Nivel 2: @UUID[Compendium.dnd5e.spells.Item.8cse7rit0oswRPUP]{bloqueo arcano}, nube de dagas {Manual del jugador 2014), @UUID[Compendium.dnd5e.spells.Item.FjYE214HTERCRZNm]{esfera en llamas}, @UUID[Compendium.dnd5e.spells.Item.1nhIxh0DsJsntCfj]{golpeo}</p><p>3er nivel: @UUID[Compendium.dnd5e.spells.Item.15Fa6q1nH27XfbR8]{disipar la magia}, @UUID[Compendium.dnd5e.spells.Item.ztgcdrWPshKRpFd0]{bola de fuego}</p></aside><p></p>"
+    },
+    "XN9Le77w05zGDtWl": {
+      "name": "Libro de ortografía de Voj",
+      "description": "<p>Encontrado en el Santuario de Obo’laka, el libro de conjuros encuadernado en cuero del Voj del Asistente Rojo contiene los siguientes conjuros:</p><p>Cantrips: @UUID[Compendium.dnd5e.spells.Item.EOmsUcFQJTfG2oio]{perno de fuego}, @UUID[Compendium.dnd5e.spells.Item.Bnn9Nzajixvow9xi]{luz}, @UUID[Compendium.dnd5e.spells.Item.Utk1OQRwYkMkFRD3]{mano de mago}, @UUID[Compendium.dnd5e.spells.Item.udsLtG0BugXHR2JQ]{prestidigitación}</p><p>Conjuros de nivel 1: @UUID[Compendium.dnd5e.spells.Item.ghXTfe7sgCbgf1Q8]{detectar magia}, @UUID[Compendium.dnd5e.spells.Item.CKZTpZlxj7hjjo2H]{armadura de magos}, @UUID[Compendium.dnd5e.spells.Item.41JIhpDyM9Anm7cs]{misil mágico}, @UUID[Compendium.dnd5e.monsterfeatures.Item.yHcr3vlkmtInELj2]{escudo}</p><p>Conjuros de nivel 2: @UUID[Compendium.dnd5e.spells.Item.wqfAVANuQonNBgnL]{Paso de niebla}, @UUID[Compendium.dnd5e.spells.Item.zMAWdyc8UVb37BK4]{sugerencia}</p><p>Conjuros de nivel 3: @UUID[Compendium.dnd5e.spells.Item.Ek45cBpVXvJdv1Qy]{contraespelo}, @UUID[Compendium.dnd5e.spells.Item.ztgcdrWPshKRpFd0]{bola de fuego}, @UUID[Compendium.dnd5e.spells.Item.yfbK8gZqESlaoY5t]{volar}</p><p>Deletreos del 4o nivel: @UUID[Compendium.dnd5e.spells.Item.tEpDmYZNGc9f5OhJ]{mayor invisibilidad}, @UUID[Compendium.dnd5e.spells.Item.WN2LWEljYU6QqnRH]{tormenta de hielo}</p><p>Deletreos del 5o nivel: @UUID[Compendium.dnd5e.spells.Item.RpKjTlYASrfqUPVA]{cono de frío}</p>"
+    },
+    "XximxnD00i854l76": {
+      "name": "Ojo blanco de cristal",
+      "description": "<p>Encontraste un ojo blanco de cristal en la tumba de los nueve dioses.</p>"
+    },
+    "YqBh0Unc6At940yU": {
+      "name": "Mapa del arqueólogo",
+      "description": "<p><span style=\"font-family:'Roboto Condensed', sans-serif\">Un mapa de una ruina o mazmorra.</span></p>"
+    },
+    "a7tMnG7nDXPuaLav": {
+      "name": "Horno espiral",
+      "description": "<p><em>Varita (requiere sintonía por un hechicero)</em></p><p>Este cuerno (una varita de maravilla) tiene 7 cargos. Mientras lo sostiene, puede utilizar una acción para gastar 1 de sus cargos y elegir un objetivo a menos de 120 pies de usted. El objetivo puede ser una criatura, un objeto o un punto en el espacio. Rodar en el @UUID[Compendium.dnd5e.tables.RollTable.X03rbSjVcNNJNqa8]{Varita de la Maravilla} mesa para descubrir lo que sucede.</p><p>Si el efecto hace que eches un conjuro de la varita, el conjuro de salvar CD es 15. Si el conjuro normalmente tiene un rango expresado en pies, su rango se convierte en 120 pies si no lo es ya. Si un efecto cubre un área, debe centrar el conjuro e incluir el objetivo. Si un efecto tiene múltiples posibles sujetos, el GM determina aleatoriamente cuáles son los afectados.</p><p>La varita recupera 1d6 + 1 cargas gastadas diariamente al amanecer. Si gastas la última carga de la varita, lanza un d20. En un 1, la varita se desmorona en polvo y es destruida.</p>",
+      "activities": {
+        "MQiFj6kmbG849P2I": {
+          "name": "Lento (1-5)"
+        },
+        "6DZzvyzd46LbnfIL": {
+          "name": "Fuego de Faerie (6-10)"
+        },
+        "CasBiIZXL54laOOx": {
+          "name": "Gusto de viento (16-20)"
+        },
+        "scEVZazoOleSrYw2": {
+          "name": "Detectar pensamientos (21-25)"
+        },
+        "4xPLz74G1GRXtSmB": {
+          "name": "Nube apestosa (26-30)"
+        },
+        "mfe676QinSfB6v8H": {
+          "name": "Relámpago Bolt (37–46)"
+        },
+        "V6TIchqdN8i6seVY": {
+          "name": "Oscuridad (54–58)"
+        },
+        "3dSvQUQq9gxu0HSl": {
+          "name": "Bolas de fuego (70–79)"
+        },
+        "fcFugwiJmL6UEXvv": {
+          "name": "Invisibilidad (80-84)"
+        }
+      }
+    },
+    "aeWxC8qCWfkLAMHL": {
+      "name": "Tesoro de la Biblioteca Roja",
+      "description": "<p>Los espectáculos de arconaloth no son mágicos, pero valen 250 gp. Los espectáculos son también una llave de puerta que abre un portal en la ciudad plana de Sigil. El portal es una puerta de dos vías al plano de Arcadia. A @UUID[Compendium.dnd5e.spells.Item.W4Qx5z0id6da0vqg]{tradición de la leyenda} conjuro lanzado en los espectáculos revela esta información y eleva su valor potencial a 2.500 gp si se venden a un mago o sabio.</p><p>El objeto sobre la mesa es una caja de música hecha de madera oscura con filigrana dorada. A @UUID[Compendium.dnd5e.spells.Item.ghXTfe7sgCbgf1Q8]{detectar magia} conjuro o efecto similar revela un aura de magia de conjuración a su alrededor. Cada uno de sus cinco lados está esculpido con la imagen de una mujer cornuda tocando un instrumento musical diferente: un dulcímero, una flauta, un arpa, una lira y una viola. Mientras toca la caja, una criatura puede usar una acción para hacerla tocar música con uno de los instrumentos mostrados, que se puede escuchar hasta 60 pies de distancia. El personaje también puede utilizar una acción para detener la música. La caja de música vale 750 gp.</p><p>La biblioteca contiene doscientos textos históricos (50 gp cada uno), sesenta tomos de lore arcano (100 gp cada uno), tres pergaminos de conjuro polvoriento (crear muertos vivientes, inventar y resurrección), y seis libros de conjuros. Los tres primeros libros de conjuros contienen 1d6 conjuros cada uno de 1er a 3er nivel. Los libros de conjuros cuarto y quinto contienen 1d4 conjuros cada uno de 4to a 6to nivel. El sexto libro de conjuros tiene un título (Grimorio arcano de X el Místico) grabado a fuego en el lomo y contiene 1d3 conjuros de cada nivel, del 7 al 9.</p>"
+    },
+    "amiUJf9NHup3GtsE": {
+      "name": "Túnica de colores centelleantes",
+      "description": "<p><em>Artículo maravilloso, (requiere sintonía)</em></p>\n<p>Esta bata tiene 3 cargos, y recupera 1d3 gastos diarios al amanecer. Mientras lo usas, puedes usar una acción y gastar 1 carga para hacer que la prenda muestre un patrón cambiante de tonos deslumbrantes hasta el final de tu siguiente turno. Durante este tiempo, la túnica arroja luz brillante en un radio de 30 pies y luz tenue por otros 30 pies. Criaturas que pueden ver que tienes desventaja en los rollos de ataque contra ti. Además, cualquier criatura en la luz brillante que pueda verte cuando el poder de la túnica esté activado debe tener éxito en un lanzamiento de ahorro de sabiduría CD 15 o quedar aturdido hasta que el efecto termine.</p>"
+    },
+    "bUKqA9jOp93Y4rUc": {
+      "name": "Cetro de la reina Napaka",
+      "description": "<p>[[/attack extended]]. [[/damage extended average]].</p><p>El cetro está hecho de hierro sólido y tiene una cabeza adamantina.</p>"
+    },
+    "cQANzxCGDaWTl5Oc": {
+      "name": "Kit de herbalismo",
+      "description": "<p>Este kit contiene una variedad de instrumentos como cortadores, morteros y pestillos, y bolsas y viales utilizados por los herbolarios para crear remedios y pociones. La competencia con este kit le permite añadir su bono de competencia a cualquier control de capacidad que realice para identificar o aplicar hierbas. Además, se requiere competencia con este kit para crear antitoxinas y pociones de curación.</p>"
+    },
+    "dHBFZnJPlFciPBTk": {
+      "name": "Poción de mayor curación",
+      "description": "<p><em>La poción brilla en rojo cuando se agita.</em></p><p>Usted recupera 4d4+4 puntos de golpe cuando usted bebe esta poción.</p>"
+    },
+    "ddJcn1ExvV2RQEZ2": {
+      "name": "Piel de agua",
+      "description": "<p>Una piel de cuero cosida en una piel cerrada que puede contener hasta 4 pintas de líquido. Pesa 5 libras cuando está lleno; una pinta de agua es aproximadamente 1 libra.</p>"
+    },
+    "djffoDw9QzHByyMF": {
+      "name": "Pergamino ortográfico: Restauración menor",
+      "description": "<p><em>Nivel 2 &amp;Reference[Spell Scroll]</em></p><p>Tocas a una criatura y puedes acabar con una enfermedad o con una condición que la aflija. La afección puede ser cegada, ensordecida, paralizada o envenenada.</p>"
+    },
+    "e3Yrs6EWfttKcavA": {
+      "name": "Ojo de Cristal Rojo",
+      "description": "<p>Obtuviste un ojo de cristal rojo descubierto en la Tumba de los Nueve Dioses.</p>"
+    },
+    "eK7IWNGLlvhAPYIR": {
+      "name": "Carcaj",
+      "description": "<p>Un temblor puede sostener hasta 20 flechas.</p>"
+    },
+    "ffirbL8z25ZZImBw": {
+      "name": "Pergamino ortográfico: Protección contra el mal y el bien (Undead)",
+      "description": "<p><em>1er nivel &amp;Reference[Spell Scroll], Requiere concentración</em></p><p>Hasta que el conjuro termine, una criatura dispuesta a tocar está protegida contra ciertos tipos de criaturas: <strong>Sólo muertos vivientes</strong>.</p><p>La protección otorga varias prestaciones. Las criaturas de esos tipos tienen desventajas en los rollos de ataque contra el objetivo. El objetivo tampoco puede ser cautivado, asustado o poseído por ellos. Si el objetivo ya está encantado, asustado o poseído por una criatura así, el objetivo tiene ventaja en cualquier nuevo lanzamiento de ahorro contra el efecto relevante.</p>"
+    },
+    "fhPmiShc9KCq0bcJ": {
+      "name": "El libro de ortografía de Ras Nsi",
+      "description": "<p>Este libro de conjuros es un tomo de cuero, que contiene todos los conjuros que ha preparado</p><p>Cantrip (a voluntad): @UUID[Compendium.dnd5e.spells.Item.vrN18tbTw7io5MWd]{tacto frío}, @UUID[Compendium.dnd5e.spells.Item.EOmsUcFQJTfG2oio]{perno de fuego}, @UUID[Compendium.dnd5e.spells.Item.Utk1OQRwYkMkFRD3]{mano de mago}, @UUID[Compendium.dnd5e.spells.Item.kjmjY0zlE6IEiQVL]{remendando}, @UUID[Compendium.dnd5e.spells.Item.g2u9PYfqWQAyg9OI]{rociado con veneno}</p><p>1er nivel (4 franjas horarias): @UUID[Compendium.dnd5e.spells.Item.zPGohqJRir6MyQ3U]{Retirada rápida}, @UUID[Compendium.dnd5e.spells.Item.7e3QXF10hLNDEdr6]{vida falsa}, @UUID[Compendium.dnd5e.spells.Item.41JIhpDyM9Anm7cs]{misil mágico}, @UUID[Compendium.dnd5e.items.Item.sSs3hSzkKBMNBgTs]{escudo}</p><p>2o nivel (3 franjas horarias): @UUID[Compendium.dnd5e.spells.Item.zwGsAv6kmwzYGhh3]{ceguera/sordera}, @UUID[Compendium.dnd5e.spells.Item.3Lo9boi7P2ro6QV4]{persona de retención}, @UUID[Compendium.dnd5e.spells.Item.wqfAVANuQonNBgnL]{Paso de niebla}</p><p>3er nivel (3 franjas horarias): @UUID[Compendium.dnd5e.spells.Item.oyE5nVppa5mde5gT]{animan muertos}, @UUID[Compendium.dnd5e.spells.Item.Ek45cBpVXvJdv1Qy]{contraespelo}, @UUID[Compendium.dnd5e.spells.Item.ztgcdrWPshKRpFd0]{bola de fuego}</p><p>4o nivel (3 franjas horarias): @UUID[Compendium.dnd5e.spells.Item.pybg5MNc3lkerH4Y]{la plaga}, @UUID[Compendium.dnd5e.spells.Item.04nMsTWkIFvkbXlY]{polimorf}</p><p>5o nivel (2 franjas horarias): @UUID[Compendium.dnd5e.spells.Item.dSTu1MaPhBqPITwM]{contacto con otro plano}, @UUID[Compendium.dnd5e.spells.Item.JQyigMNPiDnGI18b]{geas}</p><p>6o nivel (1 franjas horarias): @UUID[Compendium.dnd5e.spells.Item.E4NXux0RHvME1XgP]{crear muertos vivientes}</p>"
+    },
+    "gHOXT94uFuSlacSZ": {
+      "name": "Cuenco de control de elementales de agua",
+      "description": "<p><em>Objeto maravilloso</em></p>\n<p>Mientras que este tazón está lleno de agua, usted puede utilizar una acción para hablar la palabra de comando del tazón y convocar a un <em>@UUID[Compendium.dnd5e.monsters.Actor.namJz755U1EhvEJa]{Elemental de agua}</em>, como si hubieras lanzado el <em>@UUID[Compendium.dnd5e.spells.Item.1LkZvINag7KqBmDR]{Conjure elemental}</em> Deletrear. El tazón no se puede usar de esta manera otra vez hasta el próximo amanecer.</p>\n<p>El cuenco tiene aproximadamente 1 pie de diámetro y la mitad de profundidad. Pesa 3 libras y tiene unos 3 galones.</p>",
+      "activities": {
+        "dnd5eactivity000": {
+          "activation": {
+            "condition": "Palabra de comando."
+          }
+        }
+      }
+    },
+    "hxXC59CHJ5omW83E": {
+      "name": "Pergamino ortográfico: Crear no muerto",
+      "description": "<p><em>Nivel 6 &amp;Reference[Spell Scroll]</em></p><p>Puedes lanzar este conjuro sólo por la noche. Elija hasta tres cadáveres de humanoides medianos o pequeños dentro de su alcance. Cada cadáver se convierte en un demonio bajo su control. (El DM tiene estadísticas de juego para estas criaturas.)</p><p>Como una acción adicional en cada uno de sus turnos, usted puede mentalmente ordenar a cualquier criatura que usted anima con este conjuro si la criatura está a menos de 120 pies de usted (si usted controla múltiples criaturas, usted puede ordenar cualquiera o todos ellos al mismo tiempo, emitiendo el mismo comando a cada uno). Usted decide qué acción tomará la criatura y dónde se moverá durante su próximo turno, o puede emitir un comando general, como para proteger una cámara o corredor en particular. Si no da órdenes, la criatura sólo se defiende de criaturas hostiles. Una vez dada una orden, la criatura continúa siguiéndola hasta completar su tarea.</p><p>La criatura está bajo tu control durante 24 horas, después de lo cual deja de obedecer cualquier orden que le hayas dado. Para mantener el control de la criatura por otras 24 horas, debes lanzar este conjuro sobre la criatura antes de que termine el actual período de 24 horas. Este uso del conjuro reafirma tu control sobre hasta tres criaturas que has animado con este conjuro, en lugar de animar a otras nuevas.</p><p><strong>Niveles superiores. </strong>Cuando lanzas este conjuro usando una espacio de conjuro de 7o nivel, puedes animar o reafirmar el control sobre cuatro demonios. Cuando lanzas este conjuro usando una espacio de conjuro de nivel 8, puedes animar o reafirmar el control sobre cinco demonios o dos horrores o torbellinos. Cuando lanzas este conjuro usando una espacio de conjuros de nivel 9, puedes animar o reafirmar el control sobre seis demonios, tres horrores o torbellinos, o dos momias.</p>",
+      "activities": {
+        "dnd5eactivity000": {
+          "activation": {
+            "condition": "Puedes lanzar este conjuro sólo por la noche."
+          }
+        }
+      }
+    },
+    "hz8YOhwPWqGHMbor": {
+      "name": "Tumba de Shagambi"
+    },
+    "jKJiwvOgXnVMe7Zw": {
+      "name": "Vibrante ojo de cristal púrpura",
+      "description": "<p>Obtuviste este globo de cristal púrpura de la Tumba de I'jin, situada en la Tumba de los Nueve Dioses.</p>"
+    },
+    "jTN9SUHwL1QJBjb9": {
+      "name": "Pergamino",
+      "description": "<p>Una sola hoja de papel pergamino más pesado.</p>"
+    },
+    "kevmACn8EZIov31x": {
+      "name": "Pergamino ortográfico: Toc",
+      "description": "<p><em>Nivel 2 &amp;Reference[Spell Scroll]</em></p><p>Elija un objeto que pueda ver dentro del rango. El objeto puede ser una puerta, una caja, un cofre, un conjunto de manáculos, un candado u otro objeto que contenga un medio mundano o mágico que impida el acceso.</p><p>Un objetivo que se mantiene cerrado por una cerradura mundana o que está atascado o bloqueado se convierte en desbloqueado, desbloqueado, o sin barras. Si el objeto tiene múltiples cerraduras, sólo uno de ellos está desbloqueado.</p><p>Si eliges un objetivo que se mantiene cerrado con Arcane Lock, ese conjuro se suprime durante 10 minutos, durante el cual el objetivo se puede abrir y cerrar normalmente.</p><p>Cuando lanzas el conjuro, un fuerte golpe, audible desde tan lejos como 300 pies, emana del objeto objetivo.</p>"
+    },
+    "kjpzcUvtp48y3OQF": {
+      "name": "Bolsa de arena",
+      "description": "<p>Una pequeña bolsa de arena utilizada por el erudito para secar letras recién entintadas y correspondencia rápida y segura para un envío rápido.</p>"
+    },
+    "l9ziM32a9FdfpLFb": {
+      "name": "Ojo de Cristal Naranja",
+      "description": "<p>Encontraste un ojo de cristal naranja tallado en la Tumba de los Nueve Dioses.</p>"
+    },
+    "legl95Xw7AZz9Dl1": {
+      "name": "Pergamino ortográfico: Quitar la maldición",
+      "description": "<p><em>3er nivel &amp;Reference[Spell Scroll]</em></p><p>Al tocarte, todas las maldiciones afectan a una criatura u objeto. Si el objeto es un objeto mágico maldito, su maldición permanece, pero el conjuro rompe la Afinación de su propietario al objeto para que pueda ser removido o descartado.</p>"
+    },
+    "ltVi9G03tsQkJLdu": {
+      "name": "Boar asado",
+      "description": "<p>[[lookup @name]] se siente más fuerte y tiene ventaja en los controles de fuerza.</p><section class=\"secret\" id=\"secret-EalMxi8bkmH2HYQX\"><p><strong>Nota de Foundry</strong></p><p><span style=\"margin:0px;padding:0px\">Esta característica incluye un <strong>Efecto activo (AE)</strong> que sirve como recordatorio, pero no automatiza los beneficios antes mencionados.</span></p></section>",
+      "effects": {
+        "jGo4muXAxcJetj9u": {
+          "name": "Boar asado"
+        }
+      }
+    },
+    "lxoOpVaf2HKh4B3X": {
+      "name": "X El arcano Grimoire del místico",
+      "description": "<p>Esencial para los magos, un libro de conjuros es un tomo encuadernado en cuero con 100 páginas de terciopelo en blanco adecuado para grabar conjuros.</p><p>Este libro de conjuros contiene [[/r 1d3]] conjuros de cada nivel, del 7 al 9.</p>"
+    },
+    "mPZRoQDDDeURSFwL": {
+      "name": "Zafiro",
+      "description": "<p>Una gema de zafiro fue encontrada en la pagoda de Nangalore.</p>"
+    },
+    "mlXEzX1KAELyUjuT": {
+      "name": "Libro de ortografía (4-6)",
+      "description": "<p>Esencial para los magos, un libro de conjuros es un tomo encuadernado en cuero con 100 páginas de terciopelo en blanco adecuado para grabar conjuros.</p><p>Este libro de conjuros contiene [[/r 1d4]] Deletrea cada uno de 4to a 6to nivel.</p><p></p>"
+    },
+    "ntHuG3eXwgIrlRzW": {
+      "name": "Paquete de estudiosos",
+      "description": "<p>Una mochila puede sostener un pie cúbico o 30 libras de equipo. También puedes atar objetos, como un roll de cama o una bobina de cuerda, al exterior de una mochila.</p>"
+    },
+    "o02Zu6XTnnKHMene": {
+      "name": "Daga ceremonial",
+      "description": "<p>[[/attack extended]]. [[/damage extended average]].</p><p>Esta daga ceremonial está alojada en una vaina de oro en relieve con una escena de animales de la selva estampados. Fue descubierto en los barrios de Fenthaza en el templo dedicado a Dendar la Serpiente Nocturna.</p>"
+    },
+    "oLJ9bSI4JBkdxVJB": {
+      "name": "Raciones",
+      "description": "<p>Las raciones consisten en alimentos secos adecuados para un viaje prolongado, incluyendo carne seca, fruta seca, hardtack y nueces.</p>"
+    },
+    "odkjUeOyi8WQeAoZ": {
+      "name": "El Longbow de Malison",
+      "description": "<p>[[/attack extended]]. [[/damage extended average]].</p><p>El arco largo del Malison está intrincado y tallado para parecerse a una serpiente, con pequeñas piedras preciosas ámbar que sirven como sus ojos.</p>"
+    },
+    "old3sbqn6yjSN4m1": {
+      "name": "Cristales de Tortuga Shell"
+    },
+    "pDYHjhatT1OpvZxJ": {
+      "name": "Pergamino ortográfico: Lenguajes entendidos",
+      "description": "<p><em>1er nivel &amp;Reference[Spell Scroll]</em></p><p>Por la duración, usted entiende el significado literal de cualquier lenguaje hablado que usted oiga. Usted también entiende cualquier lenguaje escrito que usted ve, pero usted debe estar tocando la superficie en la cual las palabras están escritas. Se tarda aproximadamente 1 minuto en leer una página de texto.</p><p>Este conjuro no decodifica mensajes secretos en un texto o un glifo, como un sigil arcano, que no es parte de un lenguaje escrito.</p>"
+    },
+    "qwD4AeszpAYa9e05": {
+      "name": "Ónice",
+      "description": "<p>Una gema de ónix fue descubierta en el naufragio del Narwhal.</p>"
+    },
+    "rF5xDzcWfnNbOpGb": {
+      "name": "Bala de eslinga +1",
+      "description": "<p>Una piedra endurecida de piedra, hueso o metal que se puede lanzar a alta velocidad usando una honda. Ha sido imbuido de magia.</p>\n<p>Tienes un bono para atacar y dañar rollos hechos con esta pieza de munición mágica. Una vez que alcanza un objetivo, la munición ya no es mágica.</p>"
+    },
+    "sIVs4gXKdVqczh9d": {
+      "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
+      "name": "Daga dorada"
+    },
+    "sItxwoEUelm7oy7O": {
+      "name": "Cerveza fresca",
+      "description": "<p>El personaje gana un dado especial: un d6. En cualquier momento en las próximas 24 horas, el personaje puede rodar este dado una vez y añadir el resultado a un d20 rollo que acaba de hacer.</p><section class=\"secret\" id=\"secret-YJyQYlyKPvr4R5Yx\"><p><strong>Nota de Foundry</strong></p><p><span style=\"margin:0px;padding:0px\">Esta característica otorga un <strong>Efecto activo (AE)</strong> que añade 1d6 a todos los rollos de d20 para la duración del beneficio, incluyendo ataques, ahorros y cheques.</span></p></section>",
+      "effects": {
+        "N4wHhorLIJtuEPiH": {
+          "name": "Cerveza fresca"
+        }
+      }
+    },
+    "shqSuE9NtlHOeqz3": {
+      "name": "Adamantine Lingot",
+      "description": "<p>Un lingote de adamantina estampado con runas enanas fue descubierto en un saco dentro de la cabaña de Nanny Pu'pu en Mbala.</p>"
+    },
+    "t73thb1C4a3YFyqR": {
+      "name": "Catalejo",
+      "description": "<p>Los objetos vistos a través de un espejo espía se magnifican al doble de su tamaño.</p>\n<p> </p>"
+    },
+    "toa1Yklwa0000000": {
+      "name": "Yklwa +1",
+      "description": "<p>Un yklwa (pronunciado YICK-ul-wah) es un simple arma cuerpo a cuerpo que es el arma tradicional de los guerreros chultán. Un yklwa consiste en un eje de madera de 3 pies con una hoja de acero o piedra de hasta 18 pulgadas de largo. Cuesta 1 gp, y da un daño de perforación 1d8 en un golpe. Aunque tiene la propiedad del arma lanzada, la yklwa no está bien equilibrada para el lanzamiento (rango 10/30 pies).</p>"
+    },
+    "toaAmethyst00000": {
+      "name": "Amatista",
+      "description": "<p>Una amatista encontrada en un templario muerto en las letrinas dCampamento Justicia.</p>"
+    },
+    "toaBlackOpalCrow": {
+      "name": "Corona negra del ópalo",
+      "description": "<p>La Corona del Opal Negro fue usada una vez por el archimago Sadamor de Netheril. La leyenda habla de cómo Sadamor vio las profundidades del mal de la humanidad reflejadas en el ópalo de su corona. Con el corazón roto, creó un dispositivo del día del juicio final —una esfera de aniquilación— para tragar el mundo, pero fue consumido por su propia creación.</p>"
+    },
+    "toaBlockInsectRe": {
+      "name": "Bloque repelente de insectos",
+      "description": "<p>El repelente de insectos se puede comprar en Port Nyanzaru en dos formas: bloques de incienso o un grasiento salve. El príncipe mercante Kwayothé controla la venta de ambos. Ninguna clase de repelente protege contra <strong>insectos gigantes</strong> o los viles <strong>enjambres de insectos</strong> que se describe en el apéndice A de la <em>Manual de monstruos</em>.</p><p>Un bloque de incienso se vende por 1 sp. Cuando se enciende, quema durante 8 horas y repele insectos normales dentro de un radio de 20 pies centrado en él.</p>",
+      "activities": {
+        "LWyeUButBHToOuEZ": {
+          "name": "Gasto"
+        }
+      }
+    },
+    "toaCanoe00000000": {
+      "name": "Canoa",
+      "description": "<p>Una canoa se puede comprar en Port Nyanzaru por 50 gp. Tiene capacidad para seis criaturas medianas y tiene una velocidad máxima de 2 mph. Por lo demás, es idéntico a un bote de remos (véase el capítulo 5 de la <em>Guía del Dungeon Master</em>).</p>"
+    },
+    "toaCh1Diamond500": {
+      "name": "Diamante",
+      "description": "<p>Un diamante encontrado entre el cadáver de un dragón verde adulto más conocido durante su vida como Aguja.</p>"
+    },
+    "toaCh2Adamantine": {
+      "name": "Adamantine Lingot"
+    },
+    "toaCh2AssortedGe": {
+      "name": "Piedra preciosa aleatoria",
+      "description": "<p>Mientras que en la pagoda en Nagalore, usted adquiere una piedra preciosa.</p>"
+    },
+    "toaCh2GoldBracel": {
+      "name": "Pulsera de oro",
+      "description": "<p>Mientras que en la Pagoda en Nagalore, se adquiere una pulsera de oro pintado en forma de couatl.</p>"
+    },
+    "toaCh2GoldChain0": {
+      "name": "Cadena de oro",
+      "description": "<p>Una medalla en forma de dragón y una cadena formada de oro que se encuentra en la horda de Tinder.</p>"
+    },
+    "toaCh2GoldDust00": {
+      "name": "Polvo de oro",
+      "description": "<p>Se encontró polvo de oro en el baño de Kir Sabal.</p>"
+    },
+    "toaCh2KurtulmakS": {
+      "name": "Estatua de Kurtulmak",
+      "description": "<p>En la Mina Wyrmheart se descubrió una estatua de 3 pies de altura de Kurtulmak, la deidad de los kobolds, hecha con diversos materiales, como metal, cristal, madera y piedra.</p>"
+    },
+    "toaCh2MbalaSack0": {
+      "name": "Saco de Mbala",
+      "description": "<p>En Mbala se encontró un saco atado hecho de piel humana. Contiene seis gemas de ónice (50 gp cada una), un pergamino de conjuros de <em>comprender idiomas</em>, y diez lingotes de adamantina (10 gp cada uno) estampados con runas enanas. </p>"
+    },
+    "toaCh2Medallion0": {
+      "name": "Medallón",
+      "description": "<p>Medallón de bronce y adamantina de la reina Grabsgtab, que usted adquirió en Yellyark.</p>"
+    },
+    "toaCh2PagodaBrac": {
+      "name": "Pulsera de oro",
+      "description": "<p>Un brazalete de oro encontrado en un almacén en el Anclaje de Jahaka.</p>"
+    },
+    "toaCh2ScavengedG": {
+      "name": "Equipo de recogida de basura"
+    },
+    "toaCh2SeaChest00": {
+      "name": "Pecho de mar"
+    },
+    "toaCh2SmallBox00": {
+      "name": "Caja pequeña",
+      "description": "<p>En la sala personal de Asharra en Kir Sabal, esta pequeña caja de debajo de su cama cuatro pociones de veneno que son fácilmente confundidos con pociones de curación. </p>"
+    },
+    "toaCh2TindersHor": {
+      "name": "Horda de Tinder",
+      "description": "<p>El tesoro de Tinder contiene 3.300 gp, 15.000 sp, 45.000 cp, una vaina bordada en oro (25 gp), una medalla en forma de dragón y una cadena hecha de oro (50 gp), una taza de cobre con incrustaciones de jade (100 gp), y una poción de mayor curación.</p>"
+    },
+    "toaCh2TurtleShel": {
+      "name": "Tortuga Shell Cristal",
+      "description": "<p>Un cristal obtenido de la concha de una tortuga gigante que chasquea encontrado en Snapping Turtle Bay.</p>"
+    },
+    "toaCh2Warehouses": {
+      "name": "El tesoro del almacén"
+    },
+    "toaCh2WoodenTrun": {
+      "name": "Tronco de madera"
+    },
+    "toaCh2ZaroumsCoa": {
+      "name": "El abrigo de Zaroum Al-Saryak",
+      "description": "<p>El abrigo de Zaroum Al-Saryak está adornado con brillantes gemas cosidas en él.</p>"
+    },
+    "toaCh2coppermug0": {
+      "name": "Taza de cobre",
+      "description": "<p>Una taza de cobre con incrustaciones de jade se encuentra en la horda de Tinder.</p>"
+    },
+    "toaCh2discardedb": {
+      "name": "Mochila descartada",
+      "description": "<p>En la parte posterior de la cueva en Mbala están los cuerpos de dos exploradores parcialmente comidos. Una mochila desechada cercana contiene 6 gp, una daga plateada y una poción de mayor curación.</p>"
+    },
+    "toaCh2electrumgo": {
+      "name": "Cáliz Electrum",
+      "description": "<p>Un cáliz eléctrico encontrado en un almacén en Jahaka Anchorage.</p>"
+    },
+    "toaCh2goldscabba": {
+      "name": "Vaina con bordado de oro",
+      "description": "<p>Una vaina bordada en oro que se encuentra en la horda de Tinder.</p>"
+    },
+    "toaCh3KakarolsHo": {
+      "name": "Horda de Kakarol",
+      "description": "<p>En el Bazar en ruinas en Omu, se encuentra el atestado de Kakarol que contiene 30 gp, 250 sp, 1.800 cp, una estatuilla de cristal de color de una libélula (25 gp), cuatro piedras de sangre (50 gp cada uno), y una poción de mayor curación.</p>"
+    },
+    "toaCh3TigerEyeGe": {
+      "name": "Piedra preciosa del ojo de tigre",
+      "description": "<p>Una gema de ojo de tigre fue descubierta en el Santuario de Obo’laka.</p>"
+    },
+    "toaCh3dragonflys": {
+      "name": "Estatuilla de libélula",
+      "description": "<p>En el bazar en ruinas en Omu, se encuentra una estatua de cristal de color de una libélula.</p>"
+    },
+    "toaCh3platter000": {
+      "name": "Platter Electrum",
+      "description": "<p>Descubriste un plato de electrum adornado con rituales de festejo de Chultán, encontrado en el Anfiteatro en Omu.</p>"
+    },
+    "toaCh3tapestry00": {
+      "name": "Tapicería decorada",
+      "description": "<p>En el bazar en ruinas en Omu, usted encontró a Kakarol usando un tapiz roto de un guacamayo, de seis pies de largo y decorado con cuentas de granate.</p>"
+    },
+    "toaCh3vojspouch0": {
+      "name": "Valija de cuero"
+    },
+    "toaCh4AmethystGe": {
+      "name": "Piedra preciosa de amatista",
+      "description": "<p>Encontraste una de las tres piedras preciosas de amatista utilizadas como los ojos de una estatuilla de frohemoth hecha de madera pintada. Fue descubierto en la guarida de Ras Nsi en el templo dedicado a Dendar la Serpiente Nocturna.</p>"
+    },
+    "toaCh4AmnianDoub": {
+      "name": "Jubón amniano",
+      "description": "<p>Descubriste un doblete Amniano ajoyado con una bolsa de dinero a juego en la guarida de Ras Nsi en el templo dedicado a Dendar la Serpiente Nocturna.</p>"
+    },
+    "toaCh4BrassKey00": {
+      "name": "Tecla de latón",
+      "description": "<p>Encontraste una llave de bronce en el templo de Dendar, la serpiente nocturna.</p>"
+    },
+    "toaCh4BronzeSyri": {
+      "name": "Jeringa de bronce",
+      "description": "<p>Xopal lleva una jeringa de bronce que contiene tres dosis de un cóctel envenenado.</p><p>Como una acción, puede hacer un ataque de arma cuerpo a cuerpo con la jeringa ([[/attack +3]]{+3 a golpear}), que trata [[/damage activity=FOO]] daño e inyecta una dosis de veneno en un golpe.</p><p>Cualquier criatura inyectada con una dosis de veneno debe hacer un [[/save format=long]], tomando [[/damage average activity=Gp56t5S2YILsDaM9]] daño en un error de guardar, o la mitad de daño en un éxito.</p><p>Además, la criatura es &amp;Reference[poisoned apply=false]{envenenado} durante 1 hora si su salvación tiene éxito o no.</p>",
+      "effects": {
+        "kSsSuDluCKWz3TuO": {
+          "name": "Envenenado",
+          "description": "<p>La criatura es &amp;Reference[poisoned apply=false]{envenenado} durante 1 hora si su salvación tiene éxito o no.</p>"
+        }
+      }
+    },
+    "toaCh4Candlestic": {
+      "name": "Velas",
+      "description": "<p>Obtuviste dos candelabros de cobra de oro descubiertos en el harén del templo dedicado a Dendar la Serpiente Nocturna.</p>"
+    },
+    "toaCh4Ceremonial": {
+      "name": "Brazaletes de ceremonia",
+      "description": "<p>Encontraste braceros ceremoniales de oro con forma de murciélagos en la puerta principal del templo dedicada a Dendar la Serpiente Nocturna.</p>"
+    },
+    "toaCh4CormyreanC": {
+      "name": "Capa de cormirea",
+      "description": "<p>Encontraste una capa cormirea en la guarida de Ras Nsi en el templo dedicado a Dendar la serpiente nocturna.</p>"
+    },
+    "toaCh4CrocodileS": {
+      "name": "Pouch de piel de cocodrilo",
+      "description": "<p>Encontrada en la puerta principal del templo dedicada a Dendar la Serpiente Nocturna, esta bolsa está hecha de piel de cocodrilo y contiene 28gp.</p>"
+    },
+    "toaCh4DendarHoly": {
+      "name": "Dendar Símbolo sagrado",
+      "description": "<p>Obtuviste el símbolo sagrado de Fenthaza de Dendar la Serpiente Nocturna de sus aposentos en el templo dedicado a Dendar la Serpiente Nocturna.</p>"
+    },
+    "toaCh4FenthazasC": {
+      "name": "El pecho de Fenthaza",
+      "description": "<p>El pecho está desbloqueado y contiene 200 gp, una aljaba de cuero negro bordada con un mapa de estrellas de cuarzo (75 gp), y una daga ceremonial en una vaina de oro en relieve con una escena de animales de la selva estampida (25 gp).</p>"
+    },
+    "toaCh4GemstonesA": {
+      "name": "Piedras preciosas",
+      "description": "<p>Descubriste piedras preciosas en una urna de arcilla ubicada en la guarida de Ras Nsi, dentro del templo dedicado a Dendar la Serpiente Nocturna.</p>"
+    },
+    "toaCh4HandMirror": {
+      "name": "Espejo de mano",
+      "description": "<p>Obtuviste el espejo de oro de la mano de Isar de los aposentos del cautivo en el templo dedicado a Dendar la Serpiente Nocturna.</p>"
+    },
+    "toaCh4Headdress0": {
+      "name": "Tocado",
+      "description": "<p>Adquiriste el tocado de tela roja de Isar, adornado con piedras preciosas de malaquita. El tocado fue descubierto en las dependencias del cautivo del templo dedicado a Dendar la Serpiente Nocturna.</p>"
+    },
+    "toaCh4IronKey000": {
+      "name": "Tecla de hierro",
+      "description": "<p>Encontraste una llave de hierro en los aposentos del cautivo en el templo dedicado a Dendar, la Serpiente Nocturna.</p>"
+    },
+    "toaCh4JadeTrinke": {
+      "name": "Caja de trinquetes de jade",
+      "description": "<p>Obtuviste una caja de trinquetes de jade en forma de una trampa de mosca, adornada con hojas doradas rizadas, del harén en el templo dedicado a Dendar la Serpiente Nocturna.</p>"
+    },
+    "toaCh4LargeCushi": {
+      "name": "Cojín grande",
+      "description": "<p>Encontraste un <span style=\"font-family:'Roboto Condensed', sans-serif\">gran cojín de seda Turami</span> en la guarida de Ras Nsi en el templo dedicado a Dendar la Serpiente Nocturna.</p>"
+    },
+    "toaCh4MoonshaeHa": {
+      "name": "Arpa de Moonshae",
+      "description": "<p>Encontraste una Arpa Moonshae en la guarida de Ras Nsi en el templo dedicado a Dendar la Serpiente Nocturna.</p>"
+    },
+    "toaCh4RasNsisLai": {
+      "name": "Horda de Ras Nsi"
+    },
+    "toaCh4RingofKeys": {
+      "name": "Anillo de llaves",
+      "description": "<p>Encontraste un anillo de llaves en el barrio de Fenthaza en el templo de Dendar la Serpiente Nocturna.</p>"
+    },
+    "toaCh4SealedCase": {
+      "name": "Caja sellada"
+    },
+    "toaCh4SembianWin": {
+      "name": "Frasco de vino sembiano",
+      "description": "<p>Descubriste un frasco de vino Sembian en la guarida de Ras Nsi en el templo dedicado a Dendar la Serpiente Nocturna.</p>"
+    },
+    "toaCh4TempleInce": {
+      "name": "Incienso mezquino",
+      "description": "<p>La iluminación de un bloque de incienso crea una nube nebulosa que llena una esfera de 20 pies de diámetro y se mueve con el bloque. </p><p>Cualquier criatura que comienza su turno en la nube y respira el aire debe tener éxito en un [[/save con 16 format=long]] o caer en un estupor de ensueño con visiones de pesadilla. Aunque permanece despierto, la criatura es &amp;Reference[poisoned apply=false]{envenenado}. </p><p>Incluso el yuan-ti son vulnerables a este efecto, que dura 1 hora después de que una criatura sale de la nube, o hasta que recibe un @UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{menor restauración} conjuro o magia similar.</p>",
+      "effects": {
+        "DuDjAdCNjYlkLtJS": {
+          "name": "Stupor de ensueño",
+          "description": "<p>El objetivo cae en un estupor de ensueño con visiones de pesadilla. Aunque permanece despierto, la criatura está envenenada. Incluso el yuan-ti son vulnerables a este efecto, que dura 1 hora después de que una criatura sale de la nube, o hasta que recibe un @UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{menor restauración} conjuro o magia similar.</p>"
+        }
+      }
+    },
+    "toaCh4Tiara00000": {
+      "name": "Tiara",
+      "description": "<p>Adquiriste una tiara de oro blanco hecha de dos víboras entrelazadas con ojos de topacio, que se encontró en el harén del templo dedicado a Dendar la Serpiente Nocturna.</p>"
+    },
+    "toaCh4TortoiseSh": {
+      "name": "Escudo de tortuga y concha",
+      "description": "<p>Este escudo de tortuga pertenecía a Sekelok, el guardián de la armería en el templo dedicado a Dendar la Serpiente Nocturna.</p>"
+    },
+    "toaCh4XopalsPois": {
+      "name": "Los venenos de Xopal"
+    },
+    "toaCh5BahamutHol": {
+      "name": "Bahamut Santo Símbolo",
+      "description": "<p>Encontraste un símbolo sagrado de Bahamut en los restos esqueléticos de un dragon nacido en la Tumba de los Nueve Dioses.</p>"
+    },
+    "toaCh5BlackCryst": {
+      "name": "Tecla de cristal negro",
+      "description": "<p>El beneficiario gana un <em>encanto de nueve vidas</em>. Cuando usted cae a 0 puntos de golpe como resultado de tomar daño, usted puede elegir caer a 1 punto de golpe en su lugar. Una vez usado nueve veces, el encanto desaparece.</p>",
+      "activities": {
+        "sCKTKX0XTPS6G3Qw": {
+          "name": "Gasto"
+        }
+      }
+    },
+    "toaCh5BlueCrysta": {
+      "name": "Tecla de cristal azul",
+      "description": "<p>El beneficiario gana un <em>encanto del corazón de cristal</em>. Este encanto le otorga inmunidad a perforar y cortar daños de ataques no mágicos, pero usted gana vulnerabilidad a golpes de daño. Estos efectos duran 10 días, después de lo cual el encanto se desvanece de ti.</p>",
+      "activities": {
+        "9oaNwWbkJ6uyhyFr": {
+          "name": "Gasto"
+        }
+      },
+      "effects": {
+        "wVqdBec4Xqp31pJx": {
+          "name": "Efectos de la clave"
+        }
+      }
+    },
+    "toaCh5BookArcane": {
+      "name": "Libro de conocimientos arcanos",
+      "description": "<p>Este libro de tapa dura sobre la tradición arcana fue encontrado en la Biblioteca Roja en la Tumba de los Nueve Dioses.</p>"
+    },
+    "toaCh5BronzeMask": {
+      "name": "Máscara de bronce",
+      "description": "<p>Obtuviste la máscara de bronce de Withers de la tumba de los nueve dioses.</p>"
+    },
+    "toaCh5Carnelian0": {
+      "name": "Carnelina",
+      "description": "<p>Descubriste una piedra preciosa cornalina en una bolsa que pertenecía a un aventurero fallecido llamado Lord Brixton, encontrada en la Tumba de los Nueve Dioses.</p>"
+    },
+    "toaCh5ChameleonS": {
+      "name": "Estatuilla camaleón",
+      "description": "<p>Encontraste una estatuilla de camaleón de arcilla adornada con cuentas de cristal que cambian de color en la Bóveda de los Videntes en la Tumba de los Nueve Dioses.</p>"
+    },
+    "toaCh5ClayGolems": {
+      "name": "Manual de Golems de arcilla",
+      "description": "<p><em>Objeto maravilloso</em></p><p>Este tomo contiene la información y los encantamientos necesarios para hacer un @UUID[Compendium.dnd5e.monsters.Actor.YOqhbf8WsX0jH9Fu]{arcilla golem}. Para descifrar y usar el manual, debes ser un hechicero con al menos dos espacios de conjuro de 5o nivel. Una criatura que no puede usar un manual de golems e intenta leerlo requiere daño psíquico 6d6.</p><p>Para crear un golem de arcilla, debe pasar 30 días, trabajando sin interrupción con el manual a mano y descansando no más de 8 horas al día. También debe pagar 65.000 gp para comprar suministros.</p><p>Una vez que termines de crear el golem, el libro se consume en llamas de eldritch. El golem se anima cuando las cenizas del manual son rociadas sobre él. Está bajo vuestro control, y comprende y obedece vuestros mandamientos hablados.</p>"
+    },
+    "toaCh5CloakPinGo": {
+      "name": "Alfiler de capa de oro",
+      "description": "<p>Obtuvo un perno de oro encontrado en la Tumba de Papazotl, ubicada en la Tumba de los Nueve Dioses.</p>"
+    },
+    "toaCh5CrystalEye": {
+      "name": "Ojo de cristal púrpura",
+      "description": "<p>Encontraste un ojo tallado de un cristal púrpura ubicado en el Reflejado Salón de la Tumba de los Nueve Dioses.</p>"
+    },
+    "toaCh5Diamond000": {
+      "name": "Diamante",
+      "description": "<p>Usted ha adquirido un diamante lo suficientemente grande como para servir como un componente material para el @UUID[Compendium.dnd5e.spells.Item.AGFMPAmuzwWO6Dfz]{resucitar muerto} Deletrear.</p>"
+    },
+    "toaCh5EyeofZalte": {
+      "name": "Ojo de Zaltec",
+      "description": "<p>Durante siglos, este rubí del tamaño de un puño superó la Gran Pirámide en Nexal, capital del Imperio Mazticano. La gema es una reliquia del culto de Zaltec, y su punta de daga se sumergió en los corazones de innumerables sacrificios.</p>"
+    },
+    "toaCh5GemsAssort": {
+      "name": "Joyas surtidos",
+      "description": "<p>Quitaste varias gemas de los colmillos de la estatua de Ghorm en la Tumba de los Nueve Dioses.</p>"
+    },
+    "toaCh5GoldBatMas": {
+      "name": "Máscara de murciélago de niño",
+      "description": "<p>Encontraste una máscara de oro pintada de tamaño para niños, con forma de cara de murciélago, en la Bóveda de los Videntes en la Tumba de los Nueve Dioses.</p>"
+    },
+    "toaCh5GoldCorone": {
+      "name": "Coronet de oro",
+      "description": "<p>Encontraste una corona de oro con forma de pulpo, con ojos de nácar, en la Bóveda de los Videntes en la Tumba de los Nueve Dioses.</p>"
+    },
+    "toaCh5GoldCrysta": {
+      "name": "Tecla de cristal de oro",
+      "description": "<p>El beneficiario gana un <em>encanto del sentido del tesoro</em>. Mientras que este encanto dura, usted puede utilizar una acción para determinar, por el olor, la ubicación de metales y piedras preciosas, tales como monedas y gemas, a menos de 30 pies de usted. El efecto dura 3 días, después de lo cual el encanto desaparece de ti.</p>",
+      "activities": {
+        "nIZ6qihV3Xci7xzf": {
+          "name": "Gasto"
+        }
+      },
+      "effects": {
+        "IvFu0L0asedF10dt": {
+          "name": "Duración del encanto"
+        }
+      }
+    },
+    "toaCh5GoldCup000": {
+      "name": "Copa de Oro",
+      "description": "<p>Encontraste una copa de oro en la Tumba de Papazotl, ubicada en la Tumba de los Nueve Dioses.</p>"
+    },
+    "toaCh5GoldMonkey": {
+      "name": "Máscara de mono de niño",
+      "description": "<p>Descubriste una máscara de oro pintada, con forma de cara de mono y tallada para niños, en la Bóveda de los Videntes en la Tumba de los Nueve Dioses.</p>"
+    },
+    "toaCh5GoldParrot": {
+      "name": "Máscara de loro de niño",
+      "description": "<p>Descubriste una máscara de oro pintada para niños con forma de cara de loro en la Bóveda de los Henedores en la Tumba de los Nueve Dioses.</p>"
+    },
+    "toaCh5GoldPendan": {
+      "name": "Colgante de oro",
+      "description": "<p>Encontraste un colgante de oro con forma de ojo, colgando de la estatua de Unkh en la Galería de los Trucos.</p>"
+    },
+    "toaCh5GoldSpecta": {
+      "name": "Espectaculos de oro",
+      "description": "<p>Obtuviste un par de gafas de oro en los velos del miedo ubicados en la Tumba de los Nueve Dioses.</p>"
+    },
+    "toaCh5GoldTorc00": {
+      "name": "Torc de oro",
+      "description": "<p>Adquiriste un toro de oro que se encuentra en la Tumba de Papazotl en la Tumba de los Nueve Dioses.</p>"
+    },
+    "toaCh5GreenCryst": {
+      "name": "Tecla de cristal verde",
+      "description": "<p>El beneficiario gana un <em>encanto de la bruja hinchada</em>. Este encanto le permite escupir un @UUID[Compendium.dnd5e.monsters.Actor.EZgiprHXA2D7Uyb3]{rana} como una acción. La rana te entiende y obedece tus órdenes. Una vez usado tres veces, el encanto desaparece.</p>",
+      "activities": {
+        "rFWOmGZZrZx0HY7w": {
+          "name": "Gasto"
+        }
+      }
+    },
+    "toaCh5Historical": {
+      "name": "Libro de historia",
+      "description": "<p>Este libro de tapa dura sobre la historia fue encontrado en la Biblioteca Roja en la Tumba de los Nueve Dioses.</p>"
+    },
+    "toaCh5HornRimmed": {
+      "name": "Espectáculos encohecidos",
+      "description": "<p>Usted posee los espectáculos no mágicos de cuernos del arcanaloth, que se encuentran en la Biblioteca Roja en la Tumba de los Nueve Dioses.</p><p>Los espectáculos son también una llave de puerta que abre un portal en la ciudad plana de Sigil. El portal es una puerta de dos vías al plano de Arcadia. Su valor potencial aumenta a 2.500 gp si se venden a un mago o sabio.</p>"
+    },
+    "toaCh5HornetMask": {
+      "name": "Máscara de avispero",
+      "description": "<p>Descubriste una máscara de avispón pintada de oro en el sarcófago de la reina Napaka en la Tumba de los Nueve Dioses.</p>"
+    },
+    "toaCh5IvoryBackS": {
+      "name": "Rascador de espalda de marfil",
+      "description": "<p>Encontraste un rascador de marfil que se parecía a la garra de un dinosaurio junto a los restos esqueléticos de un dragon nacido en la Tumba de los Nueve Dioses.</p>"
+    },
+    "toaCh5LeatherEye": {
+      "name": "Parche de ojo de cuero",
+      "description": "<p>Encontraste un parche de cuero adornado con una piedra de sangre en los velos del miedo en la tumba de los nueve dioses.</p>"
+    },
+    "toaCh5MastodonsG": {
+      "name": "Hoja de oro",
+      "description": "<p>Quitaste la hoja de oro de la gran estatua mastodonte de Ghom, ubicada en la Tumba de los Nueve Dioses.</p>"
+    },
+    "toaCh5MundaneHor": {
+      "name": "Espectáculos en forma de cuerno (mundano)",
+      "description": "<p>Usted posee los espectáculos no mágicos de cuernos del arcanaloth, que se encuentran en la Biblioteca Roja en la Tumba de los Nueve Dioses.</p>"
+    },
+    "toaCh5Navelofthe": {
+      "name": "Navel de la Luna",
+      "description": "<p>Esta piedra pulida en forma de huevo fue regalada por el syl-pasha gobernante de Calimport a su hija de marinero. Se dice que cualquier persona que sostiene la piedra siempre puede encontrar el camino a casa con sus seres queridos.</p>"
+    },
+    "toaCh5Opalescent": {
+      "name": "Pulsera opalescente",
+      "description": "<p>Descubriste un brazalete opalescente hecho de caparazón de caracol en el Sarcófago de Unkh, ubicado en la Tumba de los Nueve Dioses.</p>"
+    },
+    "toaCh5PeridotGem": {
+      "name": "Piedra preciosa de peridoto",
+      "description": "<p>Esta piedra preciosa del peridoto fue puesta en un turbante amarillo encontrado en la Tumba de I'jin, ubicada dentro de la Tumba de los Nueve Dioses.</p>"
+    },
+    "toaCh5PlatinumHa": {
+      "name": "Alfiler de pelo de platino",
+      "description": "<p>Adquiriste un alfiler de platino en los velos del miedo en la tumba de los nueve dioses.</p>"
+    },
+    "toaCh5PurpleCrys": {
+      "name": "Tecla de cristal púrpura",
+      "description": "<p>El beneficiario gana un <em>encanto de los mutilados</em>. Este encanto le permite volver a registrar un apéndice u órgano perdido, como un brazo, un pie o un ojo. Después de que se usa una vez, el encanto desaparece.</p>",
+      "activities": {
+        "OKaC5FgRks1wNrwJ": {
+          "name": "Gasto"
+        }
+      }
+    },
+    "toaCh5RedCrystal": {
+      "name": "Tecla de cristal rojo",
+      "description": "<p>El beneficiario gana un <em>el encanto de la Ghoul</em>. Este encanto le permite utilizar una acción para comer una boca llena de carne de un humanoide que ha estado muerto no más de 1 día. Cuando lo haces, recuperas 3d8 + 3 puntos de golpe. Una vez usado tres veces, el encanto desaparece.</p>",
+      "activities": {
+        "oE9gpq42BIX8d7a2": {
+          "name": "Uso de los gastos: Curar"
+        }
+      }
+    },
+    "toaCh5SapphireCo": {
+      "name": "Cordón de zafiro",
+      "description": "<p>Adquiriste un cordón de zafiro que una vez perteneció al dao Keshma al-Wazir, quien fue encarcelado en una botella en la Tumba de los Nueve Dioses.</p>"
+    },
+    "toaCh5SkeletalSo": {
+      "name": "Songbird esquelético",
+      "description": "<p>Usted encontró un pájaro cantor esquelético en la oficina de Wither, ubicada en la Tumba de los Nueve Dioses.</p>"
+    },
+    "toaCh5bellybutto": {
+      "name": "Botón de vientre de piedras preciosas",
+      "description": "<p>Usted ha obtenido una gema de topacio ombligo que una vez perteneció al dao Keshma al-Wazir, que estaba atrapado en una botella en la Tumba de los Nueve Dioses.</p>"
+    },
+    "toaCh5inkpot0000": {
+      "name": "Pote de tinta sin fin",
+      "description": "<p>En el cuerpo de Devlin Bashir, has encontrado una olla de tinta que nunca se seca.</p>"
+    },
+    "toaCharmofRestor": {
+      "name": "Encanto de la restauración",
+      "description": "<p>Este encanto tiene 6 cargos. Puede usar una acción para gastar algunos de sus cargos para lanzar uno de los siguientes conjuros: @UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{Mayor restauración} (4 cargos) o @UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{Restauración menor} (2 cargos). Una vez que todos sus cargos han sido gastados, el encanto desaparece de ti.</p>"
+    },
+    "toaClayNoFacesCh": {
+      "name": "El encanto de Clay No-Face",
+      "description": "<p>Mientras que usted tiene Clay No-Face en su posesión, usted no necesita comer, beber, o respirar. Estos beneficios duran 30 días mientras que la muñeca está en su posesión, después de lo cual el encanto desaparece de usted.</p>"
+    },
+    "toaDiamond000000": {
+      "name": "Ópalo",
+      "description": "<p>Un ópalo encontrado en un templario muerto en las letrinas dCampamento Justicia.</p>"
+    },
+    "toaEmerald000000": {
+      "name": "Esmeralda",
+      "description": "<p>Una esmeralda encontrada en un templario muerto en las letrinas del Camp Righteous.</p>"
+    },
+    "toaEssenceofEthe": {
+      "name": "Esencia de éter (inhalado)",
+      "description": "<p>Una criatura sometida a este veneno debe tener éxito en un [[/save format=long]] o convertirse en &amp;Reference[poisoned apply=false]{envenenado} durante 8 horas. La criatura envenenada es &amp;Reference[unconscious apply=false]{inconsciente}. La criatura se despierta si recibe daño o si otra criatura toma una acción para sacudirlo despierto.</p><p><strong>Inhalado</strong>. Estos venenos son polvos o gases que surten efecto cuando se inhalan. Soplar el polvo o liberar a las criaturas sujetos de gas en un cubo de 5 pies a su efecto. La nube resultante se disipa inmediatamente después. Sostener la respiración es ineficaz contra los venenos inhalados, ya que afectan las membranas nasales, los conductos lagrimales y otras partes del cuerpo.</p>",
+      "effects": {
+        "fO6tgye0zt0EualB": {
+          "name": "Envenenado e inconsciente"
+        }
+      }
+    },
+    "toaEyePatch00000": {
+      "name": "Parche ocular",
+      "description": "<p>Sólo un parche básico para los ojos.</p>"
+    },
+    "toaGoldBracelet0": {
+      "name": "Pulsera de oro",
+      "description": "<p>Un brazalete de oro encontrado en un almacén en el Anclaje de Jahaka.</p>"
+    },
+    "toaGoldTankard00": {
+      "name": "Tanque de oro",
+      "description": "<p>Obtuviste una jarra de oro con un rostro triste que se transforma en una sonrisa cuando se llena en los Salones Rotten de la Tumba de los Nueve Dioses.</p>"
+    },
+    "toaInsectRepelle": {
+      "name": "Salve repelente de insectos",
+      "description": "<p>El repelente de insectos se puede comprar en Port Nyanzaru en dos formas: bloques de incienso o un grasiento salve. El príncipe mercante Kwayothé controla la venta de ambos. Ninguna clase de repelente protege contra <strong>insectos gigantes</strong> o los viles <strong>enjambres de insectos</strong> que se describe en el apéndice A de la <em>Manual de monstruos</em>.</p><p>Una calabaza o vial de salve, que se vende por 1 gp, contiene 20 aplicaciones de grasa inodora.</p><p>Una aplicación protege a su portador contra insectos normales durante 24 horas. La salmuera es resistente al agua para que no se lave bajo la lluvia.</p>",
+      "activities": {
+        "ThBaYOyTzPGQIUad": {
+          "name": "Gasto"
+        }
+      }
+    },
+    "toaIronIngot0000": {
+      "name": "Lingote de hierro"
+    },
+    "toaItemMaskBeast": {
+      "name": "Máscara de la Bestia",
+      "description": "<p>Esta máscara de madera tiene la forma de un rostro de bestia y tiene 3 cargos. Mientras usa la máscara, puede gastar 1 carga y utilizar la máscara para lanzar el @UUID[Compendium.dnd5e.spells.Item.hDOENzjuj5WpLq7B]{amistad animal} deletrear como una acción. La máscara recupera todas las cargas gastadas al amanecer.</p>"
+    },
+    "toaJadeCrocodile": {
+      "name": "Tecla de cocodrilo de Jade",
+      "description": "<p>Descubriste una pequeña llave de jade con forma de cocodrilo en la Cripta de la Reina del Sol, ubicada en el Tome de los Nueve Dioses.</p>"
+    },
+    "toaJohosCharm000": {
+      "name": "El encanto de Joho",
+      "description": "<p>Mientras tienes a Joho en tu posesión, te otorga el beneficio de un @UUID[Compendium.dnd5e.items.Item.rY9sRFQp5CFSfsat]{timón de comprensión de idiomas}. Este beneficio dura 7 días mientras la muñeca está en su posesión, después de lo cual el encanto se desvanece de usted.</p>"
+    },
+    "toaMgcTalismanSp": {
+      "name": "Talismán de la esfera",
+      "description": "<p>Cuando usted hace un control de inteligencia (Arcana) para controlar un @UUID[Compendium.dnd5e.items.Item.2YNqk5zm9jDTvd7q]{esfera de aniquilación} mientras sostienes este talismán, duplicas tu bono de habilidad en el cheque.</p><p>Además, cuando comiences tu turno con el control sobre una esfera de aniquilación, puedes usar una acción para levitarlo 10 pies más un número de pies adicionales igual a 10 × tu modificador de Inteligencia.</p><p><span style=\"text-decoration:underline\"><span style=\"text-decoration:underline\">Su modificador de inteligencia es </span><strong><span style=\"text-decoration:underline\">[[lookup @abilities.int.mod]]</span></strong></span></p>",
+      "effects": {
+        "acKbLzGFpnJgNzEB": {
+          "name": "Bono: Arcana Check",
+          "description": "<p>Mientras mantienes este talismán, duplicas tu bono de habilidad en tu cheque de Inteligencia (Arcana).</p>"
+        }
+      }
+    },
+    "toaMidnightTears": {
+      "name": "Lágrimas de medianoche (ingeridas)",
+      "description": "<p>Una criatura que ingiere este veneno no sufre ningún efecto hasta la medianoche. Si el veneno no ha sido neutralizado antes de entonces, la criatura debe tener éxito en un lanzamiento de ahorro de la Constitución CD 17, tomando 31 (9d6) daño venenoso en un ahorro fallido, o la mitad de daño en un exitoso.</p><p><em><strong>ingerido</strong></em>. Una criatura debe tragar una dosis entera de veneno ingerido para sufrir sus efectos. La dosis puede administrarse en alimentos o en un líquido. Usted puede decidir que una dosis parcial tiene un efecto reducido, como permitir una ventaja en el lanzamiento de ahorro o sólo la mitad del daño en un ahorro fallido.</p>"
+    },
+    "toaMoldyChest000": {
+      "name": "Pecho mohoso",
+      "description": "<p>Cuatro arcas de madera mohosas encontradas en el pináculo de Firefinger.</p>"
+    },
+    "toaMoonstone0000": {
+      "name": "Piedra lunar",
+      "description": "<p>Usted descubrió una piedra lunar en la Tumba de Shagambi, ubicada dentro de la Tumba de los Nueve Dioses.</p>"
+    },
+    "toaMoradinsGaunt": {
+      "name": "El guante de Moradino",
+      "description": "<p><span style=\"font-family:'Roboto Condensed', sans-serif\">Los enanos de Chul se refieren a ella como el Guantelete de Moradino, que es usado típicamente por los superintendentes de Hrakhamar.</span></p>"
+    },
+    "toaMusicBox00000": {
+      "name": "Caja de música",
+      "description": "<p>Usted encontró una hermosa caja de música disparada por la trampa en la Tumba de Shagambi, ubicada dentro de la Tumba de los Nueve Dioses.</p>"
+    },
+    "toaOnyxFigurine0": {
+      "name": "Figura ónice",
+      "description": "<p>Una figura de ónix que representa chwingas fue descubierta en la cueva de agitación en Firefinger.</p>"
+    },
+    "toaPouchAsstdGem": {
+      "name": "Valija de gemas surtidas",
+      "description": "<p>Una bolsa de joyas surtidas que se encuentran en un templario muerto en las letrinas del Camp Righteous.</p>"
+    },
+    "toaRainCatcher00": {
+      "name": "Colector de lluvia",
+      "description": "<p>Un receptor de lluvia es un artilugio simple que consiste en una lona de cuero de 5 pies cuadrados y un marco de madera con patas. Cuando la lona se extiende a través del marco de madera, forma una cuenca que puede coger 2 galones de agua potable por pulgada de lluvia y mantener hasta 8 galones. La lona y el marco de madera se pliegan para facilitar el transporte. Un receptor de lluvia cuesta 1 gp y pesa 5 libras.</p>"
+    },
+    "toaRuby000000000": {
+      "name": "Rubí",
+      "description": "<p>Un rubí encontrado en un templario muerto en las letrinas dCampamento Justicia.</p>"
+    },
+    "toaSapphire00000": {
+      "name": "Zafiro",
+      "description": "<p>Un zafiro encontrado en un templario muerto en las letrinas dCampamento Justicia.</p>"
+    },
+    "toaSerpentVenom0": {
+      "name": "Veneno de Serpiente (lesión)",
+      "description": "<p>Este veneno debe ser cosechado de una serpiente venenosa gigante muerta o incapacitada. Una criatura sometida a este veneno debe tener éxito en un [[/save format=long]], tomando [[/damage average]] en un error de ahorro, o la mitad de daño en uno exitoso.</p><p><strong>Lesiones</strong>. El veneno para lesiones se puede aplicar a armas, municiones, componentes de trampas y otros objetos que causan daños por perforación o corte y permanecen potentes hasta que se liberan a través de una herida o se lavan. Una criatura que recibe daño por perforación o corte de un objeto cubierto con el veneno está expuesta a sus efectos.</p>"
+    },
+    "toaSkullBox00000": {
+      "name": "Caja de cráneo Velociraptor",
+      "description": "<p>La aguja escondió en la alcoba los siguientes objetos: un bolso hecho de triceratops se esconde, una pequeña caja hecha de dos cráneos velociraptors elegantemente encajados, y un hueso hueco de dinosaurio con un tapón de cera en un extremo. El bolso contiene 55 gp, 800 sp, y tres anillos de cuarzo azul (10 gp cada uno). La caja del cráneo vale 12 gp y contiene una varita de miedo y dos diamantes (500 gp cada uno). El hueso hueco del dinosaurio contiene cinco balas de honda +1.</p>"
+    },
+    "toaSkullChaliceo": {
+      "name": "Cáliz del cráneo de Ch’gakare",
+      "description": "<p>Esta copa de joyas fue hecha a mano del cráneo de un rey de Omuan, que murió hace mucho tiempo, y sirvió como símbolo del cargo para la línea real de Omu. El legendario héroe Chultán Ch’gakare (pronunciado chuh-GAH-kah-ree) se dice que ha decapitado al rey después de escapar de los Nueve Infiernos en la parte posterior de un mastodonte.</p>"
+    },
+    "toaStoreRoom0000": {
+      "name": "Almacenar tesoro de la habitación"
+    },
+    "toaStrawbundlesC": {
+      "name": "El encanto de Strawbundle",
+      "description": "<p>Mientras que usted tiene Strawbundle en su posesión, este encanto le permite lanzar el @UUID[Compendium.dnd5e.spells.Item.PQuEgKyCdovOvhqN]{etérea} como una acción, no se requieren componentes. Después de que se utiliza tres veces, el encanto desaparece.</p>"
+    },
+    "toaTGIjin0000000": {
+      "name": "I'jin",
+      "description": "<div class=\"toa trickster-card\"><h2>I'jin</h2><img src=\"modules/dnd-tomb-annihilation/assets/journal-art/ijin-logo.webp\" /><p><em>(Pronunciado EYE-jin)</em></p><p>I'jin, el Almiraj, es voluble e impredecible.</p><h3>Falla</h3><p>Mientras esté habitado por I'jin, usted gana el siguiente defecto, que anula cualquier defecto opuesto: <q>Nunca me aferro a un plan.</q></p><h3>Potencia</h3><p>Mientras que yo soy Jin te habita, tu puntuación de Dexterity se convierte en 23 a menos que ya sea más alto.</p></div>",
+      "effects": {
+        "fs6cAfmL9bhRNB22": {
+          "name": "Destreza de I’jin"
+        }
+      }
+    },
+    "toaTGKubazan0000": {
+      "name": "Kubazan",
+      "description": "<div class=\"toa trickster-card\"><h2>Kubazan</h2><p><em>(Pronunciado KOO-bah-zahn)</em></p><p>Kubazan, el Froghemoth, es salvaje y animado.</p><img src=\"modules/dnd-tomb-annihilation/assets/journal-art/kubazan-logo.webp\" /><h3>Falla</h3><p>Mientras está habitado por Kubazan, usted gana el siguiente defecto, que anula cualquier defecto opuesto: <q>No tengo miedo y no tengo miedo de correr grandes riesgos.</q></p><h3>Potencia</h3><p>Mientras Kubazan te habita, tu puntuación de Fuerza se convierte en 23 a menos que ya sea más alta.</p></div>",
+      "effects": {
+        "agcjHM4sfDk7hTNC": {
+          "name": "Fuerza de Kubazan"
+        }
+      }
+    },
+    "toaTGMoa00000000": {
+      "name": "Moa",
+      "description": "<div class=\"toa trickster-card\"><h2>Moa</h2><p><em>(Pronunciado MOH-ah)</em></p><p>Moa, el Jaculi, es sincero y amable.</p><img src=\"modules/dnd-tomb-annihilation/assets/journal-art/moa-logo.webp\" /><h3>Falla</h3><p>Mientras esté habitado por Moa, usted gana el siguiente defecto, que anula cualquier defecto opuesto: <q>Siempre debo decir la verdad.</q></p><h3>Potencia</h3><p>Mientras esté habitado por Moa, puede usar una acción para girar &amp;Reference[invisible apply=false]. Cualquier cosa que lleves o lleves es invisible mientras esté en tu persona. El efecto termina si atacas, lanzas un conjuro, obligas a un lanzamiento ahorrador o repartes daños.</p></div>",
+      "activities": {
+        "U8oxfMnjgLU9tCOG": {
+          "name": "Volver invisible"
+        }
+      },
+      "effects": {
+        "yACUvqJCpcZvuxn6": {
+          "name": "Invisibilidad",
+          "description": "<p>Cualquier cosa que lleves o lleves es... &amp;Reference[invisible apply=false] siempre y cuando esté en su persona. El efecto termina si atacas, lanzas un conjuro, obligas a un lanzamiento ahorrador o repartes daños.</p>"
+        }
+      }
+    },
+    "toaTGNangnang000": {
+      "name": "Nangnang",
+      "description": "<div class=\"toa trickster-card\"><h2>Nangnang</h2><p><em>(Pronunciado NANG-nang)</em></p><p>Nangnang, el Grung, es egoísta y cruel.</p><img src=\"modules/dnd-tomb-annihilation/assets/journal-art/nangnang-logo.webp\" /><h3>Falla</h3><p>Mientras que habitado por Nangnang, usted gana el siguiente defecto, que anula cualquier defecto opuesto: <q>No compartiré con otros.</q></p><h3>Potencia</h3><p>Mientras está habitado por Nangnang, puede moverse hacia arriba, hacia abajo y a través de superficies verticales y boca abajo a lo largo de los techos, mientras deja las manos libres. Usted también gana una velocidad de escalada igual a su velocidad de caminar.</p></div>",
+      "effects": {
+        "qaINy4LcBSRLS4kn": {
+          "name": "Movimiento Nangnang",
+          "description": "<p>Puedes moverte hacia arriba, hacia abajo y a través de superficies verticales e boca abajo a lo largo de los techos, mientras dejas las manos libres. Usted también gana una velocidad de escalada igual a su velocidad de caminar.</p>"
+        }
+      }
+    },
+    "toaTGObolaka0000": {
+      "name": "Obo'laka",
+      "description": "<div class=\"toa trickster-card\"><h2>Obo'laka</h2><p><em>(pronunciado oh-boh-LAH-kah)</em></p><p>Obo'laka, el Zorbo, está nervioso y obsesivo.</p><img src=\"modules/dnd-tomb-annihilation/assets/journal-art/obolaka-logo.webp\" /><h3>Falla</h3><p>Mientras que habitado por Obo'laka, usted gana el siguiente defecto, que anula cualquier defecto opuesto: <q>Soy reacio al riesgo y nunca me desvío de mi rutina.</q></p><h3>Potencia</h3><p>Mientras Obo'laka te habita, puedes sintonizar con un objeto mágico adicional. Cuando Obo'laka te deja, todos los objetos mágicos a los que estás sintonizado ya no están sintonizados contigo.</p></div>",
+      "effects": {
+        "72zmWiwWHn5TAVpL": {
+          "name": "Afinación adicional",
+          "description": "<p>Se puede sintonizar a un elemento mágico adicional.</p>"
+        }
+      }
+    },
+    "toaTGPapazotl000": {
+      "name": "Papazotl",
+      "description": "<div class=\"toa trickster-card\"><h2>Papazotl</h2><p><em>(pronunciado pah-pah-ZAH-tul)</em></p><p>Papazotl, el Eblis, es astuto y confabulador.</p><img src=\"modules/dnd-tomb-annihilation/assets/journal-art/papazotl-logo.webp\" /><h3>Falla</h3><p>Mientras que habitado por Papazotl, usted gana el siguiente defecto, que anula cualquier defecto opuesto: <q>No me inclino ante nadie y espero que otros hagan lo que yo ordeno.</q></p><h3>Potencia</h3><p>Mientras que habitado por Papazotl, no se puede ser &amp;Reference[surprise apply=false]{sorprendido}, usted gana ventaja en todos los controles de sabiduría, y nunca recibe daño de caer.</p></div>",
+      "effects": {
+        "64hxPuXTcZXLf6Tt": {
+          "name": "Concienciación de Papazotl",
+          "description": "<p>No puedes ser &amp;Reference[surprise apply=false]{sorprendido}, usted gana ventaja en todos los controles de sabiduría, y nunca recibe daño de caer.</p>"
+        }
+      }
+    },
+    "toaTGShagambi000": {
+      "name": "Shagambi",
+      "description": "<div class=\"toa trickster-card\"><h2>Shagambi</h2><p><em>(pronunciado shah-GOM-bee)</em></p><p>Shagambi, el Kamadan, es sabio y virtuoso.</p><img src=\"modules/dnd-tomb-annihilation/assets/journal-art/shagambi-logo.webp\" /><h3>Falla</h3><p>Mientras está habitado por Shagambi, usted gana el siguiente defecto, que anula cualquier defecto opuesto: <q>Nunca les tengo piedad a los malhechores.</q></p><h3>Potencia</h3><p>Mientras que habitado por Shagambi, usted puede hacer un ataque adicional al tomar el &amp;Reference[Attack] acción en tu turno.</p></div>"
+    },
+    "toaTGUnkh0000000": {
+      "name": "Unkh",
+      "description": "<div class=\"toa trickster-card\"><h2>Unkh</h2><p><em>(pronunciado UNK)</em></p><p>Unkh, el Caracol de Flail, es auto-absorbido e indeciso.</p><img src=\"modules/dnd-tomb-annihilation/assets/journal-art/unkh-logo.webp\" /><h3>Falla</h3><p>Mientras que habitado por Unkh, usted gana el siguiente defecto, que anula cualquier defecto opuesto: <q>Soy incapaz de tomar decisiones.</q></p><h3>Potencia</h3><p>Mientras que Unkh te habita, tu puntuación de la Constitución se convierte en 23 a menos que ya sea más alta.</p></div>",
+      "effects": {
+        "xlFacWjeoF8Bsckx": {
+          "name": "Constitución de unkh"
+        }
+      }
+    },
+    "toaTGWongo000000": {
+      "name": "Wongo",
+      "description": "<div class=\"toa trickster-card\"><h2>Wongo</h2><p><em>(pronunciado WONG-go)</em></p><p>Wongo, el Su-Monstruo, es violento y errático.</p><img src=\"modules/dnd-tomb-annihilation/assets/journal-art/wongo-logo.webp\" /><h3>Falla</h3><p>Mientras esté habitado por Wongo, usted gana el siguiente defecto, que anula cualquier defecto opuesto: <q>Actúo sin preocuparse por el bienestar de los demás.</q></p><h3>Potencia</h3><p>Mientras esté habitado por Wongo, puedes usar tu acción para desencadenar un ataque psionario a una criatura que puedes ver a menos de 60 pies de ti. El objetivo debe tener éxito en un lanzamiento de ahorro de la sabiduría CD 16 o &amp;Reference[stunned apply=false] hasta el final de su siguiente turno.</p></div>",
+      "activities": {
+        "c4zYcGNbXCExE5UI": {
+          "target": {
+            "affects": {
+              "special": "criatura que se puede ver"
+            }
+          }
+        }
+      },
+      "effects": {
+        "fwF5bbh5bMTWA3ei": {
+          "name": "Aturdido",
+          "description": "<p>El objetivo es &amp;Reference[Stunned apply=false] hasta el final de su siguiente turno.</p>"
+        }
+      }
+    },
+    "toaTejCaskFortBe": {
+      "name": "Barril de tej (Fuerte Beluarian)",
+      "description": "<p>Tej es una bebida fermentada de color ámbar hecha de miel. Es más común y popular en Chul que la cerveza o la cerveza.</p>"
+    },
+    "toaTejCaskPortNy": {
+      "name": "Barril de tej (Puerto Nyanzaru)",
+      "description": "<p>Tej es una bebida fermentada de color ámbar hecha de miel. Es más común y popular en Chul que la cerveza o la cerveza.</p>"
+    },
+    "toaTejMugFortBel": {
+      "name": "Jarra de tej (Fuerte Beluarian)",
+      "description": "<p>Tej es una bebida fermentada de color ámbar hecha de miel. Es más común y popular en Chul que la cerveza o la cerveza.</p>"
+    },
+    "toaTejMugPortNya": {
+      "name": "Jarra de tej (Puerto Nyanzaru)",
+      "description": "<p>Tej es una bebida fermentada de color ámbar hecha de miel. Es más común y popular en Chul que la cerveza o la cerveza.</p>"
+    },
+    "toaTormHolySymbo": {
+      "name": "Santo símbolo de torsión",
+      "description": "<p>Un símbolo sagrado de plata de Torm en una tanga de cuero se encontró en la pared de un santuario quemado en Camp Righteous.</p>"
+    },
+    "toaTorpor0000000": {
+      "name": "Torpor (ingerido)",
+      "description": "<p>Una criatura sometida a este veneno debe tener éxito en un [[/save format=long]] o convertirse en &amp;Reference[poisoned apply=false]{envenenado} para [[/r 4d6]] horas. La criatura envenenada es &amp;Reference[incapacitated apply=false]{incapacitados}.</p><p><strong>ingerido</strong>. Una criatura debe tragar una dosis entera de veneno ingerido para sufrir sus efectos. La dosis puede administrarse en alimentos o en un líquido. Usted puede decidir que una dosis parcial tiene un efecto reducido, como permitir una ventaja en el lanzamiento de ahorro o sólo la mitad del daño en un ahorro fallido.</p><section class=\"secret\" id=\"secret-J5AaHG6lKrVC6MRP\"><p><strong>Nota de Foundry</strong></p><p>Por defecto, la duración de la condición se establece en un mínimo de 4 horas. Puede ajustar la duración del efecto activo abriéndola en la pestaña Efectos y luego seleccionando la pestaña Duración. Cambie el valor (en segundos), luego haga clic en <strong>Enviar cambios</strong>.</p></section>",
+      "effects": {
+        "lIBCsjf66PF5e18D": {
+          "name": "Envenenado e incapacitado",
+          "description": "<p>El objetivo es &amp;Reference[poisoned apply=false]{envenenado} para [[/r 4d6]] horas. La criatura envenenada es &amp;Reference[incapacitated apply=false]{incapacitados}.</p>"
+        }
+      }
+    },
+    "toaWyvernPoison0": {
+      "name": "Wyvern Poison (Lesión)",
+      "description": "<p>Este veneno debe ser cosechado de un wyvern muerto o incapacitado. Una criatura sometida a este veneno debe hacer un [[/save format=long]], tomando [[/damage average]] en un error de ahorro, o la mitad de daño en uno exitoso.</p><p><strong>Lesiones</strong>. El veneno para lesiones se puede aplicar a armas, municiones, componentes de trampas y otros objetos que causan daños por perforación o corte y permanecen potentes hasta que se liberan a través de una herida o se lavan. Una criatura que recibe daño por perforación o corte de un objeto cubierto con el veneno está expuesta a sus efectos.</p>"
+    },
+    "toaYklwa00000000": {
+      "name": "Yklwa",
+      "description": "<p>Un yklwa (pronunciado YICK-ul-wah) es un simple arma cuerpo a cuerpo que es el arma tradicional de los guerreros chultán. Un yklwa consiste en un eje de madera de 3 pies con una hoja de acero o piedra de hasta 18 pulgadas de largo. Cuesta 1 gp, y da un daño de perforación 1d8 en un golpe. Aunque tiene la propiedad del arma lanzada, la yklwa no está bien equilibrada para el lanzamiento (rango 10/30 pies).</p>"
+    },
+    "toaYuanTiRacialF": {
+      "name": "Yuan Ti Rasgos Raciales",
+      "description": "<p><em><strong>Darkvision</strong></em>. Puedes ver en luz tenue a menos de 60 pies de ti como si fuera luz brillante, y en oscuridad como si fuera luz tenue. No se puede discernir el color en la oscuridad, sólo los tonos de gris.</p><p><em><strong>Difusión de conjuros innatos</strong></em>. Ya sabes que @UUID[Compendium.dnd5e.spells.Item.g2u9PYfqWQAyg9OI]{rociado con veneno} Cantrip. Usted puede lanzar @UUID[Compendium.dnd5e.spells.Item.hDOENzjuj5WpLq7B]{amistad animal} un número ilimitado de veces con este rasgo, pero sólo puedes apuntar serpientes con él. A partir del 3er nivel, también puedes lanzar @UUID[Compendium.dnd5e.spells.Item.zMAWdyc8UVb37BK4]{sugerencia} con este rasgo. Una vez que lo elijes, no puedes hacerlo de nuevo hasta que termines un largo descanso. Carisma es tu habilidad de conjuros para estos conjuros.</p><p><em><strong>Resistencia mágica</strong></em>. Usted tiene ventaja en los lanzamientos de ahorro contra conjuros y otros efectos mágicos.</p><p><em><strong>Inmunidad venenosa</strong></em>. Usted es inmune al daño por veneno y a la condición envenenada.</p>",
+      "activities": {
+        "BxoqoIZb3bAkViOZ": {
+          "name": "Amistad animal (solo serpientes)"
+        },
+        "DmFJiBHKuvksUrkm": {
+          "name": "Sugerencia (nivel 3 arriba)"
+        }
+      },
+      "effects": {
+        "p69v8svzOVhfXOzW": {
+          "name": "Yuan Ti Características Raciales"
+        }
+      }
+    },
+    "toabgAnthropolog": {
+      "name": "Antropólogo",
+      "description": "<p>Siempre te han fascinado otras culturas, desde las tierras perdidas más antiguas y primitivas hasta las civilizaciones más modernas. Al estudiar las costumbres, filosofías, leyes, rituales, creencias religiosas, idiomas y arte de otras culturas, usted ha aprendido cómo las tribus, imperios y todas las formas de sociedad entre la creación de sus propios destinos y la perdición. Este conocimiento vino a ustedes no sólo a través de libros y pergaminos, sino también a través de la observación de primera mano — visitando asentamientos lejanos y explorando historias y costumbres locales.</p><p><strong>Capacidades:</strong> &amp;Reference[Insight], &amp;Reference[Religion]</p><p><strong>Idiomas:</strong> Dos de tu elección.</p><p><strong>Equipo:</strong> Un diario encuadernado en cuero, una botella de tinta, una pluma de tinta, un conjunto de ropa de viajero, una baratija de especial importancia, y una bolsa que contiene 10 gp</p><h2>Camaleón cultural</h2><p>Antes de convertirte en un aventurero, pasaste gran parte de tu vida adulta lejos de tu tierra natal, viviendo entre personas diferentes de tus familiares. Llegaste a entender estas culturas extranjeras y las formas de su gente, que eventualmente te trataron como a uno de los suyos. Una cultura tuvo más influencia en ti que cualquier otra, moldeando tus creencias y costumbres. Elija una raza cuya cultura haya adoptado, o ruede sobre la mesa Cultura Adoptada.</p><p>@Embed[Compendium.dnd-tomb-annihilation.tables.RollTable.toaAdoptedCultur classes=\"caption-top\" resultLabel=\"Culture\" rollable]</p><h2>Característica: Adept Linguist</h2><p>@Embed[Compendium.dnd-tomb-annihilation.items.Item.toabgfFeatureAde caption=false]{Lingüista experto}</p><h2>Características sugeridas</h2><p>Los antropólogos dejan atrás las sociedades en las que nacieron para descubrir cómo es la vida en otras partes del mundo. Buscan ver cómo sobreviven otras razas y civilizaciones... o por qué no lo hicieron. Algunos antropólogos son impulsados por la curiosidad intelectual, mientras que otros quieren la fama y el reconocimiento que viene con ser el primero en descubrir un nuevo pueblo, una tribu perdida, o la verdad sobre la caída de un antiguo imperio.</p><p>@Embed[Compendium.dnd-tomb-annihilation.tables.RollTable.toaPersonalityTr rollable resultLabel=\"Personality Trait\"]</p><p>@Embed[Compendium.dnd-tomb-annihilation.tables.RollTable.toaIdeal00000000 rollable resultLabel=\"Ideal\"]</p><p>@Embed[Compendium.dnd-tomb-annihilation.tables.RollTable.toaBond000000000 rollable resultLabel=\"Bond\"]</p><p>@Embed[Compendium.dnd-tomb-annihilation.tables.RollTable.toaFlaw000000000 rollable resultLabel=\"Flaw\"]</p>"
+    },
+    "toabgDustDigger0": {
+      "name": "Arqueólogo",
+      "description": "<p>Un arqueólogo aprende acerca de las culturas perdidas y caídas del pasado estudiando sus restos: sus huesos, sus ruinas, sus obras maestras sobrevivientes y sus tumbas. Aquellos que practican la arqueología viajan a los rincones lejanos del mundo para arraigarse a través de las ciudades derrumbadas y las mazmorras perdidas, cavando en busca de artefactos que podrían contar las historias de monarcas y sumos sacerdotes, guerras y cataclismos.</p><p><strong>Capacidades:</strong> &amp;Reference[History], &amp;Reference[Survival]</p><p><strong>Proficiencias de la herramienta:</strong> Herramientas de cartógrafo o de navegador</p><p><strong>Idiomas:</strong> Uno de tu elección.</p><p><strong>Equipo:</strong> Una caja de madera que contiene un mapa de una ruina o mazmorra, una linterna de ojo de toro, una pizca de minero, un conjunto de ropa de viajero, una pala, una tienda para dos personas, una baratija recuperada de un sitio de excavación, y una bolsa con 25 gp</p><h2>Excavador de polvo</h2><p>Antes de convertirte en un aventurero, pasaste la mayor parte de tu joven vida arrastrándote por el polvo, hurtando reliquias de cuestionable valor de criptas y ruinas. Aunque usted logró vender algunos de sus descubrimientos y ganar suficiente moneda para comprar equipo de aventura apropiado, usted ha mantenido en un artículo que tiene gran valor emocional para usted. Gire en la tabla de elementos de firma para ver lo que tiene, o elija un elemento de la tabla.</p><p>@Embed[Compendium.dnd-tomb-annihilation.tables.RollTable.dmgSignatureItem rollable resultLabel=\"Item\"]</p><h2>Característica: Conocimiento histórico</h2><p>@Embed[Compendium.dnd-tomb-annihilation.items.Item.toabgfFeatureHis caption=false]{Conocimiento histórico}</p><h2>Características sugeridas</h2><p>Pocos arqueólogos pueden resistir el señuelo de una ruina o mazmorra inexplorada, particularmente si tal sitio es la fuente de leyendas o se rumorea que contiene los tesoros y reliquias de magos, caudillos o realeza. Algunos arqueólogos saquean riquezas o fama, mientras que otros consideran que su llamado es iluminar el pasado o evitar que los tesoros más grandes del mundo caigan en las manos equivocadas. Cualquiera que sea su motivación, los arqueólogos combinan las cualidades de un historiador desguazado con el heroísmo hecho por sí mismo de un sinvergüenza que caza tesoros.</p><p>@Embed[Compendium.dnd-tomb-annihilation.tables.RollTable.toaTrait10000000 rollable resultLabel=\"Personality Trait\"]</p><p>@Embed[Compendium.dnd-tomb-annihilation.tables.RollTable.toaIdeal10000000 rollable resultLabel=\"Ideal\"]</p><p>@Embed[Compendium.dnd-tomb-annihilation.tables.RollTable.toaBond100000000 rollable resultLabel=\"Bond\"]</p><p>@Embed[Compendium.dnd-tomb-annihilation.tables.RollTable.toaFlaw100000000 rollable resultLabel=\"Flaw\"]</p>"
+    },
+    "toabgfFeatureAde": {
+      "name": "Lingüista experto",
+      "requirements": "Interacción observada durante 1 día",
+      "description": "<p>Puedes comunicarte con humanoides que no hablan ningún idioma que conozcas. Usted debe observar los humanoides interactuando entre sí durante al menos 1 día, después de lo cual usted aprende un puñado de palabras, expresiones y gestos importantes — lo suficiente para comunicarse en un nivel rudimentario.</p>"
+    },
+    "toabgfFeatureHis": {
+      "name": "Conocimiento histórico",
+      "description": "<p>Cuando usted entra en una ruina o mazmorra, usted puede determinar correctamente su propósito original y determinar sus constructores, ya sean enanos, elfos, humanos, yuan-ti, o alguna otra raza conocida. Además, se puede determinar el valor monetario de objetos de arte de más de un siglo de antigüedad.</p>"
+    },
+    "toach2baubles000": {
+      "name": "Baratijas"
+    },
+    "toach2bluequartz": {
+      "name": "Anillo de cuarzo azul",
+      "description": "<p>Un anillo de cuarzo azul encontrado entre el cadáver de un dragón verde adulto más conocido durante su vida como Aguja.</p>"
+    },
+    "toach2dreamingti": {
+      "name": "Soñando con Tintura",
+      "description": "<p>Cualquier criatura que bebe una dosis de la tintura debe tener éxito en un [[/save con 15 format=long]]. Las criaturas que son inmunes a la condición envenenada tienen éxito automáticamente. </p><p>En un ahorro fallido, la criatura comienza a experimentar vistas ilusorias, sonidos, olores y sensaciones que parecen reales. Casting a <em>@UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{menor restauración}</em> conjuro o magia similar en el personaje termina el efecto, que de lo contrario dura para [[/r 1d4 + 4]] horas.</p>",
+      "effects": {
+        "19XHgPDWmoYNhkpc": {
+          "name": "Soñando"
+        }
+      }
+    },
+    "toach2featheredd": {
+      "name": "El vestido emplumado de Zalkoré",
+      "description": "<p>El vestido emplumado de Zalkoré.</p>"
+    },
+    "toach2hollowdino": {
+      "name": "Hueso de dinosaurio hueco"
+    },
+    "toach2triceratop": {
+      "name": "Triceratops Ocultar el monedero"
+    },
+    "toach3Omuandeath": {
+      "name": "Máscara de la muerte de Omuan",
+      "description": "<p>Descubriste una máscara de muerte de Omuan pintada de oro en el Anfiteatro de Omu.</p>"
+    },
+    "toach3bloodstone": {
+      "name": "Piedra de sangre",
+      "description": "<p>En el bazar en ruinas en Omu, se descubre una gema de piedra de sangre entre el tesoro de Kakarol.</p>"
+    },
+    "toach5platinumar": {
+      "name": "Cinturones de platino",
+      "description": "<p>Adquiriste un brazalete de platino grabado con dragones en duelo, una vez propiedad del dao Keshma al-Wazir, que fue encarcelado en una botella en la Tumba de los Nueve Dioses.</p>"
+    },
+    "toafafDancingMon": {
+      "activities": {
+        "jDxr1FjmYsGhuRdZ": {
+          "name": "Come."
+        }
+      },
+      "name": "Fruta del mono de baile",
+      "description": "<p>Esta rara fruta mágica produce suficiente jugo para llenar un vial. Cualquier humanoide que coma una fruta de mono bailando o beba su jugo debe tener éxito en un lanzamiento de ahorro de la Constitución CD 14 o comenzar un baile cómico que dure 1 minuto. Los humanoides que no pueden ser envenenados son inmunes a este efecto mágico.</p><p>El bailarín debe utilizar todo su movimiento para bailar sin dejar su espacio y tiene desventaja en los rollos de ataque y lanzamientos de ahorro de Dexterity, y otras criaturas tienen ventaja en los rollos de ataque contra él. Cada vez que toma daño, el bailarín puede repetir el [[/save con dc=14]]{tirada de salvación}, poniendo fin al efecto en sí mismo en un éxito. Cuando el efecto de baile termina, el humanoide sufre el &amp;Reference[poisoned] condición durante 1 hora.</p>",
+      "effects": {
+        "E7dJ1E24cdiKVcsZ": {
+          "name": "Bailar",
+          "description": "<p>El bailarín debe utilizar todo su movimiento para bailar sin dejar su espacio y tiene desventaja en los rollos de ataque y lanzamientos de ahorro de Dexterity, y otras criaturas tienen ventaja en los rollos de ataque contra él. </p><p>Cada vez que toma daño, el bailarín puede repetir el [[/save con dc=14]]{tirada de salvación}, poniendo fin al efecto en sí mismo en un éxito. </p><p>Cuando el efecto de baile termina, el humanoide sufre el &amp;Reference[poisoned] condición durante 1 hora.</p>"
+        }
+      }
+    },
+    "toafafMengaLeave": {
+      "name": "Hojas de Menga (1 oz)",
+      "description": "<p>Las hojas secas de un arbusto de menga pueden ser molidas, disueltas en un líquido, calentadas e ingeridas. Una criatura que ingiere 1 onza de menga deja de esta manera recupera 1 punto de impacto. Una criatura que ingiere más de 5 onzas de menga deja en un período de 24 horas no gana ningún beneficio adicional y debe tener éxito en un [[/save con dc=11 format=long]] o caída &amp;Reference[unconscious] durante 1 hora. La criatura inconsciente se despierta si toma al menos 5 daños en un giro.</p><p>Un arbusto de menga saludable por lo general tiene [[/gmr 2d6#Ounces of Menga leaves]] onzas de hojas. Una vez recolectadas, las hojas requieren 1 día para secarse antes de que puedan conferir algún beneficio.</p>",
+      "activities": {
+        "63kINMQ58FvYuw4R": {
+          "name": "Ingestión"
+        }
+      }
+    },
+    "toafafRyathRoot0": {
+      "name": "Raíz de Ryath",
+      "description": "<p>Cualquier criatura que ingiere una raíz riath gana [[/heal]]. Una criatura que consume más de una raíz de ryath en un período de 24 horas debe tener éxito en un [[/save con dc=13 format=long]] o sufrir la &amp;Reference[poisoned] condición durante 1 hora.</p>",
+      "activities": {
+        "tDivUUq8gFpOTeJQ": {
+          "name": "Ingestión"
+        }
+      },
+      "effects": {
+        "Ra1etMutxy9O4nRl": {
+          "name": "Envenenado"
+        }
+      }
+    },
+    "toafafSindaBerri": {
+      "name": "Berries Sinda (Cluster)",
+      "description": "<p>Estas bayas son de color marrón oscuro y amargo. Un arbusto de bayas sinda madura tiene [[/gmr 4d6#Berries]] Crecen bayas en ella. Un arbusto arrancado de todas sus bayas crece nuevas bayas en [[/gmr 1d4#Regrowth time (Months)]] meses. Las bayas recogidas pierden su frescura y eficacia después de 24 horas.</p><p>Las bayas frescas de sinda se pueden comer crudas o machacadas y añadir a una bebida para embotar la amargura. Una criatura que consume por lo menos diez bayas frescas de sinda gana ventaja en el ahorro lanza contra la enfermedad y el veneno durante las próximas 24 horas.</p><section id=\"secret-AO3YCoLHzHcSxlJr\" class=\"secret\"><p><strong>Nota de Foundry</strong></p><p>El número máximo de usos de este artículo, en lugar de su cantidad, se utiliza para rastrear el número de bayas disponibles para cantidades de consumo variables. Ha sido preestablecido con el <em>mínimo</em> número de bayas encontradas en un arbusto.</p></section>",
+      "activities": {
+        "hQTvOU6yHISAMCyh": {
+          "name": "Consumir"
+        }
+      },
+      "effects": {
+        "VROr4nfSsaixVjGC": {
+          "name": "Enfermedad y Resiliencia Venenosa",
+          "description": "<p>Una criatura que consume por lo menos diez bayas frescas de sinda gana ventaja en el ahorro lanza contra la enfermedad y el veneno durante las próximas 24 horas.</p>"
+        }
+      }
+    },
+    "toafafWildroot00": {
+      "name": "Raíz silvestre",
+      "description": "<p>Introducir el jugo de una raíz silvestre en el torrente sanguíneo de una criatura envenenada (por ejemplo, frotándolo en una herida abierta) libera a la criatura del &amp;Reference[poisoned] afección. Una vez utilizado de esta manera, una raíz salvaje pierde esta propiedad.</p>",
+      "activities": {
+        "pcRUz1uPw35aoR9d": {
+          "name": "Aplicar jugo"
+        }
+      }
+    },
+    "toafafWukkaNuts0": {
+      "name": "Nueces Wukka",
+      "description": "<p>Estas nueces de tamaño puño crecen en los árboles de wukka, que son lugares populares para jaculi, su-monstruos, y zorbos. Una nuez wukka vibra cuando se agita, haciendo que su caparazón derrame luz brillante en un radio de 10 pies y luz tenue por otros 10 pies. Esta luz mágica se desvanece después de 1 minuto, pero sacudiendo la nuez de nuevo hace que la luz reaparezca. Si la cáscara de la nuez se abre, pierde su magia.</p>",
+      "activities": {
+        "w93fi5AAZ3TnlZrH": {
+          "name": "Agitar",
+          "target": {
+            "affects": {
+              "special": "la nuez de wukka"
+            }
+          }
+        }
+      },
+      "effects": {
+        "exaZTi4l8D5fMA43": {
+          "name": "Iluminado",
+          "description": "<p>La cáscara de nuez de wukka arroja luz brillante en un radio de 10 pies y luz tenue por otros 10 pies. Esta luz mágica se desvanece después de 1 minuto,</p>"
+        }
+      }
+    },
+    "toafafYahcha0000": {
+      "name": "Yahcha",
+      "description": "<p>Un yahcha (pronunciado YAH-chah) es un inofensivo escarabajo carnoso del tamaño de una mano humana, que se alimenta de gusanos y gusanos. Se mueve lentamente (velocidad de marcha 10 pies) y es fácil de atrapar. Una criatura con @UUID[JournalEntry.toaCh2TheLandOfC.JournalEntryPage.cAVQlvTQ3y2Unkni]{fiebre de niebla azul} que come un yahcha crudo o cocido puede hacer inmediatamente un tiro ahorro con ventaja contra esa enfermedad (ver “@UUID[JournalEntry.toaCh2TheLandOfC.JournalEntryPage.q88gNSLatuxyV9Yg]{Enfermedades}”).</p>",
+      "activities": {
+        "MeaKF8lGJpEsRbv2": {
+          "name": "Consumir"
+        }
+      }
+    },
+    "toafafZabou00000": {
+      "name": "Zabou",
+      "description": "<p>Las setas zabúes se alimentan de despojos y la madera podrida de árboles muertos. Si se maneja con cuidado, un zabou puede ser recogido o desarraigado sin hacer que libere sus esporas. </p><p>Si se aplasta o golpea, un zabou libera sus esporas en una esfera de 10 pies de radio. Un zabou también se puede lanzar hasta 30 pies de distancia o caer como una granada, liberando su nube de esporas en el impacto. Cualquier criatura en esa área debe tener éxito en un lanzamiento de ahorro de la Constitución CD 10 o &amp;Reference[poisoned apply=false] durante 1 minuto. </p><p>La piel de la criatura envenenada pica durante todo el tiempo. La criatura puede repetir el lanzamiento de ahorro al final de cada uno de sus giros, terminando con el efecto en sí misma en un éxito.</p>",
+      "activities": {
+        "0bRqHoSC3Q28McXo": {
+          "name": "Lanzar"
+        }
+      },
+      "effects": {
+        "SgBBv2vqTUflQGsb": {
+          "name": "Envenenado",
+          "description": "<p>Los &amp;Reference[poisoned apply=false] la piel de la criatura pica durante todo el tiempo. La criatura puede repetir el [[/save con dc=10]]{tirada de salvación} al final de cada uno de sus turnos, poniendo fin al efecto en sí mismo en un éxito.</p>"
+        }
+      }
+    },
+    "toagoldcarnelian": {
+      "name": "Anillo de oro y cornalina",
+      "description": "<p>Un anillo de oro con cornalina fue descubierto en la cueva de agitación en Firefinger.</p>"
+    },
+    "toamgcAmuletofth": {
+      "name": "Amuleto del cráneo negro",
+      "description": "<p>Este amuleto está tallado en obsidiana y tiene la forma de un cráneo humanoide que grita, con ojos de rubí y esmeraldas para dientes. Se cuelga de un collar de cadena de hierro.</p><p>El amuleto tiene 6 cargos y recupera 1d6 cargos diarios al amanecer. Mientras lleva el amuleto, puede usar una acción para gastar 1 de sus cargos para transportarse y cualquier cosa que esté usando o llevando a un lugar a menos de 100 pies de usted. El destino que elijas no necesita estar en tu línea de vista, pero debe ser familiar para ti (en otras palabras, un lugar que hayas visto o visitado), y debe estar en el mismo plano de existencia que tú. Este efecto no está sujeto a las restricciones mágicas colocadas en la Tumba de los Nueve Dioses; por lo tanto, el amuleto puede ser utilizado para entrar y salir de la tumba.</p><p>Si no estás muerto viviente, debes hacer un lanzamiento de ahorro de la Constitución CD 16 cada vez que uses el amuleto para teletransportarte. En un tirada de salvación fallido, el cráneo negro se estremece mientras se transforma en tránsito. La transformación tiene efecto tan pronto como llegues al destino, y se determina aleatoriamente al lanzar los dados del percentil y consultar la tabla de Transformación del Cráneo Negro.</p><p>@Embed[Compendium.dnd-tomb-annihilation.tables.RollTable.dmgBlackSkullTra rollable classes=\"caption-top\" resultLabel=\"Transformation\"]</p>",
+      "activities": {
+        "2wBI7EMxac8CUcvQ": {
+          "name": "Teletransporte"
+        }
+      }
+    },
+    "toamgcBookmark00": {
+      "name": "Marcador",
+      "description": "<p>Esta daga +3 pertenece a @UUID[Actor.hNq59kIhDGqZBGXl]{Artus Cimber} (ver @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.9gGxLgtmRcNjXZ50]{Apéndice D}). Mientras usted tiene la daga dibujada, puede utilizar una acción adicional para activar una de las siguientes propiedades:</p><ul><li>Provoca que una gema azul puesta en el pomo de la daga emita luz brillante en un radio de 20 pies y luz tenue durante otros 20 pies, o haz que la gema se oscurezca.</li><li>Convierte la daga en una brújula que, mientras descansas en tu palma, apunta hacia el norte.</li><li>Reparto @UUID[Compendium.dnd5e.spells.Item.A4RsPuSvB9wFtz1j]{puerta de dimensión} de la daga. Una vez que esta propiedad es usada, no puede ser usada de nuevo hasta el siguiente amanecer.</li><li>Reparto @UUID[Compendium.dnd5e.spells.Item.P6f1PPKPd9BCb742]{compulsión} (Salva CD 15) de la daga. El alcance del conjuro aumenta a 90 pies, pero sólo se dirige a arañas que son bestias. Una vez que esta propiedad es usada, no puede ser usada de nuevo hasta el siguiente amanecer.</li></ul>",
+      "activities": {
+        "W1URb3A46JTu02lj": {
+          "target": {
+            "affects": {
+              "special": "sólo arañas que son bestias"
+            }
+          }
+        },
+        "6crPJejmWvir7Sgx": {
+          "name": "Activar gema o brújula",
+          "target": {
+            "affects": {
+              "special": "esta daga"
+            }
+          }
+        }
+      },
+      "effects": {
+        "6uTKgi5M5uwh4DVc": {
+          "name": "Activar gema"
+        },
+        "vYc7DRcl94wEwsEH": {
+          "name": "Activar brújula"
+        }
+      }
+    },
+    "toamgcGhostLante": {
+      "name": "Linterna fantasma",
+      "description": "<p>Un espíritu inquieto está atrapado dentro de esta linterna. Mientras sostiene la linterna, puede ordenar el espíritu como una acción adicional para arrojar luz brillante en un radio de 30 pies y tenue luz por 30 pies adicionales.</p><p>Mientras sostiene la linterna, puede utilizar una acción para ordenar que el espíritu deje la linterna y duplicar el efecto de la @UUID[Compendium.dnd5e.spells.Item.Utk1OQRwYkMkFRD3]{mano de mago} Deletrear. El espíritu vuelve a la linterna cuando el conjuro termina.</p><p>Si te caes &amp;Reference[unconscious apply=false] a menos de 10 pies de la linterna, el espíritu emerge de ella, mágicamente te estabiliza con un toque, y luego rápidamente vuelve a la linterna.</p><p>El espíritu está atado a la linterna y no puede ser dañado, convertido, o levantado de entre los muertos. Casting a @UUID[Compendium.dnd5e.spells.Item.TkJ8Wtg1L7TZtspm]{disipar el mal y el bien} conjuro en la linterna libera el espíritu a la vida después de la muerte y hace que la linterna no mágico.</p><p></p>",
+      "activities": {
+        "LQP2wbP26jAybQg1": {
+          "name": "Iluminar",
+          "target": {
+            "affects": {
+              "special": "la linterna fantasma"
+            }
+          }
+        }
+      },
+      "effects": {
+        "oxs8Sx2VqEJtzRhi": {
+          "name": "Linterna fantasma"
+        }
+      }
+    },
+    "toamgcMaskoftheB": {
+      "name": "Máscara de la Bestia",
+      "description": "<p>Esta máscara de madera tiene la forma de un rostro de bestia y tiene 3 cargos. Mientras usa la máscara, puede gastar 1 carga y utilizar la máscara para lanzar el @UUID[Compendium.dnd5e.spells.Item.hDOENzjuj5WpLq7B]{amistad animal} deletrear como una acción. La máscara recupera todas las cargas gastadas al amanecer.</p>"
+    },
+    "toamgcRingofWint": {
+      "name": "Anillo de invierno",
+      "description": "<p>@UUID[Actor.hNq59kIhDGqZBGXl]{Artus Cimber} (ver @UUID[JournalEntry.toaAppDMonstersA]{Apéndice D}) ha mantenido este artículo en su poder por más de un siglo. Los [[lookup @item.name]] es una banda dorada que cambia el tamaño para encajar cómodamente en el dedo de su portador. Una capa delgada de hielo cubre el exterior del anillo, que el calor normal no puede derretir. El anillo se siente frío al tacto e inicialmente adormece la mano que lo lleva, pero este frío deja de ser sentido por uno que está en sintonía con el anillo.</p><p>Los [[lookup @item.name]] es sensible e intenta tomar el control de cualquier criatura que lo use (ver @UUID[Compendium.dnd5e.rules.JournalEntry.t6scHTmpmHBTZGTX.JournalEntryPage.YHsuCV4IZZZoyDap#sentient-magic-items]{Elementos mágicos sensibles}). Si tiene éxito, el anillo obliga a su portador a causar daño indebido a todos y todo lo que lo rodea, en un intento de corazón frío de incurrir en la ira de los enemigos y provocar la perdición del portador.</p><details><summary><strong>Más detalles</strong></summary><div class=\"advice\"><h4><strong>Intención de control</strong></h4><p>[[/save ability=cha dc=12+3 format=long]]. En un ahorro fallido, el usuario es &amp;Reference[charmed apply=false]{encanto} por el ring para [[/gmr 1d12#Hours]]{1d12 Horas}</p></div><p><em><strong>Sentience.</strong></em> Los [[lookup @item.name]] es un elemento malvado caótico sintiente con una Inteligencia de 14, una Sabiduría de 14, y un Carisma de 17. El anillo se comunica transmitiendo la emoción a la criatura que la lleva o la empuña, y tiene audición y visión normal hasta un rango de 60 pies. El anillo anhela la destrucción, y le gusta infligir daño indiscriminado a otros.</p><div class=\"advice\"><h4>Comprobaciones de capacidad</h4><p>[[/r 1d20 + 2]]{Inteligencia +2}</p><p>[[/r 1d20 + 2]]{Sabiduría +2}</p><p>[[/r 1d20 + 3]]{Carisma +3}</p><p><em><strong>No detección.</strong></em> Los [[lookup @item.name]] desafía los intentos de localizarlo mágicamente. Ni el anillo ni su portador pueden ser atacados por ninguna magia de adivinación o percibidos a través de sensores mágicos.</p></div><p><em><strong>Tiempo congelado.</strong></em> Mientras uses el anillo, no envejeces naturalmente. Este efecto es similar a la animación suspendida, ya que su edad no le alcanza una vez que el anillo se retira. El anillo no protege a su portador de los efectos mágicos o sobrenaturales del envejecimiento, tales como el horrible Visage de un @UUID[Compendium.dnd5e.monsters.Actor.qoFEjfrANBdrCP6m]{fantasma}.</p><p><em><strong>Inmunidad fría.</strong></em> Si bien está en sintonía con y llevar el anillo, usted tiene inmunidad a los daños por frío y no sufre ningún efecto malo de @UUID[JournalEntry.toaAdditionalRul.JournalEntryPage.z3kEKGnocGv15Nht]{frío extremo}.</p><p><em><strong>Magia.</strong></em> Los [[lookup @item.name]] tiene 12 cargos y recupera todos sus gastos diarios al amanecer. Mientras lleva el anillo, puede gastar el número necesario de cargas para activar una de las siguientes propiedades:</p><ul><li><p>Puedes gastar 1 carga como una acción y usar el anillo para bajar la temperatura en una esfera de 120 pies de radio centrada en un punto que puedes ver a menos de 300 pies de ti. La temperatura en esa zona baja 20 grados por minuto, a un mínimo de –30 grados Fahrenheit. La helada y el hielo comienzan a formarse en las superficies una vez que la temperatura desciende por debajo de 32 grados. Este efecto es permanente a menos que utilice el anillo para terminarlo como una acción, en cuyo punto la temperatura en el área vuelve a la normalidad a una velocidad de 10 grados por minuto.<br /></p></li><li>Puede lanzar uno de los siguientes conjuros desde el anillo (salvar CD 17) gastando el número necesario de cargos: @UUID[Compendium.dnd-tomb-annihilation.items.Item.DEHllCkN9GLW7cNF]{Mano de Bigby} (2 cargas; la mano está hecha de hielo, es inmune a daños por frío, y trata daños por golpes en lugar de daños por fuerza como un puño apretado), @UUID[Compendium.dnd5e.spells.Item.RpKjTlYASrfqUPVA]{cono de frío} (2 cargos), <em>carne al hielo</em> (3 cargos; como @UUID[Compendium.dnd5e.spells.Item.kozNy29b0X6exFhY]{carne a piedra} excepto que el objetivo se convierte en hielo sólido con la densidad y durabilidad de la piedra), @UUID[Compendium.dnd5e.spells.Item.WN2LWEljYU6QqnRH]{tormenta de hielo} (2 cargos), @UUID[Compendium.dnd5e.spells.Item.MImfWCzEPRMYD3Xp]{Esfera de congelación de Otiluke} (3 cargos), @UUID[Compendium.dnd5e.spells.Item.dhqBY4TvVjxVmOZd]{Tormenta de bolitas de hielo} (1 cargo), @UUID[Compendium.dnd5e.spells.Item.9gYGkrL6qFTsE6fw]{Crecimiento de picos} (1 carga; las espigas están hechas de hielo), o @UUID[Compendium.dnd5e.spells.Item.fzZnVKLmBMo2f5up]{pared de hielo} (2 cargos).</li><li>Usted puede gastar el número necesario de cargas como una acción y utilizar el anillo para crear un objeto de hielo inanimado (2 cargas) o una criatura de hielo animado (4 cargas). El objeto de hielo no puede tener ninguna parte móvil, debe ser capaz de caber dentro de un cubo de 10 pies, y tiene la densidad y durabilidad de metal o piedra (su elección). La criatura de hielo debe ser modelada según una bestia con una calificación de desafío de 2 o menos. La criatura de hielo tiene las mismas estadísticas que la bestia que modela, con los siguientes cambios: la criatura es un constructo con vulnerabilidad al daño por incendio, inmunidad al daño por frío y veneno, e inmunidad a las siguientes condiciones: &amp;Reference[charmed apply=false], &amp;Reference[exhaustion apply=false], &amp;Reference[frightened apply=false], &amp;Reference[paralyzed apply=false], &amp;Reference[petrified apply=false], y &amp;Reference[poisoned apply=false]. La criatura de hielo obedece sólo los mandamientos de su creador. El objeto de hielo o criatura aparece en un espacio desocupado a menos de 60 pies de ti. Se derrite en una piscina de agua normal después de 24 horas o cuando cae a 0 puntos de impacto. En el calor extremo, pierde [[/damage 1d10 average]]puntos de impacto por minuto como se derrite. Usar la ventana @UUID[Compendium.dnd5e.rules.JournalEntry.t6scHTmpmHBTZGTX.JournalEntryPage.3RM2KPMlMrSXngN3]{directrices} en el capítulo 8 de la <em>Guía del Dungeon Master</em> determinar los puntos de impacto de un objeto inanimado si se hacen necesarios.</li></ul><p><em><strong>Otras propiedades.</strong></em> Los [[lookup @item.name]] se rumorea que posee otras propiedades que sólo pueden ser activadas por un ser malvado cuya voluntad el anillo no puede romper. Los gigantes de las heladas han creído desde hace mucho tiempo que el anillo se puede utilizar para congelar mundos enteros, mientras que un djinni al servicio de un pasha calishita una vez afirmó que el anillo podría ser utilizado para convocar y controlar dragones blancos, así como un poderoso primordial de hielo llamado Cryonax.</p><p><em><strong>Destruyendo el Anillo.</strong></em> El anillo es casi indestructible, resistiendo incluso el calor mágico más intenso. Si se coloca en el dedo del poderoso archifey conocido como la Reina de Verano, el anillo se derrite y se destruye para siempre.</p></details><p></p>",
+      "descriptionChat": "<p>[[lookup @name]] usa el Anillo.</p>",
+      "activities": {
+        "3wHTbIM4Iz7vaREp": {
+          "name": "Zona de refrigeración",
+          "description": {
+            "chatFlavor": "La temperatura en el área baja 20 grados por minuto."
+          },
+          "target": {
+            "affects": {
+              "special": "punto que se puede ver"
+            }
+          }
+        },
+        "GG4vrsVyGJUYiYsW": {
+          "name": "Mano de Bigby"
+        },
+        "N8kd1B9zfVLcBVtW": {
+          "name": "Carne a hielo",
+          "description": {
+            "chatFlavor": "El objetivo se convierte en hielo sólido con la densidad y durabilidad de la piedra."
+          }
+        },
+        "uOTFTpqLzv7NW5jA": {
+          "name": "La esfera helada de Otiluke"
+        },
+        "z4uJAY68jpW4dO5W": {
+          "description": {
+            "chatFlavor": "Las espigas están hechas de hielo."
+          }
+        },
+        "wJtCfILWrIrVGLT0": {
+          "name": "Criatura de Hielo Animada",
+          "target": {
+            "affects": {
+              "special": "espacio no ocupado"
+            }
+          }
+        },
+        "DwCoA8sqkJpVkH3p": {
+          "name": "Objeto de hielo inanimado",
+          "target": {
+            "affects": {
+              "special": "desocupado"
+            }
+          }
+        }
+      },
+      "effects": {
+        "Rz0RpBHjmYQ6fn7c": {
+          "name": "No detección",
+          "description": "<p>Ni el anillo ni su portador pueden ser atacados por ninguna magia de adivinación o percibidos a través de sensores mágicos.</p>"
+        },
+        "PBrHbhOWuGzyPN0q": {
+          "name": "Tiempo e inmunidad congelados",
+          "description": "<p><em><strong>Tiempo congelado.</strong></em> Mientras uses el anillo, no envejeces naturalmente.</p><p><em><strong>Inmunidad fría.</strong></em> Si bien está en sintonía con y llevar el anillo, usted tiene inmunidad al daño por frío y no sufre ningún efecto negativo del frío extremo.</p>"
+        },
+        "CAyKnJQnLfSI91X5": {
+          "name": "Cambios estadísticos de la Bestia",
+          "description": "<p>La criatura de hielo tiene las mismas estadísticas que la bestia que modela, con los siguientes cambios: la criatura es un constructo con vulnerabilidad al daño por incendio, inmunidad al daño por frío y veneno, e inmunidad a las siguientes condiciones: encantado, agotamiento, miedo, paralización, petrificado y envenenado.</p>"
+        }
+      }
+    },
+    "toamgcScorpionAr": {
+      "name": "Armadura Escorpión",
+      "description": "<p>Este traje de armadura de placa está hecho de escorpión gigante chitina. Mientras usas esta armadura, obtienes los siguientes beneficios:</p><ul><li>La armadura mejora su preparación para el combate, concediéndole un bono de +5 a la iniciativa siempre y cuando no lo sea &amp;Reference[incapacitated apply=false].</li><li>La armadura no impone desventaja en su Dexterity (&amp;Reference[skill=stealth]) cheques.</li><li>La armadura no impone desventaja en los lanzamientos de ahorro hechos para resistir los efectos del calor extremo (véase el capítulo 5 de la <em>Guía del Dungeon Master</em>).</li></ul><section class=\"secret\" id=\"secret-hnHhXZVy9pFhGkfO\"><p><em><strong>Maldición.</strong></em> Esta armadura está maldita. Siempre que lo hagas o lo hagas, debes hacer un [[/save ability=con dc=15 format=long]], tomando [[/damage 10d10+45 type=poison average]] daño en un error de guardar, o la mitad de daño en un éxito. Sólo un @UUID[Compendium.dnd5e.spells.Item.3okM6Gn63zzEULkz]{deseo} el conjuro puede quitar la maldición de la armadura.</p></section>",
+      "activities": {
+        "N3hRF9utuszXHAYb": {
+          "name": "Maldición"
+        }
+      },
+      "effects": {
+        "hKDwyjxnQHTOZKwD": {
+          "name": "Combate la preparación y la resistencia al calor",
+          "description": "<p>La armadura mejora su preparación para el combate, concediéndole un bono de +5 a la iniciativa siempre y cuando no lo sea &amp;Reference[incapacitated apply=false].</p><p>La armadura no impone desventaja en los lanzamientos de ahorro hechos para resistir los efectos del calor extremo (véase el capítulo 5 de la <em>Guía del Dungeon Master</em>).</p>"
+        }
+      }
+    },
+    "toamgcStaffofthe": {
+      "name": "El Personal del Olvidado",
+      "description": "<p>[[/attack extended]]. [[/damage extended average]] o [[/damage twoHanded average]].</p><section class=\"secret\" id=\"secret-sbn86LpMXwwQ8xNT\"><p><em>(requiere sintonía por un hechicero, hechicero o mago)</em></p><p>Este bastón torcido está tallado en hueso y rematado con el cráneo de un archimago olvidado que Acerrak destruyó hace mucho tiempo. Grabado en la frente del cráneo es la runa de Acererak, que es conocido en muchos mundos como una señal de muerte.</p><p><em><strong>Propiedades beneficiosas.</strong></em> Mientras el personal está en su persona, usted obtiene los siguientes beneficios:</p><ul><li>Su bono de competencia a Inteligencia (&amp;Reference[skill=Arcana]) e Inteligencia (&amp;Reference[skill=History]) los cheques se duplican.</li><li>No puedes ser &amp;Reference[blinded apply=false], &amp;Reference[charmed apply=false], &amp;Reference[deafened apply=false], &amp;Reference[frightened apply=false], &amp;Reference[petrified apply=false]o bien &amp;Reference[stunned apply=false].</li><li>Los muertos vivientes con una calificación de desafío de 2 o inferior no te amenazarán ni atacarán a menos que les hagas daño.</li><li>Puede blandir el personal como un <em>+3 trimestres de personal</em> que da un daño necrótico adicional 10 (3d6) en un golpe.</li></ul><p><em><strong>Invocar la maldición.</strong></em> Los [[lookup @item.name]] tiene 7 cargos y recupera 1d4 + 3 gastos diarios al amanecer. Mientras sostienes el personal, puedes usar una acción para gastar 1 carga y apuntar a una criatura que puedes ver a menos de 60 pies de ti. El objetivo debe tener éxito en un [[/save format=long activity=wwlmRBqrIYN7PP0v]] (usando tu conjuro salva a CD) o ser maldecido. Mientras que maldecido de esta manera, el objetivo no puede recuperar puntos de impacto y tiene vulnerabilidad a daños necróticos. A <em>@UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{mayor restauración}</em>, <em>@UUID[Compendium.dnd5e.spells.Item.XZhdgVK3cLoxNCQl]{eliminar la maldición}</em>, o conjuro similar termina la maldición en el objetivo.</p><p><em><strong>El olvidado.</strong></em> La fuerza de vida sin cuerpo de un arcago muerto empodera al personal y está encarcelado dentro de él. La runa tallada en el cráneo del bastón protege a Acerrak de la venganza de este espíritu. Cada vez que una criatura distinta de Acererak gasta cualquiera de los cargos del personal, hay un [[/r 1d100cs&lt;=50]]{50 %} la posibilidad de que la fuerza de la vida trate de poseer el blandengue de personal. El usuario debe tener éxito en un [[/save format=long activity=Xunxk5VSINVzePM0]] o estar poseído, convirtiéndose en un PNJ bajo el control del DM. Si la fuerza de vida intruso es blanco de la magia como un <em>@UUID[Compendium.dnd5e.spells.Item.TkJ8Wtg1L7TZtspm]{disipar el mal y el bien}</em> Deletrear, se queda atrapado en el personal una vez más. Una vez que toma el control de otra criatura, el espíritu del archimago muerto intenta destruir el bastón.</p><p><em><strong>Destruyendo el Staff.</strong></em> Una criatura en posesión del bastón puede usar una acción para romperla sobre una rodilla o una superficie sólida. El personal es destruido y libera su magia restante en una explosión que se expande para llenar una esfera de 30 pies de radio centrada en ella. Cada criatura en la zona debe hacer un [[/save format=long activity=6FDPmp6M5MGjPED6]], tomando [[/damage average activity=6FDPmp6M5MGjPED6]] daño en un error de guardar, o la mitad de daño en un éxito. Cuando el bastón es destruido, la fuerza vital del Olvidado es liberada a la vida después de la muerte. Donde va es la suposición de cualquiera.</p><p>Lanzar el personal en un @UUID[Compendium.dnd5e.items.Item.2YNqk5zm9jDTvd7q]{esfera de aniquilación} destruye tanto el bastón como la fuerza vital atrapada dentro de él. El personal no explota si se destruye de esta manera, pero su destrucción hace que la esfera también sea destruida.</p></section>",
+      "activities": {
+        "wwlmRBqrIYN7PP0v": {
+          "name": "Invocar la maldición",
+          "description": {
+            "chatFlavor": "Los usuarios que no sean Acerrak pueden estar poseídos. Ver \"El olvidado\"."
+          }
+        },
+        "6FDPmp6M5MGjPED6": {
+          "name": "Destruir el personal"
+        },
+        "Xunxk5VSINVzePM0": {
+          "name": "El olvidado"
+        }
+      },
+      "effects": {
+        "B02UlDrsyI7pXVXU": {
+          "name": "Aliado no-muerto, Bono de Competencia, Inmunidad de Condición",
+          "description": "<p>Su bono de competencia a Inteligencia (&amp;Reference[skill=Arcana]) e Inteligencia (&amp;Reference[skill=History]) los cheques se duplican.</p><p>No puedes ser &amp;Reference[blinded, &amp;Reference[charmed apply=false], &amp;Reference[deafened apply=false], &amp;Reference[frightened apply=false], &amp;Reference[petrified apply=false]o bien &amp;Reference[stunned apply=false].</p><p>Los muertos vivientes con una calificación de desafío de 2 o inferior no te amenazarán ni atacarán a menos que les hagas daño.</p>"
+        },
+        "WnZSyBTkpNww6LHq": {
+          "name": "Maldito",
+          "description": "<p>Mientras que maldecido de esta manera, el objetivo no puede recuperar puntos de impacto y tiene vulnerabilidad a daños necróticos. A @UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{mayor restauración}, @UUID[Compendium.dnd5e.spells.Item.XZhdgVK3cLoxNCQl]{eliminar la maldición}, o conjuro similar termina la maldición en el objetivo.</p>"
+        },
+        "jPzLQhsl5i080N7k": {
+          "name": "Poseído",
+          "description": "<p>El objetivo está poseído, convirtiéndose en un PNJ bajo el control del DM.</p>"
+        }
+      }
+    },
+    "toapuzIjin000000": {
+      "name": "I'jin"
+    },
+    "toapuzKubazan000": {
+      "name": "Kubazan"
+    },
+    "toapuzMoa0000000": {
+      "name": "Moa"
+    },
+    "toapuzNangnang00": {
+      "name": "Nangnang"
+    },
+    "toapuzObolaka000": {
+      "name": "Obo'laka"
+    },
+    "toapuzPapazotl00": {
+      "name": "Papazotl"
+    },
+    "toapuzShagambi00": {
+      "name": "Shagambi"
+    },
+    "toapuzUnkh000000": {
+      "name": "Unkh"
+    },
+    "toapuzWongo00000": {
+      "name": "Wongo"
+    },
+    "u5jXdP0zWmwJYE7R": {
+      "name": "Rubí",
+      "description": "<p>Un rubí encontrado en un cofre en el Dedo de Fuego.</p>"
+    },
+    "uHqmxmG50OV3BCze": {
+      "name": "Poción de respiración de agua",
+      "description": "<p><em>Su líquido verde nublado huele al mar y tiene una burbuja parecida a una medusa flotando en él.</em></p>\n<p>Puede respirar bajo el agua durante 1 hora después de beber esta poción. </p>\n<p> </p>"
+    },
+    "uN5QsjtkcNKlNQgN": {
+      "name": "Pouch de Voj"
+    },
+    "uN9jqqeqq8WuhJoc": {
+      "name": "Colchoneta",
+      "description": "<p>Rollo de tela utilizado por el viajero para dormir en.</p>"
+    },
+    "uPNhsK1TNYNvzCU6": {
+      "name": "Tesorería de Hrakhamar"
+    },
+    "umN44n4oGRv4AxOQ": {
+      "name": "Pastel helado",
+      "description": "<p>El personaje se siente energizado y gana [[/heal temp]].</p><section class=\"secret\" id=\"secret-nYvSeTrh53NUba72\"><p><strong>Nota de Foundry</strong></p><p><span style=\"margin:0px;padding:0px\">Esta característica incluye un <strong>Efecto activo (AE)</strong> que sirve como recordatorio, pero no automatiza los beneficios antes mencionados.</span></p></section>",
+      "effects": {
+        "N63zNWdNq4SOaXNS": {
+          "name": "Pastel helado"
+        }
+      }
+    },
+    "yLno70maMojv7FQ0": {
+      "name": "Valija",
+      "description": "<p>Una bolsa de tela o cuero puede contener hasta 20 balas de honda o 50 agujas de la sopleta, entre otras cosas. Una bolsa compartimentada para sujetar componentes del conjuro se llama bolsa del componente. Una bolsa puede contener hasta ⅕ de pie cúbico o 6 libras de equipo.</p>"
+    },
+    "yNJwzScrTsRkOCa5": {
+      "name": "Frasco de tinta",
+      "description": "<p>Una pequeña botella de tinta para escribir sobre pergamino.</p>"
+    },
+    "yhanxJwcOCQrKJHp": {
+      "name": "Pergamino ortográfico: Resurrección",
+      "description": "<p><em>7o nivel &amp;Reference[Spell Scroll]</em></p><p>Tocas a una criatura muerta que no ha estado muerta más de un siglo, que no murió de vejez, y que no es no-muerta. Si su alma está libre y dispuesta, el objetivo vuelve a la vida con todos sus puntos de impacto.</p><p>Este conjuro neutraliza cualquier veneno y cura las enfermedades normales que afligen a la criatura cuando murió. Sin embargo, no elimina enfermedades mágicas, maldiciones, y cosas por el estilo; si tales efectos no se eliminan antes de lanzar el conjuro, afligen al objetivo al volver a la vida.</p><p>Este conjuro cierra todas las heridas mortales y restaura las partes del cuerpo que faltan.</p><p>Regresar de la muerte es una prueba. El objetivo tiene una penalización de −4 para todos los rollos de ataque, los lanzamientos ahorradores y los controles de capacidad. Cada vez que el objetivo termina un largo descanso, la penalización se reduce en 1 hasta que desaparece.</p><p>Lanzando este conjuro para restaurar la vida a una criatura que ha estado muerta por un año o más te grava grandemente. Hasta que termines un largo descanso, no puedes lanzar conjuros de nuevo, y tienes desventajas en todos los rollos de ataque, controles de habilidad y lanzamientos ahorradores.</p>"
+    },
+    "zvvRNh7A7rEDZPvb": {
+      "name": "Flecha +1",
+      "description": "<p>Munición utilizada para arcos de todas las variedades. Ha sido imbuido de magia.</p>\n<p>Tienes un bono para atacar y dañar rollos hechos con esta pieza de munición mágica. Una vez que alcanza un objetivo, la munición ya no es mágica.</p>"
+    }
+  }
 }

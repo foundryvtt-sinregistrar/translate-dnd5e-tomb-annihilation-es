@@ -1,1 +1,49 @@
-{}
+{
+  "ToA": {
+    "Betting": {
+      "Action": {"AddRacer":"Añadir corredor","CreateRace":"Crear carrera","DeleteRacer":"Eliminar corredor","MakeBet":"Apostar","ResetRacers":"Restablecer corredores","RunRace":"Disputar carrera"},
+      "Bet": {"Amount":"Cantidad","Bettor":"Apostante","Denomination":"Moneda","Label":"Apuesta","Title":"Realizar apuesta"},
+      "Payout":"Premio",
+      "Racer":{"Group":"Corredores","Label":"Corredor","Name":"Nombre del corredor","Odds":"Cuota"},
+      "Result":{"Loss":"Derrota","Win":"Victoria"},
+      "Setup":{"Title":"Preparación de la carrera"},
+      "Warning":{"InsufficientFunds":"{actor} no tiene fondos suficientes para cubrir esta apuesta.","RaceAlreadyRun":"No se pueden realizar más apuestas una vez disputada la carrera.","RacerNotFound":"No se ha encontrado el corredor por el que quieres apostar."}
+    },
+    "DeathCurse":{"Action":{"Add":"Añadir maldición de muerte"},"TempMaxHint":"Los humanoides no pueden recuperar los puntos de golpe máximos perdidos mientras el Almero siga activo."},
+    "FOW":{"Hint":"Si la exploración del mapa regional de Chult deja de coincidir entre usuarios, esta herramienta sincroniza a todos con la versión del usuario seleccionado.","Label":"Sincronizar con","NoFog":"{user} no dispone de datos de exploración con los que sincronizar.","Synchronize":"Sincronizar"},
+    "HEX":{
+      "Direction":{"Label":"Dirección al perderse","North":"Norte","Northeast":"Nordeste","Northwest":"Noroeste","South":"Sur","Southeast":"Sudeste","Southwest":"Sudoeste"},
+      "Threat":{"Greater":"Mayor","Label":"Amenaza de muertos vivientes","Lesser":"Menor","None":"Ninguna"},
+      "Type":{"Coast":"Costa","Grassland":"Pradera","Hill":"Colina","Jungle":"Selva","Label":"Tipo de terreno","Lake":"Lago","Ocean":"Océano","Mountain":"Montaña","River":"Río","Ruins":"Ruinas","Swamp":"Pantano","Wasteland":"Yermo"}
+    },
+    "IMPORT":{"ActivateScene":"Activar escena inicial","Configure":"Configurar aventura","ConvertMonsters2024":"Convertir a monstruos de 2024","ConvertSpells2024":"Convertir a conjuros de 2024","CustomizeJoin":"Personalizar los detalles del mundo","DisplayJournal":"Mostrar el diario de primeros pasos","Finished":"La preparación de La tumba de la aniquilación ha terminado.","Launch":"Iniciar aventura","Options":"Opciones","PreserveState":"Conservar la ficha del grupo"},
+    "JOURNAL":{"Title":"Diario de La tumba de la aniquilación","Tooltip":"Haz clic para ver la escena"},
+    "RegionHUD":{"Action":{"Collapse":"Contraer panel","Expand":"Expandir panel"},"TerrainType":"Tipo de terreno","UndeadThreat":"Amenaza de muertos vivientes"},
+    "Request":{"Action":{"Handle":"Resolver solicitud","Post":"Publicar solicitud"},"AnyOwner":"Cualquier propietario","Complete":"Completada","Targets":"Miembros del grupo","Title":"Solicitud"},
+    "SETTING":{
+      "AdventureTracker":{"Hint":"Gestiona los días transcurridos, el tiempo actual y los ajustes de orientación en la región.","Name":"Aventura"},
+      "DeathCurse":{"Hint":"Permite aplicar la maldición de muerte a los humanoides que hayan muerto e impide que los humanoides recuperen los puntos de golpe máximos perdidos.","Name":"Maldición de muerte"},
+      "Meatgrinder":{"Hint":"Aumenta a 15 el resultado necesario para superar una tirada de salvación contra muerte.","Name":"Modo picadora de carne"}
+    },
+    "Tracker":{
+      "Action":{"AddDay":"Añadir día","HandleDehydration":"Resolver deshidratación","HandleTropicalStorm":"Resolver tormenta tropical","RollDehydrationSave":"Tirar salvación por deshidratación","RollEncounter":"Tirar encuentro: {name}","RollNavigationCheck":"Tirar prueba de orientación CD {dc}","RollTropicalStormSave":"Tirar salvación por tormenta tropical","SubtractDay":"Restar día"},
+      "Day":{"Hint":"Número de días desde que se activó el Almero.","Label":"Días transcurridos"},
+      "Dehydration":{"Hint":"Estos miembros del grupo han obtenido un nivel de cansancio por deshidratación y deben hacer una tirada de salvación para evitar otro nivel de cansancio.","Save":"Salvación por deshidratación"},
+      "EncounterTarget":{"Check":"Comprobar encuentro aleatorio","Hint":"Resultado necesario en una tirada de d20 para que se produzca un encuentro aleatorio.","Label":"Umbral de encuentro"},
+      "Lost":{"Hint":"Mientras el grupo esté perdido, los jugadores no podrán ver su ubicación en el mapa regional.","Label":"Grupo perdido"},
+      "NavigationCheck":"Prueba de orientación",
+      "Navigator":{"Hint":"El guía del grupo realizará la prueba para evitar que el grupo se pierda.","Label":"Guía"},
+      "NoPrimaryParty":"Debes establecer un grupo principal para gestionar la orientación. Haz clic derecho en un actor de tipo grupo y selecciona la opción para establecerlo como grupo principal.",
+      "Terrain":{"Automatic":"Automático","Hint":"El terreno actual determina los posibles encuentros aleatorios y el ritmo de viaje del grupo. En modo automático, se obtiene a partir de la posición de la ficha del grupo principal en el mapa regional de Chult.","Label":"Terreno"},
+      "Threat":{"Hint":"El nivel de amenaza de muertos vivientes influye en los posibles encuentros aleatorios.","Label":"Amenaza de muertos vivientes"},
+      "Title":"Seguimiento de la aventura",
+      "TravelPace":{"Fast":"Rápido","Hint":"El ritmo de viaje del grupo determina la distancia que puede recorrer en un día, la dificultad de las pruebas de orientación y sus pruebas de Percepción durante el viaje.","Label":"Ritmo de viaje","Normal":"Normal","Slow":"Lento"},
+      "TropicalStorm":{"Hint":"La dificultad de viajar durante una tormenta tropical ha causado un nivel de cansancio a estos miembros del grupo, que deben hacer una tirada de salvación para evitar otro nivel de cansancio.","Save":"Salvación por tormenta tropical"},
+      "Weather":{"Hint":"El tiempo actual afecta a la visibilidad y puede causar cansancio durante el viaje.","Label":"Tiempo actual"}
+    },
+    "WEATHER":{"Clear":"Despejado","Heavy":"Lluvia intensa","Label":"Tiempo","Light":"Lluvia ligera","Storm":"Tormenta tropical"},
+    "GEARS":{"ControlTitle":"Zona 61","ControlContent":"<h4>Panel de control de los Engranajes del Odio</h4><p style=\"text-align:center;\">Elige la configuración de los engranajes:</p>","None":"No se han encontrado las baldosas necesarias de los Engranajes del Odio en la escena actual."}
+  },
+  "TYPES.ChatMessage":{"dnd-tomb-annihilation.betting":"Apuestas","dnd-tomb-annihilation.request":"Solicitud"},
+  "SOURCE.BOOK.ToA":"La tumba de la aniquilación"
+}

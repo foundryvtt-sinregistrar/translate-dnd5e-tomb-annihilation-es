@@ -26,6 +26,55 @@ export const toaAdvancementById = mergeById;
 export const toaTableResultsById = mergeById;
 export const toaSceneTextById = mergeById;
 
+export function toaFolderNamesById(source, translation) {
+  if (!Array.isArray(source) || !translation || typeof translation !== "object") return source;
+  const out = foundry.utils.deepClone(source);
+  for (const folder of out) {
+    const name = translation[folder._id ?? folder.id];
+    if (typeof name === "string") folder.name = name;
+  }
+  return out;
+}
+
+// Adventure copies must use their own text even when it equals the English
+// source (proper names and @Embed references). Generic Babele fallback can
+// otherwise replace them with a different creature's name or biography.
+export function toaAdventureActorsById(source, translation) {
+  if (!Array.isArray(source) || !translation || typeof translation !== "object") return source;
+  const out = foundry.utils.deepClone(source);
+  const paths = {
+    name:"name", tokenName:"prototypeToken.name", biography:"system.details.biography.value",
+    biographyPublic:"system.details.biography.public", alignment:"system.details.alignment",
+    creatureType:"system.details.type.custom", creatureSubtype:"system.details.type.subtype",
+    languages:"system.traits.languages.custom", senses:"system.attributes.senses.special"
+  };
+  for (const actor of out) {
+    const patch = translation[actor._id ?? actor.id];
+    if (!patch || typeof patch !== "object") continue;
+    for (const [key,path] of Object.entries(paths)) {
+      if (typeof patch[key] === "string") foundry.utils.setProperty(actor,path,patch[key]);
+    }
+    if (patch.items) actor.items = toaActorItemsById(actor.items,patch.items);
+    if (patch.effects) actor.effects = mergeById(actor.effects,patch.effects);
+  }
+  return out;
+}
+
+export function toaSceneTokensById(source, translation) {
+  if (!Array.isArray(source) || !translation || typeof translation !== "object") return source;
+  const out = foundry.utils.deepClone(source);
+  for (const token of out) {
+    const patch = translation[token._id ?? token.id];
+    if (!patch || typeof patch !== "object") continue;
+    if (typeof patch.name === "string") token.name = patch.name;
+    if (patch.delta && token.delta) {
+      const id = token.delta._id ?? token.delta.id;
+      if (id) token.delta = toaAdventureActorsById([token.delta], {[id]:patch.delta})[0];
+    }
+  }
+  return out;
+}
+
 export function toaJournalPagesById(source, translation) {
   if (!source || !translation || typeof translation !== "object") return source;
   const out = foundry.utils.deepClone(source);

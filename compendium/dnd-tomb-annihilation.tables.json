@@ -7,6 +7,2279 @@
       "converter": "toaTableResultsById"
     }
   },
-  "folders": {},
-  "entries": {}
+  "folders": {
+    "Chapter 2": "Capítulo 2",
+    "Archaeologist": "Arqueólogo",
+    "Backgrounds": "Antecedentes",
+    "Chapter 3": "Capítulo 3",
+    "Item Specific": "Partida específica",
+    "Random Encounters": "Encuentros aleatorios",
+    "Chapter 1": "Capítulo 1",
+    "Chapter 5": "Capítulo 5",
+    "Chapter 4": "Capítulo 4",
+    "Anthropologist": "Antropólogo",
+    "Level 1": "Nivel 1",
+    "Omu Encounters": "Encuentros Omu",
+    "Level 3": "Nivel 3",
+    "Encounter Specific": "Encuentro específico",
+    "Level 5": "Nivel 5",
+    "Wildnerness": "Wildnerness",
+    "Level 4": "Nivel 4"
+  },
+  "entries": {
+    "dmgBlackSkullTra": {
+      "name": "Transformación del cráneo negro",
+      "results": {
+        "Il1s5EreuYB87SZe": {
+          "description": "<p>El símbolo de Acerrak se quema en su carne, una maldición que sólo puede ser removida con un @UUID[Compendium.dnd5e.spells.Item.XZhdgVK3cLoxNCQl]{eliminar la maldición} conjuro o magia similar. Hasta que la maldición termine, tus puntos de éxito no pueden ser restaurados por la magia.</p>"
+        },
+        "9JDm98jIp6b85tEp": {
+          "description": "<p>Crece más grande como si se viera afectado por un @UUID[Compendium.dnd5e.spells.Item.WahI41a3goVUg0x1]{agrandar/reducir} Deletrear, excepto que el efecto dura 1 hora.</p>"
+        },
+        "47i7ysHtDdZiSP3U": {
+          "description": "<p>Te vuelves más pequeño como si se viera afectado por un @UUID[Compendium.dnd5e.spells.Item.WahI41a3goVUg0x1]{agrandar/reducir} Deletrear, excepto que el efecto dura 1 hora.</p>"
+        },
+        "5aWRIwRoey1g3lBe": {
+          "description": "<p>Llegas al destino con nada más que el @UUID[Compendium.dnd-tomb-annihilation.items.Item.toamgcAmuletofth]{amuleto del cráneo negro}. Todo lo demás que llevabas aparece en un espacio desocupado a 100 pies de ti.</p>"
+        },
+        "1pK1LL7Mmx29wcS2": {
+          "description": "<p>Tú lo eres &amp;Reference[paralyzed] durante 1 minuto o hasta que este efecto termine con un @UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{menor restauración} conjuro o magia similar.</p>"
+        },
+        "fTUXd7VTRJxcbdvI": {
+          "description": "<p>Te vuelves &amp;Reference[petrified]. Este efecto sólo se puede terminar con un @UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{mayor restauración} conjuro o magia similar.</p>"
+        }
+      }
+    },
+    "dmgRanEncCaches0": {
+      "name": "Alijos",
+      "results": {
+        "sBwk5wdskdMgEahr": {
+          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaRainCatcher00]{Colector de lluvia} (ver @UUID[JournalEntry.toaCh1PortNyanza]{Capítulo 1}) y @UUID[Compendium.dnd5e.items.Item.lBg9CPRdpRhn4DO4]{kit de desorden}</p>"
+        },
+        "Qw2jpjWd2MuMSXu8": {
+          "description": "<p>Suministro de 10 días de conservas @UUID[Compendium.dnd5e.items.Item.f4w4GxBi0nYXmhX4]{raciones}</p>"
+        },
+        "SjxCulFFs6De5eeh": {
+          "description": "<p>Suministro de conservas durante 20 días @UUID[Compendium.dnd5e.items.Item.f4w4GxBi0nYXmhX4]{raciones}</p>"
+        },
+        "znY6wuBgo8ThBPXY": {
+          "description": "<p>50 días de suministro de conservas @UUID[Compendium.dnd5e.items.Item.f4w4GxBi0nYXmhX4]{raciones}</p>"
+        },
+        "QVMT6RnIqtLHrz81": {
+          "description": "<p>[[/r 1d4]] barriles de agua con capacidad para 5 galones cada uno</p>"
+        },
+        "bZHp8eCfoesjFQdW": {
+          "description": "<p>[[/r 1d4]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toaTejCaskFortBe]{Tornillos de tej} (véase el capítulo 1)</p>"
+        },
+        "ZAUXZFIAp2I0Dy1q": {
+          "description": "<p>[[/r 1d4]] @UUID[Compendium.dnd5e.items.Item.ugzwHl8vYaPu2GNd]{kits de escalador}</p>"
+        },
+        "Ub6IA2QrT7UAZ1FX": {
+          "description": "<p>Cofre que contiene: [[/r 2d4]] viales de @UUID[Compendium.dnd5e.items.Item.Fc6UfFNOnW80XMzi]{antitoxina}</p>"
+        },
+        "adHdQdPTv4AySZS0": {
+          "description": "<p>Suministro de 20 días de @UUID[Compendium.dnd-tomb-annihilation.items.Item.toaInsectRepelle]{Repelente a los insectos} (ver @UUID[JournalEntry.toaCh1PortNyanza]{Capítulo 1}) en tubo de cuero</p>"
+        },
+        "QH50hO2FN7sx0WjM": {
+          "description": "<p>[[/r 1d4]] @UUID[Compendium.dnd5e.items.Item.4MtQKPn9qMWCFjDA]{quiebres}, cada uno de los cuales contiene [[/r 1d20]] @UUID[Compendium.dnd5e.items.Item.3c7JXOzsv55gqJS5]{flechas}</p>"
+        },
+        "XKUlUzmE0jZmDpFz": {
+          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaCanoe00000000]{Canoa} con seis palas</p>"
+        },
+        "e6ETRITAVbmlcOam": {
+          "description": "<p>2 @UUID[Compendium.dnd5e.items.Item.trmWAdUoR6Y2B7rA]{Linternas con capucha} y 10 matraz de @UUID[Compendium.dnd5e.items.Item.psoZaItkOScMVaHL]{aceite de la lámpara}</p>"
+        },
+        "PGv6HRHBtynwnWjk": {
+          "description": "<p>Dos personas @UUID[Compendium.dnd5e.items.Item.PanSr5EbqlfpSvwK]{carpa} y [[/r 1d4]] @UUID[Compendium.dnd5e.items.Item.8KWz5DJbWUpNWniP]{Paquetes de exploradores}</p>"
+        },
+        "3z2OHXotubBJdsqK": {
+          "description": "<p>Caja de madera que contiene [[/r 2d10]] @UUID[Compendium.dnd5e.items.Item.0E565kQUBmndJ1a2]{dagas} (de baja calidad, del tipo utilizado como mercancías comerciales)</p>"
+        },
+        "YNm7E6VG7UCOCaL9": {
+          "description": "<p>Juego de @UUID[Compendium.dnd5e.items.Item.YHCmjsiXxZ9UdUhU]{herramientas de navegación}</p>"
+        },
+        "3yHKy5kyd6PD5akH": {
+          "description": "<p>[[/r 1d10]] cambios de ropa de lana</p>"
+        },
+        "FD3yqcf4kJXDV9BZ": {
+          "description": "<p>Juego de @UUID[Compendium.dnd5e.items.Item.fC0lFK8P4RuhpfaU]{Herramientas de cartógrafo}</p>"
+        },
+        "Gr3YQLFqjFEn7CDS": {
+          "description": "<p>Dos personas @UUID[Compendium.dnd5e.items.Item.PanSr5EbqlfpSvwK]{carpa} y [[/r 1d4]] @UUID[Compendium.dnd5e.items.Item.6rocoBx5jdzG1QQH]{Kits para sanadores}</p>"
+        },
+        "nZ34nzewAlgsylow": {
+          "description": "<p>2 Dos personas @UUID[Compendium.dnd5e.items.Item.PanSr5EbqlfpSvwK]{carpas}, foldin</p>"
+        },
+        "7OiPWafUwFqeGwG4": {
+          "description": "<p>Caja de madera que contiene [[/r 2d4]] @UUID[Compendium.dnd5e.items.Item.ytlsBjYsZ7OBSEBs]{pociones de curación}</p>"
+        }
+      }
+    },
+    "dmgRanEncDeadExp": {
+      "name": "Exploradores muertos",
+      "results": {
+        "JMde8tQuLzKkkRyE": {
+          "description": "El cuerpo hinchado de un medio niño muerto, acribillado con pequeñas flechas y colgando de una vid de árbol. (El medio niño invadió tierra sagrada grung, y el cadáver fue colgado aquí como una advertencia.)"
+        },
+        "cZnjtvHuuorBqeI8": {
+          "description": "Los huesos de un humanoide no armado, azotado a un árbol por vides. (Este explorador fue capturado por goblins Batiri, rociado con miel, y dejado para ser devorado por insectos hambrientos.)"
+        },
+        "k9r6676iSJehnq22": {
+          "description": "Los restos aplastados de una enana no armada, mostrando signos de que fue pisoteada hasta la muerte por un dinosaurio arrasador."
+        },
+        "1VJvYTBcdFUYAXVt": {
+          "description": "Los huesos roídos y carbonizados de un humanoide. (Este desafortunado fue asesinado y canibalizado por sus compañeros hambrientos y delirantes.)"
+        },
+        "BpSQdTcgiwbtkYaj": {
+          "description": "El cuerpo destrozado de un medio elfo, aparentemente apaleado hasta la muerte. (Ella fue caída de gran altitud por pterafolk.)"
+        },
+        "P3DTcBj1AdZHNILr": {
+          "description": "Los huesos dispersos de un enano, rotos en pedazos antes de ser devorados. (Una manada de velociraptores de caza hizo el enano en.)"
+        },
+        "KZPCMhl0FTaiRfyO": {
+          "description": "El cuerpo hinchado y púrpura de un elfo, muerto hace sólo unos días por la mordedura de una serpiente venenosa."
+        },
+        "ihat5voBivGginJ9": {
+          "description": "Un cuerpo humano fresco metido en un árbol hueco. (Los Giralones planean regresar y devorarlo más tarde.)"
+        },
+        "VvsepM0KsUTysu3I": {
+          "description": "El esqueleto de un humanoide sentado en un taburete plegable del campamento, agarrando un cuchillo y tenedor en sus manos óseas."
+        },
+        "p1ZAFox9Z6Klz70M": {
+          "description": "La cáscara desecada de un gnomo, en forma de telarañas gigantes."
+        },
+        "sYTbIrryP6EHw6e8": {
+          "description": "El cuerpo de un humano... desde la cintura para arriba. Las señales muestran que el explorador se arrastró una distancia considerable después de ser mordido por la mitad por un tiranosaurio. (Un fisco flamante encontrado en el cadáver lo identifica como Lord Onovan IV, de los Dales.)"
+        },
+        "vWe5fHoxYRaFOUts": {
+          "description": "El esqueleto de un elfo carbonizado dentro de un esqueleto de serpiente constrictor carbonizado. (Ambos fueron asesinados por un @UUID[Compendium.dnd5e.spells.Item.IyikgTEOTv701jgQ]{rayo de rayos} deletreo.)"
+        },
+        "y8uH1L1A6Um9VY5x": {
+          "description": "El cuerpo putrefacto de una rana gigante con la hoja de una espada corta hurgando por su espalda. (Si la rana es cortada abierta, el cuerpo parcialmente digerido de un medio de labranza se encuentra dentro.)"
+        },
+        "Ng2bZETzHisxk0Sd": {
+          "description": "Un tabaxi esparcido en el suelo, pero con sus extremidades y cabeza cortadas de su torso y crudamente cosidas de nuevo en el arreglo equivocado."
+        },
+        "PMaifUVFuNQGv1Ng": {
+          "description": "Un medio orco clavado en un enorme árbol por el cuerno roto de una triceratops."
+        },
+        "NelLOdYEwpwpcPPo": {
+          "description": "Un gnomo, escupió sobre un hoyo de fuego quemado y sobrecocido, pero no comido. (Las armas y herramientas goblin están dispersas alrededor de las pistas velociraptor.)"
+        },
+        "qDOdtR9leB8mHUmy": {
+          "description": "Un humanoide sin cabeza, colgado boca abajo de un árbol y con seis lanzas goblin Batiri empujan simétricamente a través del cuerpo. (Era un Mago Rojo, juzgando por las túnicas. La cabeza no se encuentra en ninguna parte.)"
+        },
+        "ixwfUGCWq4cNvQJU": {
+          "description": "Un elfo, equilibrado en una rama de árbol 40 pies por encima del suelo, brazos y piernas colgando hacia abajo. (Una nota presionada entre el cuerpo y la rama explica que el elfo subió al árbol para alejarse de un allosaurio merodeando y estaba demasiado aterrorizado para bajar.)"
+        },
+        "p9ShmBJXmafdpLkM": {
+          "description": "El restos de un humano que llevaba un casco al estilo Flaming Fist, sus piernas rotas. (Sucumbió al arma de aliento de euforia de un dragón hada y se bajó de un acantilado. Un compañero trató de llevarlo de regreso a Fort Beluarian, pero el guerrero murió en el camino.)"
+        },
+        "5SeGRM26tTgUgYwp": {
+          "description": "Un enano con seis grandes agujeros perforando su armadura y su pecho. (Un estegosaurio la atrapó directamente con un desliz de su cola.)"
+        }
+      }
+    },
+    "dmgRanEncPortNya": {
+      "name": "Encuentros de Port Nyanzaru",
+      "results": {
+        "B8TJQDl8dDnP7im7": {
+          "description": "<p>Un loro caca en la cabeza de un personaje al azar.</p>"
+        },
+        "OsBW4qj20eTLsciJ": {
+          "description": "<p>Cerca del puerto, un @UUID[Actor.toaAnkylosaurus0]{ankylosaurus} que remolca barcos a través de los canales del almacén va en un alboroto y debe ser calmado, restringido, o muerto.</p>"
+        },
+        "rbJBvYxMguM7b7eq": {
+          "description": "<p>Un mercader grita: “¡Alto! ¡Ladrón!” como un joven furtivo (@UUID[Actor.H6ajGPL3X6lzsQlc]{pleader}) pasa corriendo por encima de los personajes. Si el ladrón es atrapado, el comerciante agradecido puede presentar personajes a un príncipe mercante o darles otro favor.</p>"
+        },
+        "FMhxeXiEZtqHgoEo": {
+          "description": "<p>Un marinero extranjero borracho (no armado) @UUID[Actor.MIbGBptGOW5OSlHY]{veterano}) está tratando en voz alta de elegir una pelea con tres locales @UUID[Actor.H6ajGPL3X6lzsQlc]{plebeyos}, que claramente no son rival para el lut. Si los personajes intervienen, los agradecidos locales se convierten en una fuente confiable de información sobre Port Nyanzaru, pero el marinero y sus compañeros emboscan a los personajes en otras partes de la ciudad más tarde.</p>"
+        },
+        "dqQqiECuPOka2PLj": {
+          "description": "<p>Un mendigo (@UUID[Actor.H6ajGPL3X6lzsQlc]{pleader}) agarra un personaje por el brazo y grita: “¡El antiguo bajo la Ciudad Prohibida da a luz a un terrible nuevo dios! ¡Los hombres serpiente lo saben! ¡Ellos lo saben!” Luego él tropieza entre la multitud. Los transeúntes les dicen a los aventureros que ignoren al mendigo, y que sus predicciones están equivocadas la mayor parte del tiempo.</p>"
+        },
+        "WEFnahMjCBzegU20": {
+          "description": "<p>Los cuernos de alarma declaran que los muertos vivientes están atacando la Garganta de Malar. Los mercenarios mantienen a los monstruos fuera de la ciudad, pero la gente está atrapada en el templo de Tymora y sitiada por [[/r 2d6]] @UUID[Actor.J6yWqkj0lotaRnTh]{zombies} y [[/r 2d6]] @UUID[Actor.pA11aGfCpX7OhuDH]{esqueletos} dirigida por un @UUID[Actor.bSM1EJptwzV1JhjA]{ghoul}. Si los personajes derrotan a los muertos vivientes, el templo los recompensa con 5 galones de @UUID[Compendium.dnd-tomb-annihilation.items.Item.toaTejMugFortBel]{tej} y a @UUID[Compendium.dnd5e.items.Item.ytlsBjYsZ7OBSEBs]{poción de curación}.</p>"
+        },
+        "KUxEaOKBUy6X7Hic": {
+          "description": "<p>Los gritos de “¡Cuidado!” dan a un personaje una breve advertencia como un barril de agua, piedra de construcción u otro peso pesado se estrella. El carácter debe tener éxito en un [[/save dex 12 format=long]] o ser golpeado, tomando [[/damage 4d6 bludgeoning average]] daño. Cualquier personaje que tenga éxito en un [[/check perception 15 format=long]] mancha un disfraz @UUID[Actor.toaYuantiPureblo]{yuan-ti sangre pura} Escabullirse de la escena.</p>"
+        },
+        "qrpX40NcgB1m26O4": {
+          "description": "<p>A @UUID[Actor.s4zO6VOQ4fxzDNyB]{tabaxi junstrel} (ver @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{Apéndice D}) le pide a uno de los personajes una pieza de oro para que la estante por el juego, prometiendo devolverla. Si el personaje está de acuerdo, el tabaxi cumple su promesa al día siguiente, devolviendo una bolsa que contiene [[/award 10gp]].</p>"
+        },
+        "iCh5g1Jh6aoHSVTz": {
+          "description": "<p>Un ladrón (@UUID[Compendium.dnd5e.monsters.Actor.13K3XK2A3wwxVKLD]{espía}) trata de recoger el bolsillo de uno de los personajes.</p>"
+        },
+        "tKr73yDMKvQl3MM3": {
+          "description": "<p>Los caracteres se encuentran @UUID[Actor.LGOEeAdUizQZYcEy]{Volothamp \"Volo\" Geddarm} (véase el apéndice D), que está entregando una copia de su nuevo libro a uno de los príncipes mercaderes de la ciudad. Hay un 50% de probabilidades de que Volo esté borracho.</p>"
+        },
+        "lcp3kD5mSlb6cn1f": {
+          "description": "<p>Los personajes se encuentran con un PNJ con una búsqueda lateral (ver “@UUID[JournalEntry.toaCh1SideQuests]{Misiones paralelas}”).</p>"
+        }
+      }
+    },
+    "dmgSignatureItem": {
+      "results": {
+        "PctmMPYHJdASRWcb": {
+          "description": "Sombrero"
+        },
+        "n1UPBT9s891yXdxS": {
+          "description": "Polo de 10 pies"
+        },
+        "I5M8PDLdhY5LdbmP": {
+          "description": "Palanca"
+        },
+        "0tpaOR5BkRI5OyD9": {
+          "description": "Linterna con capucha"
+        },
+        "2gjUl8TtzikFhCXS": {
+          "description": "Medallón"
+        },
+        "mc8DGzrxfQszC5R5": {
+          "description": "Pala"
+        },
+        "1IcbjohsBbEUFsXS": {
+          "description": "Almádena"
+        },
+        "BbUhJxKD8f6qOxzb": {
+          "description": "Látigo"
+        }
+      },
+      "name": "Elemento de firma"
+    },
+    "dmgTreasureDrops": {
+      "results": {
+        "s93PYDvBSPQED2ON": {
+          "description": "Ninguno"
+        },
+        "h1Jedb7khyO5RPLq": {
+          "description": "Un mapa crudo dibujado sobre un trozo de piel de dinosaurio curtida, que muestra una ruta a Port Nyanzaru y la ubicación de un hito o guarida determinada aleatoriamente (250 gp)"
+        },
+        "4rNCHKYJ2caFk7wf": {
+          "description": "<p>[[/r 1d4]] gemas (10 gp cada una) en una bolsa pequeña</p>"
+        },
+        "ZyET8DHXOoz4yiAy": {
+          "description": "Un anillo de malaquita incrustado con electrum (50 gp)"
+        },
+        "jyU9VTJ7Uy6RzXdf": {
+          "description": "Vial vacío con corcho hecho de hueso de aarakocra grabado en el ala (5 gp)"
+        },
+        "4xUiwBMYRBO7ukaP": {
+          "description": "<p>Una putrefacción @UUID[Compendium.dnd5e.items.Item.4MtQKPn9qMWCFjDA]{aljaba} que contiene [[/r 1d10]] plateados @UUID[Compendium.dnd5e.items.Item.3c7JXOzsv55gqJS5]{flechas}</p>"
+        },
+        "v9QJ0FRbsiKLSPbO": {
+          "description": "Una pepita de oro del tamaño del puño de una enana (50 gp)"
+        },
+        "gD4qYY2pO6pdG1c4": {
+          "description": "<p>Un vial con tapón de @UUID[Compendium.dnd-tomb-annihilation.items.Item.toaSerpentVenom0]{veneno de serpiente} (véase el capítulo 8 de la Guía del Maestro de las Pañales)</p>"
+        },
+        "HQHDqJ2J4lscuWHl": {
+          "description": "Una pipa de humo de marfil grabada (25 gp)"
+        },
+        "jhvmk1fVuyfPCj9F": {
+          "description": "<p>Caso que contiene: [[/r 2d12]] bloques de incienso repelente a insectos</p>"
+        },
+        "ojBCnPHsFnxtE6aP": {
+          "description": "Un símbolo de hierro con el símbolo de una triceratops (el signo de la Sociedad Ytepka), que vale 50 gp en Port Nyanzaru"
+        },
+        "GiBBsaAcNrdoEm08": {
+          "description": "<p>@UUID[Compendium.dnd5e.items.Item.nXWevqtV6p484N59]{Poción de amistad animal}</p>"
+        },
+        "AuA0W0bzzYdOKzhh": {
+          "description": "<p>Poción de vitalidad (<em>Dungeon Master's Guide 2014</em>)</p>"
+        },
+        "F5IO6eT0sy5GYKRX": {
+          "description": "<p>@UUID[Compendium.dnd5e.items.Item.9GSfMg0VOA2b4uFN]{Desplazamiento ortográfico} (elige un conjuro de nivel 1)</p>"
+        },
+        "weBviKjARKVY8eHy": {
+          "description": "<p>Un vial con tapón de @UUID[Compendium.dnd-tomb-annihilation.items.Item.toaWyvernPoison0]{wyvern veneno} (véase el capítulo 8 de la <em>Guía del Dungeon Master</em>)</p>"
+        },
+        "ScXgzbbR8fqi6smo": {
+          "description": "Un cuchillo de obsidiana (25 gp)"
+        },
+        "E6r3wmiS5NveOgtf": {
+          "description": "Tubo de madera con tapón que contiene piedras preciosas 1d4 (50 gp cada una)"
+        },
+        "Hr0tChuePVBMXB7p": {
+          "description": "Un pequeño orbe de ónice con patrones de laberinto tallados en su superficie (75 gp), utilizable como un enfoque arcano o druida"
+        },
+        "kuUh4fPxZGm4c7oE": {
+          "description": "Máscara de goblin Batiri de madera pintada, engastada con nueve gemas (10 gp cada una)"
+        },
+        "NVeEZmG36djqqvcE": {
+          "description": "<p>A @UUID[Compendium.dnd5e.items.Item.WCafDVKITxwnlf2x]{Spyglass} (1.000 gp)</p>"
+        },
+        "DRfGnwaDgonDG7OQ": {
+          "description": "<p>A @UUID[Compendium.dnd5e.items.Item.qBydtUUIkv520DT7]{laúd} (35 gp) con una cuerda rota</p>"
+        },
+        "U8tlmXRqBXttmx02": {
+          "description": "<p>Un conjunto de @UUID[Compendium.dnd5e.items.Item.woWZ1sO5IUVGzo58]{Herramientas para ladrones} (25 gp)</p>"
+        },
+        "E5OdC2Jg7Ex2WKQ7": {
+          "description": "<p>Un excelente @UUID[Compendium.dnd5e.items.Item.xwUWrV15s9jLnmfZ]{bloqueo} (50 gp) que requiere un éxito [[/check dex 20 format=long]] CD 20 Dexterity check para elegir usando @UUID[Compendium.dnd5e.items.Item.woWZ1sO5IUVGzo58]{Herramientas para ladrones} (falta la llave de la cerradura)</p>"
+        },
+        "g5mPN42XOIieD2os": {
+          "description": "<p>Jarrón de ungüento de Keoghtom (<em>Dungeon Master's Guide 2014</em>)</p>"
+        },
+        "WEZxzBOBB0xoEFVG": {
+          "description": "<p>@UUID[Compendium.dnd5e.items.Item.t7GfyRp3dB3lqS9i]{Cuerno de explosión}</p>"
+        },
+        "POT3kqvdUgT42LRS": {
+          "description": "<p>@UUID[Compendium.dnd5e.items.Item.VQ6NWjWV37wiB29O]{Varita de secretos}</p>"
+        }
+      },
+      "name": "Gotas de tesoro"
+    },
+    "grno3EHdKxkf3H37": {
+      "name": "Descubrimientos de jardín",
+      "results": {
+        "mXSd23Mv8kI0UPSe": {
+          "description": "<p>@UUID[Actor.toaEncAlmiraj000]{1d4 almiraj} (ver @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{Apéndice D})</p>"
+        },
+        "jDPZFD6JeNK2oXup": {
+          "description": "<p>1 @UUID[Actor.vqFiCfgJR15hheQk]{Viña asesina.} (ver @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{Apéndice D})</p>"
+        },
+        "7ldsDSFjfexGb3M6": {
+          "description": "<p>1 @UUID[Actor.WZBjPQ3zCiFnEJeC]{chwinga} (ver @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{Apéndice D}) escondido en una flor</p>"
+        },
+        "LpbOoreAsrV6P4NV": {
+          "description": "<p>[[/r 1d4]] @UUID[Actor.J9d9hKPQkl5L8nSN]{monos voladores} (ver @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{Apéndice D}) encaramado en un árbol. Los monos juguetonamente lanzan danzando fruta de mono (ver @UUID[JournalEntry.toaAppCDiscoveri.JournalEntryPage.gwfMk4Y3JbM7WKFo]{apéndice C}) en caracteres cercanos. Vuelan si son atacados.</p>"
+        },
+        "fMfAJW31zIwTzzcq": {
+          "description": "<p>[[/r 1d4]] @UUID[Actor.pKmSv370H6r3ITem]{jaculis} (ver @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{Apéndice D})</p>"
+        },
+        "p4qN1MMSUNNF6QL2": {
+          "description": "Arbusto de menga con [[/r 2d6]] onzas de @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafMengaLeave]{hojas} (ver @UUID[JournalEntry.toaAppCDiscoveri.JournalEntryPage.gwfMk4Y3JbM7WKFo]{apéndice C})"
+        },
+        "9u9QmoDiK8oha5Z2": {
+          "description": "[[/r 1d4]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafRyathRoot0]{raíz riath} (ver @UUID[JournalEntry.toaAppCDiscoveri.JournalEntryPage.gwfMk4Y3JbM7WKFo]{apéndice C})"
+        },
+        "HirNuyBeEmvomwXB": {
+          "description": "[[/r 4d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafSindaBerri]{bayas sinda} crecer en un arbusto (ver @UUID[JournalEntry.toaAppCDiscoveri.JournalEntryPage.gwfMk4Y3JbM7WKFo]{apéndice C})"
+        },
+        "uuGH6SvZw1CKJqy4": {
+          "description": "[[/r 1d4]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafWildroot00]{raíces silvestres} (ver @UUID[JournalEntry.toaAppCDiscoveri.JournalEntryPage.gwfMk4Y3JbM7WKFo]{apéndice C})"
+        },
+        "DCYikFuqHtOQ6HtC": {
+          "description": "@UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafYahcha0000]{Escarabajo Yahcha} (ver @UUID[JournalEntry.toaAppCDiscoveri.JournalEntryPage.gwfMk4Y3JbM7WKFo]{apéndice C})"
+        },
+        "TEebIZxaUflgujIo": {
+          "description": "<p>El cadáver podrido de un mago humano que fue estrangulado hasta la muerte por una vid asesina. Una búsqueda del cadáver produce un @UUID[Compendium.dnd5e.items.Item.UOE8RGOpgv2oWIvM]{paquete de estudiosos}, una bolsa que contiene 15 gp, y un bote plegable. Este descubrimiento sólo se puede hacer una vez. Si este resultado aparece de nuevo, vuelva a rodar sobre la mesa.</p>"
+        }
+      }
+    },
+    "toaAdoptedCultur": {
+      "results": {
+        "zC6DD0F1wh6H1c4A": {
+          "description": "Orco"
+        },
+        "lRCdKadsgCySW8gj": {
+          "description": "Aarakocra"
+        },
+        "CcQZT8nErXySdVmR": {
+          "description": "Enano"
+        },
+        "SqUdt4laudL7ndOw": {
+          "description": "Elfo"
+        },
+        "as6tiVymBr5EUdiS": {
+          "description": "Duende"
+        },
+        "aBYQS4UGbO6tEt8R": {
+          "description": "Mediano"
+        },
+        "7xkxEDyHHQxypHx5": {
+          "description": "Humano"
+        },
+        "SZe3q54AtZ1voPoc": {
+          "description": "Lagartijas"
+        }
+      },
+      "name": "Cultura adoptada"
+    },
+    "toaAppBExplorers": {
+      "name": "Situación del grupo Explorer",
+      "results": {
+        "REF5faat5rZEn3KZ": {
+          "description": "<p>Los exploradores están perdidos y hambrientos.</p>"
+        },
+        "EsPZq4kttzwdxIG7": {
+          "description": "<p>Los exploradores están en buena forma, pero son cazados activamente por firenewts, ghouls, goblins, o grungs (ver la entrada apropiada en este apéndice).</p>"
+        },
+        "OvACEIdPHAhmuqvM": {
+          "description": "<p>Los exploradores están sanos y se dirigen hacia el punto de referencia más cercano, con la intención de explorarlo.</p>"
+        },
+        "AYkThamF5RGuc2vn": {
+          "description": "<p>Los exploradores están sanos y regresan a Port Nyanzaru para descansar y abastecerse.</p>"
+        }
+      }
+    },
+    "toaBond000000000": {
+      "name": "Bond (Antropólogo)",
+      "results": {
+        "QVUBzECiu4pnG1VN": {
+          "description": "Mi mentor me dio un diario lleno de tradición y sabiduría. Perderlo me devastaría."
+        },
+        "M5eN1XA3LBRZKYRl": {
+          "description": "Habiendo vivido entre la gente de una tribu o clan primitivo, anhelo regresar y ver cómo les va."
+        },
+        "PgonYQBoxChwTtAZ": {
+          "description": "Hace años, la tragedia golpeó a los miembros de una sociedad aislada que me hice amigo, y los honraré."
+        },
+        "39M64iClaF7Puzos": {
+          "description": "Quiero aprender más sobre una cultura humanoides en particular que me fascina."
+        },
+        "yZb99e4Mx4Te2vK0": {
+          "description": "Busco vengar a un clan, tribu, reino o imperio que fue aniquilado."
+        },
+        "iBz3nbe23BpnkXl0": {
+          "description": "Tengo una baratija que creo que es la clave para encontrar una sociedad perdida desde hace mucho tiempo."
+        }
+      }
+    },
+    "toaBond100000000": {
+      "name": "Bond (Arqueólogo)",
+      "results": {
+        "5z2GvnStcAtrD4Q6": {
+          "description": "Desde que era niño, he escuchado historias sobre una ciudad perdida. Mi objetivo es encontrarlo, aprender sus secretos, y ganar mi lugar en los libros de historia."
+        },
+        "0pm9stSCUT52A4LA": {
+          "description": "Quiero encontrar a mi mentor, que desapareció en una expedición hace algún tiempo."
+        },
+        "9wFIWWGrMlcNcJ4p": {
+          "description": "Tengo un rival amistoso. Sólo uno de nosotros puede ser el mejor, y mi objetivo es demostrar que soy yo."
+        },
+        "chmE206uBluXTHnK": {
+          "description": "No venderé un objeto de arte u otro tesoro que tenga significado histórico o sea único en su género."
+        },
+        "TlgOzowJ0m5JSe1Q": {
+          "description": "Estoy secretamente enamorado del mecenas rico que patrocina mis hazañas arqueológicas."
+        },
+        "9TT94i9x9o5XEKCA": {
+          "description": "Espero dar prestigio a una biblioteca, un museo o una universidad."
+        }
+      }
+    },
+    "toaCh3NestOccupa": {
+      "name": "Ocupantes del nido",
+      "results": {
+        "jI1gUhpfs8Zf3qrD": {
+          "description": "<p>@UUID[Actor.toaEncGiantWasps]{1d6 avispas gigantes}</p>"
+        },
+        "W4pGzlRpJOFUDuvj": {
+          "description": "<p>@UUID[Actor.toaEncStirges000]{2d6 agitados}</p>"
+        },
+        "SxhZOqboijxEDxNU": {
+          "description": "<p>@UUID[Actor.toaSwarmsofPoiso]{1d3 enjambres de serpientes venenosas}</p>"
+        }
+      }
+    },
+    "toaCh3PlantDisco": {
+      "name": "Descubrimiento de plantas",
+      "results": {
+        "krBkzv3RJnGeSWtJ": {
+          "description": "<p>[[/r 2d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafDancingMon]{Frutas de mono bailando} colgando de un árbol</p>"
+        },
+        "mwmCRtxYhQutAuBN": {
+          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafMengaLeave]{Menga} arbusto con [[/r 1d6]] onzas de hojas</p>"
+        },
+        "Nyl9jKJ6YDu4O6DS": {
+          "description": "<p>[[/r 1d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafRyathRoot0]{raíces de riath} crecer en el suelo</p>"
+        },
+        "d0ZITySz4SnoG9du": {
+          "description": "<p>[[/r 4d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafSindaBerri]{bayas sinda} creciendo en un arbusto</p>"
+        },
+        "w34yApkPOFvJ6bhY": {
+          "description": "<p>[[/r 1d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafWildroot00]{raíces silvestres}</p>"
+        },
+        "SGiXB7NEIsroSNfS": {
+          "description": "<p>[[/r 2d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafZabou00000]{zabou} creciendo en el suelo</p>"
+        }
+      }
+    },
+    "toaCh3RuinInteri": {
+      "results": {
+        "blM75CuwLOL2N2Kv": {
+          "description": "—"
+        },
+        "H2j24xJkXnWFk9vV": {
+          "description": "@UUID[Compendium.dnd-tomb-annihilation.actors.Actor.vqFiCfgJR15hheQk]{Enredaderas de Asesino}"
+        },
+        "poq33ecj5iYecDQv": {
+          "description": "@UUID[JournalEntry.toaCh3DwellersOf.JournalEntryPage.vqcH84rrgdpHCuF9]{Neblina azul} (y rodar de nuevo)"
+        },
+        "gvWQhpwcnGCoDZnE": {
+          "description": "@UUID[JournalEntry.toaCh3DwellersOf.JournalEntryPage.848UhwKYgATO0ub9]{Suelo de revestimiento} (y rodar de nuevo)"
+        },
+        "E4aoa8gajUtK1oBY": {
+          "description": "@UUID[JournalEntry.toaCh3DwellersOf.JournalEntryPage.j35jipa9nj2jQvQC]{Nido}"
+        },
+        "jiTbc7JGQFeqIPKO": {
+          "description": "@UUID[JournalEntry.toaCh3DwellersOf.JournalEntryPage.j35jipa9nj2jQvQC]{Descubrimiento de plantas}"
+        },
+        "wrRUPSjzAWeY2Lw5": {
+          "description": "@UUID[JournalEntry.toaCh3DwellersOf.JournalEntryPage.w7dmIQXCT9ITXsIF]{Tesoro}"
+        },
+        "GOU0YIAllm2zYyDR": {
+          "description": "@UUID[JournalEntry.toaCh3DwellersOf.JournalEntryPage.6KVa7lEvqo9BIWT8]{Vegepigmeos}"
+        }
+      },
+      "name": "Interior de las ruinas"
+    },
+    "toaCh4LaborersTa": {
+      "name": "Tareas de los trabajadores",
+      "results": {
+        "5qev9bIDiGTFK5rN": {
+          "description": "<p><strong>Trabajo</strong>: Muck fuera de la pluma de dinosaurio en @UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.YhkhTFh1r56C7hNb]{zona 2}. </p><p><strong>Desarrollo</strong>: El personaje aprende que Nahth (@UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.3km4oa3DrO3pBcBq]{zona 1}) es susceptible al soborno.</p>"
+        },
+        "5SZ64RpiJXxxoX4e": {
+          "description": "<p><strong>Trabajo</strong>: Ayudar a Azi Mas a reorganizar el contenido del almacén (@UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.riNQGMPil8ff5PZa]{zona 13}). </p><p><strong>Desarrollo</strong>: Azi Mas comparte sus sospechas de que Fenthaza está planeando un golpe de estado.</p>"
+        },
+        "fohitJjqRCJyJPUR": {
+          "description": "<p><strong>Trabajo</strong>: Assist Xopal en la destilería venenosa (@UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.DEhBfZqITVxLswfx]{área 14}). </p><p><strong>Desarrollo</strong>: Xopal envía el personaje, sin escolta, para recoger hongos de @UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.R8t9f65pebYKa9Zy]{área 22}.</p>"
+        },
+        "TS2Ghy98qMLqrRp5": {
+          "description": "<p><strong>Trabajo</strong>: Limpiar el yuan-ti bañándose en @UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.AaMzcqaWOWQvks7j]{zona 16}. </p><p><strong>Desarrollo</strong>: El personaje se entera de que Fenthaza tuvo un sueño profético sobre la Corona del Opalo Negro, un tesoro que los yuan-ti creen que tiene el poder de dar paso a Dendar la Serpiente Nocturna.</p>"
+        },
+        "5yyynCtkABorqqUu": {
+          "description": "<p><strong>Trabajo</strong>: Limpiar los nidos de yuan-ti en @UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.jD1v2Vcm6kNlf1Zw]{zona 18}. </p><p><strong>Desarrollo</strong>: El personaje escucha un susurro yuan-ti a otro, en común, “Pluma blanca, máscara negra.” Ver @UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.eZ4g0Yd4iVIDNq8d]{zona 4} por el significado de estas palabras.</p>"
+        },
+        "97OaBBYjvg8tfOzb": {
+          "description": "<p><strong>Trabajo</strong>: Alimentar a un prisionero muerto a la hidra en @UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.YFldR87cmsBlywlk]{zona 21}. </p><p><strong>Desarrollo</strong>: Los personajes encuentran un pergamino doblado escondido en el prisionero muerto. Por un lado, lleva un crudo mapa del templo.</p>"
+        }
+      }
+    },
+    "toaCh4TempleRein": {
+      "name": "Refuerzos del templo",
+      "results": {
+        "IF5Tr9b9XQI2uw1a": {
+          "description": "<p>[[/r 1d4]] @UUID[Actor.toaYuantiPureblo]{yuan-ti sangres puras} escoltando un tipo 3 @UUID[Actor.toaYuantiMal3000]{yuan-ti malison}.</p>"
+        },
+        "caOhlYdCjOCH6AlB": {
+          "description": "<p>[[/r 1d4 + 1]] @UUID[Actor.toaYuantiPureblo]{yuan-ti sangres puras} escolta [[/r 2d4]] cautivos (@UUID[Actor.H6ajGPL3X6lzsQlc]{masculino} y @UUID[Actor.Sgu1aJ7w12VFLTTw]{hembras} Chultán común humano de cualquier alineación).</p>"
+        },
+        "S8VLYSHtkbzrLr7p": {
+          "description": "<p>[[/r 2d4]] @UUID[Actor.toaYuantiPureblo]{yuan-ti sangres puras} regresar al templo de una expedición o patrulla.</p>"
+        },
+        "wdJXo0xiI3irr5XD": {
+          "description": "<p>4 @UUID[Actor.toaYuanTiBroodgu]{Yuan-ti broodguards} (ver @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{Apéndice D}) que lleven un tipo 2 @UUID[Actor.toaYuantiMal2000]{yuan-ti malison} en una camada.</p>"
+        },
+        "8p2Ws6PvcDBgUzrp": {
+          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.tables.RollTable.toaCh4YuantiMali]{Tipo Yuan-ti malison} regresando al templo.</p>"
+        },
+        "KPz61OVMmXUrs5Jb": {
+          "description": "<p>1 @UUID[Actor.toaYuantiAbomina]{abominación yuan-ti} llegar al templo para desafiar @UUID[Actor.zwk4UdGbwhWumFqp]{Ras Nsi’s} liderazgo. Si @UUID[Actor.toaFenthaza00000]{Fenthaza} está viva, ella utiliza su influencia para organizar un enfrentamiento entre Ras Nsi y la abominación en el fane (@UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.jDapyFVU0c9UoIBn]{zona 9}). Si Fenthaza está incapacitado o muerto, la abominación acosa su camino a la sala del trono de Ras Nsi (@UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.levHlyIkCVBQVoEj]{área 11}), donde se mata.</p>"
+        },
+        "ZV5Xl3TlU1HPMaYl": {
+          "description": "<p>[[/r 2d4]] @UUID[Compendium.dnd5e.monsters.Actor.tYfQIxCJT0WaaKmc]{fanáticos del culto} (NE humanos y mujeres de etnias mixtas) buscando una audiencia con Ras Nsi, para prometer su devoción a Dendar la Serpiente Nocturna. Los fanáticos del culto traen tributo en forma de tesoro (reunión una vez en el tesoro: Desafío 0-4 tabla en el capítulo 7 de la <em>Guía del Dungeon Master</em>).</p>"
+        },
+        "Z9mI61d4zAr5oX1B": {
+          "description": "<p>[[/r 2d6]] @UUID[Actor.ogAVSIzos9mQ3kqC]{guerreros tribales} (N hombres y mujeres humanos Chultan) entregando tributo a Ras Nsi. Este homenaje consiste en comida, bebida y tesoro (recorra una vez en el tesoro: Desafío 0-4 tabla en el capítulo 7 de la <em>Guía del Dungeon Master</em>).</p>"
+        }
+      }
+    },
+    "toaCh4YuantiMali": {
+      "name": "Cantidad de yuan-tis malison que regresan",
+      "results": {
+        "uBi5QwS0cbwd972a": {
+          "description": "<p>@UUID[Actor.toaYuantiMal2000]{Yuan-ti malison (tipo 1)}</p>"
+        },
+        "EAbhZAvy8sey6EAc": {
+          "description": "<p>@UUID[Actor.toaYuantiMal2000]{Yuan-ti malison (tipo 2)}</p>"
+        },
+        "w6prxBRvROPSRmvW": {
+          "description": "<p>@UUID[Actor.toaYuantiMal3000]{Yuan-ti malison (tipo 3)}</p>"
+        }
+      }
+    },
+    "toaCh5ArmillaryS": {
+      "name": "Conjunción de Esfera Armilar",
+      "results": {
+        "WXRPVLt54o3xdynv": {
+          "description": "<p>La esfera armilar y cualquier criatura dentro de ella desaparecen. En última instancia, el DM decide dónde terminan, si es que en algún lugar. Las posibilidades incluyen Mechanus, el Vast Pantano en Oerth, Mount Nevermind en Krynn, un desierto en Athas, Victorian London en la Tierra, o el sol.</p>"
+        },
+        "wZtgLvCgUkVpWfMm": {
+          "description": "<p>La criatura sentada en la silla armilar es tocada por una entidad desconocida y sufre un cambio radical de personalidad. Trabaje con el jugador para determinar un cambio apropiado.</p>"
+        },
+        "GQFNx3gCACHmZqBf": {
+          "description": "<p>A @UUID[Compendium.dnd5e.spells.Item.LkvI11Uue774QBKZ]{cloudkill} el conjuro se lanza dentro del globo.</p>"
+        },
+        "dbZeu6SWNLK13pL6": {
+          "description": "<p>El orbe en forma de sol se abre, derramando [[/award 5000gp]] en el suelo.</p>"
+        },
+        "Lrh6u3WCy7OBZGOF": {
+          "description": "<p>La criatura sentada en la silla armilar gana un encanto de heroísmo (ver “Regalos sobrenaturales” en el capítulo 7 de la <em>Guía del Dungeon Master</em>).</p>"
+        },
+        "ISKnwPcKxFuPeY2x": {
+          "description": "<p>Cada criatura a menos de 20 pies de la esfera armilar recupera [[/heal 50]]{50 puntos de impacto}. Las criaturas dentro del globo no obtienen este beneficio.</p>"
+        },
+        "fjIcqeaoi7syW7z4": {
+          "description": "<p>A @UUID[Compendium.dnd5e.items.Item.thkvJ5QBRORIwkkV]{gema de brillo} aparece en el regazo de la criatura sentada en la silla armilar.</p>"
+        },
+        "wcAuEuBF7V9fzEOb": {
+          "description": "<p>La puntuación de inteligencia de la criatura sentada en la silla armilar aumenta permanentemente por [[/r 1d4 + 1]], hasta un máximo de 22.</p>"
+        },
+        "amAzkfSnKERWqJWF": {
+          "description": "<p>La criatura sentada en la silla armilar se le concede la capacidad de lanzar el @UUID[Compendium.dnd5e.spells.Item.3okM6Gn63zzEULkz]{deseo} Deletrear una vez.</p>"
+        }
+      }
+    },
+    "toaCh5MazeDiscov": {
+      "name": "Descubrimientos del laberinto",
+      "results": {
+        "kgc1TEkWgBYExGeO": {
+          "description": "<p>Nada.</p>"
+        },
+        "RlDlINBizYvfQ0zc": {
+          "description": "<p>Restos esqueléticos de un niño Omuan</p>"
+        },
+        "wGHg0VLwzTJLUNkU": {
+          "description": "<p>@UUID[Actor.mAsVfo1pjQS5KgA0]{Minotauro} que lucha hasta la muerte</p>"
+        },
+        "tCy4AVCNnycQ2oqG": {
+          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaCh5BlueCrysta]{Tecla de cristal azul}</p>"
+        },
+        "YnAwc0hgWrqPHkZt": {
+          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaCh5GoldCrysta]{Tecla de cristal de oro}</p>"
+        },
+        "Hcjnsf1OxyUCMWYZ": {
+          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaCh5PurpleCrys]{Tecla de cristal púrpura}</p>"
+        },
+        "2FrkxFSakM14EqOr": {
+          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaCh5GreenCryst]{Tecla de cristal verde}</p>"
+        },
+        "kExNfnGbMyQkHPCR": {
+          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaCh5RedCrystal]{Tecla de cristal rojo}</p>"
+        },
+        "zHRCdqIxXmIH5yUZ": {
+          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaCh5BlackCryst]{Tecla de cristal negro}</p>"
+        }
+      }
+    },
+    "toaCh5RevolvingR": {
+      "name": "Efectos de la sala giratoria",
+      "results": {
+        "djdsy9NxyhSK1TAM": {
+          "description": "<p></p><p>El demonio se enfrenta a exhalar chorros de un gas soporífico que se disipa rápidamente. Cada criatura en la habitación que no es inmune a la condición envenenada debe tener éxito en un [[/save con 15 format=long]] o caída &amp;Reference[unconscious apply=false]{inconsciente}. Una criatura inconsciente puede repetir el lanzamiento de ahorro cada vez que toma daño, terminando con el efecto en sí misma en un éxito.</p>"
+        },
+        "PUtDkqJtxQfdTXZB": {
+          "description": "<p></p><p>El demonio se enfrenta a exhalar chorros de polvo chispeante, que ciega a cualquier criatura en la habitación que no tiene éxito en un [[/save wis 15 format=long]]. La ceguera de una criatura dura hasta que se cura con un @UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{menor restauración} conjuro o magia similar.</p>"
+        },
+        "Mz3kVRTaYjs3IHjI": {
+          "description": "<p>Puntas de piedra de 6 pulgadas de largo sobresalen mágicamente de las paredes. Cualquier criatura que recibe daños de la habitación al principio de su turno toma un adicional [[/damage 2d10 piercing average]] daño de los picos. Los picos se retraen cuando se activa el efecto de la habitación de al lado.</p>"
+        },
+        "S4A886JKJIsDJYWI": {
+          "description": "<p>El demonio se enfrenta a chorros de un gas incendiario que rápidamente se enciende, llenando la habitación de fuego. Cada criatura en la habitación toma [[/damage 10d8 fire average]] daño.</p>"
+        }
+      }
+    },
+    "toaChultRumors00": {
+      "name": "Rumores de chullo",
+      "results": {
+        "Wxn7DjzRczcdbJRL": {
+          "description": "Los pájaros habitan un monasterio que cuelga a un lado de una meseta a muchos kilómetros del río Olung, pasando la garganta sonriente. La gente de las aves tiene al último heredero real de Chul como prisionero."
+        },
+        "vfMCpkolOgB83m2U": {
+          "description": "En el corazón de la selva hay una ciudad construida por los minotauros. Ahora está invadido por gente de serpientes, pero las cosas aún peores habitan abajo. En las visiones, he visto demonios extraños gritando en la oscuridad."
+        },
+        "ZuVixyWB9IZco4Zk": {
+          "description": "Si subes por el río Tiryki unos cinco días en canoa, verás una aguja de piedra al este. Los nativos lo llaman Firefinger. “Terror folk” anidan allí, y si te ven, te enfrentas a una pelea."
+        },
+        "ocV8pAEfF8jTnqCA": {
+          "description": "Uno debe comprar una carta de exploración en Fort Beluarian antes de emprender cualquier expedición de la selva. El Puño Ardiente castiga a los exploradores que no tienen el papeleo requerido."
+        },
+        "ftY9dIvwTnOlXvQ7": {
+          "description": "Chul tenía muchos reyes y reinas, pero ninguno más hermoso que la reina Zalkoré. Miles de guerreros mataron y murieron por ella, pero el único monumento conmemorativo de su reinado es el palacio del jardín de Nangalore, que se encuentra cerca de la orilla oriental del río Olung, al norte del lago Luo."
+        },
+        "BbaIrnAZXGHHgMY1": {
+          "description": "Chult fue una vez un patio de recreo para un dragón verde. Sus huesos marcan la ubicación de un tesoro escondido. Si viajas a Mezro y te diriges al este a través de la Garganta Sonriente, luego al sur hacia Kir Sabal, ¡podrías tropezar con los huesos del dragón y ganarte un lugar en los libros de historia!"
+        },
+        "GghpwD3Tcv5xU4RV": {
+          "description": "Después de todo, la ciudad de Mezro no fue destruida durante la plaga de conjuros. Sus ruinas son una ilusión. Oí a un hombre de piel pálida susurrarle esto a un hombre dinosaurio con una espada grande. El hombre dinosaurio olía a madreselva."
+        },
+        "cMIUmUvtWdRr0w1U": {
+          "description": "Los enanos están decididos a reclamar la mina Wyrmheart, pero un dragón rojo vive allí ahora. Hace tiempo que no veo a uno de ellos."
+        },
+        "r9WdsZn3GAEDA6qw": {
+          "description": "La selva está llena de espíritus de la naturaleza... raras criaturas elementales con máscaras. Ellos no hablan, y nunca he sabido que uno sea dañino, pero sus poderes mágicos no deben tomarse a la ligera."
+        },
+        "l3e9547eh0qqPtrD": {
+          "description": "Algunos habitantes de la ciudad esperaban la llegada de una aeronave Halruaan llamada la Diosa Estelar. Nunca llegó. Apuesto a que se estrelló en alguna parte de la selva."
+        },
+        "9kCbz7Y389DVBGWM": {
+          "description": "Hay tortugas gigantes en Snapping Turtle Bay. Uno de ellos es tan grande como una casa. Es conocido como el rey Toba, y su caparazón tiene piedras preciosas incrustadas en él."
+        },
+        "FEUPW50kngxXl8sG": {
+          "description": "La Orden del Guantelete vino aquí para limpiar la selva de no-muertos. Perdieron uno de sus campamentos no hace mucho. Apenas se aferran a otro. Veo a sus emisarios todo el tiempo, subiendo por el río Soshenstar en canoas para conseguir más suministros y templarios de Port Nyanzaru."
+        },
+        "WzCW1JiOFN8CBQwo": {
+          "description": "Cuidado con cualquier niebla con un tinte azul. Contagia una fiebre que causa alucinaciones mágicas."
+        },
+        "jdbux46R6RNm51dK": {
+          "description": "Una tortuga dragón llamada Aremag vive en la Bahía de Chul. Si deseas zarpar desde Port Nyanzaru, necesitarás un tesoro para apaciguar al monstruo codicioso. Cuánto tesoro, no puedo decir. Aremag le dirá lo que quiere, y lo mejor es darle lo que exige."
+        },
+        "JyLCBh489Ypps5FN": {
+          "description": "Una ciudad arruinada se encuentra en el río Tath, pasando el desfiladero Kahakla. Supuestamente, nadie ha explorado el desfiladero, pero eso no es cierto. Es sólo que los pocos que lo lograron vivo en su mayoría se mantienen callados acerca de lo que encontraron allí. Tengo bajo buena autoridad que las ruinas están custodiadas por un naga que es sabio y generoso."
+        },
+        "24BQz2YwUFJgMVNv": {
+          "description": "El gran dios Ubtao guió una vez al pueblo de Chul, esté cansado de su constante lucha y los abandonó. Desde entonces, los chultanes han recurrido a la adoración de otros dioses, algunos de los cuales eran engañadores y engañadores."
+        },
+        "f2qIvCirLziaiV8F": {
+          "description": "Hace mucho tiempo, una pacífica tribu de pescadores llamada Aldani enfureció a Ubtao capturando y comiendo todas las langostas en un río. Como castigo por su codicia, todos ellos fueron transformados en monstruos que habitan en la cuenca de Aldani."
+        },
+        "6zzuMAWUSuGC7am9": {
+          "description": "Encaramado sobre una meseta con vistas a la cuenca de Aldani es un pueblo fantasma. Toda la gente desapareció allí. Nadie sabe por qué. Se puede llegar a la cuenca de Aldani siguiendo el río Soshenstar."
+        },
+        "VONiTgKZkmv8Zt6W": {
+          "description": "El gran dios Ubtao amaba los laberintos. Si te encuentras en un laberinto de cualquier tipo, traza un camino a través de él. Usted ganará el favor de Ubtao al hacerlo."
+        }
+      }
+    },
+    "toaFlaw000000000": {
+      "name": "Fallo (antropólogo)",
+      "results": {
+        "5vCqIWIgAxnJt1oj": {
+          "description": "Los barcos me marean."
+        },
+        "NQln9kXrpwaZLmOG": {
+          "description": "Hablo conmigo mismo, y no hago amigos fácilmente."
+        },
+        "3lbUjlxM1Ff7o4Vn": {
+          "description": "Creo que soy intelectualmente superior a las personas de otras culturas y tengo mucho que enseñarles."
+        },
+        "TAe1FgIF936aE3HZ": {
+          "description": "He aprendido algunos hábitos desagradables que viven entre duendes, lagartijas u orcos."
+        },
+        "HWlxH0PoioDEIra7": {
+          "description": "Me quejo de todo."
+        },
+        "oqLPGS8UCntla2hm": {
+          "description": "Llevo una máscara tribal y nunca me la quito."
+        }
+      }
+    },
+    "toaFlaw100000000": {
+      "name": "Fallo (Arqueólogo)",
+      "results": {
+        "1eqVN6FfadSz03Cb": {
+          "description": "Tengo un miedo secreto a algún animal salvaje común... y en mi trabajo, los veo por todas partes."
+        },
+        "YvzFDUs9HWHRuOUY": {
+          "description": "No puedo salir de una habitación sin buscar puertas secretas."
+        },
+        "QEkuZWaqgQXwYWZq": {
+          "description": "Cuando no estoy explorando mazmorras o ruinas, me pongo nervioso e impaciente."
+        },
+        "Unj1HWhLnNcBGCbg": {
+          "description": "No tengo tiempo para amigos o familiares. Paso cada momento despierto pensando y preparándome para mi próxima expedición."
+        },
+        "qBz8VS0nhS7NirkF": {
+          "description": "Cuando se me da la opción de ir a la izquierda o a la derecha, siempre voy a la izquierda."
+        },
+        "eQDpvDiWGmXzPb3y": {
+          "description": "No puedo dormir excepto en la oscuridad total."
+        }
+      }
+    },
+    "toaIdeal00000000": {
+      "name": "Ideal (antropólogo)",
+      "results": {
+        "HAvKDTto602rpY48": {
+          "description": "<strong>Descubrimiento.</strong> Quiero ser la primera persona en descubrir una cultura perdida."
+        },
+        "gkcoATU1OEj9TqKn": {
+          "description": "<strong>Distancia.</strong> Uno no debe interferir con los asuntos de otra cultura, ni siquiera una persona necesitada de ayuda. (Legítima)"
+        },
+        "52Qeww8K8957aR7z": {
+          "description": "<strong>Conocimiento.</strong> Al entender otras razas y culturas, aprendemos a entendernos a nosotros mismos. (Cualquiera)"
+        },
+        "kgmE5Uw6boepkatv": {
+          "description": "<strong>Poder.</strong> La gente común anhela un liderazgo fuerte, y hago todo lo posible para proporcionárselo."
+        },
+        "CX5ZukLR7w8jM8ym": {
+          "description": "<strong>Protección.</strong> Debo hacer todo lo posible para salvar a una sociedad que se enfrenta a la extinción."
+        },
+        "SNE4hzgRvsxDGE6c": {
+          "description": "<strong>Indiferente.</strong> La vida es cruel. ¿Cuál es el punto en salvar a la gente si van a morir de todos modos? (Caótico)"
+        }
+      }
+    },
+    "toaIdeal10000000": {
+      "name": "Ideal (Arqueólogo)",
+      "results": {
+        "jJqWRHGalLSu3i9C": {
+          "description": "<strong>Conservación.</strong> Ese artefacto pertenece a un museo."
+        },
+        "YHZOpMIVBateTEcf": {
+          "description": "<strong>Codicia.</strong> No arriesgaré mi vida por nada. Espero algún tipo de pago."
+        },
+        "YKo5Ifz4rYTMc3Bw": {
+          "description": "<strong>Deseo de la Muerte.</strong> Nada es más estimulante que un escape estrecho de las mandíbulas de la muerte."
+        },
+        "zR5bSUF4RjgpKROU": {
+          "description": "<strong>Dignidad.</strong> Los muertos y sus pertenencias merecen ser tratados con respeto."
+        },
+        "1Wtm2jnoyvA2P9G9": {
+          "description": "<strong>La inmortalidad.</strong> Toda mi exploración es parte de un plan para encontrar el secreto de la vida eterna. (Cualquiera)"
+        },
+        "zxYisBONE3IgIfe9": {
+          "description": "<strong>Peligro.</strong> Con cada gran descubrimiento viene grave peligro. Los dos caminan de la mano."
+        }
+      }
+    },
+    "toaMagicFountain": {
+      "name": "Efectos de la fuente mágica",
+      "results": {
+        "yWrLCMhVn0mQzFaf": {
+          "description": "<p>La criatura que bebe el agua debe hacer un [[/save con 12 format=long]], tomando [[/damage 8d10 necrotic average]] daño en un error de guardar, o la mitad de daño en un éxito. Si este daño reduce la criatura a 0 puntos de impacto, muere y se convierte en polvo.</p>"
+        },
+        "79crtpSozA0RqEH5": {
+          "description": "<p>La criatura que bebe el agua pierde la capacidad de hablar durante 8 horas. A @UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{menor restauración} conjuro o magia similar termina este efecto.</p>"
+        },
+        "Wjj6HAG3BrjHwyGH": {
+          "description": "<p>La criatura que bebe el agua mágicamente cambia el sexo. A @UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{mayor restauración} el conjuro restaura el sexo original de la criatura, al igual que otra bebida de la fuente que produce este mismo resultado.</p>"
+        },
+        "BGYCvZJHhBOcyVDR": {
+          "description": "<p>La criatura que bebe el agua gana [[/heal 2d10 temp]].</p>"
+        }
+      }
+    },
+    "toaOmuEncPalace0": {
+      "name": "Palacio (Omu)",
+      "results": {
+        "qNXJrrYc1m9yyOM6": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.R63BxIRK2nBFntWc caption=false cite=false]</p>"
+        },
+        "RvvKjSXHZQ93FSLO": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.nqtaFGPo887p5yiK caption=false cite=false]</p>"
+        },
+        "xVKg841mMQhXDIm3": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.5zedwEFZyvIyTNQd caption=false cite=false]</p>"
+        },
+        "DPJpWWpyHWzaiYm7": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.drDo3wiw6ZboPNwt caption=false cite=false]</p>"
+        },
+        "PABWIA10NUtyrYCr": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.JKvV92kE2bs7YvVV caption=false cite=false]</p>"
+        },
+        "3cTvXspljDKg89EV": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.yP8dAuEcI4ptJQcG caption=false cite=false]</p>"
+        },
+        "9lxuznd2J9bmKXNc": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.aTNpWLwHXTzBONVa caption=false cite=false]</p>"
+        },
+        "8xf7KmhxJQ4QFUWA": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.WQGoDdnVErIqkGAO caption=false cite=false]</p>"
+        },
+        "slGw0PaWxyhnTxkb": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.HydPiBGnzOhnhBzD caption=false cite=false]</p>"
+        },
+        "F9phuURYkXD44iTX": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.cctGdu5DbVzE5Vbr caption=false cite=false]</p>"
+        },
+        "ukZUWg3RWbTh8WGd": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.ZqO1pcwA9oBbbnci caption=false cite=false]</p>"
+        },
+        "fJhnXNPF5GFd5WUM": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.chw9vy8b5gpJLuL4 caption=false cite=false]</p>"
+        }
+      }
+    },
+    "toaOmuEncRuins00": {
+      "name": "Ruinas (Omu)",
+      "results": {
+        "eoswK8qXwWcqhZkc": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.sl7IlZ50V7k70Wsc caption=false cite=false]</p>"
+        },
+        "JobiQzGJhR6v4K5w": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.R63BxIRK2nBFntWc caption=false cite=false]</p>"
+        },
+        "gwLhDkTAu5gRKcr6": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.ICzRmHEG6xeUgknz caption=false cite=false]</p>"
+        },
+        "CreGr4q783rYiMyP": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.nqtaFGPo887p5yiK caption=false cite=false]</p>"
+        },
+        "swH1cfZr3w80c3X2": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.5zedwEFZyvIyTNQd caption=false cite=false]</p>"
+        },
+        "sQFPrnVqHt39nS0u": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.5qhcJD3vXKT1ubSB caption=false cite=false]</p>"
+        },
+        "tcH5ucpDmfuMcYlB": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.drDo3wiw6ZboPNwt caption=false cite=false]</p>"
+        },
+        "S2GB5MlPrftlK2eJ": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.JKvV92kE2bs7YvVV caption=false cite=false]</p>"
+        },
+        "p3pvPZQM07EhMHl8": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.z2kmxxMriOSuFToQ caption=false cite=false]</p>"
+        },
+        "OT4xzJ3KEYHCaziY": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.yP8dAuEcI4ptJQcG caption=false cite=false]</p>"
+        },
+        "X45Ar4svjPd6cwyv": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.aTNpWLwHXTzBONVa caption=false cite=false]</p>"
+        },
+        "Q6rzGFxzYDb70F0H": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.WQGoDdnVErIqkGAO caption=false cite=false]</p>"
+        },
+        "aOc7RZyWbgQQYVR9": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.FYgR5ic3WWcghkE6 caption=false cite=false]</p>"
+        },
+        "VDGxIYNVtKW39w3K": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.HydPiBGnzOhnhBzD caption=false cite=false]</p>"
+        },
+        "cbx2mgENIiuu6dHj": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.cctGdu5DbVzE5Vbr caption=false cite=false]</p>"
+        },
+        "kVb1GbKxLStLkjOV": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.6B3D5AUPVUAOJ0NW caption=false cite=false]</p>"
+        },
+        "tC3qDkwC2fy9Png8": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.5DabOzdl7JSybHjO caption=false cite=false]</p>"
+        },
+        "ANU0djcgA3ZnvnID": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.I4xpM9ttKs2m7uoy caption=false cite=false]</p>"
+        },
+        "gN3cerIHvkV4d3Si": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.ZqO1pcwA9oBbbnci caption=false cite=false]</p>"
+        },
+        "iRzhLbVQ4KcHgCVU": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.chw9vy8b5gpJLuL4 caption=false cite=false]</p>"
+        }
+      }
+    },
+    "toaOmuEncSwamp00": {
+      "name": "Pantano (Omu)",
+      "results": {
+        "gsjmLS3Y5zQbxTNT": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.I1pk8CtlNcGl0EHw caption=false cite=false]</p>"
+        },
+        "ngtJ671khX2HzvO7": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.5zedwEFZyvIyTNQd caption=false cite=false]</p>"
+        },
+        "5G2aXd6gd2FgvO3F": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.5qhcJD3vXKT1ubSB caption=false cite=false]</p>"
+        },
+        "peHZGR9szg8E0ldG": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.z2kmxxMriOSuFToQ caption=false cite=false]</p>"
+        },
+        "TYKebCgZi7QccphK": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.yP8dAuEcI4ptJQcG caption=false cite=false]</p>"
+        },
+        "FDj44SeYWkoYmPce": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.FYgR5ic3WWcghkE6 caption=false cite=false]</p>"
+        },
+        "3ZNVvAt8fTh33CtS": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.6B3D5AUPVUAOJ0NW caption=false cite=false]</p>"
+        },
+        "ONujixlehr9ijcgo": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.5DabOzdl7JSybHjO caption=false cite=false]</p>"
+        },
+        "0mJauq59bFR7Pi6v": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.I4xpM9ttKs2m7uoy caption=false cite=false]</p>"
+        },
+        "H6NSKoOQDnJT6DGM": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.ZqO1pcwA9oBbbnci caption=false cite=false]</p>"
+        },
+        "Ck6361cniYdiVFpE": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.chw9vy8b5gpJLuL4 caption=false cite=false]</p>"
+        }
+      }
+    },
+    "toaPersonalityTr": {
+      "name": "Rasgo de personalidad (antropólogo)",
+      "results": {
+        "gzliEtSGdLXCChDY": {
+          "description": "Prefiero la compañía de aquellos que no son como yo, incluyendo gente de otras razas."
+        },
+        "nPy04FLI0Vmc55nd": {
+          "description": "Soy muy estricto cuando se trata de observar la etiqueta adecuada y las costumbres locales."
+        },
+        "T8IB59eC2p6TaBpI": {
+          "description": "Prefiero observar que entrometerme."
+        },
+        "OYEiOB5u3z1LZAZV": {
+          "description": "Al vivir entre personas violentas, me he vuelto insensible a la violencia."
+        },
+        "z6UzZGNphpWCmZMJ": {
+          "description": "Arriesgaría la vida y la extremidad para descubrir una nueva cultura o desvelar los secretos de un muerto."
+        },
+        "cHEEl8mkq6DOHBvE": {
+          "description": "Cuando llegue a un nuevo asentamiento por primera vez, debo aprender todas sus costumbres."
+        }
+      }
+    },
+    "toaRarePlants000": {
+      "name": "Planta(s) rara(s)",
+      "results": {
+        "1xpeduXWyW1nQldT": {
+          "description": "<p>[[/r 2d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafDancingMon]{Frutas de mono bailando} creciendo en un árbol</p>"
+        },
+        "D8KxU3C6Ub9Rcvgj": {
+          "description": "<p>Arbusto de menga con [[/r 2d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafMengaLeave]{onzas de hojas}</p>"
+        },
+        "ge40BlTkQfizqK4l": {
+          "description": "<p>[[/r 1d4]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafRyathRoot0]{raíces de riath} crecer en el suelo</p>"
+        },
+        "caQlq5CHN0dK1Rgs": {
+          "description": "<p>[[/r 4d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafSindaBerri]{bayas sinda} creciendo en un arbusto</p>"
+        },
+        "ONMrah4PUhWU8yH4": {
+          "description": "<p>Wukka árbol con [[/r 2d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafWukkaNuts0]{Nueces de wukka}</p>"
+        },
+        "NtNCn7q4Q89Y9MAC": {
+          "description": "<p>[[/r 1d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafZabou00000]{zabou} creciendo en un árbol muerto</p>"
+        }
+      }
+    },
+    "toaStatueofUbtao": {
+      "name": "Estatua de Ubtao",
+      "results": {
+        "Z9DLf8QDROfqIrZ4": {
+          "description": "<p>El tesoro se encuentra al pie de la estatua, dejado allí como tributo por una criatura de la selva. Rodar una vez en el @UUID[Compendium.dnd-tomb-annihilation.tables.RollTable.dmgTreasureDrops]{Gotas de tesoro} mesa para determinar qué tesoro se encuentra. Si el rollo indica que no hay tesoro, los personajes encuentran piezas sin valor de joyas de hueso en su lugar.</p>"
+        },
+        "nS04O2WxBbhj8bEJ": {
+          "description": "<p>Los cráneos de goblin, grung y su-monster están amontonados alrededor de la base de la estatua.</p>"
+        },
+        "ENFV6CPl3fOXTevA": {
+          "description": "<p>A @UUID[Compendium.dnd5e.spells.Item.pB7XVYwdGNcUG935]{glifo de la protección} está inscrito en la estatua. Para detectar el glifo, un personaje que busca la estatua debe tener éxito en un [[/check investigation 15 format=long]]. Si alguna criatura toca la estatua, el glifo estalla con energía mágica en una esfera de 20 pies de radio centrada en la estatua. Cada criatura en la zona debe tener éxito en un [[/save dex 14 format=long]], tomando [[/damage 5d8 thunder average]] daño en un error de guardar, o la mitad de daño en un éxito. El ruido estruendoso tiene un [[/r 1d100cs&lt;=75#Sturges or a troll hears the noise on a result of 1]]{75 por ciento de probabilidad} de atraer agitaciones o un troll acechando cerca (ver “@UUID[JournalEntry.toaAppBRandomEnc.JournalEntryPage.mJLP1CT91yz4xyEu]{Stirges}” y “@UUID[JournalEntry.toaAppBRandomEnc.JournalEntryPage.gqmqw9126FVmMnBl]{Trol}”).</p>"
+        },
+        "6wkRaiZ2kwxzM5hD": {
+          "description": "<p>La estatua tiene surcos tallados en su estómago que forman un laberinto. Cualquier personaje que estudia los surcos y tiene éxito en un [[/check int 10 format=long]] ve un camino claro a través del laberinto. Ese personaje es entonces otorgado con el poder de lanzar el @UUID[Compendium.dnd5e.spells.Item.cYI4RNNjI5GAmLhy]{encontrar el camino} deletrear como una acción, sin componentes necesarios, trazando el mismo camino con su dedo. Una vez usada, esta habilidad desaparece. Una vez que la estatua ha concedido este beneficio, no puede hacerlo de nuevo hasta el próximo amanecer.</p>"
+        }
+      }
+    },
+    "toaThornMazeEnco": {
+      "name": "Encuentros de Thorn Laberinto",
+      "results": {
+        "pBvl5l2AMZ2d8utn": {
+          "description": "No encuentro."
+        },
+        "Dk1d2qYTBbCfmqCB": {
+          "description": "<p>@UUID[Actor.toaCh2GrungsDung]{1d6 + 6 grungs} (Guerreros de piel verde) en patrulla.</p>"
+        },
+        "BZ0vhRAPsxiGFj9G": {
+          "description": "<p>@UUID[Actor.toaCh2AssassinVi]{1d3 vides asesinas} (ver @UUID[JournalEntry.toaAppDMonstersA]{Apéndice D}) mezclando con las paredes circundantes.</p>"
+        },
+        "Ql9TVhcBmW6YHCOF": {
+          "description": "<p>@UUID[Actor.toaCh2GhoulsDung]{1d4 ghouls} perdido en el laberinto.</p>"
+        },
+        "RKhXFfhs8utKEcRK": {
+          "description": "Un escarabajo inofensivo de Yahcha (ver @UUID[JournalEntry.toaAppCDiscoveri]{apéndice C})."
+        },
+        "31OkuWEECx1weIp5": {
+          "description": "Los personajes escuchan un crujido que suena a la vez lujurioso y desolado. No se puede determinar su origen."
+        },
+        "sC5YGEDqVHCc80zx": {
+          "description": "<p>@UUID[Actor.toaCh2ZombiesDun]{1d6 zombis} perdido en el laberinto.</p>"
+        },
+        "9QJjR1YWnfQPXZnT": {
+          "description": "Un hoyo oculto de 5 pies de ancho, 10 pies de profundidad, y forrado con estacas de madera envenenadas. El personaje principal ve el foso con un éxito [[/check perception 15 format=long]]. El primer personaje que pisa un pozo cae, tomando [[/damage 1d6 bludgeoning average]] daños y aterrizaje en [[/r 1d4]] apuestas, cada una de las cuales trata [[/damage 1d6 piercing &amp; 2d6 poison average]] daño."
+        },
+        "w2vQOwRh75ptZu8g": {
+          "description": "Una puerta secreta interior. Requiere un éxito. [[/check perception 15 format=long]] a ver."
+        }
+      }
+    },
+    "toaTrait10000000": {
+      "name": "Rasgo de Personalidad (Arqueólogo)",
+      "results": {
+        "t4D0ykwqSvQ0WMQH": {
+          "description": "Me encanta un buen rompecabezas o misterio."
+        },
+        "vlKeijxc9DNFyU4X": {
+          "description": "Soy una rata de manada que nunca tira nada."
+        },
+        "ryi0F66Xw6WkbgKE": {
+          "description": "La fama es más importante que el dinero."
+        },
+        "umkETB8QXB41nm32": {
+          "description": "No tengo reparos en robarles a los muertos."
+        },
+        "V17rOWaHWwciGgK7": {
+          "description": "Soy más feliz en una vieja tumba polvorienta que en los centros de la civilización."
+        },
+        "YtaCWmPoAgwCvXzF": {
+          "description": "Las trampas no me ponen nervioso. Idiotas que disparan trampas me ponen nervioso."
+        },
+        "RErKvnEdMvv3plTe": {
+          "description": "Puede que falle, pero nunca me rendiré."
+        },
+        "FqMEIXHOcSDC0qzZ": {
+          "description": "Puede que pienses que soy un erudito, pero me encanta una buena pelea. Estos puños fueron hechos para golpear."
+        }
+      }
+    },
+    "toaZombies000000": {
+      "name": "Zombis",
+      "results": {
+        "G6TFasPmOwQrKb8H": {
+          "description": "<p>[[/r 3d6]] @UUID[Actor.J6yWqkj0lotaRnTh]{zombies}</p>"
+        },
+        "p2GGZJkx8cdeRXXN": {
+          "description": "<p>1 @UUID[Actor.toaAnkylosaurusZ]{ankylosaurus zombie }(ver @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{Apéndice D})</p>"
+        },
+        "i8KisLCSm2VFmOY0": {
+          "description": "<p>[[/r 1d4]] @UUID[Actor.toaGirallonZombi]{Girallon zombis} (ver @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{Apéndice D})</p>"
+        },
+        "dAJyD4cBY7IW2VrE": {
+          "description": "<p>[[/r 1d4]] @UUID[Compendium.dnd5e.monsters.Actor.RenLfmDT2XlbCF4x]{zombis ogros}</p>"
+        },
+        "rrlff9wABfEvoQ04": {
+          "description": "<p>1 @UUID[Actor.toaTyrannosaurus]{tyrannosaurus zombi} (ver @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{Apéndice D})</p>"
+        }
+      }
+    },
+    "toaencBeach00000": {
+      "name": "Playa",
+      "results": {
+        "JHveQolDYsDwlvz0": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.NOZzGpneqLKGC6ce caption=false cite=false]</p>"
+        },
+        "x1viVHTjOsuea5rS": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.nYaWMaTC90KIkJrz caption=false cite=false]</p>"
+        },
+        "iYqIooIodpzR021H": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.yQOuZPU1fJFsHsU6 caption=false cite=false]</p>"
+        },
+        "pRFsAeaGYYvp5rX8": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.Lpishpigkf8xj8Yi caption=false cite=false]</p>"
+        },
+        "bArOSOoAvTpCMFxe": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.f7KoXG9EETkOFjWP caption=false cite=false]</p>"
+        },
+        "8XzR5j4zGHVlDmj0": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.PMvlEqa9C6iv5edf caption=false cite=false]</p>"
+        },
+        "iaNXjbVOHwL7idxx": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.sfaT3WHBLwJfXeZC caption=false cite=false]</p>"
+        },
+        "uAS3ahy11JhkAjvC": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.huO9aIJsnNoYYm9E caption=false cite=false]</p>"
+        },
+        "mQn30IgI5iNwjEOd": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.2CLUp6FnnvK91vug caption=false cite=false]</p>"
+        },
+        "mOfJStz18qIkgNeZ": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.NK6864xzewpEOj94 caption=false cite=false]</p>"
+        },
+        "5Qc7ZOxvwbBCfGkU": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.w9R9nYllUpgbe8a7 caption=false cite=false]</p>"
+        },
+        "X1JyUFIas6lu9bGk": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.qZB5LogHGOr5MCiX caption=false cite=false]</p>"
+        },
+        "Za5isTHhihaYnmNh": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.cY0QF3h3q7i4lNNs caption=false cite=false]</p>"
+        },
+        "pnKLhQhEMdmb85t6": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.UtIhUUaTudXiPyY7 caption=false cite=false]</p>"
+        },
+        "1zFITbIhELxZTJmD": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.eTCOcgBzqJONs7CI caption=false cite=false]</p>"
+        },
+        "bwI1tyRblLMnrIWw": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.Qk565ZlbBUjm3eyN caption=false cite=false]</p>"
+        },
+        "0Ez0qbHmXkx0DLk6": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.P5L8OyNEmNeeQAgF caption=false cite=false]</p>"
+        },
+        "JH923d251GSbrAR6": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.xAcMXaHOhG7pjtpR caption=false cite=false]</p>"
+        },
+        "1Q6RmJHiN4tNDwnG": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.6RKWSJEHfgBLf1MF caption=false cite=false]</p>"
+        },
+        "cg0WxNvclmQz6NzW": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.ncslqEvLGnaa8NTR caption=false cite=false]</p>"
+        },
+        "espyXrsL0Rn2YlK7": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.WQGoDdnVErIqkGAO caption=false cite=false]</p>"
+        },
+        "YWJERtRYvj4V2x4O": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.xUJ3VoNZkbuf25Y4 caption=false cite=false]</p>"
+        },
+        "VPqKJ6MPkChQO9QZ": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.mJLP1CT91yz4xyEu caption=false cite=false]</p>"
+        },
+        "s0b2bs3Xek1SHnXL": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.R5L6um5omcFuEuWI caption=false cite=false]</p>"
+        },
+        "B5BRZxeQArqebILW": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.cctGdu5DbVzE5Vbr caption=false cite=false]</p>"
+        },
+        "UG5k9tAQPXWHnL3L": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.MpUCT6DJ5uFDZxN6 caption=false cite=false]</p>"
+        }
+      }
+    },
+    "toaencJungle0000": {
+      "name": "Selva: No hay muertos vivientes",
+      "results": {
+        "HDnpCGLLpCJbEDCp": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.kcNFt99uaTAlXhsn caption=false cite=false]</p>"
+        },
+        "Kh17DsWIjk7pm026": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.p00iA5cyvluJ6uJo caption=false cite=false]</p>"
+        },
+        "C53rX4AfLMgje4AR": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.sl7IlZ50V7k70Wsc caption=false cite=false]</p>"
+        },
+        "OrboALAX4IYsisVJ": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.nYaWMaTC90KIkJrz caption=false cite=false]</p>"
+        },
+        "cpfKowd7p1lTPOff": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.SC2qvQBIWpIVFaUs caption=false cite=false]</p>"
+        },
+        "UwcjTpJ5kPFhQhLc": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.q7y13afcYtoOemQE caption=false cite=false]</p>"
+        },
+        "ZsKj3nFtr2N2AE1t": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.R63BxIRK2nBFntWc caption=false cite=false]</p>"
+        },
+        "UcjAzDMUAXEJyts6": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.yQOuZPU1fJFsHsU6 caption=false cite=false]</p>"
+        },
+        "oVCF94K4flQeIKRF": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.ICzRmHEG6xeUgknz caption=false cite=false]</p>"
+        },
+        "AHOKoaz4rpy50Wun": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.Lpishpigkf8xj8Yi caption=false cite=false]</p>"
+        },
+        "eGpI5SLircgVe2WK": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.Fk6szog2v75aB1G6 caption=false cite=false]</p>"
+        },
+        "xzjRiiGDpPTUcq7h": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.f7KoXG9EETkOFjWP caption=false cite=false]</p>"
+        },
+        "eaTWTAydzEylJAfu": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.HB65zM1KbeAv7NUT caption=false cite=false]</p>"
+        },
+        "D1tcAZSe1ZI34k5s": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.vZZLqeinZuWUoJmL caption=false cite=false]</p>"
+        },
+        "nVNVm7e7qGyQp2Sj": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.ZKmzrdg18krNA942 caption=false cite=false]</p>"
+        },
+        "z2fdM5jP64lk89S7": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.DiOYVDJ70NaufL4X caption=false cite=false]</p><p></p>"
+        },
+        "Pyzh3AiDAsXCjFoa": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.huO9aIJsnNoYYm9E caption=false cite=false]</p>"
+        },
+        "tNo8vOZoTy37lUGN": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.611Gy0rlO8erVlzC caption=false cite=false]</p>"
+        },
+        "OxxfXEZQZMLxx3At": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.cutZ3mF8J1SoSpUe caption=false cite=false]</p>"
+        },
+        "f68WvHic2wpRMoFn": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.yqjqgNxgPi00CQrl caption=false cite=false]</p>"
+        },
+        "6wTezk1ABIc8QI0R": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.NK6864xzewpEOj94 caption=false cite=false]</p>"
+        },
+        "cLrIMxGj3VAYcFV5": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.nqtaFGPo887p5yiK caption=false cite=false]</p>"
+        },
+        "IinJA2scT6NxzOEH": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.IYHnSuMsA3R1vCo3 caption=false cite=false]</p>"
+        },
+        "ql37Be1ybDGMy0tq": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.qZB5LogHGOr5MCiX caption=false cite=false]</p>"
+        },
+        "I9ewCCBPwImsGkvb": {
+          "description": "<p>Chul está lleno de cadáveres y huesos de los que han caído víctimas de sus terrores. Cuando los personajes descubren una de esas víctimas, rodar un [[/r d20]] y consultar a la @UUID[Compendium.dnd-tomb-annihilation.tables.RollTable.dmgRanEncDeadExp]{Exploradores muertos} mesa para determinar lo que encuentran. Luego roda una vez en el @UUID[Compendium.dnd-tomb-annihilation.tables.RollTable.dmgTreasureDrops]{Gotas de tesoro} mesa para ver qué, en su caso, se puede encontrar en o cerca de los restos.</p>"
+        },
+        "2P3CnNzxVWR7QRrr": {
+          "description": "<p>El partido se encuentra con otro @UUID[Actor.toaEncExplorers0]{banda de exploradores}, que consiste en un mago, un sacerdote, un explorador, y 1d6 guerreros tribales. Rodar un d6 para determinar el @UUID[Compendium.dnd-tomb-annihilation.tables.RollTable.toaAppBExplorers]{situación del grupo}:</p><p>@embed[Compendium.dnd-tomb-annihilation.tables.RollTable.toaAppBExplorers rollable classes=\"caption-top\"]</p>"
+        },
+        "xOq5J0mUKOgO7ODP": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.uK4SZtMPjJiX1Gch caption=false cite=false]</p>"
+        },
+        "4Kgve5ChWix0GwW3": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.UtIhUUaTudXiPyY7 caption=false cite=false]</p>"
+        },
+        "E0IcN6Arvkn8Wqbo": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.eTCOcgBzqJONs7CI caption=false cite=false]</p>"
+        },
+        "UNH0GzYZwRCZ1og0": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.Qk565ZlbBUjm3eyN caption=false cite=false]</p>"
+        },
+        "16Lpb2T397vsFA6V": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.P5L8OyNEmNeeQAgF caption=false cite=false]</p>"
+        },
+        "kXEbZ5AQV3nfVI2E": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.Bk0Ogx4dgFRrluA4 caption=false cite=false]</p>"
+        },
+        "Ggk0u52miZCqsPg1": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.QoES6vSEMCmW60dn caption=false cite=false]</p>"
+        },
+        "GaWMzWt12QWwg3do": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.xAcMXaHOhG7pjtpR caption=false cite=false]</p>"
+        },
+        "2Sn8EiFqOM5C1kYj": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.h8LPP5SczqaYDrw7 caption=false cite=false]</p>"
+        },
+        "ChNKKolAeiQ7dqeg": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.5qhcJD3vXKT1ubSB caption=false cite=false]</p>"
+        },
+        "uypoo4AmIL1LgumX": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.u5Mz7RuyOYdKPO6S caption=false cite=false]</p>"
+        },
+        "CKEfUnk12sYdmVVB": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.JKvV92kE2bs7YvVV caption=false cite=false]</p>"
+        },
+        "rqo8UzRh6nGDpKT3": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.z2kmxxMriOSuFToQ caption=false cite=false]</p>"
+        },
+        "POwldLOAkaRt0NVi": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.LthcZFEutG3QtnYI caption=false cite=false]</p>"
+        },
+        "G1R8Mnlq7W8q3kcQ": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.ncslqEvLGnaa8NTR caption=false cite=false]</p>"
+        },
+        "vtrri5a6GHFWP9Md": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.fZbc352jSgQJqkSK caption=false cite=false]</p>"
+        },
+        "R72Qi2qVeThLXMMg": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.LSpynyCjG5HPwhtd caption=false cite=false]</p>"
+        },
+        "wZlY0bX1xypbtREK": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.PSwWy5QNtXOyNdNv caption=false cite=false]</p>"
+        },
+        "RZ0OCm3vzTNsuwiC": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.KurL1KUdpZHmx8gV caption=false cite=false]</p>"
+        },
+        "CZg0NSsuqNdBuMdK": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.jKG3UKFhSSTddw0V caption=false cite=false]</p>"
+        },
+        "gwsGxJudnjWjhQyN": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.WQGoDdnVErIqkGAO caption=false cite=false]</p>"
+        },
+        "TlDVNk8Y3xfuAuqN": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.OtoJI2FPcljr4ZwP caption=false cite=false]</p>"
+        },
+        "B9Nq6TsE7JQ9QkJo": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.zGExzJvx2QDVuQoa caption=false cite=false]</p>"
+        },
+        "fdkcrXZtVaLcGsW5": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.4extT2huH6sVDz0e caption=false cite=false]</p>"
+        },
+        "GdU9d2VHF5fXC10G": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.sel6djRdSZ2JWfbu caption=false cite=false]</p>"
+        },
+        "2jVCJMraCHluSoB4": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.YvrekFuRALETGLha caption=false cite=false]</p>"
+        },
+        "PAO0qElmBic1zO72": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.mJLP1CT91yz4xyEu caption=false cite=false]</p>"
+        },
+        "f1XNjFjWYfGMfDDn": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.HydPiBGnzOhnhBzD caption=false cite=false]</p>"
+        },
+        "dL6IbX8ufjev63QG": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.R5L6um5omcFuEuWI caption=false cite=false]</p>"
+        },
+        "DFeaxu65faBHVDSR": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.5wEwqFMWNMwPC0Q7 caption=false cite=false]</p>"
+        },
+        "Mm1H2xS3uLvAPkbL": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.cctGdu5DbVzE5Vbr caption=false cite=false]</p>"
+        },
+        "kHpSAF6cnZ5uqawy": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.6kO9Ky5LEsXn1fRs caption=false cite=false]</p>"
+        },
+        "PMuIb6u2mkgrzsRY": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.MpUCT6DJ5uFDZxN6 caption=false cite=false]</p>"
+        },
+        "gEHxhNyQ44Qcj1yA": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.I4xpM9ttKs2m7uoy caption=false cite=false]</p>"
+        },
+        "YYJgUHeTsgkkiwju": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.X34rNnTXhucQTMnk caption=false cite=false]</p>"
+        },
+        "BCNAfyNZGrMxWmIN": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.OxqSpXaXhMsdbZKf caption=false cite=false]</p>"
+        },
+        "coVezCMFIQhMaRUM": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.y0ElPDdmKlMxHYBI caption=false cite=false]</p>"
+        },
+        "m15O2ACM2miOlQ1K": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.ZqO1pcwA9oBbbnci caption=false cite=false]</p>"
+        },
+        "P4n5IgVofWpdFVoZ": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.chw9vy8b5gpJLuL4 caption=false cite=false]</p>"
+        },
+        "OgjJH440XX9Psmpr": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.f9Mp9H2MwxCz9WHH caption=false cite=false]</p>"
+        },
+        "VeaHTqzMNamtDHXA": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.86D9IgF7cPkXnnf5 caption=false cite=false]</p>"
+        }
+      }
+    },
+    "toaencJungle1000": {
+      "name": "Selva: Menos muertos vivientes",
+      "results": {
+        "CAQDS1Xxt6mRy604": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.kcNFt99uaTAlXhsn caption=false cite=false]</p>"
+        },
+        "2KigtoxgiS0f4yS5": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.nYaWMaTC90KIkJrz caption=false cite=false]</p>"
+        },
+        "OD9VfSQC30ewpkmx": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.SC2qvQBIWpIVFaUs caption=false cite=false]</p>"
+        },
+        "3QFm1BE1UjCGF5CU": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.q7y13afcYtoOemQE caption=false cite=false]</p>"
+        },
+        "LlHZDUOkhYG40W0E": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.yQOuZPU1fJFsHsU6 caption=false cite=false]</p>"
+        },
+        "fIZaivkfy2nErtqo": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.ICzRmHEG6xeUgknz caption=false cite=false]</p>"
+        },
+        "fVLiGw2boFZJskP5": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.f7KoXG9EETkOFjWP caption=false cite=false]</p>"
+        },
+        "m0P6tNKDQ9bg1Lzi": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.HB65zM1KbeAv7NUT caption=false cite=false]</p>"
+        },
+        "SZtS95LDFX9iLfJM": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.ZKmzrdg18krNA942 caption=false cite=false]</p>"
+        },
+        "KYHpNTmvr5hYDgtU": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.DiOYVDJ70NaufL4X caption=false cite=false]</p>"
+        },
+        "IvzoYAikvgIy2ZBP": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.huO9aIJsnNoYYm9E caption=false cite=false]</p>"
+        },
+        "4vDYa9OLoTA3HwRk": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.611Gy0rlO8erVlzC caption=false cite=false]</p>"
+        },
+        "Z3Pm2849KDx4oD3y": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.cutZ3mF8J1SoSpUe caption=false cite=false]</p>"
+        },
+        "rGs18qpKdarG30ha": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.yqjqgNxgPi00CQrl caption=false cite=false]</p>"
+        },
+        "e4LYwKLHzqPBKTnT": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.qZB5LogHGOr5MCiX caption=false cite=false]</p>"
+        },
+        "DbEfLcGCAhn3keeO": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.w0W4NqfwoIXFsq5o caption=false cite=false]</p>"
+        },
+        "BZp6tC2wTSnSH8L9": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.cY0QF3h3q7i4lNNs caption=false cite=false]</p>"
+        },
+        "mrpUyvylLcUOk0fl": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.UtIhUUaTudXiPyY7 caption=false cite=false]</p>"
+        },
+        "qOkzpazm2CpC1gPW": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.Qk565ZlbBUjm3eyN caption=false cite=false]</p>"
+        },
+        "sywzqOKxWY7f10vl": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.xAcMXaHOhG7pjtpR caption=false cite=false]</p>"
+        },
+        "yaIhC32tZqzCPWjY": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.5qhcJD3vXKT1ubSB caption=false cite=false]</p>"
+        },
+        "tJzQmCViSEHNrwM5": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.u5Mz7RuyOYdKPO6S caption=false cite=false]</p>"
+        },
+        "mCBieTKK2e5lYgL5": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.JKvV92kE2bs7YvVV caption=false cite=false]</p>"
+        },
+        "XN4mIVugdEP4q17f": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.z2kmxxMriOSuFToQ caption=false cite=false]</p>"
+        },
+        "dIAT1lEydl77sykn": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.fZbc352jSgQJqkSK caption=false cite=false]</p>"
+        },
+        "xwaG8TAqxef6nBI7": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.LSpynyCjG5HPwhtd caption=false cite=false]</p>"
+        },
+        "iExTmrbcL3HO4AbO": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.PSwWy5QNtXOyNdNv caption=false cite=false]</p>"
+        },
+        "qA50x7faedODKp4y": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.KurL1KUdpZHmx8gV caption=false cite=false]</p>"
+        },
+        "A8n2ZZ5uxxGKGALH": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.jKG3UKFhSSTddw0V caption=false cite=false]</p>"
+        },
+        "yxaR2QHKWuvj7ue7": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.WQGoDdnVErIqkGAO caption=false cite=false]</p>"
+        },
+        "eY0H6YJuhYOqpSMb": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.OtoJI2FPcljr4ZwP caption=false cite=false]</p>"
+        },
+        "MEQ28vvmvpkDQxEc": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.zGExzJvx2QDVuQoa caption=false cite=false]</p>"
+        },
+        "XZjh0K6NnuD4Lst1": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.4extT2huH6sVDz0e caption=false cite=false]</p>"
+        },
+        "Wg5nNiQCHzxJqt7q": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.sel6djRdSZ2JWfbu caption=false cite=false]</p>"
+        },
+        "uM9av0GkdJBBjWlB": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.YvrekFuRALETGLha caption=false cite=false]</p>"
+        },
+        "5jdkSHFrKpLKtx1W": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.mJLP1CT91yz4xyEu caption=false cite=false]</p>"
+        },
+        "nUC50t20eUQppF4p": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.HydPiBGnzOhnhBzD caption=false cite=false]</p>"
+        },
+        "YD2ZURevzSBPHg3x": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.R5L6um5omcFuEuWI caption=false cite=false]</p>"
+        },
+        "r6F5480jEflWULqK": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.5wEwqFMWNMwPC0Q7 caption=false cite=false]</p>"
+        },
+        "VZhb2jVHWjZcHlU4": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.MpUCT6DJ5uFDZxN6 caption=false cite=false]</p>"
+        },
+        "Ie8Xo2ZoQGvOtZEX": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.gqmqw9126FVmMnBl caption=false cite=false]</p>"
+        },
+        "9hDltkEZO7uX25xX": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.6B3D5AUPVUAOJ0NW caption=false cite=false]</p>"
+        },
+        "xOtNRTmk2PqCyZF0": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.Z3HUhn73b2jVcmOv caption=false cite=false]</p>"
+        },
+        "Bg82HQoCw7neeIda": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.z8gbsCGIC5Pv6W81 caption=false cite=false]</p>"
+        },
+        "Ic7z3oVfSNuelVzK": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.NP8AdwONv9AOfKBH caption=false cite=false]</p>"
+        },
+        "a3dGUI26vms8D14c": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.5DabOzdl7JSybHjO caption=false cite=false]</p>"
+        },
+        "m2xQYidqi7M3qeYw": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.I4xpM9ttKs2m7uoy caption=false cite=false]</p>"
+        },
+        "M2yY19FtRsAgpgIy": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.X34rNnTXhucQTMnk caption=false cite=false]</p>"
+        },
+        "XR0jv0OqDEOVdtgy": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.OxqSpXaXhMsdbZKf caption=false cite=false]</p>"
+        },
+        "kH46e41RDqVQNmiG": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.y0ElPDdmKlMxHYBI caption=false cite=false]</p>"
+        },
+        "lbjOUmj63vh3qlBw": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.ZqO1pcwA9oBbbnci caption=false cite=false]</p>"
+        },
+        "9FEoxoJ9M4sJiws3": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.chw9vy8b5gpJLuL4 caption=false cite=false]</p>"
+        },
+        "nBvdOrade6zxkjdS": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.f9Mp9H2MwxCz9WHH caption=false cite=false]</p>"
+        },
+        "0By23P957d2ZurrA": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.86D9IgF7cPkXnnf5 caption=false cite=false]</p>"
+        }
+      }
+    },
+    "toaencJungle2000": {
+      "name": "Selva: Mayor No Muerto",
+      "results": {
+        "Uw9dirgc0jOOgBCv": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.nYaWMaTC90KIkJrz caption=false cite=false]</p>"
+        },
+        "OdMUmE9AXkTqZzTB": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.SC2qvQBIWpIVFaUs caption=false cite=false]</p>"
+        },
+        "PLPswT217wGHtNQu": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.yQOuZPU1fJFsHsU6 caption=false cite=false]</p>"
+        },
+        "Pe5hRAvGQzR0BAcJ": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.f7KoXG9EETkOFjWP caption=false cite=false]</p>"
+        },
+        "3hkyXQU45HjBPGKi": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.HB65zM1KbeAv7NUT caption=false cite=false]</p>"
+        },
+        "VmZMtDQaDcR9oThl": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.DiOYVDJ70NaufL4X caption=false cite=false]</p>"
+        },
+        "ambshPKceokNHVbP": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.huO9aIJsnNoYYm9E caption=false cite=false]</p>"
+        },
+        "jPGfoAjaWgUS5bTm": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.611Gy0rlO8erVlzC caption=false cite=false]</p>"
+        },
+        "JmOUHSzaiU7ZGPuO": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.yqjqgNxgPi00CQrl caption=false cite=false]</p>"
+        },
+        "HfQUEIcq1idtOQbj": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.NK6864xzewpEOj94 caption=false cite=false]</p>"
+        },
+        "UZo5h2Ann2ReEl4c": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.qZB5LogHGOr5MCiX caption=false cite=false]</p>"
+        },
+        "5YRzSRaQHadiLrhm": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.w0W4NqfwoIXFsq5o caption=false cite=false]</p>"
+        },
+        "D8m1wWHLBbuaApMB": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.cY0QF3h3q7i4lNNs caption=false cite=false]</p>"
+        },
+        "EZopTiBdxBjwjLO4": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.UtIhUUaTudXiPyY7 caption=false cite=false]</p>"
+        },
+        "qD3TVD3fR0lAXtjb": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.5qhcJD3vXKT1ubSB caption=false cite=false]</p>"
+        },
+        "RcclEvKTW6f4cxzW": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.LSpynyCjG5HPwhtd caption=false cite=false]</p>"
+        },
+        "cFxCDfVkYmgrBek5": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.KurL1KUdpZHmx8gV caption=false cite=false]</p>"
+        },
+        "SOHph3qZ95gOA8hV": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.jKG3UKFhSSTddw0V caption=false cite=false]</p>"
+        },
+        "RiT1NEQgicd7RIq3": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.WQGoDdnVErIqkGAO caption=false cite=false]</p>"
+        },
+        "26MzvlTvyhZQZA9E": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.OtoJI2FPcljr4ZwP caption=false cite=false]</p>"
+        },
+        "a0qXDRJYwHGpcNyv": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.zGExzJvx2QDVuQoa caption=false cite=false]</p>"
+        },
+        "57Sums8yZhP3HyXR": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.4extT2huH6sVDz0e caption=false cite=false]</p>"
+        },
+        "YOF2wbSl3Gz2Yqgr": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.sel6djRdSZ2JWfbu caption=false cite=false]</p>"
+        },
+        "mZPG6ry5z2yZjo19": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.YvrekFuRALETGLha caption=false cite=false]</p>"
+        },
+        "UAryWlPLQI1OLUYL": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.mJLP1CT91yz4xyEu caption=false cite=false]</p>"
+        },
+        "Uj0RUQiJCMTRQx6G": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.HydPiBGnzOhnhBzD caption=false cite=false]</p>"
+        },
+        "WCJpO2Ax28Sn0nRV": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.R5L6um5omcFuEuWI caption=false cite=false]</p>"
+        },
+        "j56A5TgnXqCESnmQ": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.5wEwqFMWNMwPC0Q7 caption=false cite=false]</p>"
+        },
+        "qAAmhAqRl4paDsHP": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.MpUCT6DJ5uFDZxN6 caption=false cite=false]</p>"
+        },
+        "cLf1ziSVzyBb3A0F": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.gqmqw9126FVmMnBl caption=false cite=false]</p>"
+        },
+        "RFkUTb2WYo22Ifr7": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.6B3D5AUPVUAOJ0NW caption=false cite=false]</p>"
+        },
+        "o573MhdOzj6991i9": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.Z3HUhn73b2jVcmOv caption=false cite=false]</p>"
+        },
+        "v3sJXYFq8Q3st159": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.z8gbsCGIC5Pv6W81 caption=false cite=false]</p>"
+        },
+        "bMGCYamYJe0CMCSd": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.NP8AdwONv9AOfKBH caption=false cite=false]</p>"
+        },
+        "36m41xymdOzPJlTK": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.5DabOzdl7JSybHjO caption=false cite=false]</p>"
+        },
+        "ClqEwrOGRaUsivVS": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.I4xpM9ttKs2m7uoy caption=false cite=false]</p>"
+        },
+        "Y0Pu0llAjQzH3xxU": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.X34rNnTXhucQTMnk caption=false cite=false]</p>"
+        },
+        "qvZBuM94M9r9ildZ": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.OxqSpXaXhMsdbZKf caption=false cite=false]</p>"
+        },
+        "Iye0h1rytYNATZGs": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.y0ElPDdmKlMxHYBI caption=false cite=false]</p>"
+        },
+        "oqQ8L43fiBuoJef2": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.ZqO1pcwA9oBbbnci caption=false cite=false]</p>"
+        },
+        "fPqbmgV33chnpYeZ": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.chw9vy8b5gpJLuL4 caption=false cite=false]</p>"
+        },
+        "557nCu7FBr46HzxD": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.86D9IgF7cPkXnnf5 caption=false cite=false]</p>"
+        }
+      }
+    },
+    "toaencMountains0": {
+      "name": "Montañas",
+      "results": {
+        "qKhRY8xlLvtYSK1j": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.NOZzGpneqLKGC6ce caption=false cite=false]</p>"
+        },
+        "RsaMK4coZAaPqJ7x": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.kcNFt99uaTAlXhsn caption=false cite=false]</p>"
+        },
+        "8up4RwFvu0zpaS0c": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.sl7IlZ50V7k70Wsc caption=false cite=false]</p>"
+        },
+        "b0QHOaVmKt5m4YlU": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.R63BxIRK2nBFntWc caption=false cite=false]</p>"
+        },
+        "cN2I2YiqoZcd8Ftb": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.yQOuZPU1fJFsHsU6 caption=false cite=false]</p>"
+        },
+        "94GubhQG4qYRwhKq": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.Lpishpigkf8xj8Yi caption=false cite=false]</p>"
+        },
+        "XW90ZxuQf7VwNORG": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.Fk6szog2v75aB1G6 caption=false cite=false]</p>"
+        },
+        "Zqv3UL42CWEnaKNE": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.huO9aIJsnNoYYm9E caption=false cite=false]</p>"
+        },
+        "0EPRMhTH0RPz8I21": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.2CLUp6FnnvK91vug caption=false cite=false]</p>"
+        },
+        "4Vs1BvOohrsNUI1S": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.w9R9nYllUpgbe8a7 caption=false cite=false]</p>"
+        },
+        "IRxzZh4Kkq2lODqY": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.qZB5LogHGOr5MCiX caption=false cite=false]</p>"
+        },
+        "qBfw7GgdDHsvgqU3": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.w0W4NqfwoIXFsq5o caption=false cite=false]</p>"
+        },
+        "Swp5TIN8tsgSnsiZ": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.cY0QF3h3q7i4lNNs caption=false cite=false]</p>"
+        },
+        "Z1fqHhPwhwAD1kDu": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.eTCOcgBzqJONs7CI caption=false cite=false]</p>"
+        },
+        "KiMrgNPZr1ILJIQt": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.Qk565ZlbBUjm3eyN caption=false cite=false]</p>"
+        },
+        "iX1sN97QgKYJeH9e": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.Bk0Ogx4dgFRrluA4 caption=false cite=false]</p>"
+        },
+        "WryCZkAoeba0uv7r": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.xAcMXaHOhG7pjtpR caption=false cite=false]</p>"
+        },
+        "bLLQGub8m4lzAmpH": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.5qhcJD3vXKT1ubSB caption=false cite=false]</p>"
+        },
+        "8K2tHckXJB5Nbs9a": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.u5Mz7RuyOYdKPO6S caption=false cite=false]</p>"
+        },
+        "CHBdNFFf25tAa5s9": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.PSwWy5QNtXOyNdNv caption=false cite=false]</p>"
+        },
+        "2lBquttBmh9kmUgE": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.KurL1KUdpZHmx8gV caption=false cite=false]</p>"
+        },
+        "PSbQaHhDVeq8d2cv": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.WQGoDdnVErIqkGAO caption=false cite=false]</p>"
+        },
+        "GbAZ9gzUiB00we6b": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.4extT2huH6sVDz0e caption=false cite=false]</p>"
+        },
+        "wojOz86imv9MhOJd": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.mJLP1CT91yz4xyEu caption=false cite=false]</p>"
+        },
+        "BR6LXYRXQEYcIpLB": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.R5L6um5omcFuEuWI caption=false cite=false]</p>"
+        },
+        "Ok4SD4v95xK3uSnl": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.cctGdu5DbVzE5Vbr caption=false cite=false]</p>"
+        },
+        "DNpMUavN1OCj5sDr": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.gqmqw9126FVmMnBl caption=false cite=false]</p>"
+        },
+        "rNAAPqdGpCX0lmy0": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.X34rNnTXhucQTMnk caption=false cite=false]</p>"
+        }
+      }
+    },
+    "toaencRivers0000": {
+      "name": "Ríos",
+      "results": {
+        "2KqVbKHvtqYNjSIX": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.NOZzGpneqLKGC6ce caption=false cite=false]</p>"
+        },
+        "0wwY6XwmQrYzS5Bx": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.EueyssZ14vfzWoI0 caption=false cite=false]</p>"
+        },
+        "3UIGqGMJbiws5OuL": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.nYaWMaTC90KIkJrz caption=false cite=false]</p>"
+        },
+        "fOWfjoDMHqYSX7jd": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.SC2qvQBIWpIVFaUs caption=false cite=false]</p>"
+        },
+        "8aE3t58tSKJYLYVD": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.yQOuZPU1fJFsHsU6 caption=false cite=false]</p>"
+        },
+        "BAocrLmIEIWcnexb": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.ICzRmHEG6xeUgknz caption=false cite=false]</p>"
+        },
+        "YfkmShIyrVCCXNK6": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.Lpishpigkf8xj8Yi caption=false cite=false]</p>"
+        },
+        "y6UFsP4yfo7PN6EG": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.I1pk8CtlNcGl0EHw caption=false cite=false]</p>"
+        },
+        "fjeMApn61buzqtaR": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.vZZLqeinZuWUoJmL caption=false cite=false]</p>"
+        },
+        "QzvXxBC0uX9NeXO7": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.PMvlEqa9C6iv5edf caption=false cite=false]</p>"
+        },
+        "kAxu6GSjAnSGH1g5": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.DiOYVDJ70NaufL4X caption=false cite=false]</p>"
+        },
+        "bwSZtLNz0l7mHeVZ": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.sfaT3WHBLwJfXeZC caption=false cite=false]</p>"
+        },
+        "loNFaY8bw1LJF7rW": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.huO9aIJsnNoYYm9E caption=false cite=false]</p>"
+        },
+        "xiGzyoVbsIw0ZFAE": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.2CLUp6FnnvK91vug caption=false cite=false]</p>"
+        },
+        "JEsc1ZybaYOBBKz9": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.nqtaFGPo887p5yiK caption=false cite=false]</p>"
+        },
+        "xSgTINHe26rNFDLC": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.IYHnSuMsA3R1vCo3 caption=false cite=false]</p>"
+        },
+        "gHgqWzjgPy7KHdA7": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.qZB5LogHGOr5MCiX caption=false cite=false]</p>"
+        },
+        "N0O2hxLylXJEaXWe": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.w0W4NqfwoIXFsq5o caption=false cite=false]</p>"
+        },
+        "zVLfr1xPXCol2JHG": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.cY0QF3h3q7i4lNNs caption=false cite=false]</p>"
+        },
+        "zoo2Q0h30yGMT7wA": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.UtIhUUaTudXiPyY7 caption=false cite=false]</p>"
+        },
+        "iMiJg7ug790l2upT": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.eTCOcgBzqJONs7CI caption=false cite=false]</p>"
+        },
+        "UjT0vUQV5NpN1D6R": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.Qk565ZlbBUjm3eyN caption=false cite=false]</p>"
+        },
+        "8P06IMgty7FCci9o": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.unqerc6yhloRoajR caption=false cite=false]</p>"
+        },
+        "JWuUxPyg0GwhP9KN": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.QoES6vSEMCmW60dn caption=false cite=false]</p>"
+        },
+        "R9jRRb0WRNw2Ta6r": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.z2kmxxMriOSuFToQ caption=false cite=false]</p>"
+        },
+        "edQuZcMQWeuA7srP": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.LthcZFEutG3QtnYI caption=false cite=false]</p>"
+        },
+        "TDDDJKkRVFxFBzzA": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.ncslqEvLGnaa8NTR caption=false cite=false]</p>"
+        },
+        "SR3mzehtcZni6U1b": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.fZbc352jSgQJqkSK caption=false cite=false]</p>"
+        },
+        "VIQJzDiYerimCtym": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.KurL1KUdpZHmx8gV caption=false cite=false]</p>"
+        },
+        "r57KuhRlVEPhdfS1": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.jKG3UKFhSSTddw0V caption=false cite=false]</p>"
+        },
+        "zytQZrtJ5iJUFo4w": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.WQGoDdnVErIqkGAO caption=false cite=false]</p>"
+        },
+        "W6NHQkJueeRBdAAi": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.xUJ3VoNZkbuf25Y4 caption=false cite=false]</p>"
+        },
+        "pxKicYlVFBDCn1P5": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.OtoJI2FPcljr4ZwP caption=false cite=false]</p>"
+        },
+        "c1KLpzUuvBbIHKkT": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.zGExzJvx2QDVuQoa caption=false cite=false]</p>"
+        },
+        "CgrTa4S1zVyhyoSl": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.YvrekFuRALETGLha caption=false cite=false]</p>"
+        },
+        "HOhjUGBeKLwqB0Nb": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.mJLP1CT91yz4xyEu caption=false cite=false]</p>"
+        },
+        "pxEfSw8EDb0dWNoW": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.5wEwqFMWNMwPC0Q7 caption=false cite=false]</p>"
+        },
+        "jMlvM5ebud9IcTnv": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.euvVYqLW2RuLoatH caption=false cite=false]</p>"
+        },
+        "IEgiCTaQVtYWfT7i": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.cctGdu5DbVzE5Vbr caption=false cite=false]</p>"
+        },
+        "nSYaJmQOuQPDXrPJ": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.6B3D5AUPVUAOJ0NW caption=false cite=false]</p>"
+        },
+        "xexk3I2POPQoqUwr": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.Z3HUhn73b2jVcmOv caption=false cite=false]</p>"
+        },
+        "bm1Mc9TL91dWJPo2": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.5DabOzdl7JSybHjO caption=false cite=false]</p>"
+        },
+        "VGOktP6rqga4r0Ev": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.chw9vy8b5gpJLuL4 caption=false cite=false]</p>"
+        },
+        "GAHRdxfKhxX477hs": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.f9Mp9H2MwxCz9WHH caption=false cite=false]</p>"
+        },
+        "EafcdHiniGH712iS": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.6RKWSJEHfgBLf1MF caption=false cite=false]</p>"
+        },
+        "ZEBKiEFLU5jkDvb1": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.5qhcJD3vXKT1ubSB caption=false cite=false]</p>"
+        }
+      }
+    },
+    "toaencRuins00000": {
+      "name": "Ruinas",
+      "results": {
+        "7WbB0jNMgdw0jlV2": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.kcNFt99uaTAlXhsn caption=false cite=false]</p>"
+        },
+        "ig9FaKlnwFWdxahC": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.p00iA5cyvluJ6uJo caption=false cite=false]</p>"
+        },
+        "8Rs4045GWD1eo1je": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.sl7IlZ50V7k70Wsc caption=false cite=false]</p>"
+        },
+        "AETK730MkYwxeyzr": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.nYaWMaTC90KIkJrz caption=false cite=false]</p>"
+        },
+        "kEuEN8y9mCPyMIvu": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.SC2qvQBIWpIVFaUs caption=false cite=false]</p>"
+        },
+        "QZCDsK1ZOzt0fDHc": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.R63BxIRK2nBFntWc caption=false cite=false]</p>"
+        },
+        "S18FZ7FaoNGUnKhN": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.yQOuZPU1fJFsHsU6 caption=false cite=false]</p>"
+        },
+        "7T2eNxFdhgaJbPPq": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.Lpishpigkf8xj8Yi caption=false cite=false]</p>"
+        },
+        "VeKjLSRpn0udvHBK": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.Fk6szog2v75aB1G6 caption=false cite=false]</p>"
+        },
+        "KiuVCd15FBmdfxRG": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.ZKmzrdg18krNA942 caption=false cite=false]</p>"
+        },
+        "Jfds5jJ4cJ9ptTr7": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.NK6864xzewpEOj94 caption=false cite=false]</p>"
+        },
+        "BJn3HMTynZe3rQe4": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.qZB5LogHGOr5MCiX caption=false cite=false]</p>"
+        },
+        "474ZutksEz4Db0bi": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.w0W4NqfwoIXFsq5o caption=false cite=false]</p>"
+        },
+        "upL50MkpVa2UZB2u": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.cY0QF3h3q7i4lNNs caption=false cite=false]</p>"
+        },
+        "B6niRr91uY2O487g": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.uK4SZtMPjJiX1Gch caption=false cite=false]</p>"
+        },
+        "SqJ1JJQxOC523nnu": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.UtIhUUaTudXiPyY7 caption=false cite=false]</p>"
+        },
+        "4SB1QV2eDrpMNDzy": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.eTCOcgBzqJONs7CI caption=false cite=false]</p>"
+        },
+        "BFBUYPXJSF17Qvp7": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.Qk565ZlbBUjm3eyN caption=false cite=false]</p>"
+        },
+        "Lk9FY0SmQinmBIMS": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.P5L8OyNEmNeeQAgF caption=false cite=false]</p>"
+        },
+        "9njwJXytHYowL3Zh": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.xAcMXaHOhG7pjtpR caption=false cite=false]</p>"
+        },
+        "kwi8rjskP4BhVxoZ": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.h8LPP5SczqaYDrw7 caption=false cite=false]</p>"
+        },
+        "nHnczbhb2HTwP5nO": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.5qhcJD3vXKT1ubSB caption=false cite=false]</p>"
+        },
+        "9ewJ3ABXGzNggCjy": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.u5Mz7RuyOYdKPO6S caption=false cite=false]</p>"
+        },
+        "kuy1GXe7KCG0cFZV": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.JKvV92kE2bs7YvVV caption=false cite=false]</p>"
+        },
+        "3wr8XEsq2SneQj3v": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.LthcZFEutG3QtnYI caption=false cite=false]</p>"
+        },
+        "4u6ABNSNGT9vKEAH": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.89ApCbtfbGW5KQLS caption=false cite=false]</p>"
+        },
+        "YWRlYDintR6dOU8d": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.ncslqEvLGnaa8NTR caption=false cite=false]</p>"
+        },
+        "cVL9Pbpb3TZ7GPC0": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.fZbc352jSgQJqkSK caption=false cite=false]</p>"
+        },
+        "zZg1dLT05Ak8dAUj": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.PSwWy5QNtXOyNdNv caption=false cite=false]</p>"
+        },
+        "ihtxKHh3BDGOKcW9": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.jKG3UKFhSSTddw0V caption=false cite=false]</p>"
+        },
+        "xUPaXidc1FMfiPTR": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.WQGoDdnVErIqkGAO caption=false cite=false]</p>"
+        },
+        "V517Gi1bcDgnb60D": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.4extT2huH6sVDz0e caption=false cite=false]</p>"
+        },
+        "D861cvaMe3GgZ6ck": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.sel6djRdSZ2JWfbu caption=false cite=false]</p>"
+        },
+        "ahayOfHYj22ZeTuX": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.YvrekFuRALETGLha caption=false cite=false]</p>"
+        },
+        "Na9hbUEbBRupoiNT": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.mJLP1CT91yz4xyEu caption=false cite=false]</p>"
+        },
+        "kpS4nQ2k7ddskdG4": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.R5L6um5omcFuEuWI caption=false cite=false]</p>"
+        },
+        "ZbUfYjIPrqWloAws": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.cctGdu5DbVzE5Vbr caption=false cite=false]</p>"
+        },
+        "IYJzS95SODb0ws4S": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.MpUCT6DJ5uFDZxN6 caption=false cite=false]</p>"
+        },
+        "yHCDZ4dKRC6lbjTo": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.gqmqw9126FVmMnBl caption=false cite=false]</p>"
+        },
+        "bmI1ooX4rqOlOKhR": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.6B3D5AUPVUAOJ0NW caption=false cite=false]</p>"
+        },
+        "QJZEbxp2pji6OTlC": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.Z3HUhn73b2jVcmOv caption=false cite=false]</p>"
+        },
+        "q7w8VMFrcV4M8umS": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.z8gbsCGIC5Pv6W81 caption=false cite=false]</p>"
+        },
+        "RlYFWOWMvajXkEOf": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.NP8AdwONv9AOfKBH caption=false cite=false]</p>"
+        },
+        "bjf48dzFQWKoUvDy": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.5DabOzdl7JSybHjO caption=false cite=false]</p>"
+        },
+        "UjHx5RScBabpnS1u": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.OxqSpXaXhMsdbZKf caption=false cite=false]</p>"
+        },
+        "gngjFvJXgEbGlhNF": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.y0ElPDdmKlMxHYBI caption=false cite=false]</p>"
+        },
+        "yKCiy1C0TZPomHHW": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.ZqO1pcwA9oBbbnci caption=false cite=false]</p>"
+        },
+        "P6bylVfdTjGAkBdz": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.chw9vy8b5gpJLuL4 caption=false cite=false]</p>"
+        },
+        "3VVhfSqJoKp3skRj": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.f9Mp9H2MwxCz9WHH caption=false cite=false]</p>"
+        }
+      }
+    },
+    "toaencSwamp00000": {
+      "name": "Pantano",
+      "results": {
+        "en3CBJdEwanQgBhG": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.EueyssZ14vfzWoI0 caption=false cite=false]</p>"
+        },
+        "KZWQNubOYWceWxGN": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.nYaWMaTC90KIkJrz caption=false cite=false]</p>"
+        },
+        "JH0QxxW86IIOA9sa": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.SC2qvQBIWpIVFaUs caption=false cite=false]</p>"
+        },
+        "64yLQiDoLbhYL8Cr": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.Lpishpigkf8xj8Yi caption=false cite=false]</p>"
+        },
+        "AokSc578XYXGSFdR": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.I1pk8CtlNcGl0EHw caption=false cite=false]</p>"
+        },
+        "it9YgSOmk68JmuSC": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.f7KoXG9EETkOFjWP caption=false cite=false]</p>"
+        },
+        "AUrbApyAaA7TzuYI": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.HB65zM1KbeAv7NUT caption=false cite=false]</p>"
+        },
+        "pY1xKc7sEhQvltJD": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.vZZLqeinZuWUoJmL caption=false cite=false]</p>"
+        },
+        "t2yT8ipIbqPaznL5": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.PMvlEqa9C6iv5edf caption=false cite=false]</p>"
+        },
+        "OdgMFFP5qAYNGEoG": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.DiOYVDJ70NaufL4X caption=false cite=false]</p>"
+        },
+        "bAmVXojqM9bHKd5V": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.huO9aIJsnNoYYm9E caption=false cite=false]</p>"
+        },
+        "ocDodno40ifWkhUS": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.IYHnSuMsA3R1vCo3 caption=false cite=false]</p>"
+        },
+        "harPGrxRZwFoJXlc": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.w0W4NqfwoIXFsq5o caption=false cite=false]</p>"
+        },
+        "KQbl7Bb1F5mAwEkz": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.cY0QF3h3q7i4lNNs caption=false cite=false]</p>"
+        },
+        "bwJVgiJKXV8rlNYo": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.uK4SZtMPjJiX1Gch caption=false cite=false]</p>"
+        },
+        "qbZHLnaJUv7CUl3k": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.Qk565ZlbBUjm3eyN caption=false cite=false]</p>"
+        },
+        "6SrqzJZC2hNf1ZZr": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.unqerc6yhloRoajR caption=false cite=false]</p>"
+        },
+        "Mvd0WpXLf0skGyHq": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.QoES6vSEMCmW60dn caption=false cite=false]</p>"
+        },
+        "zazA79CzfDtIDulV": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.xAcMXaHOhG7pjtpR caption=false cite=false]</p>"
+        },
+        "YMus04SLPdbvk3xZ": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.6RKWSJEHfgBLf1MF caption=false cite=false]</p>"
+        },
+        "s8gKc9UBIJbOMCob": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.5qhcJD3vXKT1ubSB caption=false cite=false]</p>"
+        },
+        "RByAkmV8IeCHMaVp": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.z2kmxxMriOSuFToQ caption=false cite=false]</p>"
+        },
+        "9jHs5kzACrqJIbFd": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.ncslqEvLGnaa8NTR caption=false cite=false]</p>"
+        },
+        "XKcvwkXSpqv0nbUs": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.fZbc352jSgQJqkSK caption=false cite=false]</p>"
+        },
+        "ylAQ39H6bH2BUSGy": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.JIo7zAnDDFlB1k4S caption=false cite=false]</p>"
+        },
+        "zDqUOw09krVbZktg": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.PSwWy5QNtXOyNdNv caption=false cite=false]</p>"
+        },
+        "FrAAZhh7qQm7mqqY": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.jKG3UKFhSSTddw0V caption=false cite=false]</p>"
+        },
+        "XhVvGiUFGCcvz0mW": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.FYgR5ic3WWcghkE6 caption=false cite=false]</p>"
+        },
+        "CmOSVLuMwRxLl7PC": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.OtoJI2FPcljr4ZwP caption=false cite=false]</p>"
+        },
+        "ATyRqZSW47aIoUTE": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.zGExzJvx2QDVuQoa caption=false cite=false]</p>"
+        },
+        "RImMiVnurrajxeiU": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.YvrekFuRALETGLha caption=false cite=false]</p>"
+        },
+        "J8GiwbjCd6humVAm": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.mJLP1CT91yz4xyEu caption=false cite=false]</p>"
+        },
+        "GWmv1FA90Qz5WUwE": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.R5L6um5omcFuEuWI caption=false cite=false]</p>"
+        },
+        "1Zj2SXQFkD3tmfsY": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.5wEwqFMWNMwPC0Q7 caption=false cite=false]</p>"
+        },
+        "9nHLpEV3dXjv6Ayc": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.6B3D5AUPVUAOJ0NW caption=false cite=false]</p>"
+        },
+        "owif7KAPwduwqgm4": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.Z3HUhn73b2jVcmOv caption=false cite=false]</p>"
+        },
+        "zAUyhTmcDYkAVFVH": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.5DabOzdl7JSybHjO caption=false cite=false]</p>"
+        },
+        "dapDizFvgXgbcy3v": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.ZqO1pcwA9oBbbnci caption=false cite=false]</p>"
+        },
+        "3e2vCHDvipGKS9Cv": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.chw9vy8b5gpJLuL4 caption=false cite=false]</p>"
+        }
+      }
+    },
+    "toaencWasteland0": {
+      "name": "Tierras baldías",
+      "results": {
+        "dNxU3N7IcK8uDhDr": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.nYaWMaTC90KIkJrz caption=false cite=false]</p>"
+        },
+        "5ctcW19HRvtgSjCh": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.yQOuZPU1fJFsHsU6 caption=false cite=false]</p>"
+        },
+        "bRuMFngg8gsgITqa": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.w9R9nYllUpgbe8a7 caption=false cite=false]</p>"
+        },
+        "nxdL3ujyeQkoPETT": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.w0W4NqfwoIXFsq5o caption=false cite=false]</p>"
+        },
+        "XARG9bG7IEW6Qfoq": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.cY0QF3h3q7i4lNNs caption=false cite=false]</p>"
+        },
+        "42j708VZvasCfMx6": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.xpfPr6xnpbz2KqRS caption=false cite=false]</p>"
+        },
+        "RcmFU6sNs6V6oPoC": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.h8LPP5SczqaYDrw7 caption=false cite=false]</p>"
+        },
+        "bHbPRp8xvFkahFGh": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.eQTpTe75eKb3f4f4 caption=false cite=false]</p>"
+        },
+        "sakGY8dT60W0vDbg": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.JIo7zAnDDFlB1k4S caption=false cite=false]</p>"
+        },
+        "pvLVLE9nySZuH8TD": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.PSwWy5QNtXOyNdNv caption=false cite=false]</p>"
+        },
+        "jfPBR8Q3h1JAER1i": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.YvrekFuRALETGLha caption=false cite=false]</p>"
+        },
+        "IgR2lU3UdHBh4lRx": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.gqmqw9126FVmMnBl caption=false cite=false]</p>"
+        },
+        "ZP8Jwl9qL9DxUYzG": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.6B3D5AUPVUAOJ0NW caption=false cite=false]</p>"
+        },
+        "40KCZY9AUmIdP3yS": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.Z3HUhn73b2jVcmOv caption=false cite=false]</p>"
+        },
+        "6X2vi6WGPe6B4BjS": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.NP8AdwONv9AOfKBH caption=false cite=false]</p>"
+        },
+        "0xRPsDMHzeFHlwTG": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.5DabOzdl7JSybHjO caption=false cite=false]</p>"
+        },
+        "ychWHnrZ25r0ExXo": {
+          "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.f9Mp9H2MwxCz9WHH caption=false cite=false]</p>"
+        }
+      }
+    }
+  }
 }
