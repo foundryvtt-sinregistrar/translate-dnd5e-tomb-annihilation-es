@@ -530,22 +530,22 @@
       "name": "Tareas de los trabajadores",
       "results": {
         "5qev9bIDiGTFK5rN": {
-          "description": "<p><strong>Trabajo</strong>: Muck fuera de la pluma de dinosaurio en @UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.YhkhTFh1r56C7hNb]{zona 2}. </p><p><strong>Desarrollo</strong>: El personaje aprende que Nahth (@UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.3km4oa3DrO3pBcBq]{zona 1}) es susceptible al soborno.</p>"
+          "description": "<p><strong>Tarea</strong>: Limpiar el estiércol del corral de dinosaurios de la @UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.YhkhTFh1r56C7hNb]{zona 2}.</p><p><strong>Desarrollo</strong>: El personaje descubre que Nahth (@UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.3km4oa3DrO3pBcBq]{zona 1}) acepta sobornos.</p>"
         },
         "5SZ64RpiJXxxoX4e": {
-          "description": "<p><strong>Trabajo</strong>: Ayudar a Azi Mas a reorganizar el contenido del almacén (@UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.riNQGMPil8ff5PZa]{zona 13}). </p><p><strong>Desarrollo</strong>: Azi Mas comparte sus sospechas de que Fenthaza está planeando un golpe de estado.</p>"
+          "description": "<p><strong>Tarea</strong>: Ayudar a Azi Mas a reorganizar el almacén (@UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.riNQGMPil8ff5PZa]{zona 13}).</p><p><strong>Desarrollo</strong>: Azi Mas comparte sus sospechas de que Fenthaza prepara un golpe de Estado.</p>"
         },
         "fohitJjqRCJyJPUR": {
-          "description": "<p><strong>Trabajo</strong>: Assist Xopal en la destilería venenosa (@UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.DEhBfZqITVxLswfx]{área 14}). </p><p><strong>Desarrollo</strong>: Xopal envía el personaje, sin escolta, para recoger hongos de @UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.R8t9f65pebYKa9Zy]{área 22}.</p>"
+          "description": "<p><strong>Tarea</strong>: Ayudar a Xopal en la destilería de veneno (@UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.DEhBfZqITVxLswfx]{zona 14}).</p><p><strong>Desarrollo</strong>: Xopal envía al personaje sin escolta a recoger hongos en la @UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.R8t9f65pebYKa9Zy]{zona 22}.</p>"
         },
         "TS2Ghy98qMLqrRp5": {
-          "description": "<p><strong>Trabajo</strong>: Limpiar el yuan-ti bañándose en @UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.AaMzcqaWOWQvks7j]{zona 16}. </p><p><strong>Desarrollo</strong>: El personaje se entera de que Fenthaza tuvo un sueño profético sobre la Corona del Opalo Negro, un tesoro que los yuan-ti creen que tiene el poder de dar paso a Dendar la Serpiente Nocturna.</p>"
+          "description": "<p><strong>Tarea</strong>: Frotar a los yuan-tis mientras se bañan en la @UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.AaMzcqaWOWQvks7j]{zona 16}.</p><p><strong>Desarrollo</strong>: El personaje descubre que Fenthaza tuvo un sueño profético sobre la Corona del Ópalo Negro, un tesoro al que los yuan-tis atribuyen el poder de liberar a Dendar, la Serpiente Nocturna.</p>"
         },
         "5yyynCtkABorqqUu": {
-          "description": "<p><strong>Trabajo</strong>: Limpiar los nidos de yuan-ti en @UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.jD1v2Vcm6kNlf1Zw]{zona 18}. </p><p><strong>Desarrollo</strong>: El personaje escucha un susurro yuan-ti a otro, en común, “Pluma blanca, máscara negra.” Ver @UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.eZ4g0Yd4iVIDNq8d]{zona 4} por el significado de estas palabras.</p>"
+          "description": "<p><strong>Tarea</strong>: Limpiar los cubiles yuan-tis de la @UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.jD1v2Vcm6kNlf1Zw]{zona 18}.</p><p><strong>Desarrollo</strong>: El personaje oye a un yuan-ti susurrar a otro en común: «Pluma blanca, máscara negra». Consulta la @UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.eZ4g0Yd4iVIDNq8d]{zona 4} para conocer el significado de estas palabras.</p>"
         },
         "97OaBBYjvg8tfOzb": {
-          "description": "<p><strong>Trabajo</strong>: Alimentar a un prisionero muerto a la hidra en @UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.YFldR87cmsBlywlk]{zona 21}. </p><p><strong>Desarrollo</strong>: Los personajes encuentran un pergamino doblado escondido en el prisionero muerto. Por un lado, lleva un crudo mapa del templo.</p>"
+          "description": "<p><strong>Tarea</strong>: Dar un prisionero muerto como alimento a la hidra de la @UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.YFldR87cmsBlywlk]{zona 21}.</p><p><strong>Desarrollo</strong>: Los personajes encuentran un trozo de pergamino doblado y oculto entre las pertenencias del muerto. En una cara hay un tosco mapa del templo.</p>"
         }
       }
     },
@@ -553,42 +553,42 @@
       "name": "Refuerzos del templo",
       "results": {
         "IF5Tr9b9XQI2uw1a": {
-          "description": "<p>[[/r 1d4]] @UUID[Actor.toaYuantiPureblo]{yuan-ti sangres puras} escoltando un tipo 3 @UUID[Actor.toaYuantiMal3000]{yuan-ti malison}.</p>"
+          "description": "<p>[[/r 1d4]] @UUID[Actor.toaYuantiPureblo]{yuan-tis purasangre} escoltan a un @UUID[Actor.toaYuantiMal3000]{corrupto yuan-ti} de tipo 3.</p>"
         },
         "caOhlYdCjOCH6AlB": {
-          "description": "<p>[[/r 1d4 + 1]] @UUID[Actor.toaYuantiPureblo]{yuan-ti sangres puras} escolta [[/r 2d4]] cautivos (@UUID[Actor.H6ajGPL3X6lzsQlc]{masculino} y @UUID[Actor.Sgu1aJ7w12VFLTTw]{hembras} Chultán común humano de cualquier alineación).</p>"
+          "description": "<p>[[/r 1d4 + 1]] @UUID[Actor.toaYuantiPureblo]{yuan-tis purasangre} escoltan a [[/r 2d4]] cautivos, plebeyos humanos chultanos de cualquier alineamiento (@UUID[Actor.H6ajGPL3X6lzsQlc]{hombres} y @UUID[Actor.Sgu1aJ7w12VFLTTw]{mujeres}).</p>"
         },
         "S8VLYSHtkbzrLr7p": {
-          "description": "<p>[[/r 2d4]] @UUID[Actor.toaYuantiPureblo]{yuan-ti sangres puras} regresar al templo de una expedición o patrulla.</p>"
+          "description": "<p>[[/r 2d4]] @UUID[Actor.toaYuantiPureblo]{yuan-tis purasangre} regresan al templo de una expedición o patrulla.</p>"
         },
         "wdJXo0xiI3irr5XD": {
-          "description": "<p>4 @UUID[Actor.toaYuanTiBroodgu]{Yuan-ti broodguards} (ver @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{Apéndice D}) que lleven un tipo 2 @UUID[Actor.toaYuantiMal2000]{yuan-ti malison} en una camada.</p>"
+          "description": "<p>4 @UUID[Actor.toaYuanTiBroodgu]{guardaestirpes yuan-tis} (consulta el @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{apéndice D}) llevan en una camilla a un @UUID[Actor.toaYuantiMal2000]{corrupto yuan-ti} de tipo 2.</p>"
         },
         "8p2Ws6PvcDBgUzrp": {
-          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.tables.RollTable.toaCh4YuantiMali]{Tipo Yuan-ti malison} regresando al templo.</p>"
+          "description": "<p>Un corrupto yuan-ti regresa al templo; determina su tipo con la tabla @UUID[Compendium.dnd-tomb-annihilation.tables.RollTable.toaCh4YuantiMali]{Tipo de corrupto yuan-ti que regresa}.</p>"
         },
         "KPz61OVMmXUrs5Jb": {
-          "description": "<p>1 @UUID[Actor.toaYuantiAbomina]{abominación yuan-ti} llegar al templo para desafiar @UUID[Actor.zwk4UdGbwhWumFqp]{Ras Nsi’s} liderazgo. Si @UUID[Actor.toaFenthaza00000]{Fenthaza} está viva, ella utiliza su influencia para organizar un enfrentamiento entre Ras Nsi y la abominación en el fane (@UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.jDapyFVU0c9UoIBn]{zona 9}). Si Fenthaza está incapacitado o muerto, la abominación acosa su camino a la sala del trono de Ras Nsi (@UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.levHlyIkCVBQVoEj]{área 11}), donde se mata.</p>"
+          "description": "<p>1 @UUID[Actor.toaYuantiAbomina]{abominación yuan-ti} llega al templo para desafiar el liderazgo de @UUID[Actor.zwk4UdGbwhWumFqp]{Ras Nsi}. Si @UUID[Actor.toaFenthaza00000]{Fenthaza} está viva, usa su influencia para organizar un enfrentamiento entre ambos en el Fano (@UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.jDapyFVU0c9UoIBn]{zona 9}). Si está incapacitada o muerta, la abominación se abre paso por la fuerza hasta la sala del trono de Ras Nsi (@UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.levHlyIkCVBQVoEj]{zona 11}), donde la matan.</p>"
         },
         "ZV5Xl3TlU1HPMaYl": {
-          "description": "<p>[[/r 2d4]] @UUID[Compendium.dnd5e.monsters.Actor.tYfQIxCJT0WaaKmc]{fanáticos del culto} (NE humanos y mujeres de etnias mixtas) buscando una audiencia con Ras Nsi, para prometer su devoción a Dendar la Serpiente Nocturna. Los fanáticos del culto traen tributo en forma de tesoro (reunión una vez en el tesoro: Desafío 0-4 tabla en el capítulo 7 de la <em>Guía del Dungeon Master</em>).</p>"
+          "description": "<p>[[/r 2d4]] @UUID[Compendium.dnd5e.monsters.Actor.tYfQIxCJT0WaaKmc]{sectarios fanáticos}, hombres y mujeres humanos de distintas etnias y alineamiento neutral malvado, buscan audiencia con Ras Nsi para jurar devoción a Dendar, la Serpiente Nocturna. Traen tesoros como tributo; tira una vez en la tabla Tesoro acumulado: Desafío 0–4 del capítulo 7 de la <em>Guía del Dungeon Master</em>.</p>"
         },
         "Z9mI61d4zAr5oX1B": {
-          "description": "<p>[[/r 2d6]] @UUID[Actor.ogAVSIzos9mQ3kqC]{guerreros tribales} (N hombres y mujeres humanos Chultan) entregando tributo a Ras Nsi. Este homenaje consiste en comida, bebida y tesoro (recorra una vez en el tesoro: Desafío 0-4 tabla en el capítulo 7 de la <em>Guía del Dungeon Master</em>).</p>"
+          "description": "<p>[[/r 2d6]] @UUID[Actor.ogAVSIzos9mQ3kqC]{guerreros tribales}, hombres y mujeres humanos chultanos de alineamiento neutral, entregan un tributo de comida, bebida y tesoros a Ras Nsi. Tira una vez en la tabla Tesoro acumulado: Desafío 0–4 del capítulo 7 de la <em>Guía del Dungeon Master</em>.</p>"
         }
       }
     },
     "toaCh4YuantiMali": {
-      "name": "Cantidad de yuan-tis malison que regresan",
+      "name": "Tipo de corrupto yuan-ti que regresa",
       "results": {
         "uBi5QwS0cbwd972a": {
-          "description": "<p>@UUID[Actor.toaYuantiMal2000]{Yuan-ti malison (tipo 1)}</p>"
+          "description": "<p>@UUID[Actor.toaYuantiMal2000]{Corrupto yuan-ti (tipo 1)}</p>"
         },
         "EAbhZAvy8sey6EAc": {
-          "description": "<p>@UUID[Actor.toaYuantiMal2000]{Yuan-ti malison (tipo 2)}</p>"
+          "description": "<p>@UUID[Actor.toaYuantiMal2000]{Corrupto yuan-ti (tipo 2)}</p>"
         },
         "w6prxBRvROPSRmvW": {
-          "description": "<p>@UUID[Actor.toaYuantiMal3000]{Yuan-ti malison (tipo 3)}</p>"
+          "description": "<p>@UUID[Actor.toaYuantiMal3000]{Corrupto yuan-ti (tipo 3)}</p>"
         }
       }
     },

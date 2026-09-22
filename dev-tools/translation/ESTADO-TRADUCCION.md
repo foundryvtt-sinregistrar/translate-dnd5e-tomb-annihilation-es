@@ -652,14 +652,27 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Auditorías técnica y editorial sin errores. Las tablas enlazadas no quedan
   revisadas por el texto que explica su uso.
 
+### ch4-tables — Tareas, refuerzos y tipo de corrupto
+
+- Revisadas tres tablas del compendio: diecisiete resultados y tres títulos,
+  con referencias físicas 113-114. No suman páginas de diario.
+- Conservadas las contraseñas, destinos y tiradas. En las tareas, el inglés
+  indica frotar a los yuan-tis que se bañan; el PDF habla de fregar los baños.
+  Se sigue el exportado. En los refuerzos se conserva que la abominación muere,
+  mientras que el PDF solo la da por derrotada.
+- Incidencia original: el resultado de tipo 1 de `toaCh4YuantiMali` enlaza a
+  `toaYuantiMal2000`, igual que el de tipo 2. Se conserva y requiere corrección
+  técnica contrastada con las fichas. El título se aclara como selección de tipo.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
 - 451 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y nueve
   del capítulo 4. No equivale a 451 páginas del PDF.
-- 992 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 992 campos distintos.
+- 1012 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1012 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
