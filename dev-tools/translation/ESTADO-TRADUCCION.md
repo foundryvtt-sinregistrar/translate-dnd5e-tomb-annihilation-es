@@ -733,21 +733,34 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - El fragmento `#chultan-names` conserva su destino original y queda pendiente
   de comprobación de navegación. Auditorías técnica y editorial sin errores.
 
+### ch4-caverns-01 a ch4-caverns-05 — Cubiles y cavernas
+
+- Revisados cinco textos y títulos con referencias físicas 124-125.
+- Conservados la prueba en grupo, los tiempos de llegada de la hidra y el
+  estado de los cautivos. Los túneles del río están sumergidos, no solo bajo tierra.
+- Eliminada una llave de cierre sobrante tras «commoners» en el alojamiento.
+  La referencia del limo verde corresponde al capítulo 5, según el exportado.
+- Completados los textos de ambos diarios principales del capítulo 4:
+  doce páginas introductorias y 25 de localizaciones. Las tres tablas de tareas,
+  refuerzos y tipos están revisadas; fichas, objetos, escenas y navegación,
+  incluidos los problemas anotados, mantienen su trabajo pendiente.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 474 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 479 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
-  localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 32
-  del capítulo 4. No equivale a 474 páginas del PDF.
-- 1058 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1058 campos distintos.
+  localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
+  del capítulo 4. No equivale a 479 páginas del PDF.
+- 1068 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1068 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
-  relacionadas, además de los capítulos 4-5, diarios complementarios y apéndices.
+  relacionadas, además del capítulo 5, diarios complementarios y apéndices.
 - Auditorías estáticas y editorial sin errores. No se han renovado las
   instantáneas de Babele ni realizado una importación completa de Adventure.
-- **La revisión del módulo continúa incompleta.** Sigue el capítulo 4, además
+- **La revisión del módulo continúa incompleta.** Sigue el capítulo 5, además
   de los documentos enlazados o insertados pendientes de los capítulos anteriores.
 - El informe v2 final solicitado queda pendiente hasta cerrar toda la revisión;
   este estado de avance no acredita una revisión completa ni la sustituye.
