@@ -642,14 +642,24 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   tablas y escenas enlazadas siguen teniendo una revisión independiente pendiente.
 - Auditorías técnica y editorial sin errores.
 
+### ch4-intrigue-01 a ch4-intrigue-09 — Intrigas y acceso al Fano
+
+- Revisados nueve textos y títulos con referencias físicas 112-113 y 115.
+- Corregido el resentimiento de Fenthaza: Ras Nsi conserva restos de humanidad;
+  el pasaje no se refiere a que esté obsesionado con peligros de su condición.
+- Conservados los plazos de interrogatorio y trabajo, las condiciones de
+  liberación, la transformación ofrecida y las consecuencias del golpe.
+- Auditorías técnica y editorial sin errores. Las tablas enlazadas no quedan
+  revisadas por el texto que explica su uso.
+
 ## Balance de revisión editorial
 
-- 442 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 451 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
-  localizaciones del capítulo 2, 49 de su índice y 88 del capítulo 3.
-  No equivale a 442 páginas del PDF.
-- 974 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 974 campos distintos.
+  localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y nueve
+  del capítulo 4. No equivale a 451 páginas del PDF.
+- 992 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 992 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
