@@ -95,6 +95,28 @@
           "status": "partially-reviewed-against-es-extraction-and-en-export"
         }
       ]
+    },
+    {
+      "id": "intro-04",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaIntroduction0.pages.YmJBk6SpQqatzqxa.text",
+          "scope": {
+            "type": "between-markers",
+            "sourceStartInclusive": "<h2>Adventure Summary</h2>",
+            "sourceEndExclusive": "<h2>Death Curse</h2>",
+            "translationStartInclusive": "<h2>Resumen de la aventura</h2>",
+            "translationEndExclusive": "<h2>Maldición de muerte</h2>"
+          },
+          "sourceSha256": "4db2a061d6877a1fbb28e1df0005770988832dc126db002e39c4e97079fbf521",
+          "translationSha256": "26f68fbef2870801096523547237f665dd983286cfe9fdc0b7354f3929475bc9",
+          "pdfEsPages": [
+            7
+          ],
+          "status": "partially-reviewed-against-es-extraction-and-en-export"
+        }
+      ]
     }
   ]
 }

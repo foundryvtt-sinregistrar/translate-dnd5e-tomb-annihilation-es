@@ -129,9 +129,29 @@ Commit de `intro-02`: `8b6bf18` — `Review Dramatis Personae names and descript
 - Auditoría de los 20.154 campos: cero ausencias y cero discrepancias de sintaxis,
   HTML o cifras. Comprobación visual en Foundry pendiente.
 
-Siguiente lote: «Resumen de la aventura» y el recuadro «¿Quién es Acererak?»
-dentro de «Dirigir la aventura». Después, revisar las reglas de la maldición de
-muerte, el avance de personajes y el inicio en niveles superiores.
+Commit de `intro-03`: `86041ba` — `Review adventure guidance and rules abbreviations`.
+
+### intro-04 — Resumen de la aventura y ¿Quién es Acererak?
+
+- Revisadas ambas secciones de `YmJBk6SpQqatzqxa`, desde «Resumen de la aventura»
+  hasta el final del recuadro sobre Acererak. El resto de la página no se modifica.
+- Referencias: extracción española de la página física 7 y original inglés de
+  Foundry. Se ha reconstruido el orden de lectura de las columnas con el original
+  inglés; no se ha realizado una comprobación visual del PDF en este lote.
+- Corregidos el recorrido por los capítulos, las pistas sobre Omu, los nombres de
+  informantes y embarcaciones, y el relato de Acererak, su filacteria y el atropal.
+  Se aplican Salysa, Zalkore, Yaya Pu’pu, Narval y Diosa Estelar en su contexto.
+- Conservados los 24 enlaces UUID en su orden original, los encabezados y el
+  recuadro `aside.notable`. No cambian cifras ni contenido mecánico.
+- Fragmento registrado en `editorial-review.json` con límites de inicio incluido
+  y final excluido, y en `reviewed-segments.json` como equivalencia parcial.
+- Auditoría de los 20.154 campos: cero ausencias y cero discrepancias de sintaxis,
+  HTML o cifras. La página continúa parcialmente revisada y queda pendiente su
+  comprobación visual en Foundry.
+
+Siguiente lote: «Maldición de muerte», incluidas sus reglas y las indicaciones
+específicas de Foundry. Después, «Picadora de carne», «Devorar almas» y las
+secciones restantes sobre personajes y ritmo de la aventura.
 
 ## Trabajo que sigue pendiente
 

@@ -44,6 +44,11 @@ términos generales; no todas sus entradas son citas del libro.
 | Brazen Pegasus | Pegaso Fresco | 5 |
 | Dragonfang | Colmillo de Dragón | 5 |
 | Ring of Winter | Anillo del Invierno | 5 |
+| Narwhal | Narval | 7 |
+| Star Goddess | Diosa Estelar | 7 |
+| Negative Plane | Plano Negativo | 7 |
+| demiplane | semiplano | 7 |
+| phylactery | filacteria | 7 |
 
 En `intro-02` se han comprobado visualmente las 48 filas de la página 5,
 incluidas las pronunciaciones. «Salida» → «Salysa» se aplica como nombre propio

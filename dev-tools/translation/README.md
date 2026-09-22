@@ -84,3 +84,7 @@ está revisado el fragmento anterior al marcador indicado, que queda excluido.
 Las huellas se calculan sobre ese fragmento, no sobre el campo completo. Las
 equivalencias parciales no se aplican con `apply_pilot.py`, que solo reemplaza
 campos completos por coincidencia exacta; deben incorporarse con su contexto.
+
+`scope.type = between-markers` delimita una sección interna: se incluye el
+marcador de inicio y se excluye el de final. Las huellas se calculan solo sobre
+esa sección. Los límites ingleses y españoles se registran por separado.
