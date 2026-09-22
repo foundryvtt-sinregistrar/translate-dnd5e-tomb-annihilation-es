@@ -13033,6 +13033,85 @@
           "status": "reviewed-against-es-extraction-and-en-export"
         }
       ]
+    },
+    {
+      "id": "ch5-history-spirits-01",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5TombOfTheN.pages.PsjBKMs29lUOQMT3.text",
+          "sourceSha256": "26e127c5f824a37bc86d7ec18ea003bdf3a3e65afaddf0bac26013ad2b4c68ad",
+          "translationSha256": "13295ddb872f1dada3ce08cb3afe2943b2893a161c5d83ccf14664701d54f33a",
+          "pdfEsPages": [
+            126
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5TombOfTheN.pages.PsjBKMs29lUOQMT3.name",
+          "sourceSha256": "2a76aaa4ecb1e8c099e09516686d893d35007c0795dc1c261b04ecf7927d75c3",
+          "translationSha256": "438c2b5f5898d56cb43098a5ed034a8cd354ef7fee81c2bf5cd910bb7988f2b0",
+          "pdfEsPages": [
+            126
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch5-history-spirits-02",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5TombOfTheN.pages.3gYW2bKJN1dtW4rl.text",
+          "sourceSha256": "8e2d88bad915e17a9c7b8e13b9e9d62ec44d5f9fe00858cac0ed3fbd056dfd73",
+          "translationSha256": "1c840dd223da74e4eea1d9ed6b6ca3e12e874bdf486b05d18f3c95e767b5a888",
+          "pdfEsPages": [
+            126,
+            127
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5TombOfTheN.pages.3gYW2bKJN1dtW4rl.name",
+          "sourceSha256": "2302a5914b6bd4ff9a218f059d2a326fa6675999a01eb91c55b26092e1e505d8",
+          "translationSha256": "bcd14031268156456c0a249587f60e86be3d3f4cbd403ba6ae5f88d47d2c366a",
+          "pdfEsPages": [
+            126,
+            127
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch5-history-spirits-03",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5TombOfTheN.pages.9akYJrIxRJGJdGAV.text",
+          "sourceSha256": "f1f35f2c8964e4c84a84bc49a119ad8892759b2056ec55028cdd98e134cef51a",
+          "translationSha256": "632136c59e27c44d0fb93c0c7ede8c42ac0591a9ed082384a0197da1357bc66c",
+          "pdfEsPages": [
+            130,
+            131
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5TombOfTheN.pages.9akYJrIxRJGJdGAV.name",
+          "sourceSha256": "f1c57f52f9774f51c7cb501ad871c0e851f6aa2be09a0bf24a69c795bb335fb5",
+          "translationSha256": "1468a460b72d97799b662be2d39769cf12724ebc2dcc3164119ae927e3d1b600",
+          "pdfEsPages": [
+            130,
+            131
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
     }
   ]
 }

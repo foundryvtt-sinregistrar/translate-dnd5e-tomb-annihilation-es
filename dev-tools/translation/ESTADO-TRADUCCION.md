@@ -746,14 +746,26 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   incluidos los problemas anotados, mantienen su trabajo pendiente.
 - Auditorías técnica y editorial sin errores.
 
+### ch5-history-spirits-01 a ch5-history-spirits-03 — Historia y dioses
+
+- Revisados tres textos y títulos con referencias físicas 126-127 y 130-131.
+- Conservados los nueve poderes, las condiciones de invisibilidad de Moa,
+  la pérdida de toda sintonía al salir Obo’laka y la duración del efecto de Wongo.
+- Aclaradas la permanencia de los espíritus en la tumba y la imposibilidad
+  de volver a ocupar al mismo anfitrión después de resistirlos o expulsarlos.
+- Normalizado NM para Nangnang. Acererak creó muertos vivientes y gólems de
+  carne, sin añadir la categoría «gólems muertos vivientes» del PDF.
+- Las cartas del apéndice F y los objetos vinculados siguen pendientes de
+  revisión coordinada. Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 479 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 482 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4. No equivale a 479 páginas del PDF.
-- 1068 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1068 campos distintos.
+  del capítulo 4 y tres del capítulo 5. No equivale a 482 páginas del PDF.
+- 1074 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1074 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
