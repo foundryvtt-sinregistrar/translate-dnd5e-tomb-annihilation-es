@@ -9918,6 +9918,512 @@
           "status": "reviewed-against-es-extraction-and-en-export"
         }
       ]
+    },
+    {
+      "id": "ch3-dwellers-11",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.MaeqQNoto6G5hwq2.text",
+          "sourceSha256": "9debc02a6f4796ba9f9e2bad34f1a23b4c7357d3e3950b4c0502e9e0e8e5a260",
+          "translationSha256": "5c9807d34b3602dc1c72a127fd7455dcfab3e9f3a391732c045568dd9d0ed3b6",
+          "pdfEsPages": [
+            94
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.MaeqQNoto6G5hwq2.name",
+          "sourceSha256": "442374b8b5d744d105e8a7886165300d3b7c658e26bb2c3fba47495f3de6ca15",
+          "translationSha256": "442374b8b5d744d105e8a7886165300d3b7c658e26bb2c3fba47495f3de6ca15",
+          "pdfEsPages": [
+            94
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch3-dwellers-12",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.CCO0qUfOqPuxu9TO.text",
+          "sourceSha256": "56143625a8492b68dc1b769bc44f632702a2f2458bf0c32ba45d8798c3c64085",
+          "translationSha256": "aa4928ca238a9c0cfc976f8589f32e079a439c3551e402c46f5f94ec27e2cb31",
+          "pdfEsPages": [
+            94
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.CCO0qUfOqPuxu9TO.name",
+          "sourceSha256": "93c6a52e5abee1b1ce97a96576030e6d84f5609f6b8e2ec75127920262ca93ad",
+          "translationSha256": "aca5b2e8162d01d45b27b7f4c1c1bdd28a20a2886a56b537f16e79d243955cd6",
+          "pdfEsPages": [
+            94
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch3-dwellers-13",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.4rsc2RwAKi6Z3PAd.text",
+          "sourceSha256": "88fa125030cf059f53d9553a47802696400cad00a2afeecda8d3c33cafbf7e23",
+          "translationSha256": "802d265b88f83cedd2e088eea4418c66ae762a65afb975406c61c003bb672060",
+          "pdfEsPages": [
+            94
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.4rsc2RwAKi6Z3PAd.name",
+          "sourceSha256": "4bb4b04651b23a05e8ff4302208434b58c6caf0e06600a289105b5891422b11d",
+          "translationSha256": "4bb4b04651b23a05e8ff4302208434b58c6caf0e06600a289105b5891422b11d",
+          "pdfEsPages": [
+            94
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch3-dwellers-14",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.7PU4K9LSWzvRRzSl.text",
+          "sourceSha256": "2416ec30ce67c35eb6cb68173c99a8fe5f5684bf4e4592997d5bda0fa30bb1ce",
+          "translationSha256": "141c26aaa8a4a6ca7dc74542051e00efe6e42e496580bab05301cafc6d10064d",
+          "pdfEsPages": [
+            94,
+            95
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.7PU4K9LSWzvRRzSl.name",
+          "sourceSha256": "ca5932df57c894cfb1c513593e2a17b9450f816a3b1226d70bb9cabb2170486f",
+          "translationSha256": "aa987f4ea057265fab34e4e0d26dc6953c9d47acbd787b01b03dd9b05c91c734",
+          "pdfEsPages": [
+            94,
+            95
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch3-dwellers-15",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.3WANjMewCguSeFhq.text",
+          "sourceSha256": "43d8112ec3aa8dc13744d1f356c13cfa8eadef4fc805182472bd3241e3df98ea",
+          "translationSha256": "e5f8347b185e53fcd66c575ec73a24621fe2acb5e871f9ba637291b43b207e25",
+          "pdfEsPages": [
+            95
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.3WANjMewCguSeFhq.name",
+          "sourceSha256": "6b2b2818c557671fac7546b3655c131759cfe2219a2c5caad59c1b382eddbe22",
+          "translationSha256": "28f14050eb60c4c62cd94c618bf7157d46a527db5e7ad387cafe5277019f395f",
+          "pdfEsPages": [
+            95
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch3-dwellers-16",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.Zr6Dx9h5SGcB1na2.text",
+          "sourceSha256": "103cbca8b15b6170a3a98e531db4d1a988ef08fb8527c19f2933de1a187e5eb7",
+          "translationSha256": "a9080337f13fad9d4a1f0bfa8aa94342b06191643e265932335a0e99435b76e7",
+          "pdfEsPages": [
+            95
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.Zr6Dx9h5SGcB1na2.name",
+          "sourceSha256": "134151e8b097da597851fa4f25bfcb8324252e7b4c9856f89bc3d45615d22222",
+          "translationSha256": "73a69fb51526f4c6a2a0d92ebe0b6c5c8b25deeb9b2a97cc8a7912f27ade4752",
+          "pdfEsPages": [
+            95
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch3-dwellers-17",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.0araqk4Ftj2YiQ8s.text",
+          "sourceSha256": "39b5feac02a16a2521996853a4e299268c52c1d98b33e3c3f7f5f90c4084074e",
+          "translationSha256": "7422520b8088284ddc45b2567037044e9ad39bf053fac4a08dc54d7b09c7afea",
+          "pdfEsPages": [
+            95
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.0araqk4Ftj2YiQ8s.name",
+          "sourceSha256": "566612d2287c43d98a19b37f661c92b6f054487fa5cdcd1802c3bad10fe0390e",
+          "translationSha256": "bb451681e332a1fff8a646293f399644659a9d7ef76f9053deb0b598ce353f03",
+          "pdfEsPages": [
+            95
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch3-dwellers-18",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.9zwKjOUQO9BPsAB5.text",
+          "sourceSha256": "3c4e6c4c699e981ce6470417524f26c244950855c763a130fd906ba2df3e13a9",
+          "translationSha256": "05ab6b2e64a597e29ec638e0525ceddf456a2492d62ceacd91c13138b55f9c07",
+          "pdfEsPages": [
+            95,
+            96
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.9zwKjOUQO9BPsAB5.name",
+          "sourceSha256": "8525453aa1fe6c9f04ffa3a2737e4f22a17fe703901dfa56bbdfe8115e98493c",
+          "translationSha256": "2609b3b5b095f9762ccfc32f858360220970fff54352bfa1ecb8d60b2482d9cb",
+          "pdfEsPages": [
+            95,
+            96
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch3-dwellers-19",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.MzX78HMmtMnJdoQN.text",
+          "sourceSha256": "570ccde74a123fc20eb5491023d92784c286640e7a72565901d33c81030f33e0",
+          "translationSha256": "1feea4255dc1da0c9e830c2ef9ad0855233b5e127db3e4b81ffc666c8ff23153",
+          "pdfEsPages": [
+            96
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.MzX78HMmtMnJdoQN.name",
+          "sourceSha256": "7c8dbf97bbbd5f3913a33a87e4799597d73f49c33597feeddefb5e2e64ce8fa2",
+          "translationSha256": "6ee0411f7746c5f8d740bc211f7d7e5539d3950da5c0fb38b07c235a8962c2f0",
+          "pdfEsPages": [
+            96
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch3-dwellers-20",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.WtwARqwOBYA3AuGc.text",
+          "sourceSha256": "109dafa4f78e6b929c0869035599b90e46afacaa756b3b091124c3c01ce6119f",
+          "translationSha256": "e74bc13d420beff363c846afe50e693442eb19a7b3a68a7fa0ad36ba95338dbf",
+          "pdfEsPages": [
+            96
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.WtwARqwOBYA3AuGc.name",
+          "sourceSha256": "3db65f8c2a7d1861b4bca37da3adec5aa7905931eb6faddbc595a35f75e6ca40",
+          "translationSha256": "9eaf9094772c230273729dc09e6afccf6a5690fca2c40453df8358f50de4ff01",
+          "pdfEsPages": [
+            96
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch3-dwellers-21",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.lcGSOOLRQ1bqYlzG.text",
+          "sourceSha256": "d048d65a9ecb0c0c8df1f4742536be9ce5f1c35d8a5efe0397424fa09992b815",
+          "translationSha256": "3e0b67c1beb26a49ab774a726799368a585a9b4c36ca827a24dff0bcf618a1f4",
+          "pdfEsPages": [
+            96
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.lcGSOOLRQ1bqYlzG.name",
+          "sourceSha256": "7d3b706a11e8a394e5c2d556fc096ab1cb732fcfdeea95be321e0e56dc421a86",
+          "translationSha256": "623bdfc6b17af74fd507870a325b6ae7184484cf9dc389c71a32707b9ffc04ac",
+          "pdfEsPages": [
+            96
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch3-dwellers-22",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.848UhwKYgATO0ub9.text",
+          "sourceSha256": "9a843dcfee885f49b6f5dbb63e9e14a881033191c277b78fac12dd54f125f08e",
+          "translationSha256": "5abb9dcbd403ec1b7902e29f07f3103e6708f6a971e4a2801e75ed41068b271b",
+          "pdfEsPages": [
+            96
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.848UhwKYgATO0ub9.name",
+          "sourceSha256": "96a062c11a6a1fbf0da1a2c0667a7d3f17518f1e7e2ba9a4b9898fbbbb8d007d",
+          "translationSha256": "899e88f3f50d4a913c4cdb4a6174d467cc931c310fb2222c2c11cc5d70e5acf0",
+          "pdfEsPages": [
+            96
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch3-dwellers-23",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.vqcH84rrgdpHCuF9.text",
+          "sourceSha256": "5ef1f6b2ed3ae3df3124c6a75e330508bc9c217d31a69862d19a1a4bea75860c",
+          "translationSha256": "991656b838c5223e444dc801ff42f27e785730edd3a7a33efca2140fca902d06",
+          "pdfEsPages": [
+            96
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.vqcH84rrgdpHCuF9.name",
+          "sourceSha256": "157c30ad6e34395c01a05a97dd44226df5de04f2097a69dbb3eada3b10e654a6",
+          "translationSha256": "de6c3325a6f765ee3a5e3fa53cfb68b389f7f09d6af5524cab4330986f0e3e0a",
+          "pdfEsPages": [
+            96
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch3-dwellers-24",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.j35jipa9nj2jQvQC.text",
+          "sourceSha256": "0c9fc942b2f0c658e7575b0a41248377f27675ff668b5d0024c7d5294ba8216d",
+          "translationSha256": "c96f8898ceb7108cfc543fd6a731473550569f16463602f9b655ee4b8eafb48c",
+          "pdfEsPages": [
+            96
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.j35jipa9nj2jQvQC.name",
+          "sourceSha256": "e5716be7dc8f1b2c1d03714bee1aa4a61e7da9c92f09481344840b8664343b85",
+          "translationSha256": "4e3073df19c94d595358b547ccc3cd9b8956c08472de9939542457c99c68a605",
+          "pdfEsPages": [
+            96
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch3-dwellers-25",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.jObcOiMGT2Xieoq1.text",
+          "sourceSha256": "44d935b6eb836607012ab5a36ccfb99607fbc00e041af45c98e93916a7f07269",
+          "translationSha256": "5628f732a59a591bb933d7856392682ff52a7fcdccd7c3619f7c8045a14d37e1",
+          "pdfEsPages": [
+            96
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.jObcOiMGT2Xieoq1.name",
+          "sourceSha256": "e24df5375486366fff87438a08c5861ba520bfb96501c93f4c319198eefe9bcc",
+          "translationSha256": "fbdf982308b1d13b19bc0c1e5069255f7fba4f3127dc2cce120c5be72174989c",
+          "pdfEsPages": [
+            96
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch3-dwellers-26",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.w7dmIQXCT9ITXsIF.text",
+          "sourceSha256": "688ed6bd427e7ed341be03e667c8aa5fd3f918a8fa202f20569462255083b30c",
+          "translationSha256": "a9e0eba5a1d7eca4fc11f8b0cb1232f4ca00ccacbbe15ed41fe8d2fe4a747731",
+          "pdfEsPages": [
+            96
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.w7dmIQXCT9ITXsIF.name",
+          "sourceSha256": "fbbbf4992fa5817c21497249ab1965d67e22c5486ad08d61373686821ea01e82",
+          "translationSha256": "491396846d09f7c837c4e512251ba866a525e9aa1b7af0bbe9a9c6a8b325ee37",
+          "pdfEsPages": [
+            96
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch3-dwellers-27",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.6KVa7lEvqo9BIWT8.text",
+          "sourceSha256": "cb0595953353defa085d04afdc5964378b66d7bae74127db0edd93d3ee924366",
+          "translationSha256": "de948295a05ea3ddd40ade2827243ab5323170d8c0364a9e0b71eadad0d89613",
+          "pdfEsPages": [
+            96
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.6KVa7lEvqo9BIWT8.name",
+          "sourceSha256": "93c6a52e5abee1b1ce97a96576030e6d84f5609f6b8e2ec75127920262ca93ad",
+          "translationSha256": "aca5b2e8162d01d45b27b7f4c1c1bdd28a20a2886a56b537f16e79d243955cd6",
+          "pdfEsPages": [
+            96
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch3-dwellers-28",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.xTX8uau1AHALTsxd.text",
+          "sourceSha256": "23df67a582f5d77db784a3b42b88d61ee54d6e56dfa11f4ec4a9932419fb445f",
+          "translationSha256": "46c5a0b069c7ad6b42ae5957da98abe60ec1cfcb820032e5506205d01e835dc8",
+          "pdfEsPages": [
+            96
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.xTX8uau1AHALTsxd.name",
+          "sourceSha256": "ad5d3e758ad4528e7da954136f23658eb71ec6bcab27553fa10c2fe839e00f22",
+          "translationSha256": "237c5d1b7aa4fe22472174d1e7d4a6fd38bfdd4924337b47c9c3bfcad491bb30",
+          "pdfEsPages": [
+            96
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch3-dwellers-29",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.1OW6XNY0uSshdsMP.text",
+          "sourceSha256": "6804d4d83c92a99c8afc1ec47392ed84780487740af223fdab8cdf241ce077ae",
+          "translationSha256": "a215bcb48365d31d5ceea49c9d3123d586f15309dfd0188d8f5fd27917207db7",
+          "pdfEsPages": [
+            92
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.1OW6XNY0uSshdsMP.name",
+          "sourceSha256": "17508cdfff6f451056255bf95367b94aa112bcef51c610c809b9b2a9b75cbd81",
+          "translationSha256": "7690d11a145b1532d607288bd939655a7d14236c372b9c0150ea67fe6480aee9",
+          "pdfEsPages": [
+            92
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch3-dwellers-30",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.Id6MYZ04e73YHo0D.text",
+          "sourceSha256": "176924f7180347070938c48c5ea3974b474bb36d977108bbaec3913106035f9a",
+          "translationSha256": "fdb5406b8bc23c11d90f7a0aa8f708df61b050c9968231e0192f86cd57dc23ee",
+          "pdfEsPages": [
+            92,
+            93
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh3DwellersOf.pages.Id6MYZ04e73YHo0D.name",
+          "sourceSha256": "67d2a3a245dee8005436a11af56cbd2a185844a0320db830a63d32788f31fa46",
+          "translationSha256": "d6a8f714a2259b29597137adf79af652d73e30c364a5d7912c4016962837f585",
+          "pdfEsPages": [
+            92,
+            93
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
     }
   ]
 }

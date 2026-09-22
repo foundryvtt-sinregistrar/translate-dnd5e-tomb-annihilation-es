@@ -547,14 +547,29 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   todo contacto en combate. Se distingue el destino del mundo del de Ras Nsi.
 - Auditorías técnica y editorial sin errores.
 
+### ch3-dwellers-11 a ch3-dwellers-30 — Facciones, cubos y exploración
+
+- Revisados veinte textos y títulos con referencias físicas 92-96. Con el
+  bloque histórico quedan revisadas las treinta páginas del diario de moradores.
+- Conservadas las probabilidades acumulativas de los cubos y las trampas,
+  los hitos de cinco y ocho cubos, la traición de Zagmira y las reglas de viaje.
+- Normalizados Linterna Sorda, Saco de Clavos, Campana de Cobre y Mustio.
+  Se mantiene «bruma azul» conforme a las reglas actuales del módulo.
+- Incidencia original: el enlace «zona 2» de Orvex en Magos Rojos apunta a
+  `1OW6XNY0uSshdsMP` (Llegada a la ciudad), no al recinto de la zona 2.
+  Destino conservado y pendiente de validación de navegación. Las tablas
+  insertadas conservan sus comandos, incluido `@embed` en minúsculas.
+- Auditorías técnica y editorial sin errores; tablas, fichas y ayudas
+  enlazadas no quedan acreditadas por revisar estos textos.
+
 ## Balance de revisión editorial
 
-- 364 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 384 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
-  localizaciones del capítulo 2, 49 de su índice y diez del capítulo 3.
-  No equivale a 364 páginas del PDF.
-- 818 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 818 campos distintos.
+  localizaciones del capítulo 2, 49 de su índice y treinta del capítulo 3.
+  No equivale a 384 páginas del PDF.
+- 858 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 858 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
