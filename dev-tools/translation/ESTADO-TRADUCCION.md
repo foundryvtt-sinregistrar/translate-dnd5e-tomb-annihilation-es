@@ -576,14 +576,25 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   validación de navegación en Foundry.
 - Auditorías técnica y editorial sin errores.
 
+### ch3-moa-01 a ch3-moa-07 — Gran sima y santuario de Moa
+
+- Revisados siete textos y títulos con referencias físicas 102-103.
+- Conservados los efectos distintos de los tres cubos, el desbloqueo de los
+  pozos y las inmunidades de los arqueros frente a ataques no mágicos.
+- El exportado enlaza las aspilleras solo con 6D, mientras el PDF menciona
+  6D y 6E. Se conserva el enlace original; requiere cotejo con el mapa.
+- La instrucción de activar escena enlaza a la propia página del santuario
+  `Jw1lIRKd64l8qcab`; queda pendiente de validación en Foundry.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 396 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 403 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
-  localizaciones del capítulo 2, 49 de su índice y 42 del capítulo 3.
-  No equivale a 396 páginas del PDF.
-- 882 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 882 campos distintos.
+  localizaciones del capítulo 2, 49 de su índice y 49 del capítulo 3.
+  No equivale a 403 páginas del PDF.
+- 896 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 896 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
