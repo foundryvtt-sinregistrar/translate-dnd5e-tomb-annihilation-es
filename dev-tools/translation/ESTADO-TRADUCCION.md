@@ -149,9 +149,35 @@ Commit de `intro-03`: `86041ba` — `Review adventure guidance and rules abbrevi
   HTML o cifras. La página continúa parcialmente revisada y queda pendiente su
   comprobación visual en Foundry.
 
-Siguiente lote: «Maldición de muerte», incluidas sus reglas y las indicaciones
-específicas de Foundry. Después, «Picadora de carne», «Devorar almas» y las
-secciones restantes sobre personajes y ritmo de la aventura.
+Commit de `intro-04`: `91c81ab` — `Review adventure summary and Acererak background`.
+
+### intro-05 — Final de Dirigir la aventura
+
+- Revisado todo el texto restante: maldición de muerte, picadora de carne,
+  devorar almas, personajes de repuesto, cuenta atrás, avance y niveles superiores.
+- Referencias españolas: páginas físicas 7-9. Se conserva lo revisado en los
+  lotes anteriores (páginas 6-7); el registro incluye ahora la huella completa
+  de la página de Foundry, además de las huellas históricas de sus fragmentos.
+- Revisadas las condiciones y negaciones, la reducción diaria de puntos de golpe,
+  los resultados de d20, los umbrales de salvación y la tabla de niveles y PX.
+- Los dos avisos exclusivos de Foundry se traducen desde el original inglés.
+  Conservados sus destinos, iconos y clases, y los 22 UUID del bloque nuevo.
+
+### intro-06 — Empezar la aventura
+
+- Revisada la página completa con las referencias de las páginas físicas 9-11:
+  presentación de Syndra, diálogo, recompensa, mapa, teletransporte y 15 ganchos.
+- Conservados 79 puntos de golpe, pérdida diaria de 1, límite de 0, anticipo
+  de 50 po por personaje, rarezas y los diez enlaces originales.
+- Se preservan los añadidos y omisiones de Foundry respecto del texto impreso,
+  sin añadir referencias a páginas o mapas físicos que no aparecen en el original.
+- Auditoría estática sin errores. `audit_editorial.py` comprueba las huellas
+  tanto del original inglés como de la traducción, incluidos los lotes parciales.
+- Los seis textos del diario de introducción tienen revisión lingüística;
+  sigue pendiente la comprobación visual en Foundry y la portada es un recurso
+  gráfico cuyo texto integrado no se ha traducido.
+
+Siguiente bloque en curso: capítulo 1, Puerto Nyanzaru.
 
 ## Trabajo que sigue pendiente
 

@@ -117,6 +117,54 @@
           "status": "partially-reviewed-against-es-extraction-and-en-export"
         }
       ]
+    },
+    {
+      "id": "intro-05",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaIntroduction0.pages.YmJBk6SpQqatzqxa.text",
+          "sourceSha256": "3c7efda59eedf27cfb3d31a079df53f91ff008bc2fd61dd8acfd84334a46fd39",
+          "translationSha256": "7610aed6d19a2c81208676ba0dc9f7d2e2981dacd0e5e477b7411c71adda006a",
+          "pdfEsPages": [
+            6,
+            7,
+            8,
+            9
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        }
+      ]
+    },
+    {
+      "id": "intro-06",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaIntroduction0.pages.KghmGbHNrWqa1FVa.text",
+          "sourceSha256": "0ebd12ec8b95c72d8b23c59ea2301953b18bf2d956d043a519890173e91f0f8d",
+          "translationSha256": "2be4339e91e777fd46aeaefa2a3f1ebb140f8d73acf171ebe344d6c6a076a706",
+          "pdfEsPages": [
+            9,
+            10,
+            11
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaIntroduction0.pages.KghmGbHNrWqa1FVa.name",
+          "sourceSha256": "41c65d9c4d844442e607f08a97e344f5eee9b4f3059e447c2ff9ec9083030e43",
+          "translationSha256": "2ce7dfcf2de5d7b7d95a881a7ea660ec8dbf546fbb533b0c71a3695e4d64c1c1",
+          "pdfEsPages": [
+            9,
+            10,
+            11
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
     }
   ]
 }

@@ -11,6 +11,7 @@ python dev-tools/translation/reuse_verified.py
 python dev-tools/translation/apply_pilot.py
 python dev-tools/translation/configure_mappings.py
 python dev-tools/translation/audit_translation.py
+python dev-tools/translation/audit_editorial.py
 ```
 
 El generador usa el modelo local OPUS-MT EN/ES y CTranslate2 del módulo vecino
