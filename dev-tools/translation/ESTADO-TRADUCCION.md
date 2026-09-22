@@ -665,14 +665,26 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   técnica contrastada con las fichas. El título se aclara como selección de tipo.
 - Auditorías técnica y editorial sin errores.
 
+### ch4-roster-01 a ch4-roster-03 — Registro del templo y páginas de tablas
+
+- Revisado el registro completo con referencia física 114: efectivos,
+  movimientos, refuerzos y reacciones al gong, conservando sus 53 enlaces.
+- Normalizado guardaestirpes; los gules que permanecen en el trono no son
+  «demonios». La hidra exige recibir comida cuando acude al bote.
+- Revisados los títulos de las dos páginas que insertan las tablas ya revisadas.
+  Sus parámetros `resultLabel` siguen en inglés dentro del comando original;
+  quedan pendientes de localización técnica y comprobación visual.
+- Completadas las doce páginas del diario introductorio del capítulo 4.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 451 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 454 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
-  localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y nueve
-  del capítulo 4. No equivale a 451 páginas del PDF.
-- 1012 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1012 campos distintos.
+  localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y doce
+  del capítulo 4. No equivale a 454 páginas del PDF.
+- 1018 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1018 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
