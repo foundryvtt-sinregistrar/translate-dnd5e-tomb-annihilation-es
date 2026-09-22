@@ -690,14 +690,29 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   al encabezado traducido. Automatismos de teletransporte y gas no probados.
 - Auditorías técnica y editorial sin errores.
 
+### ch4-prisoners-01 a ch4-prisoners-04 — Sacerdotisas y cautivos
+
+- Revisados cuatro textos y títulos con referencias físicas 118-120.
+- Conservadas las reglas actuales del oráculo, sin añadir la locura del PDF,
+  y la fiebre de bruma azul de Sev. Normalizado Tesela y mantenida Salysa.
+- La lista original anuncia diez cautivos pero contiene nueve: se presenta
+  como ejemplos sin inventar un décimo. Cerrada la llave del rótulo de cansancio
+  de Kanush, ausente en el exportado, conservando el comando de referencia.
+- «Slapped in chains» significa encadenar: no se añaden las bofetadas del PDF.
+  Los cráneos también dejan de cantar cuando termina el combate.
+- Pendientes de navegación: el vínculo a Sekelok remite a zona 12 aunque
+  figura en la 11; el fragmento `#prisoners-of-the-yuan-ti` debe comprobarse
+  con el encabezado español. Los perfiles enlazados no quedan acreditados.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 461 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 465 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
-  localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 19
-  del capítulo 4. No equivale a 461 páginas del PDF.
-- 1032 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1032 campos distintos.
+  localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 23
+  del capítulo 4. No equivale a 465 páginas del PDF.
+- 1040 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1040 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
