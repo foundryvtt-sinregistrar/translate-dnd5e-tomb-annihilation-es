@@ -297,13 +297,23 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   es otra incoherencia del original, no una traducción validada de esos comentarios.
 - Auditorías técnica y editorial sin errores introducidos por la traducción.
 
+### ch2-vengeance-01 a ch2-vengeance-09 — Campamento Venganza
+
+- Revisadas las nueve páginas y sus títulos con referencias físicas 48-50:
+  guarnición, suministros, puerta, atalayas, enfermería, mando, tiendas y letrinas.
+- Corregidos funciones de los oficiales, coberturas y condiciones de las órdenes
+  de Breakbone. La enfermedad se denomina «fiebre de la bruma azul» como en las
+  reglas de viaje revisadas. Se conservan efectivos, plazos, pruebas y destinos.
+- Auditorías técnica y editorial sin errores. Las fichas de los PNJ y la escena
+  no quedan acreditadas como revisadas por la revisión de este diario.
+
 ## Balance de revisión editorial
 
-- 138 páginas de texto revisadas: seis de la introducción, cien de los cuatro
-  diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje y veinte de
-  localizaciones del capítulo 2. No equivale a 138 páginas del PDF.
-- 356 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 356 campos distintos.
+- 147 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+  diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje y veintinueve
+  de localizaciones del capítulo 2. No equivale a 147 páginas del PDF.
+- 374 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 374 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
