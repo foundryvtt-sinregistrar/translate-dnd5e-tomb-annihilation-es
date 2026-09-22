@@ -536,13 +536,25 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   enlazados, escenas y reglas adicionales conservan su estado independiente.
 - Auditorías técnica y editorial sin errores.
 
+### ch3-history-01 a ch3-history-10 — Historia y leyenda de Omu
+
+- Revisados diez textos y títulos con referencias físicas 92-94: introducción,
+  historia, caída, ascensión de Ras Nsi, leyenda y primeras facciones.
+- Se conservan cronología, rivalidades, condiciones de traducción del omuense
+  y emboscada de Salysa. Normalizados ranamot, sucarate, caracol flagelo,
+  corrupto yuan-ti y los nombres de los nueve dioses.
+- «Lidiar con» los habitantes conserva el alcance del inglés, sin convertir
+  todo contacto en combate. Se distingue el destino del mundo del de Ras Nsi.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 354 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 364 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
-  localizaciones del capítulo 2 y 49 de su índice. No equivale a 354 páginas del PDF.
-- 798 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 798 campos distintos.
+  localizaciones del capítulo 2, 49 de su índice y diez del capítulo 3.
+  No equivale a 364 páginas del PDF.
+- 818 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 818 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
