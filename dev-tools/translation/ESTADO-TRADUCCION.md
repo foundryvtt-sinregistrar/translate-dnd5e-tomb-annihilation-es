@@ -348,21 +348,41 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   Fahrenheit sin introducir la conversión métrica del PDF.
 - Auditorías técnica y editorial sin errores.
 
+### ch2-beluarian-01 a ch2-beluarian-21 — Fuerte Beluarian
+
+- Revisados los 21 textos y títulos del diario con referencias físicas 61-65:
+  Liara, guarnición, permisos, tres misiones, comercio y todas las dependencias.
+- Conservados los 50 po del permiso, el reparto de ganancias, las recompensas,
+  los recargos comerciales y las condiciones de cada misión. Se corrigen a una
+  docena los comerciantes del bazar según el inglés, frente a media docena del PDF.
+- Diferenciadas las doce ocasiones diarias en que se toca la campana del número
+  de campanadas de cada turno. Se reparan paréntesis mal colocados en etiquetas
+  visibles, manteniendo los UUID y comandos originales.
+- Incidencia original pendiente: el enlace a «Agentes del Puño Ardiente» desde
+  el salón apunta a la página del campo de justas (`fvechDnR8pzjwGbc`), aunque el
+  recuadro está en la introducción (`HWmjK7tPH3WrZzrg`). Se conserva el destino
+  original en esta revisión; debe resolverse en la validación de navegación.
+- Auditorías técnica y editorial sin errores introducidos por la traducción.
+
 ## Balance de revisión editorial
 
-- 182 páginas de texto revisadas: seis de la introducción, cien de los cuatro
-  diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje y sesenta y
-  cuatro de localizaciones del capítulo 2. No equivale a 182 páginas del PDF.
-- 454 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 454 campos distintos.
+- 203 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+  diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje y ochenta y
+  cinco de localizaciones del capítulo 2. No equivale a 203 páginas del PDF.
+- 496 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 496 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
   relacionadas, además de los capítulos 2-5 y los apéndices.
 - Auditorías estáticas y editorial sin errores. No se han renovado las
   instantáneas de Babele ni realizado una importación completa de Adventure.
-- **La revisión del módulo continúa incompleta.** El siguiente trabajo es revisar
-  los contenidos insertados del capítulo 1 y seguir con el capítulo 2.
+- **La revisión del módulo continúa incompleta.** Continúa el capítulo 2 con
+  Corazón de Ubtao, Hrakhamar, Hvalspyd, Fondeadero de Jahaka, Kir Sabal, Mbala,
+  Mezro, Nangalore, Huesos de Aguja, Orolunga, Bahía Tortuga Mordedora, Narval,
+  Vorn y Yellyark, además de los diarios de Mina Wyrmheart y Diosa Estelar.
+- El informe v2 final solicitado queda pendiente hasta cerrar toda la revisión;
+  este estado de avance no acredita una revisión completa ni la sustituye.
 
 ## Trabajo que sigue pendiente
 

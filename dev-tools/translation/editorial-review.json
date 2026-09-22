@@ -5467,6 +5467,535 @@
           "status": "reviewed-against-es-extraction-and-en-export"
         }
       ]
+    },
+    {
+      "id": "ch2-beluarian-01",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.HWmjK7tPH3WrZzrg.text",
+          "sourceSha256": "fc1736f4d3621c6625031612add5d2f58c3848a28140793b61d41950dcb91187",
+          "translationSha256": "340ab42f2e239c3497a77984f33679aed8f2c4c79c34dd8d75a24500b3c7ad3d",
+          "pdfEsPages": [
+            61,
+            62,
+            63
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.HWmjK7tPH3WrZzrg.name",
+          "sourceSha256": "49d75d51c5dc77a8e0e9f2e8c79693e6380a5500cc0c8c0facdc2204ea190deb",
+          "translationSha256": "a4d87da4d286f19da17bdbb3bc20d389ab77e0094dcf7d7d880d22550b255a84",
+          "pdfEsPages": [
+            61,
+            62,
+            63
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-beluarian-02",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.qqcbSIbiS2bSd5iF.text",
+          "sourceSha256": "859b97f9821342453f4a0dbe4543bf780c3b054b544a02a768d968159054853b",
+          "translationSha256": "eaf32ee8a85cd8857d54f680d88e80e4347819266c8ff2cfbdf09dbbbc544ff0",
+          "pdfEsPages": [
+            63
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.qqcbSIbiS2bSd5iF.name",
+          "sourceSha256": "3d1e4ca22d4a450758f1ccd687466520f5652db79cfa92efdad19672a3ddf81a",
+          "translationSha256": "d37e8513bb8eb3758acf1e2ad7e791592ef1f1fbb664c72f59f349573d965bfd",
+          "pdfEsPages": [
+            63
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-beluarian-03",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.AkvAbs9SHwgJ1nQe.text",
+          "sourceSha256": "7535a044c63a5dfac6ea893959e9361264f55f826b3b9edec4020194e4b68d20",
+          "translationSha256": "110132ab9b1307224c97deceb9c784505aadcd97e959bff09d8681b1a5eebf4b",
+          "pdfEsPages": [
+            63
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.AkvAbs9SHwgJ1nQe.name",
+          "sourceSha256": "65c5280400759581f283e916c05a39edf00cb08021f2599e4982ce1e99471976",
+          "translationSha256": "160b0d470101353a01e86a1c23c8262f7ac91698959b0afc387cbc1c97401c53",
+          "pdfEsPages": [
+            63
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-beluarian-04",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.Q0wEs0hE8wqXwwgx.text",
+          "sourceSha256": "18b5e5a4826c2b0b1483893d479b7fdfaf80d267d31b4164925dbfba32e7d926",
+          "translationSha256": "53502b5ae4f448b030d5c0d8746d35bf896678f48fa85d69ccc72d11997e7934",
+          "pdfEsPages": [
+            63
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.Q0wEs0hE8wqXwwgx.name",
+          "sourceSha256": "8a8d75e85db23c833d0588f87fcac8f13704fc7bb27af7f560b9a73c10165582",
+          "translationSha256": "8320a69db9f36d377de193ad5d829830619b4f06873f26da35d031cd129990a3",
+          "pdfEsPages": [
+            63
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-beluarian-05",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.a4tFluZNSXeo1mIU.text",
+          "sourceSha256": "84d37ee56671f702f217b8edeac365903c0482ff35d0db2225bb371621787375",
+          "translationSha256": "20d844a699d989235e5c00fdb039750e1e2877b7b430e31f0dc44b901e6df4c3",
+          "pdfEsPages": [
+            63
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.a4tFluZNSXeo1mIU.name",
+          "sourceSha256": "4e6b8f6a7f14abf9bc84233bb1d6bc15a5de9d3bf8f691b76a49e8221b14073c",
+          "translationSha256": "c2d701d54cfb85c249de85dd05a8291a07a7e06028c68aadf3c6ce353e9c4b50",
+          "pdfEsPages": [
+            63
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-beluarian-06",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.0bXalpyCQ9LCNn6U.text",
+          "sourceSha256": "2eee3c7e81e50285a6acb56c2f37dc81bb6868a4e4367af2394af2cc64edf5f9",
+          "translationSha256": "574fde4700808054f86a1a029fc847a8b51eb765830d7e68068108c15551a62c",
+          "pdfEsPages": [
+            63
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.0bXalpyCQ9LCNn6U.name",
+          "sourceSha256": "84ca4de4b18892db88b17f2be9d3cf526a5144646345c7c10cbb2dd26a9258a9",
+          "translationSha256": "ab73286a092ea5fa0e4f6113b0615848c8bb5c8e02f53b04e63bf37243d23648",
+          "pdfEsPages": [
+            63
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-beluarian-07",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.GmrJwP7dkLsqTaB0.text",
+          "sourceSha256": "23003f571c6da9f6921be6de6a32b838b6d38e1f1cfa3906e72c1e80b53b83e7",
+          "translationSha256": "97d163dc6a24a35f5f5b7fbda3a1592d1782ca7b78f37a93d7d51367b31a14a1",
+          "pdfEsPages": [
+            64
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.GmrJwP7dkLsqTaB0.name",
+          "sourceSha256": "45d8973c1fb52fb0ac1e582867038e9a915a2f6db340a74fd06ce54655171a88",
+          "translationSha256": "960bc6919a4c47d6321a027abbe075c0c0a88641c922e9d54a96825dc41949e6",
+          "pdfEsPages": [
+            64
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-beluarian-08",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.fvechDnR8pzjwGbc.text",
+          "sourceSha256": "7f171b95a02977944b42e2e8b32e231d00d707eb2f90eb7a838a0f6e99b09db2",
+          "translationSha256": "8be4ed412884a2b21abb30749a9d9583a4c678d230464245364dd475442060e3",
+          "pdfEsPages": [
+            64
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.fvechDnR8pzjwGbc.name",
+          "sourceSha256": "e54544fa8547c1a7d958dbbe4cf87c85f9a9a97d7dd08061145b9142155fc286",
+          "translationSha256": "e49baa9014d5d031d5b62585e152b867aefb6386d0b6f38a85fadd9dbe1becfe",
+          "pdfEsPages": [
+            64
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-beluarian-09",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.7Gzv1Nweh1sKExK1.text",
+          "sourceSha256": "d1e744cf313f412efd611fa97ec40ea44442d80829061f6048603f430e98b67a",
+          "translationSha256": "4743b2408166678ca70b0d60971dc443380160f4e60be638ed0ee194e79f6c7c",
+          "pdfEsPages": [
+            64
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.7Gzv1Nweh1sKExK1.name",
+          "sourceSha256": "d69c783b9d8000e8ff96b04740d67c2faaa9b79f7de08e71dc5aac5a95eeda96",
+          "translationSha256": "4568bcf441972bad168db70ed78a8ba047c749cf6fb62ca4b5577639bd23b3ea",
+          "pdfEsPages": [
+            64
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-beluarian-10",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.4DW9RPfVFZlqytPy.text",
+          "sourceSha256": "115846c6a5b4c1dd18302028eaaa0c289bd3a2529848290bafd694853899d3ed",
+          "translationSha256": "b53debbd42e167efdc828e34ee4b2473cdf81e3141ff7559bb1c03761d3f086d",
+          "pdfEsPages": [
+            64
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.4DW9RPfVFZlqytPy.name",
+          "sourceSha256": "6656566a8e0c08d474b58bae5755389b85f8015affa80da4b1cb7ae5faf1dfd3",
+          "translationSha256": "bbd2bb15f97ad207bac622f51cf63f40f053655becf1386db1998c672cbb5c8b",
+          "pdfEsPages": [
+            64
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-beluarian-11",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.9pGvHtTX39usio0k.text",
+          "sourceSha256": "4aba8971ecda5be72e6e0db19f8f4efc287ae1ac0cfe5fb33db5ba8aceb18d74",
+          "translationSha256": "c059ff6043346fa51cd6807578ac59397347099467c2d7dda8fd8c4f7d57bb0f",
+          "pdfEsPages": [
+            64
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.9pGvHtTX39usio0k.name",
+          "sourceSha256": "dd47e8d3aa9414285cfbd4244542c589f3fd64499655826e908ec6e1dd7f2e42",
+          "translationSha256": "87b24cc798a865eea70fd720d751c6a836ec16c839e3dbb8fcb64572a1f813a8",
+          "pdfEsPages": [
+            64
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-beluarian-12",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.pfUssQhvMq0fWrEi.text",
+          "sourceSha256": "07c11851b4665f59011462821c3308d4111a42623f008b641d4432d8298e5571",
+          "translationSha256": "a9df56e7c95e0b903e7ec16451ae674339eec4102403ecf52802aa22da6f1aca",
+          "pdfEsPages": [
+            64
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.pfUssQhvMq0fWrEi.name",
+          "sourceSha256": "df29a09e244ebe47c97ee1ef67e029967feba2b9d0b2ae5d9a896e77480df745",
+          "translationSha256": "29c13b7d689297925997caeed01ec422d9128269d97f044bd74ba2514069fb36",
+          "pdfEsPages": [
+            64
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-beluarian-13",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.f6EQNsTRJT74aHQx.text",
+          "sourceSha256": "d816fc80b880cedc6df1845e383976a14a1c9368ce90c71f9ffbfd011cc48a5c",
+          "translationSha256": "e81bf06eca1e859f97883e751e04623e556bad0b6b3c3bd110d8e34924b868d6",
+          "pdfEsPages": [
+            64
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.f6EQNsTRJT74aHQx.name",
+          "sourceSha256": "922705791b4349387529e8cd33c95c56f061b2f2f404e1bb1785314f1f38b150",
+          "translationSha256": "b64a511232d6a1cf4809c2610ec696c2d4e572c2e553d790e13d6cec6ec14d62",
+          "pdfEsPages": [
+            64
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-beluarian-14",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.Q1IsSKduoWa9SCKT.text",
+          "sourceSha256": "e9fd4e48f569de10b02af69a31445b7e83f090a09734e95861229ce5c925b43e",
+          "translationSha256": "b281703aa2d8626236b1c583c82538f529a5ee53ba859c48363e45241c264388",
+          "pdfEsPages": [
+            65
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.Q1IsSKduoWa9SCKT.name",
+          "sourceSha256": "25c7e17d3e9906a3ebe30c1b91b8a3fc507f4192f32ad8cfee0c68249244c747",
+          "translationSha256": "0b426b98418b5e5af512035fecbcec7ee5db6db95192263d82574b1503699bd2",
+          "pdfEsPages": [
+            65
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-beluarian-15",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.BRvhEy6Gy2HF1TEo.text",
+          "sourceSha256": "8adaaf2947e85dd6378fa076a800f13a15f58288c7f2ec72d60aff3332b82367",
+          "translationSha256": "4640cc98751aef748b05695b4d7c0268bc97d2fb930243b4fe4051c51e5e075c",
+          "pdfEsPages": [
+            65
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.BRvhEy6Gy2HF1TEo.name",
+          "sourceSha256": "d98e82ae3ccb80a7cf9dfef00d2817c91e5080e4a1684d473907ddb5271fd7e8",
+          "translationSha256": "1982968b257363ff0fc29556b494c0c5d1fbb15ee5d8bd5a214dca6500a3b487",
+          "pdfEsPages": [
+            65
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-beluarian-16",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.iIkI9vA2Qvuqn7q6.text",
+          "sourceSha256": "88bcda78f87a71ec79ec719f45c1a93816f0b696e78eb7f8a839c0635e9bccdd",
+          "translationSha256": "ced0bf6bc1f219cd03c5fb283928b3a06f82bd7f02f6892f1e9dbfb0d7603b56",
+          "pdfEsPages": [
+            65
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.iIkI9vA2Qvuqn7q6.name",
+          "sourceSha256": "b8b6bc93ee3d0b6ef7f8db9b6a12cc65c41f2f9e97b4cb56d28bd7a643079dee",
+          "translationSha256": "616cdbe7cdd7ce20a394f72b46c5a5909d0f45d1f97c1ff99bbc018086ed979d",
+          "pdfEsPages": [
+            65
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-beluarian-17",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.qW9fXhWDk0kFkGvt.text",
+          "sourceSha256": "74045293e525f1049891fd145162d6ce5dc8b9c5e3761f671b2c4ba0a2ce8612",
+          "translationSha256": "4b7cc4a0e3a6a7f4d1a676162c3970ceb2041145cd5d2e58a2a63cea6dcba797",
+          "pdfEsPages": [
+            65
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.qW9fXhWDk0kFkGvt.name",
+          "sourceSha256": "9f86d6b3f68c0abaa0e2974876256a4fe36604ebae8791ec19b84422a33d31c4",
+          "translationSha256": "1528bc81623e6e004459c9d9aaff757e5f5f681f40434968fd09010ef0bb49de",
+          "pdfEsPages": [
+            65
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-beluarian-18",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.4PBIZUnVM9VjTfAR.text",
+          "sourceSha256": "a1e1d7e6e975f698b8a6f009657950ba3de22931423b58f064e8f4809f0ef459",
+          "translationSha256": "837983f5bba9df1d76372ff199185f3e4ca6a86c15e26cc0bc484f9a5231f1ac",
+          "pdfEsPages": [
+            65
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.4PBIZUnVM9VjTfAR.name",
+          "sourceSha256": "f35f08b73c775c44eee1ba3223e3acd8257bd85b0365eb4d646cac6c9d409cde",
+          "translationSha256": "520685880213398464d9618cb34c74d73336ab14b2575f5b6aa8b8d45bab9749",
+          "pdfEsPages": [
+            65
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-beluarian-19",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.FDObtt3bKVW0PGo2.text",
+          "sourceSha256": "0ca6a6467ec63b593bf546f936d366facd1bdd264045186ee14420eeb6d8671e",
+          "translationSha256": "cd6f7e73ec1211855a04f265a192b07ad6ea8641b52c23940b3d5cd45cb9ece1",
+          "pdfEsPages": [
+            65
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.FDObtt3bKVW0PGo2.name",
+          "sourceSha256": "19eced992349ed5d21a5cb30aaab4128b9a69d6787b2a31eb0ff400f77377787",
+          "translationSha256": "a8945ffa91363e4b69856f4d6181848cae0ea3abfb5f5738c5277ddfc789c00c",
+          "pdfEsPages": [
+            65
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-beluarian-20",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.6PRszR1a7HcRkOAW.text",
+          "sourceSha256": "bf73eda8a6abcee64efa4a4e42d26d7a978eeeec2c5c31be635c6393c56cdff4",
+          "translationSha256": "d07b5563a180e7b260d708fefbafab6ca1a2f918fa7b55df09ae3c8b1139ea95",
+          "pdfEsPages": [
+            65
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.6PRszR1a7HcRkOAW.name",
+          "sourceSha256": "da5777c800174c63730a3cad5b6bfc475338fdd5c989c0f19f4a02267de8c1df",
+          "translationSha256": "7614b601dca58af98cbf7f72301127e5a5cce462f27ec65caf14d4e327fec407",
+          "pdfEsPages": [
+            65
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-beluarian-21",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.wGfBTJzHTvul15mT.text",
+          "sourceSha256": "f0fc49061437ff4734a144270b51e6a50cabec27428f63f7910bbd1887f3c586",
+          "translationSha256": "436cf7a24b86da5f3a21a64ddff7180e5082e160faebf5d49ae6276a41a1e65c",
+          "pdfEsPages": [
+            65
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.wGfBTJzHTvul15mT.name",
+          "sourceSha256": "1fa4bc33963d5e7568e5bb12ffc968cf5c03dbb75a52b3633a0d5b1e9a63cb0e",
+          "translationSha256": "80995fc3c67c83336c72128b625c6f33cd330c0c679354f8be764a9dd1634f40",
+          "pdfEsPages": [
+            65
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
     }
   ]
 }
