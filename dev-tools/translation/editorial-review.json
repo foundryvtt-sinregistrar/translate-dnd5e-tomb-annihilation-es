@@ -6175,6 +6175,81 @@
           "status": "reviewed-against-es-extraction-and-en-export"
         }
       ]
+    },
+    {
+      "id": "ch2-mezro-vorn-toba-01",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2Mezro00000.pages.68X5BkbwRaJaWYIz.text",
+          "sourceSha256": "a31f43ea14346438f4f94e97d9bc828907dc553e72fae5901adb296ab5a34f69",
+          "translationSha256": "8905bb434224c9c224b5283d9b26dc63d95411ffa1dec98691c304a49f95102c",
+          "pdfEsPages": [
+            76
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2Mezro00000.pages.68X5BkbwRaJaWYIz.name",
+          "sourceSha256": "ec433147607d6265c37c6addba35e6b1d5706dd7f7699627f987094220c9ff7b",
+          "translationSha256": "ec433147607d6265c37c6addba35e6b1d5706dd7f7699627f987094220c9ff7b",
+          "pdfEsPages": [
+            76
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-mezro-vorn-toba-02",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2SnappingTu.pages.Q80OHPXLoSEzWTUw.text",
+          "sourceSha256": "fd2e2f1805f96394e35e50d8490e6cb28bd8303b1365d8b8fdfc6b962898ea2d",
+          "translationSha256": "213a33c2400f3e1ba3df28147c694d02c2c113f2f96e4c30da62f051064392e7",
+          "pdfEsPages": [
+            45
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2SnappingTu.pages.Q80OHPXLoSEzWTUw.name",
+          "sourceSha256": "32c2e7e54832f82ae5e5d21217e427887b3f9cbe180eb4f106d14a53f2f520b3",
+          "translationSha256": "a52e836fbac0597ae3ed2a7ecfb0aad90f4f15b4ba27fde3093990ae975b1a1b",
+          "pdfEsPages": [
+            45
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-mezro-vorn-toba-03",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2Vorn000000.pages.6RhTGp6QYHjiyAlW.text",
+          "sourceSha256": "34b4e7e2ddd21d8640da57b2146b11f652bba7eb01eda004564103e2f878d1ee",
+          "translationSha256": "997b8835e0408041f3d6c5a4675606151e381bd5b614ba57028b93a3c6428d7e",
+          "pdfEsPages": [
+            90
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2Vorn000000.pages.6RhTGp6QYHjiyAlW.name",
+          "sourceSha256": "a2bbed20847a4bc6974c3e6b0930ab414f1a9cd1438786bb9ad595695776a026",
+          "translationSha256": "a2bbed20847a4bc6974c3e6b0930ab414f1a9cd1438786bb9ad595695776a026",
+          "pdfEsPages": [
+            90
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
     }
   ]
 }

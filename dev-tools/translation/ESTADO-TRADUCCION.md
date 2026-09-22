@@ -364,13 +364,32 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   original en esta revisión; debe resolverse en la validación de navegación.
 - Auditorías técnica y editorial sin errores introducidos por la traducción.
 
+### ch2-heart-01 a ch2-heart-07 — Corazón de Ubtao
+
+- Revisadas las siete páginas y sus títulos con referencias físicas 50-52:
+  Valindra, árbol, escalera, entrada, guarida, guardianes y teletransporte.
+- Se mantienen los 200 pies de altura del inglés frente a los 100 del PDF,
+  el mapa 2.8 de Foundry y todas las condiciones de la ilusión de Valindra.
+- Corregido el sentido de la pendiente: asciende hacia dentro y permite que el
+  agua salga. Conservados objetivos, conjuros y tesoros. Commit: `b189e78`.
+
+### ch2-mezro-vorn-toba-01 a ch2-mezro-vorn-toba-03 — Mezro, Vorn y Rey Toba
+
+- Revisadas las páginas completas de Mezro, Bahía Tortuga Mordedora y Vorn,
+  con sus títulos. Referencias físicas 45, 76 y 90.
+- Aclarados el destino de Mezro y la promesa de Alisanda, los incentivos de los
+  cíclopes, las defensas del Rey Toba y las consecuencias de llevarse a Vorn.
+- Se mantiene «fiebre de la bruma azul» en Vorn, conforme a las reglas de Foundry.
+- Ambos bloques pasan las auditorías técnica y editorial. Las fichas e imágenes
+  no se consideran revisadas por la revisión de estos diarios.
+
 ## Balance de revisión editorial
 
-- 203 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 213 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje y noventa y
-  dos de localizaciones del capítulo 2. No equivale a 203 páginas del PDF.
-- 510 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 510 campos distintos.
+  cinco de localizaciones del capítulo 2. No equivale a 213 páginas del PDF.
+- 516 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 516 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
@@ -378,9 +397,9 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Auditorías estáticas y editorial sin errores. No se han renovado las
   instantáneas de Babele ni realizado una importación completa de Adventure.
 - **La revisión del módulo continúa incompleta.** Continúa el capítulo 2 con
-  Corazón de Ubtao, Hrakhamar, Hvalspyd, Fondeadero de Jahaka, Kir Sabal, Mbala,
-  Mezro, Nangalore, Huesos de Aguja, Orolunga, Bahía Tortuga Mordedora, Narval,
-  Vorn y Yellyark, además de los diarios de Mina Wyrmheart y Diosa Estelar.
+  Hrakhamar, Hvalspyd, Fondeadero de Jahaka, Kir Sabal, Mbala, Nangalore,
+  Huesos de Aguja, Orolunga, Narval y Yellyark, además de los diarios de Mina
+  Wyrmheart y Diosa Estelar.
 - El informe v2 final solicitado queda pendiente hasta cerrar toda la revisión;
   este estado de avance no acredita una revisión completa ni la sustituye.
 
