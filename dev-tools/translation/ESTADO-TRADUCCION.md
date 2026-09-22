@@ -677,14 +677,27 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Completadas las doce páginas del diario introductorio del capítulo 4.
 - Auditorías técnica y editorial sin errores.
 
+### ch4-access-01 a ch4-access-07 — Accesos, reglas y primeras salas
+
+- Revisados siete textos y títulos con referencias físicas 115, 117-118 y 125.
+- Conservadas las contraseñas, el habla de Ukurlahmu y la inmunidad al estado
+  envenenado frente al gas; no se confunde con inmunidad al daño de veneno.
+- Se conserva CD 15 del exportado para abrir por la fuerza la armería,
+  frente a CD 25 en el PDF. Requiere decisión técnica al validar esa puerta.
+- Incidencia original: la huida del triceratops hacia «zona 1» enlaza con
+  `Jc7USn1q9dUkjEdI` (Características del templo), no con el portón.
+- Los fragmentos de enlaces `#teleporters` requieren verificación frente
+  al encabezado traducido. Automatismos de teletransporte y gas no probados.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 454 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 461 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
-  localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y doce
-  del capítulo 4. No equivale a 454 páginas del PDF.
-- 1018 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1018 campos distintos.
+  localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 19
+  del capítulo 4. No equivale a 461 páginas del PDF.
+- 1032 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1032 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
