@@ -485,13 +485,27 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Auditorías técnica y editorial sin errores; no se ha probado la escena
   ni se acredita la revisión de los actores o los objetos enlazados.
 
+### ch2-kir-sabal-01 a ch2-kir-sabal-16 — Kir Sabal
+
+- Revisados dieciséis textos y títulos con referencias físicas 71-74: ascenso,
+  habitantes, ritual, herederos de Omu y dependencias del monasterio.
+- Conservadas las condiciones de vuelo y ascenso, los motivos de Asharra,
+  las recompensas y la retirada de las gárgolas. Corregidos términos de
+  arquitectura, mobiliario, tutela y etiquetas visibles de los enlaces.
+- Incidencias del original pendientes de validación: el texto de Asharra
+  anuncia un atributo de conjuros «más abajo», pero no lo desarrolla en el
+  diario; la casa real tiene una etiqueta `a` sin destino para la zona 4;
+  el ritual usa un fragmento inglés que debe comprobarse con el título traducido.
+- Auditorías técnica y editorial sin errores. Las fichas y las imágenes
+  insertadas no quedan acreditadas por esta revisión del diario.
+
 ## Balance de revisión editorial
 
-- 276 páginas de texto revisadas: seis de la introducción, cien de los cuatro
-  diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje y 158 de
-  localizaciones del capítulo 2. No equivale a 276 páginas del PDF.
-- 642 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 642 campos distintos.
+- 292 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+  diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje y 174 de
+  localizaciones del capítulo 2. No equivale a 292 páginas del PDF.
+- 674 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 674 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
@@ -499,7 +513,7 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Auditorías estáticas y editorial sin errores. No se han renovado las
   instantáneas de Babele ni realizado una importación completa de Adventure.
 - **La revisión del módulo continúa incompleta.** Continúa el capítulo 2 con
-  Kir Sabal y Nangalore. También queda por revisar el índice de localizaciones.
+  Nangalore. También queda por revisar el índice de localizaciones.
 - El informe v2 final solicitado queda pendiente hasta cerrar toda la revisión;
   este estado de avance no acredita una revisión completa ni la sustituye.
 

@@ -7853,6 +7853,410 @@
           "status": "reviewed-against-es-extraction-and-en-export"
         }
       ]
+    },
+    {
+      "id": "ch2-kir-sabal-01",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2KirSabal00.pages.vJo49Lc5cYHqCMzu.text",
+          "sourceSha256": "05a9dc5d88f9a02d653a57520c7ceca154c5afd8fb8ec5cf402fd09be435afd1",
+          "translationSha256": "b4c8d47ba55ac0cac119cb264463bf03a895c593322760bd65f5ad87bc94e16a",
+          "pdfEsPages": [
+            71,
+            72,
+            73
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2KirSabal00.pages.vJo49Lc5cYHqCMzu.name",
+          "sourceSha256": "6d2e56fc1a6c16a766f396dc558fca7b2bc534e8d00f15a51aa106190b84a776",
+          "translationSha256": "6d2e56fc1a6c16a766f396dc558fca7b2bc534e8d00f15a51aa106190b84a776",
+          "pdfEsPages": [
+            71,
+            72,
+            73
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-kir-sabal-02",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2KirSabal00.pages.eJYKsyGIOQS7fGFJ.text",
+          "sourceSha256": "4dd176242b7fcdd1543f71cbc3f1a4788183cccac8fdfb8e275f69a1b628f610",
+          "translationSha256": "581e2b73c7efec81a198b053fc3bf7d1c2cb9d10297b752ecba946877cf183e7",
+          "pdfEsPages": [
+            73
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2KirSabal00.pages.eJYKsyGIOQS7fGFJ.name",
+          "sourceSha256": "eba8183d889c5edf568097f4475a15933f9ed71fb9db1844bf666574771cd73f",
+          "translationSha256": "d76692fcbc34b1d6dac82798a69a723867e4c83915f2e40bb6818ffd72a9b7db",
+          "pdfEsPages": [
+            73
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-kir-sabal-03",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2KirSabal00.pages.t8tqvf3Y0UjNgtXy.text",
+          "sourceSha256": "6629383ea506dcb277f4ecf993157d15d378a181b575de9760c8058bff25cfb5",
+          "translationSha256": "9e684bd01d63f037b52cbb7f022b1e7a9ba49a3ec4c736bd60a313ac06011976",
+          "pdfEsPages": [
+            73
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2KirSabal00.pages.t8tqvf3Y0UjNgtXy.name",
+          "sourceSha256": "a3d36f94d9c81179e87b379ba03ed920bf5032269f0557c4ca792a469806a8ff",
+          "translationSha256": "d0f8fe6855b47a670f61f91bee3f9109b0960e0a66ccc4384cfca5b4b42b63ea",
+          "pdfEsPages": [
+            73
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-kir-sabal-04",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2KirSabal00.pages.KRxkv130Ywhw7ym9.text",
+          "sourceSha256": "131f6fe7dffdf498bbf6a8c44ec9955e88f547921274cb332cd73d5d0d99f9d6",
+          "translationSha256": "996cee7f6659917703ff99e67838de8d4dbfedc3b10ad94cf4c91c3cf0223c15",
+          "pdfEsPages": [
+            74
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2KirSabal00.pages.KRxkv130Ywhw7ym9.name",
+          "sourceSha256": "11d78bb966b999a9954907824909014460ee9fff25ac6fcee9e6aa005c98e4aa",
+          "translationSha256": "4e12ab0c417e2a60ce3c4909645640d7c98f7dff0ce9e6c67ee4575ba2aa0d98",
+          "pdfEsPages": [
+            74
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-kir-sabal-05",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2KirSabal00.pages.Y6NpzXMolBTtlGuX.text",
+          "sourceSha256": "98a71cc503dabe732b1fe318ccc56ed67cd2d6aaddbe8da6336ac9032e094648",
+          "translationSha256": "75ed34441e2d8606f81abefb1a8717a2410cc228400c911579b02e1b8b42f2f3",
+          "pdfEsPages": [
+            74
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2KirSabal00.pages.Y6NpzXMolBTtlGuX.name",
+          "sourceSha256": "c8f9fc13a8d0684843efce4c1f3f6685ce98a3ccae3e687cd9fb39caaac90ae8",
+          "translationSha256": "86e4a72a8af25b55e331d2966a7d44d37b772c839a6f55152db45da79bb0a315",
+          "pdfEsPages": [
+            74
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-kir-sabal-06",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2KirSabal00.pages.J4yXE75GeVWQdwKD.text",
+          "sourceSha256": "e0c6e6983c5abc1af3878b455ce557ce8df9845bdb539525aa49ae6cb95ba47f",
+          "translationSha256": "9a5314ae465d1c89c7438ef66dfaef8474fd2066e543e901d69b0181d4423736",
+          "pdfEsPages": [
+            74
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2KirSabal00.pages.J4yXE75GeVWQdwKD.name",
+          "sourceSha256": "afdba339bef6c2b3a8826c29f04e8033a8b7c5a1788723ec8fb9c8cb9fa180a7",
+          "translationSha256": "622a69a638d2a229feae69c1e1ad5e9a35c2dff692e81acea8b4fba2550f713e",
+          "pdfEsPages": [
+            74
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-kir-sabal-07",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2KirSabal00.pages.OBtx5dpcN0eAziGZ.text",
+          "sourceSha256": "a902bb40b37b71176d73f4e05e8e507d93053429045a710e0972376ef1ccc223",
+          "translationSha256": "b9ec04e743e5e186651f207ba85925c5b028513c43adb0981e73565a7959d088",
+          "pdfEsPages": [
+            73
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2KirSabal00.pages.OBtx5dpcN0eAziGZ.name",
+          "sourceSha256": "dc2cbeda1d3d6c29bf3def383fd2f34c42eca5973eb0702eb47aa5ef7e346562",
+          "translationSha256": "411e51ed9d05feb574716f276c906383bd6ca37218275ca98da66345dc7ab207",
+          "pdfEsPages": [
+            73
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-kir-sabal-08",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2KirSabal00.pages.bBbuQfn5456Clu5o.text",
+          "sourceSha256": "b8acb469098e9d74c108e63d6b8b644c256eb15d3f1e85c018a919b905fe704b",
+          "translationSha256": "eb484b76178cb751ba584ed670493b783507ece17bc6641835fb81396018939e",
+          "pdfEsPages": [
+            73
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2KirSabal00.pages.bBbuQfn5456Clu5o.name",
+          "sourceSha256": "299d6c6aa7def9ee99c048cc5c3957b852f3992c9328743868b2688e438053d6",
+          "translationSha256": "d2938659857d308afe912cc50bbbb04251e3513b1c3efc201d1fc66beb7d7ea4",
+          "pdfEsPages": [
+            73
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-kir-sabal-09",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2KirSabal00.pages.AtKaSoGk937zdYCG.text",
+          "sourceSha256": "a45940f6c1a52b28f58db0b18b2d3e60181eddee9ced9b628646c06694033f17",
+          "translationSha256": "dbd94cf159fc436e53260d06f32f7c2b328be2007785c24de941a44bf38e723c",
+          "pdfEsPages": [
+            73
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2KirSabal00.pages.AtKaSoGk937zdYCG.name",
+          "sourceSha256": "924daf40e0d782e29e77d1c4d682293e249045a0fce5e53cb05ebfb9e9beaede",
+          "translationSha256": "6d0a561d03b15826592db2f87258cb90fdfb5df27dd6d0db46990c4c6dcffc0a",
+          "pdfEsPages": [
+            73
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-kir-sabal-10",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2KirSabal00.pages.uWeJ04jD2DfLWUop.text",
+          "sourceSha256": "69b12037e4f56c82c279d8493576a8d5e0161804beda6068278ed40f5efaacc2",
+          "translationSha256": "c812b16865988195a8d5d0e1511dfb109206e9fe33bd475980d84f055369b982",
+          "pdfEsPages": [
+            73
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2KirSabal00.pages.uWeJ04jD2DfLWUop.name",
+          "sourceSha256": "e9532a46561e1cd17980e3ea68d11daca867c921823b980ab9caad815e3096cd",
+          "translationSha256": "b370c2bf527adbd777be040e56a79e7255f2e1bfba71ae6a51368f61d86b6689",
+          "pdfEsPages": [
+            73
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-kir-sabal-11",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2KirSabal00.pages.ZMKWsno0EtJwTKzW.text",
+          "sourceSha256": "d80a396370406f9ebbdb98e5ec42fcad8788a605e8f1585706bdcb5a39c0b4f9",
+          "translationSha256": "7b4a5d353b21ab4d86896965cfb050396cfadb7c942ef04201777e97dab4c8db",
+          "pdfEsPages": [
+            73
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2KirSabal00.pages.ZMKWsno0EtJwTKzW.name",
+          "sourceSha256": "f28b9ca197d4ee1a817581e733ae75d9c1453ad37e012fe4300f949ff48801bc",
+          "translationSha256": "f262ab14178d09207af63f160965243637228dd659b3a8f8114ca0806b8c4fc6",
+          "pdfEsPages": [
+            73
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-kir-sabal-12",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2KirSabal00.pages.hYCJzwGPY8a6chy1.text",
+          "sourceSha256": "cd6a50df996597c6b28d677fe15d239343c3301b01e8f4fdc25535cca5b21ca4",
+          "translationSha256": "372d7fbb265d017f37610b8401cc8715e0913f364841915c8356d08e4fbd20da",
+          "pdfEsPages": [
+            73
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2KirSabal00.pages.hYCJzwGPY8a6chy1.name",
+          "sourceSha256": "294fa80ff22d6a5c99310076e72e8f664cb62e51835c9ad1e4d10eb9148af8fb",
+          "translationSha256": "ef4c199d47d3bace74582ecaf3114f3747eb6dce756f76f4d6867f69580b8938",
+          "pdfEsPages": [
+            73
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-kir-sabal-13",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2KirSabal00.pages.t81A3K3jRPRSDRVz.text",
+          "sourceSha256": "f887038cea5d18bd5ad015521b4ae379487340d5450384bb9621c2ab5d22fc05",
+          "translationSha256": "92f961bcbc443e49de2ec82c62b3b1ef6d178ec4a6a91aff57707c081d8e743e",
+          "pdfEsPages": [
+            74
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2KirSabal00.pages.t81A3K3jRPRSDRVz.name",
+          "sourceSha256": "f28b9ca197d4ee1a817581e733ae75d9c1453ad37e012fe4300f949ff48801bc",
+          "translationSha256": "f262ab14178d09207af63f160965243637228dd659b3a8f8114ca0806b8c4fc6",
+          "pdfEsPages": [
+            74
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-kir-sabal-14",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2KirSabal00.pages.GzQcgcamNWpdhb3m.text",
+          "sourceSha256": "1c3828b7e06aa39070de4da6cc8164a296b41f7a28564c4b331fa40ea23fbffb",
+          "translationSha256": "8c5d5efdd88deb48ca04d5a4cb4331a5fc7758d0498cab67ab4eef2a1ed733f4",
+          "pdfEsPages": [
+            74
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2KirSabal00.pages.GzQcgcamNWpdhb3m.name",
+          "sourceSha256": "f28b9ca197d4ee1a817581e733ae75d9c1453ad37e012fe4300f949ff48801bc",
+          "translationSha256": "f262ab14178d09207af63f160965243637228dd659b3a8f8114ca0806b8c4fc6",
+          "pdfEsPages": [
+            74
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-kir-sabal-15",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2KirSabal00.pages.ocVbDsyzPHUx9n8w.text",
+          "sourceSha256": "476588965250eceeefd001c231fabe21eadb1185ca1f42d151b433da6f4f8e2c",
+          "translationSha256": "2d1f7ababb16c5237c9bcd82c220c607690b1c946d1c0f981549818a65916ff1",
+          "pdfEsPages": [
+            74
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2KirSabal00.pages.ocVbDsyzPHUx9n8w.name",
+          "sourceSha256": "a80f8cc0c210d453975104c6ca64b0623c2c662dec2f24393e083be38ecfd27c",
+          "translationSha256": "62af33fb24c33cc0633ac56b2d73581c8f16df3491b0934becbeb33aa5704fc4",
+          "pdfEsPages": [
+            74
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-kir-sabal-16",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2KirSabal00.pages.g0MCnTan9rVSidc2.text",
+          "sourceSha256": "775cc3a74fb6a54b6906c9560d7190a28cb06e27245ceb2f7301d088e73188e6",
+          "translationSha256": "03dfb4fed47a9bb228a23cf78bac29874e4ce1839e752f664a85f611401d6f15",
+          "pdfEsPages": [
+            73
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2KirSabal00.pages.g0MCnTan9rVSidc2.name",
+          "sourceSha256": "30c9b4a44295c6d752d6a5f4af5fafd15e8b9288dfd6433309702eccf0fedb77",
+          "translationSha256": "dc6b9ee4f87b20d014ba45421d782a80087a055d0ee14e87f47a2c11635e5605",
+          "pdfEsPages": [
+            73
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
     }
   ]
 }
