@@ -3955,6 +3955,312 @@
           "status": "reviewed-against-es-extraction-and-en-export"
         }
       ]
+    },
+    {
+      "id": "ch2-righteous-01",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2CampRighte.pages.h47S3DVkPSI6BBUa.text",
+          "sourceSha256": "0f21b44b1403bffee2306fb4d74d0ca9d75f47f3e4d13b9b44fe9a1a227e4148",
+          "translationSha256": "3b1493e0ce08584b25c6dea9c75b5c0382b0454b5948a5799d0de387d2c5ac3f",
+          "pdfEsPages": [
+            45,
+            46
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2CampRighte.pages.h47S3DVkPSI6BBUa.name",
+          "sourceSha256": "3d04f3b2d12f10a504ef1bb27550ac4bbfeb30d336369f88a132725eba9c483a",
+          "translationSha256": "d7e20315a5f9a221d545dc40996a30343f7502dc2d7461e7a0f8242bdb4e42f1",
+          "pdfEsPages": [
+            45,
+            46
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-righteous-02",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2CampRighte.pages.3Ome6QOR6RpHLeSU.text",
+          "sourceSha256": "a3961914a5fe6ad7e222225eed9eee96fd13be12b05bcb12d01fc3ffe81c15ea",
+          "translationSha256": "96b39651d1dbc235f72408e98029c285ea0219c67647348eaa2383ebda3b782d",
+          "pdfEsPages": [
+            46
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2CampRighte.pages.3Ome6QOR6RpHLeSU.name",
+          "sourceSha256": "75cec65706855a4e4054ee57c3cfde93c791f3b78c0b984dcbd200ab84318674",
+          "translationSha256": "aab5cd601c436e24cce9f64f8e2245c97ddfbce5b4ff50c7f786b990a52109f0",
+          "pdfEsPages": [
+            46
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-righteous-03",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2CampRighte.pages.gatT3vWwxTTXEdHq.text",
+          "sourceSha256": "aa0b6baf5e2b9873adf537c00aa7dac10bb614d42fedd67459d167ced1813c87",
+          "translationSha256": "98bc38f7b527bd21917ef1983d6b030b33a1822be1ff6c31732b4992febb037a",
+          "pdfEsPages": [
+            46
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2CampRighte.pages.gatT3vWwxTTXEdHq.name",
+          "sourceSha256": "7d67982e62f31835c1f0dab529e287d7cfd183ffb591a0040bb4bc7374ded5f2",
+          "translationSha256": "31f8cc4af9b41dc9987a76b11955429fad4f4f82fa3962864ffadffc0c2ca7a4",
+          "pdfEsPages": [
+            46
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-righteous-04",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2CampRighte.pages.exDBylxTL4gusupC.text",
+          "sourceSha256": "c312230b4b9e7b199ec34ee24a32ffeb6cf7b576e60c7f15f396af6c46dbd991",
+          "translationSha256": "bad9121009be098ef113458319fa4d26f0da3dd6557c0e525c03ff5d03dc4fc8",
+          "pdfEsPages": [
+            46
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2CampRighte.pages.exDBylxTL4gusupC.name",
+          "sourceSha256": "68430328b738133ea4535dd5e4d89c1a185a5d75f6f013635119db8c6fd2c198",
+          "translationSha256": "c654d18465738c696630ed4701483d7e1fdc646f218adc38990b1970b312363d",
+          "pdfEsPages": [
+            46
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-righteous-05",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2CampRighte.pages.fazA7lmydWVyBIS3.text",
+          "sourceSha256": "efca36267f2e523702ade6531c581f19fe9b194ef8f666cfb3ce8c6a4420f6d5",
+          "translationSha256": "6c07f71fc8c3c7b13fe7a2eb666e4e98f9c3f2fc0e814b4c7f3a0a6fc07e1436",
+          "pdfEsPages": [
+            46
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2CampRighte.pages.fazA7lmydWVyBIS3.name",
+          "sourceSha256": "79157ccdabc63b3e8f390d3dd51b66ba46f000471e9fb9ed3920931814a635c2",
+          "translationSha256": "8e2413d628a947773a670dd201a93e5d605932656e82355f620294015db952e4",
+          "pdfEsPages": [
+            46
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-righteous-06",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2CampRighte.pages.3VTKJ9jGuGJhJ9Kn.text",
+          "sourceSha256": "89ec2a38e3bc5d3c12ec5a1f423725ae84d835295b625dac9e54a56765a1c38a",
+          "translationSha256": "9f7c94b0ee8bf1289ac4417f1bda4e313e2a1527650f109b58924a3af0d4e179",
+          "pdfEsPages": [
+            46
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2CampRighte.pages.3VTKJ9jGuGJhJ9Kn.name",
+          "sourceSha256": "f0f29020c04d322552514a42e7a1eccb65a6b9ef5e4535a75d0e25fa7f1aa7f5",
+          "translationSha256": "40aa4dc723fc32005b091e0a160a8c2adb6b7ea774fa52d481cc2a70ea4712a2",
+          "pdfEsPages": [
+            46
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-righteous-07",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2CampRighte.pages.p1Q8wLCWDONupXgf.text",
+          "sourceSha256": "43bfb63ee158c286ac6a19e2ddcfc88cdfbfe8440907c43d3d11d182a6b3c967",
+          "translationSha256": "6b020d30062dd479d0dbab0c672117080ad3f30715be608a61f4644e7dca788f",
+          "pdfEsPages": [
+            46,
+            47
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2CampRighte.pages.p1Q8wLCWDONupXgf.name",
+          "sourceSha256": "6578808fac1c2376d7600dc6d37c79c25cf4f7559c648b64dd7ac69696085bad",
+          "translationSha256": "45496f3af7c48f51510ecd3a2c9226f299907d9d3be17d6454611c8d7aaafabf",
+          "pdfEsPages": [
+            46,
+            47
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-righteous-08",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2CampRighte.pages.SFYctzN6TYyve5rV.text",
+          "sourceSha256": "eb8cc172b17eecdc0800d76e74898277e9801192fed9f8db647cdc8f5f67df34",
+          "translationSha256": "5dc75f2986101937ee579df551e5849c7ea8c373e8340cf4f41ea469df663d96",
+          "pdfEsPages": [
+            47
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2CampRighte.pages.SFYctzN6TYyve5rV.name",
+          "sourceSha256": "3858ad62ebe26b956aecc9db3c5b47c5c97640622414648b8dcbf3cc5e327f03",
+          "translationSha256": "5d91d04a47ef243dec79d7c0ab3df157d41c96b7aee06c56836dffe282e23129",
+          "pdfEsPages": [
+            47
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-righteous-09",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2CampRighte.pages.wXwZy99ghvTJdJUB.text",
+          "sourceSha256": "a1d810aa37800354559ec7fdd281b3710b3566a52c2851b27d6055f781fc4089",
+          "translationSha256": "ab49d9b98a4c52bea87ac6604f4eabcc70215410adfbd9116d3f9f2ddc975aa2",
+          "pdfEsPages": [
+            47
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2CampRighte.pages.wXwZy99ghvTJdJUB.name",
+          "sourceSha256": "223f3131e3131fc8f2e3bc2dec9561713c6528cbf1add6cc4dba8aeb97828661",
+          "translationSha256": "bb25c1af7d3b258f71632da1a777179dd709d721b0212df320b0975eb44f7668",
+          "pdfEsPages": [
+            47
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-righteous-10",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2CampRighte.pages.S3JvvIgHOyHx07CP.text",
+          "sourceSha256": "825065e040073a397a26a4564814614a1ea90266c05e2912f3b4a19d6fcb2a2e",
+          "translationSha256": "9afa04cae66a96e2b3d93f5129483f859ecb604a22b4e2ecec4aa56193fbc312",
+          "pdfEsPages": [
+            47,
+            48
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2CampRighte.pages.S3JvvIgHOyHx07CP.name",
+          "sourceSha256": "53aa028facf826d95517bdd943c223ae57fab59a9848d16a6c5d8e0066034c38",
+          "translationSha256": "0499654fadd1d365ec0ec15b4ed8ac3e9e44cb562c7255efa5b38afdc8247887",
+          "pdfEsPages": [
+            47,
+            48
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-righteous-11",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2CampRighte.pages.BPJyDP1TFSgYfZTB.text",
+          "sourceSha256": "351abe8e12f510b093b7076d71b6f1505387ddaea36b1eb2bb2884d5c7ca3f09",
+          "translationSha256": "b6c1583ac030b1ee16aa588c92ca80778826108fec8942e967d7ee5ccc2717fa",
+          "pdfEsPages": [
+            48
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2CampRighte.pages.BPJyDP1TFSgYfZTB.name",
+          "sourceSha256": "c319eaf03cba1458a5abd8c201e0d03438873a1b02a68b23294edace75ee1901",
+          "translationSha256": "7b6d80b7b7465792db065bbcf8f9eca94092a5a6456eccbbf699e0d360b62a6b",
+          "pdfEsPages": [
+            48
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch2-righteous-12",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2CampRighte.pages.eXMQnTCgxBG2pkYr.text",
+          "sourceSha256": "6c1b722f98b307bb57879643ddb1a697b411737240c396bf2132ac3b534d616d",
+          "translationSha256": "0a297dc56dadc6c4730ed81ea61dab9194578bffba3e468a71970cec3123e245",
+          "pdfEsPages": [
+            48
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2CampRighte.pages.eXMQnTCgxBG2pkYr.name",
+          "sourceSha256": "6ae05dcd77b98876098d741d43d61d5c99f20a7b9fa25030a670c5315548c868",
+          "translationSha256": "23cbe5fac032a7b4f92a3462567404e87ceb935b4250f1d2418a1b57f9e8caff",
+          "pdfEsPages": [
+            48
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
     }
   ]
 }

@@ -283,13 +283,27 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   de publicar. Las auditorías de preservación no detectan errores del original.
 - Auditorías técnica y editorial sin errores introducidos por la traducción.
 
+### ch2-righteous-01 a ch2-righteous-12 — Campamento Justicia
+
+- Revisadas las doce páginas del diario completo con las referencias físicas
+  45-48: campamento, goblins, dependencias, leyenda y cinco zonas del santuario.
+- Aclaradas las reglas de ir a hombros, los umbrales de las pruebas, los patrones
+  de cuatro por cuatro, las trampas y el transporte de la vasija alquímica.
+- En la escalera ambos personajes caen solo si ambos fallan sus pruebas,
+  conforme al inglés. Se conservan los daños, probabilidades, salvaciones,
+  enlaces relativos y avisos de automatización de Foundry.
+- Los comentarios ingleses internos de las tiradas se conservan como tokens
+  técnicos. Algunos dicen «resultado de 1» aunque la fórmula comprueba ≤50;
+  es otra incoherencia del original, no una traducción validada de esos comentarios.
+- Auditorías técnica y editorial sin errores introducidos por la traducción.
+
 ## Balance de revisión editorial
 
-- 126 páginas de texto revisadas: seis de la introducción, cien de los cuatro
-  diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje y ocho de
-  localizaciones del capítulo 2. No equivale a 126 páginas del PDF.
-- 332 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 332 campos distintos.
+- 138 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+  diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje y veinte de
+  localizaciones del capítulo 2. No equivale a 138 páginas del PDF.
+- 356 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 356 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
