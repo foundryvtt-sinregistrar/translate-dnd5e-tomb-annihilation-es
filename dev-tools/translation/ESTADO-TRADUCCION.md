@@ -84,8 +84,27 @@ La creación de estos cinco documentos no equivale a importar toda la aventura.
 - Las instantáneas de Babele anteriores a este lote no validan estas nuevas
   redacciones. Su comprobación visual en Foundry queda pendiente.
 
-Siguiente lote: «Dramatis personae», para fijar nombres y descripciones de los
-PNJ antes de continuar con «Dirigir la aventura» e «Iniciar la aventura».
+Commit del primer lote: `e7d2a12` — `Review introduction prose against Spanish reference`.
+
+### intro-02 — Dramatis personae
+
+- Revisados el título y el texto de la página `QmPzaqUnuohBRwfU`: 48 filas de PNJ,
+  con nombres, pronunciaciones y descripciones.
+- Referencias: página física 5 del PDF español, comprobada visualmente, y texto
+  inglés exportado de Foundry. Se conserva el orden de filas del original inglés.
+- Corregidos nombres como Saco de Clavos, Jarro de Vino, Bruma del Río,
+  Pillapincha, Mustio y Salysa; restaurados apóstrofos y acentos dañados.
+- Corregidas las descripciones de criaturas, profesiones, géneros y servicios
+  mercantiles. Pronunciaciones adaptadas a las de la edición española.
+- Conservados los 47 UUID de actores, las tres columnas y todo el marcado HTML.
+  Na conserva la indicación «no combatiente»; Qawasha conserva su función de guía.
+- Dos campos registrados con sus huellas en `editorial-review.json` y sus
+  equivalencias completas en `reviewed-segments.json`. No se han sustituido
+  automáticamente los nombres en otros documentos.
+- Auditoría de los 20.154 campos: cero ausencias y cero discrepancias de sintaxis,
+  HTML o cifras. La comprobación visual de la tabla en Foundry queda pendiente.
+
+Siguiente lote: «Dirigir la aventura», comenzando por sus indicaciones generales.
 
 ## Trabajo que sigue pendiente
 

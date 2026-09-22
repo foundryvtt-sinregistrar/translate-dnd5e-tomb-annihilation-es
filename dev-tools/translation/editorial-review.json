@@ -47,6 +47,26 @@
           "status": "reviewed-against-es-extraction-and-en-export"
         }
       ]
+    },
+    {
+      "id": "intro-02",
+      "date": "2026-09-22",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaIntroduction0.pages.QmPzaqUnuohBRwfU.name",
+          "sourceSha256": "d1f0d4e3fde3c0c92723926bcf3ce1be375331ec7e526b343eb998a24b392837",
+          "translationSha256": "f4cff78ca6b857748cb97984eac753207bc1630c575f85ab7a0696366df6243e",
+          "pdfEsPage": 5,
+          "status": "reviewed-against-es-pdf-visual-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaIntroduction0.pages.QmPzaqUnuohBRwfU.text",
+          "sourceSha256": "0429ff89183d6dd7ffd609995ff936ec80a5926f593d604e0dfe5b8270380df6",
+          "translationSha256": "3dab69ea678adef7a7b48f5613a39cbacf2b2736c1bd17f435e34cfcbf08ca07",
+          "pdfEsPage": 5,
+          "status": "reviewed-against-es-pdf-visual-and-en-export"
+        }
+      ]
     }
   ]
 }

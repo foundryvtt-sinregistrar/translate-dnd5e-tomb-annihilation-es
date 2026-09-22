@@ -35,6 +35,20 @@ términos generales; no todas sus entradas son citas del libro.
 | archlich | archiliche | 6 |
 | trickster gods | dioses embaucadores | 6 |
 | Adventure Time | Hora de aventuras | 3 |
+| Bag of Nails | Saco de Clavos | 5 |
+| Flask of Wine | Jarro de Vino | 5 |
+| River Mist | Bruma del Río | 5 |
+| Grabstab | Pillapincha | 5 |
+| Withers | Mustio | 5 |
+| Salida | Salysa | 5 |
+| Brazen Pegasus | Pegaso Fresco | 5 |
+| Dragonfang | Colmillo de Dragón | 5 |
+| Ring of Winter | Anillo del Invierno | 5 |
+
+En `intro-02` se han comprobado visualmente las 48 filas de la página 5,
+incluidas las pronunciaciones. «Salida» → «Salysa» se aplica como nombre propio
+de ese PNJ; no debe reemplazar el sustantivo español «salida». Las equivalencias
+de nombres aún deben comprobarse en las fichas y en el resto de los diarios.
 
 Los términos añadidos durante el lote `intro-01` se han comprobado en ese
 contexto; su inclusión aquí no implica que se hayan revisado todas sus
