@@ -517,21 +517,40 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Auditorías técnica y editorial sin errores. La tabla de descubrimientos
   insertada y las fichas de criaturas quedan fuera de este bloque.
 
+### ch2-location-index-00 a ch2-location-index-48 — Índice de Chult
+
+- Revisadas la descripción general y las 48 tarjetas de localizaciones,
+  incluidos títulos, resúmenes, tipos de encuentro e instrucciones del mapa.
+- Estos resúmenes proceden del contenido específico de Foundry: sus registros
+  declaran revisión contra el exportado inglés, sin atribuirlos al PDF español.
+- Corregidos Dedo de Fuego, el nombre truncado de Ataaz Yklwazi, Narval,
+  las etiquetas visibles y la terminología recurrente. Se conservan iconos,
+  destinos y estructura. Se aclara que el orden alfabético es el del original.
+- Las tarjetas simplifican o amplían algunos diarios originales; por ejemplo,
+  el resumen de Campamento Justicia habla de apariciones y el del Caldero usa
+  «Bahía de Humo». Se conserva el alcance de esos resúmenes y no se considera
+  que añadan mecánicas a las localizaciones. Las instrucciones de permisos
+  y mapa quedan pendientes de validación en la interfaz de Foundry.
+- Comprobación de cobertura: todos los textos de los diarios principales del
+  capítulo 2 y su índice tienen registro editorial completo. Los documentos
+  enlazados, escenas y reglas adicionales conservan su estado independiente.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 305 páginas de texto revisadas: seis de la introducción, cien de los cuatro
-  diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje y 187 de
-  localizaciones del capítulo 2. No equivale a 305 páginas del PDF.
-- 700 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 700 campos distintos.
+- 354 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+  diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
+  localizaciones del capítulo 2 y 49 de su índice. No equivale a 354 páginas del PDF.
+- 798 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 798 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
-  relacionadas, además de los capítulos 2-5 y los apéndices.
+  relacionadas, además de los capítulos 3-5, diarios complementarios y apéndices.
 - Auditorías estáticas y editorial sin errores. No se han renovado las
   instantáneas de Babele ni realizado una importación completa de Adventure.
-- **La revisión del módulo continúa incompleta.** En el capítulo 2 queda por
-  revisar el índice de localizaciones y los documentos enlazados o insertados.
+- **La revisión del módulo continúa incompleta.** Sigue el capítulo 3, además
+  de los documentos enlazados o insertados pendientes de los capítulos anteriores.
 - El informe v2 final solicitado queda pendiente hasta cerrar toda la revisión;
   este estado de avance no acredita una revisión completa ni la sustituye.
 
