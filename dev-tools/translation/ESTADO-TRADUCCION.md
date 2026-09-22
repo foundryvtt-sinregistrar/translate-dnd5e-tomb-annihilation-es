@@ -60,6 +60,33 @@ Los informes de ejecución y las instantáneas están en `../export/data/`.
 Consultar [el resumen de validación](VALIDACION.md).
 La creación de estos cinco documentos no equivale a importar toda la aventura.
 
+## Revisión editorial por lotes
+
+### intro-01 — Prefacio, introducción y resumen de la historia
+
+- Rama de trabajo: `develop`.
+- Revisadas tres páginas del diario `toaIntroduction0`: seis campos (título y
+  texto de cada página). El resto del diario sigue pendiente.
+- Referencias: extracción española de las páginas físicas 3 y 6, contrastada
+  con el texto inglés exportado de Foundry. No se ha realizado una comprobación
+  visual de estas páginas del PDF en este lote.
+- Corregidos errores de sentido, género y nombres: Chult como territorio
+  tropical, Syndra y Valindra en femenino, Arpistas, Plaga de Conjuros,
+  Fano de la Serpiente Nocturna y archiliche Acererak, entre otros.
+- Conservados los enlaces de Foundry, las etiquetas HTML y las cifras.
+  Se mantiene la identificación explícita «yuan-ti malison» del original inglés
+  y la ubicación de la tumba bajo la ciudad.
+- Textos registrados en `reviewed-segments.json`; rutas y huellas de los seis
+  campos en [el registro editorial](editorial-review.json). Se retiraron sus
+  entradas de la procedencia automática local.
+- Auditoría estática posterior: cero campos ausentes y cero discrepancias de
+  sintaxis, HTML o números en los 20.154 campos del módulo.
+- Las instantáneas de Babele anteriores a este lote no validan estas nuevas
+  redacciones. Su comprobación visual en Foundry queda pendiente.
+
+Siguiente lote: «Dramatis personae», para fijar nombres y descripciones de los
+PNJ antes de continuar con «Dirigir la aventura» e «Iniciar la aventura».
+
 ## Trabajo que sigue pendiente
 
 - Revisar editorialmente el borrador contra el PDF, por capítulos y apéndices.

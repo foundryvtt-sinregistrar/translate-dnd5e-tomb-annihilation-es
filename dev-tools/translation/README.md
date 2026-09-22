@@ -72,3 +72,9 @@ los borradores por diario y contrastarlos con la edición española, conservando
 las diferencias mecánicas de Foundry. El siguiente trabajo editorial prioritario
 es la introducción y Puerto Nyanzaru, seguidos por los capítulos 2-5 y apéndices.
 Los textos integrados en imágenes siguen siendo los del recurso original.
+
+El avance por lotes se documenta en `ESTADO-TRADUCCION.md`.
+`editorial-review.json` registra las rutas, referencias y huellas SHA-256 de los
+campos revisados en esos lotes. Las huellas identifican la versión revisada;
+no deben interpretarse como una aprobación de cambios posteriores del texto.
+Las equivalencias se conservan en `reviewed-segments.json` para su reutilización.

@@ -29,6 +29,17 @@ términos generales; no todas sus entradas son citas del libro.
 | Giant Snapping Turtle | Tortuga mordedora gigante | 4 |
 | Thorny | Espinoso | 4 |
 | Su-Monster | Sucarate | 4 |
+| Harpers | Arpistas | 6 |
+| Spellplague | Plaga de Conjuros | 6 |
+| Red Wizards of Thay | Magos Rojos de Thay | 6 |
+| archlich | archiliche | 6 |
+| trickster gods | dioses embaucadores | 6 |
+| Adventure Time | Hora de aventuras | 3 |
+
+Los términos añadidos durante el lote `intro-01` se han comprobado en ese
+contexto; su inclusión aquí no implica que se hayan revisado todas sus
+apariciones en el módulo. Se conserva «yuan-ti malison» en el resumen para
+mantener la identificación de la criatura explícita en el original de Foundry.
 
 ## Criterios
 
