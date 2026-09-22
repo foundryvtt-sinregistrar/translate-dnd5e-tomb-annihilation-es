@@ -499,21 +499,39 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Auditorías técnica y editorial sin errores. Las fichas y las imágenes
   insertadas no quedan acreditadas por esta revisión del diario.
 
+### ch2-nangalore-01 a ch2-nangalore-13 — Nangalore
+
+- Revisados trece textos y títulos con referencias físicas 80 y 82-85:
+  historia de Zalkoré, inscripciones, jardines, palacio y audiencia.
+- Conservadas las salvaciones cada hora del original inglés, frente a cada
+  turno en el PDF. Corregidos la petrificación de Gowl, «ahora adorno» y la
+  imposibilidad de expulsar al espíritu de Thiru-taya. El vestido se arruina
+  cuando más de la mitad del daño es de los tipos indicados, no exactamente la mitad.
+- El inglés exportado omite el comparador de Percepción pasiva: se explicita
+  «no alcance» el umbral de 12, conforme al PDF, manteniendo el comando.
+- Se conserva el mapa 2.12 y la estatua de 18 pies del inglés. La alternativa
+  de entregar un personaje por la orquídea no figura en este original de Foundry.
+- Incidencia original: el orden indicado para alternar las caras no coincide
+  con su numeración y orientación. Se conserva y queda pendiente de comprobación
+  con el mapa. Eliminado un paréntesis mal ubicado en el enlace al capítulo 1.
+- Auditorías técnica y editorial sin errores. La tabla de descubrimientos
+  insertada y las fichas de criaturas quedan fuera de este bloque.
+
 ## Balance de revisión editorial
 
-- 292 páginas de texto revisadas: seis de la introducción, cien de los cuatro
-  diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje y 174 de
-  localizaciones del capítulo 2. No equivale a 292 páginas del PDF.
-- 674 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 674 campos distintos.
+- 305 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+  diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje y 187 de
+  localizaciones del capítulo 2. No equivale a 305 páginas del PDF.
+- 700 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 700 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
   relacionadas, además de los capítulos 2-5 y los apéndices.
 - Auditorías estáticas y editorial sin errores. No se han renovado las
   instantáneas de Babele ni realizado una importación completa de Adventure.
-- **La revisión del módulo continúa incompleta.** Continúa el capítulo 2 con
-  Nangalore. También queda por revisar el índice de localizaciones.
+- **La revisión del módulo continúa incompleta.** En el capítulo 2 queda por
+  revisar el índice de localizaciones y los documentos enlazados o insertados.
 - El informe v2 final solicitado queda pendiente hasta cerrar toda la revisión;
   este estado de avance no acredita una revisión completa ni la sustituye.
 
