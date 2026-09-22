@@ -396,13 +396,23 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   en esta revisión y pendiente de la validación de navegación.
 - Auditorías técnica y editorial sin errores introducidos por la traducción.
 
+### ch2-explorers-01 a ch2-explorers-03 — Hvalspyd, Huesos de Aguja y Narval
+
+- Revisados los tres textos completos y sus títulos con referencias físicas
+  69-70 y 88-89. Se conservan las reglas, cifras y enlaces de Foundry.
+- Hvalspyd desembarca en Bahía del Refugio. En Huesos de Aguja se conserva
+  la CD 13 del original inglés, frente a la CD 15 del PDF español.
+- En el Narval se corrige «tronco» por «baúl» y se aclaran la ventilación,
+  la tirada de encuentro, el parentesco de Bwayes y la hostilidad condicional.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 220 páginas de texto revisadas: seis de la introducción, cien de los cuatro
-  diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje y 102 de
-  localizaciones del capítulo 2. No equivale a 220 páginas del PDF.
-- 530 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 530 campos distintos.
+- 223 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+  diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje y 105 de
+  localizaciones del capítulo 2. No equivale a 223 páginas del PDF.
+- 536 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 536 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
@@ -410,8 +420,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Auditorías estáticas y editorial sin errores. No se han renovado las
   instantáneas de Babele ni realizado una importación completa de Adventure.
 - **La revisión del módulo continúa incompleta.** Continúa el capítulo 2 con
-  Hrakhamar, Hvalspyd, Fondeadero de Jahaka, Kir Sabal, Mbala, Nangalore,
-  Huesos de Aguja, Orolunga y Narval, además de los diarios de Mina
+  Hrakhamar, Fondeadero de Jahaka, Kir Sabal, Mbala, Nangalore,
+  Orolunga, además de los diarios de Mina
   Wyrmheart y Diosa Estelar.
 - El informe v2 final solicitado queda pendiente hasta cerrar toda la revisión;
   este estado de avance no acredita una revisión completa ni la sustituye.
