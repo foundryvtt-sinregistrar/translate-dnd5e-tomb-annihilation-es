@@ -3092,31 +3092,31 @@
           "items": {
             "sSs3hSzkKBMNBgTs": {
               "name": "Escudo",
-              "description": "<p>Un escudo está hecho de madera o metal y se lleva en una mano. Wieling un escudo aumenta su clase de armadura en 2. Sólo puedes beneficiarte de un escudo a la vez.</p>"
+              "description": "<p>Un escudo está hecho de madera o metal y se lleva en una mano. Empuñar un escudo aumenta tu Clase de Armadura en 2. Solo puedes beneficiarte de un escudo a la vez.</p>"
             },
             "S6UTTLu0bEB32HNG": {
               "name": "Cimitarra",
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-              "descriptionChat": "<p>El Duende ataca con su Scimitar.</p>"
+              "descriptionChat": "<p>El goblin ataca con su cimitarra.</p>"
             },
             "YqS3dsIlpWb2Q2UI": {
               "name": "Arco corto",
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-              "descriptionChat": "<p>El Goblin ataca con su Shortbow.</p>"
+              "descriptionChat": "<p>El goblin ataca con su arco corto.</p>"
             },
             "Ti3XQOmTKdgcnpAa": {
               "name": "Armadura de cuero",
-              "description": "<p>La coraza y los protectores de hombro de esta armadura están hechos de cuero que ha sido endurecido por ser hervido en aceite. El resto de la armadura está hecha de materiales más suaves y flexibles.</p>"
+              "description": "<p>El peto y las hombreras de esta armadura están hechos de cuero endurecido al hervirlo en aceite. El resto de la armadura se fabrica con materiales más blandos y flexibles.</p>"
             },
             "SxVatHq02vURYDt3": {
-              "name": "Escape ágil",
-              "description": "<p>El duende puede tomar el &amp;Reference[Disengage] o &amp;Reference[Hide] acción como una acción adicional en cada uno de sus turnos.</p>"
+              "name": "Huida Ágil",
+              "description": "<p>El goblin puede realizar la acción de &amp;Reference[Disengage]{Destrabarse} o &amp;Reference[Hide]{Esconderse} como acción adicional en cada uno de sus turnos.</p>"
             }
           },
-          "name": "Duende",
+          "name": "Goblin",
           "creatureSubtype": "Goblinoide",
-          "tokenName": "Duende",
-          "biography": "<p><em>Token artwork by </em><a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\"><em>Aventuras olvidadas</em></a><em>.</em></p>"
+          "tokenName": "Goblin",
+          "biography": "<p><em>Ilustración de la ficha por </em><a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\"><em>Forgotten Adventures</em></a><em>.</em></p>"
         },
         "disJ6A1i5rvrGhXB": {
           "alignment": "Neutral malvado",
@@ -17789,7 +17789,7 @@
             },
             "C6jKc15ZDSmqu6UV": {
               "name": "Torre de combate batiri",
-              "text": "<p>Los guerreros de Batiri a veces se montan sobre los hombros del otro en batalla, en una formación conocida como una pila de batalla. Estos pueden ser hasta nueve duendes de altura. Cada duende rastrea sus puntos de impacto individualmente, pero la pila se mueve y hace comprobaciones de habilidad, ataques rollos, y el ahorro lanza como una criatura. Sólo el duende en la parte superior de la pila puede atacar, y sólo el duende en la parte inferior puede moverse (todos los duende apilados en sus hombros se mueven con él).</p><p>El duende en la parte superior hace que toda la inteligencia, sabiduría y habilidad Carisma compruebe y ahorre lanzamientos para la pila.</p><p>El goblin en la parte inferior hace que todas las fuerzas, la dexteridad y la capacidad de la Constitución comprueban y ahorran lanzamientos para la pila.</p><p>Una pila de batalla no puede saltar, pero puede bregar o empujar a otra criatura, balancearse de las vides, y utilizar el &amp;Reference[Dash], &amp;Reference[Disengage], &amp;Reference[Dodge], y &amp;Reference[Hide] acciones.</p><p>La pila tiene <strong>ventaja en los ataques cuerpo a cuerpo debido a su efecto incorporado de “tácticas de paquetes”;</strong> Todos los duendes están agitando lanzas al enemigo, aunque solo uno pueda golpear.</p><p>Cuando un duende en la pila cae a 0 puntos de impacto, se tira de la pila. Si la pila tiene éxito en un [[/save dex 10 format=long]], permanece intacto (aunque un duende más corto). En un ahorro fallido, la pila colapsa y todos los duendes caen propensos en un espacio de 5 pies cuadrados.</p><p>Para formar una nueva pila de batalla, un duende debe usar su acción para subirse a los hombros de otro duende dispuesto a menos de 5 pies de ella. Otros duendes pueden unirse a una pila de batalla existente de la misma manera. Un duende puede usar su acción para retirarse de una pila de batalla, aterrizando en un espacio desocupado a menos de 5 pies del fondo de la pila.</p><p>El Batiri inventó pilas de batalla como una manera de combatir a las criaturas mucho más grandes que ellos, así como una manera de llegar a los enemigos en los árboles. La formación de la pila de batalla tiene el efecto añadido de hacer que los duendes puntiagudos parezcan más altos y más temibles a sus enemigos más grandes. Las pilas de batalla no son efectivas contra otras amenazas terrestres, ya que todos los goblins, excepto los más altos, renuncian a sus ataques y movilidad para formar parte de la pila.</p><p>@embed[JournalEntry.toaAppArtHandout.JournalEntryPage.QvokdeoOuT9nzX1A caption=false]</p><p>@embed[Actor.uPBjr5fHo9ZhXasa caption=false statblock classes=\"double-column\"]</p>"
+              "text": "<p>Los guerreros batiris a veces se suben a hombros unos de otros para luchar, en una formación conocida como torre de combate. Estas torres pueden alcanzar una altura de hasta nueve goblins. Los puntos de golpe de cada goblin se registran por separado, pero la torre se mueve y realiza pruebas de característica, tiradas de ataque y tiradas de salvación como una sola criatura. Solo el goblin de la cima puede atacar y solo el de la base puede moverse (todos los goblins amontonados sobre sus hombros se mueven con él).</p>\n<p>El goblin de la cima realiza todas las pruebas de característica y tiradas de salvación de Inteligencia, Sabiduría y Carisma de la torre.</p>\n<p>El goblin de la base realiza todas las pruebas de característica y tiradas de salvación de Fuerza, Destreza y Constitución de la torre.</p>\n<p>Una torre de combate no puede saltar, pero puede agarrar o empujar a otra criatura, colgarse de las lianas y usar las acciones de &amp;Reference[Dash]{Correr}, &amp;Reference[Disengage]{Destrabarse}, &amp;Reference[Dodge]{Esquivar} y &amp;Reference[Hide]{Esconderse}.</p>\n<p>La torre tiene <strong>ventaja en los ataques cuerpo a cuerpo por el efecto de «ataque en manada» que conlleva;</strong> todos los goblins blanden lanzas contra el enemigo, aunque solo uno pueda golpearlo.</p>\n<p>Cuando un goblin de la torre llega a 0 puntos de golpe, sale despedido de ella. Si la torre supera una tirada de salvación [[/save dex 10 format=long]], permanece intacta (aunque un goblin más baja). Si falla, la torre se derrumba y todos los goblins caen derribados en un espacio cuadrado de 5 pies de lado.</p>\n<p>Para formar una nueva torre de combate, un goblin debe usar su acción para subirse a los hombros de otro goblin dispuesto a ello que se encuentre a 5 pies o menos. Otros goblins pueden unirse a una torre existente de la misma forma. Un goblin puede usar su acción para bajarse de la torre y aterrizar en un espacio desocupado a 5 pies o menos de su base.</p>\n<p>Los batiris inventaron las torres de combate para enfrentarse a criaturas mucho mayores que ellos y alcanzar a enemigos situados en los árboles. Esta formación también hace que los canijos goblins parezcan más altos y temibles ante sus enemigos más grandes. Las torres de combate no son eficaces contra otras amenazas terrestres, ya que todos los goblins salvo el de la cima renuncian a sus ataques y movilidad para formar parte de la torre.</p>\n<p>@embed[JournalEntry.toaAppArtHandout.JournalEntryPage.QvokdeoOuT9nzX1A caption=false]</p>\n<p>@embed[Actor.uPBjr5fHo9ZhXasa caption=false statblock classes=\"double-column\"]</p>"
             }
           }
         },

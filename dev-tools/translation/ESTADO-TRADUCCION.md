@@ -2283,15 +2283,25 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   «frightened». Se traduce la etiqueta como «asustado» y se conserva la clave
   para su reparación funcional; el efecto separado sí referencia `frightened`.
 
+### appendix-d-batiri — Torre de combate batiri
+
+- Revisados 36 campos: reglas de la torre y ambas copias del goblin.
+  Referencia física 14. Comprobadas las acciones disponibles, la distribución
+  de pruebas y salvaciones y la caída de la torre cuando pierde un integrante.
+- Traducido «5-foot-square» como cuadrado de 5 pies de lado; la extracción
+  española dice «5 pies cuadrados», una superficie distinta del original.
+- El campo de biografía del goblin solo contiene el crédito de la ilustración,
+  que se conserva con su enlace. No se cuenta como una biografía narrativa.
+
 ## Balance de revisión editorial
 
-- 890 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 891 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 285 de los apéndices A, B, C, D y F.
-  No equivale a 890 páginas del PDF.
-- 10215 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 10215 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 286 de los apéndices A, B, C, D y F.
+  No equivale a 891 páginas del PDF.
+- 10251 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 10251 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento treinta biografías en ambas copias de actores: siete
   príncipes y ciento veintitrés criaturas o PNJ vinculados al apéndice D. Siguen pendientes las demás

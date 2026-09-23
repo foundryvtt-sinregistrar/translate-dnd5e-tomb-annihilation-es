@@ -14764,31 +14764,31 @@
       "items": {
         "sSs3hSzkKBMNBgTs": {
           "name": "Escudo",
-          "description": "<p>Un escudo está hecho de madera o metal y se lleva en una mano. Wieling un escudo aumenta su clase de armadura en 2. Sólo puedes beneficiarte de un escudo a la vez.</p>"
+          "description": "<p>Un escudo está hecho de madera o metal y se lleva en una mano. Empuñar un escudo aumenta tu Clase de Armadura en 2. Solo puedes beneficiarte de un escudo a la vez.</p>"
         },
         "S6UTTLu0bEB32HNG": {
           "name": "Cimitarra",
           "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-          "descriptionChat": "<p>El Duende ataca con su Scimitar.</p>"
+          "descriptionChat": "<p>El goblin ataca con su cimitarra.</p>"
         },
         "YqS3dsIlpWb2Q2UI": {
           "name": "Arco corto",
           "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-          "descriptionChat": "<p>El Goblin ataca con su Shortbow.</p>"
+          "descriptionChat": "<p>El goblin ataca con su arco corto.</p>"
         },
         "Ti3XQOmTKdgcnpAa": {
           "name": "Armadura de cuero",
-          "description": "<p>La coraza y los protectores de hombro de esta armadura están hechos de cuero que ha sido endurecido por ser hervido en aceite. El resto de la armadura está hecha de materiales más suaves y flexibles.</p>"
+          "description": "<p>El peto y las hombreras de esta armadura están hechos de cuero endurecido al hervirlo en aceite. El resto de la armadura se fabrica con materiales más blandos y flexibles.</p>"
         },
         "SxVatHq02vURYDt3": {
-          "name": "Escape ágil",
-          "description": "<p>El duende puede tomar el &amp;Reference[Disengage] o &amp;Reference[Hide] acción como una acción adicional en cada uno de sus turnos.</p>"
+          "name": "Huida Ágil",
+          "description": "<p>El goblin puede realizar la acción de &amp;Reference[Disengage]{Destrabarse} o &amp;Reference[Hide]{Esconderse} como acción adicional en cada uno de sus turnos.</p>"
         }
       },
-      "name": "Duende",
+      "name": "Goblin",
       "creatureSubtype": "Goblinoide",
-      "tokenName": "Duende",
-      "biography": "<p><em>Token artwork by </em><a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\"><em>Aventuras olvidadas</em></a><em>.</em></p>"
+      "tokenName": "Goblin",
+      "biography": "<p><em>Ilustración de la ficha por </em><a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\"><em>Forgotten Adventures</em></a><em>.</em></p>"
     },
     "uXq4y7Pe1nIIw2x7": {
       "alignment": "Sin alineamiento",
