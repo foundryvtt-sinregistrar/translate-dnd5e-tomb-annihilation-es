@@ -1439,15 +1439,27 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   parámetro de título inglés pendiente de comprobar en presentación.
 - Auditorías técnica y editorial sin errores.
 
+### appendix-b-finalwild — Últimos encuentros generales de la selva
+
+- Revisadas trece páginas (26 registros), con referencias físicas 198 y 202–205:
+  cazador tabaxi, tigre, palma triflor, troll, introducción de muertos vivientes,
+  vegepigmeos, hombres jabalí y tigre, paisaje invernal, trepadora y zombis,
+  yuan-ti, Zhentarim y zorbos.
+- Conservadas escolta sin pago, ausencia de encuentros hostiles y sus límites,
+  así como persecuciones, captura y defensa del territorio.
+- Paisaje invernal: mantenidos -30 grados Fahrenheit, como en el original
+  exportado y el Anillo del Invierno revisado; el PDF convierte a Celsius.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 712 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 725 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 107 de los apéndices A, B, C y F.
-  No equivale a 712 páginas del PDF.
-- 1778 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1778 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 120 de los apéndices A, B, C y F.
+  No equivale a 725 páginas del PDF.
+- 1804 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1804 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
