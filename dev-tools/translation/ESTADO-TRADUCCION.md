@@ -963,14 +963,27 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   del ranamot usa la misma página que el grung de Nangnang en el export.
 - Auditorías técnica y editorial sin errores.
 
+### ch5-level3-beholder-01 a ch5-level3-beholder-04 — Velos y Belchorzh
+
+- Revisados cuatro textos y títulos con referencias físicas 156-158.
+- Diferenciados miedo del tapiz y hechizo del jabalí: distintas salvaciones,
+  condiciones de repetición y duraciones de inmunidad tras superarlas.
+- Las cavidades de los ojos tienen una pulgada de diámetro, no de profundidad
+  como indica el PDF. Conservadas todas las ubicaciones de las diez llaves.
+- Conservados el aura de Nystul de 2014, la adhesión a la esfera, la diferencia
+  entre cubrirla y disiparla y la represalia mediante moho por robar tesoro.
+- El fragmento original `#alien-growth` requiere validación de navegación tras
+  traducir su encabezado, como los fragmentos ya anotados en otros capítulos.
+- Completadas las 27 páginas de texto del nivel 3. Auditorías sin errores.
+
 ## Balance de revisión editorial
 
-- 547 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 551 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4 y sesenta y ocho del capítulo 5. No equivale a 547 páginas del PDF.
-- 1204 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1204 campos distintos.
+  del capítulo 4 y setenta y dos del capítulo 5. No equivale a 551 páginas del PDF.
+- 1212 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1212 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
