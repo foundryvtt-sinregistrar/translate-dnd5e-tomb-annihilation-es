@@ -853,14 +853,27 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   Queda anotado para la revisión técnica de enlaces.
 - Auditorías técnica y editorial sin errores.
 
+### ch5-level2-mirror-01 a ch5-level2-mirror-02 — Anillo y tumba falsa
+
+- Revisados dos textos extensos y títulos con referencias físicas 140-142.
+- Conservados el reinicio diario del semiplano, la captura por el Almero y
+  la diferencia entre quitar la maldición al portador y eliminarla del bastón.
+- Aclaradas las manos y los pies con dos dedos del original y la inundación:
+  respirar agua no permite respirar vino; los extraños llegan en el tercer asalto.
+- Corregido el rótulo partido del perfil del extraño de agua y añadido el
+  de invisible. El grimorio insertado sigue pendiente de su propia revisión.
+- Pendiente técnico del original: detectar magia en el ataúd enlaza al UUID
+  de disipar magia, inverso a los errores de enlaces anotados anteriormente.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 517 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 519 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4 y treinta y ocho del capítulo 5. No equivale a 517 páginas del PDF.
-- 1144 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1144 campos distintos.
+  del capítulo 4 y cuarenta del capítulo 5. No equivale a 519 páginas del PDF.
+- 1148 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1148 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
