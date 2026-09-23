@@ -16432,15 +16432,15 @@
           "pages": {
             "caXifiPzdoYrgKiv": {
               "name": "Antropólogo",
-              "text": "<p><strong>Tema de antecedentes:</strong> @UUID[Compendium.dnd-tomb-annihilation.items.Item.toabgAnthropolog]{Antropólogo}</p><p>@Embed[Compendium.dnd-tomb-annihilation.items.Item.toabgAnthropolog caption=false\"]{Antropólogo}</p>"
+              "text": "<p><strong>Trasfondo:</strong> @UUID[Compendium.dnd-tomb-annihilation.items.Item.toabgAnthropolog]{Antropólogo}</p><p>@Embed[Compendium.dnd-tomb-annihilation.items.Item.toabgAnthropolog caption=false\"]{Antropólogo}</p>"
             },
             "5r4KCBZYC6HNopli": {
               "name": "Arqueólogo",
-              "text": "<p><strong>Tema de antecedentes:</strong> @UUID[Compendium.dnd-tomb-annihilation.items.Item.toabgDustDigger0]{Arqueólogo}</p><p>@Embed[Compendium.dnd-tomb-annihilation.items.Item.toabgDustDigger0 caption=false]{Arqueólogo}</p>"
+              "text": "<p><strong>Trasfondo:</strong> @UUID[Compendium.dnd-tomb-annihilation.items.Item.toabgDustDigger0]{Arqueólogo}</p><p>@Embed[Compendium.dnd-tomb-annihilation.items.Item.toabgDustDigger0 caption=false]{Arqueólogo}</p>"
             },
             "Fo2kAyJgJdFdin9v": {
               "name": "Apéndice A",
-              "text": "<p>Durante la creación de caracteres, los jugadores pueden seleccionar los siguientes fondos para sus personajes con su aprobación. Estos antecedentes son apropiados para cualquier personaje o campaña asociada con el descubrimiento y exploración de culturas exóticas y civilizaciones perdidas.v</p>"
+              "text": "<p>Durante la creación de personajes, los jugadores pueden elegir estos trasfondos con tu aprobación. Son apropiados para personajes o campañas centrados en descubrir y explorar culturas exóticas y civilizaciones perdidas.</p>"
             }
           }
         },
@@ -17138,16 +17138,16 @@
           "name": "Descubrimientos (C)",
           "pages": {
             "LOxBmMdkeKvUsiFM": {
-              "name": "Flora y Fauna",
-              "text": "<p>Esta sección describe la vida silvestre inusual nativa de Chul. Cualquier personaje con competencia en la &amp;Reference[nature] habilidad reconoce una de estas plantas o criaturas a la vista, y puede recordar sus propiedades con un éxito [[/check ability=int skill=nat dc=15 format=long]]. Si el personaje es nativo de Chul, este cheque se hace con ventaja.</p><p>La fauna descrita aquí se puede comprar y vender en Port Nyanzaru y otros asentamientos por las cantidades que figuran en la tabla Flora y Fauna.</p><p>Algunas de estas cosas infligen la &amp;Reference[poisoned] condición en una criatura durante una hora o más. Recuerda eso. @UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{menor restauración} y magia similar puede acabar con esa condición.</p><div><table><caption>Flora y Fauna</caption><thead><tr><th>Tema</th><th>Costo</th></tr></thead><tbody><tr><td>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafDancingMon]{Frutas de mono bailando}</td><td>5 gp</td></tr><tr><td>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafMengaLeave]{Hojas de menga} (1 onza)</td><td>2 gp</td></tr><tr><td>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafRyathRoot0]{Raíz de riácea}</td><td>50 gp</td></tr><tr><td>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafSindaBerri]{Bayas de sinda} (10)</td><td>5 gp</td></tr><tr><td>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafWildroot00]{Raíz silvestre}</td><td>25 gp</td></tr><tr><td>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafWukkaNuts0]{Nueces de Wukka}</td><td>1 gp</td></tr><tr><td>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafYahcha0000]{Yahcha}</td><td>1 gp</td></tr><tr><td>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafZabou00000]{Zabou}</td><td>10 gp</td></tr></tbody></table></div><h2></h2>"
+              "name": "Flora y fauna",
+              "text": "<p>Esta sección describe plantas y criaturas singulares de Chult. Quien sea competente en &amp;Reference[nature] las reconoce a simple vista y recuerda sus propiedades si supera una [[/check ability=int skill=nat dc=15 format=long]]. Los personajes nativos de Chult tienen ventaja en esta prueba.</p><p>Pueden comprarse y venderse en Puerto Nyanzaru y otros asentamientos por los precios de la tabla «Flora y fauna».</p><p>Algunas causan el estado &amp;Reference[poisoned] durante una hora o más. Recuerda que @UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{restablecimiento menor} o magia similar puede terminarlo.</p><div><table><caption>Flora y fauna</caption><thead><tr><th>Artículo</th><th>Precio</th></tr></thead><tbody><tr><td>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafDancingMon]{Fruta del mono bailongo}</td><td>5 po</td></tr><tr><td>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafMengaLeave]{Hojas de menga} (1 onza)</td><td>2 po</td></tr><tr><td>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafRyathRoot0]{Raíz de ryath}</td><td>50 po</td></tr><tr><td>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafSindaBerri]{Bayas de sinda} (10)</td><td>5 po</td></tr><tr><td>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafWildroot00]{Raíz silvestre}</td><td>25 po</td></tr><tr><td>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafWukkaNuts0]{Fruto seco wukka}</td><td>1 po</td></tr><tr><td>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafYahcha0000]{Yahcha}</td><td>1 po</td></tr><tr><td>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafZabou00000]{Zabou}</td><td>10 po</td></tr></tbody></table></div><h2></h2>"
             },
             "MaDJ89t16evomxFD": {
               "name": "Objetos mágicos",
-              "text": "<p>Los siguientes artículos aparecen en varios lugares de la aventura.</p>"
+              "text": "<p>Los siguientes objetos aparecen en distintas localizaciones de la aventura.</p>"
             },
             "gwfMk4Y3JbM7WKFo": {
               "name": "Apéndice C",
-              "text": "<p>Chul es una tierra llena de maravillas incalculables y tesoros perdidos. Los aventureros descubrirán esto por sí mismos mientras exploran el desierto inexplorado de la península.</p>"
+              "text": "<p>Chult está lleno de maravillas innumerables y tesoros perdidos. Los aventureros lo descubrirán al explorar las tierras salvajes e inexploradas de la península.</p>"
             },
             "kxpLaECYUpxjJ4nz": {
               "name": "Imagen: Linterna fantasma"
@@ -17159,28 +17159,28 @@
               "name": "Imagen: Anillo de Invierno"
             },
             "rW2RxbTDtZkmpcrx": {
-              "name": "Fruta del mono de baile",
-              "text": "<p>@Embed[Compendium.dnd-tomb-annihilation.items.Item.toafafDancingMon caption=false]{Fruta del mono de baile}</p>"
+              "name": "Fruta del mono bailongo",
+              "text": "<p>@Embed[Compendium.dnd-tomb-annihilation.items.Item.toafafDancingMon caption=false]{Fruta del mono bailongo}</p>"
             },
             "SA4vjccT9LTkZqZF": {
-              "name": "Hojas de Menga",
-              "text": "<p>@Embed[Compendium.dnd-tomb-annihilation.items.Item.toafafMengaLeave caption=false]{Hojas de Menga}</p>"
+              "name": "Hojas de menga",
+              "text": "<p>@Embed[Compendium.dnd-tomb-annihilation.items.Item.toafafMengaLeave caption=false]{Hojas de menga}</p>"
             },
             "QCUFZcHd6b6YTbx8": {
-              "name": "Raíz de Ryath",
-              "text": "<p>@Embed[Compendium.dnd-tomb-annihilation.items.Item.toafafRyathRoot0 caption=false]{Raíz de Ryath}</p>"
+              "name": "Raíz de ryath",
+              "text": "<p>@Embed[Compendium.dnd-tomb-annihilation.items.Item.toafafRyathRoot0 caption=false]{Raíz de ryath}</p>"
             },
             "KOxfe0QAJ7y9AIpY": {
-              "name": "Berries Sinda",
-              "text": "<p>@Embed[Compendium.dnd-tomb-annihilation.items.Item.toafafSindaBerri caption=false]{Berries Sinda}</p>"
+              "name": "Bayas de sinda",
+              "text": "<p>@Embed[Compendium.dnd-tomb-annihilation.items.Item.toafafSindaBerri caption=false]{Bayas de sinda}</p>"
             },
             "I6nfmLVgnADlvfJU": {
               "name": "Raíz silvestre",
               "text": "<p>@Embed[Compendium.dnd-tomb-annihilation.items.Item.toafafWildroot00 caption=false]{Raíz silvestre}</p>"
             },
             "UX1g7vfzKuVKGnaT": {
-              "name": "Nueces Wukka",
-              "text": "<p>@Embed[Compendium.dnd-tomb-annihilation.items.Item.toafafWukkaNuts0 caption=false]{Nueces Wukka}</p>"
+              "name": "Frutos secos wukka",
+              "text": "<p>@Embed[Compendium.dnd-tomb-annihilation.items.Item.toafafWukkaNuts0 caption=false]{Frutos secos wukka}</p>"
             },
             "BI4sogazgFjToRo2": {
               "name": "Yahcha",
@@ -17191,32 +17191,32 @@
               "text": "<p>@Embed[Compendium.dnd-tomb-annihilation.items.Item.toafafZabou00000 caption=false]{Zabou}</p>"
             },
             "A9HfFpb3iJDLNEtK": {
-              "name": "Amuleto del cráneo negro",
-              "text": "<p><em>Objeto maravilloso, muy raro (requiere sintonía)</em></p><p>@Embed[Compendium.dnd-tomb-annihilation.items.Item.toamgcAmuletofth caption=false]{Amuleto del cráneo negro}</p>"
+              "name": "Amuleto del Cráneo Negro",
+              "text": "<p><em>Objeto maravilloso, muy raro (requiere sintonización)</em></p><p>@Embed[Compendium.dnd-tomb-annihilation.items.Item.toamgcAmuletofth caption=false]{Amuleto del Cráneo Negro}</p>"
             },
             "IVYyfyr5JtsGMngR": {
-              "name": "Marcador",
-              "text": "<p><em>Arma (daga), legendaria (requiere sintonía)</em></p><p>@Embed[Compendium.dnd-tomb-annihilation.items.Item.toamgcBookmark00 caption=false]{Marcador}</p>"
+              "name": "Marcapáginas",
+              "text": "<p><em>Arma (daga), legendaria (requiere sintonización)</em></p><p>@Embed[Compendium.dnd-tomb-annihilation.items.Item.toamgcBookmark00 caption=false]{Marcapáginas}</p>"
             },
             "oSvkn94FIOCoIRLq": {
               "name": "Linterna fantasma",
-              "text": "<p><em>Objeto maravilloso, raro (requiere sintonía)</em></p><p>@Embed[Compendium.dnd-tomb-annihilation.items.Item.toamgcGhostLante caption=false]{Linterna fantasma}</p>"
+              "text": "<p><em>Objeto maravilloso, raro (requiere sintonización)</em></p><p>@Embed[Compendium.dnd-tomb-annihilation.items.Item.toamgcGhostLante caption=false]{Linterna fantasma}</p>"
             },
             "qG7Cfwwbl8ZpucmW": {
-              "name": "Máscara de la Bestia",
-              "text": "<p><em>Objeto maravilloso, poco común</em></p><p>@Embed[Compendium.dnd-tomb-annihilation.items.Item.toaItemMaskBeast caption=false]{Máscara de la Bestia}</p>"
+              "name": "Máscara de la bestia",
+              "text": "<p><em>Objeto maravilloso, infrecuente</em></p><p>@Embed[Compendium.dnd-tomb-annihilation.items.Item.toaItemMaskBeast caption=false]{Máscara de la bestia}</p>"
             },
             "ETol1zYKPuCVFVJ1": {
-              "name": "Anillo de invierno",
-              "text": "<p>@Embed[Compendium.dnd-tomb-annihilation.items.Item.toamgcRingofWint caption=false]{Anillo de invierno}</p>"
+              "name": "Anillo del Invierno",
+              "text": "<p>@Embed[Compendium.dnd-tomb-annihilation.items.Item.toamgcRingofWint caption=false]{Anillo del Invierno}</p>"
             },
             "27S2ls8jOtkI149J": {
-              "name": "Armadura Escorpión",
-              "text": "<p><em>Armadura (placa), raras (requiere sintonía)</em></p><p>@Embed[Compendium.dnd-tomb-annihilation.items.Item.toamgcScorpionAr caption=false]{Armadura Escorpión}</p>"
+              "name": "Armadura del escorpión",
+              "text": "<p><em>Armadura (placas), rara (requiere sintonización)</em></p><p>@Embed[Compendium.dnd-tomb-annihilation.items.Item.toamgcScorpionAr caption=false]{Armadura del escorpión}</p>"
             },
             "HL6GC0c6KVxMbVmS": {
-              "name": "El Personal del Olvidado",
-              "text": "<p><em>Personal, artefacto</em></p><p>@Embed[Compendium.dnd-tomb-annihilation.items.Item.toamgcStaffofthe caption=false]{El Personal del Olvidado}</p>"
+              "name": "Bastón del Olvidado",
+              "text": "<p><em>Bastón, artefacto</em></p><p>@Embed[Compendium.dnd-tomb-annihilation.items.Item.toamgcStaffofthe caption=false]{Bastón del Olvidado}</p>"
             }
           }
         },

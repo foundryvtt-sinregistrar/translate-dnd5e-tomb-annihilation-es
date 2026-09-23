@@ -1240,14 +1240,33 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   Adventure, si existen, deben contrastarse al revisar los documentos incorporados.
 - Auditorías técnica y editorial sin errores.
 
+### appendix-ac-journals-01 a appendix-ac-journals-21 — Apéndices A y C
+
+- Revisados 21 textos y títulos: tres del apéndice A y dieciocho del C,
+  con referencias físicas 192-193 y 206-209.
+- Revisadas introducciones, tabla de precios de flora y fauna, categorías
+  y etiquetas de inserción. No se acredita todavía el contenido de los objetos
+  o trasfondos insertados ni las tres páginas de imágenes del apéndice C.
+- Conservada Linterna fantasma por coherencia con los textos ya revisados;
+  el PDF emplea Linterna fantasmal. Se armonizarán las fichas con la decisión final.
+- El Bastón del Olvidado figura como artefacto en el original del módulo;
+  se conserva frente a «legendario» en el PDF, pendiente de contrastar su ficha.
+- Retirada la letra sobrante al final de la introducción de trasfondos.
+  El `@Embed` del antropólogo conserva la comilla sobrante de `caption=false"`;
+  requiere corrección técnica y prueba de inserción.
+- Comprobado que `Adventure.tables` está vacío: no hay copias internas de las
+  tablas que sincronizar en este exportado.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 605 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 626 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4 y 126 del capítulo 5. No equivale a 605 páginas del PDF.
-- 1350 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1350 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 21 de los apéndices A y C.
+  No equivale a 626 páginas del PDF.
+- 1392 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1392 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
