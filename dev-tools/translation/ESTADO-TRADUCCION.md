@@ -1522,6 +1522,19 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   estas páginas no acreditan por sí solas la revisión de las fichas.
 - Auditorías técnica y editorial sin errores.
 
+### appendix-d-biographies-01 — Acererak, Artus y primeras criaturas
+
+- Revisados 38 campos en ambas copias de seis actores: Acererak, guerrero
+  enano albino, guerrero espiritual enano albino, aldani, almiraj y Artus Cimber.
+  Incluye nombres, nombres de token, biografías y la referencia pública de Artus.
+- Referencias físicas 210–213 y 220. Conservados historia y motivaciones,
+  Almero, Anillo del Invierno, Alisanda y los compañeros de Artus.
+- Zakhara se describe como tierra lejana, no como isla: el inglés dice «land».
+  El guerrero espiritual recibe un sortilegio y conserva sus cinco conjuros.
+- Sincronizado el texto general de los enanos con la página de diario revisada.
+  Este bloque no acredita sus rasgos de combate, objetos ni actividades.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
 - 757 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -1529,12 +1542,13 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
   del capítulo 4, 126 del capítulo 5 y 152 de los apéndices A, B, C, D y F.
   No equivale a 757 páginas del PDF.
-- 2383 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 2383 campos distintos.
+- 2421 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 2421 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
-  objetos, tablas, ayudas, escenas e interfaz
-  relacionadas, además de diarios complementarios y apéndices.
+  insertado. Revisadas trece biografías en ambas copias de actores: siete
+  príncipes y seis criaturas o PNJ del apéndice D. Siguen pendientes las demás
+  biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
+  diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las
   instantáneas de Babele ni realizado una importación completa de Adventure.
 - **La revisión del módulo continúa incompleta.** Siguen los documentos
