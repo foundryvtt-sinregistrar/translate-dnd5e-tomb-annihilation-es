@@ -8580,50 +8580,50 @@
       "alignment": "Neutral bueno",
       "items": {
         "38I6bGoguRRefN6W": {
-          "name": "Lanzamiento de conjuros",
-          "description": "<p>[[lookup @name]] es un lanzador de conjuros de nivel 1. Su habilidad de conjuros es Sabiduría (salva CD 12, +4 para golpear con ataques de conjuros). [[lookup @name]] tiene los siguientes conjuros clérigos preparados:</p><p>Cantrip (a voluntad): <em>[[/item .Bnn9Nzajixvow9xi]]{luz}, [[/item .n9pJzTDsAwQxJVRl]]{llama sagrada}, [[/item .MUO1uYN7JR1hm4dR]]{taumaturgia}</em></p><p>1er nivel (3 franjas horarias): <em>[[/item .8dzaICjGy6mTUaUr]]{bendice}, [[/item .uUWb1wZgtMou0TVP]]{curar heridas}, [[/item .gvdA9nPuWLck4tBl]]{santuario}</em></p>",
-          "descriptionChat": "<p>El acólito es un hechicero. Su habilidad de conjuro es la Sabiduría.</p>"
+          "name": "Lanzamiento de Conjuros",
+          "description": "<p>[[lookup @name]] es un lanzador de conjuros de nivel 1. Su aptitud mágica es Sabiduría (salvación de conjuros CD 12, +4 a impactar con ataques de conjuro). [[lookup @name]] tiene preparados los siguientes conjuros de clérigo:</p><p>Trucos (a voluntad): <em>[[/item .Bnn9Nzajixvow9xi]]{luz}, [[/item .n9pJzTDsAwQxJVRl]]{llama sagrada}, [[/item .MUO1uYN7JR1hm4dR]]{taumaturgia}</em></p><p>Nivel 1 (3 espacios): <em>[[/item .8dzaICjGy6mTUaUr]]{bendecir}, [[/item .uUWb1wZgtMou0TVP]]{curar heridas}, [[/item .gvdA9nPuWLck4tBl]]{santuario}</em></p>",
+          "descriptionChat": "<p>La aptitud mágica de este acólito es Sabiduría.</p>"
         },
         "swpThURVHnaQRjfY": {
           "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
           "name": "Garrote",
-          "descriptionChat": "<p>Los Acólitos atacan con su Club.</p>"
+          "descriptionChat": "<p>El acólito ataca con su garrote.</p>"
         },
         "Bnn9Nzajixvow9xi": {
           "name": "Luz",
-          "description": "<p>Tocas un objeto que no mide más de 10 pies en cualquier dimensión. Hasta que el conjuro termina, el objeto arroja luz brillante en un radio de 20 pies y luz tenue por otros 20 pies. La luz puede ser coloreada como quieras. Cubrir completamente el objeto con algo opaco bloquea la luz. El conjuro termina si lo lanzas de nuevo o lo descartas como una acción.</p><p>Si usted apunta a un objeto sostenido o usado por una criatura hostil, esa criatura debe tener éxito en un lanzamiento de ahorro de Dexterity para evitar el conjuro.</p>"
+          "description": "<p>Tocas un objeto que no mida más de 10 pies en ninguna dimensión. Hasta que termine el conjuro, el objeto emite luz brillante en un radio de 20 pies y luz tenue 20 pies más allá. La luz puede ser del color que elijas. Cubrir por completo el objeto con algo opaco bloquea la luz. El conjuro termina si vuelves a lanzarlo o lo disipas como acción.</p><p>Si eliges un objeto que una criatura hostil lleve puesto o sostenga, esa criatura debe superar una tirada de salvación de Destreza para evitar el conjuro.</p>"
         },
         "n9pJzTDsAwQxJVRl": {
           "name": "Llama sagrada",
-          "description": "<p>El resplandor parecido a una llama desciende sobre una criatura que se puede ver dentro de su alcance. El objetivo debe tener éxito en un lanzamiento de ahorro de Dexterity o tomar 1d8 daño radiante. El objetivo no se beneficia de la cobertura de este lanzamiento de ahorro.</p><p>El daño del conjuro aumenta en 1d8 cuando alcanzas el 5o nivel (2d8), 11o nivel (3d8), y 17o nivel (4d8).</p>"
+          "description": "<p>Un resplandor parecido a una llama desciende sobre una criatura que puedas ver dentro del alcance. El objetivo debe superar una tirada de salvación de Destreza o sufrir 1d8 de daño radiante. No obtiene ningún beneficio de la cobertura para esta salvación.</p><p>El daño del conjuro aumenta en 1d8 cuando alcanzas el nivel 5 (2d8), el nivel 11 (3d8) y el nivel 17 (4d8).</p>"
         },
         "MUO1uYN7JR1hm4dR": {
           "name": "Taumaturgia",
-          "description": "<p>Usted crea uno de los siguientes efectos mágicos dentro del rango:</p>\n<ul>\n<li>Tu voz suena hasta tres veces más fuerte que lo normal durante 1 minuto.</li>\n<li>Haces que las llamas parpadean, se iluminan, se oscurecen o cambien de color durante 1 minuto.</li>\n<li>Causas temblores inofensivos en el suelo durante 1 minuto.</li>\n<li>Usted crea un sonido que se origina desde un punto de su elección dentro del rango.</li>\n<li>Haces que una puerta o ventana abierta se abra o cierre de golpe.</li>\n<li>Alteras la apariencia de tus ojos durante 1 minuto.</li>\n</ul>\n<p>Si lanzas este conjuro varias veces, puedes tener hasta tres de sus efectos de 1 minuto activos a la vez, y puedes descartar tal efecto como una acción.</p>"
+          "description": "<p>Creas uno de los siguientes efectos mágicos dentro del alcance:</p><ul><li>Tu voz resuena con hasta tres veces su volumen normal durante 1 minuto.</li><li>Haces que unas llamas parpadeen, aumenten o reduzcan su brillo o cambien de color durante 1 minuto.</li><li>Provocas temblores inofensivos en el suelo durante 1 minuto.</li><li>Creas un sonido que se origina en un punto que elijas dentro del alcance.</li><li>Haces que una puerta o ventana sin cerrar con llave se abra de golpe o se cierre de un portazo.</li><li>Alteras el aspecto de tus ojos durante 1 minuto.</li></ul><p>Si lanzas este conjuro varias veces, puedes tener activos hasta tres de sus efectos de 1 minuto a la vez, y puedes disipar uno de ellos como acción.</p>"
         },
         "8dzaICjGy6mTUaUr": {
-          "name": "Bendice.",
-          "description": "<p>Bendices hasta tres criaturas de tu elección dentro del rango. Cuando un objetivo hace un rollo de ataque o un lanzamiento de ahorro antes de que el conjuro termine, el objetivo puede rodar 1d4 y añadir el número rodado al rollo de ataque o lanzamiento de ahorro.</p>\n<p><strong>Niveles superiores.</strong> Al lanzar este conjuro usando una ranura para conjuros de 2o nivel o superior, puede apuntar a una criatura adicional por cada nivel de ranura por encima de 1o.</p>",
+          "name": "Bendecir",
+          "description": "<p>Bendices hasta tres criaturas de tu elección dentro del alcance. Cuando un objetivo realice una tirada de ataque o de salvación antes de que termine el conjuro, puede tirar 1d4 y sumar el resultado a la tirada de ataque o de salvación.</p><p><strong>A niveles superiores.</strong> Si lanzas este conjuro usando un espacio de nivel 2 o superior, puedes elegir una criatura adicional por cada nivel del espacio por encima de 1.</p>",
           "effects": {
             "8rP3gwmXVTgZqYZE": {
-              "name": "Bendice."
+              "name": "Bendecir"
             }
           }
         },
         "gvdA9nPuWLck4tBl": {
           "name": "Santuario",
-          "description": "<p>Usted protege a una criatura a su alcance contra el ataque. Hasta que termine el conjuro, cualquier criatura que apunte a la criatura custodiada con un ataque o un conjuro dañino primero debe hacer un lanzamiento de ahorro de Sabiduría. En un ahorro fallido, la criatura debe elegir un nuevo objetivo o perder el ataque o conjuro. Este conjuro no protege a la criatura protegida de los efectos del área, como la explosión de una bola de fuego.</p><p>Si la criatura custodiada hace un ataque o lanza un conjuro que afecta a una criatura enemiga, este conjuro termina.</p>"
+          "description": "<p>Proteges de los ataques a una criatura dentro del alcance. Hasta que termine el conjuro, cualquier criatura que elija a la criatura protegida como objetivo de un ataque o conjuro dañino debe realizar primero una tirada de salvación de Sabiduría. Si falla, debe elegir otro objetivo o perder el ataque o conjuro. Este conjuro no protege contra efectos de área, como la explosión de una bola de fuego.</p><p>Si la criatura protegida realiza un ataque o lanza un conjuro que afecte a una criatura enemiga, este conjuro termina.</p>"
         },
         "uUWb1wZgtMou0TVP": {
-          "name": "Heridas curativas",
-          "description": "<p>Una criatura que tocas recupera un número de puntos de impacto igual a 1d8 + tu modificador de habilidad de deletrear. Este conjuro no tiene ningún efecto en muertos vivientes o construcciones.</p><p><strong>Niveles superiores.</strong> Cuando usted lanza este conjuro usando una espacio de conjuro de 2o nivel o superior, la curación aumenta en 1d8 para cada nivel de ranura por encima de 1o.</p>"
+          "name": "Curar heridas",
+          "description": "<p>Una criatura a la que toques recupera tantos puntos de golpe como 1d8 + tu modificador por aptitud mágica. Este conjuro no tiene efecto sobre muertos vivientes ni autómatas.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro usando un espacio de nivel 2 o superior, la curación aumenta en 1d8 por cada nivel del espacio por encima de 1.</p>"
         }
       },
       "name": "Eshek",
-      "creatureSubtype": "Chultán Humano",
-      "languages": "Cualquier idioma (generalmente común)",
+      "creatureSubtype": "Humano chultano",
+      "languages": "Un idioma cualquiera (normalmente común)",
       "tokenName": "Eshek",
-      "biography": "<p>Eshek (NG macho Chultán humano) <strong>acólito</strong> de Savras) tropieza con los personajes en la calle y susurra, “Habla al sabio guardián de Orolunga, al este de Mbala. Ella puede dirigirte a lo que buscas. Entonces él se derrumba, inconsciente. Cuando se despierta momentos después, Eshek no tiene memoria de las últimas 12 horas aparte de una necesidad de conducir para encontrar personas que coincidan con las descripciones de los personajes. Está tan desconcertado por lo que acaba de pasar como probablemente lo estén los personajes, pero los ayudará como pueda. Como mínimo, sabe dónde está Mbala de hablar con los porteadores que han estado en Camp Vengeance.</p>"
+      "biography": "<p>Eshek, un <strong>acólito</strong> de Savras humano chultano NB, se acerca tambaleándose a los personajes en la calle y susurra: «Hablad con la sabia guardiana de Orolunga, al este de Mbala. Ella puede guiaros hacia lo que buscáis». Después cae inconsciente. Cuando despierta poco después, no recuerda nada de las últimas 12 horas salvo una necesidad imperiosa de encontrar a personas que encajen con la descripción de los personajes. Está tan desconcertado por lo ocurrido como probablemente lo estén ellos, pero los ayudará en lo que pueda. Al menos sabe dónde está Mbala gracias a sus conversaciones con porteadores que han estado en el Campamento Venganza.</p>"
     },
     "toaFaerieDragon0": {
       "alignment": "Caótico bueno",
@@ -9558,51 +9558,51 @@
       "alignment": "Legal bueno",
       "items": {
         "38I6bGoguRRefN6W": {
-          "name": "Lanzamiento de conjuros",
-          "description": "<p>[[lookup @name]] es un lanzador de conjuros de nivel 1. Su habilidad de conjuros es Sabiduría (salva CD 12, +4 para golpear con ataques de conjuros). Ella tiene siguientes conjuros clérigos preparados:</p><p>Cantrip (a voluntad): <em>[[/item .Bnn9Nzajixvow9xi]]{luz}, [[/item .n9pJzTDsAwQxJVRl]]{llama sagrada}, [[/item .MUO1uYN7JR1hm4dR]]{taumaturgia}</em></p><p>1er nivel (3 franjas horarias): <em>[[/item .8dzaICjGy6mTUaUr]]{bendice}, [[/item .uUWb1wZgtMou0TVP]]{curar heridas}, [[/item .gvdA9nPuWLck4tBl]]{santuario}</em></p>",
-          "descriptionChat": "<p>El acólito es un hechicero. Su habilidad de conjuro es la Sabiduría.</p>"
+          "name": "Lanzamiento de Conjuros",
+          "description": "<p>[[lookup @name]] es una lanzadora de conjuros de nivel 1. Su aptitud mágica es Sabiduría (salvación de conjuros CD 12, +4 a impactar con ataques de conjuro). Tiene preparados los siguientes conjuros de clérigo:</p><p>Trucos (a voluntad): <em>[[/item .Bnn9Nzajixvow9xi]]{luz}, [[/item .n9pJzTDsAwQxJVRl]]{llama sagrada}, [[/item .MUO1uYN7JR1hm4dR]]{taumaturgia}</em></p><p>Nivel 1 (3 espacios): <em>[[/item .8dzaICjGy6mTUaUr]]{bendecir}, [[/item .uUWb1wZgtMou0TVP]]{curar heridas}, [[/item .gvdA9nPuWLck4tBl]]{santuario}</em></p>",
+          "descriptionChat": "<p>La aptitud mágica de esta acólita es Sabiduría.</p>"
         },
         "swpThURVHnaQRjfY": {
           "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
           "name": "Garrote",
-          "descriptionChat": "<p>Los Acólitos atacan con su Club.</p>"
+          "descriptionChat": "<p>La acólita ataca con su garrote.</p>"
         },
         "Bnn9Nzajixvow9xi": {
           "name": "Luz",
-          "description": "<p>Tocas un objeto que no mide más de 10 pies en cualquier dimensión. Hasta que el conjuro termina, el objeto arroja luz brillante en un radio de 20 pies y luz tenue por otros 20 pies. La luz puede ser coloreada como quieras. Cubrir completamente el objeto con algo opaco bloquea la luz. El conjuro termina si lo lanzas de nuevo o lo descartas como una acción.</p><p>Si usted apunta a un objeto sostenido o usado por una criatura hostil, esa criatura debe tener éxito en un lanzamiento de ahorro de Dexterity para evitar el conjuro.</p>"
+          "description": "<p>Tocas un objeto que no mida más de 10 pies en ninguna dimensión. Hasta que termine el conjuro, el objeto emite luz brillante en un radio de 20 pies y luz tenue 20 pies más allá. La luz puede ser del color que elijas. Cubrir por completo el objeto con algo opaco bloquea la luz. El conjuro termina si vuelves a lanzarlo o lo disipas como acción.</p><p>Si eliges un objeto que una criatura hostil lleve puesto o sostenga, esa criatura debe superar una tirada de salvación de Destreza para evitar el conjuro.</p>"
         },
         "n9pJzTDsAwQxJVRl": {
           "name": "Llama sagrada",
-          "description": "<p>El resplandor parecido a una llama desciende sobre una criatura que se puede ver dentro de su alcance. El objetivo debe tener éxito en un lanzamiento de ahorro de Dexterity o tomar 1d8 daño radiante. El objetivo no se beneficia de la cobertura de este lanzamiento de ahorro.</p><p>El daño del conjuro aumenta en 1d8 cuando alcanzas el 5o nivel (2d8), 11o nivel (3d8), y 17o nivel (4d8).</p>"
+          "description": "<p>Un resplandor parecido a una llama desciende sobre una criatura que puedas ver dentro del alcance. El objetivo debe superar una tirada de salvación de Destreza o sufrir 1d8 de daño radiante. No obtiene ningún beneficio de la cobertura para esta salvación.</p><p>El daño del conjuro aumenta en 1d8 cuando alcanzas el nivel 5 (2d8), el nivel 11 (3d8) y el nivel 17 (4d8).</p>"
         },
         "MUO1uYN7JR1hm4dR": {
           "name": "Taumaturgia",
-          "description": "<p>Usted crea uno de los siguientes efectos mágicos dentro del rango:</p>\n<ul>\n<li>Tu voz suena hasta tres veces más fuerte que lo normal durante 1 minuto.</li>\n<li>Haces que las llamas parpadean, se iluminan, se oscurecen o cambien de color durante 1 minuto.</li>\n<li>Causas temblores inofensivos en el suelo durante 1 minuto.</li>\n<li>Usted crea un sonido que se origina desde un punto de su elección dentro del rango.</li>\n<li>Haces que una puerta o ventana abierta se abra o cierre de golpe.</li>\n<li>Alteras la apariencia de tus ojos durante 1 minuto.</li>\n</ul>\n<p>Si lanzas este conjuro varias veces, puedes tener hasta tres de sus efectos de 1 minuto activos a la vez, y puedes descartar tal efecto como una acción.</p>"
+          "description": "<p>Creas uno de los siguientes efectos mágicos dentro del alcance:</p><ul><li>Tu voz resuena con hasta tres veces su volumen normal durante 1 minuto.</li><li>Haces que unas llamas parpadeen, aumenten o reduzcan su brillo o cambien de color durante 1 minuto.</li><li>Provocas temblores inofensivos en el suelo durante 1 minuto.</li><li>Creas un sonido que se origina en un punto que elijas dentro del alcance.</li><li>Haces que una puerta o ventana sin cerrar con llave se abra de golpe o se cierre de un portazo.</li><li>Alteras el aspecto de tus ojos durante 1 minuto.</li></ul><p>Si lanzas este conjuro varias veces, puedes tener activos hasta tres de sus efectos de 1 minuto a la vez, y puedes disipar uno de ellos como acción.</p>"
         },
         "8dzaICjGy6mTUaUr": {
-          "name": "Bendice.",
-          "description": "<p>Bendices hasta tres criaturas de tu elección dentro del rango. Cuando un objetivo hace un rollo de ataque o un lanzamiento de ahorro antes de que el conjuro termine, el objetivo puede rodar 1d4 y añadir el número rodado al rollo de ataque o lanzamiento de ahorro.</p>\n<p><strong>Niveles superiores.</strong> Al lanzar este conjuro usando una ranura para conjuros de 2o nivel o superior, puede apuntar a una criatura adicional por cada nivel de ranura por encima de 1o.</p>",
+          "name": "Bendecir",
+          "description": "<p>Bendices hasta tres criaturas de tu elección dentro del alcance. Cuando un objetivo realice una tirada de ataque o de salvación antes de que termine el conjuro, puede tirar 1d4 y sumar el resultado a la tirada de ataque o de salvación.</p><p><strong>A niveles superiores.</strong> Si lanzas este conjuro usando un espacio de nivel 2 o superior, puedes elegir una criatura adicional por cada nivel del espacio por encima de 1.</p>",
           "effects": {
             "8rP3gwmXVTgZqYZE": {
-              "name": "Bendice."
+              "name": "Bendecir"
             }
           }
         },
         "gvdA9nPuWLck4tBl": {
           "name": "Santuario",
-          "description": "<p>Usted protege a una criatura a su alcance contra el ataque. Hasta que termine el conjuro, cualquier criatura que apunte a la criatura custodiada con un ataque o un conjuro dañino primero debe hacer un lanzamiento de ahorro de Sabiduría. En un ahorro fallido, la criatura debe elegir un nuevo objetivo o perder el ataque o conjuro. Este conjuro no protege a la criatura protegida de los efectos del área, como la explosión de una bola de fuego.</p><p>Si la criatura custodiada hace un ataque o lanza un conjuro que afecta a una criatura enemiga, este conjuro termina.</p>"
+          "description": "<p>Proteges de los ataques a una criatura dentro del alcance. Hasta que termine el conjuro, cualquier criatura que elija a la criatura protegida como objetivo de un ataque o conjuro dañino debe realizar primero una tirada de salvación de Sabiduría. Si falla, debe elegir otro objetivo o perder el ataque o conjuro. Este conjuro no protege contra efectos de área, como la explosión de una bola de fuego.</p><p>Si la criatura protegida realiza un ataque o lanza un conjuro que afecte a una criatura enemiga, este conjuro termina.</p>"
         },
         "uUWb1wZgtMou0TVP": {
-          "name": "Heridas curativas",
-          "description": "<p>Una criatura que tocas recupera un número de puntos de impacto igual a 1d8 + tu modificador de habilidad de deletrear. Este conjuro no tiene ningún efecto en muertos vivientes o construcciones.</p><p><strong>Niveles superiores.</strong> Cuando usted lanza este conjuro usando una espacio de conjuro de 2o nivel o superior, la curación aumenta en 1d8 para cada nivel de ranura por encima de 1o.</p>"
+          "name": "Curar heridas",
+          "description": "<p>Una criatura a la que toques recupera tantos puntos de golpe como 1d8 + tu modificador por aptitud mágica. Este conjuro no tiene efecto sobre muertos vivientes ni autómatas.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro usando un espacio de nivel 2 o superior, la curación aumenta en 1d8 por cada nivel del espacio por encima de 1.</p>"
         }
       },
       "name": "Inete",
-      "creatureSubtype": "Chultán Humano",
-      "languages": "Cualquier idioma (generalmente común)",
-      "biographyPublic": "<p><em>Véase también: @UUID[Compendium.dnd-tomb-annihilation.actors.Actor.toaGrandfatherZi]{Abuelo Zitembe}.</em></p>",
+      "creatureSubtype": "Humano chultano",
+      "languages": "Un idioma cualquiera (normalmente común)",
+      "biographyPublic": "<p><em>Consulta también: @UUID[Compendium.dnd-tomb-annihilation.actors.Actor.toaGrandfatherZi]{Abuelo Zitembe}.</em></p>",
       "tokenName": "Inete",
-      "biography": "<p>Inete (LG hembra Chultan humana <strong>acólito</strong> de Savras) ha tenido visiones perturbadoras de magos de ropa roja operando una base secreta en algún lugar de la cuenca de Aldani. La cabeza de su templo, @UUID[Actor.toaGrandfatherZi]{Abuelo Zitembe}, tiene demasiadas otras cosas en su mente, pero le ha dado permiso a Inete para investigar. Inete quisiera acompañar la expedición de los personajes por seguridad, si los personajes se dirigen hacia o a través de esa región. Ella proveerá su propia comida y suministros, y “donará” otros 100 gp a los gastos de la expedición. Ella insiste en pasar por el templo de Savras para recoger sus pertenencias e insta a los personajes a venir. Si lo hacen, los personajes pueden encontrarse con el abuelo Zitembe (véase el área 7).</p>"
+      "biography": "<p>Inete, una <strong>acólita</strong> de Savras humana chultana LB, ha tenido visiones inquietantes de magos con túnicas rojas que operan desde una base secreta en algún lugar de la cuenca Aldani. El dirigente de su templo, el @UUID[Actor.toaGrandfatherZi]{Abuelo Zitembe}, tiene demasiados asuntos que atender, pero le ha dado permiso para investigar. Si los personajes se dirigen a esa región o van a atravesarla, Inete quiere acompañar su expedición por seguridad. Llevará su propia comida y provisiones y «donará» otros 100 po para los gastos de la expedición. Insiste en pasar por el templo de Savras para recoger sus pertenencias y anima a los personajes a acompañarla. Si lo hacen, podrán conocer al Abuelo Zitembe (consulta la zona 7).</p>"
     },
     "toaJaro000000000": {
       "alignment": "Neutral bueno",
@@ -10077,33 +10077,33 @@
       "items": {
         "cac4FpQc3XabBwTj": {
           "name": "Ataque múltiple",
-          "description": "<p>[[lookup @name]] Hace dos. [[/item Mace]] ataques.</p>"
+          "description": "<p>[[lookup @name]] realiza dos ataques con [[/item Mace]]{maza}.</p>"
         },
         "9INT7D1zulhfsok7": {
           "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
           "name": "Ballesta pesada",
-          "descriptionChat": "<p>Los Thug atacan con su ballesta pesada.</p>"
+          "descriptionChat": "<p>La matona ataca con su ballesta pesada.</p>"
         },
         "6gRu9IFFkvxesFfK": {
           "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
           "name": "Maza",
-          "descriptionChat": "<p>Los Thug atacan con sus Mace.</p>"
+          "descriptionChat": "<p>La matona ataca con su maza.</p>"
         },
         "wonRQjOkc9E7RYtd": {
           "name": "Armadura de cuero",
-          "description": "<p>La coraza y los protectores de hombro de esta armadura están hechos de cuero que ha sido endurecido por ser hervido en aceite. El resto de la armadura está hecha de materiales más suaves y flexibles.</p>"
+          "description": "<p>El peto y las hombreras de esta armadura están hechos de cuero endurecido al hervirlo en aceite. El resto de la armadura se fabrica con materiales más blandos y flexibles.</p>"
         },
         "OE8y8otGDFop6Fzt": {
-          "name": "Tácticas de empaquetado",
-          "description": "<p>[[lookup @name]] tiene ventaja en un ataque rodando contra una criatura si al menos uno de sus aliados está a menos de 5 pies de la criatura y el aliado no está incapacitado.</p>"
+          "name": "Atacar en Manada",
+          "description": "<p>[[lookup @name]] tiene ventaja en las tiradas de ataque contra una criatura si al menos uno de sus aliados está a 5 pies o menos de ella y no está incapacitado.</p>"
         }
       },
       "name": "K’lahu",
-      "creatureSubtype": "Chultán Humano",
-      "languages": "cualquier idioma (generalmente común)",
-      "biographyPublic": "<p><em>Véase también: @UUID[Actor.toaTaban00000000]{Taban}</em></p>",
+      "creatureSubtype": "Humano chultano",
+      "languages": "Un idioma cualquiera (normalmente común)",
+      "biographyPublic": "<p><em>Consulta también: @UUID[Actor.toaTaban00000000]{Taban}</em></p>",
       "tokenName": "K’lahu",
-      "biography": "<p>K’lahu (N hembra Chultán humana) <strong>machista</strong>), una corredora de apuestas que hace apuestas en la Run del Verdugo (ver área 2), le pide a los aventureros que vengan con ella mientras cobra una deuda. El pago es el 10 por ciento de lo que se cobra en la deuda de 500 gp, que es debido por un hombre llamado @UUID[Actor.toaTaban00000000]{Taban} (N macho Chultan humano <strong>gladiador</strong>). Taban se niega a pagar nada hasta que se le golpea hasta 20 o menos puntos de impacto, por lo que ofrece una bolsa que contiene diez piedras preciosas de 50 gp. Avergonzado por su derrota y deseoso de redimirse, Taban se ofrece a unirse al partido como seguidor, exigiendo no pagar por la duración de la aventura.</p>"
+      "biography": "<p>K’lahu, una <strong>matona</strong> humana chultana N que trabaja como corredora de apuestas en la Carrera del Verdugo (consulta la zona 2), pide a los aventureros que la acompañen a cobrar una deuda. Ofrece como pago el 10 por ciento de lo que consiga cobrar de los 500 po que le debe un hombre llamado @UUID[Actor.toaTaban00000000]{Taban}, un <strong>gladiador</strong> humano chultano N. Taban se niega a pagar hasta que lo reduzcan a 20 puntos de golpe o menos; entonces entrega una bolsa con diez gemas de 50 po cada una. Avergonzado por su derrota y deseoso de redimirse, se ofrece a unirse al grupo como seguidor sin exigir pago alguno durante la aventura.</p>"
     },
     "toaKorhieDonadru": {
       "alignment": "Legal bueno",
@@ -10259,7 +10259,7 @@
       "items": {
         "NAmhPf8w89iV8CsY": {
           "name": "Ataque múltiple",
-          "description": "<p>[[lookup @name]] Hace dos. [[/item Shortsword]] ataques.</p>"
+          "description": "<p>[[lookup @name]] realiza dos ataques con [[/item Shortsword]]{espada corta}.</p>"
         },
         "BhYnUUBoU3ESkl1B": {
           "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
@@ -10268,23 +10268,23 @@
         },
         "q6pfCQyaPQSw2waZ": {
           "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-          "name": "Ballesa de mano",
-          "descriptionChat": "<p>El espía ataca con su ballesta de manos.</p>"
+          "name": "Ballesta de mano",
+          "descriptionChat": "<p>El espía ataca con su ballesta de mano.</p>"
         },
         "93TfWPoMzBoaneMx": {
-          "name": "Acción astuta",
-          "description": "<p>En cada uno de sus giros, [[lookup @name]] puede utilizar una acción adicional para tomar la &amp;Reference[dash], &amp;Reference[disengage]o bien &amp;Reference[hide] acción.</p>"
+          "name": "Acción Astuta",
+          "description": "<p>En cada uno de sus turnos, [[lookup @name]] puede usar una acción adicional para realizar la acción &amp;Reference[dash]{Correr}, &amp;Reference[disengage]{Destrabarse} u &amp;Reference[hide]{Ocultarse}.</p>"
         },
         "TEgU7pKAAA0f35Yw": {
-          "name": "Ataque furtivo",
-          "description": "<p>[[lookup @name]] reparte un extra [[/damage average]] cuando golpea un objetivo con un ataque de arma y tiene ventaja en el rollo de ataque, o cuando el objetivo está a menos de 5 pies de un aliado de [[lookup @name]] Eso no es incapacitado y no tiene desventaja en el ataque.</p>"
+          "name": "Ataque Furtivo",
+          "description": "<p>[[lookup @name]] causa [[/damage average]] adicionales cuando impacta a un objetivo con un ataque con arma y tiene ventaja en la tirada de ataque, o cuando el objetivo está a 5 pies o menos de un aliado de [[lookup @name]] que no esté incapacitado y no tiene desventaja en la tirada de ataque.</p>"
         }
       },
       "name": "Lerek Dashlynd",
-      "creatureSubtype": "Humano Illuskan",
-      "languages": "dos cualquiera",
+      "creatureSubtype": "Humano illuskano",
+      "languages": "Dos idiomas cualesquiera",
       "tokenName": "Lerek Dashlynd",
-      "biography": "<p>Lerek Dashlynd (LN macho humano Illuskan) <strong>espía</strong>), un agente de la Alianza de los Señores, ofrece el comercio de un barco de vela por un mapa exacto de Chul que muestra la ubicación exacta de las ruinas de Nangalore y Orolunga. Lerek representa los intereses ricos de Waterdhavian, y la oferta es genuina. Si los personajes presentan un mapa así, Lerek tiene un reparto clérigo. <em>@UUID[Compendium.dnd5e.spells.Item.4v2H3hHb3Ph9XLNd]{augury}</em> antes de aceptar comprarlo, para asegurarse de que no está comprando una falsificación. Una vez que está convencido de que el mapa es genuino, Lerek se encarga de que el barco prometido llegue en 10 días.</p>"
+      "biography": "<p>Lerek Dashlynd, un <strong>espía</strong> humano illuskano LN y agente de la Alianza de los Lores, ofrece un velero a cambio de un mapa preciso de Chult que muestre la ubicación exacta de las ruinas de Nangalore y Orolunga. Representa los intereses de personas adineradas de Waterdeep y su oferta es real. Si los personajes le presentan un mapa así, Lerek hace que un clérigo lance <em>@UUID[Compendium.dnd5e.spells.Item.4v2H3hHb3Ph9XLNd]{augurio}</em> antes de comprarlo para asegurarse de que no sea falso. Cuando se convence de su autenticidad, organiza la llegada del barco prometido en 10 días.</p>"
     },
     "toaLion000000000": {
       "alignment": "Sin alineamiento",
@@ -10896,15 +10896,15 @@
         "HwktDnB8qdr0BYGZ": {
           "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
           "name": "Garrote",
-          "descriptionChat": "<p>El Común ataca con su Club.</p>"
+          "descriptionChat": "<p>El plebeyo ataca con su garrote.</p>"
         }
       },
       "name": "Omala",
-      "creatureSubtype": "Chultán Humano",
-      "languages": "cualquier idioma (generalmente común)",
-      "biographyPublic": "<p><em>Véase también: @UUID[Actor.xM5ii0MGoWV7nBAQ]{Kwayothé} y @UUID[Actor.XJjHrsutuT9M3r1r]{Shago}.</em></p>",
+      "creatureSubtype": "Humano chultano",
+      "languages": "Un idioma cualquiera (normalmente común)",
+      "biographyPublic": "<p><em>Consulta también: @UUID[Actor.xM5ii0MGoWV7nBAQ]{Kwayothé} y @UUID[Actor.XJjHrsutuT9M3r1r]{Shago}.</em></p>",
       "tokenName": "Omala",
-      "biography": "<p>Omala (N macho Chultán humano <strong>pleader</strong>) es un maestro colorista en las obras de tinte (@UUID[JournalEntry.toaCh1PortNyanza.JournalEntryPage.BXu3iKbLywHjYHna#23.-dye-works]{zona 23}). Recientemente compró algo de fruta de mono bailando en el mercado negro y los usó para hacer y vender tinte. Poco después, recibió una señal de hierro de la Sociedad Ytepka... una advertencia sombría. Desea expiar por su crimen y busca una audiencia con @UUID[Actor.xM5ii0MGoWV7nBAQ]{Kwayothé}, el príncipe mercante que controla la venta legal de frutas.</p><p>Temiendo por su vida, Omala pide a los aventureros que lo acompañen a Goldenthrone (ver @UUID[JournalEntry.toaCh1PortNyanza.JournalEntryPage.BXu3iKbLywHjYHna#4.-goldenthrone]{zona 4}), donde planea pedir perdón a Kwayothé.</p><p>No tiene dinero para ofrecer a los personajes como recompensa. Kwayothé está dispuesto a perdonar la falta de juicio de Omala siempre que los personajes acepten matar a un hombre llamado @UUID[Actor.XJjHrsutuT9M3r1r]{Shago} dentro de los próximos 10 días —sin hacer preguntas— y hablar de la acción a nadie. Kwayothé les dice que Shago trabaja como guía desde Fort Beluarian. Si los personajes fallan en esta tarea, Kwayothé ha sentenciado a Omala a la ejecución del verdugo (véase @UUID[JournalEntry.toaCh1PortNyanza.JournalEntryPage.BXu3iKbLywHjYHna#2.-executioners-run]{zona 2}) por su crimen.</p>"
+      "biography": "<p>Omala, un <strong>plebeyo</strong> humano chultano N, es un maestro colorista de la fábrica de tintes (@UUID[JournalEntry.toaCh1PortNyanza.JournalEntryPage.BXu3iKbLywHjYHna#23.-dye-works]{zona 23}). Hace poco compró fruta del mono bailongo en el mercado negro y la utilizó para fabricar tinte y venderlo. Poco después recibió una ficha de hierro de la Sociedad Ytepka, una sombría advertencia. Quiere expiar su delito y solicita una audiencia con @UUID[Actor.xM5ii0MGoWV7nBAQ]{Kwayothé}, la princesa mercante que controla la venta legal de fruta.</p><p>Temiendo por su vida, Omala pide a los aventureros que lo acompañen a Goldenthrone (consulta la @UUID[JournalEntry.toaCh1PortNyanza.JournalEntryPage.BXu3iKbLywHjYHna#4.-goldenthrone]{zona 4}), donde piensa suplicar el perdón de Kwayothé.</p><p>No tiene dinero para recompensarlos. Kwayothé está dispuesta a perdonar su falta de juicio si los personajes aceptan matar a un hombre llamado @UUID[Actor.XJjHrsutuT9M3r1r]{Shago} en los próximos 10 días, sin hacer preguntas ni hablar del asunto con nadie. Les dice que Shago trabaja como guía en Fuerte Beluarian. Si fracasan, Kwayothé condena a Omala a la Carrera del Verdugo (consulta la @UUID[JournalEntry.toaCh1PortNyanza.JournalEntryPage.BXu3iKbLywHjYHna#2.-executioners-run]{zona 2}) por su delito.</p>"
     },
     "toaOrdFirebeard0": {
       "alignment": "Legal bueno",
@@ -12245,52 +12245,52 @@
       "items": {
         "sSs3hSzkKBMNBgTs": {
           "name": "Escudo",
-          "description": "<p>Un escudo está hecho de madera o metal y se lleva en una mano. Wieling un escudo aumenta su clase de armadura en 2. Sólo puedes beneficiarte de un escudo a la vez.</p>"
+          "description": "<p>Un escudo está hecho de madera o metal y se lleva en una mano. Empuñar un escudo aumenta tu Clase de Armadura en 2. Solo puedes beneficiarte de un escudo a la vez.</p>"
         },
         "QuVUb9i809rjJWcL": {
           "name": "Ataque múltiple",
-          "description": "<p>[[lookup @name]] hace tres ataques cuerpo a cuerpo o dos ataques a rango.</p>"
+          "description": "<p>[[lookup @name]] realiza tres ataques cuerpo a cuerpo o dos ataques a distancia.</p>"
         },
         "eL15erXXE9EuXWSB": {
           "name": "Lanza",
-          "description": "<p>[[/attack extended]]. [[/damage extended average]] o [[/damage twoHanded average]]  si se usa con dos manos para hacer un ataque cuerpo a cuerpo.</p>",
-          "descriptionChat": "<p>El Gladiator ataca con su lanza.</p>"
+          "description": "<p>[[/attack extended]]. [[/damage extended average]] o [[/damage twoHanded average]] si se empuña a dos manos para realizar un ataque cuerpo a cuerpo.</p>",
+          "descriptionChat": "<p>El gladiador ataca con su lanza.</p>"
         },
         "GO2zHOdb2GBHd2U4": {
           "name": "Armadura de cuero tachonado",
-          "description": "<p>Hecho de cuero resistente pero flexible, el cuero tachonado está reforzado con remaches o pinchos de cierre.</p>"
+          "description": "<p>Esta armadura está hecha de cuero resistente pero flexible, reforzado con remaches o púas muy juntos.</p>"
         },
         "YbB6EsBwNaEzVlxU": {
           "name": "Valiente",
-          "description": "<p>[[lookup @name]] tiene ventaja en los lanzamientos de ahorro en contra de ser asustado.</p>"
+          "description": "<p>[[lookup @name]] tiene ventaja en las tiradas de salvación para evitar quedar asustado.</p>"
         },
         "NPTnV9YupSeKJrQ0": {
           "name": "Bruto",
-          "description": "<p>Un arma cuerpo a cuerpo trata una muerte extra de su daño cuando [[lookup @name]] golpes con él (incluido en el ataque).</p>"
+          "description": "<p>Cuando [[lookup @name]] impacta con un arma cuerpo a cuerpo, esta causa un dado de daño adicional, ya incluido en el ataque.</p>"
         },
         "GrUneCbXCYngdpjf": {
           "name": "Golpe con escudo",
-          "description": "<p>[[/attack extended]]. [[/damage extended average]]. Si el objetivo es una criatura mediana o más pequeña, debe tener éxito en un [[/save format=long]] ahorro tirar o ser golpeado &amp;Reference[prone apply=false]{propenso}.</p>",
-          "descriptionChat": "<p>El Gladiator ataca con su Shield Bash. Si el objetivo es una criatura mediana o más pequeña, debe hacer un <strong>Fuerza</strong> ahorro tirar o ser golpeado propenso.</p>",
+          "description": "<p>[[/attack extended]]. [[/damage extended average]]. Si el objetivo es una criatura Mediana o más pequeña, debe superar una tirada de salvación [[/save format=long]] o quedar &amp;Reference[prone apply=false]{derribado}.</p>",
+          "descriptionChat": "<p>El gladiador realiza un golpe con escudo. Si el objetivo es una criatura Mediana o más pequeña, debe realizar una tirada de salvación de <strong>Fuerza</strong> o quedar derribado.</p>",
           "effects": {
             "NbjGgEjPT69tp1Gr": {
-              "name": "Prona",
-              "description": "<p>El objetivo está golpeado. &amp;Reference[prone apply=false]{propenso} de ser golpeado por el escudo de la criatura atacante.</p>"
+              "name": "Derribado",
+              "description": "<p>El objetivo queda &amp;Reference[prone apply=false]{derribado} por el golpe de escudo de la criatura atacante.</p>"
             }
           }
         },
         "AwP14Hu6dPdnSbQt": {
           "name": "Parada",
-          "description": "<p>[[lookup @name]] añade 3 a su AC contra un ataque cuerpo a cuerpo que lo golpearía. Para ello, el [[lookup @name]] debe ver al atacante y estar empuñando un arma de combate.</p>",
-          "descriptionChat": "<p>El gladiador añade 3 a su <strong>CA</strong> contra un ataque que lo golpearía.</p>"
+          "description": "<p>[[lookup @name]] añade 3 a su CA contra un ataque cuerpo a cuerpo que fuera a impactarlo. Para hacerlo, [[lookup @name]] debe ver al atacante y estar empuñando un arma cuerpo a cuerpo.</p>",
+          "descriptionChat": "<p>El gladiador añade 3 a su <strong>CA</strong> contra un ataque cuerpo a cuerpo que fuera a impactarlo.</p>"
         }
       },
       "name": "Taban",
-      "creatureSubtype": "Chultán Humano",
-      "languages": "cualquier idioma (generalmente común)",
-      "biographyPublic": "<p><em>Véase también: @UUID[Actor.toaKlahu00000000]{K’lahu}</em></p>",
+      "creatureSubtype": "Humano chultano",
+      "languages": "Un idioma cualquiera (normalmente común)",
+      "biographyPublic": "<p><em>Consulta también: @UUID[Actor.toaKlahu00000000]{K’lahu}</em></p>",
       "tokenName": "Taban",
-      "biography": "<p>@UUID[Actor.toaKlahu00000000]{K’lahu} (N hembras de Chultán <strong>machista</strong>), una corredora de apuestas que hace apuestas en la Run del Verdugo (ver área 2), le pide a los aventureros que vengan con ella mientras cobra una deuda. La paga es el 10 por ciento de lo que se cobra en la deuda de 500 gp, que es debido por un hombre llamado Taban (N masculino Chultan humano <strong>gladiador</strong>). Taban se niega a pagar nada hasta que se le golpea hasta 20 o menos puntos de impacto, por lo que ofrece una bolsa que contiene diez piedras preciosas de 50 gp. Avergonzado por su derrota y deseoso de redimirse, Taban se ofrece a unirse al partido como seguidor, exigiendo no pagar por la duración de la aventura.</p>"
+      "biography": "<p>@UUID[Actor.toaKlahu00000000]{K’lahu}, una <strong>matona</strong> humana chultana N que trabaja como corredora de apuestas en la Carrera del Verdugo (consulta la zona 2), pide a los aventureros que la acompañen a cobrar una deuda. Ofrece como pago el 10 por ciento de lo que consiga cobrar de los 500 po que le debe un hombre llamado Taban, un <strong>gladiador</strong> humano chultano N. Taban se niega a pagar hasta que lo reduzcan a 20 puntos de golpe o menos; entonces entrega una bolsa con diez gemas de 50 po cada una. Avergonzado por su derrota y deseoso de redimirse, se ofrece a unirse al grupo como seguidor sin exigir pago alguno durante la aventura.</p>"
     },
     "toaTerracottaWar": {
       "alignment": "Sin alineamiento",

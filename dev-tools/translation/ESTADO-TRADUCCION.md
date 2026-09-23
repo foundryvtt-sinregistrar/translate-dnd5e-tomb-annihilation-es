@@ -2102,18 +2102,31 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   se añaden etiquetas españolas. Su resolución con nombres traducidos queda
   pendiente de la revisión funcional, como las referencias similares ya anotadas.
 
+### appendix-d-sidequest-npcs — Seis PNJ de las misiones de Puerto Nyanzaru
+
+- Revisados 264 campos de K’lahu, Taban, Omala, Eshek, Inete y Lerek Dashlynd:
+  seis páginas y ambas copias de los actores. Historias contrastadas con las
+  páginas físicas 17–18; perfiles y conjuros con el exportado inglés.
+- Comprobados la deuda y el umbral de rendición de Taban, los diez días de
+  los encargos de Omala y Lerek, las doce horas perdidas de Eshek y la
+  aportación de Inete. Corregida la concordancia de los mensajes de chat.
+- Ataque Furtivo de Lerek tampoco incluye «una vez por turno» en el
+  exportado; se registra para revisión funcional sin añadir una regla al texto.
+- Conservada la indicación «al este de Mbala» que comparten ambos textos
+  de la misión de Eshek, pendiente de contrastar con el mapa en la revisión final.
+
 ## Balance de revisión editorial
 
-- 837 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 843 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 232 de los apéndices A, B, C, D y F.
-  No equivale a 837 páginas del PDF.
-- 7245 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 7245 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 238 de los apéndices A, B, C, D y F.
+  No equivale a 843 páginas del PDF.
+- 7509 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 7509 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas noventa biografías en ambas copias de actores: siete
-  príncipes y ochenta y tres criaturas o PNJ del apéndice D. Siguen pendientes las demás
+  insertado. Revisadas noventa y seis biografías en ambas copias de actores: siete
+  príncipes y ochenta y nueve criaturas o PNJ del apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las
