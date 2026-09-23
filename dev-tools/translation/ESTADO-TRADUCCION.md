@@ -2089,18 +2089,31 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   a Eku en el documento 4. La lista de conjuros conserva «3/día» y «1/día»
   sin añadir «cada uno», ausente del texto inglés exportado.
 
+### appendix-d-six-dinosaurs — Seis dinosaurios adicionales
+
+- Revisados 154 campos: seis páginas y ambas copias de alosaurio,
+  anquilosaurio, plesiosaurio, pteranodon, triceratops y tiranosaurio rex.
+  Nombres cotejados con las referencias físicas 199–200; las biografías
+  genéricas y los perfiles se revisan contra el exportado inglés.
+- Corregidos plurales impropios en los nombres de las fichas. Conservadas
+  las distancias de Abalanzarse y Carga Arrolladora, la hora de respiración
+  del plesiosaurio y la obligación de atacar a objetivos distintos del tiranosaurio.
+- Las referencias por nombre `Bite` y `Tail` mantienen sus claves técnicas;
+  se añaden etiquetas españolas. Su resolución con nombres traducidos queda
+  pendiente de la revisión funcional, como las referencias similares ya anotadas.
+
 ## Balance de revisión editorial
 
-- 831 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 837 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 226 de los apéndices A, B, C, D y F.
-  No equivale a 831 páginas del PDF.
-- 7091 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 7091 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 232 de los apéndices A, B, C, D y F.
+  No equivale a 837 páginas del PDF.
+- 7245 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 7245 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas ochenta y cuatro biografías en ambas copias de actores: siete
-  príncipes y setenta y siete criaturas o PNJ del apéndice D. Siguen pendientes las demás
+  insertado. Revisadas noventa biografías en ambas copias de actores: siete
+  príncipes y ochenta y tres criaturas o PNJ del apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las
