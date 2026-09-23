@@ -108381,6 +108381,160 @@
           "note": "Foundry advice translated from the supplied export; module-specific labels checked against lang/es.json. Runtime behavior not verified."
         }
       ]
+    },
+    {
+      "id": "credits-PL7OMFn9L5TfHEjK",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCredits000000.pages.PL7OMFn9L5TfHEjK.text",
+          "sourceSha256": "a882b3db03981d0a660e4b6c07e7f0e481c4f9eeaabe9ad367b2afa069caafc4",
+          "translationSha256": "58844f069108a734d0b79cad1f9aa7655318bbad110c9153f6f7c92476d49df1",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Credits and copyright notice translated against the supplied English export. Personal names, bibliography titles, dates, trademarks and links retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCredits000000.pages.PL7OMFn9L5TfHEjK.name",
+          "sourceSha256": "9b4626c5327f0e46c587f1fdc843e37ee805edc69d0797dfb68cea1a77f2d769",
+          "translationSha256": "6a06d1c655cdf7efdd9f8b957547cb77f1c9236c3817cfe5d6aa5ec346f93d84",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Credits and copyright notice translated against the supplied English export. Personal names, bibliography titles, dates, trademarks and links retained."
+        }
+      ]
+    },
+    {
+      "id": "credits-HfaNF8Ou19FKaPS9",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCredits000000.pages.HfaNF8Ou19FKaPS9.text",
+          "sourceSha256": "6659d7ceeff38494c76f4b5c7a357a727050889d1b45ad6140e8e5b0d37b70c7",
+          "translationSha256": "6eaf18be0aa5a0ddb9c7129c884d79277f794af9565903102a92a1a8c15ebb7c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Credits and copyright notice translated against the supplied English export. Personal names, bibliography titles, dates, trademarks and links retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCredits000000.pages.HfaNF8Ou19FKaPS9.name",
+          "sourceSha256": "c011d6097bfbc8e936280addcf2e3e7d06ea2223ffd596973191b800a7035c32",
+          "translationSha256": "3fbec424ab7c03c26b4668fa04f119f448a17c21a34c24be397cbeff5cf46c09",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Credits and copyright notice translated against the supplied English export. Personal names, bibliography titles, dates, trademarks and links retained."
+        }
+      ]
+    },
+    {
+      "id": "credits-vV1DT4hYe6WuLRR1",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCredits000000.pages.vV1DT4hYe6WuLRR1.text",
+          "sourceSha256": "2101bbcf5ff61023afcc6e35bb500916c21981c14d05c3d7ec050418bb6c5d26",
+          "translationSha256": "e9abb9fa97dd5f17ac97cff5b5e237d44871ce6b982c86fddd4f30f566f2d407",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Credits and copyright notice translated against the supplied English export. Personal names, bibliography titles, dates, trademarks and links retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCredits000000.pages.vV1DT4hYe6WuLRR1.name",
+          "sourceSha256": "0b7d1546b4381ca86cd03ba686d8723792c617bac30a614bea5c17677077def8",
+          "translationSha256": "5658ab3a2bac734134b843ebcddcb34cf6d03a1ff45511053f3db2c9edbf2b09",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Credits and copyright notice translated against the supplied English export. Personal names, bibliography titles, dates, trademarks and links retained."
+        }
+      ]
+    },
+    {
+      "id": "changelog-q63eXsDgM62uWnm6",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaChangelog0000.pages.q63eXsDgM62uWnm6.text",
+          "sourceSha256": "778cbc52492167ae17fc481ab62401186f1afaa537739bb0552f1ca49ac37aa0",
+          "translationSha256": "5c81b62cd93431d4692ef38831dc7e6a925646c4b4e4402cb9eb753d4172ef6b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Historical release notes translated from the supplied export; claims about fixes are not runtime verification. Version numbers, issue labels, code identifiers and links retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaChangelog0000.pages.q63eXsDgM62uWnm6.name",
+          "sourceSha256": "92521fc3cbd964bdc9f584a991b89fddaa5754ed1cc96d6d42445338669c1305",
+          "translationSha256": "92521fc3cbd964bdc9f584a991b89fddaa5754ed1cc96d6d42445338669c1305",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Historical release notes translated from the supplied export; claims about fixes are not runtime verification. Version numbers, issue labels, code identifiers and links retained."
+        }
+      ]
+    },
+    {
+      "id": "changelog-eEx0nqdFwoemR3UY",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaChangelog0000.pages.eEx0nqdFwoemR3UY.text",
+          "sourceSha256": "0b38d9f97eb31031217b5deba18b288bd48856fad2c241756f3d8ac14cfb61ad",
+          "translationSha256": "aed6769eae57e273c325885b363942d974c0cd00f2e96ad3c5f163d9f19ea7f7",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Historical release notes translated from the supplied export; claims about fixes are not runtime verification. Version numbers, issue labels, code identifiers and links retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaChangelog0000.pages.eEx0nqdFwoemR3UY.name",
+          "sourceSha256": "7fbd210ebec11f65a97190ef900795c4b8da3805af3f5a1b8d1d272556b292ca",
+          "translationSha256": "7fbd210ebec11f65a97190ef900795c4b8da3805af3f5a1b8d1d272556b292ca",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Historical release notes translated from the supplied export; claims about fixes are not runtime verification. Version numbers, issue labels, code identifiers and links retained."
+        }
+      ]
+    },
+    {
+      "id": "changelog-YZ8Zy269Zu0Tb1gn",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaChangelog0000.pages.YZ8Zy269Zu0Tb1gn.text",
+          "sourceSha256": "74d4ae8df20a669bacff2b710a973d028bb6c6b13c967e6c337da25f51bab347",
+          "translationSha256": "103d2d4426b5313ed60b8a98d25e92a4cda4c89b358fb0faaa37bb8c977884c3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Historical release notes translated from the supplied export; claims about fixes are not runtime verification. Version numbers, issue labels, code identifiers and links retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaChangelog0000.pages.YZ8Zy269Zu0Tb1gn.name",
+          "sourceSha256": "9f77034b1eb57d24f21ac7deb65c9cc99f63b72775e311f1f280ab2b6c2e06a2",
+          "translationSha256": "9f77034b1eb57d24f21ac7deb65c9cc99f63b72775e311f1f280ab2b6c2e06a2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Historical release notes translated from the supplied export; claims about fixes are not runtime verification. Version numbers, issue labels, code identifiers and links retained."
+        }
+      ]
+    },
+    {
+      "id": "changelog-N1USQMYF4mqEoQiq",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaChangelog0000.pages.N1USQMYF4mqEoQiq.text",
+          "sourceSha256": "75288049612f8071867d7b1df8968695f87059a44ff32c20f4900df4b6652d1b",
+          "translationSha256": "923261ca59b3da5cb9a0cb6f8dc4ad37b96e43abdce0ee3444c195d2216c590c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Historical release notes translated from the supplied export; claims about fixes are not runtime verification. Version numbers, issue labels, code identifiers and links retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaChangelog0000.pages.N1USQMYF4mqEoQiq.name",
+          "sourceSha256": "206620a657f1ccc8af72b866fdcef20e641c48f39ce27f338ce8313949c63e53",
+          "translationSha256": "206620a657f1ccc8af72b866fdcef20e641c48f39ce27f338ce8313949c63e53",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Historical release notes translated from the supplied export; claims about fixes are not runtime verification. Version numbers, issue labels, code identifiers and links retained."
+        }
+      ]
     }
   ]
 }

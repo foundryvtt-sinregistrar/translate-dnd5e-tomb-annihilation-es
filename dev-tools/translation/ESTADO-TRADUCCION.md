@@ -2381,16 +2381,30 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   la auditoría estricta actual. Quedan pendientes su traducción y la validación
   de accesibilidad; los pies de imagen y el texto visible sí están revisados.
 
+### credits-changelog — Créditos, licencia e historial
+
+- Revisadas siete páginas, 14 campos, del exportado inglés. Conservados los
+  nombres de personas, títulos bibliográficos originales, fechas, marcas,
+  enlaces de incidencias e identificadores de código. Traducidos los cargos,
+  el aviso de derechos y las notas de las versiones 1.0.0 a 1.2.1.
+- El historial 1.2.0 afirma corregir Mirada aterradora de Valindra, pero su
+  descripción exportada aún contiene `grappled`; el efecto separado contiene
+  `frightened`. El historial se traduce como registro histórico y no acredita
+  que todos los datos actuales incorporen cada corrección.
+- El primer enlace de la versión 1.1.0 muestra #1178 y apunta a la incidencia
+  1188. Se conserva la discrepancia del original para su comprobación posterior.
+
 ## Balance de revisión editorial
 
-- 924 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
   del capítulo 4, 126 del capítulo 5, 288 de los apéndices A, B, C, D y F
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
-  de Foundry. No equivale a 924 páginas del PDF.
-- 10625 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 10625 campos distintos.
+  de Foundry, tres de créditos y cuatro de historial.
+  No equivale a 931 páginas del PDF.
+- 10639 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 10639 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento treinta y cuatro biografías en ambas copias de actores: siete
   príncipes y ciento veintisiete criaturas o PNJ vinculados al apéndice D. Siguen pendientes las demás
