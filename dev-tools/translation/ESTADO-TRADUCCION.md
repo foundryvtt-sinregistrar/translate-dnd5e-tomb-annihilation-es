@@ -1488,6 +1488,22 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   presentación de su tirada en Foundry antes de eliminar la repetición.
 - Auditorías técnica y editorial sin errores.
 
+### appendix-b-terrain — Tablas por terreno de Chult y Omu
+
+- Revisados nombres y resultados de doce tablas: nueve de Chult y tres de
+  Omu, con referencias físicas 195, 196 y 205. Añadidos 423 registros.
+- La mayoría de resultados son Embed sin texto traducible. Comprobado que
+  todos apuntan a páginas existentes del apéndice B ya revisadas. Estos
+  registros acreditan esa comprobación, no 423 traducciones nuevas de prosa.
+- Sincronizadas las copias de exploradores y exploradores muertos que estaban
+  escritas directamente en algunas tablas, conservando sus inserciones.
+- Conservados los rangos y probabilidades originales; este bloque no acredita
+  una comparación estadística entre ediciones ni una ejecución en Foundry.
+- Cerrada la revisión de texto de los diarios y las diecinueve tablas nuevas
+  del apéndice B, además de Puerto Nyanzaru, revisada previamente. Siguen
+  pendientes actores enlazados y los problemas funcionales documentados.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
 - 751 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -1495,8 +1511,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
   del capítulo 4, 126 del capítulo 5 y 146 de los apéndices A, B, C y F.
   No equivale a 751 páginas del PDF.
-- 1948 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1948 campos distintos.
+- 2371 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 2371 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz

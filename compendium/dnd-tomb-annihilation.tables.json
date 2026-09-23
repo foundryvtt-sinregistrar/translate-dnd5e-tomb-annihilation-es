@@ -1216,7 +1216,7 @@
       }
     },
     "toaencJungle0000": {
-      "name": "Selva: No hay muertos vivientes",
+      "name": "Selva: sin muertos vivientes",
       "results": {
         "HDnpCGLLpCJbEDCp": {
           "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.kcNFt99uaTAlXhsn caption=false cite=false]</p>"
@@ -1291,10 +1291,10 @@
           "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.qZB5LogHGOr5MCiX caption=false cite=false]</p>"
         },
         "I9ewCCBPwImsGkvb": {
-          "description": "<p>Chul está lleno de cadáveres y huesos de los que han caído víctimas de sus terrores. Cuando los personajes descubren una de esas víctimas, rodar un [[/r d20]] y consultar a la @UUID[Compendium.dnd-tomb-annihilation.tables.RollTable.dmgRanEncDeadExp]{Exploradores muertos} mesa para determinar lo que encuentran. Luego roda una vez en el @UUID[Compendium.dnd-tomb-annihilation.tables.RollTable.dmgTreasureDrops]{Gotas de tesoro} mesa para ver qué, en su caso, se puede encontrar en o cerca de los restos.</p>"
+          "description": "<p>Chult está sembrado de cadáveres y huesos de quienes han sucumbido a sus horrores. Cuando los personajes descubran una de estas víctimas, tira un [[/r d20]] y consulta la tabla @UUID[Compendium.dnd-tomb-annihilation.tables.RollTable.dmgRanEncDeadExp]{Exploradores muertos} para determinar qué encuentran. Después, tira una vez en la tabla @UUID[Compendium.dnd-tomb-annihilation.tables.RollTable.dmgTreasureDrops]{Tesoros obtenidos} para averiguar si hay algo de valor entre los restos o cerca de ellos.</p>"
         },
         "2P3CnNzxVWR7QRrr": {
-          "description": "<p>El partido se encuentra con otro @UUID[Actor.toaEncExplorers0]{banda de exploradores}, que consiste en un mago, un sacerdote, un explorador, y 1d6 guerreros tribales. Rodar un d6 para determinar el @UUID[Compendium.dnd-tomb-annihilation.tables.RollTable.toaAppBExplorers]{situación del grupo}:</p><p>@embed[Compendium.dnd-tomb-annihilation.tables.RollTable.toaAppBExplorers rollable classes=\"caption-top\"]</p>"
+          "description": "<p>El grupo se encuentra con otra @UUID[Actor.toaEncExplorers0]{banda de exploradores}, formada por un mago, un sacerdote, un batidor y 1d6 guerreros tribales. Tira un d6 para determinar la @UUID[Compendium.dnd-tomb-annihilation.tables.RollTable.toaAppBExplorers]{situación del grupo}:</p><p>@embed[Compendium.dnd-tomb-annihilation.tables.RollTable.toaAppBExplorers rollable classes=\"caption-top\"]</p>"
         },
         "xOq5J0mUKOgO7ODP": {
           "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.uK4SZtMPjJiX1Gch caption=false cite=false]</p>"
@@ -1422,7 +1422,7 @@
       }
     },
     "toaencJungle1000": {
-      "name": "Selva: Menos muertos vivientes",
+      "name": "Selva: pocos muertos vivientes",
       "results": {
         "CAQDS1Xxt6mRy604": {
           "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.kcNFt99uaTAlXhsn caption=false cite=false]</p>"
@@ -1589,7 +1589,7 @@
       }
     },
     "toaencJungle2000": {
-      "name": "Selva: Mayor No Muerto",
+      "name": "Selva: muchos muertos vivientes",
       "results": {
         "Uw9dirgc0jOOgBCv": {
           "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.nYaWMaTC90KIkJrz caption=false cite=false]</p>"
@@ -2226,7 +2226,7 @@
       }
     },
     "toaencWasteland0": {
-      "name": "Tierras baldías",
+      "name": "Eriales",
       "results": {
         "dNxU3N7IcK8uDhDr": {
           "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.nYaWMaTC90KIkJrz caption=false cite=false]</p>"
