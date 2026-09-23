@@ -11304,79 +11304,79 @@
           "items": {
             "gtixTr9i63RtsSCv": {
               "name": "Garras",
-              "description": "<p><em>Ataque de arma de cuerpo entero:</em> [[/attack]], 5 pies, un objetivo. <em>Impacto</em>: [[/damage average]] daño.</p>",
-              "descriptionChat": "<p>La Bruja Verde ataca con sus garras.</p>"
+              "description": "<p><em>Ataque con arma cuerpo a cuerpo:</em> [[/attack]], 5 pies, un objetivo. <em>Impacto</em>: [[/damage average]] de daño.</p>",
+              "descriptionChat": "<p>La saga cetrina ataca con sus garras.</p>"
             },
             "TwdKEVj1NjVefyq9": {
               "name": "Anfibio",
-              "description": "<p> [[lookup @name]] puede respirar aire y agua.</p>"
+              "description": "<p>[[lookup @name]] puede respirar aire y agua.</p>"
             },
             "9HX1VdEInbRUnBVL": {
-              "name": "Difusión de conjuros innatos",
-              "description": "<p>[[lookup @name]]'s innata habilidad de conjuro es Carisma (salvar CD [[lookup @attributes.spelldc]]). Ella puede innatamente lanzar los siguientes conjuros, sin requerir componentes materiales:</p><p>A discreción: <em>@UUID[.CAxSzHWizrafT033]{luces de baile}, @UUID[.oIzA2MEHwxhtQneU]{ilusión menor}, @UUID[.cdrYKaFi98YWaBMw]{burlas viciosas}</em></p>"
+              "name": "Lanzamiento de Conjuros Innato",
+              "description": "<p>La aptitud mágica innata de [[lookup @name]] es Carisma (salvación de conjuros CD [[lookup @attributes.spelldc]]). Puede lanzar de forma innata los siguientes conjuros sin componentes materiales:</p><p>A voluntad: <em>@UUID[.CAxSzHWizrafT033]{luces danzantes}, @UUID[.oIzA2MEHwxhtQneU]{ilusión menor}, @UUID[.cdrYKaFi98YWaBMw]{burla dañina}</em></p>"
             },
             "C2ZJ3Oe30dyU2o7E": {
               "name": "Mimetismo",
-              "description": "<p> [[lookup @name]] puede imitar sonidos animales y voces humanoides. Una criatura que escucha los sonidos puede decir que son imitaciones con un éxito [[/check format=long]].</p>",
-              "descriptionChat": "<p>La bruja puede imitar sonidos animales y voces humanoides. Una criatura que escucha los sonidos puede decir que son imitaciones con un cheque de sabiduría (insight) exitoso.</p>"
+              "description": "<p>[[lookup @name]] puede imitar sonidos de animales y voces humanoides. Una criatura que los oiga puede reconocer que son imitaciones si supera una [[/check format=long]].</p>",
+              "descriptionChat": "<p>La saga puede imitar sonidos de animales y voces humanoides. Una criatura que los oiga puede reconocer que son imitaciones si supera una prueba de Sabiduría (Perspicacia).</p>"
             },
             "cvdyEyn0s7hKwIcN": {
-              "name": "Apariencia ilusoria",
-              "description": "<p>[[lookup @name]] se cubre a sí misma y todo lo que lleva o lleva consigo con una ilusión mágica que la hace parecer otra criatura de su tamaño general y forma humanoides. La ilusión termina si [[lookup @name]] toma una acción extra para acabar con ella o si ella muere.</p><p>Los cambios causados por este efecto no resisten la inspección física. Por ejemplo: [[lookup @name]] podría parecer que tiene piel lisa, pero alguien que la toque sentiría su carne áspera. De lo contrario, una criatura debe tomar una acción para inspeccionar visualmente la ilusión y tener éxito en un [[/check format=long]] para discernir que [[lookup @name]] está disfrazado.</p>",
+              "name": "Apariencia Ilusoria",
+              "description": "<p>[[lookup @name]] se cubre a sí misma y a todo lo que lleva puesto o transporta con una ilusión mágica que le da el aspecto de otra criatura humanoide de tamaño similar. La ilusión termina si [[lookup @name]] usa una acción adicional para disiparla o si muere.</p><p>Los cambios creados por este efecto no resisten una inspección física. Por ejemplo, [[lookup @name]] podría parecer de piel lisa, pero quien la tocara notaría su carne áspera. De lo contrario, una criatura debe usar una acción para examinar visualmente la ilusión y superar una [[/check format=long]] para descubrir que [[lookup @name]] está disfrazada.</p>",
               "activities": {
                 "t6xO4YDTdMYeVjLV": {
-                  "name": "Comprobación de inspección"
+                  "name": "Prueba de inspección"
                 }
               }
             },
             "Cdis1lnjFvqfoScV": {
-              "name": "Pasaje invisible",
-              "description": "<p>[[lookup @name]] mágicamente se vuelve invisible hasta que ataca o lanza un conjuro, o hasta que su concentración termina (como si se concentra en un conjuro). Aunque invisible, no deja evidencia física de su pasaje, por lo que sólo puede ser rastreada por la magia. Cualquier equipo que use o lleve es invisible con ella.</p>",
-              "descriptionChat": "<p>La bruja mágicamente se vuelve invisible. Cualquier equipo que use o lleve es invisible con ella.</p>"
+              "name": "Paso Invisible",
+              "description": "<p>[[lookup @name]] se vuelve invisible mágicamente hasta que ataca, lanza un conjuro o pierde la concentración, que mantiene como si se concentrara en un conjuro. Mientras es invisible, no deja señales físicas de su paso y solo se la puede rastrear mediante magia. El equipo que lleve puesto o transporte también es invisible.</p>",
+              "descriptionChat": "<p>La saga se vuelve invisible mágicamente. El equipo que lleve puesto o transporte también es invisible.</p>"
             },
             "CAxSzHWizrafT033": {
               "name": "Luces danzantes",
-              "description": "<p>Se crean hasta cuatro luces del tamaño de una antorcha dentro del rango, haciendo que aparezcan como antorchas, linternas o orbes brillantes que flotan en el aire durante la duración. También puede combinar las cuatro luces en una forma vagamente humanoides brillante de tamaño mediano. Cualquiera que sea la forma que elijas, cada luz arroja luz tenue en un radio de 10 pies.</p><p>Como una acción adicional en su turno, usted puede mover las luces de hasta 60 pies a un nuevo lugar dentro del rango. Una luz debe estar a menos de 20 pies de otra luz creada por este conjuro, y una luz guiña si excede el rango del conjuro.</p>"
+              "description": "<p>Creas hasta cuatro luces del tamaño de antorchas dentro del alcance, con aspecto de antorchas, linternas u orbes luminosos que flotan en el aire mientras dure el conjuro. También puedes combinar las cuatro luces en una única forma luminosa vagamente humanoide de tamaño Mediano. Sea cual sea la forma elegida, cada luz emite luz tenue en un radio de 10 pies.</p><p>Como acción adicional en tu turno, puedes mover las luces hasta 60 pies a otro lugar dentro del alcance. Cada luz debe permanecer a 20 pies o menos de otra creada por este conjuro, y se apaga si supera el alcance del conjuro.</p>"
             },
             "oIzA2MEHwxhtQneU": {
               "name": "Ilusión menor",
-              "description": "<p>Se crea un sonido o una imagen de un objeto dentro del rango que dura durante la duración. La ilusión también termina si la descartas como una acción o vuelves a lanzar este conjuro.</p><p>Si creas un sonido, su volumen puede variar desde un susurro hasta un grito. Puede ser tu voz, la voz de alguien más, un rugido de león, un latido de tambores, o cualquier otro sonido que elijas. El sonido continúa sin disminuir durante toda la duración, o puedes hacer sonidos discretos en diferentes momentos antes de que el conjuro termine.</p><p>Si se crea una imagen de un objeto —como una silla, huellas fangosas o un pequeño pecho— no debe ser mayor que un cubo de 5 pies. La imagen no puede crear sonido, luz, olor ni ningún otro efecto sensorial. La interacción física con la imagen revela que es una ilusión, porque las cosas pueden pasar a través de ella.</p><p>Si una criatura utiliza su acción para examinar el sonido o la imagen, la criatura puede determinar que es una ilusión con un control de inteligencia (Investigación) exitoso contra su conjuro salvar CD. Si una criatura discierne la ilusión por lo que es, la ilusión se desmaya ante la criatura.</p>"
+              "description": "<p>Creas un sonido o la imagen de un objeto dentro del alcance que permanece durante el conjuro. La ilusión también termina si la disipas como acción o vuelves a lanzar este conjuro.</p><p>Si creas un sonido, su volumen puede ir desde un susurro hasta un grito. Puede ser tu voz, la de otra persona, el rugido de un león, el redoble de tambores o cualquier otro sonido que elijas. Puede sonar de forma ininterrumpida durante todo el conjuro, o puedes producir sonidos separados en distintos momentos antes de que termine.</p><p>Si creas la imagen de un objeto, como una silla, unas huellas de barro o un cofre pequeño, debe caber en un cubo de 5 pies de lado. La imagen no puede producir sonidos, luz, olores ni otros efectos sensoriales. La interacción física revela que es una ilusión, porque los objetos la atraviesan.</p><p>Una criatura que use su acción para examinar el sonido o la imagen puede descubrir que es una ilusión si supera una prueba de Inteligencia (Investigación) contra tu CD de salvación de conjuros. Cuando una criatura reconoce la ilusión como tal, esta se vuelve tenue para ella.</p>"
             },
             "cdrYKaFi98YWaBMw": {
-              "name": "Burla cruel",
-              "description": "<p>Desata una cadena de insultos con sutil encantos a una criatura que puedes ver dentro de su alcance. Si el objetivo puede oírte (aunque no necesita entenderte), debe tener éxito en un lanzamiento de ahorro de Sabiduría o tomar daño psíquico 1d4 y tener desventaja en el siguiente rollo de ataque que hace antes del final de su próximo turno.</p><p>El daño de este conjuro aumenta en 1d4 cuando alcanzas el 5o nivel (2d4), 11o nivel (3d4) y 17o nivel (4d4).</p>"
+              "name": "Burla dañina",
+              "description": "<p>Lanzas una sarta de insultos entretejidos con sutiles encantamientos a una criatura que puedas ver dentro del alcance. Si el objetivo puede oírte, aunque no necesita entenderte, debe superar una tirada de salvación de Sabiduría o sufrir 1d4 de daño psíquico y tener desventaja en la siguiente tirada de ataque que realice antes del final de su siguiente turno.</p><p>El daño del conjuro aumenta en 1d4 cuando alcanzas el nivel 5 (2d4), el nivel 11 (3d4) y el nivel 17 (4d4).</p>"
             },
             "Vj0jxUXkxU2m6GVg": {
               "name": "Luces danzantes",
-              "description": "<p>Se crean hasta cuatro luces del tamaño de una antorcha dentro del rango, haciendo que aparezcan como antorchas, linternas o orbes brillantes que flotan en el aire durante la duración. También puede combinar las cuatro luces en una forma vagamente humanoides brillante de tamaño mediano. Cualquiera que sea la forma que elijas, cada luz arroja luz tenue en un radio de 10 pies.</p><p>Como una acción adicional en su turno, usted puede mover las luces de hasta 60 pies a un nuevo lugar dentro del rango. Una luz debe estar a menos de 20 pies de otra luz creada por este conjuro, y una luz guiña si excede el rango del conjuro.</p>",
+              "description": "<p>Creas hasta cuatro luces del tamaño de antorchas dentro del alcance, con aspecto de antorchas, linternas u orbes luminosos que flotan en el aire mientras dure el conjuro. También puedes combinar las cuatro luces en una única forma luminosa vagamente humanoide de tamaño Mediano. Sea cual sea la forma elegida, cada luz emite luz tenue en un radio de 10 pies.</p><p>Como acción adicional en tu turno, puedes mover las luces hasta 60 pies a otro lugar dentro del alcance. Cada luz debe permanecer a 20 pies o menos de otra creada por este conjuro, y se apaga si supera el alcance del conjuro.</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             },
             "jikG5NN6bZheRRMP": {
               "name": "Ilusión menor",
-              "description": "<p>Se crea un sonido o una imagen de un objeto dentro del rango que dura durante la duración. La ilusión también termina si la descartas como una acción o vuelves a lanzar este conjuro.</p><p>Si creas un sonido, su volumen puede variar desde un susurro hasta un grito. Puede ser tu voz, la voz de alguien más, un rugido de león, un latido de tambores, o cualquier otro sonido que elijas. El sonido continúa sin disminuir durante toda la duración, o puedes hacer sonidos discretos en diferentes momentos antes de que el conjuro termine.</p><p>Si se crea una imagen de un objeto —como una silla, huellas fangosas o un pequeño pecho— no debe ser mayor que un cubo de 5 pies. La imagen no puede crear sonido, luz, olor ni ningún otro efecto sensorial. La interacción física con la imagen revela que es una ilusión, porque las cosas pueden pasar a través de ella.</p><p>Si una criatura utiliza su acción para examinar el sonido o la imagen, la criatura puede determinar que es una ilusión con un control de inteligencia (Investigación) exitoso contra su conjuro salvar CD. Si una criatura discierne la ilusión por lo que es, la ilusión se desmaya ante la criatura.</p>",
+              "description": "<p>Creas un sonido o la imagen de un objeto dentro del alcance que permanece durante el conjuro. La ilusión también termina si la disipas como acción o vuelves a lanzar este conjuro.</p><p>Si creas un sonido, su volumen puede ir desde un susurro hasta un grito. Puede ser tu voz, la de otra persona, el rugido de un león, el redoble de tambores o cualquier otro sonido que elijas. Puede sonar de forma ininterrumpida durante todo el conjuro, o puedes producir sonidos separados en distintos momentos antes de que termine.</p><p>Si creas la imagen de un objeto, como una silla, unas huellas de barro o un cofre pequeño, debe caber en un cubo de 5 pies de lado. La imagen no puede producir sonidos, luz, olores ni otros efectos sensoriales. La interacción física revela que es una ilusión, porque los objetos la atraviesan.</p><p>Una criatura que use su acción para examinar el sonido o la imagen puede descubrir que es una ilusión si supera una prueba de Inteligencia (Investigación) contra tu CD de salvación de conjuros. Cuando una criatura reconoce la ilusión como tal, esta se vuelve tenue para ella.</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             },
             "s7Xr6fyNTvP1AFqz": {
-              "name": "Burla cruel",
-              "description": "<p>Desata una cadena de insultos con sutil encantos a una criatura que puedes ver dentro de su alcance. Si el objetivo puede oírte (aunque no necesita entenderte), debe tener éxito en un lanzamiento de ahorro de Sabiduría o tomar daño psíquico 1d4 y tener desventaja en el siguiente rollo de ataque que hace antes del final de su próximo turno.</p><p>El daño de este conjuro aumenta en 1d4 cuando alcanzas el 5o nivel (2d4), 11o nivel (3d4) y 17o nivel (4d4).</p>",
+              "name": "Burla dañina",
+              "description": "<p>Lanzas una sarta de insultos entretejidos con sutiles encantamientos a una criatura que puedas ver dentro del alcance. Si el objetivo puede oírte, aunque no necesita entenderte, debe superar una tirada de salvación de Sabiduría o sufrir 1d4 de daño psíquico y tener desventaja en la siguiente tirada de ataque que realice antes del final de su siguiente turno.</p><p>El daño del conjuro aumenta en 1d4 cuando alcanzas el nivel 5 (2d4), el nivel 11 (3d4) y el nivel 17 (4d4).</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             }
           },
           "name": "Yaya Pu’pu",
           "tokenName": "Yaya Pu’pu",
-          "biography": "<p><strong>Yaya Pu’pu</strong>, a @UUID[Compendium.dnd5e.monsters.Actor.saq6WM959pKHuaqP]{Bruja verde} Viviendo en el pueblo de Mbala, juega el papel de una antigua cronología a la empuñadura. Afirma que todos los otros aldeanos fueron asesinados durante muchos años por criaturas aladas que viven en el lado sur de la meseta. Ella es la única sobreviviente... demasiado astuta o demasiado astuta para los depredadores. Vive en las raíces de su jardín y de los pocos pájaros y lagartos que atrapa en trampas. Si se le pregunta su nombre, necesita varios momentos para recordar que los aldeanos la llamaron Nanny Pu’pu.</p><p>La bruja quiere dos cosas de los aventureros: para que destruyan el nido de pterafolk en el lado sur de la meseta (ver @UUID[JournalEntry.toaCh2Mbala00000.JournalEntryPage.T5YNaZbqt8CjUBas]{Nido de Pterafolk}), y luego convertirse en sus comidas durante varios meses. No es probable que los ataque abiertamente. Prefiere bajarlos de la guardia y recogerlos uno por uno, como hizo con los aldeanos.</p><p>Nanny Pu’pu no está completamente sola. Con un silbato, ella puede llamar @UUID[Actor.toaEncFlyingMonk]{2d6 monos voladores} (ver @UUID[Compendium.dnd-tomb-annihilation.book.JournalEntry.toaAppDMonstersA]{Apéndice D}) que viven en los árboles, y ella tiene un @UUID[Compendium.dnd5e.monsters.Actor.Hm4o2FgPZsdbXjLq]{golem de carne} enterrado en una tumba poco profunda fuera de su pequeña cabaña. La bruja utiliza a los monos voladores para recoger comida y suministros, pero no luchan por ella. El golem, sin embargo, hará erupción de la tierra como una acción adicional si se le ordena atacar.</p>"
+          "biography": "<p><strong>Yaya Pu’pu</strong>, una @UUID[Compendium.dnd5e.monsters.Actor.saq6WM959pKHuaqP]{saga cetrina} que vive en Mbala, interpreta a la perfección el papel de anciana decrépita. Afirma que todos los demás aldeanos murieron a lo largo de los años a manos de las criaturas aladas que viven al sur de la meseta. Es la única superviviente: demasiado fibrosa o demasiado astuta para los depredadores. Dice que se alimenta de las raíces de su huerto y de los pocos pájaros y lagartos que atrapa con lazos. Si le preguntan su nombre, tarda unos instantes en recordar que los aldeanos la llamaban Yaya Pu’pu.</p><p>La saga quiere dos cosas de los aventureros: que destruyan el nido de hombres pterodáctilo del sur de la meseta (consulta @UUID[JournalEntry.toaCh2Mbala00000.JournalEntryPage.T5YNaZbqt8CjUBas]{Nido de hombres pterodáctilo}) y que después se conviertan en su alimento durante varios meses. Es poco probable que los ataque abiertamente. Prefiere hacer que bajen la guardia y eliminarlos de uno en uno, como hizo con los aldeanos.</p><p>Yaya Pu’pu no está completamente sola. Con un silbido puede llamar a @UUID[Actor.toaEncFlyingMonk]{2d6 monos voladores} que viven en los árboles (consulta el @UUID[Compendium.dnd-tomb-annihilation.book.JournalEntry.toaAppDMonstersA]{apéndice D}), y tiene un @UUID[Compendium.dnd5e.monsters.Actor.Hm4o2FgPZsdbXjLq]{gólem de carne} enterrado en una tumba poco profunda junto a su pequeña choza. Usa a los monos para recoger comida y suministros, pero no lucharán por ella. El gólem sí lo hará: si se le ordena atacar, emerge de la tierra como acción adicional.</p>"
         },
         "toaNepartak00000": {
           "alignment": "Neutral malvado",
@@ -11466,24 +11466,24 @@
         "toaNilesBreakbon": {
           "alignment": "Legal bueno",
           "name": "Niles Breakbone",
-          "creatureSubtype": "Noble humano",
-          "languages": "cualesquiera dos idiomas",
+          "creatureSubtype": "Humano noble",
+          "languages": "Dos idiomas cualesquiera",
           "tokenName": "Niles Breakbone",
-          "biography": "<p>El templario a cargo de Camp Vengeance es un devoto adorador de Tyr llamado Niles Breakbone (LG macho Chondathan humano noble), un hombre que está dedicado a todo lo que la Orden del Gauntlet representa, pero poco adecuado para el mando de un puesto como Camp Vengeance.</p><p>Aparte del comandante Breakbone, la guarnición habitual de la base consta de cincuenta y ocho personas, aunque las enfermedades suelen reducir el número de combatientes disponibles.</p><p>Breakbone tiene dos capitanes bajo su mando: Barba de Fuego de Ord (veinte enano de oro masculino de LG) y Perne Salhana (humana tetiriana femenina de LG) @UUID[Compendium.dnd5e.monsters.Actor.J8xjoG4Dxb8WkHtV]{veterano}). Informar a ellos es una fuerza de combate compuesta por ocho veteranos y veinticuatro @UUID[Compendium.dnd5e.monsters.Actor.E9CvDPDg5dFEpVjS]{guardias}. Esto se complementa con un cuerpo religioso de seis @UUID[Compendium.dnd5e.monsters.Actor.CHEUjiYrVM9X0vIT]{acólitos} dirigida por la hermana Cyas (LG hembra Chondathan humana @UUID[Compendium.dnd5e.monsters.Actor.PVD5wRdyO7iCJPs1]{sacerdote} de Helm). Técnicamente, los templarios religiosos son parte de la fuerza de combate, pero en la práctica, pasan la mayor parte del tiempo atendiendo a los enfermos y heridos.</p><p>Por último, el fuerte está apoyado por una tropa de cazadores y exploradores chultán compuesto por quince @UUID[Compendium.dnd5e.monsters.Actor.nREPw9g94Bsb9sIl]{guerrero tribal}s dirigida por Lorsa Bilwatal (CN mujer @UUID[Compendium.dnd5e.monsters.Actor.O3ABqI55Ir1du1Xa]{explorador}) y el amigo de Niles Breakbone, Wulf Rygor (CG macho mitad-elf @UUID[Compendium.dnd5e.monsters.Actor.O3ABqI55Ir1du1Xa]{explorador}).</p>",
+          "biography": "<p>El templario al mando del Campamento Venganza es Niles Breakbone, un noble humano chondathano LB y devoto adorador de Tyr. Está entregado a todo lo que representa la Orden del Guantelete, pero carece de las cualidades necesarias para dirigir un puesto como este.</p><p>Aparte del comandante Breakbone, la guarnición habitual consta de cincuenta y ocho personas, aunque las enfermedades suelen reducir el número de combatientes disponibles.</p><p>Breakbone tiene a dos capitanes bajo su mando: Ord Firebeard, un veterano enano de oro LB, y Perne Salhana, una @UUID[Compendium.dnd5e.monsters.Actor.J8xjoG4Dxb8WkHtV]{veterana} humana tethyriana LB. A sus órdenes hay ocho veteranos y veinticuatro @UUID[Compendium.dnd5e.monsters.Actor.E9CvDPDg5dFEpVjS]{guardias}. Los complementa un cuerpo religioso de seis @UUID[Compendium.dnd5e.monsters.Actor.CHEUjiYrVM9X0vIT]{acólitos} dirigido por la hermana Cyas, una @UUID[Compendium.dnd5e.monsters.Actor.PVD5wRdyO7iCJPs1]{sacerdotisa} de Yelmo humana chondathana LB. Aunque los templarios religiosos forman parte de la fuerza de combate, en la práctica dedican casi todo su tiempo a atender a los enfermos y heridos.</p><p>Por último, el fuerte recibe el apoyo de una tropa variopinta de cazadores y exploradores chultanos: quince @UUID[Compendium.dnd5e.monsters.Actor.nREPw9g94Bsb9sIl]{guerreros tribales} dirigidos por Lorsa Bilwatal, una @UUID[Compendium.dnd5e.monsters.Actor.O3ABqI55Ir1du1Xa]{batidora} humana chultana CN, y Wulf Rygor, un @UUID[Compendium.dnd5e.monsters.Actor.O3ABqI55Ir1du1Xa]{batidor} semielfo CB y viejo amigo de Niles Breakbone.</p>",
           "items": {
             "87olpriernjyGLbC": {
               "name": "Coraza",
-              "description": "<p>Esta armadura consta de una pieza metálica de pecho que se usa con cuero flexible. Aunque deja las piernas y los brazos relativamente desprotegidos, esta armadura proporciona una buena protección para los órganos vitales del usuario mientras que deja al portador relativamente sin compromiso.</p>"
+              "description": "<p>Esta armadura consta de una pieza de metal ajustada al torso que se lleva sobre cuero flexible. Aunque deja los brazos y las piernas relativamente desprotegidos, protege bien los órganos vitales sin entorpecer demasiado los movimientos.</p>"
             },
             "f12lOXuMaI21HDrz": {
               "name": "Estoque",
-              "description": "<p><em>Ataque con arma cuerpo a cuerpo</em>: [[/attack]], 5 pies, un objetivo. <em>Impacto</em>: [[/damage average]]  daño.</p>",
-              "descriptionChat": "<p>Los Nobles atacan con su Rapier.</p>"
+              "description": "<p><em>Ataque con arma cuerpo a cuerpo</em>: [[/attack]], 5 pies, un objetivo. <em>Impacto</em>: [[/damage average]] de daño.</p>",
+              "descriptionChat": "<p>El noble ataca con su estoque.</p>"
             },
             "HhLmdqeivyDnsemN": {
               "name": "Parada",
-              "description": "<p>[[lookup @name]] añade 2 a su AC contra un ataque cuerpo a cuerpo que le golpearía. Para ello, el [[lookup @name lowercase]] debe ver al atacante y estar empuñando un arma de combate.</p>",
-              "descriptionChat": "<p>El noble añade 2 a su <strong>CA</strong> contra un ataque que lo golpearía.</p>"
+              "description": "<p>[[lookup @name]] añade 2 a su CA contra un ataque cuerpo a cuerpo que fuera a impactarlo. Para hacerlo, [[lookup @name lowercase]] debe ver al atacante y estar empuñando un arma cuerpo a cuerpo.</p>",
+              "descriptionChat": "<p>El noble añade 2 a su <strong>CA</strong> contra un ataque cuerpo a cuerpo que fuera a impactarlo.</p>"
             }
           }
         },
@@ -11539,65 +11539,65 @@
           "items": {
             "bLvq7KB0QTLkHbGE": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] hace tres ataques cuerpo a cuerpo: dos con su [[/item .szUhMLg8Gm8SMGIN]] y uno con su [[/item .p8JLK5i4HEbgq2gN]]. O [[lookup @name]] hace dos ataques de alcance con su [[/item .p8JLK5i4HEbgq2gN]].</p>"
+              "description": "<p>[[lookup @name]] realiza tres ataques cuerpo a cuerpo: dos con su [[/item .szUhMLg8Gm8SMGIN]]{cimitarra} y uno con su [[/item .p8JLK5i4HEbgq2gN]]{daga}. O bien [[lookup @name]] realiza dos ataques a distancia con su [[/item .p8JLK5i4HEbgq2gN]]{daga}.</p>"
             },
             "szUhMLg8Gm8SMGIN": {
               "name": "Cimitarra",
-              "description": "<p><em>Ataque de arma de cuerpo entero:</em> [[/attack]], alcancen 5 pies, un objetivo. <em>Impacto</em>: [[/damage average]] daño.</p>"
+              "description": "<p><em>Ataque con arma cuerpo a cuerpo:</em> [[/attack]], alcance 5 pies, un objetivo. <em>Impacto</em>: [[/damage average]] de daño.</p>"
             },
             "p8JLK5i4HEbgq2gN": {
               "name": "Daga",
-              "description": "<p><em>Ataque con arma cuerpo a cuerpo o a distancia</em>: [[/attack]], alcance 5 pies o rango 20/60 pies, un objetivo. <em>Impacto</em>: [[/damage average]] daño.</p>"
+              "description": "<p><em>Ataque con arma cuerpo a cuerpo o a distancia</em>: [[/attack]], alcance 5 pies o alcance a distancia 20/60 pies, un objetivo. <em>Impacto</em>: [[/damage average]] de daño.</p>"
             },
             "QNuqcHYGsMgeXVRO": {
               "name": "Parada",
-              "description": "<p>[[lookup @name]] añade 2 a su AC contra un ataque cuerpo a cuerpo que lo golpearía. Para ello, [[lookup @name]] debe ver al atacante y estar empuñando un arma de combate.</p>"
+              "description": "<p>[[lookup @name]] añade 2 a su CA contra un ataque cuerpo a cuerpo que fuera a impactarlo. Para hacerlo, [[lookup @name]] debe ver al atacante y estar empuñando un arma cuerpo a cuerpo.</p>"
             },
             "TIV3B1vbrVHIhQAm": {
               "name": "Armadura de cuero tachonado",
-              "description": "<p>Hecho de cuero resistente pero flexible, el cuero tachonado está reforzado con remaches o pinchos de cierre.</p>"
+              "description": "<p>Esta armadura está hecha de cuero resistente pero flexible, reforzado con remaches o púas muy juntos.</p>"
             },
             "71QVly200FlFlkYu": {
               "name": "Astucia gnoma",
-              "description": "<p>[[lookup @name]] tiene ventaja en Inteligencia, Sabiduría, y Carisma ahorro lanza contra la magia.</p>"
+              "description": "<p>[[lookup @name]] tiene ventaja en las tiradas de salvación de Inteligencia, Sabiduría y Carisma contra la magia.</p>"
             }
           },
-          "name": "Ortimay Swift y Dark",
+          "name": "Ortimay Oscura y Veloz",
           "creatureSubtype": "Gnomo de las rocas",
-          "biographyPublic": "<p><em>Véase también: </em><span style=\"font-family:'Roboto Condensed', sans-serif\"><em>@UUID[Compendium.dnd-tomb-annihilation.actors.Actor.toaGrigRuddell00]{Grig Ruddell}</em></span></p>",
-          "tokenName": "Ortimay Swift y Dark",
-          "biography": "<p>Los <em>Pegaso de freno</em> es capitaneado por Ortimay Swift y Dark (CG gnomo de roca femenina <strong>capitán de bandoleros</strong> con visión oscura a un rango de 60 pies), que es inteligente y tranquilo. El primer oficial es Grig Ruddell (N macho Illuskan humano <strong>veterano</strong>), un hombre hulking cuya cara está casi oculta por una barba pesada con rayas de gris. Además de gritarle órdenes a la tripulación y conversar en tonos bajos con el capitán Ortimay, Ruddell apenas habla. El resto de la tripulación consta de seis marineros (N, hombres y mujeres). <strong>bandidos</strong> de diversas etnias).</p><p>Los personajes podrían suponer que el principal negocio de Ortimay es el contrabando... y que serían correctos. Sin embargo, ella está feliz de llevar aventureros donde sea que necesiten ir. Ella sabe acerca de la tortuga dragón en la Bahía de Chul y espera que los personajes para proporcionar el tributo necesario. También sabe que los piratas merodean por las aguas alrededor de Chul, aunque su barco fácilmente supera al de ellos.</p>"
+          "biographyPublic": "<p><em>Consulta también: </em><span style=\"font-family:'Roboto Condensed', sans-serif\"><em>@UUID[Compendium.dnd-tomb-annihilation.actors.Actor.toaGrigRuddell00]{Grig Ruddell}</em></span></p>",
+          "tokenName": "Ortimay Oscura y Veloz",
+          "biography": "<p>La <em>Pegaso Fresco</em> está capitaneada por Ortimay Oscura y Veloz, una <strong>capitana bandida</strong> gnoma de las rocas CB con visión en la oscuridad hasta 60 pies, inteligente y serena. El primer oficial es Grig Ruddell, un <strong>veterano</strong> humano illuskano N, corpulento y con el rostro casi oculto por una espesa barba entreverada de gris. Apenas habla, salvo para gritar órdenes a la tripulación o conversar en voz baja con la capitana. El resto de la tripulación lo forman seis marineros, <strong>bandidos</strong> N de ambos sexos y distintas etnias.</p><p>Los personajes pueden suponer que el principal negocio de Ortimay es el contrabando, y acertarían. Aun así, está encantada de llevar a los aventureros adonde necesiten. Conoce al dragón tortuga de la Bahía de Chult y espera que los personajes aporten el tributo necesario. También sabe que hay piratas por las aguas de Chult, aunque su barco los deja atrás con facilidad.</p>"
         },
         "toaOrvexOcrammas": {
           "alignment": "Neutral",
           "items": {
             "NAmhPf8w89iV8CsY": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] Hace dos. [[/item Shortsword]] ataques.</p>"
+              "description": "<p>[[lookup @name]] realiza dos ataques con [[/item Shortsword]]{espada corta}.</p>"
             },
             "93TfWPoMzBoaneMx": {
-              "name": "Acción astuta",
-              "description": "<p>En cada uno de sus giros, [[lookup @name]] puede utilizar una acción adicional para tomar la &amp;Reference[dash]{guión}, &amp;Reference[disengage]{desenganche}o bien &amp;Reference[hide]{ocultar} acción.</p>"
+              "name": "Acción Astuta",
+              "description": "<p>En cada uno de sus turnos, [[lookup @name]] puede usar una acción adicional para realizar la acción de &amp;Reference[dash]{Correr}, &amp;Reference[disengage]{Destrabarse} o &amp;Reference[hide]{Esconderse}.</p>"
             },
             "TEgU7pKAAA0f35Yw": {
-              "name": "Ataque furtivo",
-              "description": "<p>[[lookup @name]] reparte un extra [[/damage average]] daño cuando golpea un objetivo con un ataque de arma y tiene ventaja en el rollo de ataque, o cuando el objetivo está a menos de 5 pies de un aliado de [[lookup @name]] que no está incapacitado y el que no tiene desventaja en el rollo de ataque.</p>"
+              "name": "Ataque Furtivo",
+              "description": "<p>[[lookup @name]] causa [[/damage average]] de daño adicional cuando impacta a un objetivo con un ataque con arma y tiene ventaja en la tirada de ataque, o cuando el objetivo está a 5 pies o menos de un aliado de [[lookup @name]] que no esté incapacitado y él no tenga desventaja en la tirada de ataque.</p>"
             },
             "BhYnUUBoU3ESkl1B": {
               "name": "Espada corta",
-              "description": "<p><em>Ataque con arma cuerpo a cuerpo</em>: [[/attack]], 5 pies, un objetivo. <em>Impacto</em>: [[/damage average]] daño.</p>",
+              "description": "<p><em>Ataque con arma cuerpo a cuerpo</em>: [[/attack]], 5 pies, un objetivo. <em>Impacto</em>: [[/damage average]] de daño.</p>",
               "descriptionChat": "<p>El espía ataca con su espada corta.</p>"
             },
             "q6pfCQyaPQSw2waZ": {
-              "name": "Ballesa de mano",
-              "description": "<p><em>Ataque con arma a distancia</em>: [[/attack]], rango 30/120 pies, un objetivo. <em>Impacto</em>: [[/damage average]] daño.</p>",
-              "descriptionChat": "<p>El espía ataca con su ballesta de manos.</p>"
+              "name": "Ballesta de mano",
+              "description": "<p><em>Ataque con arma a distancia</em>: [[/attack]], alcance 30/120 pies, un objetivo. <em>Impacto</em>: [[/damage average]] de daño.</p>",
+              "descriptionChat": "<p>El espía ataca con su ballesta de mano.</p>"
             }
           },
           "effects": {
             "IUWCp1hTniBJ6m7b": {
               "name": "Cansancio",
-              "description": "<p>Orvex está muriendo de sed y &amp;Reference[exhaustion apply=false]{agotamiento}.</p>"
+              "description": "<p>Orvex se está muriendo de sed y &amp;Reference[exhaustion apply=false]{cansancio}.</p>"
             },
             "dnd5ebloodied000": {
               "name": "Ensangrentado"
@@ -11607,7 +11607,7 @@
           "creatureSubtype": "Humano",
           "languages": "Grung",
           "tokenName": "Orvex Ocrammas",
-          "biography": "<p>Orvex sirve como escriba y traductor para los Asistentes Rojos. Es un humano pragmático, calvo en sus primeros cuarenta años que sirve a los Magos Rojos porque, como él dice, pagan bien.</p><p>Si los personajes se hacen amigos de Orvex, puede ayudarlos a forjar una tregua con cualquier mago rojo sobreviviente. Orvex puede traducir el viejo Omuan, y sus estudios de las tallas de Omu le enseñaron la leyenda de los nueve dioses embaucadores (ver @UUID[Compendium.dnd-tomb-annihilation.book.JournalEntry.toaCh3DwellersOf.JournalEntryPage.JFC5mUJCcUG2UYq1]{Leyenda de los Nueve Dioses}), que Orvex está feliz de contar una vez que esté completamente curado y descansado.</p><p>A pesar de los riesgos obvios, Orvex espera explorar más de la ciudad y desvelar sus secretos. Si todavía está con los personajes cuando recuperan los nueve cubos del rompecabezas, salta a la oportunidad de acompañarlos en su descenso en la Tumba de los Nueve Dioses.</p>"
+          "biography": "<p>Orvex trabaja como escriba y traductor para los Magos Rojos. Es un humano pragmático y de pelo ralo que acaba de entrar en la cuarentena. Trabaja para ellos porque, según dice, pagan bien.</p><p>Si los personajes entablan amistad con él, puede ayudarlos a pactar una tregua con los Magos Rojos supervivientes. Orvex puede traducir el omuense antiguo, y sus estudios de las tallas de Omu le han enseñado la leyenda de los nueve dioses embaucadores (consulta «@UUID[Compendium.dnd-tomb-annihilation.book.JournalEntry.toaCh3DwellersOf.JournalEntryPage.JFC5mUJCcUG2UYq1]{La leyenda de los nueve dioses}»), que estará encantado de contar cuando se haya recuperado y descansado por completo.</p><p>Pese a los riesgos evidentes, Orvex desea seguir explorando la ciudad y desvelar sus secretos. Si aún acompaña a los personajes cuando reúnen los nueve cubos de puzle, aprovecha con entusiasmo la oportunidad de descender con ellos a la Tumba de los Nueve Dioses.</p>"
         },
         "toaOverseerIssar": {
           "alignment": "Neutral malvado",
@@ -17441,7 +17441,7 @@
             },
             "TwIHj4huAEzNwuNV": {
               "text": "<p>@Embed[Actor.toaOrtimaySwift0 caption=false cite=false]</p><p class=\"p1\">@Embed[Actor.toaOrtimaySwift0 caption=false cite=true statblock]</p>",
-              "name": "Ortimay Swift y Dark"
+              "name": "Ortimay Oscura y Veloz"
             },
             "qSwHK4QkkUIIuIjT": {
               "text": "<p>@Embed[Actor.toaOrvexOcrammas caption=false cite=false]</p><img class=\"size-four centered\" src=\"modules/dnd-tomb-annihilation/assets/portraits/orvex-ocrammas.webp\"><p>@Embed[Actor.toaOrvexOcrammas caption=false cite=true statblock classes=\"double-column\"]</p>",

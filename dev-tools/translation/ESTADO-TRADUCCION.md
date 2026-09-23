@@ -2038,18 +2038,33 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Santuario conserva la formulación del exportado: termina con un ataque
   o un conjuro que afecte a un enemigo. No se sustituye por reglas de otra edición.
 
+### appendix-d-four-npcs — Yaya Pu’pu, Niles, Ortimay y Orvex
+
+- Revisados 184 campos: cuatro páginas y las dos copias de cada actor.
+  Referencias físicas 75, 48–49, 22–23 y 97–98; perfiles, conjuros y
+  mensajes de chat contrastados con el exportado inglés.
+- Conservadas la inspección física de Apariencia Ilusoria, la concentración
+  y el rastro de Paso Invisible, y las condiciones de las negociaciones.
+  Yaya conserva dos juegos de sus tres trucos, presentes en el exportado.
+- La ficha de Yaya no incluye el Ritual de la Vida Robada como acción;
+  este sigue descrito en el diario de Mbala ya revisado. La ubicación del
+  gólem se traduce según el inglés: junto a la choza, no debajo de ella.
+- Ataque Furtivo de Orvex omite «una vez por turno» en el exportado.
+  Se conserva el texto y se registra la omisión para revisión funcional.
+  Reparadas la coma duplicada de su ataque y la concordancia de sus textos.
+
 ## Balance de revisión editorial
 
-- 820 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 824 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 215 de los apéndices A, B, C, D y F.
-  No equivale a 820 páginas del PDF.
-- 6415 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 6415 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 219 de los apéndices A, B, C, D y F.
+  No equivale a 824 páginas del PDF.
+- 6599 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 6599 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas setenta y tres biografías en ambas copias de actores: siete
-  príncipes y sesenta y seis criaturas o PNJ del apéndice D. Siguen pendientes las demás
+  insertado. Revisadas setenta y siete biografías en ambas copias de actores: siete
+  príncipes y setenta criaturas o PNJ del apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las
