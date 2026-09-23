@@ -1228,14 +1228,26 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   a las criaturas al salir. Conservadas duración y reactivación por canica.
 - Auditorías técnica y editorial sin errores.
 
+### ch5-tables — Cuatro tablas del capítulo 5
+
+- Revisados nombres y resultados de fuente mágica, sala giratoria, laberinto
+  y esfera armilar: 30 campos del compendio de tablas, sin sumar páginas de diario.
+- Referencias físicas 136, 154, 168 y 179. Conservados intervalos, tiradas,
+  enlaces y condiciones de recuperación, daño y transformación.
+- La curación de la esfera excluye a quienes estén dentro del globo; el aumento
+  de Inteligencia sigue siendo permanente y limitado a 22.
+- Esta revisión acredita el compendio de tablas; las copias internas del
+  Adventure, si existen, deben contrastarse al revisar los documentos incorporados.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
 - 605 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
   del capítulo 4 y 126 del capítulo 5. No equivale a 605 páginas del PDF.
-- 1320 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1320 campos distintos.
+- 1350 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1350 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz

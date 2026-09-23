@@ -593,66 +593,66 @@
       }
     },
     "toaCh5ArmillaryS": {
-      "name": "Conjunción de Esfera Armilar",
+      "name": "Conjunciones en la esfera armilar",
       "results": {
         "WXRPVLt54o3xdynv": {
-          "description": "<p>La esfera armilar y cualquier criatura dentro de ella desaparecen. En última instancia, el DM decide dónde terminan, si es que en algún lugar. Las posibilidades incluyen Mechanus, el Vast Pantano en Oerth, Mount Nevermind en Krynn, un desierto en Athas, Victorian London en la Tierra, o el sol.</p>"
+          "description": "<p>La esfera armilar y las criaturas de su interior desaparecen. El DM decide dónde acaban, si es que llegan a algún sitio. Entre los destinos posibles están Mechanus, el Gran Pantano de Oerth, el monte Noimporta de Krynn, un desierto de Athas, el Londres victoriano de la Tierra o el sol.</p>"
         },
         "wZtgLvCgUkVpWfMm": {
-          "description": "<p>La criatura sentada en la silla armilar es tocada por una entidad desconocida y sufre un cambio radical de personalidad. Trabaje con el jugador para determinar un cambio apropiado.</p>"
+          "description": "<p>Una entidad desconocida toca a la criatura sentada en la silla y provoca un cambio radical en su personalidad. Acuerda con el jugador un cambio apropiado.</p>"
         },
         "GQFNx3gCACHmZqBf": {
-          "description": "<p>A @UUID[Compendium.dnd5e.spells.Item.LkvI11Uue774QBKZ]{cloudkill} el conjuro se lanza dentro del globo.</p>"
+          "description": "<p>Se lanza @UUID[Compendium.dnd5e.spells.Item.LkvI11Uue774QBKZ]{nube aniquiladora} dentro del globo.</p>"
         },
         "dbZeu6SWNLK13pL6": {
-          "description": "<p>El orbe en forma de sol se abre, derramando [[/award 5000gp]] en el suelo.</p>"
+          "description": "<p>El orbe solar se abre y derrama [[/award 5000gp]] sobre el suelo.</p>"
         },
         "Lrh6u3WCy7OBZGOF": {
-          "description": "<p>La criatura sentada en la silla armilar gana un encanto de heroísmo (ver “Regalos sobrenaturales” en el capítulo 7 de la <em>Guía del Dungeon Master</em>).</p>"
+          "description": "<p>La criatura sentada en la silla obtiene un sortilegio del heroísmo (consulta «Dones sobrenaturales» en el capítulo 7 de la <em>Guía del Dungeon Master</em>).</p>"
         },
         "ISKnwPcKxFuPeY2x": {
-          "description": "<p>Cada criatura a menos de 20 pies de la esfera armilar recupera [[/heal 50]]{50 puntos de impacto}. Las criaturas dentro del globo no obtienen este beneficio.</p>"
+          "description": "<p>Toda criatura a un máximo de 20 pies de la esfera recupera [[/heal 50]]{50 puntos de golpe}. Las criaturas del interior no reciben este beneficio.</p>"
         },
         "fjIcqeaoi7syW7z4": {
-          "description": "<p>A @UUID[Compendium.dnd5e.items.Item.thkvJ5QBRORIwkkV]{gema de brillo} aparece en el regazo de la criatura sentada en la silla armilar.</p>"
+          "description": "<p>Una @UUID[Compendium.dnd5e.items.Item.thkvJ5QBRORIwkkV]{gema del resplandor} aparece en el regazo de la criatura sentada en la silla.</p>"
         },
         "wcAuEuBF7V9fzEOb": {
-          "description": "<p>La puntuación de inteligencia de la criatura sentada en la silla armilar aumenta permanentemente por [[/r 1d4 + 1]], hasta un máximo de 22.</p>"
+          "description": "<p>La Inteligencia de la criatura sentada en la silla aumenta permanentemente en [[/r 1d4 + 1]], hasta un máximo de 22.</p>"
         },
         "amAzkfSnKERWqJWF": {
-          "description": "<p>La criatura sentada en la silla armilar se le concede la capacidad de lanzar el @UUID[Compendium.dnd5e.spells.Item.3okM6Gn63zzEULkz]{deseo} Deletrear una vez.</p>"
+          "description": "<p>La criatura sentada en la silla obtiene la capacidad de lanzar @UUID[Compendium.dnd5e.spells.Item.3okM6Gn63zzEULkz]{deseo} una vez.</p>"
         }
       }
     },
     "toaCh5MazeDiscov": {
-      "name": "Descubrimientos del laberinto",
+      "name": "Hallazgos del laberinto",
       "results": {
         "kgc1TEkWgBYExGeO": {
-          "description": "<p>Nada.</p>"
+          "description": "<p>Nada</p>"
         },
         "RlDlINBizYvfQ0zc": {
-          "description": "<p>Restos esqueléticos de un niño Omuan</p>"
+          "description": "<p>Restos óseos de un niño omuense</p>"
         },
         "wGHg0VLwzTJLUNkU": {
-          "description": "<p>@UUID[Actor.mAsVfo1pjQS5KgA0]{Minotauro} que lucha hasta la muerte</p>"
+          "description": "<p>Un @UUID[Actor.mAsVfo1pjQS5KgA0]{minotauro} que lucha hasta la muerte</p>"
         },
         "tCy4AVCNnycQ2oqG": {
-          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaCh5BlueCrysta]{Tecla de cristal azul}</p>"
+          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaCh5BlueCrysta]{Llave de cristal azul}</p>"
         },
         "YnAwc0hgWrqPHkZt": {
-          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaCh5GoldCrysta]{Tecla de cristal de oro}</p>"
+          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaCh5GoldCrysta]{Llave de cristal dorada}</p>"
         },
         "Hcjnsf1OxyUCMWYZ": {
-          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaCh5PurpleCrys]{Tecla de cristal púrpura}</p>"
+          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaCh5PurpleCrys]{Llave de cristal morada}</p>"
         },
         "2FrkxFSakM14EqOr": {
-          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaCh5GreenCryst]{Tecla de cristal verde}</p>"
+          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaCh5GreenCryst]{Llave de cristal verde}</p>"
         },
         "kExNfnGbMyQkHPCR": {
-          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaCh5RedCrystal]{Tecla de cristal rojo}</p>"
+          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaCh5RedCrystal]{Llave de cristal roja}</p>"
         },
         "zHRCdqIxXmIH5yUZ": {
-          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaCh5BlackCryst]{Tecla de cristal negro}</p>"
+          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaCh5BlackCryst]{Llave de cristal negra}</p>"
         }
       }
     },
@@ -660,16 +660,16 @@
       "name": "Efectos de la sala giratoria",
       "results": {
         "djdsy9NxyhSK1TAM": {
-          "description": "<p></p><p>El demonio se enfrenta a exhalar chorros de un gas soporífico que se disipa rápidamente. Cada criatura en la habitación que no es inmune a la condición envenenada debe tener éxito en un [[/save con 15 format=long]] o caída &amp;Reference[unconscious apply=false]{inconsciente}. Una criatura inconsciente puede repetir el lanzamiento de ahorro cada vez que toma daño, terminando con el efecto en sí misma en un éxito.</p>"
+          "description": "<p></p><p>Los rostros demoníacos exhalan chorros de gas soporífero que se dispersa rápidamente. Toda criatura de la sala que no sea inmune al estado envenenado debe superar una [[/save con 15 format=long]] o quedar &amp;Reference[unconscious apply=false]{inconsciente}. Puede repetir la salvación cada vez que reciba daño; si la supera, el efecto termina para ella.</p>"
         },
         "PUtDkqJtxQfdTXZB": {
-          "description": "<p></p><p>El demonio se enfrenta a exhalar chorros de polvo chispeante, que ciega a cualquier criatura en la habitación que no tiene éxito en un [[/save wis 15 format=long]]. La ceguera de una criatura dura hasta que se cura con un @UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{menor restauración} conjuro o magia similar.</p>"
+          "description": "<p></p><p>Los rostros demoníacos exhalan polvo brillante que deja cegada a toda criatura de la sala que no supere una [[/save wis 15 format=long]]. La ceguera dura hasta que se cure con @UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{restablecimiento menor} o magia similar.</p>"
         },
         "Mz3kVRTaYjs3IHjI": {
-          "description": "<p>Puntas de piedra de 6 pulgadas de largo sobresalen mágicamente de las paredes. Cualquier criatura que recibe daños de la habitación al principio de su turno toma un adicional [[/damage 2d10 piercing average]] daño de los picos. Los picos se retraen cuando se activa el efecto de la habitación de al lado.</p>"
+          "description": "<p>De las paredes brotan mágicamente pinchos de piedra de 6 pulgadas de largo. Toda criatura que reciba daño de la sala al comienzo de su turno sufre además [[/damage 2d10 piercing average]] de daño de los pinchos. Se retraen al activarse el siguiente efecto de la sala.</p>"
         },
         "S4A886JKJIsDJYWI": {
-          "description": "<p>El demonio se enfrenta a chorros de un gas incendiario que rápidamente se enciende, llenando la habitación de fuego. Cada criatura en la habitación toma [[/damage 10d8 fire average]] daño.</p>"
+          "description": "<p>Los rostros demoníacos lanzan gas incendiario que prende al instante y llena la sala de fuego. Cada criatura recibe [[/damage 10d8 fire average]] de daño.</p>"
         }
       }
     },
@@ -831,16 +831,16 @@
       "name": "Efectos de la fuente mágica",
       "results": {
         "yWrLCMhVn0mQzFaf": {
-          "description": "<p>La criatura que bebe el agua debe hacer un [[/save con 12 format=long]], tomando [[/damage 8d10 necrotic average]] daño en un error de guardar, o la mitad de daño en un éxito. Si este daño reduce la criatura a 0 puntos de impacto, muere y se convierte en polvo.</p>"
+          "description": "<p>Quien beba el agua debe hacer una [[/save con 12 format=long]]: recibe [[/damage 8d10 necrotic average]] de daño si falla o la mitad si la supera. Si el daño lo reduce a 0 puntos de golpe, muere y se convierte en polvo.</p>"
         },
         "79crtpSozA0RqEH5": {
-          "description": "<p>La criatura que bebe el agua pierde la capacidad de hablar durante 8 horas. A @UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{menor restauración} conjuro o magia similar termina este efecto.</p>"
+          "description": "<p>Quien beba el agua pierde la capacidad de hablar durante 8 horas. Un conjuro de @UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{restablecimiento menor} o magia similar termina el efecto.</p>"
         },
         "Wjj6HAG3BrjHwyGH": {
-          "description": "<p>La criatura que bebe el agua mágicamente cambia el sexo. A @UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{mayor restauración} el conjuro restaura el sexo original de la criatura, al igual que otra bebida de la fuente que produce este mismo resultado.</p>"
+          "description": "<p>Quien beba el agua cambia de sexo mágicamente. Un conjuro de @UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{restablecimiento mayor} restaura su sexo original, al igual que volver a beber y obtener este mismo resultado.</p>"
         },
         "BGYCvZJHhBOcyVDR": {
-          "description": "<p>La criatura que bebe el agua gana [[/heal 2d10 temp]].</p>"
+          "description": "<p>Quien beba el agua obtiene [[/heal 2d10 temp]].</p>"
         }
       }
     },
