@@ -1151,14 +1151,27 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Esta nomenclatura deberá trasladarse a las fichas de los objetos pendientes.
 - Auditorías técnica y editorial sin errores.
 
+### ch5-level6-sisters-01 a ch5-level6-sisters-02 — Hermanas Cosidas
+
+- Revisados dos textos y títulos con referencias físicas 179-182.
+- Adoptados Briznas, Clay Sinrostro, Joho, Calderilla, Peggy Ánimas,
+  Ancha Yaya y Don Remiendos conforme al PDF. Sus fichas siguen pendientes.
+- Conservados límites y requisitos de los sortilegios, conocimientos actuales
+  del clon y destino de las almas si se destruyen los muñecos.
+- Las sagas atacan al quedar expuestas las cinco cerraduras si el grupo tiene
+  las llaves, no después de abrir la puerta. Diferenciadas las dos operaciones.
+- El enlace de «Activar la escena» apunta a un diario en el original;
+  se conserva y queda pendiente de corrección en la revisión funcional.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 593 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 595 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4 y 114 del capítulo 5. No equivale a 593 páginas del PDF.
-- 1296 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1296 campos distintos.
+  del capítulo 4 y 116 del capítulo 5. No equivale a 595 páginas del PDF.
+- 1300 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1300 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
