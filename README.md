@@ -52,6 +52,19 @@ jugadores. Las pruebas no cubren todas las automatizaciones de una partida.
 
 ## Desarrollo
 
+### Paquete ligero, solo texto
+
+Ejecutar `python dev-tools/build_light.py` para generar en `dist/` el ZIP
+`translate-dnd5e-tomb-annihilation-es-0.2.0-light.zip`. Conserva la traducción
+textual y recupera las 47 rutas de imágenes del módulo oficial, sin incluir
+imágenes ni modificar la variante completa. Requiere el módulo oficial local
+para comprobar que existen esos recursos.
+
+Ambas variantes tienen el mismo identificador y versión: son alternativas de
+instalación. Los documentos ya importados no se actualizan automáticamente;
+probar la variante ligera mediante una importación nueva si el mundo anterior
+utilizaba las imágenes españolas.
+
 Consultar [DEVELOPER.md](DEVELOPER.md) y [ROADMAP.md](dev-tools/ROADMAP.md).
 
 ```sh
