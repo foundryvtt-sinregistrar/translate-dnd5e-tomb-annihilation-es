@@ -1475,6 +1475,19 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   fórmula del 75 % correcta, comentario inglés «result of 1» incorrecto.
 - Auditorías técnica y editorial sin errores.
 
+### appendix-b-supplies — Alijos, restos y tesoros
+
+- Revisados 69 campos de tres tablas independientes, con referencias físicas
+  197–199: veinte alijos, veinte exploradores muertos y veintiséis tesoros.
+- Reconstruido el resultado 19 de alijos, truncado en «foldin» en el exportado:
+  el PDF especifica dos tiendas, mesa de campaña y cuatro taburetes plegables.
+- Corregidos «sin armadura» frente a «sin armas» y mordedura de serpiente
+  frente a picadura. Conservados precios, cantidades, causas y pistas.
+- Las flechas son bañadas en plata, como indica «silvered» en inglés. La
+  cerradura conserva la CD duplicada del original, pendiente de revisar la
+  presentación de su tirada en Foundry antes de eliminar la repetición.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
 - 751 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -1482,8 +1495,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
   del capítulo 4, 126 del capítulo 5 y 146 de los apéndices A, B, C y F.
   No equivale a 751 páginas del PDF.
-- 1879 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1879 campos distintos.
+- 1948 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1948 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
