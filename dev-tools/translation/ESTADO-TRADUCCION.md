@@ -1307,6 +1307,19 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   sigue pendiente resolver la categoría discrepante del encabezado del diario.
 - Auditorías técnica y editorial sin errores.
 
+### appendix-c-magic-ring — Anillo del Invierno
+
+- Revisados 21 campos con referencias físicas 207-208: descripción, texto
+  de chat, actividades y efectos. Completadas las siete fichas principales
+  de objetos mágicos del apéndice C; sus copias y conjuros propios siguen pendientes.
+- Conservados consciencia, control, restricciones de adivinación y diferencia
+  entre envejecimiento natural y mágico. No se añaden inmunidades generales.
+- Las temperaturas conservan las cifras originales y explicitan Fahrenheit,
+  también en el chat. No se mezclan con las aproximaciones Celsius del PDF.
+- Conservadas cargas, variantes de conjuros, creación de objetos y autómatas,
+  duración, derretimiento y destrucción por la Reina del Verano.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
 - 626 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -1314,8 +1327,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
   del capítulo 4, 126 del capítulo 5 y 21 de los apéndices A y C.
   No equivale a 626 páginas del PDF.
-- 1467 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1467 campos distintos.
+- 1488 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1488 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz

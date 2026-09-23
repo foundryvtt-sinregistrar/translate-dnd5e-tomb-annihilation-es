@@ -17883,6 +17883,222 @@
           "status": "reviewed-against-es-extraction-and-en-export"
         }
       ]
+    },
+    {
+      "id": "appendix-c-magic-ring",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.items.toamgcRingofWint.name",
+          "sourceSha256": "e258d031c708ae7d8cbb3a75c48eeac1bef09bb99c0ca50513f20e9863135907",
+          "translationSha256": "e7b5e3b4d62e1492b3f4a9deacb9841470749f749afa826472f2ef94c7564611",
+          "pdfEsPages": [
+            207,
+            208
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.toamgcRingofWint.description",
+          "sourceSha256": "ec686f9f4c88c6ccddd17757ef8ace772ba14532553334d2bcd120ab109965b5",
+          "translationSha256": "08966de5d9596800cdea7aa035d3c31071a46fc066f3f4a6b563ee4f58961ba7",
+          "pdfEsPages": [
+            207,
+            208
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.toamgcRingofWint.descriptionChat",
+          "sourceSha256": "ff7cc8940d346e889a72eac34a26fa4f0ba66d86f5961df65b8bd95c4ee742c3",
+          "translationSha256": "339079cf239e0dcf5ba88eae756822ccfd7c9e1351edf74217d768a00c5fd88d",
+          "pdfEsPages": [
+            207,
+            208
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.toamgcRingofWint.activities.3wHTbIM4Iz7vaREp.name",
+          "sourceSha256": "7d305ba1c6ebb8cb008a6d81bc45ba62eaaeb82c11359f6aa74d5f98dda8269e",
+          "translationSha256": "4e427ff40cdbe4890d95ac8c8c4ad0485ba6d856df3a9912edc1902998be7a3f",
+          "pdfEsPages": [
+            207,
+            208
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.toamgcRingofWint.activities.3wHTbIM4Iz7vaREp.description.chatFlavor",
+          "sourceSha256": "581fbab4599402e173d0dfa64ef0fb0681ee7034338288f277d7a63e3e5edb1d",
+          "translationSha256": "5dd4f0063da1ecec3f19dece15787f15d8327a578d4ae38f93b9206c1053355c",
+          "pdfEsPages": [
+            207,
+            208
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.toamgcRingofWint.activities.3wHTbIM4Iz7vaREp.target.affects.special",
+          "sourceSha256": "d7040a212a76b43bc32896db45b5be5730ebc22cddf62b9798c3860160ff3346",
+          "translationSha256": "574b44315326484c2717a42da055b6d88aaceacc5925a5106d03b1f5ec7ee393",
+          "pdfEsPages": [
+            207,
+            208
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.toamgcRingofWint.activities.GG4vrsVyGJUYiYsW.name",
+          "sourceSha256": "4514163c3b373152f2a3706b6f6e1e7977f073fb398f40bd66e0608dfccf4863",
+          "translationSha256": "1c0cf60a64ace3342b974f2321bdf8868ca661bf14d7d897ba9645cdf57e69fe",
+          "pdfEsPages": [
+            207,
+            208
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.toamgcRingofWint.activities.N8kd1B9zfVLcBVtW.name",
+          "sourceSha256": "977607ddfbf556a8db16abbc43a0e366e6e007ef93eb6b246c14922a3ea615f2",
+          "translationSha256": "99ff4b3684aa6e588bec914c44f5e9fd75008ac19d69848efa50b1bc6617af76",
+          "pdfEsPages": [
+            207,
+            208
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.toamgcRingofWint.activities.N8kd1B9zfVLcBVtW.description.chatFlavor",
+          "sourceSha256": "d436f033e39e4e9d769895b8e64c84e0415461f7b86cfc0d69e85b54906482c5",
+          "translationSha256": "73f669afacc085748576c2d2a14778f9dfd2e0eee3e3ef311fd32aef52e12d1c",
+          "pdfEsPages": [
+            207,
+            208
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.toamgcRingofWint.activities.uOTFTpqLzv7NW5jA.name",
+          "sourceSha256": "ce000c0652adddd671e021f21847b222c51e82e442ba0b212fb870fd17fd0034",
+          "translationSha256": "6c0744b0af07624ba3e3962045bdf5db9b823010e8ee138ea6c8dc1add0b707a",
+          "pdfEsPages": [
+            207,
+            208
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.toamgcRingofWint.activities.z4uJAY68jpW4dO5W.description.chatFlavor",
+          "sourceSha256": "f63ac086a1871db0f9ce6b47bf7aa27b9f0d1c963a5ef27249b1ec3601b71721",
+          "translationSha256": "56392191dd73f45b19b5d1e69efa520ddf88cc67fcc1b8ee519ed85313c9a82d",
+          "pdfEsPages": [
+            207,
+            208
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.toamgcRingofWint.activities.wJtCfILWrIrVGLT0.name",
+          "sourceSha256": "df5a4b1dd6808f1b6be753cf88a85a61aba97aaee8572b6ad3b791380ae72e01",
+          "translationSha256": "2a4d55cb550b06f5479a9e67c5ef06b0f39c4f2680ee6b8b49e1ec09a46e430a",
+          "pdfEsPages": [
+            207,
+            208
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.toamgcRingofWint.activities.wJtCfILWrIrVGLT0.target.affects.special",
+          "sourceSha256": "5836a9532515c5ae28a6e195e1a1fca6c6f61404cc3b5e6f3f7a5774144f13d5",
+          "translationSha256": "954d05137b3d06e6e27ef865818133dad2f962a784c74096c02a4d04c28a7b4d",
+          "pdfEsPages": [
+            207,
+            208
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.toamgcRingofWint.activities.DwCoA8sqkJpVkH3p.name",
+          "sourceSha256": "239faec2bcb31773769bddd8887642b5a3c1de6d36fd46652394d8bb47fea711",
+          "translationSha256": "e738e1f219f933a44abf0cb4213390ab0416b36246da72df386e33c512979bf3",
+          "pdfEsPages": [
+            207,
+            208
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.toamgcRingofWint.activities.DwCoA8sqkJpVkH3p.target.affects.special",
+          "sourceSha256": "812ee6904349fef32a18d2da7fa704590deca909f7a3cee0dc62ace33bc59d95",
+          "translationSha256": "f5c2876f2d33f22d99b5923b8d048c0d35863ea99183635c9288a41c8f4368ff",
+          "pdfEsPages": [
+            207,
+            208
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.toamgcRingofWint.effects.Rz0RpBHjmYQ6fn7c.name",
+          "sourceSha256": "49af28ac3151d013888b847b193fa30363d6f27ace1dbe340d49d6a3c318ba23",
+          "translationSha256": "56a3d2fb96044a55f5dd5f79df66255cb3d252659f5a72780cf56685aa686c3c",
+          "pdfEsPages": [
+            207,
+            208
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.toamgcRingofWint.effects.Rz0RpBHjmYQ6fn7c.description",
+          "sourceSha256": "90d8dddec386c4a5924f7490d52068d7ea5d0e311bc25f6bd2d533709e49bd53",
+          "translationSha256": "e7c70aed140ea335e8fa552807e3a76489f126afae3d2494bb98d0ec1155642f",
+          "pdfEsPages": [
+            207,
+            208
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.toamgcRingofWint.effects.PBrHbhOWuGzyPN0q.name",
+          "sourceSha256": "3d72118abf471d67c7c46bca5a922a9042c9c21174b25e4029d7a28be7aa14ce",
+          "translationSha256": "f2e0eb4f7a79c6727cb26bca32e99577a52b1b1fee9d4aacf28db5f02d6fa699",
+          "pdfEsPages": [
+            207,
+            208
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.toamgcRingofWint.effects.PBrHbhOWuGzyPN0q.description",
+          "sourceSha256": "80d82881c6801c54de99095bcf323e5099490adae20c0a9d2d9b5ee9fefbe6fc",
+          "translationSha256": "35a172334621b06f146c91e11ac79d127ce5e20b4e14448d82a3d907ff4f1c10",
+          "pdfEsPages": [
+            207,
+            208
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.toamgcRingofWint.effects.CAyKnJQnLfSI91X5.name",
+          "sourceSha256": "bca5897f20c2f3d04f98a6713a193960c5fe5dba26519dbd4ec0da04836de901",
+          "translationSha256": "c2b25c8ca3bdf1b7a7d9b94cfa2f285abc2017d5af0062d6402f48dc3d5691b4",
+          "pdfEsPages": [
+            207,
+            208
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.toamgcRingofWint.effects.CAyKnJQnLfSI91X5.description",
+          "sourceSha256": "e5ce9718ae977361ee923ae591810117c7f0fd66d863d0f1b7a12d79d39f1792",
+          "translationSha256": "2a738c10324495483f39e0bcf2a3efe905fa291bb83f01eda8af5496248d70ac",
+          "pdfEsPages": [
+            207,
+            208
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
     }
   ]
 }
