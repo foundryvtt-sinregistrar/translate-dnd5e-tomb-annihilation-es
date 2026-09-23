@@ -1688,15 +1688,28 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - La biografía del girallon está vacía en el exportado. Los enlaces por nombre
   `Bite` y `Claw` siguen pendientes de resolución por identificador.
 
+### appendix-d-froghemoth — Ranamot
+
+- Revisados 64 campos de ambas copias del actor y su página, con referencia
+  física 230. Conservados límites de tamaño, dos víctimas engullidas, agarre
+  por tentáculo y duración de los efectos del daño de relámpago.
+- Corregida la etiqueta textual «restrained» del enlace `prone` de regurgitación
+  a «derribada», conforme al PDF y al identificador. Eliminado el «apply» suelto
+  de la frase sobre escapar del cadáver.
+- Pendiente funcional confirmado: el efecto `XK8sqMm3fnhW7ZEf` aplica realmente
+  `restrained`, aunque describe la regurgitación. Se conserva su nombre Apresado
+  para no ocultar qué estado aplica; corregir la automatización requiere otro bloque.
+- La biografía original está vacía. El enlace por nombre `Bite` sigue pendiente.
+
 ## Balance de revisión editorial
 
-- 778 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 779 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 173 de los apéndices A, B, C, D y F.
-  No equivale a 778 páginas del PDF.
-- 3205 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 3205 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 174 de los apéndices A, B, C, D y F.
+  No equivale a 779 páginas del PDF.
+- 3269 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 3269 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas veintiséis biografías en ambas copias de actores: siete
   príncipes y diecinueve criaturas o PNJ del apéndice D. Siguen pendientes las demás

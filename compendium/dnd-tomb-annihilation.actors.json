@@ -6024,72 +6024,72 @@
       "items": {
         "Y9IIN224rzheZB2o": {
           "name": "Ataque múltiple",
-          "description": "<p>El sapo hace dos ataques con su [[/item .yIVraDWteOCDNO2s]]. También puede utilizar su [[/item .ZtR4TpXkJIW0VVzq]] o [[/item .1eo55lhwz9bTzkyO]].</p>"
+          "description": "<p>El ranamot realiza dos ataques con su [[/item .yIVraDWteOCDNO2s]]{Tentáculo}. También puede usar su [[/item .ZtR4TpXkJIW0VVzq]]{Lengua} o su [[/item .1eo55lhwz9bTzkyO]]{Mordisco}.</p>"
         },
         "1eo55lhwz9bTzkyO": {
           "name": "Mordisco",
-          "description": "<p>[[/attack extended]]. [[/damage extended average]], y el blanco se traga si es una criatura mediana o más pequeña.</p><p>Una criatura tragada es &amp;Reference[blinded apply=false]{cegado} y &amp;Reference[Restrained apply=false]{restringidos}, tiene cobertura total contra los ataques y otros efectos fuera del sapo, y toma [[/damage average activity=J4sRqYJ27ldmy99i]] daño al inicio de cada uno de los giros del sapo. La gaviota del sapo puede contener hasta dos criaturas a la vez.</p><p>Si el rafehemoth recibe 20 daños o más en un solo giro de una criatura dentro de él, el rafehemoth debe tener éxito en un [[/save format=long activity=ndt8ZN2vrCpZh5ma]] al final de ese giro o regurgitar todas las criaturas tragadas, cada una de las cuales cae &amp;Reference[prone apply=false]{restringidos} en un espacio a menos de 10 pies del sapo.</p><p>Si el sapo muere, una criatura tragada ya no es sujetada aplicar por ella y puede escapar del cadáver utilizando 10 pies de movimiento, saliendo &amp;Reference[prone apply=false]{propenso}.</p>",
+          "description": "<p>[[/attack extended]]. [[/damage extended average]], y el objetivo es engullido si es una criatura Mediana o más pequeña.</p><p>Una criatura engullida está &amp;Reference[blinded apply=false]{cegada} y &amp;Reference[Restrained apply=false]{apresada}, tiene cobertura total contra ataques y otros efectos que se originen fuera del ranamot y sufre [[/damage average activity=J4sRqYJ27ldmy99i]] de daño al comienzo de cada turno del ranamot. Este puede albergar hasta dos criaturas engullidas a la vez.</p><p>Si el ranamot recibe 20 de daño o más en un mismo turno de una criatura en su interior, debe superar una [[/save format=long activity=ndt8ZN2vrCpZh5ma]] al final de ese turno o regurgitar a todas las criaturas engullidas. Cada una cae &amp;Reference[prone apply=false]{derribada} en un espacio a 10 pies o menos del ranamot.</p><p>Si el ranamot muere, una criatura engullida deja de estar apresada por él y puede escapar del cadáver gastando 10 pies de movimiento; sale &amp;Reference[prone apply=false]{derribada}.</p>",
           "activities": {
             "ndt8ZN2vrCpZh5ma": {
               "activation": {
-                "condition": "Si el sapo recibe 20 daños o más en un solo giro de una criatura dentro de él."
+                "condition": "Si el ranamot recibe 20 de daño o más en un mismo turno de una criatura en su interior."
               }
             },
             "J4sRqYJ27ldmy99i": {
-              "name": "Daños: Inicio de la vuelta"
+              "name": "Daño: comienzo del turno"
             },
             "CAU1hMJtt3wNgYmP": {
-              "name": "Aplicar condición prona",
+              "name": "Aplicar el estado derribado",
               "activation": {
-                "condition": "Si el sapo muere"
+                "condition": "Si el ranamot muere"
               }
             }
           },
           "effects": {
             "f0peEoeNsmwu0NTs": {
-              "name": "Cegado y restringido",
-              "description": "<p>Una criatura tragada es &amp;Reference[blinded apply=false]{cegado} y &amp;Reference[Restrained apply=false]{restringidos}, tiene cobertura total contra los ataques y otros efectos fuera del sapo, y recibe daños al comienzo de cada uno de los giros del sapo.</p>"
+              "name": "Cegado y apresado",
+              "description": "<p>Una criatura engullida está &amp;Reference[blinded apply=false]{cegada} y &amp;Reference[Restrained apply=false]{apresada}, tiene cobertura total contra ataques y otros efectos que se originen fuera del ranamot y sufre daño al comienzo de cada turno del ranamot.</p>"
             },
             "XK8sqMm3fnhW7ZEf": {
-              "name": "Restringido",
-              "description": "<p>Si el rafehemoth recibe 20 daños o más en un solo giro de una criatura dentro de él, el rafehemoth debe tener éxito en un lanzamiento de ahorro al final de ese giro o regurgitar todas las criaturas tragadas, cada uno de los cuales cae &amp;Reference[prone apply=false]{restringidos} en un espacio a menos de 10 pies del sapo.</p>"
+              "name": "Apresado",
+              "description": "<p>Si el ranamot recibe 20 de daño o más en un mismo turno de una criatura en su interior, debe superar una tirada de salvación al final de ese turno o regurgitar a todas las criaturas engullidas. Cada una cae &amp;Reference[prone apply=false]{derribada} en un espacio a 10 pies o menos del ranamot.</p>"
             },
             "bsN5391923Qig5AS": {
-              "name": "Prona",
-              "description": "<p>Si el sapo muere, una criatura tragada ya no es sujetada aplicar por ella y puede escapar del cadáver utilizando 10 pies de movimiento, saliendo &amp;Reference[prone apply=false]{propenso}.</p>"
+              "name": "Derribado",
+              "description": "<p>Si el ranamot muere, una criatura engullida deja de estar apresada por él y puede escapar del cadáver gastando 10 pies de movimiento; sale &amp;Reference[prone apply=false]{derribada}.</p>"
             }
           }
         },
         "yIVraDWteOCDNO2s": {
           "name": "Tentáculo",
-          "description": "<p>[[/attack extended]]. [[/damage extended average]], y el objetivo es &amp;Reference[Grappled apply=false]{forcejeado} (escape CD 16) si es una criatura enorme o más pequeña. Hasta que el garfio termina, el sapo no puede usar este tentáculo en otro objetivo. El safio tiene cuatro tentáculos.</p>",
+          "description": "<p>[[/attack extended]]. [[/damage extended average]], y el objetivo queda &amp;Reference[Grappled apply=false]{agarrado} (CD 16 para escapar) si es una criatura Enorme o más pequeña. Hasta que termine el agarre, el ranamot no puede usar este tentáculo contra otro objetivo. El ranamot tiene cuatro tentáculos.</p>",
           "activities": {
             "gjXYxdxDjmhB2QIg": {
-              "name": "Comprobación de escape"
+              "name": "Prueba para escapar"
             }
           },
           "effects": {
             "S1QgpMyS4l8i2VUh": {
               "name": "Agarrado",
-              "description": "<p>El objetivo es &amp;Reference[grappled apply=false]{forcejeado} (escape CD 16) si es una criatura enorme o más pequeña. </p>"
+              "description": "<p>El objetivo queda &amp;Reference[grappled apply=false]{agarrado} (CD 16 para escapar) si es una criatura Enorme o más pequeña.</p>"
             }
           }
         },
         "ZtR4TpXkJIW0VVzq": {
           "name": "Lengua",
-          "description": "<p>El safio se dirige a una criatura mediana o pequeña que puede ver a menos de 20 pies de distancia. El objetivo debe hacer un [[/save format=long]]. En una salvada fallida, el objetivo se tira en un espacio desocupado a menos de 5 pies del sapo, y el sapo puede hacer un [[/item Bite]] atacarlo como una acción extra.</p>"
+          "description": "<p>El ranamot elige como objetivo a una criatura Mediana o más pequeña que pueda ver a 20 pies o menos. El objetivo debe realizar una [[/save format=long]]. Si falla, es arrastrado a un espacio desocupado a 5 pies o menos del ranamot, que puede realizar un ataque de [[/item Bite]]{Mordisco} contra él como acción adicional.</p>"
         },
         "Oin5TUPPyz6M9EJm": {
           "name": "Anfibio",
-          "description": "<p>El safio puede respirar aire y agua.</p>"
+          "description": "<p>El ranamot puede respirar aire y agua.</p>"
         },
         "Q2dRJtc4iNu73yxj": {
-          "name": "Susceptibilidad de choque",
-          "description": "<p>Si el rafehemoth recibe daños por rayos, sufre varios efectos hasta el final de su próximo giro: su velocidad se reduce a la mitad, se necesita una penalización -2 para los lanzamientos de ahorro de aire acondicionado y de dexteridad, no puede utilizar reacciones o Multiataque, y en su turno, puede utilizar una acción o una acción adicional, no ambos.</p>",
+          "name": "Susceptible a Descargas",
+          "description": "<p>Si el ranamot recibe daño de relámpago, sufre varios efectos hasta el final de su siguiente turno: su velocidad se reduce a la mitad, recibe un penalizador de -2 a la CA y a las tiradas de salvación de Destreza, no puede usar reacciones ni Ataque múltiple y en su turno puede usar una acción o una acción adicional, pero no ambas.</p>",
           "effects": {
             "g1w8FyO8gr0UpLP2": {
-              "name": "AC &amp; Dex salva -2",
-              "description": "<p>Después de recibir daños por rayos, la criatura recibe una penalización de -2 a CA y Dexterity ahorro lanza.</p>"
+              "name": "CA y salvaciones de Destreza -2",
+              "description": "<p>Tras recibir daño de relámpago, la criatura tiene un penalizador de -2 a la CA y a las tiradas de salvación de Destreza.</p>"
             }
           }
         }
