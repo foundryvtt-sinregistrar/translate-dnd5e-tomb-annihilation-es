@@ -2053,18 +2053,32 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   Se conserva el texto y se registra la omisión para revisión funcional.
   Reparadas la coma duplicada de su ataque y la concordancia de sus textos.
 
+### appendix-d-five-guides — Qawasha, Kupalué, Musharib, Shago y Salysa
+
+- Revisados 286 campos: cinco páginas y ambas copias de los guías.
+  Referencia física 36 para sus historias; rasgos y conjuros completos
+  contrastados con el exportado inglés.
+- Corregido el nombre del arma de Musharib a «Partecráneos». Conservados
+  los motivos ocultos de los guías, la ventaja social de Shago y las
+  condiciones de regeneración de Kupalué.
+- Las biografías de Adventure insertan páginas ya revisadas del capítulo 1.
+  La del compendio de Kupalué inserta a Qawasha, revisado en este bloque.
+- Los números de documento de Musharib y Qawasha siguen el exportado, no
+  el orden del PDF español. Salysa conserva las piedras mensajeras en plural
+  del original inglés, aunque la edición española menciona una sola en su bolsa.
+
 ## Balance de revisión editorial
 
-- 824 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 829 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 219 de los apéndices A, B, C, D y F.
-  No equivale a 824 páginas del PDF.
-- 6599 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 6599 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 224 de los apéndices A, B, C, D y F.
+  No equivale a 829 páginas del PDF.
+- 6885 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 6885 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas setenta y siete biografías en ambas copias de actores: siete
-  príncipes y setenta criaturas o PNJ del apéndice D. Siguen pendientes las demás
+  insertado. Revisadas ochenta y dos biografías en ambas copias de actores: siete
+  príncipes y setenta y cinco criaturas o PNJ del apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las
