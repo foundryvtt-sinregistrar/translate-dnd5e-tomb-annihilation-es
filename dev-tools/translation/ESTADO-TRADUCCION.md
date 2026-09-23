@@ -1818,18 +1818,29 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - La descripción de Amistad de Volo está vacía en el exportado. Sus ideales,
   vínculos y defectos del PDF tampoco figuran en el actor ni en su página.
 
+### appendix-d-zindar — Zindar
+
+- Revisados 128 campos de ambas copias del actor y su página, con referencias
+  físicas 239 y 240. Incluye biografía, atributos de interpretación, conjuros,
+  alas y las dos modalidades de aliento.
+- Conservados los valores dinámicos de CD y ataque, seis espacios de nivel 1
+  y cuatro de nivel 2. El exportado no incluye Amistad, presente en el PDF.
+- Revisados los límites y repeticiones de salvación de los conjuros contra
+  el inglés exportado. La nota del aliento debilitador aclara que su efecto
+  activo es un recordatorio y no automatiza las desventajas.
+
 ## Balance de revisión editorial
 
-- 797 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 798 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 192 de los apéndices A, B, C, D y F.
-  No equivale a 797 páginas del PDF.
-- 4453 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 4453 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 193 de los apéndices A, B, C, D y F.
+  No equivale a 798 páginas del PDF.
+- 4581 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 4581 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas cincuenta y una biografías en ambas copias de actores: siete
-  príncipes y cuarenta y cuatro criaturas o PNJ del apéndice D. Siguen pendientes las demás
+  insertado. Revisadas cincuenta y dos biografías en ambas copias de actores: siete
+  príncipes y cuarenta y cinco criaturas o PNJ del apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las
