@@ -1737,18 +1737,28 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Los comentarios de las tiradas de dispersión de ciempiés y avispas dicen
   «result of 1», aunque la fórmula usa 50 %. Se añaden al pendiente funcional.
 
+### appendix-d-liara-juggernaut — Liara Portyr y mole de piedra
+
+- Revisados 76 campos de ambas copias de los actores y sus dos páginas,
+  con referencia física 227. Incluye atributos de interpretación de Liara,
+  sus acuerdos con los piratas, equipo y rasgos de combate.
+- Conservado el ataque múltiple con hacha del exportado, frente a la mención
+  genérica de ataques cuerpo a cuerpo del PDF. Equipo traducido del inglés.
+- Revisados los límites de maniobra y regeneración de la mole, y el daño de
+  Rodar Devastador solo al entrar por primera vez en un espacio en cada turno.
+
 ## Balance de revisión editorial
 
-- 783 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 785 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 178 de los apéndices A, B, C, D y F.
-  No equivale a 783 páginas del PDF.
-- 3777 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 3777 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 180 de los apéndices A, B, C, D y F.
+  No equivale a 785 páginas del PDF.
+- 3853 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 3853 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas treinta y tres biografías en ambas copias de actores: siete
-  príncipes y veintiséis criaturas o PNJ del apéndice D. Siguen pendientes las demás
+  insertado. Revisadas treinta y cinco biografías en ambas copias de actores: siete
+  príncipes y veintiocho criaturas o PNJ del apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las

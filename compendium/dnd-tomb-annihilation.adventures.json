@@ -6405,34 +6405,34 @@
           "items": {
             "bHev5tIaVqChoTwC": {
               "name": "Golpetazo",
-              "description": "<p>[[/attack extended]]. [[/damage extended average]]. Si el objetivo es una criatura grande o pequeña, debe tener éxito en un [[/save format=long]] o ser llamado &amp;Reference[Prone apply=false]{propenso}.</p>",
+              "description": "<p>[[/attack extended]]. [[/damage extended average]]. Si el objetivo es una criatura Grande o más pequeña, debe superar una [[/save format=long]] o quedar &amp;Reference[Prone apply=false]{derribado}.</p>",
               "effects": {
                 "eZAA5YGpRfbhTTMP": {
-                  "name": "Prona",
-                  "description": "<p>El objetivo está golpeado. &amp;Reference[Prone apply=false]{propenso} del ataque del gigante.</p>"
+                  "name": "Derribado",
+                  "description": "<p>El objetivo queda &amp;Reference[Prone apply=false]{derribado} por el ataque de golpetazo de la mole.</p>"
                 }
               }
             },
             "LzNYWDbgx1szAhdZ": {
-              "name": "Rollo devastador",
-              "description": "<p>El gigante puede moverse a través del espacio de una criatura propensa. Una criatura cuyo espacio el gigante entra por primera vez en un giro debe hacer un [[/save format=long]], tomando [[/damage average]] daño en un error de guardar, o la mitad de daño en un éxito.</p>"
+              "name": "Rodar Devastador",
+              "description": "<p>La mole puede moverse por el espacio de una criatura derribada. Cuando entra en el espacio de una criatura por primera vez en un turno, esa criatura debe realizar una [[/save format=long]]; sufre [[/damage average]] de daño si falla, o la mitad si tiene éxito.</p>"
             },
             "0eOaFcGZG7i2r5Os": {
-              "name": "Forma inmutable",
-              "description": "<p>El gigante es inmune a cualquier conjuro o efecto que pueda alterar su forma.</p>"
+              "name": "Forma Inmutable",
+              "description": "<p>La mole es inmune a cualquier conjuro o efecto que altere su forma.</p>"
             },
             "Evr9iZ6OI4Y1WaCN": {
               "name": "Regeneración",
-              "description": "<p>Mientras tenga 1 punto de impacto a la izquierda, el gigante mágicamente recupera todos sus puntos de impacto diariamente al amanecer. El gigante es destruido y no se regenera si cae a 0 puntos de impacto.</p>"
+              "description": "<p>Siempre que le quede al menos 1 punto de golpe, la mole recupera mágicamente todos sus puntos de golpe cada día al amanecer. Si llega a 0 puntos de golpe, queda destruida y no se regenera.</p>"
             },
             "jFBd4glwkOOkk1ls": {
-              "name": "Monstruo de asedio",
-              "description": "<p>El juggernaut hace doble daño a objetos y estructuras.</p>"
+              "name": "Monstruo de Asedio",
+              "description": "<p>La mole causa el doble de daño a objetos y estructuras.</p>"
             }
           },
           "name": "Mole de piedra",
           "tokenName": "Mole de piedra",
-          "biography": "<p>Un gigante de piedra es un edificio rodante imbuido de suficiente conciencia para evitar peligros obvios como pozos abiertos y abismos. Atravesa campos de batalla abiertos o se desliza por los pasillos de las mazmorras, aplastando a cualquiera en su camino. Cada gigante de piedra tiene una forma y apariencia únicas. Uno podría parecerse a un elefante con colmillos enjoyados, mientras que otro podría parecerse a un demonio que frunce el ceño con ojos ardientes y dientes de obsidiana.</p><p>Un gigante de piedra es rápido, pero carece de maniobrabilidad y sólo puede moverse en una dirección a su turno. Es poco peligroso para las criaturas que no pueden aplastar bajo sus rodillos. Su mejor táctica es chocar contra una criatura, golpearla propensa, y luego rodar sobre ella.</p>"
+          "biography": "<p>Una mole de piedra es un autómata rodante dotado de la consciencia necesaria para evitar peligros evidentes, como fosos abiertos y abismos. Avanza por campos de batalla despejados o rueda por los pasillos de las mazmorras, aplastando a quienes encuentra a su paso. Cada mole de piedra tiene una forma y un aspecto únicos. Una puede parecer un elefante con colmillos enjoyados; otra, un demonio ceñudo de ojos llameantes y dientes de obsidiana.</p><p>Una mole de piedra es rápida, pero poco maniobrable: en su turno solo puede moverse en una dirección. Apenas supone un peligro para las criaturas que no puede aplastar bajo sus rodillos. Su mejor táctica consiste en embestir a una criatura, derribarla y pasar por encima de ella.</p>"
         },
         "5zYqPbKe9B53eWJG": {
           "alignment": "Legal malvado",
@@ -10970,7 +10970,7 @@
           "items": {
             "c9Wry9DMdLcv9pae": {
               "name": "Ataque múltiple",
-              "description": "<p>Liara hace tres [[/item .SKTsD6RNrmUDbxAQ]] ataques.</p>"
+              "description": "<p>Liara realiza tres ataques con su [[/item .SKTsD6RNrmUDbxAQ]]{Hacha de batalla}.</p>"
             },
             "SKTsD6RNrmUDbxAQ": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]] o [[/damage twoHanded average]].</p>",
@@ -10982,25 +10982,25 @@
             },
             "Og4pZsMmbzhyHULS": {
               "name": "Escudo",
-              "description": "<p>Un escudo está hecho de madera o metal y se lleva en una mano. Wieling un escudo aumenta su clase de armadura en 2. Sólo puedes beneficiarte de un escudo a la vez.</p>"
+              "description": "<p>Un escudo está hecho de madera o metal y se lleva en una mano. Empuñar un escudo aumenta tu Clase de Armadura en 2. Solo puedes beneficiarte de un escudo a la vez.</p>"
             },
             "0Vj8uHe6S4n7aapH": {
               "name": "Armadura de cuero tachonado",
-              "description": "<p>Hecho de cuero resistente pero flexible, el cuero tachonado está reforzado con remaches o pinchos de cierre.</p>"
+              "description": "<p>Esta armadura está hecha de cuero resistente pero flexible, reforzado con remaches o púas muy juntos.</p>"
             },
             "0pQwwqTU1gD2yaCY": {
               "name": "Valiente",
-              "description": "<p>Liara tiene ventaja en los lanzamientos de ahorro en contra de tener miedo.</p>"
+              "description": "<p>Liara tiene ventaja en las tiradas de salvación para evitar quedar asustada.</p>"
             },
             "TPPMlxxcW2QXsuv1": {
-              "name": "Furia ardiente",
-              "description": "<p>Una vez por turno, cuando Liara golpea a una criatura con un arma cuerpo a cuerpo, puede causar fuego mágicamente salir de su arma y hacer un extra [[/damage average]] daños al objetivo.</p>"
+              "name": "Furia Flamígera",
+              "description": "<p>Una vez por turno, cuando Liara impacta a una criatura con un arma cuerpo a cuerpo, puede hacer que brote fuego mágico de su arma y causar [[/damage average]] de daño adicional al objetivo.</p>"
             }
           },
           "name": "Liara Portyr",
           "creatureSubtype": "Humano",
           "tokenName": "Liara Portyr",
-          "biography": "<p>Como comandante de Fort Beluarian, Liara pasa la mayor parte de su tiempo preocupándose por la seguridad de su fortaleza mientras corta tratos con piratas. En general, no tiene ningún problema con los aventureros y hará todo lo posible para ayudarles a lidiar con la miríada de amenazas que acechan en la selva.</p><p>Liara proviene de una influyente familia en la Puerta de Baldur y ha ocupado su puesto durante los últimos tres años. Para ella, la tarea se siente como una prueba de temple, pero para muchos de sus subordinados, Fort Beluarian se siente como destierro. Los espías de Liara en Port Nyanzaru le proporcionan manifiestos de buques y horarios de salida que pasa a los piratas del Anclaje de Jahaka, a cambio de promesas de no atacar nunca barcos que enarbolen la bandera de la Puerta de Baldur. Liara también recibe una parte de los beneficios de los piratas, algunos de los cuales van para mantener feliz a su guarnición.</p>"
+          "biography": "<p>Como comandante de Fuerte Beluarian, Liara dedica gran parte de su tiempo a preocuparse por la seguridad de su fortaleza mientras cierra tratos con piratas. Por lo general, no tiene problemas con los aventureros y hace cuanto puede para ayudarlos a afrontar las innumerables amenazas que acechan en la selva.</p><p>Liara procede de una familia influyente de Puerta de Baldur y lleva tres años en el cargo. Para ella, este destino es una prueba de entereza, pero muchos de sus subordinados consideran Fuerte Beluarian un destierro. Sus espías en Puerto Nyanzaru le proporcionan manifiestos de carga y horarios de salida de los barcos, que transmite a los piratas del Fondeadero de Jahaka a cambio de su promesa de no atacar nunca a los barcos que enarbolen la bandera de Puerta de Baldur. Liara también recibe una parte de los beneficios de los piratas, y dedica parte de ellos a mantener contenta a su guarnición.</p>"
         },
         "toaLorsaBilwatal": {
           "alignment": "Caótico neutral",
@@ -17749,7 +17749,7 @@
             },
             "JDEhEg0GWHCngJOS": {
               "name": "Liara Portyr",
-              "text": "<aside><p>@Embed[Actor.3vTgQjRFbmBvbyZ9 caption=false cite=false]</p></aside><aside><h3>Los rasgos de Liara Portyr</h3><p><em><strong>Ideal.</strong></em> Uno debe respetar la cadena de mando. Sigues mis órdenes, o morirás.</p><p><em><strong>Bond.</strong></em> He jurado mantener y proteger el Fuerte Beluarian en nombre del Gran Duque Ulder Ravengard de la Puerta de Baldur. ¡El fuerte no caerá bajo mi vigilancia!”</p><p><em><strong>Falla.</strong></em> “Aquí es un mundo de mierda-comer-te. No tengo piedad por aquellos que no pueden defenderse.</p><img class=\"size-four centered\" src=\"modules/dnd-tomb-annihilation/assets/portraits/liara-portyr.webp\"><p class=\"p1\">@Embed[Actor.3vTgQjRFbmBvbyZ9 caption=false cite=true statblock classes=\"double-column\"]</p></aside>"
+              "text": "<aside><p>@Embed[Actor.3vTgQjRFbmBvbyZ9 caption=false cite=false]</p></aside><aside><h3>Atributos de Liara Portyr</h3><p><em><strong>Ideal.</strong></em> «Hay que respetar la cadena de mando. Obedeces mis órdenes o mueres».</p><p><em><strong>Vínculo.</strong></em> «He jurado defender y proteger Fuerte Beluarian en nombre del gran duque Ulder Ravengard de Puerta de Baldur. ¡La fortaleza no caerá mientras yo esté al mando!».</p><p><em><strong>Defecto.</strong></em> «Ahí fuera, cualquier día te devora un gul. No siento lástima por quienes no pueden defenderse».</p><img class=\"size-four centered\" src=\"modules/dnd-tomb-annihilation/assets/portraits/liara-portyr.webp\"><p class=\"p1\">@Embed[Actor.3vTgQjRFbmBvbyZ9 caption=false cite=true statblock classes=\"double-column\"]</p></aside>"
             },
             "WVBrztl0p5i5PSmO": {
               "name": "Mwaxanaré y Na",
