@@ -2730,6 +2730,16 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y las frecuencias de conjuros del original. Conservados los enlaces técnicos
   para la comprobación funcional posterior.
 
+### additional-yuanti-two — Issar, Sekelok y variantes yuan-ti
+
+- Revisados seis perfiles en ambas copias: 384 registros contrastados con el
+  exportado inglés. Incluye Issar, Sekelok, abominación y corruptos de tipos
+  1, 2 y 3, sus conjuros, actividades y efectos.
+- Comprobadas las diferencias entre brazos de serpiente y cola constrictora,
+  restricciones de forma y límites del ataque múltiple. Conservadas las CD
+  dinámicas de agarre y las CD fijas de sus efectos para validación funcional.
+- Revalidados los conjuros ya revisados y sus restricciones en estos perfiles.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2739,8 +2749,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
   de Foundry, tres de créditos y cuatro de historial.
   No equivale a 931 páginas del PDF.
-- 15993 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 15993 campos distintos.
+- 16377 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 16377 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento cuarenta y dos biografías en ambas copias de actores: siete
   príncipes, ciento veintisiete criaturas o PNJ vinculados al apéndice D y ocho perfiles
