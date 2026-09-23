@@ -959,8 +959,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   en cada una. Diferenciadas la trampa por ritual incorrecto y la rociada por
   abrir el sarcófago sin ritual; esta afecta también al pasillo sur.
 - Conservadas las flechas de un punto de daño y la posesión al tocar cualquiera
-  de los brazales. Pendiente técnico: el enlace del apéndice D junto a los huesos
-  del ranamot usa la misma página que el grung de Nangnang en el export.
+  de los brazales. El enlace junto a los huesos del ranamot lleva a la
+  introducción del apéndice D, un destino genérico válido.
 - Auditorías técnica y editorial sin errores.
 
 ### ch5-level3-beholder-01 a ch5-level3-beholder-04 — Velos y Belchorzh
@@ -983,8 +983,7 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   distinción entre plata (pp) y platino (ppt). El tesoro oeste conserva cobre
   del export, frente a la errata de electro del PDF.
 - Conservado el idioma druídico del lagarto y el campo antimágico de las celdas.
-- El apéndice D de las gárgolas repite el destino genérico incorrecto ya anotado
-  para otros monstruos. Pendiente de revisión técnica.
+- El enlace de las gárgolas al apéndice D lleva a su introducción; es válido.
 - Auditorías técnica y editorial sin errores.
 
 ### ch5-level4-cells-01 a ch5-level4-cells-04 — Celdas elementales
@@ -1006,9 +1005,9 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   la sur transforma al usarla para salir. Conservadas las cuatro formas animales.
 - Conservados el único aviso de los guerreros, su destrucción por crítico y
   la caja de música que los activa incluso sin ruidos previos.
-- Mantenida la referencia a la mandolina de las reglas de 2014. Pendientes
-  técnicos: fragmento `#terracotta-warriors` y enlace de kamadan al apéndice D,
-  que vuelve a usar el destino del grung.
+- Mantenida la referencia a la mandolina de las reglas de 2014. Pendiente
+  técnico: fragmento `#terracotta-warriors`. El enlace de kamadan al apéndice D
+  lleva a su introducción; es válido.
 - Auditorías técnica y editorial sin errores.
 
 ### ch5-level4-maze-01 a ch5-level4-maze-04 — Laberinto de la muerte
@@ -1017,8 +1016,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Diferenciados los gestos de entrada y salida, el brazo derecho amputado
   y la imposibilidad de mover o controlar la esfera de aniquilación.
 - Conservados los dos efectos simultáneos al retirar la corona y el valor
-  multiplicado en subasta. El enlace de bodak al apéndice D y el fragmento
-  `#fabled-treasures` requieren la revisión técnica ya prevista.
+  multiplicado en subasta. El fragmento `#fabled-treasures` requiere revisión
+  técnica. El enlace de bodak lleva a la introducción del apéndice D; es válido.
 - Auditorías técnica y editorial sin errores.
 
 ### ch5-level4-mirror-01 — Espejo atrapavidas
@@ -1028,8 +1027,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   las reacciones simultáneas al destruir el espejo.
 - Khomara y Blackfire coinciden con el grimorio descrito en la oficina de Mustio.
   Corregido NM para Tlad y aclarado que Zaal obedece a Lukanu.
-- Los enlaces del apéndice D de gárgola y campeona repiten el destino genérico
-  ya anotado. Auditorías técnica y editorial sin errores.
+- Los enlaces de gárgola y campeona llevan a la introducción del apéndice D;
+  son válidos. Auditorías técnica y editorial sin errores.
 
 ### ch5-level4-royal-01 a ch5-level4-royal-03 — Puerta, trono y Reina del Sol
 
@@ -1102,7 +1101,7 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - El gas afecta aunque no se respire, pero no a plantas. Corregida la frase
   inglesa confusa del conducto: está en el techo de 58 y el gas no asciende por él.
 - Retirada una comilla sobrante tras Tesoros legendarios. El enlace de la mole
-  al apéndice D repite el destino genérico del grung ya anotado.
+  lleva a la introducción del apéndice D; es válido.
 - Auditorías técnica y editorial sin errores.
 
 ### ch5-level5-lake-01 a ch5-level5-lake-02 — Lago y puerta de la voracidad
@@ -1200,8 +1199,9 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   no destruye la filacteria remota. La esfera no atraviesa el portal por sí sola.
 - El comentario del dado de filacterias dice «resultado 1» aunque el umbral
   implementa el 10 % correcto. Se conserva el comando; pendiente de ajuste técnico.
-- Los enlaces del atropal y Acererak al apéndice D repiten el destino genérico
-  ya anotado; el enlace de introducción y el fragmento `#mist-gate` requieren revisión.
+- Los enlaces del atropal y Acererak llevan a la introducción del apéndice D;
+  son válidos. El otro enlace de introducción y el fragmento `#mist-gate`
+  requieren revisión.
 - Auditorías técnica y editorial sin errores.
 
 ### ch5-level6-passages-01 a ch5-level6-passages-02 — Capilla y sendas
@@ -1358,11 +1358,9 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   naturaleza, aarakocras, enanos albinos, aldanis, almirajes y simios.
 - Referencias físicas 194, 197, 200 y 204. Conservados frecuencia, umbrales,
   condiciones de sorpresa, soborno de los aldanis y apaciguamiento del almiraj.
-- Los UUID genéricos del apéndice D siguen apuntando a la página de grungs
-  en el original, incluso para chwingas, enanos, aldanis y almirajes. Se añaden
-  estos casos a la corrección funcional pendiente; no se alteran sus destinos
-  como parte de la revisión lingüística. La etiqueta `Encounter` del Embed
-  también requiere comprobar la traducción de parámetros de presentación.
+- Los UUID genéricos de chwingas, enanos, aldanis y almirajes llevan a la
+  introducción del apéndice D; son válidos. La etiqueta `Encounter` del Embed
+  requiere comprobar la traducción de parámetros de presentación.
 - Auditorías técnica y editorial sin errores.
 
 ### appendix-b-artus — Artus, depredadores y encuentros sociales
@@ -1503,6 +1501,16 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   del apéndice B, además de Puerto Nyanzaru, revisada previamente. Siguen
   pendientes actores enlazados y los problemas funcionales documentados.
 - Auditorías técnica y editorial sin errores.
+
+### appendix-d-link-verification — Corrección de las notas de enlaces
+
+- Comprobado directamente en el exportado: `FDyn4HWR2JU4EFY6` es la página
+  «Appendix D», con la introducción del apéndice, y `07OcWSNklHd1H0oT` es
+  «Grungs». Se corrige la identificación errónea de las notas anteriores.
+- Las referencias genéricas al apéndice D no necesitan redirigirse a las
+  fichas individuales. No se han modificado UUID por esa suposición.
+- Esta comprobación corrige el registro de incidencias; no añade campos a la
+  revisión lingüística ni acredita el funcionamiento de los enlaces en Foundry.
 
 ## Balance de revisión editorial
 
