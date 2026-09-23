@@ -9715,58 +9715,58 @@
           "items": {
             "et5oVIdFSOhv8gcH": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-              "name": "Maul (solo en forma humana o híbrida)",
+              "name": "Maza a dos manos (solo en forma humanoide o híbrida)",
               "activities": {
                 "AOubkoVCiOtjECID": {
                   "activation": {
-                    "condition": "Forma humana o híbrida solamente"
+                    "condition": "Solo en forma humanoide o híbrida"
                   }
                 }
               }
             },
             "LGn0FJaXqNncTRUD": {
-              "name": "Cambio de forma",
-              "description": "<p>[[lookup @name]] puede utilizar su acción para polimorfo en un híbrido de jabalí-humanoide o en un jabalí, o volver a su forma verdadera, que es humanoide. Sus estadísticas, aparte de su AC, son las mismas en cada forma. Cualquier equipo que lleva o lleva no se transforma. Revierte a su verdadera forma si muere.</p>"
+              "name": "Cambiaformas",
+              "description": "<p>[[lookup @name]] puede usar su acción para transformarse en un híbrido de jabalí y humanoide, en un jabalí o de nuevo en su forma verdadera, que es humanoide. Sus estadísticas, salvo la CA, son iguales en todas las formas. El equipo que lleve puesto o transporte no se transforma. Recupera su forma verdadera si muere.</p>"
             },
             "FlVDNoSorwfVOp4a": {
               "name": "Carga (solo en forma de jabalí o híbrida)",
-              "description": "<p>Si [[lookup @name]] se mueve al menos 15 pies rectos hacia un objetivo y luego le da con sus colmillos en la misma curva, el objetivo toma un extra [[/damage average]] daño. Si el objetivo es una criatura, debe tener éxito en un [[/save format=long]] o ser llamado &amp;Reference[Prone apply=false].</p>",
+              "description": "<p>Si [[lookup @name]] se mueve al menos 15 pies en línea recta hacia un objetivo y después lo impacta con sus colmillos en el mismo turno, el objetivo sufre [[/damage average]] de daño adicional. Si es una criatura, debe superar una [[/save format=long]] o quedar &amp;Reference[Prone apply=false]{derribada}.</p>",
               "activities": {
                 "ziRgMXPHcBQapCaj": {
                   "activation": {
-                    "condition": "Solo forma jabalí o híbrida"
+                    "condition": "Solo en forma de jabalí o híbrida"
                   }
                 }
               },
               "effects": {
                 "QYGwG4q7xma7WpUH": {
-                  "name": "Prona",
-                  "description": "<p>El objetivo es propenso a caer.</p>"
+                  "name": "Derribado",
+                  "description": "<p>El objetivo queda derribado.</p>"
                 }
               }
             },
             "UNFhCC2g06wiWEHe": {
-              "name": "Inflexible",
-              "description": "<p>Si [[lookup @name]] toma 14 daños o menos que lo reduciría a 0 puntos de golpe, se reduce a 1 punto de golpe en su lugar.</p>"
+              "name": "Implacable",
+              "description": "<p>Si [[lookup @name]] recibe 14 de daño o menos que lo reduciría a 0 puntos de golpe, queda con 1 punto de golpe en su lugar.</p>"
             },
             "bEhTIQOPXVREdha0": {
-              "name": "Multiataque (solo en forma humana o híbrida)",
-              "description": "<p>[[lookup @name]] hace dos ataques, sólo uno de los cuales puede ser con su [[/item .lwV4b6KiZsw34Icy]]{colmillos}.</p>"
+              "name": "Ataque múltiple (solo en forma humanoide o híbrida)",
+              "description": "<p>[[lookup @name]] realiza dos ataques, de los cuales solo uno puede ser con sus [[/item .lwV4b6KiZsw34Icy]]{colmillos}.</p>"
             },
             "lwV4b6KiZsw34Icy": {
-              "name": "Tusks (solo en forma de jabalí o híbrida)",
-              "description": "<p>[[/attack extended]]. [[/damage extended average]]. Si el objetivo es un humanoide, debe tener éxito en un [[/save format=long]] o ser maldecidos con licantropía de ave.</p>"
+              "name": "Colmillos (solo en forma de jabalí o híbrida)",
+              "description": "<p>[[/attack extended]]. [[/damage extended average]]. Si el objetivo es un humanoide, debe superar una [[/save format=long]] o quedar maldito con la licantropía del hombre jabalí.</p>"
             }
           },
           "name": "Elok Jaharwon",
-          "creatureSubtype": "Chultan humano, cambiador de formas",
-          "languages": "No puedo hablar en forma de jabalí.",
-          "biographyPublic": "<p>Vea al capitán Zaroum Al-Saryak y al capitán Laskilar.</p>",
+          "creatureSubtype": "Humano chultano, cambiaformas",
+          "languages": "No puede hablar en forma de jabalí",
+          "biographyPublic": "<p>Consulta también al capitán Zaroum Al-Saryak y al capitán Laskilar.</p>",
           "tokenName": "Elok Jaharwon",
-          "biography": "<p>Capitán Elok Jaharwon (NE macho Chultán humano) @UUID[Compendium.dnd5e.monsters.Actor.J9hgSaZODGjrNl9B]{areboar}) no tiene paciencia ni sentido del humor. Fue primer oficial del Dragonfang hasta hace un año, cuando organizó un motín y lanzó al ex capitán por la borda. Los otros capitanes todavía se están adaptando a su nuevo confederado mal educado, que parece tener la intención de intimidar su camino hacia la declaración de sí mismo rey de los piratas.</p><p>Elok quiere dejar de enviar una porción de los beneficios de los piratas a Fort Beluarian, que terminaría la alianza con Liara Portyr y probablemente se autoderrotaría; los piratas podrían mantener más de sus ganancias, pero tomarían menos premios e incurrirían en más riesgo. Los otros capitanes ven claramente las desventajas, pero Jaharwon está construyendo un grupo de piratas de las tres tripulaciones.</p><p>La tripulación del Dragonfang incluye a un primer oficial llamado Kalita (LE hembra Chultán humano @UUID[Compendium.dnd5e.monsters.Actor.13K3XK2A3wwxVKLD]{espía}), quince Chultan @UUID[Compendium.dnd5e.monsters.Actor.n4TEv7inVUkyZviN]{bandidos}, tres Chultan @UUID[Compendium.dnd5e.monsters.Actor.Cy3A0rsNMPLZozam]{matones}, y una “bruja del mar” llamada Ojo de la Profundidad (N hembra Calishite humana @UUID[Compendium.dnd5e.monsters.Actor.K15Yl8JmB5iPircc]{druida}).</p>",
+          "biography": "<p>El capitán Elok Jaharwon, un @UUID[Compendium.dnd5e.monsters.Actor.J9hgSaZODGjrNl9B]{hombre jabalí} humano chultano NM, carece de paciencia y sentido del humor. Fue primer oficial del Colmillo de Dragón hasta hace un año, cuando organizó un motín y arrojó al anterior capitán por la borda. Los demás capitanes aún se están acostumbrando a su nuevo aliado maleducado, que parece empeñado en imponerse como rey de los piratas mediante la intimidación.</p><p>Elok quiere dejar de enviar una parte de los beneficios de los piratas a Fuerte Beluarian. Esto acabaría con la alianza con Liara Portyr y probablemente resultaría contraproducente: los piratas conservarían una mayor parte del botín, pero capturarían menos presas y correrían más riesgos. Los otros capitanes ven claramente las desventajas, pero Jaharwon está ganando seguidores entre los piratas rasos de las tres tripulaciones.</p><p>La tripulación del Colmillo de Dragón incluye a una primera oficial llamada Kalita, una @UUID[Compendium.dnd5e.monsters.Actor.13K3XK2A3wwxVKLD]{espía} humana chultana LM; quince @UUID[Compendium.dnd5e.monsters.Actor.n4TEv7inVUkyZviN]{bandidos} chultanos; tres @UUID[Compendium.dnd5e.monsters.Actor.Cy3A0rsNMPLZozam]{matones} chultanos; y una «bruja marina» llamada Ojo de las Profundidades, una @UUID[Compendium.dnd5e.monsters.Actor.K15Yl8JmB5iPircc]{druida} humana calishita N.</p>",
           "effects": {
             "h2GcIq57veNbyLdw": {
-              "name": "Forma jabalí o híbrida AC"
+              "name": "CA en forma de jabalí o híbrida"
             }
           }
         },
@@ -10895,43 +10895,43 @@
           "items": {
             "bLvq7KB0QTLkHbGE": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] hace tres ataques cuerpo a cuerpo: dos con su [[/item .szUhMLg8Gm8SMGIN]] y uno con su [[/item .p8JLK5i4HEbgq2gN]]. O [[lookup @name]] hace dos ataques de alcance con su [[/item .p8JLK5i4HEbgq2gN]].</p>"
+              "description": "<p>[[lookup @name]] realiza tres ataques cuerpo a cuerpo: dos con su [[/item .szUhMLg8Gm8SMGIN]]{cimitarra} y uno con su [[/item .p8JLK5i4HEbgq2gN]]{daga}. O bien [[lookup @name]] realiza dos ataques a distancia con su [[/item .p8JLK5i4HEbgq2gN]]{daga}.</p>"
             },
             "szUhMLg8Gm8SMGIN": {
               "name": "Cimitarra",
-              "description": "<p><em>Ataque de arma de cuerpo entero:</em> [[/attack]], alcancen 5 pies, un objetivo. <em>Impacto</em>: [[/damage average]] daño.</p>"
+              "description": "<p><em>Ataque con arma cuerpo a cuerpo:</em> [[/attack]], alcance 5 pies, un objetivo. <em>Impacto</em>: [[/damage average]] de daño.</p>"
             },
             "p8JLK5i4HEbgq2gN": {
               "name": "Daga",
-              "description": "<p><em>Ataque con arma cuerpo a cuerpo o a distancia</em>: [[/attack]], alcance 5 pies o rango 20/60 pies, un objetivo. <em>Impacto</em>: [[/damage average]] daño.</p>"
+              "description": "<p><em>Ataque con arma cuerpo a cuerpo o a distancia</em>: [[/attack]], alcance 5 pies o alcance a distancia 20/60 pies, un objetivo. <em>Impacto</em>: [[/damage average]] de daño.</p>"
             },
             "QNuqcHYGsMgeXVRO": {
               "name": "Parada",
-              "description": "<p>[[lookup @name]] añade 2 a su AC contra un ataque cuerpo a cuerpo que lo golpearía. Para ello, [[lookup @name]] debe ver al atacante y estar empuñando un arma de combate.</p>"
+              "description": "<p>[[lookup @name]] añade 2 a su CA contra un ataque cuerpo a cuerpo que fuera a impactarlo. Para hacerlo, [[lookup @name]] debe ver al atacante y estar empuñando un arma cuerpo a cuerpo.</p>"
             },
             "TIV3B1vbrVHIhQAm": {
               "name": "Armadura de cuero tachonado",
-              "description": "<p>Hecho de cuero resistente pero flexible, el cuero tachonado está reforzado con remaches o pinchos de cierre.</p>"
+              "description": "<p>Esta armadura está hecha de cuero resistente pero flexible, reforzado con remaches o púas muy juntos.</p>"
             },
             "7TJ0n9D3IMv3X2Bc": {
-              "name": "Cabo del Banco Mountebank",
-              "description": "<p><em>Objeto maravilloso</em></p>\n<p>Esta capa huele débilmente a azufre. Mientras lo usas, puedes usarlo para lanzar el @UUID[Compendium.dnd5e.spells.Item.A4RsPuSvB9wFtz1j]{Puerta de la dimensión} deletrear como una acción. Esta propiedad de la capa no se puede usar de nuevo hasta el próximo amanecer.</p>\n<p>Cuando desapareces, dejas detrás una nube de humo, y apareces en una nube similar de humo en tu destino. El humo oscurece ligeramente el espacio que dejaste y el espacio en el que apareces, y se disipa al final de tu siguiente turno. Un viento ligero o más fuerte dispersa el humo.</p>"
+              "name": "Capa del charlatán",
+              "description": "<p><em>Objeto maravilloso</em></p><p>Esta capa huele ligeramente a azufre. Mientras la lleves puesta, puedes usar una acción para lanzar @UUID[Compendium.dnd5e.spells.Item.A4RsPuSvB9wFtz1j]{puerta dimensional}. Esta propiedad no puede volver a usarse hasta el siguiente amanecer.</p><p>Al desaparecer, dejas una nube de humo y apareces envuelto en otra similar en tu destino. El humo oscurece ligeramente tanto el espacio que abandonas como el de llegada y se disipa al final de tu siguiente turno. Un viento ligero o más fuerte lo dispersa.</p>"
             },
             "iEB8AKGCrx3uNuCt": {
               "name": "Puerta dimensional",
-              "description": "<p>Te teletransportas desde tu ubicación actual a cualquier otro lugar dentro del rango. Llegas exactamente al lugar deseado. Puede ser un lugar que se puede ver, uno que se puede visualizar, o uno que se puede describir al indicar distancia y dirección, como \"200 pies rectos hacia abajo\" o \"hacia arriba al noroeste en un ángulo de 45 grados, 300 pies\".</p><p>Puedes llevar objetos siempre y cuando su peso no exceda lo que puedas llevar. También puedes traer una criatura dispuesta de tu tamaño o más pequeña que está llevando el equipo hasta su capacidad de carga. La criatura debe estar a menos de 5 pies de ti cuando lances este conjuro.</p><p>Si llegaras a un lugar ya ocupado por un objeto o una criatura, tú y cualquier criatura que viaje contigo cada uno recibiría daño de fuerza 4d6, y el conjuro no te teletransportará.</p>",
+              "description": "<p>Te teletransportas desde tu ubicación actual a cualquier otro lugar dentro del alcance. Llegas exactamente al punto deseado. Puede ser un lugar que veas, que visualices o que describas indicando distancia y dirección, como «200 pies hacia abajo en línea recta» o «300 pies hacia el noroeste, en un ángulo ascendente de 45 grados».</p><p>Puedes llevar objetos cuyo peso total no supere tu capacidad de carga. También puedes llevar a una criatura voluntaria de tu tamaño o menor, con equipo que no supere su propia capacidad de carga. Debe estar a 5 pies o menos de ti cuando lances el conjuro.</p><p>Si el lugar de llegada está ocupado por un objeto o una criatura, tanto tú como cualquier criatura que viaje contigo sufrís 4d6 de daño de fuerza y el conjuro no os teletransporta.</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             }
           },
           "name": "Laskilar",
-          "creatureSubtype": "Tetiriano Humano",
-          "languages": "Cualquier dos idiomas",
+          "creatureSubtype": "Humano tethyriano",
+          "languages": "Dos idiomas cualesquiera",
           "tokenName": "Laskilar",
-          "biography": "<p>Capitán Laskilar (NE macho Tethyrian humano) <strong>capitán de bandoleros</strong> usando un @UUID[Compendium.dnd5e.items.Item.gpHgWLsD8k2yzbfR]{cabo del mousebank}) es un pirata extravagante y desvergonzado que se ha cansado de perseguir barcos mercantes y escuchar a sus capitanes lloriquear y alegar por los ingresos perdidos y derramar sangre. Prefiere buscar tesoros perdidos y objetos mágicos, pero no cavando en ruinas y tumbas; en lugar de eso, perseguirá felizmente aventureros a través de selvas y océanos para robar cualquier saqueo que se haya ganado duramente que crea que tienen. Su barco, el Stirge, está lleno de sinvergüenzas y asesinos deseosos de hacer su trabajo sucio. Laskilar también se mantiene en contacto con una multitud de patrocinadores ricos en Port Nyanzaru y puertos más distantes que están ansiosos por pagar un rescate del rey por la más rara de sus ganancias mal-obtenidas.</p><p>La tripulación del Stirge incluye un primer oficial llamado Heel (NE macho medio-orco <strong>@UUID[Compendium.dnd5e.monsters.Actor.fsPruAIDOg4tVrgb]{gladiador}</strong>), doce Chultan y Tethyrian <strong>@UUID[Compendium.dnd5e.monsters.Actor.n4TEv7inVUkyZviN]{bandidos}</strong>, seis Chultan <strong>@UUID[Compendium.dnd5e.monsters.Actor.Cy3A0rsNMPLZozam]{matones}</strong>, y un sacerdote marino vicioso llamado Caldos Hellingskorn (CE macho Illuskan <strong>@UUID[Compendium.dnd5e.monsters.Actor.PVD5wRdyO7iCJPs1]{sacerdote}</strong> de Umberlee).</p>"
+          "biography": "<p>El capitán Laskilar, un <strong>capitán bandido</strong> humano tethyriano NM que lleva una @UUID[Compendium.dnd5e.items.Item.gpHgWLsD8k2yzbfR]{capa del charlatán}, es un pirata ostentoso y vividor, cansado de perseguir mercantes y oír a sus capitanes llorar y suplicar por el dinero perdido y la sangre derramada. Prefiere buscar tesoros perdidos y objetos mágicos, aunque sin excavar en ruinas ni tumbas: persigue con gusto a los aventureros por selvas y océanos para robarles el botín que cree que han ganado con tanto esfuerzo. Su barco, el Estirge, está lleno de sinvergüenzas y asesinos deseosos de hacer su trabajo sucio. Laskilar también mantiene el contacto con numerosos clientes adinerados de Puerto Nyanzaru y puertos más lejanos, dispuestos a pagar una fortuna por las piezas más raras de su botín ilícito.</p><p>La tripulación del Estirge incluye a un primer oficial llamado Talón, un <strong>@UUID[Compendium.dnd5e.monsters.Actor.fsPruAIDOg4tVrgb]{gladiador}</strong> semiorco NM; doce <strong>@UUID[Compendium.dnd5e.monsters.Actor.n4TEv7inVUkyZviN]{bandidos}</strong> chultanos y tethyrianos; seis <strong>@UUID[Compendium.dnd5e.monsters.Actor.Cy3A0rsNMPLZozam]{matones}</strong> chultanos; y un cruel sacerdote marino llamado Caldos Hellingskorn, un <strong>@UUID[Compendium.dnd5e.monsters.Actor.PVD5wRdyO7iCJPs1]{sacerdote}</strong> de Umberlee illuskano CM.</p>"
         },
         "toaLerekDashlynd": {
           "alignment": "Legal neutral",
@@ -14195,11 +14195,11 @@
           "items": {
             "bLvq7KB0QTLkHbGE": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] hace tres ataques cuerpo a cuerpo: dos con su [[/item Scimitar]] y uno con su [[/item Dagger]]. O hace dos ataques de alcance con su [[/item Dagger]]{Daggers}.</p>"
+              "description": "<p>[[lookup @name]] realiza tres ataques cuerpo a cuerpo: dos con su [[/item Scimitar]]{cimitarra} y uno con su [[/item Dagger]]{daga}. O bien realiza dos ataques a distancia con su [[/item Dagger]]{daga}.</p>"
             },
             "szUhMLg8Gm8SMGIN": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-              "name": "Cimitarra engastada con gemas"
+              "name": "Cimitarra con gemas"
             },
             "p8JLK5i4HEbgq2gN": {
               "name": "Daga",
@@ -14207,18 +14207,18 @@
             },
             "QNuqcHYGsMgeXVRO": {
               "name": "Parada",
-              "description": "<p>[[lookup @name]] añade 2 a su AC contra un ataque cuerpo a cuerpo que lo golpearía. Para ello, debe ver al atacante y estar empuñando un arma cuerpo a cuerpo.</p>"
+              "description": "<p>[[lookup @name]] añade 2 a su CA contra un ataque cuerpo a cuerpo que fuera a impactarlo. Para hacerlo, el capitán debe ver al atacante y estar empuñando un arma cuerpo a cuerpo.</p>"
             },
             "TIV3B1vbrVHIhQAm": {
-              "name": "Armadura de cuero con tachuelas de gema",
-              "description": "<p>Hecho de cuero resistente pero flexible, el cuero tachonado está reforzado con remaches o pinchos de cierre.</p>"
+              "name": "Armadura de cuero tachonado con gemas",
+              "description": "<p>Esta armadura está hecha de cuero resistente pero flexible, reforzado con remaches o púas muy juntos.</p>"
             }
           },
           "name": "Zaroum Al-Saryak",
           "creatureSubtype": "Humano calishita",
-          "languages": "Cualquier dos idiomas",
+          "languages": "Dos idiomas cualesquiera",
           "tokenName": "Zaroum Al-Saryak",
-          "biography": "<p>El calculador Capitán Zaroum Al-Saryak (LE macho calishita humano <strong>Capitán del bandido.</strong> tiene un especial cariño por las piedras preciosas. Lleva un abrigo con gemas brillantes cosidas en él (750 gp) y lleva una cimitarra con piedras preciosas incrustadas en la empuñadura (1,250 gp). Su barco, el Ojo Esmeralda, tiene cabañas decoradas como habitaciones en el palacio de un pasha calishita.</p><p>A Al-Saryak le gusta cortar las cabezas de los que le desagradan y colgarlas de la cabeza de sirena de su barco. Una lesión de hace mucho tiempo le costó su ojo izquierdo e incisionó una cicatriz en forma de una gran X a través de su cara. La cuenca del ojo arruinada ahora tiene una gema mágica que permite a Al-Saryak discernir caminos fantasmales que conducen al tesoro. La joya no funciona para nadie más. Al-Saryak sostiene la piedra que envía igualada a Liara Portyr (ver @UUID[JournalEntry.toaCh2FortBeluar]{Fuerte Beluarian}).</p><p>La tripulación del Emerald Eye consiste en un primer mate llamado Voltan (CE macho Calishite humano <strong>berserker</strong>), doce calishitas <strong>bandidos</strong>, dos Calishite <strong>matones</strong>, y cinco Chultan <strong>guerreros tribales</strong>.</p>"
+          "biography": "<p>El calculador capitán Zaroum Al-Saryak, un <strong>capitán bandido</strong> humano calishita LM, siente especial predilección por las piedras preciosas. Lleva una chaqueta con gemas relucientes cosidas (750 po) y una cimitarra con piedras preciosas incrustadas en la empuñadura (1.250 po). Los camarotes de su barco, el Ojo Esmeralda, están decorados como las estancias del palacio de un bajá calishita.</p><p>Al-Saryak disfruta decapitando a quienes lo disgustan y colgando sus cabezas del mascarón de sirena de su barco. Una antigua herida le costó el ojo izquierdo y le dejó una gran cicatriz en forma de X en el rostro. La cuenca dañada alberga ahora una gema mágica que le permite distinguir sendas fantasmales que conducen a tesoros. La gema no funciona para nadie más. Al-Saryak posee la piedra mensajera emparejada con la de Liara Portyr (consulta @UUID[JournalEntry.toaCh2FortBeluar]{Fuerte Beluarian}).</p><p>La tripulación del Ojo Esmeralda está formada por un primer oficial llamado Voltan, un <strong>berserker</strong> humano calishita CM; doce <strong>bandidos</strong> calishitas; dos <strong>matones</strong> calishitas; y cinco <strong>guerreros tribales</strong> chultanos.</p>"
         },
         "toaZindar0000000": {
           "items": {

@@ -1985,18 +1985,32 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Conservada la numeración de documentos del exportado (Faroul y Gondolo 4;
   Bruma y Jarro 8), que difiere del orden de la edición española impresa.
 
+### appendix-d-pirate-captains — Capitanes piratas de Jahaka
+
+- Revisados 128 campos de Elok Jaharwon, Laskilar y Zaroum Al-Saryak:
+  tres páginas y las dos copias de cada actor. Referencia física 60 para
+  las biografías; equipo y perfiles básicos contrastados con el exportado.
+- Conservados motivos, alianzas y tripulaciones. La Capa del charlatán
+  mantiene su recuperación al amanecer y las condiciones de dispersión del humo.
+- Zaroum figura como neutral malvado en el campo de alineamiento, aunque
+  su biografía y el PDF lo describen como legal malvado. Se registra la
+  discrepancia. Adventure además nombra las gemas en su armadura y cimitarra
+  y enlaza Fuerte Beluarian; el compendio carece de esas particularidades.
+- Corregida la llave suelta de la biografía de Zaroum. Los enlaces por
+  nombre `Scimitar` y `Dagger` siguen pendientes de revisión funcional.
+
 ## Balance de revisión editorial
 
-- 809 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 812 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 204 de los apéndices A, B, C, D y F.
-  No equivale a 809 páginas del PDF.
-- 5797 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 5797 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 207 de los apéndices A, B, C, D y F.
+  No equivale a 812 páginas del PDF.
+- 5925 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 5925 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas sesenta y dos biografías en ambas copias de actores: siete
-  príncipes y cincuenta y cinco criaturas o PNJ del apéndice D. Siguen pendientes las demás
+  insertado. Revisadas sesenta y cinco biografías en ambas copias de actores: siete
+  príncipes y cincuenta y ocho criaturas o PNJ del apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las
