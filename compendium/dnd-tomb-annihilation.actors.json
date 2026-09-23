@@ -6524,20 +6524,20 @@
         },
         "4p3UiiohQ0wVYvOr": {
           "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-          "name": "Primavera"
+          "name": "Salto"
         },
         "9HoEK2iWNBkt1zHA": {
           "name": "Camuflaje",
-          "description": "<p>El jaculi tiene ventaja en los cheques de Dexterity (Stealth) hechos para ocultar.</p>"
+          "description": "<p>El jaculi tiene ventaja en las pruebas de Destreza (Sigilo) para esconderse.</p>"
         },
         "O5tB5xx5FlJCnxfD": {
-          "name": "Olor a queso",
-          "description": "<p>El jaculi tiene ventaja en la sabiduría (percepción) cheques que dependen del olor.</p>"
+          "name": "Olfato Agudo",
+          "description": "<p>El jaculi tiene ventaja en las pruebas de Sabiduría (Percepción) que dependan del olfato.</p>"
         }
       },
       "name": "Jaculi",
       "tokenName": "Jaculi",
-      "biography": "<p>Un jaculi (pronunciado jah-KOO-lee) es una serpiente de 15 pies de largo que puede alterar el color y la textura de sus escamas para camuflarse. Alterando su apariencia para parecerse a la madera o piedra, se enrolla alrededor de pilares y troncos de árboles desde los que se lanza como una jabalina, golpeando con gran fuerza y precisión.</p><p>Los jaculis se encuentran en climas húmedos, y sus hábitats preferidos son las selvas pluviales y las mazmorras frescas. La piel del cobertizo de los jaculi es codiciada para su uso en la elaboración <em>@UUID[Compendium.dnd5e.items.Item.hSY1b8yi8JWw2blf]{botas de striding y resorte}</em> y <em>capa de invisibilidad</em>.</p>"
+      "biography": "<p>Un jaculi (se pronuncia [jacúli]) es una serpiente de 15 pies de longitud que puede cambiar el color y la textura de sus escamas para camuflarse. Adopta el aspecto de la madera o la piedra y se enrosca en pilares y troncos de árboles, desde los que se lanza como una jabalina para golpear con gran fuerza y precisión.</p><p>Los jaculis habitan climas húmedos y prefieren las selvas tropicales y las mazmorras frescas. La piel que mudan es codiciada para fabricar <em>@UUID[Compendium.dnd5e.items.Item.hSY1b8yi8JWw2blf]{botas de zancadas y brincos}</em> y <em>capas de invisibilidad</em>.</p>"
     },
     "pdgBJ32F0fSDA4IZ": {
       "alignment": "Neutral malvado",
@@ -14809,7 +14809,7 @@
       "items": {
         "FBqSIhZmq8iB0VhE": {
           "name": "Ataque múltiple",
-          "description": "<p>El kamadan hace dos ataques: uno con su [[/item Bite]] o [[/item Claw]] y uno con su [[/item Snakes]].</p>"
+          "description": "<p>El kamadan realiza dos ataques: uno con su [[/item Bite]]{Mordisco} o su [[/item Claw]]{Garra} y otro con sus [[/item Snakes]]{Serpientes}.</p>"
         },
         "J9NndSEUl5RFNiyW": {
           "name": "Mordisco",
@@ -14817,15 +14817,15 @@
         },
         "P3TCQDwRb8iccfSK": {
           "name": "Garra",
-          "description": "<p><em>Ataque de arma de cuerpo entero:</em> [[/attack]] para golpear, alcanzar 5 pies, un objetivo. Pulse: [[/damage average]] daño.</p>"
+          "description": "<p><em>Ataque con arma cuerpo a cuerpo:</em> [[/attack]] a impactar, alcance 5 pies, un objetivo. Impacto: [[/damage average]] de daño.</p>"
         },
         "9t5ZNW1mLA6eSKiH": {
           "name": "Serpientes",
-          "description": "<p>[[/attack extended]]. [[/damage extended average]], y el objetivo debe hacer un [[/save format=long]], tomando [[/damage average activity=0orEvUbeijJJYs06]] daño en un error de guardar, o la mitad de daño en un éxito.</p>"
+          "description": "<p>[[/attack extended]]. [[/damage extended average]], y el objetivo debe realizar una [[/save format=long]]; sufre [[/damage average activity=0orEvUbeijJJYs06]] de daño si falla, o la mitad si tiene éxito.</p>"
         },
         "iQc1BlvSq0O8STCN": {
-          "name": "Respiración del sueño",
-          "description": "<p>El kamadan exhala gas del sueño en un cono de 30 pies. Cada criatura en esa área debe tener éxito en un [[/save format=long]] o caída &amp;Reference[Unconscious apply=false]{inconsciente} durante 10 minutos. Este efecto termina para una criatura si toma daño o alguien usa una acción para despertarla.</p>",
+          "name": "Aliento somnífero",
+          "description": "<p>El kamadan exhala gas somnífero en un cono de 30 pies. Cada criatura en el área debe superar una [[/save format=long]] o caer &amp;Reference[Unconscious apply=false]{inconsciente} durante 10 minutos. El efecto termina para una criatura si recibe daño o alguien usa una acción para despertarla.</p>",
           "effects": {
             "6bc5SJwOtmCx3Iqy": {
               "name": "Inconsciente",
@@ -14834,23 +14834,23 @@
           }
         },
         "2gHnVxJCUksC1220": {
-          "name": "Olor a queso",
-          "description": "<p>El kamadan tiene ventaja en la Sabiduría (Percepción) cheques que dependen del olor.</p>"
+          "name": "Olfato Agudo",
+          "description": "<p>El kamadan tiene ventaja en las pruebas de Sabiduría (Percepción) que dependan del olfato.</p>"
         },
         "CGjTYT68f6AwlvLW": {
-          "name": "Salto",
-          "description": "<p>Si el kamadan se mueve al menos 20 pies rectos hacia una criatura y luego le da con un ataque de garra en el mismo giro, ese objetivo debe tener éxito en un [[/save format=long]] o ser llamado &amp;Reference[prone apply=false]{propenso}. Si el objetivo es golpeado propenso, el kamadan puede hacer dos ataques — uno con su @UUID[.J9NndSEUl5RFNiyW]{mordedura} y uno con su @UUID[.9t5ZNW1mLA6eSKiH]{serpientes} — contra ella como una acción adicional.</p>",
+          "name": "Abalanzarse",
+          "description": "<p>Si el kamadan se mueve al menos 20 pies en línea recta hacia una criatura y después la impacta con un ataque de garra en el mismo turno, el objetivo debe superar una [[/save format=long]] o quedar &amp;Reference[prone apply=false]{derribado}. Si queda derribado, el kamadan puede realizar dos ataques contra él como acción adicional: uno con su @UUID[.J9NndSEUl5RFNiyW]{mordisco} y otro con sus @UUID[.9t5ZNW1mLA6eSKiH]{serpientes}.</p>",
           "effects": {
             "bvlFFfoMOOOKkJw8": {
-              "name": "Prona",
-              "description": "<p>El objetivo está golpeado. &amp;Reference[prone apply=false]{propenso}.</p>"
+              "name": "Derribado",
+              "description": "<p>El objetivo queda &amp;Reference[prone apply=false]{derribado}.</p>"
             }
           }
         }
       },
       "name": "Kamadan",
       "tokenName": "Kamadan",
-      "biography": "<p>Un kamadan (pronunciado KAM-ah-dan) es un depredador felino que se asemeja a un leopardo con seis serpientes brotando de sus hombros. Aunque tiene un parecido pasajero con una bestia desplazadora, las dos criaturas no están relacionadas (aunque algunos sabios afirman lo contrario).</p><p>Los kamadan suelen cazar solos o en parejas de pareja. Pueden exhalar nubes de gas del sueño, lo que normalmente hacen antes de entrar en combate cuerpo a cuerpo. Si un kamadan tiene enemigos conscientes e inconscientes dentro de un alcance sorprendente, intenta matar primero a los enemigos conscientes antes de acabar con cualquier enemigo dormido.</p>"
+      "biography": "<p>Un kamadan (se pronuncia [kámadan]) es un depredador felino parecido a un leopardo del que brotan seis serpientes a la altura de los hombros. Aunque guarda cierta semejanza con una bestia trémula, ambas criaturas no están emparentadas, pese a que algunos eruditos sostienen lo contrario.</p><p>Los kamadans suelen cazar solos o con su pareja. Pueden exhalar nubes de gas somnífero y suelen hacerlo antes de entrar en combate cuerpo a cuerpo. Si un kamadan tiene enemigos conscientes e inconscientes a su alcance, intenta matar primero a los conscientes y después remata a los que duermen.</p>"
     },
     "v3SzsN2CotFfEuqq": {
       "alignment": "Neutral",

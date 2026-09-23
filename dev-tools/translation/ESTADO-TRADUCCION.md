@@ -1713,18 +1713,28 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   esclavitud, dependencia del agua y variantes del veneno. Estos pasajes y los
   textos completos de los conjuros se traducen del inglés exportado.
 
+### appendix-d-jaculi-kamadan — Jaculi y kamadan
+
+- Revisados 76 campos de ambos actores en sus dos copias y sus páginas.
+  Referencias físicas 224 y 225. Conservados los dos ataques adicionales de
+  Abalanzarse y las condiciones para despertar del aliento somnífero.
+- El exportado del jaculi omite en Salto la explicación del desplazamiento de
+  30 pies, la ventaja tras saltar 10 pies y el daño adicional del PDF. Su campo
+  solo contiene las tiradas de ataque y daño; se registra esta omisión funcional.
+- Los enlaces por nombre `Bite`, `Claw` y `Snakes` siguen pendientes.
+
 ## Balance de revisión editorial
 
-- 780 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 782 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 175 de los apéndices A, B, C, D y F.
-  No equivale a 780 páginas del PDF.
-- 3555 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 3555 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 177 de los apéndices A, B, C, D y F.
+  No equivale a 782 páginas del PDF.
+- 3631 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 3631 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas treinta y una biografías en ambas copias de actores: siete
-  príncipes y veinticuatro criaturas o PNJ del apéndice D. Siguen pendientes las demás
+  insertado. Revisadas treinta y tres biografías en ambas copias de actores: siete
+  príncipes y veintiséis criaturas o PNJ del apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las
