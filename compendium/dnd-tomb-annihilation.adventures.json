@@ -946,40 +946,40 @@
           "items": {
             "JbDDt9MNYFyEbHsm": {
               "name": "Ataque múltiple",
-              "description": "<p>El diablo hace tres ataques cuerpo a cuerpo: uno con su [[/item .mlWql992zSZ6hvl6]]{cola} y dos con su [[/item .pya9jchjLkwMedEr]]{garras}. Alternativamente, puede utilizar [[/item .syCZDlwGoyT1GvJv]]{Hurl Flame} dos veces.</p>"
+              "description": "<p>El diablo realiza tres ataques cuerpo a cuerpo: uno con su [[/item .mlWql992zSZ6hvl6]]{cola} y dos con sus [[/item .pya9jchjLkwMedEr]]{garras}. Como alternativa, puede usar [[/item .syCZDlwGoyT1GvJv]]{Lanzar Llama} dos veces.</p>"
             },
             "pya9jchjLkwMedEr": {
               "name": "Garra",
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "descriptionChat": "<p>El Diablo de Barbed ataca con su garra.</p>"
+              "descriptionChat": "<p>El diablo punzante ataca con su garra.</p>"
             },
             "mlWql992zSZ6hvl6": {
               "name": "Cola",
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "descriptionChat": "<p>El diablo de púas ataca con su cola.</p>"
+              "descriptionChat": "<p>El diablo punzante ataca con su cola.</p>"
             },
             "8QaMc1baRrSlLFXN": {
-              "name": "Piel espinada",
-              "description": "<p>Al comienzo de cada uno de sus giros, el diablo de púas negocia [[/damage average]] a cualquier criatura que lo arrebate.</p>"
+              "name": "Piel Punzante",
+              "description": "<p>Al comienzo de cada uno de sus turnos, el diablo punzante inflige [[/damage average]] a cualquier criatura que lo tenga agarrado.</p>"
             },
             "wPHhtm2eyM9LKpT4": {
-              "name": "La vista del diablo",
-              "description": "<p>La oscuridad mágica no impide la Darkvision del diablo.</p>"
+              "name": "Vista del Diablo",
+              "description": "<p>La oscuridad mágica no obstaculiza la visión en la oscuridad del diablo.</p>"
             },
             "f3ItDDfd5L4WMGlf": {
-              "name": "Resistencia mágica",
-              "description": "<p>El diablo tiene ventaja en los lanzamientos de ahorro contra conjuros y otros efectos mágicos.</p>"
+              "name": "Resistencia Mágica",
+              "description": "<p>El diablo tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.</p>"
             },
             "syCZDlwGoyT1GvJv": {
-              "name": "Arrojar llama",
-              "description": "<p>[[/attack extended]]. [[/damage extended]]. Si el objetivo es un objeto inflamable que no está siendo usado o transportado, también se incendia.</p>",
-              "descriptionChat": "<p>El Diablo de Barbed ataca con su Llama Hurl. Si el objetivo es un objeto inflamable que no está siendo usado o transportado, también se incendia.</p>"
+              "name": "Lanzar Llama",
+              "description": "<p>[[/attack extended]]. [[/damage extended]]. Si el objetivo es un objeto inflamable que nadie lleve ni vista, también empieza a arder.</p>",
+              "descriptionChat": "<p>El diablo punzante ataca con Lanzar Llama. Si el objetivo es un objeto inflamable que nadie lleve ni vista, también empieza a arder.</p>"
             }
           },
-          "name": "Diablo de púas",
+          "name": "Diablo punzante",
           "creatureSubtype": "Diablo",
-          "tokenName": "Diablo de púas",
-          "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+          "tokenName": "Diablo punzante",
+          "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
         },
         "H0P0hkMt28cLrPvM": {
           "alignment": "Sin alineamiento",
@@ -2051,47 +2051,47 @@
           "items": {
             "dvoOA7jzBnq2Lxza": {
               "name": "Espada larga",
-              "description": "<p>[[/attack extended]]. [[/damage extended]]o bien [[/damage average attackMode=twoHanded]] daño si se utiliza con dos manos.</p>",
-              "descriptionChat": "<p>Los Erinyes atacan con su Longsword.</p>"
+              "description": "<p>[[/attack extended]]. [[/damage extended]], o [[/damage average attackMode=twoHanded]] de daño si se empuña a dos manos.</p>",
+              "descriptionChat": "<p>La erinia ataca con su espada larga.</p>"
             },
             "CElneYmOXIzyfv2a": {
               "name": "Arco largo",
-              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo debe tener éxito en un [[/save format=long]] o ser &amp;Reference[poisoned apply=false]{envenenado}. El veneno dura hasta que es removido por el @UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{menor restauración} conjuro o magia similar.</p>",
-              "descriptionChat": "<p>Los Erinyes atacan con su Longbow. El objetivo debe hacer un <strong>Constitución</strong> El lanzamiento de ahorro.</p>",
+              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo debe superar una [[/save format=long]] o quedar &amp;Reference[poisoned apply=false]{envenenado}. El veneno dura hasta que lo elimine el conjuro @UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{restablecimiento menor} u otra magia similar.</p>",
+              "descriptionChat": "<p>La erinia ataca con su arco largo. El objetivo debe realizar una tirada de salvación de <strong>Constitución</strong>.</p>",
               "effects": {
                 "mKgDBKMLZBKtrsaB": {
                   "name": "Envenenado",
-                  "description": "<p>El objetivo es &amp;Reference[poisoned apply=false]{envenenado}. El veneno dura hasta que es removido por curación mágica.</p>"
+                  "description": "<p>El objetivo está &amp;Reference[poisoned apply=false]{envenenado}. El veneno dura hasta que lo elimine la curación mágica.</p>"
                 }
               }
             },
             "Fp0Jye7Qwk8KOvH7": {
               "name": "Ataque múltiple",
-              "description": "<p>Los erinyes hacen tres ataques.</p>"
+              "description": "<p>La erinia realiza tres ataques.</p>"
             },
             "BeB04w7ftFRDaMQ6": {
-              "name": "Armas infernales",
-              "description": "<p>Los ataques con armas de los erinyes son mágicos y ofrecen un extra. <strong>13 (3d8) <em>daños por veneno</em></strong> en un golpe (incluido en los ataques).</p>",
-              "descriptionChat": "<p>Los ataques con armas de los erinyes son mágicos y ofrecen extras <em>daños por veneno</em> en un golpe (incluido en los ataques).</p>"
+              "name": "Armas Infernales",
+              "description": "<p>Los ataques con arma de la erinia son mágicos e infligen <strong>13 (3d8) de <em>daño de veneno</em></strong> adicional al impactar (incluido en los ataques).</p>",
+              "descriptionChat": "<p>Los ataques con arma de la erinia son mágicos e infligen <em>daño de veneno</em> adicional al impactar (incluido en los ataques).</p>"
             },
             "W7sEr3m8MBrzYq2v": {
               "name": "Parada",
-              "description": "<p>El erinyes añade 4 a su <strong>CA</strong> contra un ataque que lo golpearía. Para hacerlo, los erinyes deben ver al atacante y estar empuñando un arma cuerpo a cuerpo.</p>",
-              "descriptionChat": "<p>El erinyes añade 4 a su <strong>CA</strong> contra un ataque que lo golpearía.</p>"
+              "description": "<p>La erinia suma 4 a su <strong>CA</strong> contra un ataque cuerpo a cuerpo que fuera a impactarla. Para hacerlo, debe ver al atacante y estar empuñando un arma cuerpo a cuerpo.</p>",
+              "descriptionChat": "<p>La erinia suma 4 a su <strong>CA</strong> contra un ataque cuerpo a cuerpo que fuera a impactarla.</p>"
             },
             "WharT2ReFy2FYTG0": {
-              "name": "Resistencia mágica",
-              "description": "<p>El Erinyes tiene<strong> ventaja </strong>en los lanzamientos de ahorro contra conjuros y otros efectos mágicos.</p>"
+              "name": "Resistencia Mágica",
+              "description": "<p>La erinia tiene<strong> ventaja </strong>en las tiradas de salvación contra conjuros y otros efectos mágicos.</p>"
             },
             "qO61ofcSoMF4uxk8": {
-              "name": "Armadura de placa",
-              "description": "<p>La placa consiste en placas metálicas en forma, entrelazadas para cubrir todo el cuerpo. Un traje de placa incluye guanteletes, botas de cuero pesado, un casco visera, y capas gruesas de relleno debajo de la armadura. Hebillas y correas distribuyen el peso sobre el cuerpo.</p>"
+              "name": "Armadura de placas",
+              "description": "<p>Esta armadura cubre todo el cuerpo con placas metálicas moldeadas y encajadas entre sí. Incluye guanteletes, botas de cuero grueso, un yelmo con visera y gruesas capas de acolchado bajo las placas. Las hebillas y correas distribuyen el peso por todo el cuerpo.</p>"
             }
           },
           "name": "Erinia",
           "creatureSubtype": "Diablo",
           "tokenName": "Erinia",
-          "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+          "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
         },
         "6LIZIy1kOAnQSDAM": {
           "alignment": "Neutral",
@@ -3906,44 +3906,44 @@
           "items": {
             "g8r9DZeHyfNzerHP": {
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "name": "Tenedor",
-              "descriptionChat": "<p>El Diablo de Horned ataca con su tenedor.</p>"
+              "name": "Horca",
+              "descriptionChat": "<p>El diablo astado ataca con su horca.</p>"
             },
             "VpvOoT7mbR0XNZiL": {
               "name": "Cola",
-              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>Si el objetivo es una criatura distinta de un no-muerto o una construcción, debe tener éxito en un [[/save format=long]] o perder [[/damage average activity=XfOBDQ5IiEWuEyRh]] puntos de impacto al inicio de cada una de sus vueltas debido a una herida infernal.</p><p>Cada vez que el diablo golpea el blanco herido con este ataque, el daño causado por la herida aumenta en 10 (3d6).</p><p>Cualquier criatura puede tomar una acción para atajar la herida con un éxito [[/check format=long]]. La herida también se cierra si el objetivo recibe curación mágica.</p>",
-              "descriptionChat": "<p>El diablo cornudo ataca con su cola. Si el objetivo es una criatura distinta de un no-muerto o una construcción, debe hacer un <strong>Constitución</strong> El lanzamiento de ahorro.</p>",
+              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>Si el objetivo es una criatura que no sea un muerto viviente ni un autómata, debe superar una [[/save format=long]] o perder [[/damage average activity=XfOBDQ5IiEWuEyRh]] puntos de golpe al comienzo de cada uno de sus turnos debido a una herida infernal.</p><p>Cada vez que el diablo impacta al objetivo herido con este ataque, el daño que causa la herida aumenta en 10 (3d6).</p><p>Cualquier criatura puede usar una acción para cerrar la herida si supera una [[/check format=long]]. La herida también se cierra si el objetivo recibe curación mágica.</p>",
+              "descriptionChat": "<p>El diablo astado ataca con su cola. Si el objetivo es una criatura que no sea un muerto viviente ni un autómata, debe realizar una tirada de salvación de <strong>Constitución</strong>.</p>",
               "activities": {
                 "XfOBDQ5IiEWuEyRh": {
-                  "name": "Daños: Inicio de la vuelta"
+                  "name": "Daño: comienzo del turno"
                 },
                 "5vpuN1tGQANVvTuK": {
-                  "name": "Comprobación de estanterías"
+                  "name": "Prueba para cerrar la herida"
                 }
               }
             },
             "9FAl5YGUTmt1RnEF": {
               "name": "Ataque múltiple",
-              "description": "<p>El diablo hace tres ataques cuerpo a cuerpo: dos con su [[/item .g8r9DZeHyfNzerHP]]{tenedor} y uno con su [[/item .VpvOoT7mbR0XNZiL]]{cola}. Se puede utilizar [[/item .GFYzWSyeuW9O4a0I]]{Hurl Flame} en lugar de cualquier ataque cuerpo a cuerpo.</p>"
+              "description": "<p>El diablo realiza tres ataques cuerpo a cuerpo: dos con su [[/item .g8r9DZeHyfNzerHP]]{horca} y uno con su [[/item .VpvOoT7mbR0XNZiL]]{cola}. Puede usar [[/item .GFYzWSyeuW9O4a0I]]{Lanzar Llama} en lugar de cualquiera de sus ataques cuerpo a cuerpo.</p>"
             },
             "smHERNgdj5yGNQuD": {
-              "name": "La vista del diablo",
-              "description": "<p>La oscuridad mágica no impide la oscuridad del diablo.</p>"
+              "name": "Vista del Diablo",
+              "description": "<p>La oscuridad mágica no obstaculiza la visión en la oscuridad del diablo.</p>"
             },
             "gq4SqLPtYhhtWidm": {
-              "name": "Resistencia mágica",
-              "description": "<p>El diablo tiene<strong> ventaja </strong>en los lanzamientos de ahorro contra conjuros y otros efectos mágicos.</p>"
+              "name": "Resistencia Mágica",
+              "description": "<p>El diablo tiene<strong> ventaja </strong>en las tiradas de salvación contra conjuros y otros efectos mágicos.</p>"
             },
             "GFYzWSyeuW9O4a0I": {
-              "name": "Arrojar llama",
-              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>Si el objetivo es un objeto inflamable que no está siendo usado o transportado, también se incendia.</p>",
-              "descriptionChat": "<p>El diablo en el cuerno ataca con su Llama Hurl. Si el objetivo es un objeto inflamable que no está siendo usado o transportado, también se incendia.</p>"
+              "name": "Lanzar Llama",
+              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>Si el objetivo es un objeto inflamable que nadie lleve ni vista, también empieza a arder.</p>",
+              "descriptionChat": "<p>El diablo astado ataca con Lanzar Llama. Si el objetivo es un objeto inflamable que nadie lleve ni vista, también empieza a arder.</p>"
             }
           },
-          "name": "Diablo cornudo",
+          "name": "Diablo astado",
           "creatureSubtype": "Diablo",
-          "tokenName": "Diablo cornudo",
-          "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+          "tokenName": "Diablo astado",
+          "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
         },
         "WHCr3rghokcd5r4x": {
           "alignment": "Sin alineamiento",

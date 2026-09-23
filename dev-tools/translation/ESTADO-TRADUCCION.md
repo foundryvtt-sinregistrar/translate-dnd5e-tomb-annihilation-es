@@ -2657,6 +2657,16 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   como propio del diablo óseo. Conservados los enlaces por nombre del diablo
   espinoso para su revisión funcional.
 
+### additional-fiends-two — Diablos punzante y astado, erinia
+
+- Revisadas las tres fichas en ambas copias: 138 registros contrastados con
+  el exportado inglés. Comprobado que la piel punzante daña a quien agarra al
+  diablo, no a quien este agarra, y las sustituciones de ataques por llamas.
+- Conservada y registrada una diferencia del original de la erinia: el arco
+  indica restablecimiento menor o magia similar para eliminar el veneno,
+  mientras que el efecto dice genéricamente «curación mágica». Pendiente de
+  reconciliación funcional; no se amplía la regla de la descripción del arco.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2666,8 +2676,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
   de Foundry, tres de créditos y cuatro de historial.
   No equivale a 931 páginas del PDF.
-- 14943 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 14943 campos distintos.
+- 15081 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 15081 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento cuarenta biografías en ambas copias de actores: siete
   príncipes, ciento veintisiete criaturas o PNJ vinculados al apéndice D y seis perfiles
