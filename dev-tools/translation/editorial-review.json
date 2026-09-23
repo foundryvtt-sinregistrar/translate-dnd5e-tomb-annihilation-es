@@ -150625,6 +150625,1416 @@
           "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
         }
       ]
+    },
+    {
+      "id": "additional-named-undead-Y3IrcyIwk6ty4QXi",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.actors.Y3IrcyIwk6ty4QXi.name",
+          "sourceSha256": "ce72ed8fbf15a2011560e80fbc94a3c901a2a810a0e3c22a197c20c8200e9539",
+          "translationSha256": "ce72ed8fbf15a2011560e80fbc94a3c901a2a810a0e3c22a197c20c8200e9539",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Y3IrcyIwk6ty4QXi.alignment",
+          "sourceSha256": "7b682d92b448b2a31cbabff84445a68defb470567fbdd7a03edbb06a398e2c2d",
+          "translationSha256": "a38c6bd2ae2507e8a8abbe1f1a6e6127ec287563485b53e60066990d09b68701",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Y3IrcyIwk6ty4QXi.creatureSubtype",
+          "sourceSha256": "996ccce701b06c744cce60809880423de9c9095f04dcfdc6ded034b56f0a7bbd",
+          "translationSha256": "ffa855ee777e02830bed930d45b6f0cd0753154f0bb7009c9a45297cd4529e74",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Y3IrcyIwk6ty4QXi.languages",
+          "sourceSha256": "a8b2b897546f59bc76a879403439d73907b2bdce19e7c66492eb23a64525034a",
+          "translationSha256": "cb3bc94b52b26d85cec57a1bc9ad51c2bf4e6ce8403f1f0ffd6562cb79ccd6de",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Y3IrcyIwk6ty4QXi.tokenName",
+          "sourceSha256": "ce72ed8fbf15a2011560e80fbc94a3c901a2a810a0e3c22a197c20c8200e9539",
+          "translationSha256": "ce72ed8fbf15a2011560e80fbc94a3c901a2a810a0e3c22a197c20c8200e9539",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Y3IrcyIwk6ty4QXi.items.5jJp4j4t8c1rsNSf.name",
+          "sourceSha256": "0ce3a662d11283354858fe3750d3f72949f5863f4dbed31d00005eece8e14a02",
+          "translationSha256": "e1589d94051584af717abd37f905541c9ec9a6a380dffd0e89ba52771faddcb3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Y3IrcyIwk6ty4QXi.items.5jJp4j4t8c1rsNSf.description",
+          "sourceSha256": "c848874470fc2afaac48e11dff226c8025d33e79caf79f8a562cf276d5842977",
+          "translationSha256": "848f23db7148caa76dcf29735a6e00262dcb4f7c34dfbd8f3935b44c21c31215",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Y3IrcyIwk6ty4QXi.items.c6nwMQ1kSVmj29z5.name",
+          "sourceSha256": "6e5597953e98e07b763c9f7c837239daf41a26a239b0616631539b9a04b559ad",
+          "translationSha256": "0f5627d69976efecdf83d744d6ec28905da742f1533855b78aad823b0bcbcd97",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Y3IrcyIwk6ty4QXi.items.c6nwMQ1kSVmj29z5.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Y3IrcyIwk6ty4QXi.items.owdtFHADBwvlY3Vq.name",
+          "sourceSha256": "3376ef7bd9fa9477a5a2393b01b702969aaa842a2108f6983f182b0e8e4d6744",
+          "translationSha256": "dfd0079f0c5ce2d4145a8ec06fe3d9e9441189d61a113e2e33fbe39f64e16ff5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Y3IrcyIwk6ty4QXi.items.owdtFHADBwvlY3Vq.description",
+          "sourceSha256": "4abfb31ea58db831e1cb46c1f934fb62c9e16acb94581ab0233e23cbb6e64ee5",
+          "translationSha256": "84a435c0e22396ca6259fa9eb8a57df1f16af994246722730529fb64a22cedaa",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Y3IrcyIwk6ty4QXi.items.7V3VXj8WHXyCQVhJ.name",
+          "sourceSha256": "560d616c7de628af880ba548d55f960587465fe5e4dd8e825d59511d69172365",
+          "translationSha256": "4f3060de6751626ae2067332fbc91fb5021b0e873a8410294bf2d826143a9100",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Y3IrcyIwk6ty4QXi.items.7V3VXj8WHXyCQVhJ.description",
+          "sourceSha256": "7faaf8409056df0be21249141c3c00d480b9a141ce0c59257205c981a72f8306",
+          "translationSha256": "d4c0b6d2941e181a6d6861f98f4669e190bef1e24490dc74362801e76cda3bfd",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Y3IrcyIwk6ty4QXi.items.fP90dMUnOhs1hpzf.name",
+          "sourceSha256": "1118dde764109023f1e1bcefa9cbb7302366d80414adcc0e53b014a6329ed244",
+          "translationSha256": "61860da1fa92587ff0cc2d10890d24d8c00ea52bccb9fde2e66a28b6b93d7e38",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Y3IrcyIwk6ty4QXi.items.fP90dMUnOhs1hpzf.description",
+          "sourceSha256": "b593b4820577a94078e293b71c529549720cd161d726041ebcdf3dde3ed36aca",
+          "translationSha256": "2df14cc757096ed97c469ed4e1428c116988cc47a6d609da6f1fb40f05f3d71c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Y3IrcyIwk6ty4QXi.items.1lKLM9WVowSzfmDs.name",
+          "sourceSha256": "713166971d730f81fcf8b757f2ea239d1a0360d9f74e8f5afe60fba97105879c",
+          "translationSha256": "7c31a6251d57b4c1b3c548aa89796cc54374dbb6b4fe110a0113424094c30135",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Y3IrcyIwk6ty4QXi.items.1lKLM9WVowSzfmDs.description",
+          "sourceSha256": "15ead013b02a352bfbc10a2b9a6ab7160c3528a24cb810a8fd54fde351db69a7",
+          "translationSha256": "98b9b31128948ba59987f093cd7195a349968f8138bfe881b78fa74ca8a115bf",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Y3IrcyIwk6ty4QXi.items.3sEdBNEm8PuZxkwY.name",
+          "sourceSha256": "9e9577cd9fe55999cbdd9f2eb0dba3e76cb8f11eb9c9f99c7388081583cc51ca",
+          "translationSha256": "e67a47365f615b2119f9e57b52872f4e1a9bc2968f8626a8658a009432b5be27",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Y3IrcyIwk6ty4QXi.items.3sEdBNEm8PuZxkwY.description",
+          "sourceSha256": "1b995ddd60eb3f04b4d091c547b9fac0ec4a65cd10fc4a3a9de5c4afc69a2d8b",
+          "translationSha256": "8a774ee85f5501b8041b2d7f547c03e6927d080664c693c89c119b1681c1efaf",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Y3IrcyIwk6ty4QXi.items.3sEdBNEm8PuZxkwY.effects.FKDbXBUs6VJlf8ZY.name",
+          "sourceSha256": "9e9577cd9fe55999cbdd9f2eb0dba3e76cb8f11eb9c9f99c7388081583cc51ca",
+          "translationSha256": "e67a47365f615b2119f9e57b52872f4e1a9bc2968f8626a8658a009432b5be27",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Y3IrcyIwk6ty4QXi.items.3sEdBNEm8PuZxkwY.effects.FKDbXBUs6VJlf8ZY.description",
+          "sourceSha256": "2621cb36929e527e779e12b02c05fe180ba61f60f341e911060ec9495631f57c",
+          "translationSha256": "7690b836cf681b31214d86850339898ee795c07a02cf4f2c1d555ec21b02d208",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Y3IrcyIwk6ty4QXi.items.Cq9Ko7FaNwyUe1QE.name",
+          "sourceSha256": "c07766ba966fc9bf8ecfbaa4ea1f780c54bad150582030890393909c717a65f7",
+          "translationSha256": "89ebe65d7da3e1bfb9621e2914ab1f110245f6dfc3663ea8083288f0c3ca1a95",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Y3IrcyIwk6ty4QXi.items.Cq9Ko7FaNwyUe1QE.description",
+          "sourceSha256": "349024a789c879894a91f32cb5f4b444d6e349db95833ed66aff6bae32023a53",
+          "translationSha256": "92f0c3c884ace6d4f2d02103e254aaec4237116734cb43079fe4aa370c633938",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Y3IrcyIwk6ty4QXi.items.qaVvGKR612ym3T6o.name",
+          "sourceSha256": "f0d35390cb244d754b9a003c23f03488e643b3cda95ca58f20377576df1639ab",
+          "translationSha256": "5e70d1b01b71758be14dd8720d417295f28b5e1162c9f804b7b313ec3aeb8cb8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Y3IrcyIwk6ty4QXi.items.qaVvGKR612ym3T6o.description",
+          "sourceSha256": "e20cb56c0bbbafae6f9cb363eecd757b4fd78627f99c770f9b296bd797d8790b",
+          "translationSha256": "843825693e1174683777095b06f253efa5f34989582000c12d782658cef3b5b1",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Y3IrcyIwk6ty4QXi.items.qaVvGKR612ym3T6o.effects.HH5YVjzxkwXpDZS0.name",
+          "sourceSha256": "f0d35390cb244d754b9a003c23f03488e643b3cda95ca58f20377576df1639ab",
+          "translationSha256": "5e70d1b01b71758be14dd8720d417295f28b5e1162c9f804b7b313ec3aeb8cb8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Y3IrcyIwk6ty4QXi.items.qaVvGKR612ym3T6o.effects.HH5YVjzxkwXpDZS0.description",
+          "sourceSha256": "b6df68c50913d3887b9d4beeab65515afb6db129b693c88bcc3c297d695c4897",
+          "translationSha256": "c454ff4c315307cc698985f4badfdd2d15236943206dd02b8852f35e94efb41f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Y3IrcyIwk6ty4QXi.items.DKWm3XTDMkUPcjsy.name",
+          "sourceSha256": "a824f34f6cbec9e941d2b4a906e6b3d0fb39cd758e4b495b19ed409a6308a21f",
+          "translationSha256": "445945ef5ef35e15b7cb349ae3ceb74ae764b380d898b597d590bfbc544f59f3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Y3IrcyIwk6ty4QXi.items.DKWm3XTDMkUPcjsy.description",
+          "sourceSha256": "cd03d5ee4f0b9fb9789fb7816c32ff14d05d9da7da98f0de07a0c14fa230d176",
+          "translationSha256": "e4c49a8fbe9b2b0dabfe428af388f4b2e500fcaa1b3fb55f1f20b360fd38bd9f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Y3IrcyIwk6ty4QXi.name",
+          "sourceSha256": "ce72ed8fbf15a2011560e80fbc94a3c901a2a810a0e3c22a197c20c8200e9539",
+          "translationSha256": "ce72ed8fbf15a2011560e80fbc94a3c901a2a810a0e3c22a197c20c8200e9539",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Y3IrcyIwk6ty4QXi.alignment",
+          "sourceSha256": "7b682d92b448b2a31cbabff84445a68defb470567fbdd7a03edbb06a398e2c2d",
+          "translationSha256": "a38c6bd2ae2507e8a8abbe1f1a6e6127ec287563485b53e60066990d09b68701",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Y3IrcyIwk6ty4QXi.creatureSubtype",
+          "sourceSha256": "996ccce701b06c744cce60809880423de9c9095f04dcfdc6ded034b56f0a7bbd",
+          "translationSha256": "ffa855ee777e02830bed930d45b6f0cd0753154f0bb7009c9a45297cd4529e74",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Y3IrcyIwk6ty4QXi.languages",
+          "sourceSha256": "a8b2b897546f59bc76a879403439d73907b2bdce19e7c66492eb23a64525034a",
+          "translationSha256": "cb3bc94b52b26d85cec57a1bc9ad51c2bf4e6ce8403f1f0ffd6562cb79ccd6de",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Y3IrcyIwk6ty4QXi.tokenName",
+          "sourceSha256": "ce72ed8fbf15a2011560e80fbc94a3c901a2a810a0e3c22a197c20c8200e9539",
+          "translationSha256": "ce72ed8fbf15a2011560e80fbc94a3c901a2a810a0e3c22a197c20c8200e9539",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Y3IrcyIwk6ty4QXi.items.5jJp4j4t8c1rsNSf.name",
+          "sourceSha256": "0ce3a662d11283354858fe3750d3f72949f5863f4dbed31d00005eece8e14a02",
+          "translationSha256": "e1589d94051584af717abd37f905541c9ec9a6a380dffd0e89ba52771faddcb3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Y3IrcyIwk6ty4QXi.items.5jJp4j4t8c1rsNSf.description",
+          "sourceSha256": "c848874470fc2afaac48e11dff226c8025d33e79caf79f8a562cf276d5842977",
+          "translationSha256": "848f23db7148caa76dcf29735a6e00262dcb4f7c34dfbd8f3935b44c21c31215",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Y3IrcyIwk6ty4QXi.items.c6nwMQ1kSVmj29z5.name",
+          "sourceSha256": "6e5597953e98e07b763c9f7c837239daf41a26a239b0616631539b9a04b559ad",
+          "translationSha256": "0f5627d69976efecdf83d744d6ec28905da742f1533855b78aad823b0bcbcd97",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Y3IrcyIwk6ty4QXi.items.c6nwMQ1kSVmj29z5.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Y3IrcyIwk6ty4QXi.items.owdtFHADBwvlY3Vq.name",
+          "sourceSha256": "3376ef7bd9fa9477a5a2393b01b702969aaa842a2108f6983f182b0e8e4d6744",
+          "translationSha256": "dfd0079f0c5ce2d4145a8ec06fe3d9e9441189d61a113e2e33fbe39f64e16ff5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Y3IrcyIwk6ty4QXi.items.owdtFHADBwvlY3Vq.description",
+          "sourceSha256": "4abfb31ea58db831e1cb46c1f934fb62c9e16acb94581ab0233e23cbb6e64ee5",
+          "translationSha256": "84a435c0e22396ca6259fa9eb8a57df1f16af994246722730529fb64a22cedaa",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Y3IrcyIwk6ty4QXi.items.7V3VXj8WHXyCQVhJ.name",
+          "sourceSha256": "560d616c7de628af880ba548d55f960587465fe5e4dd8e825d59511d69172365",
+          "translationSha256": "4f3060de6751626ae2067332fbc91fb5021b0e873a8410294bf2d826143a9100",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Y3IrcyIwk6ty4QXi.items.7V3VXj8WHXyCQVhJ.description",
+          "sourceSha256": "7faaf8409056df0be21249141c3c00d480b9a141ce0c59257205c981a72f8306",
+          "translationSha256": "d4c0b6d2941e181a6d6861f98f4669e190bef1e24490dc74362801e76cda3bfd",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Y3IrcyIwk6ty4QXi.items.fP90dMUnOhs1hpzf.name",
+          "sourceSha256": "1118dde764109023f1e1bcefa9cbb7302366d80414adcc0e53b014a6329ed244",
+          "translationSha256": "61860da1fa92587ff0cc2d10890d24d8c00ea52bccb9fde2e66a28b6b93d7e38",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Y3IrcyIwk6ty4QXi.items.fP90dMUnOhs1hpzf.description",
+          "sourceSha256": "b593b4820577a94078e293b71c529549720cd161d726041ebcdf3dde3ed36aca",
+          "translationSha256": "2df14cc757096ed97c469ed4e1428c116988cc47a6d609da6f1fb40f05f3d71c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Y3IrcyIwk6ty4QXi.items.1lKLM9WVowSzfmDs.name",
+          "sourceSha256": "713166971d730f81fcf8b757f2ea239d1a0360d9f74e8f5afe60fba97105879c",
+          "translationSha256": "7c31a6251d57b4c1b3c548aa89796cc54374dbb6b4fe110a0113424094c30135",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Y3IrcyIwk6ty4QXi.items.1lKLM9WVowSzfmDs.description",
+          "sourceSha256": "15ead013b02a352bfbc10a2b9a6ab7160c3528a24cb810a8fd54fde351db69a7",
+          "translationSha256": "98b9b31128948ba59987f093cd7195a349968f8138bfe881b78fa74ca8a115bf",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Y3IrcyIwk6ty4QXi.items.3sEdBNEm8PuZxkwY.name",
+          "sourceSha256": "9e9577cd9fe55999cbdd9f2eb0dba3e76cb8f11eb9c9f99c7388081583cc51ca",
+          "translationSha256": "e67a47365f615b2119f9e57b52872f4e1a9bc2968f8626a8658a009432b5be27",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Y3IrcyIwk6ty4QXi.items.3sEdBNEm8PuZxkwY.description",
+          "sourceSha256": "1b995ddd60eb3f04b4d091c547b9fac0ec4a65cd10fc4a3a9de5c4afc69a2d8b",
+          "translationSha256": "8a774ee85f5501b8041b2d7f547c03e6927d080664c693c89c119b1681c1efaf",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Y3IrcyIwk6ty4QXi.items.3sEdBNEm8PuZxkwY.effects.FKDbXBUs6VJlf8ZY.name",
+          "sourceSha256": "9e9577cd9fe55999cbdd9f2eb0dba3e76cb8f11eb9c9f99c7388081583cc51ca",
+          "translationSha256": "e67a47365f615b2119f9e57b52872f4e1a9bc2968f8626a8658a009432b5be27",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Y3IrcyIwk6ty4QXi.items.3sEdBNEm8PuZxkwY.effects.FKDbXBUs6VJlf8ZY.description",
+          "sourceSha256": "2621cb36929e527e779e12b02c05fe180ba61f60f341e911060ec9495631f57c",
+          "translationSha256": "7690b836cf681b31214d86850339898ee795c07a02cf4f2c1d555ec21b02d208",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Y3IrcyIwk6ty4QXi.items.Cq9Ko7FaNwyUe1QE.name",
+          "sourceSha256": "c07766ba966fc9bf8ecfbaa4ea1f780c54bad150582030890393909c717a65f7",
+          "translationSha256": "89ebe65d7da3e1bfb9621e2914ab1f110245f6dfc3663ea8083288f0c3ca1a95",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Y3IrcyIwk6ty4QXi.items.Cq9Ko7FaNwyUe1QE.description",
+          "sourceSha256": "349024a789c879894a91f32cb5f4b444d6e349db95833ed66aff6bae32023a53",
+          "translationSha256": "92f0c3c884ace6d4f2d02103e254aaec4237116734cb43079fe4aa370c633938",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Y3IrcyIwk6ty4QXi.items.qaVvGKR612ym3T6o.name",
+          "sourceSha256": "f0d35390cb244d754b9a003c23f03488e643b3cda95ca58f20377576df1639ab",
+          "translationSha256": "5e70d1b01b71758be14dd8720d417295f28b5e1162c9f804b7b313ec3aeb8cb8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Y3IrcyIwk6ty4QXi.items.qaVvGKR612ym3T6o.description",
+          "sourceSha256": "e20cb56c0bbbafae6f9cb363eecd757b4fd78627f99c770f9b296bd797d8790b",
+          "translationSha256": "843825693e1174683777095b06f253efa5f34989582000c12d782658cef3b5b1",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Y3IrcyIwk6ty4QXi.items.qaVvGKR612ym3T6o.effects.HH5YVjzxkwXpDZS0.name",
+          "sourceSha256": "f0d35390cb244d754b9a003c23f03488e643b3cda95ca58f20377576df1639ab",
+          "translationSha256": "5e70d1b01b71758be14dd8720d417295f28b5e1162c9f804b7b313ec3aeb8cb8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Y3IrcyIwk6ty4QXi.items.qaVvGKR612ym3T6o.effects.HH5YVjzxkwXpDZS0.description",
+          "sourceSha256": "b6df68c50913d3887b9d4beeab65515afb6db129b693c88bcc3c297d695c4897",
+          "translationSha256": "c454ff4c315307cc698985f4badfdd2d15236943206dd02b8852f35e94efb41f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Y3IrcyIwk6ty4QXi.items.DKWm3XTDMkUPcjsy.name",
+          "sourceSha256": "a824f34f6cbec9e941d2b4a906e6b3d0fb39cd758e4b495b19ed409a6308a21f",
+          "translationSha256": "445945ef5ef35e15b7cb349ae3ceb74ae764b380d898b597d590bfbc544f59f3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Y3IrcyIwk6ty4QXi.items.DKWm3XTDMkUPcjsy.description",
+          "sourceSha256": "cd03d5ee4f0b9fb9789fb7816c32ff14d05d9da7da98f0de07a0c14fa230d176",
+          "translationSha256": "e4c49a8fbe9b2b0dabfe428af388f4b2e500fcaa1b3fb55f1f20b360fd38bd9f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        }
+      ]
+    },
+    {
+      "id": "additional-named-undead-bbbFze9wvbA48XkH",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.actors.bbbFze9wvbA48XkH.name",
+          "sourceSha256": "080a42cfcef77ba1d87f61510a675f21776664f306b63fcc05d073cffe33a24f",
+          "translationSha256": "080a42cfcef77ba1d87f61510a675f21776664f306b63fcc05d073cffe33a24f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.bbbFze9wvbA48XkH.alignment",
+          "sourceSha256": "1c6ac69f1e5db9c36e9f549d72ef77d23ceab19c557a7eb3a27c7f06f4484b44",
+          "translationSha256": "1c6ac69f1e5db9c36e9f549d72ef77d23ceab19c557a7eb3a27c7f06f4484b44",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.bbbFze9wvbA48XkH.creatureSubtype",
+          "sourceSha256": "1b94ad0c76e3f3a9eed945304231bb0157378d7a074b20662b01de849b2a672f",
+          "translationSha256": "061c866d9be59dab2d5fe054685eb3ed7b26418e4ddb6a18b613dfec1071b827",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.bbbFze9wvbA48XkH.languages",
+          "sourceSha256": "ad17c8976a82ae6c6e9bd9ab68ee7027e6da645b79e84e377bc46d94c7022391",
+          "translationSha256": "433520b8384c7a25525b238901a51600e7c15a83e5982d7c96f4448e1b894e17",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.bbbFze9wvbA48XkH.tokenName",
+          "sourceSha256": "080a42cfcef77ba1d87f61510a675f21776664f306b63fcc05d073cffe33a24f",
+          "translationSha256": "080a42cfcef77ba1d87f61510a675f21776664f306b63fcc05d073cffe33a24f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.bbbFze9wvbA48XkH.items.yHcg8lKwKcmNQrB3.name",
+          "sourceSha256": "ed2fe6ee4108fdd7aa2adc5e1e0b272881becc9d47f1b91289237da2411ddc11",
+          "translationSha256": "0a39b8f3bdfe279a18ef7e5bea3f6239da0932a302f113bb61df2e0b3f3abaad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.bbbFze9wvbA48XkH.items.yHcg8lKwKcmNQrB3.description",
+          "sourceSha256": "c0e1e421e9eba2fd73e681346cb3a642a10d186d9cfa0a4be111a7ea3a89b71e",
+          "translationSha256": "452a99cacd309f70eaefca8a780ba5c0bcb86d98f59055633289899fcd2b86d7",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.bbbFze9wvbA48XkH.items.pVg8u4coAFf7tnmq.name",
+          "sourceSha256": "5d29c96c668dec8bba922ad7fc68a2de7f1482f06c5996f4047a273a48ef76a4",
+          "translationSha256": "203b3b93871d6d672e5607f5f99ee03243ffc1253fdd5192653215b4ebaf5df8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.bbbFze9wvbA48XkH.items.pVg8u4coAFf7tnmq.description",
+          "sourceSha256": "6c9850886800ad3d3f548146d56cc8ca26eae6d3bbeb09f5d0c6fd719a7251a1",
+          "translationSha256": "0ad0d5fd39b1ef6181c131a565d2f77726a1ed7e0cb163252985d0bea6616c40",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.bbbFze9wvbA48XkH.items.pVg8u4coAFf7tnmq.activities.xVZgI3X9zQBrpLaG.name",
+          "sourceSha256": "202ff145c5950cd8164ea7dd7f7080d83f23bce47dfddca17f4d7cf44410016e",
+          "translationSha256": "80909dd4e6f4b422d33b599e7e414f4015261ba633e42bab738545ba4e6a5c10",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.bbbFze9wvbA48XkH.items.pVg8u4coAFf7tnmq.activities.1QyGzsmt3LlePHdI.name",
+          "sourceSha256": "ea181fe26c3178d833fe7f40acd46b020882a2ece1d702bd7340cdafe5073e66",
+          "translationSha256": "61567dc1120a8c5043be0e91963b06fe8df71c5588f8818ed66431bb84ee6bf5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.bbbFze9wvbA48XkH.items.kfbK2Z4oJ5hKxrYq.name",
+          "sourceSha256": "ddd7711caa917823b72196acc1cd8a6b5c516b452c4e039236e64645016e6a76",
+          "translationSha256": "ae3c2088b2964dccb426137bf8c0234c39d6cf383bb13fd9c1f5b3f6c7c0ae6a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.bbbFze9wvbA48XkH.items.kfbK2Z4oJ5hKxrYq.description",
+          "sourceSha256": "d372c5369147737204747735d908274969169d41121c9354d1fb8a22a431a039",
+          "translationSha256": "a339dae9207f5df44924e9b373ff0ae15acc027fa7a48754808f73563b1d2247",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.bbbFze9wvbA48XkH.items.kfbK2Z4oJ5hKxrYq.activities.xCbltxNFSyMfqlYa.name",
+          "sourceSha256": "1597130dcc105fa22b43bdd3e4acfa504d0b5afeceb758031ba1725de4bb38aa",
+          "translationSha256": "85879ec11928f5105745e732326b84524713aef15340ac6cb83f91a8a7b2428d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.bbbFze9wvbA48XkH.items.kfbK2Z4oJ5hKxrYq.effects.Y3TJzRucoljrgWTH.name",
+          "sourceSha256": "6cc4eb473ade8b4668ea771d3986d3799be7eaa1299f09beb9e316685afd18e1",
+          "translationSha256": "a4e496333ce4aad5d3a5965e7f117c047c77056505f9c36bc0b2ceb11b9fbca7",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.bbbFze9wvbA48XkH.items.kfbK2Z4oJ5hKxrYq.effects.Y3TJzRucoljrgWTH.description",
+          "sourceSha256": "3fcd0f73fc31d8ffa339f9801af928032f851d5557a56a47b8d921203dfe594d",
+          "translationSha256": "4392152c2c73a69e5abf76c8dce7b3f7ffc688bf852b130ea1d42cc76f567e58",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.bbbFze9wvbA48XkH.items.kfbK2Z4oJ5hKxrYq.effects.J6VbVhuYXursNXJn.name",
+          "sourceSha256": "6ac39a6938218b25279d6d02792cbbf186fec0e9b44e284a7beade23d12d37c5",
+          "translationSha256": "bbd013390b22c04c777b89b516b8b584d3b71edca06fbe65ed59941a7ad6b4e3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.bbbFze9wvbA48XkH.items.kfbK2Z4oJ5hKxrYq.effects.J6VbVhuYXursNXJn.description",
+          "sourceSha256": "3a2d6693dfa24168313257d70a2603a05fd2e9332a88c7e7345ad8c556b10961",
+          "translationSha256": "451ff2a399b9ddb44c62bb425772c163fd9a86c6751d8bacfbd3f919098a1bbb",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.bbbFze9wvbA48XkH.items.WwdpHLXGX5r8uZu5.name",
+          "sourceSha256": "883177524590266e875bed587fbc42b858774dd83eeee0aafd73ac5e81af2b96",
+          "translationSha256": "7686d8815554823930698adec953ed773274af6bdec8336e6748d6c739d56b3d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.bbbFze9wvbA48XkH.items.WwdpHLXGX5r8uZu5.description",
+          "sourceSha256": "0e101bf2d908f0011fc39c60a0f8b86298f805fe42e8c5a455a41dc0286532a2",
+          "translationSha256": "36fa1035cda3e268fd433ef80ecc97dd1040a5f8ad9ac284299468a3f0aae3ea",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.bbbFze9wvbA48XkH.items.QlVIFfP9GkIkyhSL.name",
+          "sourceSha256": "35de2da495048b4f43abec7981955ec21ffae67cedbac28944e5f00278ab06b2",
+          "translationSha256": "d93a5609674234ea219973361375ec6a9d5ad0e719d059719463bfe58e7231c6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.bbbFze9wvbA48XkH.items.QlVIFfP9GkIkyhSL.description",
+          "sourceSha256": "ffd0640bca901113fe0a209bdac59187aad141608ffd28f11b6b8a3b67cfe61b",
+          "translationSha256": "b53826ccd7023357500382469e54a9a83e5fd4ace11841d3ce1f8195c773e99f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.bbbFze9wvbA48XkH.items.fi0kiqLTBApxHAK0.name",
+          "sourceSha256": "f8a66e812c8c3d3fb50f5b7e7df3e0135a88b95349a9609526a8d94915d81d23",
+          "translationSha256": "920c1cd0f529e6c63597e3bfa27f4eb928ba98cb79b7501d5e99a42dafaff3af",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.bbbFze9wvbA48XkH.items.fi0kiqLTBApxHAK0.description",
+          "sourceSha256": "8143f3c30a6ca5bf10bbf8d0d56b785bbc76ab3cd3f2dea1b0bb2ebb9502ad4a",
+          "translationSha256": "8d8f24aaaacd109d13ba1608fda975a36ff58e6240e27ab6ee535930e34c66fa",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.bbbFze9wvbA48XkH.items.NMk6pzBxf21VjxNV.name",
+          "sourceSha256": "17c1dc9cc7ce2e9d663789cabdcb122ee9da5aac4046125230bf8fef687c4c6d",
+          "translationSha256": "6e67a083411c6683c3441d7080d60b5e3d2953e04b648336f27f05b5c5e66329",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.bbbFze9wvbA48XkH.items.NMk6pzBxf21VjxNV.description",
+          "sourceSha256": "bf8557e3a6881d8cf3214cad3885028ccbbecd1f805ddad59010f79331fa20ef",
+          "translationSha256": "355e2c03d2fdc45a8b9c645fa4a6d98474fa1b8575aa5b8185b97234ad37c373",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.bbbFze9wvbA48XkH.items.I5XSqZme01c6CTS3.name",
+          "sourceSha256": "5d86ac11a1b9f0b6cdaacfa68195bba77cc59ae5cf767713953d3c513fab0f03",
+          "translationSha256": "aa07b8cbd7525a0087b3ef8ec9b6ec00c0d6d04a40d181af5ade55e5710e481e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.bbbFze9wvbA48XkH.items.I5XSqZme01c6CTS3.description",
+          "sourceSha256": "396ea599b8f8ab04bdedc03a436658a654f3c01ad156cb93ca702a6860a89d4b",
+          "translationSha256": "a3ce83de1f6bbfa73d265672cb85110074c2a0d456cba87830fbb6042dbb035a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bbbFze9wvbA48XkH.name",
+          "sourceSha256": "080a42cfcef77ba1d87f61510a675f21776664f306b63fcc05d073cffe33a24f",
+          "translationSha256": "080a42cfcef77ba1d87f61510a675f21776664f306b63fcc05d073cffe33a24f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bbbFze9wvbA48XkH.alignment",
+          "sourceSha256": "1c6ac69f1e5db9c36e9f549d72ef77d23ceab19c557a7eb3a27c7f06f4484b44",
+          "translationSha256": "1c6ac69f1e5db9c36e9f549d72ef77d23ceab19c557a7eb3a27c7f06f4484b44",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bbbFze9wvbA48XkH.creatureSubtype",
+          "sourceSha256": "1b94ad0c76e3f3a9eed945304231bb0157378d7a074b20662b01de849b2a672f",
+          "translationSha256": "061c866d9be59dab2d5fe054685eb3ed7b26418e4ddb6a18b613dfec1071b827",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bbbFze9wvbA48XkH.languages",
+          "sourceSha256": "ad17c8976a82ae6c6e9bd9ab68ee7027e6da645b79e84e377bc46d94c7022391",
+          "translationSha256": "433520b8384c7a25525b238901a51600e7c15a83e5982d7c96f4448e1b894e17",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bbbFze9wvbA48XkH.tokenName",
+          "sourceSha256": "080a42cfcef77ba1d87f61510a675f21776664f306b63fcc05d073cffe33a24f",
+          "translationSha256": "080a42cfcef77ba1d87f61510a675f21776664f306b63fcc05d073cffe33a24f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bbbFze9wvbA48XkH.items.yHcg8lKwKcmNQrB3.name",
+          "sourceSha256": "ed2fe6ee4108fdd7aa2adc5e1e0b272881becc9d47f1b91289237da2411ddc11",
+          "translationSha256": "0a39b8f3bdfe279a18ef7e5bea3f6239da0932a302f113bb61df2e0b3f3abaad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bbbFze9wvbA48XkH.items.yHcg8lKwKcmNQrB3.description",
+          "sourceSha256": "c0e1e421e9eba2fd73e681346cb3a642a10d186d9cfa0a4be111a7ea3a89b71e",
+          "translationSha256": "452a99cacd309f70eaefca8a780ba5c0bcb86d98f59055633289899fcd2b86d7",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bbbFze9wvbA48XkH.items.pVg8u4coAFf7tnmq.name",
+          "sourceSha256": "5d29c96c668dec8bba922ad7fc68a2de7f1482f06c5996f4047a273a48ef76a4",
+          "translationSha256": "203b3b93871d6d672e5607f5f99ee03243ffc1253fdd5192653215b4ebaf5df8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bbbFze9wvbA48XkH.items.pVg8u4coAFf7tnmq.description",
+          "sourceSha256": "6c9850886800ad3d3f548146d56cc8ca26eae6d3bbeb09f5d0c6fd719a7251a1",
+          "translationSha256": "0ad0d5fd39b1ef6181c131a565d2f77726a1ed7e0cb163252985d0bea6616c40",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bbbFze9wvbA48XkH.items.pVg8u4coAFf7tnmq.activities.xVZgI3X9zQBrpLaG.name",
+          "sourceSha256": "202ff145c5950cd8164ea7dd7f7080d83f23bce47dfddca17f4d7cf44410016e",
+          "translationSha256": "80909dd4e6f4b422d33b599e7e414f4015261ba633e42bab738545ba4e6a5c10",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bbbFze9wvbA48XkH.items.pVg8u4coAFf7tnmq.activities.1QyGzsmt3LlePHdI.name",
+          "sourceSha256": "ea181fe26c3178d833fe7f40acd46b020882a2ece1d702bd7340cdafe5073e66",
+          "translationSha256": "61567dc1120a8c5043be0e91963b06fe8df71c5588f8818ed66431bb84ee6bf5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bbbFze9wvbA48XkH.items.kfbK2Z4oJ5hKxrYq.name",
+          "sourceSha256": "ddd7711caa917823b72196acc1cd8a6b5c516b452c4e039236e64645016e6a76",
+          "translationSha256": "ae3c2088b2964dccb426137bf8c0234c39d6cf383bb13fd9c1f5b3f6c7c0ae6a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bbbFze9wvbA48XkH.items.kfbK2Z4oJ5hKxrYq.description",
+          "sourceSha256": "d372c5369147737204747735d908274969169d41121c9354d1fb8a22a431a039",
+          "translationSha256": "a339dae9207f5df44924e9b373ff0ae15acc027fa7a48754808f73563b1d2247",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bbbFze9wvbA48XkH.items.kfbK2Z4oJ5hKxrYq.activities.xCbltxNFSyMfqlYa.name",
+          "sourceSha256": "1597130dcc105fa22b43bdd3e4acfa504d0b5afeceb758031ba1725de4bb38aa",
+          "translationSha256": "85879ec11928f5105745e732326b84524713aef15340ac6cb83f91a8a7b2428d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bbbFze9wvbA48XkH.items.kfbK2Z4oJ5hKxrYq.effects.Y3TJzRucoljrgWTH.name",
+          "sourceSha256": "6cc4eb473ade8b4668ea771d3986d3799be7eaa1299f09beb9e316685afd18e1",
+          "translationSha256": "a4e496333ce4aad5d3a5965e7f117c047c77056505f9c36bc0b2ceb11b9fbca7",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bbbFze9wvbA48XkH.items.kfbK2Z4oJ5hKxrYq.effects.Y3TJzRucoljrgWTH.description",
+          "sourceSha256": "3fcd0f73fc31d8ffa339f9801af928032f851d5557a56a47b8d921203dfe594d",
+          "translationSha256": "4392152c2c73a69e5abf76c8dce7b3f7ffc688bf852b130ea1d42cc76f567e58",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bbbFze9wvbA48XkH.items.kfbK2Z4oJ5hKxrYq.effects.J6VbVhuYXursNXJn.name",
+          "sourceSha256": "6ac39a6938218b25279d6d02792cbbf186fec0e9b44e284a7beade23d12d37c5",
+          "translationSha256": "bbd013390b22c04c777b89b516b8b584d3b71edca06fbe65ed59941a7ad6b4e3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bbbFze9wvbA48XkH.items.kfbK2Z4oJ5hKxrYq.effects.J6VbVhuYXursNXJn.description",
+          "sourceSha256": "3a2d6693dfa24168313257d70a2603a05fd2e9332a88c7e7345ad8c556b10961",
+          "translationSha256": "451ff2a399b9ddb44c62bb425772c163fd9a86c6751d8bacfbd3f919098a1bbb",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bbbFze9wvbA48XkH.items.WwdpHLXGX5r8uZu5.name",
+          "sourceSha256": "883177524590266e875bed587fbc42b858774dd83eeee0aafd73ac5e81af2b96",
+          "translationSha256": "7686d8815554823930698adec953ed773274af6bdec8336e6748d6c739d56b3d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bbbFze9wvbA48XkH.items.WwdpHLXGX5r8uZu5.description",
+          "sourceSha256": "0e101bf2d908f0011fc39c60a0f8b86298f805fe42e8c5a455a41dc0286532a2",
+          "translationSha256": "36fa1035cda3e268fd433ef80ecc97dd1040a5f8ad9ac284299468a3f0aae3ea",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bbbFze9wvbA48XkH.items.QlVIFfP9GkIkyhSL.name",
+          "sourceSha256": "35de2da495048b4f43abec7981955ec21ffae67cedbac28944e5f00278ab06b2",
+          "translationSha256": "d93a5609674234ea219973361375ec6a9d5ad0e719d059719463bfe58e7231c6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bbbFze9wvbA48XkH.items.QlVIFfP9GkIkyhSL.description",
+          "sourceSha256": "ffd0640bca901113fe0a209bdac59187aad141608ffd28f11b6b8a3b67cfe61b",
+          "translationSha256": "b53826ccd7023357500382469e54a9a83e5fd4ace11841d3ce1f8195c773e99f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bbbFze9wvbA48XkH.items.fi0kiqLTBApxHAK0.name",
+          "sourceSha256": "f8a66e812c8c3d3fb50f5b7e7df3e0135a88b95349a9609526a8d94915d81d23",
+          "translationSha256": "920c1cd0f529e6c63597e3bfa27f4eb928ba98cb79b7501d5e99a42dafaff3af",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bbbFze9wvbA48XkH.items.fi0kiqLTBApxHAK0.description",
+          "sourceSha256": "8143f3c30a6ca5bf10bbf8d0d56b785bbc76ab3cd3f2dea1b0bb2ebb9502ad4a",
+          "translationSha256": "8d8f24aaaacd109d13ba1608fda975a36ff58e6240e27ab6ee535930e34c66fa",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bbbFze9wvbA48XkH.items.NMk6pzBxf21VjxNV.name",
+          "sourceSha256": "17c1dc9cc7ce2e9d663789cabdcb122ee9da5aac4046125230bf8fef687c4c6d",
+          "translationSha256": "6e67a083411c6683c3441d7080d60b5e3d2953e04b648336f27f05b5c5e66329",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bbbFze9wvbA48XkH.items.NMk6pzBxf21VjxNV.description",
+          "sourceSha256": "bf8557e3a6881d8cf3214cad3885028ccbbecd1f805ddad59010f79331fa20ef",
+          "translationSha256": "355e2c03d2fdc45a8b9c645fa4a6d98474fa1b8575aa5b8185b97234ad37c373",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bbbFze9wvbA48XkH.items.I5XSqZme01c6CTS3.name",
+          "sourceSha256": "5d86ac11a1b9f0b6cdaacfa68195bba77cc59ae5cf767713953d3c513fab0f03",
+          "translationSha256": "aa07b8cbd7525a0087b3ef8ec9b6ec00c0d6d04a40d181af5ade55e5710e481e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bbbFze9wvbA48XkH.items.I5XSqZme01c6CTS3.description",
+          "sourceSha256": "396ea599b8f8ab04bdedc03a436658a654f3c01ad156cb93ca702a6860a89d4b",
+          "translationSha256": "a3ce83de1f6bbfa73d265672cb85110074c2a0d456cba87830fbb6042dbb035a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        }
+      ]
+    },
+    {
+      "id": "additional-named-undead-toaNepartak00000",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.actors.toaNepartak00000.name",
+          "sourceSha256": "9be44e06297420065c47b804a240035f8b316be80ef52f7450982959fdb64bb6",
+          "translationSha256": "9be44e06297420065c47b804a240035f8b316be80ef52f7450982959fdb64bb6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaNepartak00000.alignment",
+          "sourceSha256": "59e74f11c96a77d972cd8ee0520cd97da4055b5a2e859b1c4dd2cfb7ea32f7b3",
+          "translationSha256": "ce158da3dc2aa560ccc970a693b2ad2f8b5b8e6b16edddf5209d728954da7ba8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaNepartak00000.creatureSubtype",
+          "sourceSha256": "e820f4a95d9080c9ddb502a9ce77cd2e1b2b84d35f47468e29ff74a83abc50a7",
+          "translationSha256": "7872c564a56242dbf09de1ce24fd229d345fb9162e9e0c081ec1277a44456412",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaNepartak00000.tokenName",
+          "sourceSha256": "9be44e06297420065c47b804a240035f8b316be80ef52f7450982959fdb64bb6",
+          "translationSha256": "9be44e06297420065c47b804a240035f8b316be80ef52f7450982959fdb64bb6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaNepartak00000.items.ae1bHPkaU4kMbGG1.name",
+          "sourceSha256": "0ce3a662d11283354858fe3750d3f72949f5863f4dbed31d00005eece8e14a02",
+          "translationSha256": "e1589d94051584af717abd37f905541c9ec9a6a380dffd0e89ba52771faddcb3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaNepartak00000.items.ae1bHPkaU4kMbGG1.description",
+          "sourceSha256": "29572e38b7bb51393871d6bcbb38602e1489358f2e35a9f58e782581810bf424",
+          "translationSha256": "1ee72031ad4ffd314548cace56bc406a8d6e37bedb5b82fd14d19124676c0c25",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaNepartak00000.items.i8L43E9D4ilYX7Ap.name",
+          "sourceSha256": "ed2fe6ee4108fdd7aa2adc5e1e0b272881becc9d47f1b91289237da2411ddc11",
+          "translationSha256": "0a39b8f3bdfe279a18ef7e5bea3f6239da0932a302f113bb61df2e0b3f3abaad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaNepartak00000.items.i8L43E9D4ilYX7Ap.description",
+          "sourceSha256": "34fc01e17674f12baac89838257564002ffd399bffcea4e95ecf170734e54fd9",
+          "translationSha256": "eb04ae5f5c5bb21a48e85366d319fb843ea52289935309ef5cf6086ddf7add19",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaNepartak00000.items.zWHINUAWotnjd4SS.name",
+          "sourceSha256": "7bd89aac862b8c75b75c5b17a099fd8dc67010805d9ce4d97d890ff4db993856",
+          "translationSha256": "4fa63e2bae6608690182ef7fe127923f27edd7700002bcf343f5940397d3eb54",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaNepartak00000.items.zWHINUAWotnjd4SS.description",
+          "sourceSha256": "b53498c08fce86388e4e8de4ed2056740e1831834dfe8088238e71036a2a839a",
+          "translationSha256": "4c1709661889469002a08ea406952675c8ddd2e8191e03cdfc3374f67244abd0",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaNepartak00000.items.Y0SgNQ9GNAxeQBIK.name",
+          "sourceSha256": "c15db37ae346b4efc3e521fffc127aeecb382360d32871d96fd772bdfe5bb482",
+          "translationSha256": "d3575997869fa07b87e24abd304ddf5f3ddcd44397203f53fe393ba99ae5a92f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaNepartak00000.items.Y0SgNQ9GNAxeQBIK.description",
+          "sourceSha256": "7d159ef08ae877ac8e398037b20049999bef2d07fa3e85202d9f7559d4af1a5d",
+          "translationSha256": "6607a0df0bdfec5829f5218e5ce5097eb401af9ca05b6e4fc24319d4ef64beca",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaNepartak00000.items.mZrb3IGmqvEQERbu.name",
+          "sourceSha256": "f8a66e812c8c3d3fb50f5b7e7df3e0135a88b95349a9609526a8d94915d81d23",
+          "translationSha256": "920c1cd0f529e6c63597e3bfa27f4eb928ba98cb79b7501d5e99a42dafaff3af",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaNepartak00000.items.mZrb3IGmqvEQERbu.description",
+          "sourceSha256": "7423728031798aa1ea7ed1f349e6f9976a1945cb61bdd1077ea7e6b66170dee1",
+          "translationSha256": "f56fb5554fa77305c1f032996f5ee1b49b1a291ad3a39fd8e46854e94027890d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaNepartak00000.items.rUZVOuph0wAxKIWK.name",
+          "sourceSha256": "cb0d3238583c0fb02745016ee38365aeb218deb64731eceea42c18d24290ed95",
+          "translationSha256": "168cc32ccdb2f6c4736a39c2a1d3052e411648602362ae09c5590a76482a7774",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaNepartak00000.items.rUZVOuph0wAxKIWK.description",
+          "sourceSha256": "e9f106d2cca002174fa5486d25387cd0ea5a36bf17a4cf0e3cf7bf1dd27502c2",
+          "translationSha256": "f1ae9e0167f4ea7feb171ec33e0938a0118f32fb7c0e4cc8ef03ad39a66c2474",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaNepartak00000.items.wTO9iWsbOnnAMPy0.name",
+          "sourceSha256": "111a74afc067f116ddf6a2e8339eada16814eceb7cfcded7a8e6e44c9fd87e6c",
+          "translationSha256": "a3d1085228fb09a325e256fb7323cedfdfbd20b9fde9a30562012459a417780e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaNepartak00000.items.wTO9iWsbOnnAMPy0.description",
+          "sourceSha256": "cc22d4529b8b41ff3c1aaab8486adbb984691a7bcbfd9ee23ae78c10233cef21",
+          "translationSha256": "a17d489fb2b72fa9be4f5b7ecf7249f97efb0c1c5f3d7a914300f6db080777f0",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaNepartak00000.items.Jm3y7Ehgz9yXoHjx.name",
+          "sourceSha256": "480d4be7d61fe52bc31768ffaaffea7ad5db66ba8b699d30623c4726704cc646",
+          "translationSha256": "fcb66c4d741ae4bb8149a195e0df7c3f3f84c30d30d1d4b30514e0cb97f28e45",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaNepartak00000.items.Jm3y7Ehgz9yXoHjx.description",
+          "sourceSha256": "20efd236bb84f6324e70008ffd154aec476c49324bd117c155d6d0b30f3ace3e",
+          "translationSha256": "347c5d719f09f9c2e9128195088e1eeb92683008f115de24e8635e81aa3b9c70",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaNepartak00000.items.Jm3y7Ehgz9yXoHjx.effects.6pbotGIvqQkraPva.name",
+          "sourceSha256": "480d4be7d61fe52bc31768ffaaffea7ad5db66ba8b699d30623c4726704cc646",
+          "translationSha256": "fcb66c4d741ae4bb8149a195e0df7c3f3f84c30d30d1d4b30514e0cb97f28e45",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaNepartak00000.items.Jm3y7Ehgz9yXoHjx.effects.6pbotGIvqQkraPva.description",
+          "sourceSha256": "c33f2f87864a2d462bf8bfb4725cbc405c8d4f7db049446a38022999bc3c6a68",
+          "translationSha256": "15b93999cac01813786dccc1db2297065197ff56e4d21bb6cbc399588ba0a79e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaNepartak00000.items.x2E99KssvRcWDMg5.name",
+          "sourceSha256": "cd83e6731d2b17369af0704c1f52ff42262363a5521f650c36383b48bd35833b",
+          "translationSha256": "3c7a0a2b3850d0a5908804f4f7a429044dd0b7e0fa073f56ab827aba614e8894",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaNepartak00000.items.x2E99KssvRcWDMg5.description",
+          "sourceSha256": "57a5c1004c9223fac63f4ea39a1559280bc1be01852455fb6587b6351dfd637e",
+          "translationSha256": "776c3eaaf56b7b0c7ead988a53e24c77793132b8ea0f24ea0b9fd6c11dfb6592",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaNepartak00000.items.DCFEz2xQb7Q13tOh.name",
+          "sourceSha256": "239da9b9ed6cd960c7268bea485ad571f9bbf7e8df70cd0da9bd99e3d7bea146",
+          "translationSha256": "8d7c3ea30b9de0ec4a2781e1a8d4e49c8174bb3c2078c64eab2823a5a7070cd0",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaNepartak00000.items.DCFEz2xQb7Q13tOh.description",
+          "sourceSha256": "0ae0c53b9a6a8c4c5aafd2c5b0ccb75221680373fce85bf356cc9667f961db09",
+          "translationSha256": "4681ff30df62ff8c5eafddfb40f8e0ae2682386479b7971f9f699eaaf5cafc03",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaNepartak00000.items.7DgG3XbvKk39xwgm.name",
+          "sourceSha256": "cc173df6702cba90cfae123f149085dc44e3f6c660816c528f063c75083e5a9e",
+          "translationSha256": "0f176de02085eb3dc5a86fee0df59bef37743fab432820a1a36160fea169c8ff",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaNepartak00000.items.7DgG3XbvKk39xwgm.description",
+          "sourceSha256": "60853c313193b1821572ff9ddf08e9ef060fe7313fd17053cccc4c16e1205262",
+          "translationSha256": "dc60c214a2e96bd7746206fda6acec485798026507db3a34c7e10b5f9c8364dd",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaNepartak00000.items.3o58Ue3hTx2IXhPA.name",
+          "sourceSha256": "3234bbc53bf7a58c809d2b733682d21ef42ff8b572600a720ae768d80c603d4f",
+          "translationSha256": "c414da7eba59bdebf21e134d6f49e7035ebcbf4a777ade6981834ef863204b0e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaNepartak00000.items.3o58Ue3hTx2IXhPA.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaNepartak00000.name",
+          "sourceSha256": "9be44e06297420065c47b804a240035f8b316be80ef52f7450982959fdb64bb6",
+          "translationSha256": "9be44e06297420065c47b804a240035f8b316be80ef52f7450982959fdb64bb6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaNepartak00000.alignment",
+          "sourceSha256": "59e74f11c96a77d972cd8ee0520cd97da4055b5a2e859b1c4dd2cfb7ea32f7b3",
+          "translationSha256": "ce158da3dc2aa560ccc970a693b2ad2f8b5b8e6b16edddf5209d728954da7ba8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaNepartak00000.creatureSubtype",
+          "sourceSha256": "e820f4a95d9080c9ddb502a9ce77cd2e1b2b84d35f47468e29ff74a83abc50a7",
+          "translationSha256": "7872c564a56242dbf09de1ce24fd229d345fb9162e9e0c081ec1277a44456412",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaNepartak00000.tokenName",
+          "sourceSha256": "9be44e06297420065c47b804a240035f8b316be80ef52f7450982959fdb64bb6",
+          "translationSha256": "9be44e06297420065c47b804a240035f8b316be80ef52f7450982959fdb64bb6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaNepartak00000.items.ae1bHPkaU4kMbGG1.name",
+          "sourceSha256": "0ce3a662d11283354858fe3750d3f72949f5863f4dbed31d00005eece8e14a02",
+          "translationSha256": "e1589d94051584af717abd37f905541c9ec9a6a380dffd0e89ba52771faddcb3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaNepartak00000.items.ae1bHPkaU4kMbGG1.description",
+          "sourceSha256": "29572e38b7bb51393871d6bcbb38602e1489358f2e35a9f58e782581810bf424",
+          "translationSha256": "1ee72031ad4ffd314548cace56bc406a8d6e37bedb5b82fd14d19124676c0c25",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaNepartak00000.items.i8L43E9D4ilYX7Ap.name",
+          "sourceSha256": "ed2fe6ee4108fdd7aa2adc5e1e0b272881becc9d47f1b91289237da2411ddc11",
+          "translationSha256": "0a39b8f3bdfe279a18ef7e5bea3f6239da0932a302f113bb61df2e0b3f3abaad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaNepartak00000.items.i8L43E9D4ilYX7Ap.description",
+          "sourceSha256": "34fc01e17674f12baac89838257564002ffd399bffcea4e95ecf170734e54fd9",
+          "translationSha256": "eb04ae5f5c5bb21a48e85366d319fb843ea52289935309ef5cf6086ddf7add19",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaNepartak00000.items.zWHINUAWotnjd4SS.name",
+          "sourceSha256": "7bd89aac862b8c75b75c5b17a099fd8dc67010805d9ce4d97d890ff4db993856",
+          "translationSha256": "4fa63e2bae6608690182ef7fe127923f27edd7700002bcf343f5940397d3eb54",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaNepartak00000.items.zWHINUAWotnjd4SS.description",
+          "sourceSha256": "b53498c08fce86388e4e8de4ed2056740e1831834dfe8088238e71036a2a839a",
+          "translationSha256": "4c1709661889469002a08ea406952675c8ddd2e8191e03cdfc3374f67244abd0",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaNepartak00000.items.Y0SgNQ9GNAxeQBIK.name",
+          "sourceSha256": "c15db37ae346b4efc3e521fffc127aeecb382360d32871d96fd772bdfe5bb482",
+          "translationSha256": "d3575997869fa07b87e24abd304ddf5f3ddcd44397203f53fe393ba99ae5a92f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaNepartak00000.items.Y0SgNQ9GNAxeQBIK.description",
+          "sourceSha256": "7d159ef08ae877ac8e398037b20049999bef2d07fa3e85202d9f7559d4af1a5d",
+          "translationSha256": "6607a0df0bdfec5829f5218e5ce5097eb401af9ca05b6e4fc24319d4ef64beca",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaNepartak00000.items.mZrb3IGmqvEQERbu.name",
+          "sourceSha256": "f8a66e812c8c3d3fb50f5b7e7df3e0135a88b95349a9609526a8d94915d81d23",
+          "translationSha256": "920c1cd0f529e6c63597e3bfa27f4eb928ba98cb79b7501d5e99a42dafaff3af",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaNepartak00000.items.mZrb3IGmqvEQERbu.description",
+          "sourceSha256": "7423728031798aa1ea7ed1f349e6f9976a1945cb61bdd1077ea7e6b66170dee1",
+          "translationSha256": "f56fb5554fa77305c1f032996f5ee1b49b1a291ad3a39fd8e46854e94027890d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaNepartak00000.items.rUZVOuph0wAxKIWK.name",
+          "sourceSha256": "cb0d3238583c0fb02745016ee38365aeb218deb64731eceea42c18d24290ed95",
+          "translationSha256": "168cc32ccdb2f6c4736a39c2a1d3052e411648602362ae09c5590a76482a7774",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaNepartak00000.items.rUZVOuph0wAxKIWK.description",
+          "sourceSha256": "e9f106d2cca002174fa5486d25387cd0ea5a36bf17a4cf0e3cf7bf1dd27502c2",
+          "translationSha256": "f1ae9e0167f4ea7feb171ec33e0938a0118f32fb7c0e4cc8ef03ad39a66c2474",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaNepartak00000.items.wTO9iWsbOnnAMPy0.name",
+          "sourceSha256": "111a74afc067f116ddf6a2e8339eada16814eceb7cfcded7a8e6e44c9fd87e6c",
+          "translationSha256": "a3d1085228fb09a325e256fb7323cedfdfbd20b9fde9a30562012459a417780e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaNepartak00000.items.wTO9iWsbOnnAMPy0.description",
+          "sourceSha256": "cc22d4529b8b41ff3c1aaab8486adbb984691a7bcbfd9ee23ae78c10233cef21",
+          "translationSha256": "a17d489fb2b72fa9be4f5b7ecf7249f97efb0c1c5f3d7a914300f6db080777f0",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaNepartak00000.items.Jm3y7Ehgz9yXoHjx.name",
+          "sourceSha256": "480d4be7d61fe52bc31768ffaaffea7ad5db66ba8b699d30623c4726704cc646",
+          "translationSha256": "fcb66c4d741ae4bb8149a195e0df7c3f3f84c30d30d1d4b30514e0cb97f28e45",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaNepartak00000.items.Jm3y7Ehgz9yXoHjx.description",
+          "sourceSha256": "20efd236bb84f6324e70008ffd154aec476c49324bd117c155d6d0b30f3ace3e",
+          "translationSha256": "347c5d719f09f9c2e9128195088e1eeb92683008f115de24e8635e81aa3b9c70",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaNepartak00000.items.Jm3y7Ehgz9yXoHjx.effects.6pbotGIvqQkraPva.name",
+          "sourceSha256": "480d4be7d61fe52bc31768ffaaffea7ad5db66ba8b699d30623c4726704cc646",
+          "translationSha256": "fcb66c4d741ae4bb8149a195e0df7c3f3f84c30d30d1d4b30514e0cb97f28e45",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaNepartak00000.items.Jm3y7Ehgz9yXoHjx.effects.6pbotGIvqQkraPva.description",
+          "sourceSha256": "c33f2f87864a2d462bf8bfb4725cbc405c8d4f7db049446a38022999bc3c6a68",
+          "translationSha256": "15b93999cac01813786dccc1db2297065197ff56e4d21bb6cbc399588ba0a79e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaNepartak00000.items.x2E99KssvRcWDMg5.name",
+          "sourceSha256": "cd83e6731d2b17369af0704c1f52ff42262363a5521f650c36383b48bd35833b",
+          "translationSha256": "3c7a0a2b3850d0a5908804f4f7a429044dd0b7e0fa073f56ab827aba614e8894",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaNepartak00000.items.x2E99KssvRcWDMg5.description",
+          "sourceSha256": "57a5c1004c9223fac63f4ea39a1559280bc1be01852455fb6587b6351dfd637e",
+          "translationSha256": "776c3eaaf56b7b0c7ead988a53e24c77793132b8ea0f24ea0b9fd6c11dfb6592",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaNepartak00000.items.DCFEz2xQb7Q13tOh.name",
+          "sourceSha256": "239da9b9ed6cd960c7268bea485ad571f9bbf7e8df70cd0da9bd99e3d7bea146",
+          "translationSha256": "8d7c3ea30b9de0ec4a2781e1a8d4e49c8174bb3c2078c64eab2823a5a7070cd0",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaNepartak00000.items.DCFEz2xQb7Q13tOh.description",
+          "sourceSha256": "0ae0c53b9a6a8c4c5aafd2c5b0ccb75221680373fce85bf356cc9667f961db09",
+          "translationSha256": "4681ff30df62ff8c5eafddfb40f8e0ae2682386479b7971f9f699eaaf5cafc03",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaNepartak00000.items.7DgG3XbvKk39xwgm.name",
+          "sourceSha256": "cc173df6702cba90cfae123f149085dc44e3f6c660816c528f063c75083e5a9e",
+          "translationSha256": "0f176de02085eb3dc5a86fee0df59bef37743fab432820a1a36160fea169c8ff",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaNepartak00000.items.7DgG3XbvKk39xwgm.description",
+          "sourceSha256": "60853c313193b1821572ff9ddf08e9ef060fe7313fd17053cccc4c16e1205262",
+          "translationSha256": "dc60c214a2e96bd7746206fda6acec485798026507db3a34c7e10b5f9c8364dd",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaNepartak00000.items.3o58Ue3hTx2IXhPA.name",
+          "sourceSha256": "3234bbc53bf7a58c809d2b733682d21ef42ff8b572600a720ae768d80c603d4f",
+          "translationSha256": "c414da7eba59bdebf21e134d6f49e7035ebcbf4a777ade6981834ef863204b0e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaNepartak00000.items.3o58Ue3hTx2IXhPA.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Named undead profile reviewed against English export, including spell texts and distinct rejuvenation conditions. Dynamic name tokens preserved."
+        }
+      ]
     }
   ]
 }

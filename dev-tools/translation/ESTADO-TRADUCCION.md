@@ -2712,6 +2712,15 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - El chat de Implacable del hombre jabalí omite el umbral de 14 de daño del
   original; la descripción completa lo conserva. Pendiente de armonización.
 
+### additional-named-undead — Ukurlahmu, Ch’gakare y Nepartak
+
+- Revisados los tres perfiles y sus conjuros en ambas copias: 174 registros
+  contrastados con el exportado inglés. Comprobadas las condiciones distintas
+  de rejuvenecimiento, la sucesión de parálisis y miedo de Ch’gakare y los
+  componentes que necesitan los dos lanzadores de conjuros.
+- Conservados los nombres dinámicos de Nepartak y los enlaces por nombre
+  `Fire Ray` y `Fist` para la revisión funcional general.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2721,8 +2730,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
   de Foundry, tres de créditos y cuatro de historial.
   No equivale a 931 páginas del PDF.
-- 15653 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 15653 campos distintos.
+- 15827 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 15827 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento cuarenta y una biografías en ambas copias de actores: siete
   príncipes, ciento veintisiete criaturas o PNJ vinculados al apéndice D y siete perfiles
