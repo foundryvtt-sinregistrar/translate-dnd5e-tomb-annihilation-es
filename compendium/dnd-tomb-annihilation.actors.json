@@ -3611,16 +3611,16 @@
           "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>"
         },
         "icmuULOSYuzMZKeh": {
-          "name": "¡Fuego! ¡Fuego!",
-          "description": "<p>El strider gigante lanza una gota de llama en un punto que puede ver a menos de 60 pies de ella. Cada criatura en una esfera de 10 pies de radio centrada en ese punto debe hacer un [[/save format=long]], tomando [[/damage average]] daño en un error de guardar, o la mitad de daño en un éxito. El fuego se extiende alrededor de las esquinas, y enciende objetos inflamables en esa zona que no están siendo usados o transportados.</p>"
+          "name": "Estallido de fuego",
+          "description": "<p>El caminante gigantesco lanza una llamarada hacia un punto que pueda ver a 60 pies o menos. Cada criatura en una esfera de 10 pies de radio centrada en ese punto debe realizar una [[/save format=long]]; sufre [[/damage average]] de daño si falla, o la mitad si tiene éxito. El fuego se extiende por las esquinas y prende los objetos inflamables del área que nadie lleve puestos ni transporte.</p>"
         },
         "NOt6E341ISseyHyK": {
-          "name": "Absorción de fuego",
-          "description": "<p>Cada vez que el strider gigante es sometido a daños por incendio, no requiere daños y recupera un número de puntos de impacto igual a la mitad de los daños por incendio.</p>"
+          "name": "Absorción de Fuego",
+          "description": "<p>Cuando el caminante gigantesco vaya a sufrir daño de fuego, no sufre ese daño y recupera tantos puntos de golpe como la mitad del daño de fuego que habría recibido.</p>"
         }
       },
-      "name": "Strider gigante",
-      "tokenName": "Strider gigante"
+      "name": "Caminante gigantesco",
+      "tokenName": "Caminante gigantesco"
     },
     "VHYf9ODnJgYYvZnX": {
       "alignment": "Legal malvado",
@@ -3796,48 +3796,48 @@
       "tokenName": "Chwinga",
       "items": {
         "NubKekiJHLwwRzw8": {
-          "name": "Lanzamiento de conjuros",
-          "description": "<p>El chwinga lanza uno de los siguientes conjuros, sin necesidad de materiales o componentes verbales:</p><p>A discreción: <em>[[/item .xhZvYIGivN6BSTrD]]{druidcraft}, [[/item .10qa0JgTLx1LxG6g]]{orientación}, [[/item .RgNS3EXZM2u2fmjg]]{pasar sin dejar rastro}, [[/item .Oxh3TG4gRyB3lEDR]]{Resistencia}</em></p>"
+          "name": "Lanzamiento de Conjuros",
+          "description": "<p>El chwinga lanza uno de los siguientes conjuros sin componentes materiales ni verbales:</p><p>A voluntad: <em>[[/item .xhZvYIGivN6BSTrD]]{saber druídico}, [[/item .10qa0JgTLx1LxG6g]]{guía}, [[/item .RgNS3EXZM2u2fmjg]]{pasar sin rastro}, [[/item .Oxh3TG4gRyB3lEDR]]{resistencia}</em></p>"
         },
         "N3h3rPTrAI1ni2Ch": {
-          "name": "Regalo mágico",
-          "description": "<p>El chwinga apunta a un humanoide que puede ver a menos de 5 pies de distancia. El objetivo gana un encanto sobrenatural de la elección del DM. Ver el <em>Guía del Dungeon Master</em> para más información sobre los encantos sobrenaturales.</p>",
+          "name": "Don mágico",
+          "description": "<p>El chwinga elige como objetivo a un humanoide que pueda ver a 5 pies o menos. El objetivo obtiene un sortilegio sobrenatural a elección del DM. Consulta la <em>Guía del Dungeon Master</em> para obtener más información sobre los sortilegios sobrenaturales.</p>",
           "activities": {
             "xtT9V9jxZZfummTa": {
-              "name": "Gasto"
+              "name": "Gastar un uso"
             }
           }
         },
         "5YTLBHNrOkuetYqh": {
-          "name": "Vivienda natural",
-          "description": "<p>La chwinga se refugia mágicamente dentro de una roca, una planta viva o una fuente natural de agua dulce en su espacio. El chwinga no puede ser blanco de ningún ataque, conjuro u otro efecto mientras esté dentro de este refugio, y el refugio no afecta la vista ciega del chwinga. El chwinga puede usar su acción para emerger de su refugio. Si su refugio es destruido, el chwinga es forzado a salir y aparece en el espacio anterior del refugio, pero por lo demás no resulta herido.</p>"
+          "name": "Refugio natural",
+          "description": "<p>El chwinga se refugia mágicamente dentro de una roca, una planta viva o una fuente natural de agua dulce situada en su espacio. Mientras permanece en el refugio, no puede ser objetivo de ataques, conjuros ni otros efectos, y su visión ciega no se ve afectada. Puede usar su acción para salir. Si el refugio es destruido, el chwinga es expulsado y aparece en el espacio que ocupaba el refugio, sin sufrir ningún otro daño.</p>"
         },
         "SN8LciXhOOoKvd3i": {
           "name": "Evasión",
-          "description": "<p>Cuando el chwinga es sometido a un efecto que le permite hacer un lanzamiento de ahorro de Dexterity para tomar sólo la mitad del daño, en su lugar no toma ningún daño si tiene éxito en el lanzamiento de ahorro, y sólo medio daño si falla.</p>"
+          "description": "<p>Cuando el chwinga se ve sometido a un efecto que le permite realizar una tirada de salvación de Destreza para recibir solo la mitad del daño, no recibe daño si tiene éxito y solo la mitad si falla.</p>"
         },
         "ZpMzitvKjSGXEdIl": {
-          "name": "Naturaleza inusual",
-          "description": "<p>El chwinga no requiere aire, comida o bebida. Cuando muere, se convierte en un puñado de pétalos de flores, una nube de polen, una estatuilla de piedra que se asemeja a su anterior yo, una pequeña esfera de piedra lisa, o un charco de agua dulce (su elección).</p>"
+          "name": "Naturaleza Inusual",
+          "description": "<p>El chwinga no necesita respirar, comer ni beber. Cuando muere, se transforma en un puñado de pétalos, una nube de polen, una estatuilla de piedra con su antigua apariencia, una diminuta esfera de piedra lisa o un charco de agua dulce, a tu elección.</p>"
         },
         "xhZvYIGivN6BSTrD": {
           "name": "Saber druídico",
-          "description": "<p>Susurrando a los espíritus de la Naturaleza, usted crea uno de los siguientes Efectos dentro del rango:</p>\n<ul>\n<li>Creas un pequeño e inofensivo efecto sensorial que predice cuál será el tiempo en tu ubicación durante las próximas 24 horas. El efecto podría manifestarse como un orbe dorado para cielos claros, una nube para lluvia, copos de nieve caídos para nieve, y así sucesivamente. Este efecto persiste durante 1 vuelta.</li>\n<li>Al instante haces florecer una flor, una vaina de semilla abierta, o un brote de hoja.</li>\n<li>Creas un efecto sensorial instantáneo e inofensivo, como hojas caídas, un soplo de viento, el sonido de un animal pequeño, o el débil olor de zorrillo. El efecto debe caber en un cubo de 5 pies.</li>\n<li>Al instante enciendes o apagas una Vela, una antorcha o una pequeña fogata.</li>\n</ul>"
+          "description": "<p>Susurras a los espíritus de la naturaleza y produces uno de los siguientes efectos dentro del alcance:</p>\n<ul>\n<li>Creas un efecto sensorial diminuto e inofensivo que predice el tiempo que hará donde te encuentras durante las próximas 24 horas. Puede manifestarse como un orbe dorado si el cielo estará despejado, una nube si lloverá, copos si nevará, etc. Este efecto dura 1 asalto.</li>\n<li>Haces que una flor o una vaina de semillas se abra, o que una yema de hoja brote instantáneamente.</li>\n<li>Creas un efecto sensorial instantáneo e inofensivo, como hojas que caen, una ráfaga de viento, el sonido de un animal pequeño o un leve olor a mofeta. El efecto debe caber en un cubo de 5 pies de lado.</li>\n<li>Enciendes o apagas instantáneamente una vela, una antorcha o una pequeña hoguera.</li>\n</ul>"
         },
         "10qa0JgTLx1LxG6g": {
           "name": "Guía",
-          "description": "<p>Tocas a una criatura dispuesta. Una vez antes de que el conjuro termine, el objetivo puede rodar un d4 y añadir el número rodado a una comprobación de capacidad de su elección. Puede rodar el dado antes o después de hacer la comprobación de la capacidad. El conjuro entonces termina.</p>"
+          "description": "<p>Tocas a una criatura voluntaria. Una vez antes de que termine el conjuro, el objetivo puede tirar un d4 y sumar el resultado a una prueba de característica de su elección. Puede tirar el dado antes o después de realizar la prueba. Después, el conjuro termina.</p>"
         },
         "Oxh3TG4gRyB3lEDR": {
           "name": "Resistencia",
-          "description": "<p>Tocas a una criatura dispuesta. Una vez antes de que el conjuro termine, el objetivo puede rodar un d4 y añadir el número rodado a un lanzamiento de ahorro de su elección. Puede rodar el dado antes o después de hacer el lanzamiento de ahorro. El conjuro entonces termina.</p>"
+          "description": "<p>Tocas a una criatura voluntaria. Una vez antes de que termine el conjuro, el objetivo puede tirar un d4 y sumar el resultado a una tirada de salvación de su elección. Puede tirar el dado antes o después de realizar la salvación. Después, el conjuro termina.</p>"
         },
         "RgNS3EXZM2u2fmjg": {
-          "name": "Pase sin rastro",
-          "description": "<p>Un velo de sombras y Silencio irradian de ti, encubriéndote a ti y a tus compañeros desde la detección. Para la Duración, cada criatura que elijas a menos de 30 pies de ti (incluyendo a ti) tiene un bono de +10 a Dexterity (Stealth) cheques y no se puede rastrear excepto por medios mágicos. Una criatura que recibe este bono no deja rastros ni rastros de su paso.</p>"
+          "name": "Pasar sin rastro",
+          "description": "<p>Un velo de sombras y silencio emana de ti, ocultándoos a ti y a tus compañeros. Durante el conjuro, cada criatura que elijas a 30 pies o menos de ti, tú incluido, tiene un bonificador de +10 a las pruebas de Destreza (Sigilo) y solo puede ser rastreada por medios mágicos. Una criatura que recibe este bonificador no deja huellas ni otros rastros de su paso.</p>"
         }
       },
-      "biography": "<p>Un chwinga (pronunciado cheh-WING-ah) es un pequeño espíritu elemental que vive en plantas, rocas y ríos lejos de la civilización. Dolorosamente tímidos, los chwingas prefieren moverse sin ser vistos.</p><p>Si dos o más chwingas viven en la misma zona, cada uno se refugiará en una planta, roca o cuerpo de agua dulce diferente. Aunque no hay dos chwingas exactamente iguales, se asemejan a muñecas animadas de 6 pulgadas con máscaras extrañas, extremidades escurridas y pelo salvaje. Su apariencia a veces está prefigurada por brisas frescas, el dulce olor de las flores, y luciérnagas danzantes. Su mera presencia hace que un entorno natural sea más exuberante y vibrante.</p><p><em><strong>Fascinación Humanoides</strong></em>. Chwingas evita a la mayoría de las otras criaturas, pero encuentran fascinantes las trampas de la civilización. Ellos puzlan sobre criaturas que llevan armadura, portan armas, usan herramientas y cocinan comida. Cuando un chwinga se encuentra con uno o más humanoides, su curiosidad a veces se pone mejor de ella, y las sombras de esas criaturas por un corto tiempo para observarlas. Si le gusta un humanoide en particular, un chwinga podría usar sus cantrips para ayudarlo, o podría otorgar un regalo mágico antes de partir. Las características que atraen a un chwinga a un humanoide en particular pueden variar. En algunos casos, un chwinga simplemente podría gustarle la forma en que un humanoide camina o la forma en que se peina el cabello. Otras veces, podría ser herido por la capacidad de un humanoide de tocar música o comer abundante cantidad de alimentos.</p><p><em><strong>Naturaleza elemental</strong></em>. Chwingas dormir, pero no requieren aire, comida o bebida. No tienen nombres y no tienen capacidad para hablar. Cuando un chwinga muere, se convierte en un puñado de pétalos de flores, una nube de polen, una estatuilla de piedra que se asemeja a su anterior yo, un mármol de piedra lisa, o un charco de agua dulce.</p>"
+      "biography": "<p>Un chwinga (se pronuncia [chewínga]) es un diminuto espíritu elemental que vive en plantas, rocas y ríos alejados de la civilización. Es extremadamente tímido y prefiere desplazarse sin ser visto.</p><p>Si dos o más chwingas viven en la misma zona, cada uno se refugia en una planta, roca o masa de agua dulce diferente. Aunque no hay dos iguales, parecen muñecos animados de 6 pulgadas de altura, con máscaras extrañas, extremidades delgadas y pelo alborotado. A veces, brisas frescas, aromas florales y luciérnagas danzarinas anuncian su aparición. Su mera presencia vuelve los parajes naturales más exuberantes y llenos de vida.</p><p><em><strong>Fascinación por los humanoides</strong></em>. Los chwingas rehúyen a la mayoría de las criaturas, pero les fascinan los elementos de la civilización. Les desconciertan las criaturas que visten armaduras, llevan armas, usan herramientas y cocinan. Cuando un chwinga encuentra humanoides, a veces puede más la curiosidad y los sigue durante un rato para observarlos. Si uno le cae bien, podría ayudarlo con sus trucos o concederle un don mágico antes de marcharse. Los rasgos que le atraen de un humanoide varían: puede gustarle su forma de caminar o peinarse, o quedar cautivado por su habilidad para tocar música o comer cantidades ingentes de comida.</p><p><em><strong>Naturaleza elemental</strong></em>. Los chwingas duermen, pero no necesitan respirar, comer ni beber. No tienen nombre ni pueden hablar. Cuando uno muere, se transforma en un puñado de pétalos, una nube de polen, una estatuilla de piedra con su antigua apariencia, una canica de piedra lisa o un charco de agua dulce.</p>"
     },
     "WeoWLPQclgLKAD4S": {
       "items": {

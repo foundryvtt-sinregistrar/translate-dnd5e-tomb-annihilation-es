@@ -1608,18 +1608,30 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   queda registrada esta omisión, igual que en el bodak.
 - Auditorías técnica y editorial sin errores. Pendiente ejecución en Foundry.
 
+### appendix-d-chwinga-strider — Chwinga y caminante gigantesco
+
+- Revisados 70 campos de los dos actores y sus páginas, con referencias
+  físicas 215–217. Incluye biografía y cuatro conjuros del chwinga, cuyo
+  texto completo se contrasta con el exportado inglés.
+- Corregido «agua dulce» frente a «agua fresca». Conservados refugio en el
+  propio espacio, visión ciega sin impedimentos, salida mediante acción,
+  evasión y sortilegio sobrenatural a elección del DM.
+- Conservados absorción de la mitad del daño de fuego y propagación por
+  esquinas del estallido del caminante. Su biografía original está vacía.
+- Auditorías técnica y editorial sin errores. Pendiente ejecución en Foundry.
+
 ## Balance de revisión editorial
 
-- 762 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 764 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 157 de los apéndices A, B, C, D y F.
-  No equivale a 762 páginas del PDF.
-- 2641 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 2641 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 159 de los apéndices A, B, C, D y F.
+  No equivale a 764 páginas del PDF.
+- 2711 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 2711 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas quince biografías en ambas copias de actores: siete
-  príncipes y ocho criaturas o PNJ del apéndice D. Siguen pendientes las demás
+  insertado. Revisadas dieciséis biografías en ambas copias de actores: siete
+  príncipes y nueve criaturas o PNJ del apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las
