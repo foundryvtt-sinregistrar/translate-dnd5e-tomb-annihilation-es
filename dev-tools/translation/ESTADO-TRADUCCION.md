@@ -1142,6 +1142,15 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   no se ha inventado una cadencia por turno. La tabla insertada sigue pendiente.
 - Auditorías técnica y editorial sin errores.
 
+### Ajuste terminológico — Dones de Unkh
+
+- Recontrastadas las referencias físicas 168-169: los dones se denominan
+  sortilegios y el objeto es la túnica de colores hipnóticos.
+- Adoptados los nombres del PDF: sentir tesoros, saga tumefacta, mutilados
+  y gules. Se han actualizado los registros existentes, sin sumar páginas.
+- Esta nomenclatura deberá trasladarse a las fichas de los objetos pendientes.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
 - 593 páginas de texto revisadas: seis de la introducción, cien de los cuatro
