@@ -16881,60 +16881,60 @@
               "text": "<p>Los personajes encuentran una o más plantas inusuales (consulta el @UUID[JournalEntry.toaAppCDiscoveri.JournalEntryPage.gwfMk4Y3JbM7WKFo]{apéndice C}). Tira un d6 para determinar cuáles:</p><p>@embed[Compendium.dnd-tomb-annihilation.tables.RollTable.toaRarePlants000 rollable classes=\"caption-top\" resultLabel=\"Plant Type\"]</p>"
             },
             "WQGoDdnVErIqkGAO": {
-              "name": "Asistente rojo",
-              "text": "<p>@UUID[Actor.toaEncRedWizard0]{Este grupo} consta de un mago rojo (LE macho o hembra Thayan humano mago), 1d6 guardias, y 1d6 esqueletos, todo responsable de @UUID[Actor.toaValindraShado]{Valindra Shadowmantle} (Véase @UUID[JournalEntry.toaCh2HeartofUbt]{Corazón de Ubtao}). Si este encuentro ocurre fuera de Omu, estos refuerzos están en camino a la ciudad. Si el encuentro tiene lugar en Omu, el Asistente Rojo está buscando santuarios en la ciudad (ver @UUID[JournalEntry.toaCh3LocationsI]{Capítulo 3}). Los Thayans no se están estropeando para una lucha; si la derrota parece inevitable, el Mago Rojo se rinde y ofrece un mapa crudo de Chuult marcando las regiones ocupadas por no-muertos (ver @UUID[Scene.toaCh2ChultMap00]{mapa 2.1}). Los personajes pueden utilizar el mapa para mantenerse alejados de estas regiones.</p>"
+              "name": "Mago Rojo",
+              "text": "<p>@UUID[Actor.toaEncRedWizard0]{Este grupo} está formado por un Mago Rojo (humano thayano, hombre o mujer, mago LM), 1d6 guardias y 1d6 esqueletos, todos a las órdenes de @UUID[Actor.toaValindraShado]{Valindra Shadowmantle} (consulta @UUID[JournalEntry.toaCh2HeartofUbt]{Corazón de Ubtao}). Si el encuentro ocurre fuera de Omu, son refuerzos que se dirigen a la ciudad. Si ocurre en Omu, el Mago Rojo busca santuarios por la ciudad (consulta el @UUID[JournalEntry.toaCh3LocationsI]{capítulo 3}). Los thayanos no buscan pelea. Si la derrota parece inevitable, el Mago Rojo se rinde y ofrece un mapa rudimentario de Chult que señala las regiones ocupadas por muertos vivientes (consulta el @UUID[Scene.toaCh2ChultMap00]{mapa 2.1}). Los personajes pueden utilizarlo para evitar esas regiones.</p>"
             },
             "a3gvkYiNlsEkPhNj": {
               "name": "Salamandra",
-              "text": "<p>Los personajes ven un @UUID[Actor.toaEncSalamander]{salamandra} cuidando un nido de 1d6 serpientes de fuego. La salamandra no tiene interés en luchar y atacar sólo para protegerse a sí misma y a las serpientes.</p>"
+              "text": "<p>Los personajes ven a una @UUID[Actor.toaEncSalamander]{salamandra} cuidando de un nido con 1d6 serpientes de fuego. No tiene interés en combatir y solo ataca para protegerse a sí misma o a las serpientes.</p>"
             },
             "xUJ3VoNZkbuf25Y4": {
-              "name": "Mar Hags",
-              "text": "<p>Los personajes encuentran tres @UUID[Actor.toaEncSeaHags000]{Merluzas marinas} que comprenden un aquelarre. Su truco favorito es tirar de una canoa dañada o abandonada a una orilla del río y pretender ser varados o heridos exploradores en necesidad de rescate.</p><p>Si los personajes derrotan a las brujas marinas y buscan en la zona, rodar tres veces en el @UUID[Compendium.dnd-tomb-annihilation.tables.RollTable.dmgTreasureDrops]{Gotas de tesoro} mesa para determinar qué, en caso de que algo, encuentran. Cualquier tesoro que tengan las brujas está guardado dentro de un pecho de madera podrido.</p>"
+              "name": "Sagas de los mares",
+              "text": "<p>Los personajes encuentran a tres @UUID[Actor.toaEncSeaHags000]{sagas de los mares} que forman un aquelarre. Su engaño favorito consiste en arrastrar una canoa dañada o abandonada hasta la orilla de un río y hacerse pasar por exploradores heridos o varados que necesitan ser rescatados.</p><p>Si los personajes derrotan a las sagas y registran la zona, tira tres veces en la tabla @UUID[Compendium.dnd-tomb-annihilation.tables.RollTable.dmgTreasureDrops]{Tesoros obtenidos} para determinar qué encuentran, si es que encuentran algo. Las sagas guardan todos sus tesoros en un cofre de madera podrida.</p>"
             },
             "FYgR5ic3WWcghkE6": {
-              "name": "Mondo de Shambling",
-              "text": "<p>Rodar cualquier muere cuando se produce un encuentro de montículos. En un resultado uniforme, los personajes oyen a la criatura troceando por el lodo antes de atacarlos. En un resultado extraño, el @UUID[Actor.2bkoBhhXzP7yFFls]{montículo de shambling} se esconde dentro de una masa de vegetación, donde puede ser notado por cualquier personaje con un [[/skill perception 15 passive format=long]].</p>"
+              "name": "Broza movediza",
+              "text": "<p>Cuando se produzca un encuentro con una broza movediza, tira cualquier dado. Si el resultado es par, los personajes oyen a la criatura avanzar pesadamente por el fango antes de que los ataque. Si es impar, la @UUID[Actor.2bkoBhhXzP7yFFls]{broza movediza} acecha entre una masa de vegetación, donde cualquier personaje con [[/skill perception 15 passive format=long]] puede detectarla.</p>"
             },
             "OtoJI2FPcljr4ZwP": {
-              "name": "Serpiente, Constrictor",
-              "text": "<p>A @UUID[Actor.7EpJYctkIZos4YgL]{serpiente constrictora} ataca a un miembro del partido al azar de esconderse. El personaje objetivo de la serpiente se sorprende a menos que tenga un [[/skill perception 12 passive format=long]].</p>"
+              "name": "Serpiente constrictora",
+              "text": "<p>Una @UUID[Actor.7EpJYctkIZos4YgL]{serpiente constrictora} ataca desde su escondite a un miembro del grupo elegido al azar. El personaje atacado queda sorprendido a menos que tenga [[/skill perception 12 passive format=long]].</p>"
             },
             "zGExzJvx2QDVuQoa": {
-              "name": "Serpiente, Constrictor gigante",
-              "text": "<p>A @UUID[Actor.6XIvb4zl8c0tW8tW]{serpiente constrictor gigante} ataques de esconderse de la misma manera que una serpiente constrictora.</p>"
+              "name": "Serpiente constrictora gigante",
+              "text": "<p>Una @UUID[Actor.6XIvb4zl8c0tW8tW]{serpiente constrictora gigante} ataca desde su escondite del mismo modo que una serpiente constrictora.</p>"
             },
             "4extT2huH6sVDz0e": {
-              "name": "Serpiente, gigante venenosa",
-              "text": "<p>A @UUID[Actor.ysu0bHURlgYiPn1a]{serpiente venenosa gigante} dispara desde la maleza para atacar a un personaje al azar. El personaje objetivo de la serpiente se sorprende a menos que tenga un [[/skill perception 14 passive format=long]].</p>"
+              "name": "Serpiente venenosa gigante",
+              "text": "<p>Una @UUID[Actor.ysu0bHURlgYiPn1a]{serpiente venenosa gigante} sale disparada de la maleza para atacar a un personaje elegido al azar. El personaje atacado queda sorprendido a menos que tenga [[/skill perception 14 passive format=long]].</p>"
             },
             "sel6djRdSZ2JWfbu": {
               "name": "Arañas",
-              "text": "<p>Las telarañas gigantes se ocultan fácilmente en las densas selvas y pantanos de Chul. Cualquier personaje con un [[/skill perception 13 passive format=long]] a tiempo para alertar a los otros personajes de un encuentro con @UUID[Actor.toaGiantSpiders0]{1d6 arañas gigantes}. De lo contrario, las arañas atacan con sorpresa cuando el miembro principal del partido se equivoca en una tela adhesiva y se convierte en &amp;Reference[grappled]{forcejeado} por él (escapar [[/check acrobatics athletics 12 format=long]]). Cientos de arañas gigantes se arrastran por las telarañas, pero son inofensivas.</p>"
+              "text": "<p>Las telarañas gigantes se ocultan fácilmente en las densas selvas y pantanos de Chult. Cualquier personaje con [[/skill perception 13 passive format=long]] las detecta a tiempo de advertir a los demás de un encuentro con @UUID[Actor.toaGiantSpiders0]{1d6 arañas gigantes}. De lo contrario, las arañas atacan por sorpresa cuando el personaje que encabeza la marcha cae en una telaraña pegajosa y queda &amp;Reference[grappled]{agarrado} por ella (para escapar: [[/check acrobatics athletics 12 format=long]]). Cientos de crías de araña gigante recorren las telarañas, pero son inofensivas.</p>"
             },
             "YvrekFuRALETGLha": {
               "name": "Estatua de Ubtao",
-              "text": "<p>Cualquier personaje con un [[/skill perception 12 passive format=long]] mancha una estatua de 10 pies de altura cubierta de vides. La estatua representa un rey estilizado de Chultán, una representación de Ubtao. Girar a [[/r d4]] para determinar qué es lo especial de la estatua:</p><p>@embed[Compendium.dnd-tomb-annihilation.tables.RollTable.toaStatueofUbtao rollable classes=\"caption-top\" resultLabel=\"What’s Special About the Statue\"]</p>"
+              "text": "<p>Cualquier personaje con [[/skill perception 12 passive format=long]] avista una estatua de 10 pies de alto cubierta de enredaderas. La escultura representa de forma estilizada a un rey chultano: es una imagen de Ubtao. Tira un [[/r d4]] para determinar qué tiene de especial:</p><p>@embed[Compendium.dnd-tomb-annihilation.tables.RollTable.toaStatueofUbtao rollable classes=\"caption-top\" resultLabel=\"What’s Special About the Statue\"]</p>"
             },
             "mJLP1CT91yz4xyEu": {
-              "name": "Sanguijuelas voladoras",
-              "text": "<p>Chul es rico en cuevas, ruinas y troncos huecos en los que los agitadores pueden esconderse. Por el día, los personajes perturban @UUID[Actor.toaEncStirges000]{2d6 agitados} a medida que se mueven a través de la selva. Por la noche, el mismo número de agitación desciende en el campamento de la fiesta.</p>"
+              "name": "Estirges",
+              "text": "<p>En Chult abundan las cuevas, las ruinas y los troncos huecos donde pueden ocultarse las estirges. Durante el día, los personajes molestan a @UUID[Actor.toaEncStirges000]{2d6 estirges} al avanzar por la selva. Por la noche, esa misma cantidad de estirges se abalanza sobre el campamento del grupo.</p>"
             },
             "HydPiBGnzOhnhBzD": {
-              "name": "Su-monstruos",
-              "text": "<p>La fiesta se cruza. @UUID[Actor.toaEncSumonsters]{1d4 + 1 su-monstruos} (ver @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{Apéndice D}). Los su-monstruos se acercan cautelosamente, fingiendo curiosidad. Si se le permite acercarse, cada su-monstruo utiliza su Crush Psíquico en la esperanza de aturdir a un aventurero antes de atacar con su mordida y garras. Los su-monstruos huyen a sus guaridas si la lucha va en contra de ellos.</p><p>Los su-monstruos podrían tener tesoros escondidos en uno de sus árboles; rodar una vez en el @UUID[Compendium.dnd-tomb-annihilation.tables.RollTable.dmgTreasureDrops]{Gotas de tesoro} tabla para determinar lo que, en todo caso, una búsqueda de los rendimientos de los árboles.</p>"
+              "name": "Sucarates",
+              "text": "<p>El grupo se topa con @UUID[Actor.toaEncSumonsters]{1d4 + 1 sucarates} (consulta el @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{apéndice D}). Las criaturas se acercan con cautela, fingiendo curiosidad. Si se les permite aproximarse, cada sucarate usa su Aplastamiento Psíquico para intentar aturdir a un aventurero antes de atacar con mordisco y garras. Si la lucha se vuelve en su contra, huyen a sus guaridas en las copas de los árboles.</p><p>Los sucarates podrían haber escondido tesoros en uno de sus árboles. Tira una vez en la tabla @UUID[Compendium.dnd-tomb-annihilation.tables.RollTable.dmgTreasureDrops]{Tesoros obtenidos} para determinar qué revela un registro del árbol, si es que hay algo.</p>"
             },
             "R5L6um5omcFuEuWI": {
               "name": "Enjambres de murciélagos",
-              "text": "<p>Las ruinas, los árboles huecos y las cavernas ocultas pueden ser hogares de murciélagos. Este encuentro ve a los personajes perturbar @UUID[Actor.toaEncSwarmsofBa]{1d4 enjambres de murciélagos} que se han vuelto antinaturalmente agresivos al alimentarse de carne no muerta.</p>"
+              "text": "<p>Las ruinas, los árboles huecos y las cavernas ocultas pueden albergar murciélagos. En este encuentro, los personajes molestan a @UUID[Actor.toaEncSwarmsofBa]{1d4 enjambres de murciélagos} que se han vuelto anormalmente agresivos por alimentarse de carne de muertos vivientes.</p>"
             },
             "5wEwqFMWNMwPC0Q7": {
               "name": "Enjambres de insectos",
-              "text": "<p>Los caracteres están asediados por @UUID[Actor.toaEncSwarmsofIn]{1d4 enjambres de insectos} (centípedos). Al final del encuentro, cualquier personaje dañado por un enjambre debe tener éxito en un [[/save con 11 format=long]]o infectarse con @UUID[JournalEntry.toaCh2TheLandOfC.JournalEntryPage.gdfOVlmdWgBW8mwo]{enfermedad temblante} (ver @UUID[JournalEntry.toaCh2TheLandOfC.JournalEntryPage.q88gNSLatuxyV9Yg]{Enfermedades}).</p>"
+              "text": "<p>@UUID[Actor.toaEncSwarmsofIn]{1d4 enjambres de insectos} (ciempiés) atacan a los personajes. Al final del encuentro, cada personaje que haya sufrido daño de un enjambre debe superar una [[/save con 11 format=long]] o contrae el @UUID[JournalEntry.toaCh2TheLandOfC.JournalEntryPage.gdfOVlmdWgBW8mwo]{mal de los temblores} (consulta @UUID[JournalEntry.toaCh2TheLandOfC.JournalEntryPage.q88gNSLatuxyV9Yg]{Enfermedades}).</p>"
             },
             "euvVYqLW2RuLoatH": {
-              "name": "Enjambres de quippers",
-              "text": "<p>Este encuentro indica que @UUID[Actor.toaEncSwarmsofQu]{1d4 enjambres de quippers} ver la fiesta, pero estas criaturas son peligrosas sólo si los personajes están en el agua con ellos. Las criaturas en la orilla o en canoas son seguras, pero en ambos casos, los enjambres siguen a los personajes hasta que están fuera de la vista y lejos del agua.</p>"
+              "name": "Enjambres de mordedores",
+              "text": "<p>En este encuentro, @UUID[Actor.toaEncSwarmsofQu]{1d4 enjambres de mordedores} avistan al grupo. Solo resultan peligrosos si los personajes están en el agua con ellos. Quienes estén en la orilla o en canoas permanecen a salvo, pero en ambos casos los enjambres siguen al grupo hasta que los personajes se alejan del agua y desaparecen de su vista.</p>"
             },
             "cctGdu5DbVzE5Vbr": {
               "name": "Cazador Tabaxi",

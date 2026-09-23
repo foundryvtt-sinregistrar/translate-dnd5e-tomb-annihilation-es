@@ -1427,15 +1427,27 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Auditorías técnica y editorial sin errores. La página de plantas raras
   contiene un Embed; su tabla se revisará como documento independiente.
 
+### appendix-b-swamps — Serpientes, sagas y enjambres
+
+- Revisadas catorce páginas (28 registros), con referencias físicas 197,
+  200–204: Mago Rojo, salamandra, sagas de los mares, broza movediza,
+  tres serpientes, arañas, estatua de Ubtao, estirges, sucarates y tres enjambres.
+- Conservados rendición del Mago Rojo, sorpresa, tres tiradas de tesoro de las
+  sagas y la condición agarrado de las telarañas. Corregida la ausencia de
+  espacio tras la tirada de salvación en el encuentro de insectos.
+- La estatua incluye una tabla pendiente de revisión independiente y un
+  parámetro de título inglés pendiente de comprobar en presentación.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 698 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 712 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 93 de los apéndices A, B, C y F.
-  No equivale a 698 páginas del PDF.
-- 1750 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1750 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 107 de los apéndices A, B, C y F.
+  No equivale a 712 páginas del PDF.
+- 1778 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1778 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
