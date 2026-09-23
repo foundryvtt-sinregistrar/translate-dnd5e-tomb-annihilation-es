@@ -679,46 +679,46 @@
           "items": {
             "zaYTSI1nKtzBnQwf": {
               "name": "Ataque múltiple",
-              "description": "<p>El asesino hace dos. [[/item .Kbg12IJ0YW79vP06]] ataques.</p>"
+              "description": "<p>El asesino realiza dos ataques de [[/item .Kbg12IJ0YW79vP06]].</p>"
             },
             "D4VxUJfO4pVUiCNj": {
               "name": "Armadura de cuero tachonado",
-              "description": "<p>Hecho de cuero resistente pero flexible, el cuero tachonado está reforzado con remaches o pinchos de cierre.</p>"
+              "description": "<p>Esta armadura está hecha de cuero resistente pero flexible, reforzado con remaches o púas muy juntos.</p>"
             },
             "Ld00NpZe8Zl4J4Pi": {
               "name": "Asesinar",
-              "description": "<p>Durante su primer turno, el asesino tiene ventaja en los rollos de ataque contra cualquier criatura que no haya tomado un giro. Cualquier golpe al asesino contra una criatura sorprendida es un golpe crítico.</p>"
+              "description": "<p>Durante su primer turno, el asesino tiene ventaja en las tiradas de ataque contra cualquier criatura que aún no haya tenido un turno. Cualquier impacto que consiga contra una criatura sorprendida es un crítico.</p>"
             },
             "crRphULq6iIdlq88": {
               "name": "Evasión",
-              "description": "<p>Si el asesino es sometido a un efecto que le permite hacer un <strong>Destreza</strong> ahorro tiro para recibir sólo la mitad de daño, el asesino en lugar de tomar ningún daño si tiene éxito en el ahorro tiro, y sólo la mitad de daño si falla.</p>"
+              "description": "<p>Si el asesino se ve sometido a un efecto que le permita realizar una tirada de salvación de <strong>Destreza</strong> para sufrir solo la mitad del daño, en su lugar no sufre daño si tiene éxito y solo la mitad si falla.</p>"
             },
             "EcECOhaJIpCtN2o7": {
-              "name": "Ataque furtivo",
-              "description": "<p>El asesino causa un daño adicional de 13 (4d6) cuando golpea un objetivo con un ataque de arma y tiene ventaja en el rollo de ataque, o cuando el objetivo está a menos de 5 pies de un aliado del asesino que no está incapacitado y el asesino no tiene desventaja en el rollo de ataque.</p>",
+              "name": "Ataque Furtivo",
+              "description": "<p>El asesino inflige 13 (4d6) de daño adicional cuando impacta a un objetivo con un ataque con arma y tiene ventaja en la tirada de ataque, o cuando el objetivo está a 5 pies o menos de un aliado del asesino que no esté incapacitado y el asesino no tiene desventaja en la tirada de ataque.</p>",
               "activities": {
                 "dnd5eactivity000": {
                   "activation": {
-                    "condition": "una vez por turno"
+                    "condition": "Una vez por turno"
                   }
                 }
               }
             },
             "Kbg12IJ0YW79vP06": {
               "name": "Espada corta",
-              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo debe hacer un [[/save]] ahorro lanzamiento, toma [[/damage activity=dnd5eactivity100]] daño en un error de guardar, o la mitad de daño en un éxito.</p>"
+              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo debe realizar una tirada de salvación [[/save]]. Sufre [[/damage activity=dnd5eactivity100]] de daño si falla o la mitad si tiene éxito.</p>"
             },
             "rNQK7okIBNZ2zDvD": {
               "name": "Ballesta ligera",
-              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo debe hacer un [[/save]] ahorro lanzamiento, toma [[/damage activity=qt3tGFCRiYgaiWQ3]] daño en un error de guardar, o la mitad de daño en un éxito.</p>",
-              "descriptionChat": "<p>El asesino ataca con su ballesta de luz. El objetivo debe hacer un <strong>Constitución</strong> El lanzamiento de ahorro.</p>"
+              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo debe realizar una tirada de salvación [[/save]]. Sufre [[/damage activity=qt3tGFCRiYgaiWQ3]] de daño si falla o la mitad si tiene éxito.</p>",
+              "descriptionChat": "<p>El asesino ataca con su ballesta ligera. El objetivo debe realizar una tirada de salvación de <strong>Constitución</strong>.</p>"
             }
           },
           "name": "Asesino",
-          "alignment": "Cualquier no-bueno",
-          "languages": "cualesquiera dos idiomas",
+          "alignment": "Cualquier alineamiento no bueno",
+          "languages": "Dos idiomas cualesquiera",
           "tokenName": "Asesino",
-          "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+          "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
         },
         "vqFiCfgJR15hheQk": {
           "alignment": "Sin alineamiento",
@@ -5154,23 +5154,23 @@
           "items": {
             "Dm3xuIrZeCAsP463": {
               "name": "Ataque múltiple",
-              "description": "<p>El nothic hace dos [[/item Claw]] ataques.</p>"
+              "description": "<p>El nótico realiza dos ataques de [[/item Claw]].</p>"
             },
             "k9YVta2pzrik1bvb": {
               "name": "Garra",
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>"
             },
             "GaNaxP58fd8JStof": {
-              "name": "Mirada putrefacta",
-              "description": "<p>El notíco apunta a una criatura que puede ver a menos de 30 pies de ella. El objetivo debe tener éxito en un [[/save format=long]] contra esta magia o tomar [[/damage average]] daño.</p>"
+              "name": "Mirada Putrefacta",
+              "description": "<p>El nótico elige como objetivo a una criatura que pueda ver a 30 pies o menos. El objetivo debe superar una [[/save format=long]] contra esta magia o sufrir [[/damage average]] de daño.</p>"
             },
             "1BIkfrXPtYlLcYIt": {
-              "name": "Perspicacia extraña",
-              "description": "<p>El notíco apunta a una criatura que puede ver a menos de 30 pies de ella. El objetivo debe disputar su cheque Carisma (Decepción) contra el cheque de la Sabiduría (Insight) del nothic. Si el nothic gana, mágicamente aprende un hecho o secreto sobre el objetivo. El objetivo gana automáticamente si es inmune a ser &amp;Reference[Charmed apply=false]{encanto}.</p>"
+              "name": "Perspicacia Sobrenatural",
+              "description": "<p>El nótico elige como objetivo a una criatura que pueda ver a 30 pies o menos. El objetivo debe realizar una prueba de Carisma (Engaño) enfrentada a la prueba de Sabiduría (Perspicacia) del nótico. Si el nótico gana, descubre mágicamente un dato o secreto sobre el objetivo. El objetivo gana automáticamente si es inmune a estar &amp;Reference[Charmed apply=false]{hechizado}.</p>"
             },
             "gtobHNkiBL4xT43e": {
               "name": "Vista aguda",
-              "description": "<p>El notíco tiene ventaja en la Sabiduría (percepción) controles que dependen de la vista.</p>"
+              "description": "<p>El nótico tiene ventaja en las pruebas de Sabiduría (Percepción) que dependan de la vista.</p>"
             }
           },
           "name": "Nótico",
@@ -5870,30 +5870,30 @@
             "a75Ba80yp6Y28AJQ": {
               "name": "Garras",
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "descriptionChat": "<p>La bruja marina ataca con sus garras.</p>"
+              "descriptionChat": "<p>La saga del mar ataca con sus garras.</p>"
             },
             "VlvfR7YD6twoSRhg": {
-              "name": "Anfibio",
-              "description": "<p>La bruja puede respirar aire y agua.</p>"
+              "name": "Anfibia",
+              "description": "<p>La saga puede respirar tanto aire como agua.</p>"
             },
             "XeAyeJsNjKZKPWEN": {
-              "name": "Apariencia horrible",
-              "description": "<p>Cualquier humanoide que empiece su turno <strong>dentro de 30 pies</strong> de la bruja y puede ver la verdadera forma de la bruja debe hacer un [[/save format=long]]. En una salvada fallida, la criatura tiene miedo de <strong>1 minuto</strong>. Una criatura puede repetir el lanzamiento de ahorro al final de cada uno de sus giros, con<strong> desventaja </strong>si la bruja está dentro de la línea de visión, poniendo fin al efecto en sí misma en un éxito.</p><p>Si el lanzamiento de una criatura es exitoso o el efecto termina por ello, la criatura es inmune a la horrible aparición de la bruja durante las próximas 24 horas.<strong>. </strong>A menos que el objetivo sea sorprendido o la revelación de la verdadera forma de la bruja sea repentina, el objetivo puede evitar sus ojos y evitar hacer el lanzamiento inicial de ahorro. Hasta el comienzo de su próximo giro, una criatura que evita sus ojos tiene<strong> desventaja </strong>en los rollos de ataque contra la bruja.</p>",
-              "descriptionChat": "<p>Cualquier humanoide que empiece su turno <strong>dentro de 30 pies</strong> de la bruja y puede ver la verdadera forma de la bruja debe hacer un <strong>Sabiduría</strong> El lanzamiento de ahorro.</p>"
+              "name": "Apariencia Horripilante",
+              "description": "<p>Cualquier humanoide que comience su turno <strong>a 30 pies o menos</strong> de la saga y pueda ver su verdadera forma debe realizar una [[/save format=long]]. Si falla, queda asustado durante <strong>1 minuto</strong>. Una criatura puede repetir la salvación al final de cada uno de sus turnos, con<strong> desventaja </strong>si la saga está en su línea de visión, y terminar el efecto sobre sí misma si tiene éxito.</p><p>Si supera la salvación o el efecto termina para ella, la criatura es inmune a la Apariencia Horripilante de esta saga durante las siguientes 24 horas<strong>.</strong> Salvo que esté sorprendido o que la verdadera forma de la saga se revele de repente, el objetivo puede apartar la mirada y evitar la salvación inicial. Hasta el comienzo de su siguiente turno, una criatura que aparte la mirada tiene<strong> desventaja </strong>en las tiradas de ataque contra la saga.</p>",
+              "descriptionChat": "<p>Cualquier humanoide que comience su turno <strong>a 30 pies o menos</strong> de la saga y pueda ver su verdadera forma debe realizar una tirada de salvación de <strong>Sabiduría</strong>.</p>"
             },
             "7AGmP2dRLYmORUX7": {
-              "name": "Mirada mortal",
-              "description": "<p>La bruja apunta a una criatura asustada que puede ver a menos de 30 pies de distancia de ella. Si el objetivo puede ver la bruja, debe tener éxito en un [[/save format=long]] contra esta magia o caída a 0 puntos de impacto.</p>",
-              "descriptionChat": "<p>La bruja apunta a una criatura asustada que puede ver a menos de 30 pies de distancia de ella. Si el objetivo puede ver la bruja, debe hacer un <strong>Sabiduría</strong> salvar el tiro contra esta magia.</p>"
+              "name": "Mirada Mortal",
+              "description": "<p>La saga elige como objetivo a una criatura asustada que pueda ver a 30 pies o menos. Si el objetivo puede ver a la saga, debe superar una [[/save format=long]] contra esta magia o sus puntos de golpe se reducen a 0.</p>",
+              "descriptionChat": "<p>La saga elige como objetivo a una criatura asustada que pueda ver a 30 pies o menos. Si el objetivo puede ver a la saga, debe realizar una tirada de salvación de <strong>Sabiduría</strong> contra esta magia.</p>"
             },
             "8s0lGEYZGFEpwt12": {
-              "name": "Apariencia ilusoria",
-              "description": "<p>La bruja se cubre a sí misma y todo lo que lleva o lleva con una ilusión mágica que la hace parecer una criatura fea de su tamaño general y forma humanoides. El efecto termina si la bruja toma una acción adicional para acabar con ella o si ella muere.</p><p>Los cambios causados por este efecto no resisten la inspección física. Por ejemplo, la bruja podría parecer que no tiene garras, pero alguien tocando su mano podría sentir las garras. </p><p>De lo contrario, una criatura debe tomar una acción para inspeccionar visualmente la ilusión y tener éxito en un [[/check format=long]] para discernir que la bruja está disfrazada.</p>"
+              "name": "Apariencia Ilusoria",
+              "description": "<p>La saga se cubre a sí misma y todo lo que vista o lleve consigo con una ilusión mágica que le da el aspecto de una criatura fea, de tamaño similar al suyo y forma humanoide. El efecto termina si la saga usa una acción adicional para ponerle fin o si muere.</p><p>Los cambios que produce este efecto no resisten una inspección física. Por ejemplo, podría parecer que la saga no tiene garras, pero alguien que le toque la mano podría notarlas.</p><p>De lo contrario, una criatura debe usar una acción para inspeccionar visualmente la ilusión y superar una [[/check format=long]] para advertir que la saga está disfrazada.</p>"
             }
           },
-          "name": "Mar Hag",
-          "tokenName": "Mar Hag",
-          "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+          "name": "Saga del mar",
+          "tokenName": "Saga del mar",
+          "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
         },
         "toaSekelok000000": {
           "alignment": "Neutral malvado",

@@ -2678,6 +2678,16 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   confundir la obstrucción visual de la niebla con ausencia de luz. Pendiente
   propagar esta precisión a copias anteriores durante la pasada de coherencia.
 
+### additional-gazes-assassin — Saga del mar, nótico y asesino
+
+- Revisados tres perfiles en ambas copias: 102 registros contrastados con el
+  exportado inglés. Comprobadas las restricciones visuales de la saga, el
+  objetivo previamente asustado de su mirada mortal, las pruebas enfrentadas
+  del nótico y las condiciones del primer turno del asesino.
+- La descripción de Ataque Furtivo del asesino omite «una vez por turno» en el
+  original; su actividad sí lo indica y se ha traducido ese campo. Conservada
+  esta diferencia para la reconciliación funcional, sin alterar sus reglas.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2687,8 +2697,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
   de Foundry, tres de créditos y cuatro de historial.
   No equivale a 931 páginas del PDF.
-- 15265 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 15265 campos distintos.
+- 15367 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 15367 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento cuarenta biografías en ambas copias de actores: siete
   príncipes, ciento veintisiete criaturas o PNJ vinculados al apéndice D y seis perfiles
