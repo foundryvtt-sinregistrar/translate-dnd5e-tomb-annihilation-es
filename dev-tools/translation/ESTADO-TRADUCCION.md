@@ -2493,6 +2493,18 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   en el formato de ataque y de Fortaleza. Se conserva cada versión y se ajusta
   el sujeto del chat a «zombi», evitando reutilizar la adaptación del enjambre.
 
+### additional-undead-incorporeal — Aparición, espectro y fuego fatuo
+
+- Revisados 102 campos en ambas copias, contra el exportado inglés.
+- Comprobadas las reducciones de puntos de golpe máximos y su duración hasta
+  un descanso largo, la muerte al llegar el máximo a cero y el daño por acabar
+  un turno dentro de un objeto.
+- Crear Espectro exige muerte violenta hace no más de un minuto y permite un
+  máximo de siete espectros. Consumir Vida del fuego fatuo exige que el objetivo
+  esté vivo con 0 PG; su resumen de chat omite esa condición en el original.
+- Conservadas las causas que terminan Invisibilidad, incluida la concentración,
+  y el radio variable de iluminación de 5 a 20 pies.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2502,8 +2514,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
   de Foundry, tres de créditos y cuatro de historial.
   No equivale a 931 páginas del PDF.
-- 12443 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 12443 campos distintos.
+- 12545 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 12545 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento treinta y cuatro biografías en ambas copias de actores: siete
   príncipes y ciento veintisiete criaturas o PNJ vinculados al apéndice D. Siguen pendientes las demás

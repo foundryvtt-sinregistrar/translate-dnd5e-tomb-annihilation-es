@@ -6198,23 +6198,23 @@
         "2OrBk5MGYxBt1Gwt": {
           "alignment": "Caótico malvado",
           "name": "Espectro",
-          "languages": "Comprende todos los idiomas que conocía en la vida pero no puede hablar",
+          "languages": "Entiende todos los idiomas que conocía en vida, pero no puede hablar",
           "tokenName": "Espectro",
-          "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
+          "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
           "items": {
             "FpoS5qzlgE3YPZGN": {
-              "name": "Movimiento incorpóreo",
-              "description": "<p>El espectro puede moverse a través de otras criaturas y objetos como si fueran terreno difícil.</p><p>Se necesita [[/damage average]] si termina su turno dentro de un objeto.</p>",
-              "descriptionChat": "<p>El espectro puede moverse a través de otras criaturas y objetos como si fueran terreno difícil.</p>"
+              "name": "Movimiento Incorpóreo",
+              "description": "<p>El espectro puede atravesar criaturas y objetos como si fueran terreno difícil.</p><p>Sufre [[/damage average]] si termina su turno dentro de un objeto.</p>",
+              "descriptionChat": "<p>El espectro puede atravesar criaturas y objetos como si fueran terreno difícil.</p>"
             },
             "pxm7rAqI5ackW8Oy": {
-              "name": "Drenaje de vida",
-              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo debe tener éxito en un [[/save format=long]] o su punto de impacto máximo se reduce en una cantidad igual al daño tomado. Esta reducción dura hasta que la criatura termine un largo descanso. El objetivo muere si este efecto reduce su punto de impacto máximo a 0.</p>",
-              "descriptionChat": "<p>El Specter ataca con su drenaje de vida.El objetivo debe hacer un <strong>Constitución</strong> El lanzamiento de ahorro. </p>"
+              "name": "Consumir vida",
+              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo debe superar una tirada de salvación [[/save format=long]] o sus puntos de golpe máximos se reducen en una cantidad igual al daño sufrido. La reducción dura hasta que termine un descanso largo. El objetivo muere si este efecto reduce sus puntos de golpe máximos a 0.</p>",
+              "descriptionChat": "<p>El espectro ataca con Consumir vida. El objetivo debe realizar una tirada de salvación de <strong>Constitución</strong>.</p>"
             },
             "1FbU02rRuNLnEDXC": {
-              "name": "Sensibilidad a la luz solar",
-              "description": "<p>Mientras que en la luz del sol, el espectro tiene<strong> desventaja </strong>en los rollos de ataque, así como en la Sabiduría (percepción) controles que dependen de la vista.</p>"
+              "name": "Sensibilidad a la Luz Solar",
+              "description": "<p>Mientras esté bajo la luz solar, el espectro tiene<strong> desventaja </strong>en las tiradas de ataque y en las pruebas de Sabiduría (Percepción) que dependan de la vista.</p>"
             }
           }
         },
@@ -7584,30 +7584,30 @@
             "np6oHDOwHQFsSn5B": {
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
               "name": "Descarga",
-              "descriptionChat": "<p>El Will-o'-Wisp ataca con su Shock.</p>"
+              "descriptionChat": "<p>El fuego fatuo ataca con Descarga.</p>"
             },
             "RAnyTfj3CGaiGK3W": {
-              "name": "Consumir vida",
-              "description": "<p>Como una acción adicional, la voluntad-o'-wisp puede apuntar a una criatura que puede ver dentro de 5 pies de ella que tiene 0 puntos de impacto y todavía está vivo.</p><p>El objetivo debe tener éxito en un [[/save format=long]] contra esta magia o morir. Si el objetivo muere, la voluntad se recupera. [[/heal average]].</p>",
-              "descriptionChat": "<p>El will-o'-wisp puede apuntar a una criatura que puede ver en su interior <strong>5 pies.</strong> El objetivo debe tener éxito en un lanzamiento de ahorro de la Constitución.</p>"
+              "name": "Consumir Vida",
+              "description": "<p>Como acción adicional, el fuego fatuo puede elegir como objetivo a una criatura que pueda ver a 5 pies o menos, que tenga 0 puntos de golpe y siga viva.</p><p>El objetivo debe superar una tirada de salvación [[/save format=long]] contra esta magia o morir. Si muere, el fuego fatuo recupera [[/heal average]].</p>",
+              "descriptionChat": "<p>El fuego fatuo puede elegir como objetivo a una criatura que pueda ver a <strong>5 pies</strong> o menos. El objetivo debe superar una tirada de salvación de Constitución.</p>"
             },
             "4wbSkOyE4ZqKLPQ6": {
               "name": "Efímero",
-              "description": "<p>El will-o'-wisp no puede llevar ni llevar nada.</p>"
+              "description": "<p>El fuego fatuo no puede llevar puesto ni transportar nada.</p>"
             },
             "MGdIOXhRAQQRrAcO": {
-              "name": "Movimiento incorpóreo",
-              "description": "<p>El will-o'-wisp puede moverse a través de otras criaturas y objetos como si fueran terrenos difíciles. Se necesita [[/damage average]] daño si termina su turno dentro de un objeto.</p>",
-              "descriptionChat": "<p>El will-o'-wisp puede moverse a través de otras criaturas y objetos como si fueran terrenos difíciles.</p>"
+              "name": "Movimiento Incorpóreo",
+              "description": "<p>El fuego fatuo puede atravesar criaturas y objetos como si fueran terreno difícil. Sufre [[/damage average]] de daño si termina su turno dentro de un objeto.</p>",
+              "descriptionChat": "<p>El fuego fatuo puede atravesar criaturas y objetos como si fueran terreno difícil.</p>"
             },
             "3Sr6MrVgbTGw66Aa": {
-              "name": "Iluminación variable",
-              "description": "<p>El will-o'-wisp arroja luz brillante en un radio de 5 a 20 pies y luz tenue para un número adicional de pies igual al radio elegido. El will-o'-wisp puede alterar el radio como una acción adicional.</p>"
+              "name": "Iluminación Variable",
+              "description": "<p>El fuego fatuo emite luz brillante en un radio de entre 5 y 20 pies y luz tenue en un radio adicional igual al elegido. Puede modificar el radio como acción adicional.</p>"
             },
             "vJR81iEOZYNMuAdz": {
               "name": "Invisibilidad",
-              "description": "<p>El will-o'-wisp y su luz mágicamente se vuelven invisibles hasta que ataca o utiliza su Vida de Consumo, o hasta que su concentración termina (como si se concentra en un conjuro).</p>",
-              "descriptionChat": "<p>La voluntad y su luz se vuelven mágicamente invisibles.</p>",
+              "description": "<p>El fuego fatuo y su luz se vuelven mágicamente invisibles hasta que ataque, use Consumir Vida o termine su concentración, como si se concentrara en un conjuro.</p>",
+              "descriptionChat": "<p>El fuego fatuo y su luz se vuelven mágicamente invisibles.</p>",
               "effects": {
                 "hxDmu2avFlZ9cFQY": {
                   "name": "Invisible"
@@ -7616,9 +7616,9 @@
             }
           },
           "name": "Fuego fatuo",
-          "languages": "Idiomas que conocía en la vida",
+          "languages": "Los idiomas que conocía en vida",
           "tokenName": "Fuego fatuo",
-          "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+          "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
         },
         "toaWineWierd0000": {
           "alignment": "Neutral",
@@ -7723,29 +7723,29 @@
         },
         "0ToSoTwqgZ1KrBz6": {
           "alignment": "Neutral malvado",
-          "name": "Espectros",
-          "languages": "los idiomas que conocía en la vida",
-          "tokenName": "Espectros",
-          "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
+          "name": "Aparición",
+          "languages": "Los idiomas que conocía en vida",
+          "tokenName": "Aparición",
+          "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
           "items": {
             "RADMbiPme1Hrfu8E": {
-              "name": "Crear espectro",
-              "description": "<p>La aparición elige como objetivo a un humanoide a 10 pies o menos que haya muerto de forma violenta hace no más de 1 minuto. </p><p>El espíritu del objetivo se eleva como un espectro en el espacio de su cadáver o en el espacio desocupado más cercano. El espectro está bajo el control de los espectros. Los espectros no pueden tener más de siete espectros bajo su control a la vez.</p>",
-              "descriptionChat": "<p>El espíritu del objetivo se eleva como un espectro en el espacio de su cadáver o en el espacio desocupado más cercano. </p>"
+              "name": "Crear Espectro",
+              "description": "<p>La aparición elige como objetivo a un humanoide a 10 pies o menos de ella que haya muerto violentamente hace no más de 1 minuto.</p><p>El espíritu del objetivo se alza como un espectro en el espacio de su cadáver o en el espacio desocupado más cercano. El espectro está bajo el control de la aparición, que no puede controlar a más de siete espectros a la vez.</p>",
+              "descriptionChat": "<p>El espíritu del objetivo se alza como un espectro en el espacio de su cadáver o en el espacio desocupado más cercano.</p>"
             },
             "idILnIUj76QH9v8w": {
-              "name": "Movimiento incorpóreo",
-              "description": "<p>Los espectros pueden moverse a través de otras criaturas y objetos como si fueran terreno difícil. </p><p>Se necesita <strong>5 (1d10) <em>daño por fuerza</em></strong> si termina su turno dentro de un objeto.</p>",
-              "descriptionChat": "<p>Los espectros pueden moverse a través de otras criaturas y objetos como si fueran terreno difícil.</p>"
+              "name": "Movimiento Incorpóreo",
+              "description": "<p>La aparición puede atravesar criaturas y objetos como si fueran terreno difícil.</p><p>Sufre <strong>5 (1d10) de <em>daño de fuerza</em></strong> si termina su turno dentro de un objeto.</p>",
+              "descriptionChat": "<p>La aparición puede atravesar criaturas y objetos como si fueran terreno difícil.</p>"
             },
             "xZPFtf2vCYraWXVe": {
-              "name": "Espectros - Drenaje de la vida",
-              "description": "<p>[[/attack extended]]. [[/damage extended]]. </p><p>El objetivo debe tener éxito en un  <strong>CD 14 Constitución</strong> el tirada de salvación o su punto de impacto máximo se reduce en una cantidad igual al daño tomado. Esta reducción dura hasta que el objetivo termine un largo descanso. El objetivo muere si este efecto reduce su punto de impacto máximo a 0.</p>",
-              "descriptionChat": "<p>Los Espectros atacan con su Drain Life. El objetivo debe hacer un <strong>Constitución</strong> El lanzamiento de ahorro.</p>"
+              "name": "Aparición: Consumir vida",
+              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo debe superar una tirada de salvación de <strong>Constitución CD 14</strong> o sus puntos de golpe máximos se reducen en una cantidad igual al daño sufrido. La reducción dura hasta que termine un descanso largo. El objetivo muere si este efecto reduce sus puntos de golpe máximos a 0.</p>",
+              "descriptionChat": "<p>La aparición ataca con Consumir vida. El objetivo debe realizar una tirada de salvación de <strong>Constitución</strong>.</p>"
             },
             "3ERjE4pz2bgxXIPi": {
-              "name": "Sensibilidad a la luz solar",
-              "description": "<p>Mientras que en la luz del sol, el espectro tiene<strong> desventaja </strong>en los rollos de ataque, así como en la Sabiduría (percepción) controles que dependen de la vista.</p>"
+              "name": "Sensibilidad a la Luz Solar",
+              "description": "<p>Mientras esté bajo la luz solar, la aparición tiene<strong> desventaja </strong>en las tiradas de ataque y en las pruebas de Sabiduría (Percepción) que dependan de la vista.</p>"
             }
           }
         },
