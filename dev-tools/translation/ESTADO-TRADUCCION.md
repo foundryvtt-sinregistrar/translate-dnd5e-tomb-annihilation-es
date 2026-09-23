@@ -2552,6 +2552,22 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - El chat de Regeneración del guardián omite el requisito de conservar al
   menos 1 PG; la descripción completa lo mantiene, como el original.
 
+### additional-elementals — Elementales y criaturas de fuego
+
+- Revisadas seis fichas en ambas copias: elementales de fuego y aire,
+  acechador invisible, salamandra, magmin y serpiente de fuego: 182 registros.
+- Contraste con el exportado inglés. Comprobados el daño al comienzo del turno
+  del elemental de fuego y al final del turno del magmin, las salvaciones del
+  torbellino y las restricciones de la cola de la salamandra.
+- Completado «Entiende ígneo» en la serpiente a partir de `languages.value`
+  (`ignan`); el texto inglés omitía el idioma y el borrador añadía común.
+- Corregida la etiqueta «Grappled & Expelled» de la salamandra a «Agarrado y
+  apresado»: los estados reales del efecto son `grappled` y `restrained`.
+- Conservado el galón como unidad del original. El enlace por nombre `Bite`
+  sigue pendiente de la comprobación funcional general. El chat del magmin
+  menciona un objetivo para apagar el fuego, mientras la descripción completa
+  permite que lo haga una criatura; se conserva esta diferencia del original.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2561,8 +2577,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
   de Foundry, tres de créditos y cuatro de historial.
   No equivale a 931 páginas del PDF.
-- 13683 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 13683 campos distintos.
+- 13865 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 13865 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento treinta y siete biografías en ambas copias de actores: siete
   príncipes, ciento veintisiete criaturas o PNJ vinculados al apéndice D y tres PNJ

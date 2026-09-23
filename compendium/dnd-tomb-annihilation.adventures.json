@@ -180,26 +180,26 @@
           "items": {
             "IyR3c30mCbL8VMCo": {
               "name": "Ataque múltiple",
-              "description": "<p>El elemental hace dos [[/item .qzLZFBO75loU77TZ]]{slam} ataques.</p>"
+              "description": "<p>El elemental realiza dos ataques de [[/item .qzLZFBO75loU77TZ]]{golpetazo}.</p>"
             },
             "qzLZFBO75loU77TZ": {
               "name": "Golpetazo",
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "descriptionChat": "<p>El Air Elemental ataca con su Slam.</p>"
+              "descriptionChat": "<p>El elemental de aire ataca con su golpetazo.</p>"
             },
             "8FHVwYBJY7dxIv9D": {
-              "name": "Forma de aire",
-              "description": "<p>El elemental puede entrar en el espacio de una criatura hostil y detenerse allí. Puede moverse a través de un espacio tan estrecho como 1 pulgada de ancho sin apretar.</p>"
+              "name": "Forma de Aire",
+              "description": "<p>El elemental puede entrar en el espacio de una criatura hostil y detenerse allí. Puede moverse por un espacio de tan solo 1 pulgada de ancho sin tener que apretujarse.</p>"
             },
             "PVdWTEQBuiAglD7l": {
               "name": "Torbellino",
-              "description": "<p>Cada criatura en el espacio del elemental debe hacer un  <strong>CD 13 Fuerza</strong> El lanzamiento de ahorro. En un fracaso, un objetivo toma <strong>15 (3d8 + 2) <em>Daño por apaleamiento</em></strong> y es lanzado hasta 20 pies de distancia de la elemental en una dirección aleatoria y golpeado propenso.</p><p>Si un objetivo lanzado golpea un objeto, como una pared o un piso, el objetivo toma <strong>3 (1d6) <em>Daño por apaleamiento</em></strong> por cada 10 pies que haya sido lanzado. Si el objetivo es lanzado a otra criatura, esa criatura debe tener éxito en un  <strong>CD 13 Destreza</strong> ahorro tirar o tomar el mismo daño y ser golpeado propenso. Si el lanzamiento de ahorro es exitoso, el objetivo toma la mitad de la <em>Daño por apaleamiento</em> y no es lanzado ni golpeado propenso.</p>",
-              "descriptionChat": "<p>Cada criatura en el espacio del elemental debe hacer un <strong>Fuerza</strong> El lanzamiento de ahorro. En un fallo, un objetivo es lanzado 20 pies de distancia de la elemental en una dirección aleatoria y golpeado propenso. Si el objetivo es lanzado a otra criatura, esa criatura debe hacer un <strong>Destreza</strong> ahorro tirar o tomar el mismo daño y ser golpeado propenso.</p>"
+              "description": "<p>Cada criatura en el espacio del elemental debe realizar una tirada de salvación de <strong>Fuerza CD 13</strong>. Si falla, el objetivo sufre <strong>15 (3d8 + 2) de <em>daño contundente</em></strong>, sale despedido hasta 20 pies del elemental en una dirección aleatoria y queda derribado.</p><p>Si un objetivo arrojado choca con un objeto, como una pared o el suelo, sufre <strong>3 (1d6) de <em>daño contundente</em></strong> por cada 10 pies que haya recorrido. Si se arroja al objetivo contra otra criatura, esta debe superar una tirada de salvación de <strong>Destreza CD 13</strong> o sufrir el mismo daño y quedar derribada. Si el objetivo supera la salvación inicial, sufre la mitad del <em>daño contundente</em> y no sale despedido ni queda derribado.</p>",
+              "descriptionChat": "<p>Cada criatura en el espacio del elemental debe realizar una tirada de salvación de <strong>Fuerza</strong>. Si falla, el objetivo sale despedido hasta 20 pies del elemental en una dirección aleatoria y queda derribado. Si se arroja al objetivo contra otra criatura, esta debe realizar una tirada de salvación de <strong>Destreza</strong> o sufrir el mismo daño y quedar derribada.</p>"
             }
           },
           "name": "Elemental de aire",
           "tokenName": "Elemental de aire",
-          "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+          "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
         },
         "N7co8xylyl3DXM9s": {
           "items": {
@@ -2098,37 +2098,37 @@
           "items": {
             "PRiFJLZbvIt2nkTk": {
               "name": "Ataque múltiple",
-              "description": "<p>El elemental hace dos [[/item .fdt2FIirmBRCpRBm]]{touch} ataques.</p>"
+              "description": "<p>El elemental realiza dos ataques de [[/item .fdt2FIirmBRCpRBm]]{toque}.</p>"
             },
             "yud1cnEVQ9KxbmWc": {
-              "name": "Forma de fuego",
-              "description": "<p>El elemental puede moverse a través de un espacio tan estrecho como 1 pulgada de ancho sin apretar. Una criatura que toca el elemental o golpea con un ataque cuerpo a cuerpo mientras que dentro de 5 pies de ella toma <strong>5 (1d10) <em>Daño por incendio</em></strong>. </p><p>Además, el elemental puede entrar en el espacio de una criatura hostil y detenerse allí. La primera vez que entra en el espacio de una criatura en un giro, que la criatura toma <strong>5 (1d10) <em>Daño por incendio</em></strong> y se incendia; hasta que alguien toma una acción para apagar el fuego, la criatura toma <strong>5 (1d10) <em>Daño por incendio</em></strong> al comienzo de cada uno de sus giros.</p>",
-              "descriptionChat": "<p>Una criatura que toca el elemental o golpea con un ataque cuerpo a cuerpo mientras que dentro de 5 pies de ella toma <em>Daño por incendio</em>. Además, el elemental puede entrar en el espacio de una criatura hostil y detenerse allí. La primera vez que entra en el espacio de una criatura en un giro, que la criatura toma <em>Daño por incendio</em> y se incendia; hasta que alguien toma una acción para apagar el fuego, la criatura toma <em>Daño por incendio</em> al comienzo de cada uno de sus giros.</p>"
+              "name": "Forma de Fuego",
+              "description": "<p>El elemental puede moverse por un espacio de tan solo 1 pulgada de ancho sin tener que apretujarse. Una criatura que lo toque o lo impacte con un ataque cuerpo a cuerpo estando a 5 pies o menos de él sufre <strong>5 (1d10) de <em>daño de fuego</em></strong>.</p><p>Además, el elemental puede entrar en el espacio de una criatura hostil y detenerse allí. La primera vez que entra en el espacio de una criatura durante un turno, esta sufre <strong>5 (1d10) de <em>daño de fuego</em></strong> y empieza a arder; hasta que alguien use una acción para apagar el fuego, la criatura sufre <strong>5 (1d10) de <em>daño de fuego</em></strong> al comienzo de cada uno de sus turnos.</p>",
+              "descriptionChat": "<p>Una criatura que toque al elemental o lo impacte con un ataque cuerpo a cuerpo estando a 5 pies o menos de él sufre <em>daño de fuego</em>. Además, el elemental puede entrar en el espacio de una criatura hostil y detenerse allí. La primera vez que entra en el espacio de una criatura durante un turno, esta sufre <em>daño de fuego</em> y empieza a arder; hasta que alguien use una acción para apagar el fuego, la criatura sufre <em>daño de fuego</em> al comienzo de cada uno de sus turnos.</p>"
             },
             "iQt3J3ZnHDoeaEIR": {
               "name": "Iluminación",
-              "description": "<p>Lo elemental arroja luz brillante en un <strong>Radio de 30 pies</strong> y tenue luz en un adicional <strong>30 pies.</strong>.</p>"
+              "description": "<p>El elemental emite luz brillante en un <strong>radio de 30 pies</strong> y luz tenue otros <strong>30 pies</strong> más allá.</p>"
             },
             "AW3qP6nJk45lOHe3": {
-              "name": "Vulnerabilidad al agua",
-              "description": "<p>Por cada <strong>5 pies.</strong> los movimientos elementales en el agua, o por cada galón de agua salpicada en él, se necesita<strong> 1 <em>Daño por frío</em>.</strong></p>"
+              "name": "Susceptibilidad al Agua",
+              "description": "<p>Por cada <strong>5 pies</strong> que el elemental recorra dentro del agua o por cada galón de agua que le salpiquen, sufre<strong> 1 de <em>daño de frío</em>.</strong></p>"
             },
             "fdt2FIirmBRCpRBm": {
               "name": "Toque",
-              "description": "<p>[[/attack extended]]. [[/damage extended]]. </p><p>Si el objetivo es una criatura o un objeto inflamable, se enciende. Hasta que una criatura toma una acción para apagar el fuego, el objetivo toma <strong>5 (1d10) <em>Daño por incendio</em></strong> al comienzo de cada uno de sus giros.</p>",
-              "descriptionChat": "<p>El Fuego Elemental ataca con su toque. Si el objetivo es una criatura o un objeto inflamable, se enciende. Hasta que una criatura toma una acción para apagar el fuego, el objetivo toma <em>Daño por incendio</em> al comienzo de cada uno de sus giros.</p>"
+              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>Si el objetivo es una criatura o un objeto inflamable, empieza a arder. Hasta que una criatura use una acción para apagar el fuego, el objetivo sufre <strong>5 (1d10) de <em>daño de fuego</em></strong> al comienzo de cada uno de sus turnos.</p>",
+              "descriptionChat": "<p>El elemental de fuego ataca con su toque. Si el objetivo es una criatura o un objeto inflamable, empieza a arder. Hasta que una criatura use una acción para apagar el fuego, el objetivo sufre <em>daño de fuego</em> al comienzo de cada uno de sus turnos.</p>"
             }
           },
           "name": "Elemental de fuego",
           "tokenName": "Elemental de fuego",
-          "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+          "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
         },
         "toaFireSnake0000": {
           "alignment": "Neutral malvado",
           "items": {
             "oFYfTqElj1vxWcai": {
               "name": "Ataque múltiple",
-              "description": "<p>La serpiente hace dos ataques: uno con su [[/item Bite]] y uno con su cola.</p>"
+              "description": "<p>La serpiente realiza dos ataques: uno con su [[/item Bite]] y otro con su cola.</p>"
             },
             "1etYbtDOdPWs2Val": {
               "name": "Mordisco",
@@ -2139,12 +2139,12 @@
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>"
             },
             "NmsrWfSA5jlRm7SD": {
-              "name": "Cuerpo calentado",
-              "description": "<p>Una criatura que toca a la serpiente o la golpea con un ataque cuerpo a cuerpo mientras que a menos de 5 pies de ella toma [[/damage average]] daño.</p>"
+              "name": "Cuerpo Abrasador",
+              "description": "<p>Una criatura que toque a la serpiente o la impacte con un ataque cuerpo a cuerpo estando a 5 pies o menos de ella sufre [[/damage average]] de daño.</p>"
             }
           },
           "name": "Serpiente de fuego",
-          "languages": "Entiende, pero no puede hablar",
+          "languages": "Entiende ígneo, pero no puede hablar",
           "tokenName": "Serpiente de fuego"
         },
         "Liyu5seJY0WL3Sf8": {
@@ -4005,27 +4005,27 @@
           "items": {
             "bl0mrJpx4dqL9Ub8": {
               "name": "Ataque múltiple",
-              "description": "<p>El acosador hace dos [[/item .rpKiEPQVeOZTLwjf]]{slam} ataques.</p>"
+              "description": "<p>El acechador realiza dos ataques de [[/item .rpKiEPQVeOZTLwjf]]{golpetazo}.</p>"
             },
             "rpKiEPQVeOZTLwjf": {
               "name": "Golpetazo",
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "descriptionChat": "<p>El Asaltante Invisible ataca con su Slam.</p>"
+              "descriptionChat": "<p>El acechador invisible ataca con su golpetazo.</p>"
             },
             "VdFnTF9MqUFF7KPQ": {
-              "name": "Rastreador sin fallas",
-              "description": "<p>El acosador recibe una cantera por su invocador. El acosador conoce la dirección y la distancia a su cantera siempre y cuando los dos estén en el mismo plano de existencia. El acosador también conoce la ubicación de su invocador.</p>",
-              "descriptionChat": "<p>El acosador conoce la dirección y la distancia a su cantera siempre y cuando los dos estén en el mismo plano de existencia. </p>"
+              "name": "Rastreador Infalible",
+              "description": "<p>Quien invoca al acechador le asigna una presa. El acechador conoce la dirección y la distancia a su presa mientras ambos se encuentren en el mismo plano de existencia. También conoce la ubicación de quien lo invocó.</p>",
+              "descriptionChat": "<p>El acechador conoce la dirección y la distancia a su presa mientras ambos se encuentren en el mismo plano de existencia.</p>"
             },
             "UR2TYdvh0VZzLKyO": {
               "name": "Invisibilidad",
-              "description": "<p>El acosador es invisible.</p>"
+              "description": "<p>El acechador es invisible.</p>"
             }
           },
           "name": "Acechador invisible",
-          "languages": "entiende común pero no lo habla",
+          "languages": "Entiende común, pero no lo habla",
           "tokenName": "Acechador invisible",
-          "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+          "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
         },
         "WlOybkbZ3B6Orhj6": {
           "alignment": "Sin alineamiento",
@@ -4722,30 +4722,30 @@
         },
         "UAlfYK0sCi3QuIaP": {
           "alignment": "Caótico neutral",
-          "name": "Magmín",
-          "tokenName": "Magmín",
-          "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
+          "name": "Magmin",
+          "tokenName": "Magmin",
+          "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
           "items": {
             "0xdLfPJEHYwh8MIT": {
               "name": "Estallido mortal",
-              "description": "<p>Cuando la magmina muere, explota en un estallido de fuego y magma. </p><p>Cada criatura dentro de 10 pies de ella debe hacer un  <strong>CD 11 Dexteridad</strong> ahorro lanzamiento, toma <strong>7 (2d6) <em>Daño por incendio</em></strong> en un error de ahorro, o la mitad de daño en uno exitoso. Los objetos inflamables que no están siendo usados o transportados en esa área son encendidos.</p>",
-              "descriptionChat": "<p>Cuando la magmina muere, explota en un estallido de fuego y magma. Cada criatura dentro de 10 pies de ella debe hacer un <strong>Destreza</strong> El lanzamiento de ahorro. Los objetos inflamables que no están siendo usados o transportados en esa área son encendidos.</p>",
+              "description": "<p>Cuando el magmin muere, explota en una descarga de fuego y magma.</p><p>Cada criatura a 10 pies o menos debe realizar una tirada de salvación de <strong>Destreza CD 11</strong>. Sufre <strong>7 (2d6) de <em>daño de fuego</em></strong> si falla o la mitad si tiene éxito. Los objetos inflamables de la zona que nadie lleve ni vista empiezan a arder.</p>",
+              "descriptionChat": "<p>Cuando el magmin muere, explota en una descarga de fuego y magma. Cada criatura a 10 pies o menos debe realizar una tirada de salvación de <strong>Destreza</strong>. Los objetos inflamables de la zona que nadie lleve ni vista empiezan a arder.</p>",
               "activities": {
                 "dnd5eactivity000": {
                   "activation": {
-                    "condition": "muerte"
+                    "condition": "Al morir"
                   }
                 }
               }
             },
             "rlA41r2MlaqmVjvf": {
-              "name": "Iluminación ígnea",
-              "description": "<p>Como una acción adicional, la magmina puede encenderse o extinguir sus llamas. Mientras se enciende, la magmina arroja luz brillante en un <strong>Radio de 10 pies</strong> y tenue luz para un adicional <strong>10 pies.</strong></p>"
+              "name": "Iluminación Flamígera",
+              "description": "<p>Como acción adicional, el magmin puede prenderse fuego o apagar sus llamas. Mientras arde, emite luz brillante en un <strong>radio de 10 pies</strong> y luz tenue otros <strong>10 pies</strong> más allá.</p>"
             },
             "th3hfRWQ3PT9f3Gs": {
               "name": "Toque",
-              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>Si el objetivo es una criatura o un objeto inflamable, se enciende. Hasta que una criatura toma una acción para apagar el fuego, el objetivo toma [[/damage average activity=Tv2pWtjFLchLGbMd]] daños al final de cada uno de sus giros.</p>",
-              "descriptionChat": "<p>Los Magmin atacan con su toque. Si el objetivo es una criatura o un objeto inflamable, se enciende. Hasta que un objetivo toma una acción para apagar el fuego, el objetivo toma <strong>3 (1d6) <em>Daño por incendio</em></strong> al final de cada uno de sus giros.</p>"
+              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>Si el objetivo es una criatura o un objeto inflamable, empieza a arder. Hasta que una criatura use una acción para apagar el fuego, el objetivo sufre [[/damage average activity=Tv2pWtjFLchLGbMd]] de daño al final de cada uno de sus turnos.</p>",
+              "descriptionChat": "<p>El magmin ataca con su toque. Si el objetivo es una criatura o un objeto inflamable, empieza a arder. Hasta que un objetivo use una acción para apagar el fuego, el objetivo sufre <strong>3 (1d6) de <em>daño de fuego</em></strong> al final de cada uno de sus turnos.</p>"
             }
           }
         },
@@ -5795,43 +5795,43 @@
           "items": {
             "H9TCRB3zfkFwk192": {
               "name": "Ataque múltiple",
-              "description": "<p>La salamandra hace dos ataques: uno con su [[/item .SKwOsrThcwqMXCZv]]{lanza} y uno con su [[/item .rvRy41yt9zowrAr1]]{cola}.</p>"
+              "description": "<p>La salamandra realiza dos ataques: uno con su [[/item .SKwOsrThcwqMXCZv]]{lanza} y otro con su [[/item .rvRy41yt9zowrAr1]]{cola}.</p>"
             },
             "rvRy41yt9zowrAr1": {
               "name": "Cola",
-              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo es &amp;Reference[grappled apply=false]{forcejeado} (escape CD 14). Hasta que termine esta pelea, el objetivo es &amp;Reference[restrained apply=false]{restringidos}, la salamandra puede golpear automáticamente el objetivo con su cola, y la salamandra no puede hacer ataques de cola contra otros objetivos.</p>",
-              "descriptionChat": "<p>La Salamandra ataca con su cola. El objetivo está enfrentado. Hasta que termine este garfio, el objetivo está restringido, la salamandra puede golpear automáticamente el objetivo con su cola, y la salamandra no puede hacer ataques de cola contra otros objetivos.</p>",
+              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo está &amp;Reference[grappled apply=false]{agarrado} (CD 14 para escapar). Hasta que termine el agarre, el objetivo está &amp;Reference[restrained apply=false]{apresado}, la salamandra puede impactarlo automáticamente con su cola y no puede realizar ataques de cola contra otros objetivos.</p>",
+              "descriptionChat": "<p>La salamandra ataca con su cola. El objetivo está agarrado. Hasta que termine el agarre, el objetivo está apresado, la salamandra puede impactarlo automáticamente con su cola y no puede realizar ataques de cola contra otros objetivos.</p>",
               "activities": {
                 "exilMXlAmhgwLkUd": {
-                  "name": "Comprobación de escape"
+                  "name": "Prueba para escapar"
                 }
               },
               "effects": {
                 "5Cylj8db7cl7UOJ7": {
-                  "name": "Atrapado y expulsado",
-                  "description": "<p>El objetivo es &amp;Reference[grappled apply=false]{forcejeado} (escape CD 14). Hasta que termine esta pelea, el objetivo es &amp;Reference[restrained apply=false]{restringidos}.</p>"
+                  "name": "Agarrado y apresado",
+                  "description": "<p>El objetivo está &amp;Reference[grappled apply=false]{agarrado} (CD 14 para escapar). Hasta que termine el agarre, el objetivo está &amp;Reference[restrained apply=false]{apresado}.</p>"
                 }
               }
             },
             "SKwOsrThcwqMXCZv": {
               "name": "Lanza",
-              "description": "<p>[[/attack extended]]. [[/damage extended]] o [[/damage average attackMode=twoHanded]] si se usa con dos manos para hacer un ataque cuerpo a cuerpo.</p>",
-              "descriptionChat": "<p>La Salamandra ataca con su lanza.</p>"
+              "description": "<p>[[/attack extended]]. [[/damage extended]] o [[/damage average attackMode=twoHanded]] si se usa a dos manos para realizar un ataque cuerpo a cuerpo.</p>",
+              "descriptionChat": "<p>La salamandra ataca con su lanza.</p>"
             },
             "2n8ByeQNl7QkjNVA": {
-              "name": "Cuerpo calentado",
-              "description": "<p>Una criatura que toca la salamandra o la golpea con un ataque cuerpo a cuerpo mientras que a menos de 5 pies de ella toma [[/damage average]].</p>",
-              "descriptionChat": "<p>Una criatura que toca la salamandra o la golpea con un ataque cuerpo a cuerpo mientras que a menos de 5 pies de ella toma <em>Daño por incendio</em>.</p>"
+              "name": "Cuerpo Abrasador",
+              "description": "<p>Una criatura que toque a la salamandra o la impacte con un ataque cuerpo a cuerpo estando a 5 pies o menos de ella sufre [[/damage average]].</p>",
+              "descriptionChat": "<p>Una criatura que toque a la salamandra o la impacte con un ataque cuerpo a cuerpo estando a 5 pies o menos de ella sufre <em>daño de fuego</em>.</p>"
             },
             "2y0o9wGzCVoBBuDZ": {
-              "name": "Armas calentadas",
-              "description": "<p>Cualquier arma de metal que la salamandra empuña reparte un extra 3 (1d6) <em>Daño por incendio</em> en un golpe (incluido en el ataque).</p>",
-              "descriptionChat": "<p>Cualquier arma de metal que la salamandra empuña, ofrece un extra. <em>Daño por incendio</em> en un golpe (incluido en el ataque).</p>"
+              "name": "Armas Abrasadoras",
+              "description": "<p>Cualquier arma cuerpo a cuerpo de metal que empuñe la salamandra inflige 3 (1d6) de <em>daño de fuego</em> adicional al impactar (incluido en el ataque).</p>",
+              "descriptionChat": "<p>Cualquier arma cuerpo a cuerpo de metal que empuñe la salamandra inflige <em>daño de fuego</em> adicional al impactar (incluido en el ataque).</p>"
             }
           },
           "name": "Salamandra",
           "tokenName": "Salamandra",
-          "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+          "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
         },
         "bPe2QK232n7wPsZz": {
           "items": {
