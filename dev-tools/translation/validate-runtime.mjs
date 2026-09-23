@@ -8,7 +8,7 @@ const json = async path => {
   return response.json();
 };
 
-export async function validateRuntime({importPilot = false} = {}) {
+export async function validateRuntime({importPilot = false, freshMappings = false, persist = true} = {}) {
   if (!game.user.isGM || !game.babele) throw new Error("A GM session with Babele is required.");
   const {MappedCompendium} = await import("/modules/babele/script/compendium/mapped-compendium.js");
   const {DocumentMappings} = await import("/modules/babele/script/mapping/document-mappings.js");
@@ -21,6 +21,8 @@ export async function validateRuntime({importPilot = false} = {}) {
   });
   const report = {date:new Date().toISOString(), foundry:game.version, system:game.system.version,
     babele:game.modules.get("babele").version, activeSession:!!game.modules.get(MODULE)?.active,
+    translationMode:freshMappings || !game.modules.get(MODULE)?.active ? "fresh-mappings" : "active-session",
+    snapshotsSaved:persist,
     checks:[], errors:[], imports:[]};
   const pilot = [];
   for (const name of PACKS) {
@@ -33,7 +35,7 @@ export async function validateRuntime({importPilot = false} = {}) {
     const rawDocuments = [];
     for (const original of source.documents) {
       try {
-        const translated = report.activeSession ? game.babele.translate(collection, original) : mapped.translate(original);
+        const translated = report.activeSession && !freshMappings ? game.babele.translate(collection, original) : mapped.translate(original);
         rawDocuments.push(foundry.utils.deepClone(translated));
         if (translated.name !== translation.entries[original._id].name) throw new Error("Root name was not translated");
         // Construct documents through Foundry's real schema without saving them.
@@ -51,8 +53,10 @@ export async function validateRuntime({importPilot = false} = {}) {
         }
       } catch (error) { report.errors.push({collection,id:original._id,error:error.message}); }
     }
-    await write(`${collection}.validated.json`, {collection, documents});
-    await write(`${collection}.translated.json`, {collection, documents:rawDocuments});
+    if (persist) {
+      await write(`${collection}.validated.json`, {collection, documents});
+      await write(`${collection}.translated.json`, {collection, documents:rawDocuments});
+    }
   }
   if (importPilot) {
     if (!report.activeSession) throw new Error("Activate the translation before importing the pilot.");
@@ -76,7 +80,7 @@ export async function validateRuntime({importPilot = false} = {}) {
       report.imports.push({type,id:imported.id,name:imported.name,sourceId});
     }
   }
-  await write("toa-runtime-validation.json", report);
+  if (persist) await write("toa-runtime-validation.json", report);
   ui.notifications.info(`ToA: ${report.checks.length} documentos validados; ${report.errors.length} errores.`);
   return report;
 }
