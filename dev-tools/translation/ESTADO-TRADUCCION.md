@@ -4,7 +4,7 @@ Actualizado: 23 de septiembre de 2026.
 
 ## Estado actual
 
-**Revisión textual cerrada; validación funcional integral pendiente.**
+**Revisión textual cerrada e informe v2 entregado; validación funcional integral pendiente.**
 No se considera una versión final lista para publicar.
 
 ### Última sesión de validación
@@ -25,8 +25,15 @@ No se considera una versión final lista para publicar.
   sin diferencias, 47 imágenes cargadas y ocho destinos UUID corregidos
   resueltos. No fue necesario reparar nombres después de importar. Evidencia
   en [IMPORTACION-LIMPIA.md](IMPORTACION-LIMPIA.md).
-- El informe v2 sigue en preparación. Los límites funcionales/gráficos
-  documentados no se consideran corregidos por superar la importación.
+- Completada la comprobación adicional de enlaces y anclas: 1.339 destinos
+  absolutos resueltos; corregidos cinco destinos de `book` y 20 saltos a
+  secciones. Auditoría final: 2.784 referencias locales y 1.880 comandos de
+  objeto resueltos, cero regresiones. Tras actualizar 39 campos del mundo de
+  pruebas, 11.377 comprobaciones sin diferencias. Véase
+  [VALIDACION-ENLACES-RUNTIME.md](VALIDACION-ENLACES-RUNTIME.md).
+- Entregado [INFORME-REVISION-V2.md](INFORME-REVISION-V2.md). Los límites
+  funcionales/gráficos documentados siguen abiertos y no se consideran
+  corregidos por superar la importación.
 
 Los apartados de lotes posteriores conservan el historial de resultados; las
 cifras anteriores de enlaces e imágenes quedan sustituidas por este bloque.
