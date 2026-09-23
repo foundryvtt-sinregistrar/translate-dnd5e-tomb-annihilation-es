@@ -894,14 +894,25 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   Lanzamiento de Conjuros insertado quedan pendientes de revisión propia.
 - Auditorías técnica y editorial sin errores.
 
+### ch5-level3-halls-01 a ch5-level3-halls-07 — Primeros pasillos del nivel 3
+
+- Revisados siete textos y títulos con referencias físicas 147-148.
+- Conservados el orden invertido de las figuras y armas de los dos pasillos,
+  las posiciones de los ojos y el efecto de la cortina incluso al superar la salvación.
+- Aclarado que la máscara muestra el pasado y se reinicia al apartar todos la vista.
+- Cerrado correctamente el rótulo de zona 31A, que incluía el paréntesis del
+  texto exterior. El moho solo responde con un rayo al destruir una mancha,
+  según el export, no ante cualquier daño como sugiere el PDF.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 524 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 531 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4 y cuarenta y cinco del capítulo 5. No equivale a 524 páginas del PDF.
-- 1158 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1158 campos distintos.
+  del capítulo 4 y cincuenta y dos del capítulo 5. No equivale a 531 páginas del PDF.
+- 1172 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1172 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
