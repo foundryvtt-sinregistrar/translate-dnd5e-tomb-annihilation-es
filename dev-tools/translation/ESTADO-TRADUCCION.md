@@ -2148,18 +2148,30 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   Geas descritos en el diario de Orolunga. No se insertan párrafos ausentes
   de la ficha; el contenido permanece en el diario ya revisado.
 
+### appendix-d-forts — PNJ de Fuerte Beluarian y Campamento Venganza
+
+- Revisados 308 campos de Ord Firebeard, Lorsa Bilwatal, Perne Salhana,
+  Hermana Cyas, Korhie Donadrue, Shilau M’wenye y Thaeven el Calvo:
+  siete páginas y ambas copias de los actores. Referencias físicas 49 y 63–64;
+  los perfiles se contrastan con el exportado inglés.
+- Ord, Lorsa, Perne y Cyas tienen la biografía vacía en el original.
+  Solo se añaden tres biografías al recuento, aunque se revisan siete fichas.
+- Corregidas las concordancias de los mensajes de chat y preservados los
+  estilos del texto exportado. Revisadas la armadura de bandas, la condición
+  del ataque adicional con espada corta y las capacidades de los sacerdotes.
+
 ## Balance de revisión editorial
 
-- 848 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 855 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 243 de los apéndices A, B, C, D y F.
-  No equivale a 848 páginas del PDF.
-- 7861 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 7861 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 250 de los apéndices A, B, C, D y F.
+  No equivale a 855 páginas del PDF.
+- 8169 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 8169 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas ciento una biografías en ambas copias de actores: siete
-  príncipes y noventa y cuatro criaturas o PNJ del apéndice D. Siguen pendientes las demás
+  insertado. Revisadas ciento cuatro biografías en ambas copias de actores: siete
+  príncipes y noventa y siete criaturas o PNJ del apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las

@@ -10756,7 +10756,7 @@
           "items": {
             "NAmhPf8w89iV8CsY": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] Hace dos. [[/item Shortsword]] ataques.</p>"
+              "description": "<p>[[lookup @name]] realiza dos ataques con [[/item Shortsword]]{espada corta}.</p>"
             },
             "BhYnUUBoU3ESkl1B": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
@@ -10765,23 +10765,23 @@
             },
             "q6pfCQyaPQSw2waZ": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-              "name": "Ballesa de mano",
-              "descriptionChat": "<p>El espía ataca con su ballesta de manos.</p>"
+              "name": "Ballesta de mano",
+              "descriptionChat": "<p>El espía ataca con su ballesta de mano.</p>"
             },
             "93TfWPoMzBoaneMx": {
-              "name": "Acción astuta",
-              "description": "<p>En cada uno de sus giros, [[lookup @name]] puede utilizar una acción adicional para tomar la &amp;Reference[dash], &amp;Reference[disengage]o bien &amp;Reference[hide] acción.</p>"
+              "name": "Acción Astuta",
+              "description": "<p>En cada uno de sus turnos, [[lookup @name]] puede usar una acción adicional para realizar la acción &amp;Reference[dash]{Correr}, &amp;Reference[disengage]{Destrabarse} u &amp;Reference[hide]{Ocultarse}.</p>"
             },
             "TEgU7pKAAA0f35Yw": {
-              "name": "Ataque furtivo",
-              "description": "<p>[[lookup @name]] reparte un extra [[/damage average]] cuando golpea un objetivo con un ataque de arma y tiene ventaja en el rollo de ataque, o cuando el objetivo está a menos de 5 pies de un aliado de la [[lookup @name lowercase]] que no está incapacitado y el [[lookup @name lowercase]] no tiene desventaja en el ataque.</p>"
+              "name": "Ataque Furtivo",
+              "description": "<p>[[lookup @name]] causa [[/damage average]] adicionales cuando impacta a un objetivo con un ataque con arma y tiene ventaja en la tirada de ataque, o cuando el objetivo está a 5 pies o menos de un aliado de [[lookup @name lowercase]] que no esté incapacitado y [[lookup @name lowercase]] no tiene desventaja en la tirada de ataque.</p>"
             }
           },
           "name": "Korhie Donadrue",
-          "creatureSubtype": "Chondathan Espía Humana",
-          "languages": "dos cualquiera",
+          "creatureSubtype": "Espía humano chondathano",
+          "languages": "Dos idiomas cualesquiera",
           "tokenName": "Korhie Donadrue",
-          "biography": "<p>Korhie Donadrue (LG macho Chondathan humano) <strong>espía</strong>) es el principal armero del fuerte. Después de haber pasado años como aventurero antes de convertirse en herrero, le gusta tener aventureros y exploradores pasan tiempo en su área de trabajo, intercambiando historias y compartiendo noticias del mundo.</p>"
+          "biography": "<p>Korhie Donadrue, un <strong>espía</strong> humano chondathano LB, es el armero jefe del fuerte. Pasó años como aventurero antes de hacerse herrero y disfruta de la compañía de aventureros y exploradores en su taller, donde intercambian historias y noticias del mundo.</p>"
         },
         "toaKrrook0000000": {
           "alignment": "Legal malvado",
@@ -11007,29 +11007,29 @@
           "items": {
             "YO57HtdvpuGxJANB": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] Hace dos. [[/item Shortsword]] ataques o dos [[/item Longbow]] ataques.</p>"
+              "description": "<p>[[lookup @name]] realiza dos ataques con [[/item Shortsword]]{espada corta} o dos ataques con [[/item Longbow]]{arco largo}.</p>"
             },
             "YDoOa6D6QDoR2Htu": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
               "name": "Espada corta",
-              "descriptionChat": "<p>El Scout ataca con su espada corta.</p>"
+              "descriptionChat": "<p>La batidora ataca con su espada corta.</p>"
             },
             "E2fYrhLigMeVH09l": {
               "name": "Arco largo",
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-              "descriptionChat": "<p>El Scout ataca con su Longbow.</p>"
+              "descriptionChat": "<p>La batidora ataca con su arco largo.</p>"
             },
             "qnFVVlRzucX7BNga": {
               "name": "Armadura de cuero",
-              "description": "<p>La coraza y los protectores de hombro de esta armadura están hechos de cuero que ha sido endurecido por ser hervido en aceite. El resto de la armadura está hecha de materiales más suaves y flexibles.</p>"
+              "description": "<p>El peto y las hombreras de esta armadura están hechos de cuero endurecido al hervirlo en aceite. El resto de la armadura se fabrica con materiales más blandos y flexibles.</p>"
             },
             "PQGwUNCJ7EkJAE8V": {
-              "name": "Audición y vista de Keen",
-              "description": "<p>[[lookup @name]] tiene ventaja en la Sabiduría (percepción) controles que dependen de la audición o la vista.</p>"
+              "name": "Oído y Vista Agudos",
+              "description": "<p>[[lookup @name]] tiene ventaja en las pruebas de Sabiduría (Percepción) que dependan del oído o la vista.</p>"
             }
           },
           "name": "Lorsa Bilwatal",
-          "creatureSubtype": "Chultán Humano",
+          "creatureSubtype": "Humano chultano",
           "tokenName": "Lorsa Bilwatal"
         },
         "iFXjzcyFi14cpnRs": {
@@ -11508,12 +11508,12 @@
           "items": {
             "WaEunPCFG0EddNTt": {
               "name": "Espada larga",
-              "description": "<p>[[/attack extended]]. [[/damage extended average]] o [[/damage twoHanded average]] si se usa con dos manos.</p>",
-              "descriptionChat": "<p>Los veteranos atacan con su Longsword.</p>"
+              "description": "<p>[[/attack extended]]. [[/damage extended average]] o [[/damage twoHanded average]] si se empuña a dos manos.</p>",
+              "descriptionChat": "<p>El veterano ataca con su espada larga.</p>"
             },
             "wziRdUn3HafZKJ8o": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] Hace dos. [[/item Longsword]] ataques. Si tiene una breve palabra dibujada, también puede hacer un [[/item Shortsword]] ataque.</p>"
+              "description": "<p>[[lookup @name]] realiza dos ataques con [[/item Longsword]]{espada larga}. Si tiene desenvainada una espada corta, también puede realizar un ataque con [[/item Shortsword]]{espada corta}.</p>"
             },
             "cXf5q5xw30ICGxZg": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
@@ -11526,13 +11526,13 @@
               "descriptionChat": "<p>El veterano ataca con su ballesta pesada.</p>"
             },
             "0otc04A190Q8hTBK": {
-              "name": "Armadura de férula",
-              "description": "<p>Esta armadura está hecha de tiras verticales estrechas de metal remachado a un respaldo de cuero que se lleva sobre el acolchado de tela. La malla flexible protege las articulaciones.</p>"
+              "name": "Armadura de bandas",
+              "description": "<p>Esta armadura está hecha de estrechas tiras verticales de metal remachadas sobre una base de cuero que se lleva encima de un acolchado de tela. Una malla flexible protege las articulaciones.</p>"
             }
           },
-          "name": "Barba de fuego",
+          "name": "Ord Firebeard",
           "creatureSubtype": "Enano",
-          "tokenName": "Barba de fuego"
+          "tokenName": "Ord Firebeard"
         },
         "toaOrtimaySwift0": {
           "alignment": "Caótico bueno",
@@ -11764,30 +11764,30 @@
           "items": {
             "WaEunPCFG0EddNTt": {
               "name": "Espada larga",
-              "description": "<p>[[/attack extended]]. [[/damage extended average]] o [[/damage twoHanded average]] si se usa con dos manos.</p>",
-              "descriptionChat": "<p>Los veteranos atacan con su Longsword.</p>"
+              "description": "<p>[[/attack extended]]. [[/damage extended average]] o [[/damage twoHanded average]] si se empuña a dos manos.</p>",
+              "descriptionChat": "<p>La veterana ataca con su espada larga.</p>"
             },
             "wziRdUn3HafZKJ8o": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] Hace dos. [[/item Longsword]] ataques. Si tiene una breve palabra dibujada, también puede hacer un [[/item Shortsword]] ataque.</p>"
+              "description": "<p>[[lookup @name]] realiza dos ataques con [[/item Longsword]]{espada larga}. Si tiene desenvainada una espada corta, también puede realizar un ataque con [[/item Shortsword]]{espada corta}.</p>"
             },
             "cXf5q5xw30ICGxZg": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
               "name": "Espada corta",
-              "descriptionChat": "<p>El veterano ataca con su espada corta.</p>"
+              "descriptionChat": "<p>La veterana ataca con su espada corta.</p>"
             },
             "6jQ7YUixkwBq2Fh8": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
               "name": "Ballesta pesada",
-              "descriptionChat": "<p>El veterano ataca con su ballesta pesada.</p>"
+              "descriptionChat": "<p>La veterana ataca con su ballesta pesada.</p>"
             },
             "0otc04A190Q8hTBK": {
-              "name": "Armadura de férula",
-              "description": "<p>Esta armadura está hecha de tiras verticales estrechas de metal remachado a un respaldo de cuero que se lleva sobre el acolchado de tela. La malla flexible protege las articulaciones.</p>"
+              "name": "Armadura de bandas",
+              "description": "<p>Esta armadura está hecha de estrechas tiras verticales de metal remachadas sobre una base de cuero que se lleva encima de un acolchado de tela. Una malla flexible protege las articulaciones.</p>"
             }
           },
           "name": "Perne Salhana",
-          "creatureSubtype": "Tetiriano Humano",
+          "creatureSubtype": "Humano tethyriano",
           "tokenName": "Perne Salhana"
         },
         "toaGrabstab00000": {
@@ -12306,69 +12306,69 @@
           "alignment": "Legal neutral",
           "items": {
             "J12x6xIwx1aCEm1e": {
-              "name": "Lanzamiento de conjuros",
-              "description": "<p>[[lookup @name]] es un hechicero de 5o nivel. Su habilidad de conjuro es Sabiduría (salva CD 13, +5 para golpear con ataques de conjuro). Tiene los siguientes conjuros clérigos preparados:</p><p>Cantrip (a voluntad): [[/item .Bnn9Nzajixvow9xi]]{luz}, [[/item .n9pJzTDsAwQxJVRl]]{llama sagrada}, [[/item .MUO1uYN7JR1hm4dR]]{taumaturgia}</p><p>1er nivel (4 franjas horarias): [[/item .uUWb1wZgtMou0TVP]]{curar heridas}, [[/item .7buEm5KhI5lP8m1z]]{perno guía}, [[/item .gvdA9nPuWLck4tBl]]{santuario}</p><p>2o nivel (3 franjas horarias): [[/item .F0GsG0SJzsIOacwV]]{menor restauración}, [[/item .JbxsYXxSOTZbf9I0]]{arma espiritual}</p><p>3er nivel (2 franjas horarias): [[/item .15Fa6q1nH27XfbR8]]{disipar la magia}, [[/item .uCud2s4TjMfjiXUb]]{Espíritus guardianes}</p>"
+              "name": "Lanzamiento de Conjuros",
+              "description": "<p>[[lookup @name]] es un lanzador de conjuros de nivel 5. Su aptitud mágica es Sabiduría (salvación de conjuros CD 13, +5 a impactar con ataques de conjuro). Tiene preparados los siguientes conjuros de clérigo:</p><p>Trucos (a voluntad): [[/item .Bnn9Nzajixvow9xi]]{luz}, [[/item .n9pJzTDsAwQxJVRl]]{llama sagrada}, [[/item .MUO1uYN7JR1hm4dR]]{taumaturgia}</p><p>Nivel 1 (4 espacios): [[/item .uUWb1wZgtMou0TVP]]{curar heridas}, [[/item .7buEm5KhI5lP8m1z]]{saeta guía}, [[/item .gvdA9nPuWLck4tBl]]{santuario}</p><p>Nivel 2 (3 espacios): [[/item .F0GsG0SJzsIOacwV]]{restablecimiento menor}, [[/item .JbxsYXxSOTZbf9I0]]{arma espiritual}</p><p>Nivel 3 (2 espacios): [[/item .15Fa6q1nH27XfbR8]]{disipar magia}, [[/item .uCud2s4TjMfjiXUb]]{guardianes espirituales}</p>"
             },
             "B0jROhxuoqvfmz2B": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
               "name": "Maza",
-              "descriptionChat": "<p>El sacerdote ataca con su Mace.</p>"
+              "descriptionChat": "<p>El sacerdote ataca con su maza.</p>"
             },
             "bndaCEOeIP8RgbU1": {
-              "name": "Camisa de cadena",
-              "description": "<p>Hecho de anillos metálicos entrelazados, una camisa de cadena se usa entre capas de ropa o cuero. Esta armadura ofrece una protección modesta a la parte superior del cuerpo del usuario y permite que el sonido de los anillos frotarse unos contra otros para ser amortiguado por capas externas.</p>"
+              "name": "Camisa de malla",
+              "description": "<p>Una camisa de malla está hecha de anillas de metal entrelazadas y se lleva entre capas de ropa o cuero. Esta armadura ofrece una protección modesta al torso y permite amortiguar el ruido del roce de las anillas con las capas exteriores.</p>"
             },
             "9LzZrzdWIZpjFIGV": {
               "name": "Eminencia Divina",
-              "description": "<p>Como una acción extra, [[lookup @name]] puede gastar un conjuro ranura para causar sus ataques de arma cuerpo a cuerpo para mágicamente un trato extra [[/damage average]] a un objetivo en un golpe.</p><p>Este beneficio dura hasta el final del turno. Si [[lookup @name]] gasta una espacio de conjuro de 2o nivel o superior, el daño adicional aumenta en 1d6 para cada nivel por encima de 1o.</p><section class=\"secret\" id=\"secret-GXSrZziRH0MEiHxH\"><p><strong>Nota de Foundry</strong></p><p>El escalado está configurado para ajustar el daño en función del nivel de la espacio de conjuro utilizada. Una escala de 1 representa el daño base, mientras que una escala de 3 indica que se ha gastado una espacio de conjuros de 3er nivel.</p></section>",
-              "descriptionChat": "<p>Como una acción adicional, el sacerdote puede gastar una espacio de conjuro para causar sus ataques de arma cuerpo a cuerpo para negociar mágicamente un extra <em>daño radiante</em> a un objetivo en un golpe.</p>"
+              "description": "<p>Como acción adicional, [[lookup @name]] puede gastar un espacio de conjuro para que sus ataques con arma cuerpo a cuerpo causen mágicamente [[/damage average]] adicionales al impactar a un objetivo.</p><p>Este beneficio dura hasta el final del turno. Si [[lookup @name]] gasta un espacio de conjuro de nivel 2 o superior, el daño adicional aumenta en 1d6 por cada nivel por encima de 1.</p><section class=\"secret\" id=\"secret-GXSrZziRH0MEiHxH\"><p><strong>Nota de Foundry</strong></p><p>El escalado está configurado para ajustar el daño según el nivel del espacio de conjuro utilizado. Un valor de 1 representa el daño base, mientras que un valor de 3 indica que se ha gastado un espacio de conjuro de nivel 3.</p></section>",
+              "descriptionChat": "<p>Como acción adicional, el sacerdote puede gastar un espacio de conjuro para que sus ataques con arma cuerpo a cuerpo causen mágicamente <em>daño radiante</em> adicional al impactar a un objetivo.</p>"
             },
             "n9pJzTDsAwQxJVRl": {
               "name": "Llama sagrada",
-              "description": "<p>El resplandor parecido a una llama desciende sobre una criatura que se puede ver dentro de su alcance. El objetivo debe tener éxito en un lanzamiento de ahorro de Dexterity o tomar 1d8 daño radiante. El objetivo no se beneficia de la cobertura de este lanzamiento de ahorro.</p><p>El daño del conjuro aumenta en 1d8 cuando alcanzas el 5o nivel (2d8), 11o nivel (3d8), y 17o nivel (4d8).</p>"
+              "description": "<p>Un resplandor parecido a una llama desciende sobre una criatura que puedas ver dentro del alcance. El objetivo debe superar una tirada de salvación de Destreza o sufrir 1d8 de daño radiante. No obtiene ningún beneficio de la cobertura para esta salvación.</p><p>El daño del conjuro aumenta en 1d8 cuando alcanzas el nivel 5 (2d8), el nivel 11 (3d8) y el nivel 17 (4d8).</p>"
             },
             "MUO1uYN7JR1hm4dR": {
               "name": "Taumaturgia",
-              "description": "<p>Usted crea uno de los siguientes efectos mágicos dentro del rango:</p>\n<ul>\n<li>Tu voz suena hasta tres veces más fuerte que lo normal durante 1 minuto.</li>\n<li>Haces que las llamas parpadean, se iluminan, se oscurecen o cambien de color durante 1 minuto.</li>\n<li>Causas temblores inofensivos en el suelo durante 1 minuto.</li>\n<li>Usted crea un sonido que se origina desde un punto de su elección dentro del rango.</li>\n<li>Haces que una puerta o ventana abierta se abra o cierre de golpe.</li>\n<li>Alteras la apariencia de tus ojos durante 1 minuto.</li>\n</ul>\n<p>Si lanzas este conjuro varias veces, puedes tener hasta tres de sus efectos de 1 minuto activos a la vez, y puedes descartar tal efecto como una acción.</p>"
+              "description": "<p>Creas uno de los siguientes efectos mágicos dentro del alcance:</p><ul><li>Tu voz resuena con hasta tres veces su volumen normal durante 1 minuto.</li><li>Haces que unas llamas parpadeen, aumenten o reduzcan su brillo o cambien de color durante 1 minuto.</li><li>Provocas temblores inofensivos en el suelo durante 1 minuto.</li><li>Creas un sonido que se origina en un punto que elijas dentro del alcance.</li><li>Haces que una puerta o ventana sin cerrar con llave se abra de golpe o se cierre de un portazo.</li><li>Alteras el aspecto de tus ojos durante 1 minuto.</li></ul><p>Si lanzas este conjuro varias veces, puedes tener activos hasta tres de sus efectos de 1 minuto a la vez, y puedes disipar uno de ellos como acción.</p>"
             },
             "7buEm5KhI5lP8m1z": {
-              "name": "Tornillo guía",
-              "description": "<p>Un destello de luz se dirige hacia una criatura de su elección dentro del rango. Hacer un ataque de conjuros de alcance contra el objetivo. En un golpe, el objetivo recibe 4d6 daño radiante, y el siguiente rollo de ataque hecho contra este objetivo antes de que el final de su próximo turno tiene ventaja, gracias a la luz tenue mística brillando en el objetivo hasta entonces.</p><p><strong>Niveles superiores.</strong> Cuando lanzas este conjuro usando una espacio de conjuro de 2o nivel o superior, el daño aumenta en 1d6 por cada nivel de ranura por encima de 1o.</p>"
+              "name": "Saeta guía",
+              "description": "<p>Un destello de luz se dirige hacia una criatura que elijas dentro del alcance. Realiza un ataque de conjuro a distancia contra el objetivo. Si impactas, sufre 4d6 de daño radiante y la siguiente tirada de ataque contra él antes del final de tu siguiente turno tiene ventaja, gracias a la luz tenue mística que brilla sobre él hasta entonces.</p><p><strong>A niveles superiores.</strong> Si lanzas este conjuro usando un espacio de nivel 2 o superior, el daño aumenta en 1d6 por cada nivel del espacio por encima de 1.</p>"
             },
             "gvdA9nPuWLck4tBl": {
               "name": "Santuario",
-              "description": "<p>Usted protege a una criatura a su alcance contra el ataque. Hasta que termine el conjuro, cualquier criatura que apunte a la criatura custodiada con un ataque o un conjuro dañino primero debe hacer un lanzamiento de ahorro de Sabiduría. En un ahorro fallido, la criatura debe elegir un nuevo objetivo o perder el ataque o conjuro. Este conjuro no protege a la criatura protegida de los efectos del área, como la explosión de una bola de fuego.</p><p>Si la criatura custodiada hace un ataque o lanza un conjuro que afecta a una criatura enemiga, este conjuro termina.</p>"
+              "description": "<p>Proteges de los ataques a una criatura dentro del alcance. Hasta que termine el conjuro, cualquier criatura que elija a la criatura protegida como objetivo de un ataque o conjuro dañino debe realizar primero una tirada de salvación de Sabiduría. Si falla, debe elegir otro objetivo o perder el ataque o conjuro. Este conjuro no protege contra efectos de área, como la explosión de una bola de fuego.</p><p>Si la criatura protegida realiza un ataque o lanza un conjuro que afecte a una criatura enemiga, este conjuro termina.</p>"
             },
             "F0GsG0SJzsIOacwV": {
-              "name": "Restauración menor",
-              "description": "<p>Tocas a una criatura y puedes acabar con una enfermedad o con una condición que la aflija. La afección puede ser cegada, ensordecida, paralizada o envenenada.</p>"
+              "name": "Restablecimiento menor",
+              "description": "<p>Tocas a una criatura y puedes terminar una enfermedad o un estado que la afecte. El estado puede ser cegado, ensordecido, paralizado o envenenado.</p>"
             },
             "JbxsYXxSOTZbf9I0": {
               "name": "Arma espiritual",
-              "description": "<p>Creas un arma espectral flotante dentro del rango que dura la duración o hasta que vuelves a lanzar este conjuro. Cuando lances el conjuro, puedes hacer un ataque de conjuros contra una criatura a menos de 5 pies del arma. En un golpe, el objetivo recibe daño por fuerza igual a 1d8 + su modificador de capacidad de deletreado.</p><p>Como una acción adicional en su turno, usted puede mover el arma hasta 20 pies y repetir el ataque contra una criatura a menos de 5 pies de ella.</p><p>El arma puede tomar cualquier forma que elijas. Clérigos de deidades que están asociados con un arma en particular (como St. Cuthbert es conocido por su maza y Thor por su martillo) hacer que el efecto de este conjuro se parezca a esa arma.</p><p><strong>Niveles superiores.</strong> Cuando lanzas este conjuro usando una espacio de conjuro de 3er nivel o superior, el daño aumenta en 1d8 por cada dos niveles de ranura por encima del 2do.</p>"
+              "description": "<p>Creas un arma espectral flotante dentro del alcance, que permanece mientras dure el conjuro o hasta que lo vuelvas a lanzar. Al lanzarlo, puedes realizar un ataque de conjuro cuerpo a cuerpo contra una criatura a 5 pies o menos del arma. Si impactas, el objetivo sufre daño de fuerza igual a 1d8 + tu modificador por aptitud mágica.</p><p>Como acción adicional en tu turno, puedes mover el arma hasta 20 pies y repetir el ataque contra una criatura a 5 pies o menos de ella.</p><p>El arma puede tener la forma que elijas. Los clérigos de deidades asociadas con un arma concreta, como san Cuthbert con su maza o Thor con su martillo, hacen que el efecto del conjuro se parezca a esa arma.</p><p><strong>A niveles superiores.</strong> Si lanzas este conjuro usando un espacio de nivel 3 o superior, el daño aumenta en 1d8 por cada dos niveles del espacio por encima de 2.</p>"
             },
             "15Fa6q1nH27XfbR8": {
-              "name": "Difundir la magia",
-              "description": "<p>Elija una criatura, objeto o efecto mágico dentro del alcance. Cualquier conjuro de 3er nivel o inferior en los extremos del objetivo. Para cada conjuro de 4o nivel o superior en el objetivo, haz una comprobación de habilidad usando tu habilidad de deletrear. El CD es igual a 10 + el nivel del conjuro. En un cheque exitoso, el conjuro termina.</p><p><strong>Niveles superiores.</strong> Cuando lanzas este conjuro usando una espacio de conjuro de 4o nivel o superior, automáticamente terminas los efectos de un conjuro en el objetivo si el nivel del conjuro es igual o menor que el nivel de la espacio de conjuro que usaste.</p>"
+              "name": "Disipar magia",
+              "description": "<p>Elige una criatura, objeto o efecto mágico dentro del alcance. Todo conjuro de nivel 3 o inferior que afecte al objetivo termina. Por cada conjuro de nivel 4 o superior que lo afecte, realiza una prueba con tu aptitud mágica. La CD es 10 + el nivel del conjuro. Si tienes éxito, el conjuro termina.</p><p><strong>A niveles superiores.</strong> Si lanzas este conjuro usando un espacio de nivel 4 o superior, terminas automáticamente los efectos de un conjuro sobre el objetivo si su nivel es igual o inferior al del espacio utilizado.</p>"
             },
             "uCud2s4TjMfjiXUb": {
-              "name": "Guardianes de Espíritus",
-              "description": "<p>Llamas a los espíritus para protegerte. Volan alrededor de usted a una distancia de 15 pies durante la duración. Si usted es bueno o neutral, su forma espectral parece angelical o fey (su elección). Si eres malvado, parecen diabólicos.</p><p>Cuando lances este conjuro, puedes designar cualquier número de criaturas que puedas ver que no se ven afectadas por él. La velocidad de una criatura afectada se reduce a la mitad en el área, y cuando la criatura entra en el área por primera vez en un giro o comienza su turno allí, debe hacer un lanzamiento de ahorro de sabiduría. En una salvada fallida, la criatura recibe daño radiante 3d8 (si eres bueno o neutro) o daño necrótico 3d8 (si eres malo). En una salvada exitosa, la criatura recibe la mitad del daño.</p><p><strong>En los niveles superiores.</strong> Cuando lanzas este conjuro usando una espacio de conjuro de 4o nivel o superior, el daño aumenta en 1d8 por cada nivel de ranura por encima de 3o.</p>"
+              "name": "Guardianes espirituales",
+              "description": "<p>Invocas espíritus para que te protejan. Revolotean a tu alrededor hasta una distancia de 15 pies mientras dure el conjuro. Si eres bueno o neutral, sus formas espectrales tienen aspecto angelical o feérico, a tu elección. Si eres malvado, tienen aspecto infernal.</p><p>Al lanzar el conjuro, puedes designar cualquier número de criaturas que puedas ver para que no se vean afectadas. La velocidad de una criatura afectada se reduce a la mitad en el área. Cuando entra en ella por primera vez en un turno o empieza su turno allí, debe realizar una tirada de salvación de Sabiduría. Si falla, sufre 3d8 de daño radiante si eres bueno o neutral, o 3d8 de daño necrótico si eres malvado. Si tiene éxito, sufre la mitad del daño.</p><p><strong>A niveles superiores.</strong> Si lanzas este conjuro usando un espacio de nivel 4 o superior, el daño aumenta en 1d8 por cada nivel del espacio por encima de 3.</p>"
             },
             "Bnn9Nzajixvow9xi": {
               "name": "Luz",
-              "description": "<p>Tocas un objeto que no mide más de 10 pies en cualquier dimensión. Hasta que el conjuro termina, el objeto arroja luz brillante en un radio de 20 pies y luz tenue por otros 20 pies. La luz puede ser coloreada como quieras. Cubrir completamente el objeto con algo opaco bloquea la luz. El conjuro termina si lo lanzas de nuevo o lo descartas como una acción.</p><p>Si usted apunta a un objeto sostenido o usado por una criatura hostil, esa criatura debe tener éxito en un lanzamiento de ahorro de Dexterity para evitar el conjuro.</p>"
+              "description": "<p>Tocas un objeto que no mida más de 10 pies en ninguna dimensión. Hasta que termine el conjuro, el objeto emite luz brillante en un radio de 20 pies y luz tenue 20 pies más allá. La luz puede ser del color que elijas. Cubrir por completo el objeto con algo opaco bloquea la luz. El conjuro termina si vuelves a lanzarlo o lo disipas como acción.</p><p>Si eliges un objeto que una criatura hostil lleve puesto o sostenga, esa criatura debe superar una tirada de salvación de Destreza para evitar el conjuro.</p>"
             },
             "uUWb1wZgtMou0TVP": {
-              "name": "Heridas curativas",
-              "description": "<p>Una criatura que tocas recupera un número de puntos de impacto igual a 1d8 + tu modificador de habilidad de deletrear. Este conjuro no tiene ningún efecto en muertos vivientes o construcciones.</p><p><strong>Niveles superiores.</strong> Cuando usted lanza este conjuro usando una espacio de conjuro de 2o nivel o superior, la curación aumenta en 1d8 para cada nivel de ranura por encima de 1o.</p>"
+              "name": "Curar heridas",
+              "description": "<p>Una criatura a la que toques recupera tantos puntos de golpe como 1d8 + tu modificador por aptitud mágica. Este conjuro no tiene efecto sobre muertos vivientes ni autómatas.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro usando un espacio de nivel 2 o superior, la curación aumenta en 1d8 por cada nivel del espacio por encima de 1.</p>"
             }
           },
           "name": "Shilau M’wenye",
-          "creatureSubtype": "Sacerdote humano de Chultán",
-          "languages": "cualesquiera dos idiomas",
+          "creatureSubtype": "Sacerdote humano chultano",
+          "languages": "Dos idiomas cualesquiera",
           "tokenName": "Shilau M’wenye",
-          "biography": "<p><span style=\"font-family:'Roboto Condensed', sans-serif\">Shilau M’wenye (LN macho Chultán humano) </span><span style=\"font-family:'Roboto Condensed', sans-serif\"><strong style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:rgb(93, 20, 43) rgba(0, 0, 0, 0);color:rgb(25, 24, 19);font-family:'Roboto Condensed', sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(241, 235, 232);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\">sacerdote</strong></span>) está a cargo del Templo de Helm en Fort Beluarian y acepta donaciones. Su padre era un sacerdote chultán, y su madre era un mercenario de Shou destinado en Chultán. Siempre trata de ver lo mejor en otras personas sin juzgarlas.</p>"
+          "biography": "<p><span style=\"font-family:'Roboto Condensed', sans-serif\">Shilau M’wenye, un humano chultano LN (</span><span style=\"font-family:'Roboto Condensed', sans-serif\"><strong style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:rgb(93, 20, 43) rgba(0, 0, 0, 0);color:rgb(25, 24, 19);font-family:'Roboto Condensed', sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(241, 235, 232);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\">sacerdote</strong></span>) a cargo del templo de Yelmo en Fuerte Beluarian, acepta donaciones. Su padre era un sacerdote chultano y su madre una mercenaria shou destinada en Chult. Siempre intenta ver lo mejor de los demás sin juzgarlos.</p>"
         },
         "toaSigbeornDuneb": {
           "alignment": "Neutral bueno",
@@ -12407,66 +12407,66 @@
           "alignment": "Legal bueno",
           "items": {
             "J12x6xIwx1aCEm1e": {
-              "name": "Lanzamiento de conjuros",
-              "description": "<p>Los [[lookup @name lowercase]] es un hechicero de 5o nivel. Su habilidad de conjuro es Sabiduría (salva CD 13, +5 para golpear con ataques de conjuro). Los [[lookup @name lowercase]] tiene los siguientes conjuros clérigos preparados:</p><p>Cantrip (a voluntad): [[/item .Bnn9Nzajixvow9xi]]{luz}, [[/item .n9pJzTDsAwQxJVRl]]{llama sagrada}, [[/item .MUO1uYN7JR1hm4dR]]{taumaturgia}</p><p>1er nivel (4 franjas horarias): [[/item .uUWb1wZgtMou0TVP]]{curar heridas}, [[/item .7buEm5KhI5lP8m1z]]{perno guía}, [[/item .gvdA9nPuWLck4tBl]]{santuario}</p><p>2o nivel (3 franjas horarias): [[/item .F0GsG0SJzsIOacwV]]{menor restauración}, [[/item .JbxsYXxSOTZbf9I0]]{arma espiritual}</p><p>3er nivel (2 franjas horarias): [[/item .15Fa6q1nH27XfbR8]]{disipar la magia}, [[/item .uCud2s4TjMfjiXUb]]{Espíritus guardianes}</p>"
+              "name": "Lanzamiento de Conjuros",
+              "description": "<p>[[lookup @name lowercase]] es una lanzadora de conjuros de nivel 5. Su aptitud mágica es Sabiduría (salvación de conjuros CD 13, +5 a impactar con ataques de conjuro). [[lookup @name lowercase]] tiene preparados los siguientes conjuros de clérigo:</p><p>Trucos (a voluntad): [[/item .Bnn9Nzajixvow9xi]]{luz}, [[/item .n9pJzTDsAwQxJVRl]]{llama sagrada}, [[/item .MUO1uYN7JR1hm4dR]]{taumaturgia}</p><p>Nivel 1 (4 espacios): [[/item .uUWb1wZgtMou0TVP]]{curar heridas}, [[/item .7buEm5KhI5lP8m1z]]{saeta guía}, [[/item .gvdA9nPuWLck4tBl]]{santuario}</p><p>Nivel 2 (3 espacios): [[/item .F0GsG0SJzsIOacwV]]{restablecimiento menor}, [[/item .JbxsYXxSOTZbf9I0]]{arma espiritual}</p><p>Nivel 3 (2 espacios): [[/item .15Fa6q1nH27XfbR8]]{disipar magia}, [[/item .uCud2s4TjMfjiXUb]]{guardianes espirituales}</p>"
             },
             "B0jROhxuoqvfmz2B": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
               "name": "Maza",
-              "descriptionChat": "<p>El sacerdote ataca con su Mace.</p>"
+              "descriptionChat": "<p>La sacerdotisa ataca con su maza.</p>"
             },
             "bndaCEOeIP8RgbU1": {
-              "name": "Camisa de cadena",
-              "description": "<p>Hecho de anillos metálicos entrelazados, una camisa de cadena se usa entre capas de ropa o cuero. Esta armadura ofrece una protección modesta a la parte superior del cuerpo del usuario y permite que el sonido de los anillos frotarse unos contra otros para ser amortiguado por capas externas.</p>"
+              "name": "Camisa de malla",
+              "description": "<p>Una camisa de malla está hecha de anillas de metal entrelazadas y se lleva entre capas de ropa o cuero. Esta armadura ofrece una protección modesta al torso y permite amortiguar el ruido del roce de las anillas con las capas exteriores.</p>"
             },
             "9LzZrzdWIZpjFIGV": {
               "name": "Eminencia Divina",
-              "description": "<p>Como una acción adicional, la [[lookup @name lowercase]] puede gastar un conjuro ranura para causar sus ataques de arma cuerpo a cuerpo para mágicamente un trato extra [[/damage average]] a un objetivo en un golpe.</p><p>Este beneficio dura hasta el final del turno. Si la [[lookup @name lowercase]] gasta una espacio de conjuro de 2o nivel o superior, el daño adicional aumenta en 1d6 para cada nivel por encima de 1o.</p><section id=\"secret-GXSrZziRH0MEiHxH\" class=\"secret\"><p><strong>Nota de Foundry</strong></p><p>El escalado está configurado para ajustar el daño en función del nivel de la espacio de conjuro utilizada. Una escala de 1 representa el daño base, mientras que una escala de 3 indica que se ha gastado una espacio de conjuros de 3er nivel.</p></section>",
-              "descriptionChat": "<p>Como una acción adicional, el sacerdote puede gastar una espacio de conjuro para causar sus ataques de arma cuerpo a cuerpo para negociar mágicamente un extra <em>daño radiante</em> a un objetivo en un golpe.</p>"
+              "description": "<p>Como acción adicional, [[lookup @name lowercase]] puede gastar un espacio de conjuro para que sus ataques con arma cuerpo a cuerpo causen mágicamente [[/damage average]] adicionales al impactar a un objetivo.</p><p>Este beneficio dura hasta el final del turno. Si [[lookup @name lowercase]] gasta un espacio de conjuro de nivel 2 o superior, el daño adicional aumenta en 1d6 por cada nivel por encima de 1.</p><section id=\"secret-GXSrZziRH0MEiHxH\" class=\"secret\"><p><strong>Nota de Foundry</strong></p><p>El escalado está configurado para ajustar el daño según el nivel del espacio de conjuro utilizado. Un valor de 1 representa el daño base, mientras que un valor de 3 indica que se ha gastado un espacio de conjuro de nivel 3.</p></section>",
+              "descriptionChat": "<p>Como acción adicional, la sacerdotisa puede gastar un espacio de conjuro para que sus ataques con arma cuerpo a cuerpo causen mágicamente <em>daño radiante</em> adicional al impactar a un objetivo.</p>"
             },
             "n9pJzTDsAwQxJVRl": {
               "name": "Llama sagrada",
-              "description": "<p>El resplandor parecido a una llama desciende sobre una criatura que se puede ver dentro de su alcance. El objetivo debe tener éxito en un lanzamiento de ahorro de Dexterity o tomar 1d8 daño radiante. El objetivo no se beneficia de la cobertura de este lanzamiento de ahorro.</p><p>El daño del conjuro aumenta en 1d8 cuando alcanzas el 5o nivel (2d8), 11o nivel (3d8), y 17o nivel (4d8).</p>"
+              "description": "<p>Un resplandor parecido a una llama desciende sobre una criatura que puedas ver dentro del alcance. El objetivo debe superar una tirada de salvación de Destreza o sufrir 1d8 de daño radiante. No obtiene ningún beneficio de la cobertura para esta salvación.</p><p>El daño del conjuro aumenta en 1d8 cuando alcanzas el nivel 5 (2d8), el nivel 11 (3d8) y el nivel 17 (4d8).</p>"
             },
             "MUO1uYN7JR1hm4dR": {
               "name": "Taumaturgia",
-              "description": "<p>Usted crea uno de los siguientes efectos mágicos dentro del rango:</p>\n<ul>\n<li>Tu voz suena hasta tres veces más fuerte que lo normal durante 1 minuto.</li>\n<li>Haces que las llamas parpadean, se iluminan, se oscurecen o cambien de color durante 1 minuto.</li>\n<li>Causas temblores inofensivos en el suelo durante 1 minuto.</li>\n<li>Usted crea un sonido que se origina desde un punto de su elección dentro del rango.</li>\n<li>Haces que una puerta o ventana abierta se abra o cierre de golpe.</li>\n<li>Alteras la apariencia de tus ojos durante 1 minuto.</li>\n</ul>\n<p>Si lanzas este conjuro varias veces, puedes tener hasta tres de sus efectos de 1 minuto activos a la vez, y puedes descartar tal efecto como una acción.</p>"
+              "description": "<p>Creas uno de los siguientes efectos mágicos dentro del alcance:</p><ul><li>Tu voz resuena con hasta tres veces su volumen normal durante 1 minuto.</li><li>Haces que unas llamas parpadeen, aumenten o reduzcan su brillo o cambien de color durante 1 minuto.</li><li>Provocas temblores inofensivos en el suelo durante 1 minuto.</li><li>Creas un sonido que se origina en un punto que elijas dentro del alcance.</li><li>Haces que una puerta o ventana sin cerrar con llave se abra de golpe o se cierre de un portazo.</li><li>Alteras el aspecto de tus ojos durante 1 minuto.</li></ul><p>Si lanzas este conjuro varias veces, puedes tener activos hasta tres de sus efectos de 1 minuto a la vez, y puedes disipar uno de ellos como acción.</p>"
             },
             "7buEm5KhI5lP8m1z": {
-              "name": "Tornillo guía",
-              "description": "<p>Un destello de luz se dirige hacia una criatura de su elección dentro del rango. Hacer un ataque de conjuros de alcance contra el objetivo. En un golpe, el objetivo recibe 4d6 daño radiante, y el siguiente rollo de ataque hecho contra este objetivo antes de que el final de su próximo turno tiene ventaja, gracias a la luz tenue mística brillando en el objetivo hasta entonces.</p><p><strong>Niveles superiores.</strong> Cuando lanzas este conjuro usando una espacio de conjuro de 2o nivel o superior, el daño aumenta en 1d6 por cada nivel de ranura por encima de 1o.</p>"
+              "name": "Saeta guía",
+              "description": "<p>Un destello de luz se dirige hacia una criatura que elijas dentro del alcance. Realiza un ataque de conjuro a distancia contra el objetivo. Si impactas, sufre 4d6 de daño radiante y la siguiente tirada de ataque contra él antes del final de tu siguiente turno tiene ventaja, gracias a la luz tenue mística que brilla sobre él hasta entonces.</p><p><strong>A niveles superiores.</strong> Si lanzas este conjuro usando un espacio de nivel 2 o superior, el daño aumenta en 1d6 por cada nivel del espacio por encima de 1.</p>"
             },
             "gvdA9nPuWLck4tBl": {
               "name": "Santuario",
-              "description": "<p>Usted protege a una criatura a su alcance contra el ataque. Hasta que termine el conjuro, cualquier criatura que apunte a la criatura custodiada con un ataque o un conjuro dañino primero debe hacer un lanzamiento de ahorro de Sabiduría. En un ahorro fallido, la criatura debe elegir un nuevo objetivo o perder el ataque o conjuro. Este conjuro no protege a la criatura protegida de los efectos del área, como la explosión de una bola de fuego.</p><p>Si la criatura custodiada hace un ataque o lanza un conjuro que afecta a una criatura enemiga, este conjuro termina.</p>"
+              "description": "<p>Proteges de los ataques a una criatura dentro del alcance. Hasta que termine el conjuro, cualquier criatura que elija a la criatura protegida como objetivo de un ataque o conjuro dañino debe realizar primero una tirada de salvación de Sabiduría. Si falla, debe elegir otro objetivo o perder el ataque o conjuro. Este conjuro no protege contra efectos de área, como la explosión de una bola de fuego.</p><p>Si la criatura protegida realiza un ataque o lanza un conjuro que afecte a una criatura enemiga, este conjuro termina.</p>"
             },
             "F0GsG0SJzsIOacwV": {
-              "name": "Restauración menor",
-              "description": "<p>Tocas a una criatura y puedes acabar con una enfermedad o con una condición que la aflija. La afección puede ser cegada, ensordecida, paralizada o envenenada.</p>"
+              "name": "Restablecimiento menor",
+              "description": "<p>Tocas a una criatura y puedes terminar una enfermedad o un estado que la afecte. El estado puede ser cegado, ensordecido, paralizado o envenenado.</p>"
             },
             "JbxsYXxSOTZbf9I0": {
               "name": "Arma espiritual",
-              "description": "<p>Creas un arma espectral flotante dentro del rango que dura la duración o hasta que vuelves a lanzar este conjuro. Cuando lances el conjuro, puedes hacer un ataque de conjuros contra una criatura a menos de 5 pies del arma. En un golpe, el objetivo recibe daño por fuerza igual a 1d8 + su modificador de capacidad de deletreado.</p><p>Como una acción adicional en su turno, usted puede mover el arma hasta 20 pies y repetir el ataque contra una criatura a menos de 5 pies de ella.</p><p>El arma puede tomar cualquier forma que elijas. Clérigos de deidades que están asociados con un arma en particular (como St. Cuthbert es conocido por su maza y Thor por su martillo) hacer que el efecto de este conjuro se parezca a esa arma.</p><p><strong>Niveles superiores.</strong> Cuando lanzas este conjuro usando una espacio de conjuro de 3er nivel o superior, el daño aumenta en 1d8 por cada dos niveles de ranura por encima del 2do.</p>"
+              "description": "<p>Creas un arma espectral flotante dentro del alcance, que permanece mientras dure el conjuro o hasta que lo vuelvas a lanzar. Al lanzarlo, puedes realizar un ataque de conjuro cuerpo a cuerpo contra una criatura a 5 pies o menos del arma. Si impactas, el objetivo sufre daño de fuerza igual a 1d8 + tu modificador por aptitud mágica.</p><p>Como acción adicional en tu turno, puedes mover el arma hasta 20 pies y repetir el ataque contra una criatura a 5 pies o menos de ella.</p><p>El arma puede tener la forma que elijas. Los clérigos de deidades asociadas con un arma concreta, como san Cuthbert con su maza o Thor con su martillo, hacen que el efecto del conjuro se parezca a esa arma.</p><p><strong>A niveles superiores.</strong> Si lanzas este conjuro usando un espacio de nivel 3 o superior, el daño aumenta en 1d8 por cada dos niveles del espacio por encima de 2.</p>"
             },
             "15Fa6q1nH27XfbR8": {
-              "name": "Difundir la magia",
-              "description": "<p>Elija una criatura, objeto o efecto mágico dentro del alcance. Cualquier conjuro de 3er nivel o inferior en los extremos del objetivo. Para cada conjuro de 4o nivel o superior en el objetivo, haz una comprobación de habilidad usando tu habilidad de deletrear. El CD es igual a 10 + el nivel del conjuro. En un cheque exitoso, el conjuro termina.</p><p><strong>Niveles superiores.</strong> Cuando lanzas este conjuro usando una espacio de conjuro de 4o nivel o superior, automáticamente terminas los efectos de un conjuro en el objetivo si el nivel del conjuro es igual o menor que el nivel de la espacio de conjuro que usaste.</p>"
+              "name": "Disipar magia",
+              "description": "<p>Elige una criatura, objeto o efecto mágico dentro del alcance. Todo conjuro de nivel 3 o inferior que afecte al objetivo termina. Por cada conjuro de nivel 4 o superior que lo afecte, realiza una prueba con tu aptitud mágica. La CD es 10 + el nivel del conjuro. Si tienes éxito, el conjuro termina.</p><p><strong>A niveles superiores.</strong> Si lanzas este conjuro usando un espacio de nivel 4 o superior, terminas automáticamente los efectos de un conjuro sobre el objetivo si su nivel es igual o inferior al del espacio utilizado.</p>"
             },
             "uCud2s4TjMfjiXUb": {
-              "name": "Guardianes de Espíritus",
-              "description": "<p>Llamas a los espíritus para protegerte. Volan alrededor de usted a una distancia de 15 pies durante la duración. Si usted es bueno o neutral, su forma espectral parece angelical o fey (su elección). Si eres malvado, parecen diabólicos.</p><p>Cuando lances este conjuro, puedes designar cualquier número de criaturas que puedas ver que no se ven afectadas por él. La velocidad de una criatura afectada se reduce a la mitad en el área, y cuando la criatura entra en el área por primera vez en un giro o comienza su turno allí, debe hacer un lanzamiento de ahorro de sabiduría. En una salvada fallida, la criatura recibe daño radiante 3d8 (si eres bueno o neutro) o daño necrótico 3d8 (si eres malo). En una salvada exitosa, la criatura recibe la mitad del daño.</p><p><strong>En los niveles superiores.</strong> Cuando lanzas este conjuro usando una espacio de conjuro de 4o nivel o superior, el daño aumenta en 1d8 por cada nivel de ranura por encima de 3o.</p>"
+              "name": "Guardianes espirituales",
+              "description": "<p>Invocas espíritus para que te protejan. Revolotean a tu alrededor hasta una distancia de 15 pies mientras dure el conjuro. Si eres bueno o neutral, sus formas espectrales tienen aspecto angelical o feérico, a tu elección. Si eres malvado, tienen aspecto infernal.</p><p>Al lanzar el conjuro, puedes designar cualquier número de criaturas que puedas ver para que no se vean afectadas. La velocidad de una criatura afectada se reduce a la mitad en el área. Cuando entra en ella por primera vez en un turno o empieza su turno allí, debe realizar una tirada de salvación de Sabiduría. Si falla, sufre 3d8 de daño radiante si eres bueno o neutral, o 3d8 de daño necrótico si eres malvado. Si tiene éxito, sufre la mitad del daño.</p><p><strong>A niveles superiores.</strong> Si lanzas este conjuro usando un espacio de nivel 4 o superior, el daño aumenta en 1d8 por cada nivel del espacio por encima de 3.</p>"
             },
             "Bnn9Nzajixvow9xi": {
               "name": "Luz",
-              "description": "<p>Tocas un objeto que no mide más de 10 pies en cualquier dimensión. Hasta que el conjuro termina, el objeto arroja luz brillante en un radio de 20 pies y luz tenue por otros 20 pies. La luz puede ser coloreada como quieras. Cubrir completamente el objeto con algo opaco bloquea la luz. El conjuro termina si lo lanzas de nuevo o lo descartas como una acción.</p><p>Si usted apunta a un objeto sostenido o usado por una criatura hostil, esa criatura debe tener éxito en un lanzamiento de ahorro de Dexterity para evitar el conjuro.</p>"
+              "description": "<p>Tocas un objeto que no mida más de 10 pies en ninguna dimensión. Hasta que termine el conjuro, el objeto emite luz brillante en un radio de 20 pies y luz tenue 20 pies más allá. La luz puede ser del color que elijas. Cubrir por completo el objeto con algo opaco bloquea la luz. El conjuro termina si vuelves a lanzarlo o lo disipas como acción.</p><p>Si eliges un objeto que una criatura hostil lleve puesto o sostenga, esa criatura debe superar una tirada de salvación de Destreza para evitar el conjuro.</p>"
             },
             "uUWb1wZgtMou0TVP": {
-              "name": "Heridas curativas",
-              "description": "<p>Una criatura que tocas recupera un número de puntos de impacto igual a 1d8 + tu modificador de habilidad de deletrear. Este conjuro no tiene ningún efecto en muertos vivientes o construcciones.</p><p><strong>Niveles superiores.</strong> Cuando usted lanza este conjuro usando una espacio de conjuro de 2o nivel o superior, la curación aumenta en 1d8 para cada nivel de ranura por encima de 1o.</p>"
+              "name": "Curar heridas",
+              "description": "<p>Una criatura a la que toques recupera tantos puntos de golpe como 1d8 + tu modificador por aptitud mágica. Este conjuro no tiene efecto sobre muertos vivientes ni autómatas.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro usando un espacio de nivel 2 o superior, la curación aumenta en 1d8 por cada nivel del espacio por encima de 1.</p>"
             }
           },
           "name": "Hermana Cyas",
-          "creatureSubtype": "Chondathan Sacerdote Humano",
+          "creatureSubtype": "Sacerdotisa humana chondathana",
           "tokenName": "Hermana Cyas"
         },
         "toaSoakosh000000": {
@@ -12812,14 +12812,14 @@
             "HwktDnB8qdr0BYGZ": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
               "name": "Garrote",
-              "descriptionChat": "<p>El Común ataca con su Club.</p>"
+              "descriptionChat": "<p>El plebeyo ataca con su garrote.</p>"
             }
           },
           "name": "Thaeven el Calvo",
-          "creatureSubtype": "Tetiriano Humano",
-          "languages": "cualquier idioma (generalmente común)",
+          "creatureSubtype": "Humano tethyriano",
+          "languages": "Un idioma cualquiera (normalmente común)",
           "tokenName": "Thaeven el Calvo",
-          "biography": "<p><span style=\"font-family:'Roboto Condensed', sans-serif\">El maestro del establo en </span><span style=\"font-family:'Roboto Condensed', sans-serif\">Fuerte Beluarian</span><span style=\"font-family:'Roboto Condensed', sans-serif\"> es Thaeven el Calvo (N macho humano tetiriano </span><span style=\"font-family:'Roboto Condensed', sans-serif\"><strong style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:rgb(93, 20, 43) rgba(0, 0, 0, 0);color:rgb(25, 24, 19);font-family:'Roboto Condensed', sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(241, 235, 232);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\">pleader</strong></span> con manipulación animal +4). Cuida excelentemente a los animales, en la medida de lo posible en este clima, mientras se queja constantemente de la imposibilidad de cuidar adecuadamente a los caballos en este clima.</p>"
+          "biography": "<p><span style=\"font-family:'Roboto Condensed', sans-serif\">El encargado de los establos de </span><span style=\"font-family:'Roboto Condensed', sans-serif\">Fuerte Beluarian</span><span style=\"font-family:'Roboto Condensed', sans-serif\"> es Thaeven el Calvo, un humano tethyriano N (</span><span style=\"font-family:'Roboto Condensed', sans-serif\"><strong style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:rgb(93, 20, 43) rgba(0, 0, 0, 0);color:rgb(25, 24, 19);font-family:'Roboto Condensed', sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(241, 235, 232);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\">plebeyo</strong></span>) con Trato con Animales +4. Cuida de los animales de manera excelente dentro de lo que permite el clima, aunque se queja constantemente de lo imposible que resulta cuidar bien de los caballos en estas condiciones.</p>"
         },
         "toaThasselandraB": {
           "alignment": "Neutral bueno",
@@ -17613,7 +17613,7 @@
             },
             "CI9bF7OlguU9w2ZC": {
               "text": "<p>@Embed[Actor.toaOrdFirebeard0 caption=false cite=false]</p><p class=\"p1\">@Embed[Actor.toaOrdFirebeard0 caption=false cite=true statblock]</p>",
-              "name": "Barba de fuego"
+              "name": "Ord Firebeard"
             },
             "8JrK7c3CVupwgyLt": {
               "text": "<p>@Embed[Actor.toaLorsaBilwatal caption=false cite=false]</p><p class=\"p1\">@Embed[Actor.toaLorsaBilwatal caption=false cite=true statblock]</p>",
