@@ -9189,116 +9189,116 @@
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>"
             },
             "wzVzBnyHCAn64Dam": {
-              "name": "Cono antimágico",
-              "description": "<p>El ojo central del espectador crea un área de antimagia, como en el conjuro de campo antimagico, en un cono de 150 pies. Al inicio de cada una de sus vueltas, el espectador decide de qué manera el cono se enfrenta y si el cono está activo. El área funciona contra los propios rayos oculares del espectador.</p>"
+              "name": "Cono Antimagia",
+              "description": "<p>El ojo central del contemplador crea una zona antimagia, como la del conjuro campo antimagia, en un cono de 150 pies. Al comienzo de cada uno de sus turnos, el contemplador decide hacia dónde apunta el cono y si está activo. La zona también afecta a sus propios rayos oculares.</p>"
             },
             "lTgB2xp8xyty92yn": {
               "name": "Acciones legendarias",
-              "description": "<p>El beholder puede tomar 3 acciones legendarias, usando la opción Ojo Ray abajo. Sólo puede tomar una acción legendaria a la vez y sólo al final del turno de otra criatura. El beholder recupera las acciones legendarias gastadas al comienzo de su turno.</p>"
+              "description": "<p>El contemplador puede realizar 3 acciones legendarias usando la opción Rayo Ocular que se indica más abajo. Solo puede realizar una acción legendaria cada vez y únicamente al final del turno de otra criatura. Recupera las acciones legendarias gastadas al comienzo de su turno.</p>"
             },
             "WnwOhxAvCw6mHL6Y": {
-              "name": "Rayos oculares",
-              "description": "<p>El espectador dispara tres de los siguientes rayos mágicos de los ojos en [[/r 1d10]]{aleatorio} (replica duplicados), eligiendo uno a tres objetivos que puede ver a menos de 120 pies de distancia:</p>"
+              "name": "Rayos Oculares",
+              "description": "<p>El contemplador dispara tres de los siguientes rayos oculares mágicos al [[/r 1d10]]{azar} (repite los resultados duplicados), eligiendo entre uno y tres objetivos que pueda ver a 120 pies o menos de él:</p>"
             },
             "sO6kZKj9TLorIAcI": {
               "name": "1. Rayo hechizador",
-              "description": "<p>La criatura objetivo debe tener éxito en un [[/save format=long]] o ser &amp;Reference[Charmed apply=false] por el observador durante 1 hora, o hasta que el observador dañe a la criatura.</p>",
+              "description": "<p>La criatura objetivo debe superar una tirada de salvación [[/save format=long]] o quedar &amp;Reference[Charmed apply=false]{hechizada} por el contemplador durante 1 hora o hasta que este le haga daño.</p>",
               "effects": {
                 "VB0JptH9drmTotme": {
                   "name": "Hechizado",
-                  "description": "<p>El objetivo es &amp;Reference[Charmed apply=false] por el observador durante 1 hora, o hasta que el observador dañe a la criatura.</p>"
+                  "description": "<p>El objetivo está &amp;Reference[Charmed apply=false]{hechizado} por el contemplador durante 1 hora o hasta que este le haga daño.</p>"
                 }
               }
             },
             "grK6a3dAfLGsMHgO": {
-              "name": "2. Ray paralizante",
-              "description": "<p>La criatura objetivo debe tener éxito en un [[/save format=long]] o ser &amp;Reference[Paralyzed apply=false] durante 1 minuto. El objetivo puede repetir el lanzamiento de ahorro al final de cada uno de sus turnos, terminando con el efecto en sí mismo en un éxito.</p>",
+              "name": "2. Rayo paralizante",
+              "description": "<p>La criatura objetivo debe superar una tirada de salvación [[/save format=long]] o quedar &amp;Reference[Paralyzed apply=false]{paralizada} durante 1 minuto. Puede repetir la salvación al final de cada uno de sus turnos y terminar el efecto sobre sí misma si tiene éxito.</p>",
               "effects": {
                 "DPImgBNn48ov8Hkb": {
                   "name": "Paralizado",
-                  "description": "<p>El objetivo es &amp;Reference[Paralyzed apply=false] durante 1 minuto. El objetivo puede repetir el lanzamiento de ahorro al final de cada uno de sus turnos, terminando con el efecto en sí mismo en un éxito.</p>"
+                  "description": "<p>El objetivo está &amp;Reference[Paralyzed apply=false]{paralizado} durante 1 minuto. Puede repetir la salvación al final de cada uno de sus turnos y terminar el efecto sobre sí mismo si tiene éxito.</p>"
                 }
               }
             },
             "xQ4YP38o4Q7P6BmO": {
-              "name": "3. Ray el miedo",
-              "description": "<p>La criatura objetivo debe tener éxito en un [[/save format=long]] o ser &amp;Reference[Frightened apply=false] durante 1 minuto. El objetivo puede repetir el lanzamiento de ahorro al final de cada uno de sus turnos, terminando con el efecto en sí mismo en un éxito.</p>",
+              "name": "3. Rayo aterrador",
+              "description": "<p>La criatura objetivo debe superar una tirada de salvación [[/save format=long]] o quedar &amp;Reference[Frightened apply=false]{asustada} durante 1 minuto. Puede repetir la salvación al final de cada uno de sus turnos y terminar el efecto sobre sí misma si tiene éxito.</p>",
               "effects": {
                 "Guag3rhoS1q2Wi3P": {
                   "name": "Asustado",
-                  "description": "<p>El objetivo es &amp;Reference[Frightened apply=false] durante 1 minuto. El objetivo puede repetir el lanzamiento de ahorro al final de cada uno de sus turnos, terminando con el efecto en sí mismo en un éxito.</p>"
+                  "description": "<p>El objetivo está &amp;Reference[Frightened apply=false]{asustado} durante 1 minuto. Puede repetir la salvación al final de cada uno de sus turnos y terminar el efecto sobre sí mismo si tiene éxito.</p>"
                 }
               }
             },
             "exgSvcKOuUBQxlM2": {
-              "name": "4. Rayo lento",
-              "description": "<p>La criatura objetivo debe tener éxito en un [[/save format=long]]. En un ahorro fallido, la velocidad del objetivo se reduce a la mitad durante 1 minuto. </p><p>Además, la criatura no puede tomar reacciones, y puede tomar una acción o una acción extra a su turno, no ambas. La criatura puede repetir el lanzamiento de ahorro al final de cada uno de sus giros, terminando con el efecto en sí misma en un éxito.</p>",
+              "name": "4. Rayo ralentizador",
+              "description": "<p>La criatura objetivo debe realizar una tirada de salvación [[/save format=long]]. Si falla, su velocidad se reduce a la mitad durante 1 minuto.</p><p>Además, no puede realizar reacciones y, en su turno, puede realizar una acción o una acción adicional, pero no ambas. Puede repetir la salvación al final de cada uno de sus turnos y terminar el efecto sobre sí misma si tiene éxito.</p>",
               "effects": {
                 "nph7s1SiAcccvUBH": {
-                  "name": "1/2 Velocidad"
+                  "name": "1/2 de velocidad"
                 }
               }
             },
             "DereHLvkafXVPWUi": {
-              "name": "5. Rayo de Enervación",
-              "description": "<p>La criatura objetivo debe hacer un [[/save format=long]], tomando [[/damage average]] daño en un error de guardar, o la mitad de daño en un éxito.</p>"
+              "name": "5. Rayo enervador",
+              "description": "<p>La criatura objetivo debe realizar una tirada de salvación [[/save format=long]]. Si falla, sufre [[/damage average]] de daño; si tiene éxito, sufre la mitad.</p>"
             },
             "bVExYplzsPUh35oD": {
-              "name": "6. Rayo telecinético",
-              "description": "<p>Si el objetivo es una criatura, debe tener éxito en un [[/save format=long]] o el espectador lo mueve hasta 30 pies en cualquier dirección. Lo es &amp;Reference[Restrained apply=false] por el agarre telecinético del rayo hasta el comienzo del siguiente giro del espectador o hasta que el espectador esté incapacitado.</p><p>Si el objetivo es un objeto que pesa 300 libras o menos que no está siendo usado o llevado, se mueve hasta 30 pies en cualquier dirección. El espectador también puede ejercer un control fino sobre los objetos con este rayo, como la manipulación de una herramienta simple o la apertura de una puerta o un contenedor.</p>",
+              "name": "6. Rayo telequinético",
+              "description": "<p>Si el objetivo es una criatura, debe superar una tirada de salvación [[/save format=long]] o el contemplador la desplaza hasta 30 pies en cualquier dirección. El agarre telequinético del rayo la mantiene &amp;Reference[Restrained apply=false]{apresada} hasta el comienzo del siguiente turno del contemplador o hasta que este quede incapacitado.</p><p>Si el objetivo es un objeto de 300 libras o menos que nadie lleva puesto ni transporta, se desplaza hasta 30 pies en cualquier dirección. Con este rayo, el contemplador también puede controlar objetos con precisión, por ejemplo para manipular una herramienta sencilla o abrir una puerta o un recipiente.</p>",
               "effects": {
                 "BDR5mvDvWNc7cYjG": {
                   "name": "Incapacitado",
-                  "description": "<p>El objetivo es &amp;Reference[Restrained apply=false] por el agarre telecinético del rayo hasta el comienzo del siguiente giro del espectador o hasta que el espectador esté incapacitado.</p>"
+                  "description": "<p>El agarre telequinético del rayo mantiene al objetivo &amp;Reference[Restrained apply=false]{apresado} hasta el comienzo del siguiente turno del contemplador o hasta que este quede incapacitado.</p>"
                 }
               }
             },
             "RTsK6XOA97rbfnJl": {
               "name": "7. Rayo de sueño",
-              "description": "<p>La criatura objetivo debe tener éxito en un [[/save format=long]] o quedarse dormido y permanecer &amp;Reference[Unconscious apply=false] durante 1 minuto. El objetivo despierta si toma daño u otra criatura toma una acción para despertarlo. Este rayo no tiene ningún efecto en construcciones y muertos vivientes.</p>",
+              "description": "<p>La criatura objetivo debe superar una tirada de salvación [[/save format=long]] o quedarse dormida e &amp;Reference[Unconscious apply=false]{inconsciente} durante 1 minuto. Se despierta si sufre daño o si otra criatura usa una acción para despertarla. Este rayo no afecta a autómatas ni a muertos vivientes.</p>",
               "effects": {
                 "I8AYbnZm0sHFIz4r": {
                   "name": "Inconsciente",
-                  "description": "<p>El objetivo es &amp;Reference[Unconscious apply=false] durante 1 minuto. El objetivo despierta si toma daño u otra criatura toma una acción para despertarlo. Este rayo no tiene ningún efecto en construcciones y muertos vivientes.</p>"
+                  "description": "<p>El objetivo está &amp;Reference[Unconscious apply=false]{inconsciente} durante 1 minuto. Se despierta si sufre daño o si otra criatura usa una acción para despertarlo. Este rayo no afecta a autómatas ni a muertos vivientes.</p>"
                 }
               }
             },
             "TS1byVWOoP1pQ6aF": {
-              "name": "8. Rayo de petrificación",
-              "description": "<p>La criatura objetivo debe hacer un [[/save format=long]]. En una salvada fallida, la criatura comienza a convertirse en piedra y es &amp;Reference[Restrained apply=false]. Debe repetir el lanzamiento de ahorro al final de su siguiente turno. En un éxito, el efecto termina. En un fracaso, la criatura es &amp;Reference[Petrified apply=false] hasta que fue liberado por la @UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{mayor restauración} conjuro u otra magia.</p>",
+              "name": "8. Rayo petrificador",
+              "description": "<p>La criatura objetivo debe realizar una tirada de salvación [[/save format=long]]. Si falla, empieza a convertirse en piedra y queda &amp;Reference[Restrained apply=false]{apresada}. Debe repetir la salvación al final de su siguiente turno. Si tiene éxito, el efecto termina. Si falla, queda &amp;Reference[Petrified apply=false]{petrificada} hasta que el conjuro @UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{restablecimiento mayor} u otra magia la libere.</p>",
               "effects": {
                 "ix0Ll9pg8wOiTDwL": {
-                  "name": "Restringido",
-                  "description": "<p>El objetivo comienza a convertirse en piedra y es &amp;Reference[Restrained apply=false].</p>"
+                  "name": "Apresado",
+                  "description": "<p>El objetivo empieza a convertirse en piedra y queda &amp;Reference[Restrained apply=false]{apresado}.</p>"
                 },
                 "IMG5hKrLFzGdI4ZA": {
                   "name": "Petrificado",
-                  "description": "<p>El objetivo debe repetir el lanzamiento de ahorro al final de su siguiente turno. En un fracaso, la criatura es &amp;Reference[Petrified apply=false] hasta que fue liberado por la @UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{mayor restauración} conjuro u otra magia.</p>"
+                  "description": "<p>El objetivo debe repetir la salvación al final de su siguiente turno. Si falla, queda &amp;Reference[Petrified apply=false]{petrificado} hasta que el conjuro @UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{restablecimiento mayor} u otra magia lo libere.</p>"
                 }
               }
             },
             "0IVrdssanUb3XHAa": {
-              "name": "9. Desintegración Ray",
-              "description": "<p>Si el objetivo es una criatura, debe tener éxito en un [[/save format=long]] o tomar [[/damage average]] daño. Si este daño reduce la criatura a 0 puntos de impacto, su cuerpo se convierte en una pila de polvo gris fino. Si el objetivo es un objeto no mágico grande o pequeño o la creación de fuerza mágica, se desintegra sin un tirada de salvación. Si el objetivo es un objeto enorme o más grande o la creación de fuerza mágica, este rayo desintegra un cubo de 10 pies de ella.</p>"
+              "name": "9. Rayo desintegrador",
+              "description": "<p>Si el objetivo es una criatura, debe superar una tirada de salvación [[/save format=long]] o sufrir [[/damage average]] de daño. Si este daño la reduce a 0 puntos de golpe, su cuerpo se convierte en un montón de fino polvo gris. Si el objetivo es un objeto no mágico o una creación de fuerza mágica de tamaño Grande o menor, se desintegra sin tirada de salvación. Si es un objeto o una creación de fuerza mágica de tamaño Enorme o mayor, este rayo desintegra un cubo de 10 pies de lado de su estructura.</p>"
             },
             "4au8J70KYPJ0Am5Y": {
-              "name": "10. Rayo de la Muerte",
-              "description": "<p>La criatura objetivo debe tener éxito en un [[/save format=long]] o tomar [[/damage average]] daño. El objetivo muere si el rayo lo reduce a 0 puntos de impacto.</p>"
+              "name": "10. Rayo mortal",
+              "description": "<p>La criatura objetivo debe superar una tirada de salvación [[/save format=long]] o sufrir [[/damage average]] de daño. Muere si el rayo la reduce a 0 puntos de golpe.</p>"
             },
             "BFtFTJ51chV7I2LH": {
-              "name": "Rayo ocular",
-              "description": "<p>El beholder utiliza un azar [[/item Eye Ray]].</p>",
+              "name": "Rayo Ocular",
+              "description": "<p>El contemplador utiliza un [[/item Eye Ray]]{Rayo Ocular} al azar.</p>",
               "activities": {
                 "sfG3F0EhMeBqglOl": {
-                  "name": "Gasto"
+                  "name": "Gastar un uso"
                 }
               }
             }
           },
-          "name": "Belchorzh lo oculto",
+          "name": "Belchorzh el Inobservable",
           "creatureSubtype": "Contemplador",
           "tokenName": "Belchorzh",
-          "biography": "<p>Un espectador invisible llamado Belchorzh (pronunciado BEL-korj) el Unseen reclama la Bóveda de la Reflexión como su hogar. No tiene acceso a las acciones de la guarida ni a los efectos regionales; en cambio, ha infectado su hogar con un extraño crecimiento alienígena.</p>"
+          "biography": "<p>Un contemplador invisible llamado Belchorzh (pronunciado «bélcorj») el Inobservable ha reclamado la Bóveda del Reflejo como hogar. No puede usar acciones en guarida ni efectos regionales; en su lugar, ha infestado su refugio con un extraño cultivo alienígena.</p>"
         },
         "toaBelym00000000": {
           "alignment": "Legal bueno",
@@ -17725,7 +17725,7 @@
             },
             "ksfBaeUn7ZyrUweD": {
               "text": "<p>@Embed[Actor.toaBelchorzhtheU caption=false cite=false]</p><p class=\"p1\">@Embed[Actor.toaBelchorzhtheU caption=false cite=true statblock classes=\"double-column\"]</p>",
-              "name": "Belchorzh lo oculto"
+              "name": "Belchorzh el Inobservable"
             },
             "stjFfpdqadjaEECL": {
               "text": "<img src=\"modules/dnd-tomb-annihilation/assets/journal-art/skeleton-keys.webp\"><p>@Embed[Actor.toaSkeletonKey00 caption=false cite=true statblock classes=\"double-column\"]</p>",

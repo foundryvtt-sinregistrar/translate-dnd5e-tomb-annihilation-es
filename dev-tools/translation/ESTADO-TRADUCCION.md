@@ -2293,18 +2293,31 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - El campo de biografía del goblin solo contiene el crédito de la ilustración,
   que se conserva con su enlace. No se cuenta como una biografía narrativa.
 
+### appendix-d-belchorzh — Belchorzh el Inobservable
+
+- Revisados 104 campos: página de presentación y ambas copias del actor.
+  Referencias físicas 147 y 157–158; los diez rayos y sus efectos se contrastan
+  con el perfil inglés. Conservadas las excepciones del cono antimagia y la
+  ausencia de acciones en guarida y efectos regionales.
+- El efecto del Rayo telequinético se llama `Incapacitated` y tiene el estado
+  `incapacitated`, aunque su descripción indica `Restrained`. Se conserva
+  «Incapacitado» como traducción de ese nombre y se registra la incoherencia
+  para reparación funcional; traducir el texto no corrige el estado aplicado.
+- La acción legendaria usa una referencia por nombre `Eye Ray`, pendiente
+  de comprobar en juego tras la traducción de los nombres.
+
 ## Balance de revisión editorial
 
-- 891 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 892 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 286 de los apéndices A, B, C, D y F.
-  No equivale a 891 páginas del PDF.
-- 10251 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 10251 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 287 de los apéndices A, B, C, D y F.
+  No equivale a 892 páginas del PDF.
+- 10355 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 10355 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas ciento treinta biografías en ambas copias de actores: siete
-  príncipes y ciento veintitrés criaturas o PNJ vinculados al apéndice D. Siguen pendientes las demás
+  insertado. Revisadas ciento treinta y una biografías en ambas copias de actores: siete
+  príncipes y ciento veinticuatro criaturas o PNJ vinculados al apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las
