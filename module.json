@@ -44,7 +44,8 @@
   },
   "esmodules": [
     "scripts/converters.js",
-    "scripts/babele-register.js"
+    "scripts/babele-register.js",
+    "scripts/mirrored-scenes.mjs"
   ],
   "authors": [
     {
