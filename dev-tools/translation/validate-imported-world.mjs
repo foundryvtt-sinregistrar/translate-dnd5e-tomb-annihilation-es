@@ -25,12 +25,40 @@ export async function validateImportedWorld() {
   }
   const references=[...new Set(expected.references.filter(r=>r.type==='uuid').map(r=>r.reference))];
   for (const reference of references) {
-    try {const doc=await fromUuid(reference);report.references.push({reference,resolved:!!doc,name:doc?.name});}
+    try {const doc=await fromUuid(reference.split('#')[0]);report.references.push({reference,resolved:!!doc,name:doc?.name});}
     catch(error){report.references.push({reference,resolved:false,error:error.message});}
   }
   console.log('TOA_IMPORTED_WORLD_RESULT '+JSON.stringify({...report,fieldErrorCount:report.fieldErrors.length,fieldErrors:report.fieldErrors.slice(0,12)}));
   ui.notifications.info(`ToA: ${report.checked} campos; ${report.fieldErrors.length} diferencias; ${report.images.length} imágenes comprobadas.`);
   return report;
+}
+
+// Explicit, guarded update of reference-only differences in the disposable world.
+export async function applyReviewedReferenceRepairs() {
+  if (!game.user.isGM || game.world.title !== 'DnD5e-6.0.3-Testing-Clean') throw Error('Clean test world required');
+  const report = await validateImportedWorld();
+  const response = await fetch('/modules/translate-dnd5e-tomb-annihilation-es/dev-tools/translation/confirmed-reference-repairs.json', {cache:'no-store'});
+  if (!response.ok) throw Error('Cannot read reference repairs');
+  const rules = Object.values(await response.json()).flat();
+  const updates = [];
+  for (const error of report.fieldErrors) {
+    if (typeof error.actual !== 'string') throw Error('Non-text difference');
+    let value = error.actual;
+    for (const rule of rules) value = value.replaceAll(rule.source, rule.translation);
+    if (value.trim() !== error.expected.trim()) throw Error('Difference exceeds reviewed reference repairs');
+    const [kind,id] = error.key.split('.');
+    let document = game.collections.get(kind)?.get(id);
+    let path = [...error.path];
+    if (['items','pages'].includes(path[0])) {
+      document = document[path[0]].get(path[1]); path = path.slice(2);
+    }
+    if (!document || !path.length || path.includes('tokens')) throw Error('Unsupported reference repair path');
+    updates.push({document,path:path.join('.'),value:error.expected});
+  }
+  console.log('TOA_REFERENCE_REPAIR_BACKUP '+JSON.stringify(report.fieldErrors));
+  for (const update of updates) await update.document.update({[update.path]:update.value});
+  console.log('TOA_REFERENCE_REPAIRED_FIELDS '+updates.length);
+  return validateImportedWorld();
 }
 
 // Explicit repair for this disposable test world only. Never run automatically.

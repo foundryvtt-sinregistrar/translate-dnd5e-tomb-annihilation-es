@@ -126,6 +126,347 @@
       "source": "@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaTalismanofthe]",
       "translation": "@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaMgcTalismanSp]",
       "reason": "Talisman of the Sphere: exact named item in source pack"
+    },
+    {
+      "source": "@UUID[.PzFdAiKV7ySB1BOE#mist-gate]",
+      "translation": "@UUID[JournalEntry.toaCh5Level6Crad.JournalEntryPage.PzFdAiKV7ySB1BOE#puerta-de-la-bruma]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    }
+  ],
+  "dnd-tomb-annihilation.actors.JGmR9u5FYTGJ62cY.biography": [
+    {
+      "source": "@UUID[Compendium.dnd-tomb-annihilation.book.JournalEntry.toaAppDMonstersA]",
+      "translation": "@UUID[JournalEntry.toaAppDMonstersA]",
+      "reason": "Removed book pack in adventure 2.0.0; corresponding imported journal confirmed with fromUuid"
+    }
+  ],
+  "dnd-tomb-annihilation.actors.toaAcererak00000.items.FbohFciqcIdhFh5B.description": [
+    {
+      "source": "@UUID[Compendium.dnd-tomb-annihilation.book.JournalEntry.toaAppCDiscoveri]",
+      "translation": "@UUID[JournalEntry.toaAppCDiscoveri]",
+      "reason": "Removed book pack in adventure 2.0.0; corresponding imported journal confirmed with fromUuid"
+    }
+  ],
+  "dnd-tomb-annihilation.actors.toaNannyPupu0000.biography": [
+    {
+      "source": "@UUID[Compendium.dnd-tomb-annihilation.book.JournalEntry.toaAppDMonstersA]",
+      "translation": "@UUID[JournalEntry.toaAppDMonstersA]",
+      "reason": "Removed book pack in adventure 2.0.0; corresponding imported journal confirmed with fromUuid"
+    }
+  ],
+  "dnd-tomb-annihilation.actors.toaOrvexOcrammas.biography": [
+    {
+      "source": "@UUID[Compendium.dnd-tomb-annihilation.book.JournalEntry.toaCh3DwellersOf.JournalEntryPage.JFC5mUJCcUG2UYq1]",
+      "translation": "@UUID[JournalEntry.toaCh3DwellersOf.JournalEntryPage.JFC5mUJCcUG2UYq1]",
+      "reason": "Removed book pack in adventure 2.0.0; corresponding imported journal confirmed with fromUuid"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaAcererak00000.items.FbohFciqcIdhFh5B.description": [
+    {
+      "source": "@UUID[Compendium.dnd-tomb-annihilation.book.JournalEntry.toaAppCDiscoveri]",
+      "translation": "@UUID[JournalEntry.toaAppCDiscoveri]",
+      "reason": "Removed book pack in adventure 2.0.0; corresponding imported journal confirmed with fromUuid"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaNannyPupu0000.biography": [
+    {
+      "source": "@UUID[Compendium.dnd-tomb-annihilation.book.JournalEntry.toaAppDMonstersA]",
+      "translation": "@UUID[JournalEntry.toaAppDMonstersA]",
+      "reason": "Removed book pack in adventure 2.0.0; corresponding imported journal confirmed with fromUuid"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaOrvexOcrammas.biography": [
+    {
+      "source": "@UUID[Compendium.dnd-tomb-annihilation.book.JournalEntry.toaCh3DwellersOf.JournalEntryPage.JFC5mUJCcUG2UYq1]",
+      "translation": "@UUID[JournalEntry.toaCh3DwellersOf.JournalEntryPage.JFC5mUJCcUG2UYq1]",
+      "reason": "Removed book pack in adventure 2.0.0; corresponding imported journal confirmed with fromUuid"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JGmR9u5FYTGJ62cY.biography": [
+    {
+      "source": "@UUID[Compendium.dnd-tomb-annihilation.book.JournalEntry.toaAppDMonstersA]",
+      "translation": "@UUID[JournalEntry.toaAppDMonstersA]",
+      "reason": "Removed book pack in adventure 2.0.0; corresponding imported journal confirmed with fromUuid"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5TombOfTheN.pages.9akYJrIxRJGJdGAV.text": [
+    {
+      "source": "@UUID[Compendium.dnd-tomb-annihilation.book.JournalEntry.toaAppFTrickster]",
+      "translation": "@UUID[JournalEntry.toaAppFTrickster]",
+      "reason": "Removed book pack in adventure 2.0.0; corresponding imported journal confirmed with fromUuid"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaWelcomeToChul.pages.FfdD9FnLmDCEwzjt.text": [
+    {
+      "source": "@UUID[Compendium.dnd-tomb-annihilation.book.JournalEntry.toaCh1PortNyanza]",
+      "translation": "@UUID[JournalEntry.toaCh1PortNyanza]",
+      "reason": "Removed book pack in adventure 2.0.0; corresponding imported journal confirmed with fromUuid"
+    }
+  ],
+  "dnd-tomb-annihilation.actors.toaOmala00000000.biography": [
+    {
+      "source": "@UUID[JournalEntry.toaCh1PortNyanza.JournalEntryPage.BXu3iKbLywHjYHna#2.-executioners-run]",
+      "translation": "@UUID[JournalEntry.toaCh1LocPortNya.JournalEntryPage.ybSFuyptYEnYa3PR]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    },
+    {
+      "source": "@UUID[JournalEntry.toaCh1PortNyanza.JournalEntryPage.BXu3iKbLywHjYHna#23.-dye-works]",
+      "translation": "@UUID[JournalEntry.toaCh1LocPortNya.JournalEntryPage.Cpc7lRHkdNJJ8d7i]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    },
+    {
+      "source": "@UUID[JournalEntry.toaCh1PortNyanza.JournalEntryPage.BXu3iKbLywHjYHna#4.-goldenthrone]",
+      "translation": "@UUID[JournalEntry.toaCh1LocPortNya.JournalEntryPage.F21VUftnqSC7bQLn]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaOmala00000000.biography": [
+    {
+      "source": "@UUID[JournalEntry.toaCh1PortNyanza.JournalEntryPage.BXu3iKbLywHjYHna#2.-executioners-run]",
+      "translation": "@UUID[JournalEntry.toaCh1LocPortNya.JournalEntryPage.ybSFuyptYEnYa3PR]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    },
+    {
+      "source": "@UUID[JournalEntry.toaCh1PortNyanza.JournalEntryPage.BXu3iKbLywHjYHna#23.-dye-works]",
+      "translation": "@UUID[JournalEntry.toaCh1LocPortNya.JournalEntryPage.Cpc7lRHkdNJJ8d7i]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    },
+    {
+      "source": "@UUID[JournalEntry.toaCh1PortNyanza.JournalEntryPage.BXu3iKbLywHjYHna#4.-goldenthrone]",
+      "translation": "@UUID[JournalEntry.toaCh1LocPortNya.JournalEntryPage.F21VUftnqSC7bQLn]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh1PortNyanza.pages.dkLZ0aaHzJKFGg4j.text": [
+    {
+      "source": "@UUID[JournalEntry.toaCh1PortNyanza.JournalEntryPage.jxkBMl1ye42TvNAh#laws-and-punishments]",
+      "translation": "@UUID[JournalEntry.toaCh1PortNyanza.JournalEntryPage.jxkBMl1ye42TvNAh#ley-y-castigo]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2Dungrunglu.pages.XljypGh88sK5Lq9q.text": [
+    {
+      "source": "@UUID[.XljypGh88sK5Lq9q#grungs-of-dungrunglung]",
+      "translation": "@UUID[JournalEntry.toaCh2Dungrunglu.JournalEntryPage.XljypGh88sK5Lq9q#grungs-de-dungrunglung]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2Dungrunglu.pages.esei8orJwti0XXEL.text": [
+    {
+      "source": "@UUID[.XljypGh88sK5Lq9q#grungs-of-dungrunglung]",
+      "translation": "@UUID[JournalEntry.toaCh2Dungrunglu.JournalEntryPage.XljypGh88sK5Lq9q#grungs-de-dungrunglung]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2FortBeluar.pages.Q1IsSKduoWa9SCKT.text": [
+    {
+      "source": "@UUID[.fvechDnR8pzjwGbc#agents-of-the-flaming-fist]",
+      "translation": "@UUID[JournalEntry.toaCh2FortBeluar.JournalEntryPage.HWmjK7tPH3WrZzrg#agentes-del-puno-ardiente]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2JahakaAnch.pages.1Q3abqBOg4pi2il0.text": [
+    {
+      "source": "@UUID[JournalEntry.toaCh2JahakaAnch.JournalEntryPage.1Q3abqBOg4pi2il0#pirates-of-jahaka-anchorage]",
+      "translation": "@UUID[JournalEntry.toaCh2JahakaAnch.JournalEntryPage.1Q3abqBOg4pi2il0#piratas-del-fondeadero-de-jahaka]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2KirSabal00.pages.vJo49Lc5cYHqCMzu.text": [
+    {
+      "source": "@UUID[JournalEntry.toaCh2KirSabal00.JournalEntryPage.vJo49Lc5cYHqCMzu#dance-of-the-seven-winds]",
+      "translation": "@UUID[JournalEntry.toaCh2KirSabal00.JournalEntryPage.vJo49Lc5cYHqCMzu#danza-de-los-siete-vientos]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2Nangalore0.pages.hZbFMcWhfLtcPpsD.text": [
+    {
+      "source": "@UUID[JournalEntry.toaCh2KirSabal00.JournalEntryPage.vJo49Lc5cYHqCMzu#dance-of-the-seven-winds]",
+      "translation": "@UUID[JournalEntry.toaCh2KirSabal00.JournalEntryPage.vJo49Lc5cYHqCMzu#danza-de-los-siete-vientos]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh4Locationsi.pages.c5KSrbfz8RBYkmuU.text": [
+    {
+      "source": "@UUID[.Jc7USn1q9dUkjEdI#teleporters]",
+      "translation": "@UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.Jc7USn1q9dUkjEdI#teletransportadores]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    },
+    {
+      "source": "@UUID[.VkFxWEhIUsgsO2O6#prisoners-of-the-yuan-ti]",
+      "translation": "@UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.VkFxWEhIUsgsO2O6#prisioneros-de-los-yuan-tis]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh4Locationsi.pages.CXvpcMN5JqrxKu39.text": [
+    {
+      "source": "@UUID[.Jc7USn1q9dUkjEdI#teleporters]",
+      "translation": "@UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.Jc7USn1q9dUkjEdI#teletransportadores]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh4Locationsi.pages.jDapyFVU0c9UoIBn.text": [
+    {
+      "source": "@UUID[.Jc7USn1q9dUkjEdI#teleporters]",
+      "translation": "@UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.Jc7USn1q9dUkjEdI#teletransportadores]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    },
+    {
+      "source": "@UUID[.jDapyFVU0c9UoIBn#yuan-ti-rituals]",
+      "translation": "@UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.jDapyFVU0c9UoIBn#rituales-yuan-tis]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh4Locationsi.pages.D8tgIAOgH2JB6cif.text": [
+    {
+      "source": "@UUID[.Jc7USn1q9dUkjEdI#teleporters]",
+      "translation": "@UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.Jc7USn1q9dUkjEdI#teletransportadores]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh4Locationsi.pages.levHlyIkCVBQVoEj.text": [
+    {
+      "source": "@UUID[.Jc7USn1q9dUkjEdI#teleporters]",
+      "translation": "@UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.Jc7USn1q9dUkjEdI#teletransportadores]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh4Locationsi.pages.AaMzcqaWOWQvks7j.text": [
+    {
+      "source": "@UUID[JournalEntry.toaWelcomeToChul.JournalEntryPage.GnSIUD0ohed2CCIc#chultan-names]",
+      "translation": "@UUID[JournalEntry.toaWelcomeToChul.JournalEntryPage.GnSIUD0ohed2CCIc#nombres-chultanos]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh4Locationsi.pages.48niaswQ2stR1tYB.text": [
+    {
+      "source": "@UUID[JournalEntry.toaWelcomeToChul.JournalEntryPage.GnSIUD0ohed2CCIc#chultan-names]",
+      "translation": "@UUID[JournalEntry.toaWelcomeToChul.JournalEntryPage.GnSIUD0ohed2CCIc#nombres-chultanos]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level1Rott.pages.eHJ1Y2M07sylhjku.text": [
+    {
+      "source": "@UUID[JournalEntry.toaCh5TombOfTheN.JournalEntryPage.vvOmFAdbse9UvgMj#lost-treasures]",
+      "translation": "@UUID[JournalEntry.toaCh5TombOfTheN.JournalEntryPage.vvOmFAdbse9UvgMj#tesoros-perdidos]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level1Rott.pages.DEfs9aq8xasdWxrs.text": [
+    {
+      "source": "@UUID[JournalEntry.toaCh5TombOfTheN.JournalEntryPage.vvOmFAdbse9UvgMj#lost-treasures]",
+      "translation": "@UUID[JournalEntry.toaCh5TombOfTheN.JournalEntryPage.vvOmFAdbse9UvgMj#tesoros-perdidos]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level1Rott.pages.utVARZSMisfgCcNs.text": [
+    {
+      "source": "@UUID[JournalEntry.toaCh5TombOfTheN.JournalEntryPage.vvOmFAdbse9UvgMj#lost-treasures]",
+      "translation": "@UUID[JournalEntry.toaCh5TombOfTheN.JournalEntryPage.vvOmFAdbse9UvgMj#tesoros-perdidos]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level2Dung.pages.oUx8rnugfJEHuoiT.text": [
+    {
+      "source": "@UUID[JournalEntry.toaCh5TombOfTheN.JournalEntryPage.vvOmFAdbse9UvgMj#lost-treasures]",
+      "translation": "@UUID[JournalEntry.toaCh5TombOfTheN.JournalEntryPage.vvOmFAdbse9UvgMj#tesoros-perdidos]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level2Dung.pages.HR7uThc2AWoOZ760.text": [
+    {
+      "source": "@UUID[JournalEntry.toaCh5TombOfTheN.JournalEntryPage.vvOmFAdbse9UvgMj#lost-treasures]",
+      "translation": "@UUID[JournalEntry.toaCh5TombOfTheN.JournalEntryPage.vvOmFAdbse9UvgMj#tesoros-perdidos]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level3Vaul.pages.lC1p3SMNdQlQxIGW.text": [
+    {
+      "source": "@UUID[JournalEntry.toaCh5TombOfTheN.JournalEntryPage.vvOmFAdbse9UvgMj#lost-treasures]",
+      "translation": "@UUID[JournalEntry.toaCh5TombOfTheN.JournalEntryPage.vvOmFAdbse9UvgMj#tesoros-perdidos]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level3Vaul.pages.i0nfdXsXOgVkRvx2.text": [
+    {
+      "source": "@UUID[.I5EGvEUmXLIEQCNL#alien-growth]",
+      "translation": "@UUID[JournalEntry.toaCh5Level3Vaul.JournalEntryPage.I5EGvEUmXLIEQCNL#moho-alienigena]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level4Cham.pages.0irMuLycb80eNEJr.text": [
+    {
+      "source": "@UUID[.0irMuLycb80eNEJr#terracotta-warriors]",
+      "translation": "@UUID[JournalEntry.toaCh5Level4Cham.JournalEntryPage.0irMuLycb80eNEJr#guerreros-de-terracota]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    },
+    {
+      "source": "@UUID[JournalEntry.toaCh5TombOfTheN.JournalEntryPage.vvOmFAdbse9UvgMj#lost-treasures]",
+      "translation": "@UUID[JournalEntry.toaCh5TombOfTheN.JournalEntryPage.vvOmFAdbse9UvgMj#tesoros-perdidos]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level4Cham.pages.Bk2b33WKR4CkUc6t.text": [
+    {
+      "source": "@UUID[JournalEntry.toaCh5TombOfTheN.JournalEntryPage.2MUnhSr5p7fC6C80#spell-restrictions]",
+      "translation": "@UUID[JournalEntry.toaCh5TombOfTheN.JournalEntryPage.2MUnhSr5p7fC6C80#restricciones-de-conjuros]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level4Cham.pages.tRE6mvrBR8a2kza0.text": [
+    {
+      "source": "@UUID[JournalEntry.toaCh5TombOfTheN.JournalEntryPage.2MUnhSr5p7fC6C80#fabled-treasures]",
+      "translation": "@UUID[JournalEntry.toaCh5TombOfTheN.JournalEntryPage.2MUnhSr5p7fC6C80#tesoros-legendarios]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level4Cham.pages.JJqUmlRXGSLpY5m4.text": [
+    {
+      "source": "@UUID[JournalEntry.toaCh5TombOfTheN.JournalEntryPage.2MUnhSr5p7fC6C80#fabled-treasures]",
+      "translation": "@UUID[JournalEntry.toaCh5TombOfTheN.JournalEntryPage.2MUnhSr5p7fC6C80#tesoros-legendarios]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level5Gear.pages.t1e8lvFBgGyyUOSJ.text": [
+    {
+      "source": "@UUID[JournalEntry.toaCh5TombOfTheN.JournalEntryPage.2MUnhSr5p7fC6C80#fabled-treasures]",
+      "translation": "@UUID[JournalEntry.toaCh5TombOfTheN.JournalEntryPage.2MUnhSr5p7fC6C80#tesoros-legendarios]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level6Crad.pages.UBJuaTLd0u3AzbvI.text": [
+    {
+      "source": "@UUID[.PzFdAiKV7ySB1BOE#mist-gate]",
+      "translation": "@UUID[JournalEntry.toaCh5Level6Crad.JournalEntryPage.PzFdAiKV7ySB1BOE#puerta-de-la-bruma]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaFoundryAdvice.pages.EnWRvZIkkN5R29wy.text": [
+    {
+      "source": "@UUID[JournalEntry.toaIntroduction0.JournalEntryPage.YmJBk6SpQqatzqxa#death-curse]",
+      "translation": "@UUID[JournalEntry.toaIntroduction0.JournalEntryPage.YmJBk6SpQqatzqxa#maldicion-de-muerte]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaFoundryAdvice.pages.J8ganXPxTJKqTzUt.text": [
+    {
+      "source": "@UUID[JournalEntry.toaIntroduction0.JournalEntryPage.YmJBk6SpQqatzqxa#death-curse]",
+      "translation": "@UUID[JournalEntry.toaIntroduction0.JournalEntryPage.YmJBk6SpQqatzqxa#maldicion-de-muerte]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaFoundryAdvice.pages.ZPUhMOmxKRfpYI70.text": [
+    {
+      "source": "@UUID[JournalEntry.toaIntroduction0.JournalEntryPage.YmJBk6SpQqatzqxa#meat-grinder]",
+      "translation": "@UUID[JournalEntry.toaIntroduction0.JournalEntryPage.YmJBk6SpQqatzqxa#picadora-de-carne]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaIntroduction0.pages.3mm29BYTjlRdmnjn.text": [
+    {
+      "source": "@UUID[JournalEntry.toaIntroduction0.JournalEntryPage.YmJBk6SpQqatzqxa#death-curse]",
+      "translation": "@UUID[JournalEntry.toaIntroduction0.JournalEntryPage.YmJBk6SpQqatzqxa#maldicion-de-muerte]",
+      "reason": "Spanish heading or relocated page confirmed with Foundry JournalEntryPage.buildTOC and fromUuid in the clean test world"
     }
   ]
 }
