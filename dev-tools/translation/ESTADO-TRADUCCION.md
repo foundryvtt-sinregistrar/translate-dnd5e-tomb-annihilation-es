@@ -1806,18 +1806,30 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   la aclaración del PDF de que no controla a los zombis de su interior.
 - Los enlaces por nombre `Bite`, `Claw` y `Tail` siguen pendientes.
 
+### appendix-d-mwaxanare-volo — Mwaxanaré, Na y Volo
+
+- Revisados 86 campos de las dos copias de Mwaxanaré y Volo y sus páginas.
+  Referencias físicas 228, 229 y 237; descripciones completas de conjuros
+  contrastadas con el inglés exportado, reutilizando traducciones ya revisadas
+  solo cuando coincide íntegramente el original.
+- Conservados el carácter no combatiente de Na, pacto y telepatía de Mwaxanaré,
+  negativa de Volo a unirse al grupo y tirada de rumores. Cerrada la cita truncada
+  del defecto de Na y conservada la grafía original Aaqa.
+- La descripción de Amistad de Volo está vacía en el exportado. Sus ideales,
+  vínculos y defectos del PDF tampoco figuran en el actor ni en su página.
+
 ## Balance de revisión editorial
 
-- 795 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 797 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 190 de los apéndices A, B, C, D y F.
-  No equivale a 795 páginas del PDF.
-- 4367 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 4367 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 192 de los apéndices A, B, C, D y F.
+  No equivale a 797 páginas del PDF.
+- 4453 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 4453 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas cuarenta y nueve biografías en ambas copias de actores: siete
-  príncipes y cuarenta y dos criaturas o PNJ del apéndice D. Siguen pendientes las demás
+  insertado. Revisadas cincuenta y una biografías en ambas copias de actores: siete
+  príncipes y cuarenta y cuatro criaturas o PNJ del apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las
