@@ -1955,18 +1955,18 @@
           "items": {
             "VP628jcRRlz0G1LN": {
               "name": "Ataque múltiple",
-              "description": "<p>El eblis ataca dos veces con su [[/item Beak]]</p>"
+              "description": "<p>El eblis realiza dos ataques con su [[/item Beak]]{Pico}.</p>"
             },
             "RtEg6THKtLo8SXpS": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
               "name": "Pico"
             },
             "Ho6ZcAhmJYFdd3AD": {
-              "name": "Difusión de conjuros innatos",
-              "description": "<p>La habilidad innata del eblis para deletrear es Inteligencia (salva CD 11). Puede lanzar innatamente los siguientes conjuros, sin necesidad de componentes materiales:</p><p><strong>1/día cada uno:</strong> <em>[[/item .7cF2mTB2ZGEkusDh]]{desenfoque}, [[/item .WUeDLhz8HeMs8hQD]]{patrón hipnótico}, [[/item .W0qW53Bx4SshmhPg]]{ilusión menor}</em></p>",
+              "name": "Lanzamiento de Conjuros Innato",
+              "description": "<p>La aptitud mágica innata del eblis es Inteligencia (salvación de conjuros CD 11). Puede lanzar de forma innata los siguientes conjuros sin componentes materiales:</p><p><strong>1/día cada uno:</strong> <em>[[/item .7cF2mTB2ZGEkusDh]]{contorno borroso}, [[/item .WUeDLhz8HeMs8hQD]]{patrón hipnótico}, [[/item .W0qW53Bx4SshmhPg]]{ilusión menor}</em></p>",
               "activities": {
                 "TOz2LIqkeQxk509g": {
-                  "name": "Desenfoque"
+                  "name": "Contorno borroso"
                 },
                 "NtwIkJGAhbCLtDRs": {
                   "name": "Patrón hipnótico"
@@ -1977,40 +1977,40 @@
               }
             },
             "7cF2mTB2ZGEkusDh": {
-              "name": "Desenfoque",
-              "description": "<p>Tu cuerpo se vuelve borroso, cambiando y vacilando a todos los que pueden verte. Durante el tiempo, cualquier criatura tiene desventaja en los rollos de ataque contra usted. Un atacante es inmune a este efecto si no confía en la vista, como con la vista ciega, o puede ver a través de ilusiones, como con la vista verdadera.</p>",
+              "name": "Contorno borroso",
+              "description": "<p>Tu cuerpo se vuelve borroso y parece oscilar y cambiar de forma ante quienes pueden verte. Durante el conjuro, las criaturas tienen desventaja en sus tiradas de ataque contra ti. Un atacante es inmune a este efecto si no depende de la vista, como ocurre con la visión ciega, o si puede ver a través de las ilusiones, como ocurre con la visión verdadera.</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             },
             "WUeDLhz8HeMs8hQD": {
               "name": "Patrón hipnótico",
-              "description": "<p>Creas un patrón de colores que se teje a través del aire dentro de un cubo de 30 pies dentro del rango. El patrón aparece por un momento y desaparece. Cada criatura en la zona que ve el patrón debe hacer un lanzamiento de salvación de Sabiduría. En una salvada fallida, la criatura se convierte en &amp;Reference[charmed] durante la duración. Mientras que encantado por este conjuro, la criatura es &amp;Reference[incapacitated] y tiene una velocidad de 0.</p><p>El conjuro termina para una criatura afectada si se necesita algún daño o si alguien más utiliza una acción para sacudir a la criatura de su estupor.</p>",
+              "description": "<p>Creas un patrón de colores entrelazados que ondula en el aire dentro de un cubo de 30 pies de lado situado dentro del alcance. El patrón aparece un instante y desaparece. Cada criatura en el área que lo vea debe realizar una tirada de salvación de Sabiduría. Si falla, queda &amp;Reference[charmed]{hechizada} durante el conjuro. Mientras esté hechizada por este conjuro, está &amp;Reference[incapacitated]{incapacitada} y su velocidad es 0.</p><p>El conjuro termina para una criatura afectada si sufre cualquier daño o si alguien utiliza una acción para sacarla de su estupor sacudiéndola.</p>",
               "effects": {
                 "SQnfuD2rHVcyLZ4j": {
                   "name": "Patrón hipnótico",
-                  "description": "<p>La criatura está encantada por la duración. Mientras que encantado por este conjuro, la criatura está incapacitado y tiene una velocidad de 0.</p>"
+                  "description": "<p>La criatura está hechizada durante el conjuro. Mientras esté hechizada por él, está incapacitada y su velocidad es 0.</p>"
                 },
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             },
             "W0qW53Bx4SshmhPg": {
               "name": "Ilusión menor",
-              "description": "<p>Se crea un sonido o una imagen de un objeto dentro del rango que dura durante la duración. La ilusión también termina si la descartas como una acción o vuelves a lanzar este conjuro.</p><p>Si creas un sonido, su volumen puede variar desde un susurro hasta un grito. Puede ser tu voz, la voz de alguien más, un rugido de león, un latido de tambores, o cualquier otro sonido que elijas. El sonido continúa sin disminuir durante toda la duración, o puedes hacer sonidos discretos en diferentes momentos antes de que el conjuro termine.</p><p>Si se crea una imagen de un objeto —como una silla, huellas fangosas o un pequeño pecho— no debe ser mayor que un cubo de 5 pies. La imagen no puede crear sonido, luz, olor ni ningún otro efecto sensorial. La interacción física con la imagen revela que es una ilusión, porque las cosas pueden pasar a través de ella.</p><p>Si una criatura utiliza su acción para examinar el sonido o la imagen, la criatura puede determinar que es una ilusión con un control de inteligencia (Investigación) exitoso contra su conjuro salvar CD. Si una criatura discierne la ilusión por lo que es, la ilusión se desmaya ante la criatura.</p>",
+              "description": "<p>Creas un sonido o la imagen de un objeto dentro del alcance que permanece durante el conjuro. La ilusión también termina si la disipas como acción o vuelves a lanzar este conjuro.</p><p>Si creas un sonido, su volumen puede ir desde un susurro hasta un grito. Puede ser tu voz, la de otra persona, el rugido de un león, el redoble de tambores o cualquier otro sonido que elijas. Puede sonar de forma ininterrumpida durante todo el conjuro, o puedes producir sonidos separados en distintos momentos antes de que termine.</p><p>Si creas la imagen de un objeto, como una silla, unas huellas de barro o un cofre pequeño, debe caber en un cubo de 5 pies de lado. La imagen no puede producir sonidos, luz, olores ni otros efectos sensoriales. La interacción física revela que es una ilusión, porque los objetos la atraviesan.</p><p>Una criatura que use su acción para examinar el sonido o la imagen puede descubrir que es una ilusión si supera una prueba de Inteligencia (Investigación) contra tu CD de salvación de conjuros. Cuando una criatura reconoce la ilusión como tal, esta se vuelve tenue para ella.</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             }
           },
           "name": "Eblis",
           "tokenName": "Eblis",
-          "biography": "<p>Eblis (pronunciado EH-blee) se cree que son reencarnaciones de seres humanos malvados que fueron castigados por dioses por actos de hurto y secuestro. Estas grúas inteligentes y malvadas se tejen 8 pies de altura y ponen huevos como hacen las aves mundanas. Pueden manipular objetos con sus picos y pies.</p><p>Los Eblis tratan de convencer a otras criaturas para que cumplan sus órdenes, y sus complots son egoístas. Viven para destruir criaturas que los ofenden y se deleitan en atraer humanoides a una muerte inesperada. A Eblis también le gusta recoger tesoros, que a veces utilizan para recompensar a los que los sirven. Construyen chozas y nidos crudos de hierba y cañas, donde esconden su tesoro.</p>"
+          "biography": "<p>Se cree que los eblis (se pronuncia [ébli]) son reencarnaciones de humanos malvados a quienes los dioses castigaron por robos y secuestros. Estas grullas inteligentes y malvadas miden 8 pies de alto y ponen huevos como las aves corrientes. Pueden manipular objetos con el pico y las patas.</p><p>Los eblis intentan persuadir a otras criaturas para que cumplan sus órdenes, y sus planes solo buscan su propio beneficio. Viven para destruir a quienes los ofenden y disfrutan atrayendo a humanoides hacia una muerte inesperada. También coleccionan tesoros, que a veces utilizan para recompensar a sus servidores. Construyen chozas y nidos rudimentarios con hierba y juncos, donde esconden sus riquezas.</p>"
         },
         "toaElderPterafol": {
           "alignment": "Neutral malvado",

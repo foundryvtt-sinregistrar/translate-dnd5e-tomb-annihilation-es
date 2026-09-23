@@ -1646,18 +1646,27 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   del PDF tampoco figura en la biografía ni en esta página del original.
 - Auditorías técnica y editorial sin errores.
 
+### appendix-d-eblis — Eblis
+
+- Revisados 50 campos de las dos copias del actor y su página, con referencia
+  física 219. Incluye biografía, ataques y tres conjuros innatos; sus descripciones
+  completas se contrastan con el exportado inglés.
+- Conservados los motivos de sus intercambios, los límites de sus ilusiones
+  y las condiciones de sus conjuros. El enlace por nombre `Beak` queda incluido
+  en el pendiente de resolución por identificador.
+
 ## Balance de revisión editorial
 
-- 771 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 772 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 166 de los apéndices A, B, C, D y F.
-  No equivale a 771 páginas del PDF.
-- 2879 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 2879 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 167 de los apéndices A, B, C, D y F.
+  No equivale a 772 páginas del PDF.
+- 2929 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 2929 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas diecinueve biografías en ambas copias de actores: siete
-  príncipes y doce criaturas o PNJ del apéndice D. Siguen pendientes las demás
+  insertado. Revisadas veinte biografías en ambas copias de actores: siete
+  príncipes y trece criaturas o PNJ del apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las
