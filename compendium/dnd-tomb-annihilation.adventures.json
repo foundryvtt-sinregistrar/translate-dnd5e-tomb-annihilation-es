@@ -14154,41 +14154,41 @@
           "items": {
             "udfhkp3BOEpgThbR": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] hace tres ataques cuerpo a cuerpo - uno con ella [[/item .1N53jrQmsZuhiREF]] y dos con ella [[/item .ixrzcEmkn9jaDOZ0]] - o dos ataques de alcance con ella [[/item .4U98oe3Qr28BGbzG]].</p>"
+              "description": "<p>[[lookup @name]] realiza tres ataques cuerpo a cuerpo, uno con su [[/item .1N53jrQmsZuhiREF]]{cabellera de serpientes} y dos con su [[/item .ixrzcEmkn9jaDOZ0]]{espada corta}, o dos ataques a distancia con su [[/item .4U98oe3Qr28BGbzG]]{arco largo}.</p>"
             },
             "1N53jrQmsZuhiREF": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-              "name": "Cabello de serpiente",
-              "descriptionChat": "<p>El Medusa ataca con su Cabello de Serpiente.</p>"
+              "name": "Cabellera de Serpientes",
+              "descriptionChat": "<p>La medusa ataca con su cabellera de serpientes.</p>"
             },
             "ixrzcEmkn9jaDOZ0": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
               "name": "Espada corta",
-              "descriptionChat": "<p>La Medusa ataca con su espada corta.</p>"
+              "descriptionChat": "<p>La medusa ataca con su espada corta.</p>"
             },
             "4U98oe3Qr28BGbzG": {
               "name": "Arco largo",
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-              "descriptionChat": "<p>El Medusa ataca con su Longbow.</p>"
+              "descriptionChat": "<p>La medusa ataca con su arco largo.</p>"
             },
             "KmzlUGMXUhY2HubE": {
-              "name": "Mirada petrificante",
-              "description": "<p>Cuando una criatura que puede ver [[lookup @name]]los ojos comienzan a girar a menos de 30 pies de ella, ella puede forzarlo a hacer un [[/save format=long]] Si no está incapacitada y puede ver a la criatura.</p><p>Si el lanzamiento de ahorro falla por 5 o más, la criatura es instantáneamente &amp;Reference[petrified apply=false]{petrificado}. De lo contrario, una criatura que falla el salvo comienza a convertirse en piedra y es &amp;Reference[restrained apply=false]{restringidos}.</p><p>La criatura restringida debe repetir el lanzamiento de ahorro al final de su siguiente turno, convirtiéndose en &amp;Reference[petrified apply=false]{petrificado} sobre un fracaso o poner fin al efecto en un éxito. La petrificación dura hasta que la criatura es liberada por el <em>@UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{mayor restauración}</em> conjuro u otra magia.</p><p>A menos que se sorprenda, una criatura puede evitar sus ojos para evitar el lanzamiento de ahorro al comienzo de su turno. Si la criatura lo hace, no puede ver [[lookup @name]] hasta el comienzo de su próximo giro, cuando pueda evitar sus ojos de nuevo. Si la criatura mira [[lookup @name]] Mientras tanto, debe hacer el ahorro inmediatamente.</p><p>Si [[lookup @name]] se ve reflejada en una superficie pulida a menos de 30 pies de ella y en un área de luz brillante, ella es, debido a su maldición, afectada por su propia mirada.</p>",
+              "name": "Mirada Petrificadora",
+              "description": "<p>Cuando una criatura que pueda ver los ojos de [[lookup @name]] comienza su turno a 30 pies o menos de ella, la medusa puede obligarla a realizar una tirada de salvación [[/save format=long]] si no está incapacitada y puede ver a la criatura.</p><p>Si falla la salvación por 5 o más, la criatura queda &amp;Reference[petrified apply=false]{petrificada} al instante. De lo contrario, si falla la salvación, comienza a convertirse en piedra y queda &amp;Reference[restrained apply=false]{apresada}.</p><p>La criatura apresada debe repetir la tirada de salvación al final de su siguiente turno. Si falla, queda &amp;Reference[petrified apply=false]{petrificada}; si tiene éxito, el efecto termina. La petrificación dura hasta que la criatura sea liberada mediante el conjuro <em>@UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{restablecimiento mayor}</em> u otra magia.</p><p>A menos que esté sorprendida, una criatura puede apartar la mirada al comienzo de su turno para evitar la tirada de salvación. Si lo hace, no puede ver a [[lookup @name]] hasta el comienzo del siguiente turno de esta, momento en el que puede volver a apartar la mirada. Si mira a [[lookup @name]] entretanto, debe realizar inmediatamente la salvación.</p><p>Si [[lookup @name]] ve su propio reflejo en una superficie pulida a 30 pies o menos de ella y en una zona de luz brillante, su maldición hace que su propia mirada la afecte.</p>",
               "effects": {
                 "wIbiidoa4i24noMC": {
-                  "name": "Restringido",
-                  "description": "<p>El taget comienza a convertirse en piedra y es &amp;Reference[restrained apply=false]{restringidos}.</p>"
+                  "name": "Apresado",
+                  "description": "<p>El objetivo comienza a convertirse en piedra y queda &amp;Reference[restrained apply=false]{apresado}.</p>"
                 },
                 "TH7hVSrzU7Soif88": {
                   "name": "Petrificado",
-                  "description": "<p>El objetivo es &amp;Reference[petrified apply=false]{petrificado}.</p>"
+                  "description": "<p>El objetivo queda &amp;Reference[petrified apply=false]{petrificado}.</p>"
                 }
               }
             }
           },
           "name": "Zalkoré",
           "tokenName": "Zalkoré",
-          "biography": "<p>Este gran jardín en Nangalore fue construido para honrar a Zalkoré, una reina vanidosa de Omuan. Su constructor, Thiru-taya, fue el principal general y consorte de Zalkoré. En su tiempo, el jardín se llamaba Ka-Nanji, el Jardín Colgante de los Sueños. Ka-Nanji fue un retiro palaciego de las intrigas y presiones de Omu, y el hermoso jardín, de nivel fue elogiado como un digno homenaje a la reina.</p><p>Halagos incesantes plagados de vanidad venenosa en la mente de Zalkoré hasta que regateó con un erinyes para retener su juventud y belleza para siempre. Los erinyes cumplieron el acuerdo transformando a la reina en una @UUID[Compendium.dnd5e.monsters.Actor.eiifqZwYGi71r2Yl]{medusa}. Cuando el conocimiento de su malvado negocio se extendió por el reino, el ejército obligó a Zalkoré a abdicar y la desterró a Ka-Nanji, que se conoció siempre como Nangalore, el Jardín de los Sueños Perdidos.</p><p>Creyendo que Thiru-taya estaba entre los generales que la exiliaron, Zalkoré desfiguraba todas las estatuas y retratos de él en Nangalore. Ella supo que él había permanecido fiel a ella toda su vida, a través de décadas de encarcelamiento y desgracia en Omu, sólo cuando sus cenizas fueron llevadas al jardín para el entierro, como era su último deseo. Zalkoré cultiva plantas alucinógenas en el jardín, porque sólo en sus sueños narcóticos, el loto puede evocar el rostro de su amor muerto.</p><p>Los personajes pueden descubrir la trágica historia de Zalkoré interpretando las tallas en todo el jardín. Si eso los hace simpatizar con ella, así sea, pero su tragedia no ennobleció a Zalkoré ni la convirtió en una mejor persona; la convirtió en un monstruo.</p>"
+          "biography": "<p>Este gran jardín de Nangalore se construyó en honor a Zalkoré, una vanidosa reina de Omu. Su constructor, Thiru-taya, era su principal general y consorte. En aquella época se llamaba Ka-Nanji, el Jardín Colgante de los Sueños. Era un retiro palaciego alejado de las intrigas y presiones de Omu, y sus hermosas terrazas se consideraban un tributo digno de la reina.</p><p>Los halagos constantes alimentaron una vanidad venenosa en la mente de Zalkoré hasta que pactó con una erinia para conservar eternamente su juventud y belleza. La erinia cumplió el trato transformándola en una @UUID[Compendium.dnd5e.monsters.Actor.eiifqZwYGi71r2Yl]{medusa}. Cuando su malvado pacto se dio a conocer por todo el reino, el ejército la obligó a abdicar y la desterró a Ka-Nanji, que desde entonces pasó a llamarse Nangalore, el Jardín de los Sueños Perdidos.</p><p>Convencida de que Thiru-taya estaba entre los generales que la habían desterrado, Zalkoré desfiguró todas sus estatuas y retratos en Nangalore. Solo cuando llevaron sus cenizas al jardín para enterrarlas, cumpliendo su última voluntad, supo que le había sido fiel toda su vida, durante décadas de cautiverio y deshonra en Omu. Zalkoré cultiva plantas alucinógenas en el jardín porque solo en los sueños narcóticos que le provoca el loto puede evocar el rostro de su amor muerto.</p><p>Los personajes pueden descubrir su trágica historia interpretando las tallas del jardín. Si eso los lleva a compadecerla, bien está, pero su tragedia no ennobleció a Zalkoré ni la convirtió en una persona mejor: la transformó en un monstruo.</p>"
         },
         "toaZaroumAlSarya": {
           "alignment": "Neutral malvado",

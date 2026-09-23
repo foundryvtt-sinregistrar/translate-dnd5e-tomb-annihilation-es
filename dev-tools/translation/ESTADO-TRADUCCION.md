@@ -2126,18 +2126,28 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   escalado por nivel de espacio. El Ataque Furtivo de Rokah presenta la misma
   omisión del límite por turno ya registrada para otros espías.
 
+### appendix-d-zalkore — Zalkoré
+
+- Revisados 44 campos: página de presentación y ambas copias del actor.
+  Historia contrastada con la página física 80 y perfil con el exportado inglés.
+- Conservadas las fases de petrificación, el umbral de fallo por cinco,
+  las condiciones del reflejo y las alternativas de Ataque múltiple.
+- El exportado de Mirada Petrificadora dice «her next turn» al describir
+  hasta cuándo se aparta la mirada: se conserva el turno de la medusa y se
+  anota la discrepancia potencial para la revisión funcional de la regla.
+
 ## Balance de revisión editorial
 
-- 846 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 847 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 241 de los apéndices A, B, C, D y F.
-  No equivale a 846 páginas del PDF.
-- 7699 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 7699 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 242 de los apéndices A, B, C, D y F.
+  No equivale a 847 páginas del PDF.
+- 7743 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 7743 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas noventa y nueve biografías en ambas copias de actores: siete
-  príncipes y noventa y dos criaturas o PNJ del apéndice D. Siguen pendientes las demás
+  insertado. Revisadas cien biografías en ambas copias de actores: siete
+  príncipes y noventa y tres criaturas o PNJ del apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las
