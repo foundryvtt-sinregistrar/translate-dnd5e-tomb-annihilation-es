@@ -1216,22 +1216,34 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   comprobarse cómo aplicar el requisito narrativo de recorrer la senda.
 - Auditorías técnica y editorial sin errores.
 
+### ch5-level6-exit-01 a ch5-level6-exit-02 — Biblioteca y salida
+
+- Revisados dos textos y títulos con referencias físicas 189-190.
+  Completados los 12 textos del sexto nivel y los 126 del capítulo 5.
+- El nombre verdadero aturde al arcanaloth; tras el efecto hay 24 horas de
+  inmunidad a su repetición. Las gafas son la llave de un portal, no mágicas.
+- Corregida la descripción de «gafas de oro» en el consejo de Foundry para
+  mantener concordancia con las gafas de carey descritas; las fichas deben revisarse.
+- Diferenciados objetos sueltos perdidos en el cieno y equipo que acompaña
+  a las criaturas al salir. Conservadas duración y reactivación por canica.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 603 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 605 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4 y 124 del capítulo 5. No equivale a 603 páginas del PDF.
-- 1316 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1316 campos distintos.
+  del capítulo 4 y 126 del capítulo 5. No equivale a 605 páginas del PDF.
+- 1320 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1320 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
-  relacionadas, además del capítulo 5, diarios complementarios y apéndices.
+  relacionadas, además de diarios complementarios y apéndices.
 - Auditorías estáticas y editorial sin errores. No se han renovado las
   instantáneas de Babele ni realizado una importación completa de Adventure.
-- **La revisión del módulo continúa incompleta.** Sigue el capítulo 5, además
-  de los documentos enlazados o insertados pendientes de los capítulos anteriores.
+- **La revisión del módulo continúa incompleta.** Siguen los documentos
+  enlazados o insertados pendientes, diarios complementarios y apéndices.
 - El informe v2 final solicitado queda pendiente hasta cerrar toda la revisión;
   este estado de avance no acredita una revisión completa ni la sustituye.
 
