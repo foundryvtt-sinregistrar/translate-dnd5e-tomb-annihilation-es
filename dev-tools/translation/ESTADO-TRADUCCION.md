@@ -1559,6 +1559,16 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   traducida ni se inventa un campo ausente; se registra la omisión del módulo.
 - Auditorías técnica y editorial sin errores.
 
+### appendix-d-vine-traits — Ataques de la enredadera asesina
+
+- Revisados 26 campos de las dos copias del actor, con referencia física 220.
+  Incluye alineamiento, Constreñir, Enmarañar, Apariencia Falsa y sus efectos.
+- Conservados un solo objetivo constreñido, los estados agarrado y apresado,
+  el daño al comienzo del turno y el área cuadrada de 15 pies de lado.
+- Enmarañar permite gastar una acción para escapar y termina al morir la
+  planta o usar de nuevo el rasgo; no se describe como un conjuro.
+- Auditorías técnica y editorial sin errores. Pendiente ejecución en Foundry.
+
 ## Balance de revisión editorial
 
 - 760 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -1566,8 +1576,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
   del capítulo 4, 126 del capítulo 5 y 155 de los apéndices A, B, C, D y F.
   No equivale a 760 páginas del PDF.
-- 2469 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 2469 campos distintos.
+- 2495 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 2495 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas quince biografías en ambas copias de actores: siete
   príncipes y ocho criaturas o PNJ del apéndice D. Siguen pendientes las demás

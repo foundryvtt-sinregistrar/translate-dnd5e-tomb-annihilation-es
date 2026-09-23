@@ -727,36 +727,36 @@
           "biography": "<p>Una enredadera asesina es una planta ambulante que obtiene abono atrapando y aplastando a sus presas, cuyos cadáveres deposita cerca de las raíces. Suele permanecer inmóvil salvo cuando necesita buscar presas. Una planta adulta tiene una liana principal de unos 20 pies de largo, de la que brotan lianas menores de hasta 5 pies de largo cada 6 pulgadas. A finales del verano, las lianas secundarias producen racimos de frutos pequeños parecidos a uvas silvestres. El fruto es duro y tiene un sabor intenso y amargo.</p><p>Una variedad subterránea crece cerca de fuentes termales, respiraderos volcánicos y otras fuentes de calor. Las enredaderas asesinas subterráneas suelen acumular suficientes despojos para alimentar una próspera colonia de setas y otros hongos que brotan alrededor y contribuyen a ocultarlas.</p>",
           "items": {
             "pZgqyRBZb9gXkQRT": {
-              "name": "Constricción",
-              "description": "<p>[[/attack extended]]. [[/damage extended]], y lo es &amp;Reference[Grappled apply=false]{forcejeado} (escape CD 14). Hasta que termine esta pelea, el objetivo es &amp;Reference[Restrained apply=false]{restringidos}, y se necesita [[/damage average activity=ebq7C4wTCHUAt7iG]] daños al inicio de cada uno de sus giros. La vid sólo puede restringir un objetivo a la vez.</p>",
+              "name": "Constreñir",
+              "description": "<p>[[/attack extended]]. [[/damage extended]], y el objetivo queda &amp;Reference[Grappled apply=false]{agarrado} (CD 14 para escapar). Hasta que termine el agarre, el objetivo está &amp;Reference[Restrained apply=false]{apresado} y sufre [[/damage average activity=ebq7C4wTCHUAt7iG]] de daño al comienzo de cada uno de sus turnos. La enredadera solo puede constreñir a un objetivo a la vez.</p>",
               "activities": {
                 "ebq7C4wTCHUAt7iG": {
-                  "name": "Daños: Inicio de la vuelta"
+                  "name": "Daño al comienzo del turno"
                 },
                 "VMIT9l0bMY2gQO2b": {
-                  "name": "Comprobación de escape"
+                  "name": "Prueba para escapar"
                 }
               },
               "effects": {
                 "lNir1ZHYmThPvHN6": {
-                  "name": "Agarrado y Restringido",
-                  "description": "<p>El objetivo es &amp;Reference[Grappled apply=false]{forcejeado} (escapada 14). Hasta que termine esta pelea, el objetivo es &amp;Reference[Restrained apply=false]{restringidos}.</p>"
+                  "name": "Agarrado y apresado",
+                  "description": "<p>El objetivo está &amp;Reference[Grappled apply=false]{agarrado} (CD 14 para escapar). Hasta que termine el agarre, está &amp;Reference[Restrained apply=false]{apresado}.</p>"
                 }
               }
             },
             "ceLfHboBPVro4vgY": {
-              "name": "Viñedos enredados",
-              "description": "<p>La vid asesina puede animar vides normales y raíces en el suelo en un cuadrado de 15 pies a menos de 30 pies de ella. Estas plantas convierten el suelo en esa zona en terreno difícil. Una criatura en esa área cuando el efecto comienza debe tener éxito en un [[/save str 13 format=long]] o ser &amp;Reference[Restrained apply=false]{restringidos} enredando viñas y raíces. Una criatura contenida por las plantas puede usar su acción para hacer un [[/check athletics 13 format=long]], liberándose en un cheque exitoso. El efecto termina después de 1 minuto o cuando la vid asesina muere o usa Viñedos Enrejados de nuevo.</p>",
+              "name": "Enmarañar",
+              "description": "<p>La enredadera asesina puede animar las lianas y raíces normales del suelo en un cuadrado de 15 pies de lado situado a 30 pies o menos de ella. Estas plantas convierten el área en terreno difícil. Una criatura que esté en el área cuando comience el efecto debe superar una [[/save str 13 format=long]] o queda &amp;Reference[Restrained apply=false]{apresada} por las lianas y raíces. Una criatura apresada por las plantas puede usar su acción para realizar una [[/check athletics 13 format=long]] y se libera si tiene éxito. El efecto termina después de 1 minuto, cuando la enredadera asesina muere o cuando vuelve a usar Enmarañar.</p>",
               "effects": {
                 "XSYopgIzbgrOJtoV": {
-                  "name": "Restringido",
-                  "description": "<p>Una criatura contenida por las plantas puede usar su acción para hacer un [[/check ability=str skill=ath dc=13 format=long]], liberándose en un cheque exitoso.</p>"
+                  "name": "Apresado",
+                  "description": "<p>Una criatura apresada por las plantas puede usar su acción para realizar una [[/check ability=str skill=ath dc=13 format=long]] y se libera si tiene éxito.</p>"
                 }
               }
             },
             "rbmopsQYTdadaiZQ": {
-              "name": "Apariencia falsa",
-              "description": "<p>Mientras que la vid asesina permanece inmóvil, es indistinguible de una planta normal.</p>"
+              "name": "Apariencia Falsa",
+              "description": "<p>Mientras la enredadera asesina permanece inmóvil, es indistinguible de una planta normal.</p>"
             }
           }
         },
