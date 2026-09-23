@@ -1320,6 +1320,16 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   duración, derretimiento y destrucción por la Reina del Verano.
 - Auditorías técnica y editorial sin errores.
 
+### appendix-a-anthropologist — Antropólogo y tablas
+
+- Revisados 42 campos: trasfondo, rasgo Lingüista experto y cinco tablas,
+  con referencia física 192.
+- Conservados equipo, competencias y observación durante un día antes de
+  comunicarse de forma rudimentaria. No se concede dominio pleno de un idioma.
+- Revisados cultura adoptada, personalidad, ideales, vínculos y defectos;
+  conservados resultados e indicaciones de alineamiento del original.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
 - 626 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -1327,8 +1337,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
   del capítulo 4, 126 del capítulo 5 y 21 de los apéndices A y C.
   No equivale a 626 páginas del PDF.
-- 1488 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1488 campos distintos.
+- 1530 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1530 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
