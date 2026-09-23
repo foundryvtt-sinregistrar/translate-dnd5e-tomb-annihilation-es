@@ -398,19 +398,19 @@
       "name": "Cultura adoptada"
     },
     "toaAppBExplorers": {
-      "name": "Situación del grupo Explorer",
+      "name": "Situación del grupo de exploradores",
       "results": {
         "REF5faat5rZEn3KZ": {
           "description": "<p>Los exploradores están perdidos y hambrientos.</p>"
         },
         "EsPZq4kttzwdxIG7": {
-          "description": "<p>Los exploradores están en buena forma, pero son cazados activamente por firenewts, ghouls, goblins, o grungs (ver la entrada apropiada en este apéndice).</p>"
+          "description": "<p>Los exploradores están en buenas condiciones, pero los persiguen salamandras flamígeras, gules, goblins o grungs (consulta el encuentro correspondiente en este apéndice).</p>"
         },
         "OvACEIdPHAhmuqvM": {
-          "description": "<p>Los exploradores están sanos y se dirigen hacia el punto de referencia más cercano, con la intención de explorarlo.</p>"
+          "description": "<p>Los exploradores gozan de buena salud y se dirigen al lugar de referencia más cercano con intención de explorarlo.</p>"
         },
         "AYkThamF5RGuc2vn": {
-          "description": "<p>Los exploradores están sanos y regresan a Port Nyanzaru para descansar y abastecerse.</p>"
+          "description": "<p>Los exploradores gozan de buena salud y regresan a Puerto Nyanzaru para descansar y reabastecerse.</p>"
         }
       }
     },
@@ -1012,25 +1012,25 @@
       }
     },
     "toaRarePlants000": {
-      "name": "Planta(s) rara(s)",
+      "name": "Plantas raras",
       "results": {
         "1xpeduXWyW1nQldT": {
-          "description": "<p>[[/r 2d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafDancingMon]{Frutas de mono bailando} creciendo en un árbol</p>"
+          "description": "<p>[[/r 2d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafDancingMon]{frutas del mono bailongo} que crecen en un árbol</p>"
         },
         "D8KxU3C6Ub9Rcvgj": {
-          "description": "<p>Arbusto de menga con [[/r 2d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafMengaLeave]{onzas de hojas}</p>"
+          "description": "<p>Un arbusto de menga con [[/r 2d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafMengaLeave]{onzas de hojas}</p>"
         },
         "ge40BlTkQfizqK4l": {
-          "description": "<p>[[/r 1d4]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafRyathRoot0]{raíces de riath} crecer en el suelo</p>"
+          "description": "<p>[[/r 1d4]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafRyathRoot0]{raíces de ryath} que crecen en el suelo</p>"
         },
         "caQlq5CHN0dK1Rgs": {
-          "description": "<p>[[/r 4d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafSindaBerri]{bayas sinda} creciendo en un arbusto</p>"
+          "description": "<p>[[/r 4d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafSindaBerri]{bayas de sinda} que crecen en un arbusto</p>"
         },
         "ONMrah4PUhWU8yH4": {
-          "description": "<p>Wukka árbol con [[/r 2d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafWukkaNuts0]{Nueces de wukka}</p>"
+          "description": "<p>Un árbol wukka con [[/r 2d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafWukkaNuts0]{frutos secos wukka}</p>"
         },
         "NtNCn7q4Q89Y9MAC": {
-          "description": "<p>[[/r 1d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafZabou00000]{zabou} creciendo en un árbol muerto</p>"
+          "description": "<p>[[/r 1d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafZabou00000]{zabous} que crecen en un árbol muerto</p>"
         }
       }
     },
@@ -1038,16 +1038,16 @@
       "name": "Estatua de Ubtao",
       "results": {
         "Z9DLf8QDROfqIrZ4": {
-          "description": "<p>El tesoro se encuentra al pie de la estatua, dejado allí como tributo por una criatura de la selva. Rodar una vez en el @UUID[Compendium.dnd-tomb-annihilation.tables.RollTable.dmgTreasureDrops]{Gotas de tesoro} mesa para determinar qué tesoro se encuentra. Si el rollo indica que no hay tesoro, los personajes encuentran piezas sin valor de joyas de hueso en su lugar.</p>"
+          "description": "<p>A los pies de la estatua hay un tesoro que alguna criatura de la selva dejó como tributo. Tira una vez en la tabla @UUID[Compendium.dnd-tomb-annihilation.tables.RollTable.dmgTreasureDrops]{Tesoros obtenidos} para determinar qué encuentran. Si la tirada indica que no hay tesoro, los personajes encuentran en su lugar adornos de hueso sin valor.</p>"
         },
         "nS04O2WxBbhj8bEJ": {
-          "description": "<p>Los cráneos de goblin, grung y su-monster están amontonados alrededor de la base de la estatua.</p>"
+          "description": "<p>Alrededor de la base de la estatua se amontonan cráneos de goblins, grungs y sucarates.</p>"
         },
         "ENFV6CPl3fOXTevA": {
-          "description": "<p>A @UUID[Compendium.dnd5e.spells.Item.pB7XVYwdGNcUG935]{glifo de la protección} está inscrito en la estatua. Para detectar el glifo, un personaje que busca la estatua debe tener éxito en un [[/check investigation 15 format=long]]. Si alguna criatura toca la estatua, el glifo estalla con energía mágica en una esfera de 20 pies de radio centrada en la estatua. Cada criatura en la zona debe tener éxito en un [[/save dex 14 format=long]], tomando [[/damage 5d8 thunder average]] daño en un error de guardar, o la mitad de daño en un éxito. El ruido estruendoso tiene un [[/r 1d100cs&lt;=75#Sturges or a troll hears the noise on a result of 1]]{75 por ciento de probabilidad} de atraer agitaciones o un troll acechando cerca (ver “@UUID[JournalEntry.toaAppBRandomEnc.JournalEntryPage.mJLP1CT91yz4xyEu]{Stirges}” y “@UUID[JournalEntry.toaAppBRandomEnc.JournalEntryPage.gqmqw9126FVmMnBl]{Trol}”).</p>"
+          "description": "<p>La estatua tiene inscrito un @UUID[Compendium.dnd5e.spells.Item.pB7XVYwdGNcUG935]{glifo custodio}. Para detectarlo, un personaje que examine la estatua debe superar una [[/check investigation 15 format=long]]. Si cualquier criatura toca la estatua, el glifo libera energía mágica en una esfera de 20 pies de radio centrada en ella. Cada criatura en el área debe realizar una [[/save dex 14 format=long]]; sufre [[/damage 5d8 thunder average]] de daño si falla, o la mitad si tiene éxito. El estruendo tiene una [[/r 1d100cs&lt;=75#Sturges or a troll hears the noise on a result of 1]]{probabilidad del 75 por ciento} de atraer a estirges o a un troll que merodeen cerca (consulta «@UUID[JournalEntry.toaAppBRandomEnc.JournalEntryPage.mJLP1CT91yz4xyEu]{Estirges}» y «@UUID[JournalEntry.toaAppBRandomEnc.JournalEntryPage.gqmqw9126FVmMnBl]{Troll}»).</p>"
         },
         "6wkRaiZ2kwxzM5hD": {
-          "description": "<p>La estatua tiene surcos tallados en su estómago que forman un laberinto. Cualquier personaje que estudia los surcos y tiene éxito en un [[/check int 10 format=long]] ve un camino claro a través del laberinto. Ese personaje es entonces otorgado con el poder de lanzar el @UUID[Compendium.dnd5e.spells.Item.cYI4RNNjI5GAmLhy]{encontrar el camino} deletrear como una acción, sin componentes necesarios, trazando el mismo camino con su dedo. Una vez usada, esta habilidad desaparece. Una vez que la estatua ha concedido este beneficio, no puede hacerlo de nuevo hasta el próximo amanecer.</p>"
+          "description": "<p>La estatua tiene un laberinto tallado en el vientre. Cualquier personaje que lo estudie y supere una [[/check int 10 format=long]] descubre un camino claro para recorrerlo. Ese personaje obtiene el poder de lanzar el conjuro @UUID[Compendium.dnd5e.spells.Item.cYI4RNNjI5GAmLhy]{encontrar el camino} como acción, sin componentes, trazando ese mismo recorrido con el dedo. El poder desaparece después de usarlo una vez. Una vez concedido este beneficio, la estatua no puede volver a otorgarlo hasta el siguiente amanecer.</p>"
         }
       }
     },
@@ -1116,19 +1116,19 @@
       "name": "Zombis",
       "results": {
         "G6TFasPmOwQrKb8H": {
-          "description": "<p>[[/r 3d6]] @UUID[Actor.J6yWqkj0lotaRnTh]{zombies}</p>"
+          "description": "<p>[[/r 3d6]] @UUID[Actor.J6yWqkj0lotaRnTh]{zombis}</p>"
         },
         "p2GGZJkx8cdeRXXN": {
-          "description": "<p>1 @UUID[Actor.toaAnkylosaurusZ]{ankylosaurus zombie }(ver @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{Apéndice D})</p>"
+          "description": "<p>1 @UUID[Actor.toaAnkylosaurusZ]{anquilosaurio zombi} (consulta el @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{apéndice D})</p>"
         },
         "i8KisLCSm2VFmOY0": {
-          "description": "<p>[[/r 1d4]] @UUID[Actor.toaGirallonZombi]{Girallon zombis} (ver @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{Apéndice D})</p>"
+          "description": "<p>[[/r 1d4]] @UUID[Actor.toaGirallonZombi]{girallons zombis} (consulta el @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{apéndice D})</p>"
         },
         "dAJyD4cBY7IW2VrE": {
-          "description": "<p>[[/r 1d4]] @UUID[Compendium.dnd5e.monsters.Actor.RenLfmDT2XlbCF4x]{zombis ogros}</p>"
+          "description": "<p>[[/r 1d4]] @UUID[Compendium.dnd5e.monsters.Actor.RenLfmDT2XlbCF4x]{ogros zombis}</p>"
         },
         "rrlff9wABfEvoQ04": {
-          "description": "<p>1 @UUID[Actor.toaTyrannosaurus]{tyrannosaurus zombi} (ver @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{Apéndice D})</p>"
+          "description": "<p>1 @UUID[Actor.toaTyrannosaurus]{tiranosaurio zombi} (consulta el @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{apéndice D})</p>"
         }
       }
     },

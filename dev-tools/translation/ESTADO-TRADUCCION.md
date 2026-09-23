@@ -1464,6 +1464,17 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Auditorías técnica y editorial sin errores. Los títulos internos de Embed
   en inglés siguen registrados como pendientes de presentación.
 
+### appendix-b-smalltables — Exploradores, plantas, estatua y zombis
+
+- Revisados 23 campos de cuatro tablas independientes, con referencias
+  físicas 201 y 203. Incluye sus nombres y todos sus resultados.
+- Conservadas las cantidades de plantas y zombis, la situación del grupo,
+  el área y daño del glifo y el uso único de encontrar el camino.
+- La estatua no puede volver a conceder el beneficio hasta el amanecer.
+  Su comentario de probabilidad también requiere corrección funcional:
+  fórmula del 75 % correcta, comentario inglés «result of 1» incorrecto.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
 - 751 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -1471,8 +1482,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
   del capítulo 4, 126 del capítulo 5 y 146 de los apéndices A, B, C y F.
   No equivale a 751 páginas del PDF.
-- 1856 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1856 campos distintos.
+- 1879 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1879 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
