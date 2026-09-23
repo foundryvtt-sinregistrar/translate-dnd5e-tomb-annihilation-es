@@ -2209,18 +2209,30 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Conservados el ataque de cola de Aremag como alternativa a dos garras y
   la excepción a la resistencia al daño de su aliento al estar bajo el agua.
 
+### appendix-d-omu-four — Kakarol, Voj, gladiador de arcilla y Rey de Plumas
+
+- Revisados 282 campos: cuatro páginas y ambas copias de los actores.
+  Referencias físicas 101, 107–108 y 111; rasgos y conjuros contra el inglés.
+  El gladiador de arcilla no tiene biografía exportada: se suman tres biografías.
+- Comprobadas la inmunidad a cambios de forma, la trepa y las capacidades
+  especiales del Rey de Plumas, incluidos la duración del enjambre, su turno
+  y la prohibición de invocarlo con una criatura entre las fauces.
+- Kakarol conserva Orbe cromático en la lista de conjuros sin un objeto
+  correspondiente, como el hechicero escamoso genérico. Reparada la llave
+  tipográfica por un paréntesis en la cita del Manual del jugador de 2014.
+
 ## Balance de revisión editorial
 
-- 876 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 880 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 271 de los apéndices A, B, C, D y F.
-  No equivale a 876 páginas del PDF.
-- 9157 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 9157 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 275 de los apéndices A, B, C, D y F.
+  No equivale a 880 páginas del PDF.
+- 9439 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 9439 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas ciento veinte biografías en ambas copias de actores: siete
-  príncipes y ciento trece criaturas o PNJ vinculados al apéndice D. Siguen pendientes las demás
+  insertado. Revisadas ciento veintitrés biografías en ambas copias de actores: siete
+  príncipes y ciento dieciséis criaturas o PNJ vinculados al apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las
