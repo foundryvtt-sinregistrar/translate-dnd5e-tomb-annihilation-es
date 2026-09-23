@@ -8562,68 +8562,68 @@
             },
             "CLKucBN8e2mvrlDP": {
               "name": "Toque paralizante",
-              "description": "<p><em>Ataque de conjuro Melee:</em> [[/attack]], hasta 5 pies, una criatura. Pulse: [[/damage average]] daño. El objetivo debe tener éxito en un [[/save format=long]] o ser &amp;Reference[Paralyzed apply=false]{paralizado} durante 1 minuto. El objetivo puede repetir el lanzamiento de ahorro al final de cada uno de sus turnos, terminando con el efecto en sí mismo en un éxito.</p>",
+              "description": "<p><em>Ataque de conjuro cuerpo a cuerpo:</em> [[/attack]], alcance 5 pies, una criatura. Impacto: [[/damage average]] de daño. El objetivo debe superar una [[/save format=long]] o quedar &amp;Reference[Paralyzed apply=false]{paralizado} durante 1 minuto. Puede repetir la tirada de salvación al final de cada uno de sus turnos y terminar el efecto sobre sí mismo si tiene éxito.</p>",
               "effects": {
                 "K3MH50aTk2y2JG80": {
                   "name": "Paralizado",
-                  "description": "<p>El objetivo es &amp;Reference[Paralyzed apply=false] durante 1 minuto.</p>"
+                  "description": "<p>El objetivo queda &amp;Reference[Paralyzed apply=false]{paralizado} durante 1 minuto.</p>"
                 }
               }
             },
             "aj6paiMPZYSb9WfP": {
-              "name": "Invocar la maldición",
-              "description": "<p>Mientras sostiene el Staff del Olvidado, [[lookup @name]] gasta 1 carga de ella y apunta a una criatura que puede ver a menos de 60 pies de él. El objetivo debe tener éxito en un [[/save format=long]] o ser maldecido. </p><p>Hasta que la maldición termine, el objetivo no puede recuperar puntos de impacto y tiene vulnerabilidad al daño necrótico. <em>@UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{Mayor restauración}</em>, <em>@UUID[Compendium.dnd5e.spells.Item.XZhdgVK3cLoxNCQl]{eliminar la maldición}</em>, o magia similar termina la maldición en el objetivo.</p>",
+              "name": "Invocar maldición",
+              "description": "<p>Mientras sostiene el Bastón del Olvidado, [[lookup @name]] gasta 1 carga y elige a una criatura que pueda ver a 60 pies o menos de él. El objetivo debe superar una [[/save format=long]] o quedar maldito.</p><p>Hasta que termine la maldición, el objetivo no puede recuperar puntos de golpe y tiene vulnerabilidad al daño necrótico. <em>@UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{Restablecimiento mayor}</em>, <em>@UUID[Compendium.dnd5e.spells.Item.XZhdgVK3cLoxNCQl]{levantar maldición}</em> o magia similar termina la maldición.</p>",
               "effects": {
                 "EUHxJ6edWWPEmalv": {
                   "name": "Maldito",
-                  "description": "<p>El objetivo está maldito. Hasta que la maldición termine, el objetivo no puede recuperar puntos de impacto y tiene vulnerabilidad al daño necrótico. </p>"
+                  "description": "<p>El objetivo está maldito. Hasta que termine la maldición, no puede recuperar puntos de golpe y tiene vulnerabilidad al daño necrótico.</p>"
                 }
               }
             },
             "Dcmfuz4fg5QM7Hx6": {
               "name": "Acciones legendarias",
-              "description": "<p>Acerrak puede tomar 3 acciones legendarias, eligiendo entre las opciones de abajo. Sólo una opción legendaria de acción puede ser utilizada a la vez y sólo al final del turno de otra criatura. Acererak recupera acciones legendarias gastadas al comienzo de su turno.</p>"
+              "description": "<p>Acererak puede realizar 3 acciones legendarias, a elegir entre las opciones siguientes. Solo puede usar una opción cada vez y únicamente al final del turno de otra criatura. Recupera las acciones legendarias gastadas al comienzo de su turno.</p>"
             },
             "FM2XCGA6Pme31xm4": {
-              "name": "Deletreado a voluntad",
+              "name": "Conjuro a voluntad",
               "description": "<p>[[lookup @name]] puede lanzar uno de sus conjuros a voluntad.</p>"
             },
             "LfPPhTucqjTx0q09": {
               "name": "Ataque cuerpo a cuerpo",
-              "description": "<p>[[lookup @name]] usos @UUID[.CLKucBN8e2mvrlDP]{Toque paralizante} o hace un ataque cuerpo a cuerpo con su bastón.</p>"
+              "description": "<p>[[lookup @name]] usa @UUID[.CLKucBN8e2mvrlDP]{Toque paralizante} o realiza un ataque cuerpo a cuerpo con su bastón.</p>"
             },
             "PeYqUVxRILje9uKT": {
               "name": "Mirada aterradora",
-              "description": "<p>[[lookup @name]] fija su mirada en una criatura que puede ver a menos de 10 pies de él. El objetivo debe tener éxito en un [[/save format=long]] contra esta magia o convertirse en &amp;Reference[Frightened apply=false]{asustado.} durante 1 minuto.</p><p>El objetivo asustado puede repetir el lanzamiento de ahorro al final de cada uno de sus turnos, poniendo fin al efecto en sí mismo en un éxito. Si el tirada de salvación de un objetivo es exitoso o el efecto termina por él, el objetivo es inmune a la mirada de Acerrak durante las próximas 24 horas.</p>",
+              "description": "<p>[[lookup @name]] fija la mirada en una criatura que pueda ver a 10 pies o menos de él. El objetivo debe superar una [[/save format=long]] contra esta magia o quedar &amp;Reference[Frightened apply=false]{asustado} durante 1 minuto.</p><p>El objetivo asustado puede repetir la tirada de salvación al final de cada uno de sus turnos y terminar el efecto sobre sí mismo si tiene éxito. Si supera la salvación o el efecto termina para él, queda inmune a la mirada de Acererak durante las siguientes 24 horas.</p>",
               "activities": {
                 "TggH05YqlORl6YOG": {
-                  "name": "Guardar: Fin de la vuelta"
+                  "name": "Salvación al final del turno"
                 }
               }
             },
             "WUqyjTG2r2E7Mp3y": {
               "name": "Talismán de la esfera",
-              "description": "<p>[[lookup @name]] utiliza su talismán de la esfera para mover la esfera de aniquilación bajo su control hasta 90 pies.</p>",
+              "description": "<p>[[lookup @name]] usa su talismán de la esfera para mover hasta 90 pies la esfera de aniquilación que controla.</p>",
               "activities": {
                 "1oUUWxprrHvbgIDW": {
-                  "name": "Gasto"
+                  "name": "Gastar un uso"
                 }
               }
             },
             "JxEdEnz0VzmF7Gln": {
               "name": "Perturbar vida",
-              "description": "<p>Cada criatura a menos de 20 pies de distancia [[lookup @name]] debe hacer un [[/save format=long]] contra esta magia, tomando [[/damage average]] daño en un error de guardar, o la mitad de daño en un éxito.</p>"
+              "description": "<p>Cada criatura a 20 pies o menos de [[lookup @name]] debe realizar una [[/save format=long]] contra esta magia. Sufre [[/damage average]] de daño si falla, o la mitad si tiene éxito.</p>"
             },
             "FbohFciqcIdhFh5B": {
-              "name": "Equipo especial",
-              "description": "<p>[[lookup @name]] lleva la <em>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toamgcStaffofthe]{El Personal del Olvidado}</em> (ver @UUID[Compendium.dnd-tomb-annihilation.book.JournalEntry.toaAppCDiscoveri]{Apéndice C}). Lleva un <em>@UUID[Compendium.dnd5e.items.Item.46ikeR4RrSim6DsN]{talismán de la esfera}</em> y tiene un <em>@UUID[Compendium.dnd5e.tables.RollTable.hHR0Zw75o9PXYl4c]{esfera de aniquilación}</em> bajo su control.</p>"
+              "name": "Equipo Especial",
+              "description": "<p>[[lookup @name]] lleva el <em>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toamgcStaffofthe]{Bastón del Olvidado}</em> (consulta el @UUID[Compendium.dnd-tomb-annihilation.book.JournalEntry.toaAppCDiscoveri]{apéndice C}). Lleva puesto un <em>@UUID[Compendium.dnd5e.items.Item.46ikeR4RrSim6DsN]{talismán de la esfera}</em> y controla una <em>@UUID[Compendium.dnd5e.tables.RollTable.hHR0Zw75o9PXYl4c]{esfera de aniquilación}</em>.</p>"
             },
             "SQYfRl0Wygu750Tb": {
               "name": "Rejuvenecimiento",
-              "description": "<p>[[lookup @name]]El cuerpo se convierte en polvo cuando cae a 0 puntos de impacto, y su equipo se deja atrás. Acererak gana un nuevo cuerpo después [[/r 1d10]] días, recuperando todos sus puntos de impacto y volviéndose activo de nuevo. El nuevo cuerpo aparece a menos de 5 pies de distancia [[lookup @name]]’s filacteria, cuya ubicación está oculta.</p>",
+              "description": "<p>El cuerpo de [[lookup @name]] se convierte en polvo al llegar a 0 puntos de golpe y deja atrás su equipo. Acererak obtiene un nuevo cuerpo tras [[/r 1d10]] días, recupera todos sus puntos de golpe y vuelve a estar activo. El nuevo cuerpo aparece a 5 pies o menos de la filacteria de [[lookup @name]], cuya ubicación permanece oculta.</p>",
               "activities": {
                 "dnd5eactivity000": {
-                  "name": "Días para rejuvenecer",
+                  "name": "Días hasta el rejuvenecimiento",
                   "roll": {
                     "name": "Rejuvenecimiento (días)"
                   }
@@ -8631,8 +8631,8 @@
               }
             },
             "5QP1YdOQbonE1EOe": {
-              "name": "Resistencia a giros",
-              "description": "<p>[[lookup @name]] tiene ventaja en los lanzamientos de ahorro contra cualquier efecto que se convierte en no-muerto.</p>"
+              "name": "Resistencia a Expulsión",
+              "description": "<p>[[lookup @name]] tiene ventaja en las tiradas de salvación contra cualquier efecto que expulse muertos vivientes.</p>"
             },
             "VxSa4o3N4mIu0zKv": {
               "name": "Mano Maga",
@@ -8739,43 +8739,43 @@
               "description": "<p>Detienes brevemente el flujo del tiempo para todos menos para ti mismo. No pasa el tiempo para otras criaturas, mientras tomas 1d4 + 1 vueltas seguidas, durante las cuales puedes usar Acciones y moverte como de costumbre.</p><p>Este conjuro termina si una de las Acciones que utilizas durante este período, o cualquier Efecto que creas durante este período, afecta a una criatura distinta de ti o a un objeto que lleva o lleva alguien que no eres tú. Además, el conjuro termina si te mueves a un lugar a más de 1,000 pies del lugar donde lo lanzas.</p>"
             },
             "AGvsg35vN8e1HjdR": {
-              "name": "Resistencia legendaria",
-              "description": "<p>Si [[lookup @name]] falla un lanzamiento de ahorro, puede elegir tener éxito en su lugar.</p>",
+              "name": "Resistencia Legendaria",
+              "description": "<p>Si [[lookup @name]] falla una tirada de salvación, puede elegir tener éxito en su lugar.</p>",
               "activities": {
                 "Q2M4fw81bygE0JVH": {
-                  "name": "Gasto"
+                  "name": "Gastar un uso"
                 }
               }
             },
             "zxVH0Ipj8d2mTwWR": {
-              "name": "El Personal del Olvidado",
-              "description": "<p>[[/attack extended]]. [[/damage extended average]] o [[/damage twoHanded average]].</p><section class=\"secret\" id=\"secret-yAkgtrnlqF4X7nHo\"><p><em>(requiere sintonía por un hechicero, hechicero o mago)</em></p><p>Este bastón torcido está tallado en hueso y rematado con el cráneo de un archimago olvidado que Acerrak destruyó hace mucho tiempo. Grabado en la frente del cráneo es la runa de Acererak, que es conocido en muchos mundos como una señal de muerte.</p><p><em><strong>Propiedades beneficiosas.</strong></em> Mientras el personal está en su persona, usted obtiene los siguientes beneficios:</p><ul><li>Su bono de competencia a Inteligencia (&amp;Reference[skill=Arcana]) e Inteligencia (&amp;Reference[skill=History]) los cheques se duplican.</li><li>No puedes ser &amp;Reference[blinded apply=false], &amp;Reference[charmed apply=false], &amp;Reference[deafened apply=false], &amp;Reference[frightened apply=false], &amp;Reference[petrified apply=false]o bien &amp;Reference[stunned apply=false].</li><li>Los muertos vivientes con una calificación de desafío de 2 o inferior no te amenazarán ni atacarán a menos que les hagas daño.</li><li>Puede blandir el personal como un <em>+3 trimestres de personal</em> que da un daño necrótico adicional 10 (3d6) en un golpe.</li></ul><p><em><strong>Invocar la maldición.</strong></em> Los [[lookup @item.name]] tiene 7 cargos y recupera 1d4 + 3 gastos diarios al amanecer. Mientras sostienes el personal, puedes usar una acción para gastar 1 carga y apuntar a una criatura que puedes ver a menos de 60 pies de ti. El objetivo debe tener éxito en un [[/save format=long activity=wwlmRBqrIYN7PP0v]] (usando tu conjuro salva a CD) o ser maldecido. Mientras que maldecido de esta manera, el objetivo no puede recuperar puntos de impacto y tiene vulnerabilidad a daños necróticos. A <em>@UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{mayor restauración}</em>, <em>@UUID[Compendium.dnd5e.spells.Item.XZhdgVK3cLoxNCQl]{eliminar la maldición}</em>, o conjuro similar termina la maldición en el objetivo.</p><p><em><strong>El olvidado.</strong></em> La fuerza de vida sin cuerpo de un arcago muerto empodera al personal y está encarcelado dentro de él. La runa tallada en el cráneo del bastón protege a Acerrak de la venganza de este espíritu. Cada vez que una criatura distinta de Acererak gasta cualquiera de los cargos del personal, hay un [[/r 1d100cs&lt;=50]]{50 %} la posibilidad de que la fuerza de la vida trate de poseer el blandengue de personal. El usuario debe tener éxito en un [[/save format=long activity=Xunxk5VSINVzePM0]] o estar poseído, convirtiéndose en un PNJ bajo el control del DM. Si la fuerza de vida intruso es blanco de la magia como un <em>@UUID[Compendium.dnd5e.spells.Item.TkJ8Wtg1L7TZtspm]{disipar el mal y el bien}</em> Deletrear, se queda atrapado en el personal una vez más. Una vez que toma el control de otra criatura, el espíritu del archimago muerto intenta destruir el bastón.</p><p><em><strong>Destruyendo el Staff.</strong></em> Una criatura en posesión del bastón puede usar una acción para romperla sobre una rodilla o una superficie sólida. El personal es destruido y libera su magia restante en una explosión que se expande para llenar una esfera de 30 pies de radio centrada en ella. Cada criatura en la zona debe hacer un [[/save format=long activity=6FDPmp6M5MGjPED6]], tomando [[/damage average activity=6FDPmp6M5MGjPED6]] daño en un error de guardar, o la mitad de daño en un éxito. Cuando el bastón es destruido, la fuerza vital del Olvidado es liberada a la vida después de la muerte. Donde va es la suposición de cualquiera.</p><p>Lanzar el personal en un @UUID[Compendium.dnd5e.items.Item.2YNqk5zm9jDTvd7q]{esfera de aniquilación} destruye tanto el bastón como la fuerza vital atrapada dentro de él. El personal no explota si se destruye de esta manera, pero su destrucción hace que la esfera también sea destruida.</p></section>",
+              "name": "Bastón del Olvidado",
+              "description": "<p>[[/attack extended]]. [[/damage extended average]] o [[/damage twoHanded average]].</p><section class=\"secret\" id=\"secret-yAkgtrnlqF4X7nHo\"><p><em>(requiere sintonización con un hechicero, brujo o mago)</em></p><p>Este bastón torcido está tallado en hueso y rematado por el cráneo de un archimago olvidado al que Acererak destruyó hace mucho. En su frente está grabada la runa del archiliche, conocida en muchos mundos como un signo de muerte.</p><p><em><strong>Propiedades beneficiosas.</strong></em> Mientras lleves el bastón contigo, obtienes estos beneficios:</p><ul><li>Se duplica tu bonificador por competencia en las pruebas de Inteligencia (&amp;Reference[skill=Arcana]) e Inteligencia (&amp;Reference[skill=History]).</li><li>No puedes estar &amp;Reference[blinded apply=false], &amp;Reference[charmed apply=false], &amp;Reference[deafened apply=false], &amp;Reference[frightened apply=false], &amp;Reference[petrified apply=false] ni &amp;Reference[stunned apply=false].</li><li>Los muertos vivientes de desafío 2 o inferior no te amenazan ni atacan salvo que les hagas daño.</li><li>Puedes blandirlo como un <em>bastón +3</em> que causa 10 (3d6) de daño necrótico adicional al impactar.</li></ul><p><em><strong>Invocar maldición.</strong></em> El [[lookup @item.name]] tiene 7 cargas y recupera 1d4 + 3 al amanecer. Mientras lo sostengas, puedes usar una acción y gastar 1 carga para elegir una criatura que veas a un máximo de 60 pies. Debe superar una [[/save format=long activity=wwlmRBqrIYN7PP0v]] con tu CD de salvación de conjuros o quedar maldita. Mientras dure, no puede recuperar puntos de golpe y tiene vulnerabilidad al daño necrótico. <em>@UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{Restablecimiento mayor}</em>, <em>@UUID[Compendium.dnd5e.spells.Item.XZhdgVK3cLoxNCQl]{levantar maldición}</em> o un conjuro similar termina la maldición.</p><p><em><strong>El Olvidado.</strong></em> La fuerza vital incorpórea de un archimago muerto da poder al bastón y está prisionera en él. La runa del cráneo protege a Acererak de su venganza. Cada vez que otra criatura gaste cargas, hay un [[/r 1d100cs&lt;=50]]{50 por ciento} de probabilidad de que el espíritu intente poseerla. El portador debe superar una [[/save format=long activity=Xunxk5VSINVzePM0]] o quedar poseído y convertirse en un PNJ controlado por el DM. Si la fuerza invasora recibe magia como <em>@UUID[Compendium.dnd5e.spells.Item.TkJ8Wtg1L7TZtspm]{disipar el bien y el mal}</em>, vuelve a quedar atrapada en el bastón. Cuando controla a otra criatura, intenta destruirlo.</p><p><em><strong>Destruir el bastón.</strong></em> Quien lo tenga puede usar una acción para romperlo contra una rodilla o una superficie sólida. Al destruirse, libera su magia restante en una explosión esférica de 30 pies de radio centrada en él. Cada criatura en la zona debe hacer una [[/save format=long activity=6FDPmp6M5MGjPED6]]: recibe [[/damage average activity=6FDPmp6M5MGjPED6]] de daño si falla o la mitad si la supera. La fuerza vital del Olvidado queda libre para ir al más allá. Nadie sabe adónde va.</p><p>Arrojarlo a una @UUID[Compendium.dnd5e.items.Item.2YNqk5zm9jDTvd7q]{esfera de aniquilación} destruye el bastón y la fuerza vital. No explota, pero la esfera también queda destruida.</p></section>",
               "activities": {
                 "wwlmRBqrIYN7PP0v": {
-                  "name": "Invocar la maldición",
+                  "name": "Invocar maldición",
                   "description": {
-                    "chatFlavor": "Los usuarios que no sean Acerrak pueden estar poseídos. Ver \"El olvidado\"."
+                    "chatFlavor": "Quien lo use, salvo Acererak, puede ser poseído. Consulta «El Olvidado»."
                   }
                 },
                 "6FDPmp6M5MGjPED6": {
-                  "name": "Destruir el personal"
+                  "name": "Destruir el bastón"
                 },
                 "Xunxk5VSINVzePM0": {
-                  "name": "El olvidado"
+                  "name": "El Olvidado"
                 }
               },
               "effects": {
                 "B02UlDrsyI7pXVXU": {
-                  "name": "Aliado no-muerto, Bono de Competencia, Inmunidad de Condición",
-                  "description": "<p>Su bono de competencia a Inteligencia (&amp;Reference[skill=Arcana]) e Inteligencia (&amp;Reference[skill=History]) los cheques se duplican.</p><p>No puedes ser &amp;Reference[blinded, &amp;Reference[charmed apply=false], &amp;Reference[deafened apply=false], &amp;Reference[frightened apply=false], &amp;Reference[petrified apply=false]o bien &amp;Reference[stunned apply=false].</p><p>Los muertos vivientes con una calificación de desafío de 2 o inferior no te amenazarán ni atacarán a menos que les hagas daño.</p>"
+                  "name": "Protección ante muertos vivientes, competencia e inmunidades",
+                  "description": "<p>Se duplica tu bonificador por competencia en las pruebas de Inteligencia (&amp;Reference[skill=Arcana]) e Inteligencia (&amp;Reference[skill=History]).</p><p>No puedes estar &amp;Reference[blinded, &amp;Reference[charmed apply=false], &amp;Reference[deafened apply=false], &amp;Reference[frightened apply=false], &amp;Reference[petrified apply=false] ni &amp;Reference[stunned apply=false].</p><p>Los muertos vivientes de desafío 2 o inferior no te amenazan ni atacan salvo que les hagas daño.</p>"
                 },
                 "WnZSyBTkpNww6LHq": {
                   "name": "Maldito",
-                  "description": "<p>Mientras que maldecido de esta manera, el objetivo no puede recuperar puntos de impacto y tiene vulnerabilidad a daños necróticos. A @UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{mayor restauración}, @UUID[Compendium.dnd5e.spells.Item.XZhdgVK3cLoxNCQl]{eliminar la maldición}, o conjuro similar termina la maldición en el objetivo.</p>"
+                  "description": "<p>El objetivo maldito no puede recuperar puntos de golpe y tiene vulnerabilidad al daño necrótico. @UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{Restablecimiento mayor}, @UUID[Compendium.dnd5e.spells.Item.XZhdgVK3cLoxNCQl]{levantar maldición} o un conjuro similar termina la maldición.</p>"
                 },
                 "jPzLQhsl5i080N7k": {
                   "name": "Poseído",
-                  "description": "<p>El objetivo está poseído, convirtiéndose en un PNJ bajo el control del DM.</p>"
+                  "description": "<p>El objetivo está poseído y se convierte en un PNJ controlado por el DM.</p>"
                 }
               }
             }

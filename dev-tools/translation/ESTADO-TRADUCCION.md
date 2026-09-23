@@ -1925,6 +1925,20 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Quedan revisados todos los textos no vacíos de ambas copias de Artus;
   esto no acredita el funcionamiento de los conjuros y enlaces señalados.
 
+### appendix-d-acererak-traits — Acererak: rasgos, ataques y bastón
+
+- Revisados 92 campos de ambas copias, con referencias físicas 208–210.
+  Incluye acciones legendarias, rejuvenecimiento, maldición y Bastón del Olvidado.
+- La acción `Disrupt Life` de Acererak se traduce como «Perturbar vida»,
+  de acuerdo con su efecto y el PDF. No se reutiliza «Lamento», corrección
+  contextual aplicada anteriormente a una acción mal nombrada del atropal.
+- El texto exportado de Perturbar vida omite la exclusión de muertos
+  vivientes que aparece en el PDF. Se conserva y se registra la discrepancia.
+  El enlace de Equipo Especial a la esfera de aniquilación apunta a una
+  tabla del sistema; queda pendiente comprobar su destino funcional.
+- El efecto del bastón conserva la referencia de estado mal formada ya
+  detectada en el objeto raíz. Los conjuros se revisan en el bloque siguiente.
+
 ## Balance de revisión editorial
 
 - 802 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -1932,8 +1946,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
   del capítulo 4, 126 del capítulo 5 y 197 de los apéndices A, B, C, D y F.
   No equivale a 802 páginas del PDF.
-- 5267 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 5267 campos distintos.
+- 5359 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 5359 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas cincuenta y cinco biografías en ambas copias de actores: siete
   príncipes y cuarenta y ocho criaturas o PNJ del apéndice D. Siguen pendientes las demás
