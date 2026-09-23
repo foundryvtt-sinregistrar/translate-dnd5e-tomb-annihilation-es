@@ -1118,14 +1118,25 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   enlazado, no sorda como figura en el PDF.
 - Auditorías técnica y editorial sin errores.
 
+### ch5-level5-mastodon-01 — Salón del mastodonte dorado
+
+- Revisado texto y título con referencias físicas 176-177.
+- Restituido el diablo barbado entre las figuras de los murales, omitido en
+  el PDF. Conservada la secuencia de encuentros de los asaltos 2 a 6.
+- Diferenciados aplastamiento letal, fuego del suelo y posiciones seguras
+  sobre Ghom. El sacrificio pactado conserva el destino del alma y del equipo.
+- El viento trae polvo de sepultura, no polvo rocoso. Ch’gakare se recompone
+  si lo destruyen; la salida se abre cuando desaparece.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 589 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 590 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4 y 110 del capítulo 5. No equivale a 589 páginas del PDF.
-- 1288 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1288 campos distintos.
+  del capítulo 4 y 111 del capítulo 5. No equivale a 590 páginas del PDF.
+- 1290 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1290 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
