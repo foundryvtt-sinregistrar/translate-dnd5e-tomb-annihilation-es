@@ -1951,18 +1951,29 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   enanos albinos se cierran las fichas parciales de las páginas principales
   del apéndice D; faltan sus páginas adicionales, variantes y copias de encuentros.
 
+### appendix-d-asharra — Asharra
+
+- Revisados 76 campos: página y dos copias completas de la actriz.
+  Referencia física 71 para historia y selección de conjuros; rasgos básicos
+  y textos completos de conjuros contrastados con el exportado inglés.
+- Corregida la puntuación de la CD en Lanzamiento de Conjuros y normalizado
+  el subtipo en singular. Conservados los requisitos de visibilidad y espacio
+  de Llamar al relámpago y las excepciones de proyectiles del Muro de viento.
+- La ficha solo incluye un resumen biográfico. La Danza de los Siete Vientos
+  permanece en el diario de Kir Sabal ya revisado, sin acción propia en la ficha.
+
 ## Balance de revisión editorial
 
-- 802 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 803 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 197 de los apéndices A, B, C, D y F.
-  No equivale a 802 páginas del PDF.
-- 5471 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 5471 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 198 de los apéndices A, B, C, D y F.
+  No equivale a 803 páginas del PDF.
+- 5547 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 5547 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas cincuenta y cinco biografías en ambas copias de actores: siete
-  príncipes y cuarenta y ocho criaturas o PNJ del apéndice D. Siguen pendientes las demás
+  insertado. Revisadas cincuenta y seis biografías en ambas copias de actores: siete
+  príncipes y cuarenta y nueve criaturas o PNJ del apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las
