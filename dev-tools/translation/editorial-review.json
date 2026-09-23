@@ -164395,6 +164395,1148 @@
           "note": "Arcanaloth reviewed against English export, including prepared and innate spellcasting, spell descriptions and alter self restrictions."
         }
       ]
+    },
+    {
+      "id": "final-keshma",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.name",
+          "sourceSha256": "2e757c8d553cd9a55e9a156729f2fcb18438a55d267bd2dae90910f203fe5cba",
+          "translationSha256": "2e757c8d553cd9a55e9a156729f2fcb18438a55d267bd2dae90910f203fe5cba",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.alignment",
+          "sourceSha256": "59e74f11c96a77d972cd8ee0520cd97da4055b5a2e859b1c4dd2cfb7ea32f7b3",
+          "translationSha256": "ce158da3dc2aa560ccc970a693b2ad2f8b5b8e6b16edddf5209d728954da7ba8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.creatureSubtype",
+          "sourceSha256": "b1d428b0d91802b8938dcfad623851c6e0f53cdc507f4df9441e9fe3b2d59a0e",
+          "translationSha256": "b1d428b0d91802b8938dcfad623851c6e0f53cdc507f4df9441e9fe3b2d59a0e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.tokenName",
+          "sourceSha256": "bdc996774a7d670551786a0c8a377f61be84e5d7ba2e79eea700c166dca232ff",
+          "translationSha256": "bdc996774a7d670551786a0c8a377f61be84e5d7ba2e79eea700c166dca232ff",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.ewu5MutkWYLuqa5m.name",
+          "sourceSha256": "36ae85511c705c3857455f0c5668bc8d6cdbac0af0d526daefdb8330b12a7eb1",
+          "translationSha256": "6706725ba91a414f56c4207a4fadf7f1c676070bb25a1b3c2497563c6da5c624",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.ewu5MutkWYLuqa5m.description",
+          "sourceSha256": "6fe6428594c85409da7c4d3983dffff9a7fc6712227782c1d23c13ad66f9ede3",
+          "translationSha256": "acf13122ee4c4f8db554a3a3b7f73da8850a03d33847e4686d43b02e8c45f5da",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.ewu5MutkWYLuqa5m.activities.miA0xTnOvpobseZl.name",
+          "sourceSha256": "efa9055f811b11f32ef7360f5056f4e897762e5fcfe5d263946d1c17797b1a0a",
+          "translationSha256": "3d50a2ed1db1c8fc7e1b0e969b9a98d1e323105e779d2156ccd141ed8b841dc6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.ewu5MutkWYLuqa5m.activities.C6Ck5IO68LNiWfxO.name",
+          "sourceSha256": "d69eecab2f767f0d282d036abcf2ffce962762fafc91151c5f84d262991d2179",
+          "translationSha256": "cc34393132191af618b4437bab4066776b106e5d8d45264d3c263ef88f11f063",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.ewu5MutkWYLuqa5m.activities.34hoFWhq2ayVTr7i.name",
+          "sourceSha256": "7a48a925ec3a16bf7a7fada638672526399956353ea49f925bae72c6e1384d3f",
+          "translationSha256": "b6f1172a1d3d1a96e8b00fd814b48271adbedd689de31752268f95fc6266149e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.ewu5MutkWYLuqa5m.activities.U0ZZZjagHMRDyn73.name",
+          "sourceSha256": "75c416a571a66b26c7e567d9a5cf52df09501b9e02e48948ead0ef0e010cbd91",
+          "translationSha256": "184be7c0779ba36bff5b5c1b96281e5bb0c005ec8a1d5f75c8517095f141080a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.ewu5MutkWYLuqa5m.activities.BNknitr5y7XHlZr3.name",
+          "sourceSha256": "b70b6583948704c3760f241902340984478e397c36d6ff97f351f3c5d9819aac",
+          "translationSha256": "e66fcf52df5d700b04333c77b39c7e54321e6cecc4b38367155e79d3a1759fa0",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.ewu5MutkWYLuqa5m.activities.MnYUHGflyIiYAPzj.name",
+          "sourceSha256": "d86f8ab2e7be3e29db5c35df8185bbf87f71c1d6bc57d94e2a42cc398f835c5f",
+          "translationSha256": "2008889741ee6c261fc81398be9ec59149ceabd02f459928ce013c9d80938e24",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.ewu5MutkWYLuqa5m.activities.ARRmdyqOs7ujCT3b.name",
+          "sourceSha256": "155ce25615f8455bb5062939c38e3b76bc83c289433216b95323d207a7571aad",
+          "translationSha256": "f8f724cb11307c253d6d8ac5392c859379f0ea155b1df51a23f7295247d09b06",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.ewu5MutkWYLuqa5m.activities.UWidbZVJmHfmdvtB.name",
+          "sourceSha256": "a53ef4dc94d1e0056ca1fdda8ebb30f4d3ddd6c3f065eab0d5e07d67c1a88ab8",
+          "translationSha256": "a4ca0ae443f228138c51fd10af27d562858cef1a9878419333c72c242126d878",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.ewu5MutkWYLuqa5m.activities.3Ybxe0inQupQ4OnB.name",
+          "sourceSha256": "d53895c6eb7816fb44ec7f46db45019172de4793a42ccaf893ed71ec8ed00743",
+          "translationSha256": "83cfda28f4b2016acb6f59dfb446f52dbc2cc82b1d17348f01d1a4370fafa36d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.ewu5MutkWYLuqa5m.activities.Ob2jFPjduvLnNoUX.name",
+          "sourceSha256": "9d9b4d847bc2e111d84638c6436d078ec32508b86bc0b46299dc8ef84b90251a",
+          "translationSha256": "1a5df0005b98e488aceca1417ea1447319a6ee68dcb8dab4cbebf79424310790",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.ewu5MutkWYLuqa5m.activities.tFKOzjkUZiiePz6Q.name",
+          "sourceSha256": "d0bbdb580e152be2f1b71fe78d3e8501aee3399b30bb2b08d76bc771c275035e",
+          "translationSha256": "f2a6906ac8528f10502c4abf06fb9239ec2c67f19cd839ceebd03c3c26f9e365",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.ewu5MutkWYLuqa5m.activities.uXqUK9VBqLWmaS8n.name",
+          "sourceSha256": "6ec29bc5cd65c76b2071cf1066e84e65db29457ee58ebce796397b84e2c2b072",
+          "translationSha256": "50c57851ece1f97d460572415797716f99efd2cb280f0f6b48ae7372d9824864",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.U2cJTNIOODxmQTsB.name",
+          "sourceSha256": "ed2fe6ee4108fdd7aa2adc5e1e0b272881becc9d47f1b91289237da2411ddc11",
+          "translationSha256": "0a39b8f3bdfe279a18ef7e5bea3f6239da0932a302f113bb61df2e0b3f3abaad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.U2cJTNIOODxmQTsB.description",
+          "sourceSha256": "aee5502e6dcc70c93d81bb6b3fd437f180d2175d6c295c173e4710191c30fb4a",
+          "translationSha256": "51e2fb9fc5a53ee51477ca86a8f9889e336e683cccf9b37bb11f0fa1c6723552",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.ZfITWG2alUeJAcoU.name",
+          "sourceSha256": "5d29c96c668dec8bba922ad7fc68a2de7f1482f06c5996f4047a273a48ef76a4",
+          "translationSha256": "203b3b93871d6d672e5607f5f99ee03243ffc1253fdd5192653215b4ebaf5df8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.ZfITWG2alUeJAcoU.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.mgviB3Fzw0hllekx.name",
+          "sourceSha256": "4d405e383765b0d5e2c6f3ac7fc288033808d159753029ebc9209182dbb2094f",
+          "translationSha256": "0273c58b1d20ed6a4eba11d127ab6cfc68d7386de80a85742dbecdb31eaa9ff8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.mgviB3Fzw0hllekx.description",
+          "sourceSha256": "4a4a664d6471f4940a718f7340c1dbd98b635551df9d92b4a692207c0308a523",
+          "translationSha256": "7806d8e2c799eee2932e1fec88fc621c5e79c9d4944b45d5b75ccd9359883c8a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.mgviB3Fzw0hllekx.effects.HZsfCEt5FysY6PA0.name",
+          "sourceSha256": "4d99dff1fb964110812ea0fbf1dbb836fec22cd3148c5f304feec35c969e88f4",
+          "translationSha256": "57a0476b623a625adddbb16d55bd8aad17dbc18ea4c10388b005588da4fe9143",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.unJVrnDHvjyMf6Wf.name",
+          "sourceSha256": "158ebb216705eca1f20f8f5f38ed63833b9a633ea00649ef2f5d46e2f0508aa7",
+          "translationSha256": "1e1a1e2e3225aa05f981bc208a47ce8749641a5ff22d8bd231167ed0d121da58",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.unJVrnDHvjyMf6Wf.description",
+          "sourceSha256": "546e2c8712c7d84694cf6692e07d522cdfc46a15b00517901e5a8896f5b6d1ab",
+          "translationSha256": "4b49eceb93ec4c3f0e3be138da98722bce4e03849a7c5af073a160397a22c615",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.YABeStGtfb6rPetm.name",
+          "sourceSha256": "43621ec1801db89ade13dad503b7c62ad68b94dead8ff4ac0e312d1e06cbfdee",
+          "translationSha256": "f099208bcb2e8aeb7216488d6953466df3a2fd37463962e7bc066a8b93b69327",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.YABeStGtfb6rPetm.description",
+          "sourceSha256": "83b4391a500b38b071e68ef0eb775d04807798e40340a241ca1b40134ef5573c",
+          "translationSha256": "9bdaedeebdbea6e9350f0e5945bcd4e4ace566ef52d7ec0a7dccb1ffc219329b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.2kvwgaJbGbAzCEUQ.name",
+          "sourceSha256": "3c018b8af5f958ec45ab9647d4907213836a5ab3440add799ac7d7a5999bf562",
+          "translationSha256": "9cde54be0010028e8ab039a58b20cd932a7c31de3706fe07ecbfe9974372ca96",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.2kvwgaJbGbAzCEUQ.description",
+          "sourceSha256": "1ef2531b8f991022c10fea538cbbfc41ce8b0ce6b75280213d8163ec99c68dae",
+          "translationSha256": "43ad8921b4331e834232848b52152c12de7aa92bf39dd844f040a05353b48f7f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.fzuZJhPaWrReOIA2.name",
+          "sourceSha256": "3cdd8799bd310546aea9a22be3d754aedfbb97ad42d6334370b8bafdd40e66fb",
+          "translationSha256": "3d50a2ed1db1c8fc7e1b0e969b9a98d1e323105e779d2156ccd141ed8b841dc6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.fzuZJhPaWrReOIA2.description",
+          "sourceSha256": "90c4d9a71b5e727ee45dc340a50d72d612b536fc132e180ed0795951c7c4c86b",
+          "translationSha256": "4b489c4ae8ed7b260b91ff85c8e950c96dd7e7730371ad116c906c2917849d21",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.fzuZJhPaWrReOIA2.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.opkXFp2vQ1C4l6ue.name",
+          "sourceSha256": "d69eecab2f767f0d282d036abcf2ffce962762fafc91151c5f84d262991d2179",
+          "translationSha256": "cc34393132191af618b4437bab4066776b106e5d8d45264d3c263ef88f11f063",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.opkXFp2vQ1C4l6ue.description",
+          "sourceSha256": "6909404538f84b03702c7d17e4c595ba3a2be079058c4d63b72402e9b5c67443",
+          "translationSha256": "5cd31166944342c8b405016d63a5dbde27e041e703863e3f3fa0ae328499a499",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.opkXFp2vQ1C4l6ue.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.RkoIqOW5LCYA74BC.name",
+          "sourceSha256": "7a48a925ec3a16bf7a7fada638672526399956353ea49f925bae72c6e1384d3f",
+          "translationSha256": "b6f1172a1d3d1a96e8b00fd814b48271adbedd689de31752268f95fc6266149e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.RkoIqOW5LCYA74BC.description",
+          "sourceSha256": "1ce13b04770889d37da7bf54c5c351ab9c0c2e9382ef155622db1ec4699a2ba1",
+          "translationSha256": "f9b0e6861a03c085dc20dc5e489d581164a2aa6439874d40ac53f6467c27abd3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.RkoIqOW5LCYA74BC.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.wElbbRBeBfCzafAv.name",
+          "sourceSha256": "75c416a571a66b26c7e567d9a5cf52df09501b9e02e48948ead0ef0e010cbd91",
+          "translationSha256": "184be7c0779ba36bff5b5c1b96281e5bb0c005ec8a1d5f75c8517095f141080a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.wElbbRBeBfCzafAv.description",
+          "sourceSha256": "be046921a5bcb60147a02dfc3de209f06655bcdad05df530198f022052d4c56b",
+          "translationSha256": "d6d6ff16abba4b607df3dab9fdbfb61fe35e94ddceaa7ac2929dbaa0754a0ea6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.wElbbRBeBfCzafAv.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.hRYfuCjzyKDQxy5N.name",
+          "sourceSha256": "b70b6583948704c3760f241902340984478e397c36d6ff97f351f3c5d9819aac",
+          "translationSha256": "e66fcf52df5d700b04333c77b39c7e54321e6cecc4b38367155e79d3a1759fa0",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.hRYfuCjzyKDQxy5N.description",
+          "sourceSha256": "45f43a962015c0e03635189eb2222c648cffda827b43acade4582bc696aaf46c",
+          "translationSha256": "8a525219ac5a1b3483c85c6363e7936ed5a76ff21ebb533f67d80107ec216c7c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.hRYfuCjzyKDQxy5N.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.ljNDKasBN7kX1zFQ.name",
+          "sourceSha256": "d86f8ab2e7be3e29db5c35df8185bbf87f71c1d6bc57d94e2a42cc398f835c5f",
+          "translationSha256": "2008889741ee6c261fc81398be9ec59149ceabd02f459928ce013c9d80938e24",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.ljNDKasBN7kX1zFQ.description",
+          "sourceSha256": "495271ff42766b7257ef06b64a95ca3a6caf89ce4ca6b19256ef3caa39ec5ff8",
+          "translationSha256": "a4c440290430243c21cc127e3e18bcd7145f8ec97e47e3932ccac943476cb239",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.ljNDKasBN7kX1zFQ.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.L76Kz862oaC97fCb.name",
+          "sourceSha256": "155ce25615f8455bb5062939c38e3b76bc83c289433216b95323d207a7571aad",
+          "translationSha256": "f8f724cb11307c253d6d8ac5392c859379f0ea155b1df51a23f7295247d09b06",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.L76Kz862oaC97fCb.description",
+          "sourceSha256": "48f3a5d3475da546cb38b46d6f7a2821f8d4c72c26e37270c5de4eb61c92c6de",
+          "translationSha256": "e3ef0e235cdc188425ae69047f1b40a493f1aed2da58015bb2460dbb8e61d453",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.L76Kz862oaC97fCb.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.eLGFEkccrGtYPIdO.name",
+          "sourceSha256": "a53ef4dc94d1e0056ca1fdda8ebb30f4d3ddd6c3f065eab0d5e07d67c1a88ab8",
+          "translationSha256": "a4ca0ae443f228138c51fd10af27d562858cef1a9878419333c72c242126d878",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.eLGFEkccrGtYPIdO.description",
+          "sourceSha256": "91a9d9f7c9b49d12273b753627f1ec7d5472e035a377db47e6cefbf22b9d3683",
+          "translationSha256": "a227b609b41ada32fccbe3e09f3a2d702d56c17a035c717223a16ed69aa93e0e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.eLGFEkccrGtYPIdO.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.7qn0fTMATQQ5Qn5D.name",
+          "sourceSha256": "d53895c6eb7816fb44ec7f46db45019172de4793a42ccaf893ed71ec8ed00743",
+          "translationSha256": "83cfda28f4b2016acb6f59dfb446f52dbc2cc82b1d17348f01d1a4370fafa36d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.7qn0fTMATQQ5Qn5D.description",
+          "sourceSha256": "6512cdfee97a0aa67abf0c9e9e9c6222e5f652c590fafcfcb2942a095218842f",
+          "translationSha256": "27889654223904e7bf0aa2536849fefd998f2e7cfabd83d82a40b5446ee09ce8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.7qn0fTMATQQ5Qn5D.effects.TeFxBRKYKIXtg6pS.name",
+          "sourceSha256": "d53895c6eb7816fb44ec7f46db45019172de4793a42ccaf893ed71ec8ed00743",
+          "translationSha256": "83cfda28f4b2016acb6f59dfb446f52dbc2cc82b1d17348f01d1a4370fafa36d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.7qn0fTMATQQ5Qn5D.effects.TeFxBRKYKIXtg6pS.description",
+          "sourceSha256": "9b3b9ebe15a522eabfd200629d1995895969f178b481616c7703be343fbb4e73",
+          "translationSha256": "543fd8b8434fa4d2cdf399ff76777ce576322699a411a6fa76c130b4074d6287",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.7qn0fTMATQQ5Qn5D.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.aUgukxOu2jPK9NFB.name",
+          "sourceSha256": "9d9b4d847bc2e111d84638c6436d078ec32508b86bc0b46299dc8ef84b90251a",
+          "translationSha256": "1a5df0005b98e488aceca1417ea1447319a6ee68dcb8dab4cbebf79424310790",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.aUgukxOu2jPK9NFB.description",
+          "sourceSha256": "ec8f55e086a320bc47e5b5382648a1b169137adf54970f96f25377d7b68cd35c",
+          "translationSha256": "107a3dc586606fdd50f35d16f1196031635d0eb51b08dfe42f6eda8b7e1aa996",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.aUgukxOu2jPK9NFB.effects.J6OIwL9rmPzNN307.name",
+          "sourceSha256": "9d9b4d847bc2e111d84638c6436d078ec32508b86bc0b46299dc8ef84b90251a",
+          "translationSha256": "1a5df0005b98e488aceca1417ea1447319a6ee68dcb8dab4cbebf79424310790",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.aUgukxOu2jPK9NFB.effects.J6OIwL9rmPzNN307.description",
+          "sourceSha256": "e6f081788bb8383bda62c0003edafc6149a4fa85edf1c192c75e3121867d3980",
+          "translationSha256": "3642a9218383caeb9a733452977d945b52497d4ede99b319e1b186bad8653c84",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.aUgukxOu2jPK9NFB.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.KnOoY2A6AydWMfCY.name",
+          "sourceSha256": "d0bbdb580e152be2f1b71fe78d3e8501aee3399b30bb2b08d76bc771c275035e",
+          "translationSha256": "f2a6906ac8528f10502c4abf06fb9239ec2c67f19cd839ceebd03c3c26f9e365",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.KnOoY2A6AydWMfCY.description",
+          "sourceSha256": "bee5d368717973ba622c39581a001bd0314bf8c3ac6ba9808480eaf69bcb96ff",
+          "translationSha256": "2a4536f8fe5b04f68abc0dddb49d06a83f6f34510faf95c3b4c0c4656937a6c3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.KnOoY2A6AydWMfCY.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.92q9PFRYM5uMkwHt.name",
+          "sourceSha256": "0a544774d0c23d0c926a08ecb128c9703628353ce451512df693c0f09461ca73",
+          "translationSha256": "50c57851ece1f97d460572415797716f99efd2cb280f0f6b48ae7372d9824864",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.92q9PFRYM5uMkwHt.description",
+          "sourceSha256": "a3d6c7cc46e47fb8dbe6b0f34cb3b162a787886eb8e9267d6a8b2d147b84f51c",
+          "translationSha256": "5351222ed5dc3252287a91db3e2371dd9ed792314069d3e6c233ced4022697ba",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaKeshmaalWazir.items.92q9PFRYM5uMkwHt.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.name",
+          "sourceSha256": "2e757c8d553cd9a55e9a156729f2fcb18438a55d267bd2dae90910f203fe5cba",
+          "translationSha256": "2e757c8d553cd9a55e9a156729f2fcb18438a55d267bd2dae90910f203fe5cba",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.alignment",
+          "sourceSha256": "59e74f11c96a77d972cd8ee0520cd97da4055b5a2e859b1c4dd2cfb7ea32f7b3",
+          "translationSha256": "ce158da3dc2aa560ccc970a693b2ad2f8b5b8e6b16edddf5209d728954da7ba8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.creatureSubtype",
+          "sourceSha256": "b1d428b0d91802b8938dcfad623851c6e0f53cdc507f4df9441e9fe3b2d59a0e",
+          "translationSha256": "b1d428b0d91802b8938dcfad623851c6e0f53cdc507f4df9441e9fe3b2d59a0e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.tokenName",
+          "sourceSha256": "bdc996774a7d670551786a0c8a377f61be84e5d7ba2e79eea700c166dca232ff",
+          "translationSha256": "bdc996774a7d670551786a0c8a377f61be84e5d7ba2e79eea700c166dca232ff",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.ewu5MutkWYLuqa5m.name",
+          "sourceSha256": "36ae85511c705c3857455f0c5668bc8d6cdbac0af0d526daefdb8330b12a7eb1",
+          "translationSha256": "6706725ba91a414f56c4207a4fadf7f1c676070bb25a1b3c2497563c6da5c624",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.ewu5MutkWYLuqa5m.description",
+          "sourceSha256": "6fe6428594c85409da7c4d3983dffff9a7fc6712227782c1d23c13ad66f9ede3",
+          "translationSha256": "acf13122ee4c4f8db554a3a3b7f73da8850a03d33847e4686d43b02e8c45f5da",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.ewu5MutkWYLuqa5m.activities.miA0xTnOvpobseZl.name",
+          "sourceSha256": "efa9055f811b11f32ef7360f5056f4e897762e5fcfe5d263946d1c17797b1a0a",
+          "translationSha256": "3d50a2ed1db1c8fc7e1b0e969b9a98d1e323105e779d2156ccd141ed8b841dc6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.ewu5MutkWYLuqa5m.activities.C6Ck5IO68LNiWfxO.name",
+          "sourceSha256": "d69eecab2f767f0d282d036abcf2ffce962762fafc91151c5f84d262991d2179",
+          "translationSha256": "cc34393132191af618b4437bab4066776b106e5d8d45264d3c263ef88f11f063",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.ewu5MutkWYLuqa5m.activities.34hoFWhq2ayVTr7i.name",
+          "sourceSha256": "7a48a925ec3a16bf7a7fada638672526399956353ea49f925bae72c6e1384d3f",
+          "translationSha256": "b6f1172a1d3d1a96e8b00fd814b48271adbedd689de31752268f95fc6266149e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.ewu5MutkWYLuqa5m.activities.U0ZZZjagHMRDyn73.name",
+          "sourceSha256": "75c416a571a66b26c7e567d9a5cf52df09501b9e02e48948ead0ef0e010cbd91",
+          "translationSha256": "184be7c0779ba36bff5b5c1b96281e5bb0c005ec8a1d5f75c8517095f141080a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.ewu5MutkWYLuqa5m.activities.BNknitr5y7XHlZr3.name",
+          "sourceSha256": "b70b6583948704c3760f241902340984478e397c36d6ff97f351f3c5d9819aac",
+          "translationSha256": "e66fcf52df5d700b04333c77b39c7e54321e6cecc4b38367155e79d3a1759fa0",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.ewu5MutkWYLuqa5m.activities.MnYUHGflyIiYAPzj.name",
+          "sourceSha256": "d86f8ab2e7be3e29db5c35df8185bbf87f71c1d6bc57d94e2a42cc398f835c5f",
+          "translationSha256": "2008889741ee6c261fc81398be9ec59149ceabd02f459928ce013c9d80938e24",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.ewu5MutkWYLuqa5m.activities.ARRmdyqOs7ujCT3b.name",
+          "sourceSha256": "155ce25615f8455bb5062939c38e3b76bc83c289433216b95323d207a7571aad",
+          "translationSha256": "f8f724cb11307c253d6d8ac5392c859379f0ea155b1df51a23f7295247d09b06",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.ewu5MutkWYLuqa5m.activities.UWidbZVJmHfmdvtB.name",
+          "sourceSha256": "a53ef4dc94d1e0056ca1fdda8ebb30f4d3ddd6c3f065eab0d5e07d67c1a88ab8",
+          "translationSha256": "a4ca0ae443f228138c51fd10af27d562858cef1a9878419333c72c242126d878",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.ewu5MutkWYLuqa5m.activities.3Ybxe0inQupQ4OnB.name",
+          "sourceSha256": "d53895c6eb7816fb44ec7f46db45019172de4793a42ccaf893ed71ec8ed00743",
+          "translationSha256": "83cfda28f4b2016acb6f59dfb446f52dbc2cc82b1d17348f01d1a4370fafa36d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.ewu5MutkWYLuqa5m.activities.Ob2jFPjduvLnNoUX.name",
+          "sourceSha256": "9d9b4d847bc2e111d84638c6436d078ec32508b86bc0b46299dc8ef84b90251a",
+          "translationSha256": "1a5df0005b98e488aceca1417ea1447319a6ee68dcb8dab4cbebf79424310790",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.ewu5MutkWYLuqa5m.activities.tFKOzjkUZiiePz6Q.name",
+          "sourceSha256": "d0bbdb580e152be2f1b71fe78d3e8501aee3399b30bb2b08d76bc771c275035e",
+          "translationSha256": "f2a6906ac8528f10502c4abf06fb9239ec2c67f19cd839ceebd03c3c26f9e365",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.ewu5MutkWYLuqa5m.activities.uXqUK9VBqLWmaS8n.name",
+          "sourceSha256": "6ec29bc5cd65c76b2071cf1066e84e65db29457ee58ebce796397b84e2c2b072",
+          "translationSha256": "50c57851ece1f97d460572415797716f99efd2cb280f0f6b48ae7372d9824864",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.U2cJTNIOODxmQTsB.name",
+          "sourceSha256": "ed2fe6ee4108fdd7aa2adc5e1e0b272881becc9d47f1b91289237da2411ddc11",
+          "translationSha256": "0a39b8f3bdfe279a18ef7e5bea3f6239da0932a302f113bb61df2e0b3f3abaad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.U2cJTNIOODxmQTsB.description",
+          "sourceSha256": "aee5502e6dcc70c93d81bb6b3fd437f180d2175d6c295c173e4710191c30fb4a",
+          "translationSha256": "51e2fb9fc5a53ee51477ca86a8f9889e336e683cccf9b37bb11f0fa1c6723552",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.ZfITWG2alUeJAcoU.name",
+          "sourceSha256": "5d29c96c668dec8bba922ad7fc68a2de7f1482f06c5996f4047a273a48ef76a4",
+          "translationSha256": "203b3b93871d6d672e5607f5f99ee03243ffc1253fdd5192653215b4ebaf5df8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.ZfITWG2alUeJAcoU.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.mgviB3Fzw0hllekx.name",
+          "sourceSha256": "4d405e383765b0d5e2c6f3ac7fc288033808d159753029ebc9209182dbb2094f",
+          "translationSha256": "0273c58b1d20ed6a4eba11d127ab6cfc68d7386de80a85742dbecdb31eaa9ff8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.mgviB3Fzw0hllekx.description",
+          "sourceSha256": "4a4a664d6471f4940a718f7340c1dbd98b635551df9d92b4a692207c0308a523",
+          "translationSha256": "7806d8e2c799eee2932e1fec88fc621c5e79c9d4944b45d5b75ccd9359883c8a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.mgviB3Fzw0hllekx.effects.HZsfCEt5FysY6PA0.name",
+          "sourceSha256": "4d99dff1fb964110812ea0fbf1dbb836fec22cd3148c5f304feec35c969e88f4",
+          "translationSha256": "57a0476b623a625adddbb16d55bd8aad17dbc18ea4c10388b005588da4fe9143",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.unJVrnDHvjyMf6Wf.name",
+          "sourceSha256": "158ebb216705eca1f20f8f5f38ed63833b9a633ea00649ef2f5d46e2f0508aa7",
+          "translationSha256": "1e1a1e2e3225aa05f981bc208a47ce8749641a5ff22d8bd231167ed0d121da58",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.unJVrnDHvjyMf6Wf.description",
+          "sourceSha256": "546e2c8712c7d84694cf6692e07d522cdfc46a15b00517901e5a8896f5b6d1ab",
+          "translationSha256": "4b49eceb93ec4c3f0e3be138da98722bce4e03849a7c5af073a160397a22c615",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.YABeStGtfb6rPetm.name",
+          "sourceSha256": "43621ec1801db89ade13dad503b7c62ad68b94dead8ff4ac0e312d1e06cbfdee",
+          "translationSha256": "f099208bcb2e8aeb7216488d6953466df3a2fd37463962e7bc066a8b93b69327",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.YABeStGtfb6rPetm.description",
+          "sourceSha256": "83b4391a500b38b071e68ef0eb775d04807798e40340a241ca1b40134ef5573c",
+          "translationSha256": "9bdaedeebdbea6e9350f0e5945bcd4e4ace566ef52d7ec0a7dccb1ffc219329b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.2kvwgaJbGbAzCEUQ.name",
+          "sourceSha256": "3c018b8af5f958ec45ab9647d4907213836a5ab3440add799ac7d7a5999bf562",
+          "translationSha256": "9cde54be0010028e8ab039a58b20cd932a7c31de3706fe07ecbfe9974372ca96",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.2kvwgaJbGbAzCEUQ.description",
+          "sourceSha256": "1ef2531b8f991022c10fea538cbbfc41ce8b0ce6b75280213d8163ec99c68dae",
+          "translationSha256": "43ad8921b4331e834232848b52152c12de7aa92bf39dd844f040a05353b48f7f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.fzuZJhPaWrReOIA2.name",
+          "sourceSha256": "3cdd8799bd310546aea9a22be3d754aedfbb97ad42d6334370b8bafdd40e66fb",
+          "translationSha256": "3d50a2ed1db1c8fc7e1b0e969b9a98d1e323105e779d2156ccd141ed8b841dc6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.fzuZJhPaWrReOIA2.description",
+          "sourceSha256": "90c4d9a71b5e727ee45dc340a50d72d612b536fc132e180ed0795951c7c4c86b",
+          "translationSha256": "4b489c4ae8ed7b260b91ff85c8e950c96dd7e7730371ad116c906c2917849d21",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.fzuZJhPaWrReOIA2.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.opkXFp2vQ1C4l6ue.name",
+          "sourceSha256": "d69eecab2f767f0d282d036abcf2ffce962762fafc91151c5f84d262991d2179",
+          "translationSha256": "cc34393132191af618b4437bab4066776b106e5d8d45264d3c263ef88f11f063",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.opkXFp2vQ1C4l6ue.description",
+          "sourceSha256": "6909404538f84b03702c7d17e4c595ba3a2be079058c4d63b72402e9b5c67443",
+          "translationSha256": "5cd31166944342c8b405016d63a5dbde27e041e703863e3f3fa0ae328499a499",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.opkXFp2vQ1C4l6ue.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.RkoIqOW5LCYA74BC.name",
+          "sourceSha256": "7a48a925ec3a16bf7a7fada638672526399956353ea49f925bae72c6e1384d3f",
+          "translationSha256": "b6f1172a1d3d1a96e8b00fd814b48271adbedd689de31752268f95fc6266149e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.RkoIqOW5LCYA74BC.description",
+          "sourceSha256": "1ce13b04770889d37da7bf54c5c351ab9c0c2e9382ef155622db1ec4699a2ba1",
+          "translationSha256": "f9b0e6861a03c085dc20dc5e489d581164a2aa6439874d40ac53f6467c27abd3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.RkoIqOW5LCYA74BC.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.wElbbRBeBfCzafAv.name",
+          "sourceSha256": "75c416a571a66b26c7e567d9a5cf52df09501b9e02e48948ead0ef0e010cbd91",
+          "translationSha256": "184be7c0779ba36bff5b5c1b96281e5bb0c005ec8a1d5f75c8517095f141080a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.wElbbRBeBfCzafAv.description",
+          "sourceSha256": "be046921a5bcb60147a02dfc3de209f06655bcdad05df530198f022052d4c56b",
+          "translationSha256": "d6d6ff16abba4b607df3dab9fdbfb61fe35e94ddceaa7ac2929dbaa0754a0ea6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.wElbbRBeBfCzafAv.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.hRYfuCjzyKDQxy5N.name",
+          "sourceSha256": "b70b6583948704c3760f241902340984478e397c36d6ff97f351f3c5d9819aac",
+          "translationSha256": "e66fcf52df5d700b04333c77b39c7e54321e6cecc4b38367155e79d3a1759fa0",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.hRYfuCjzyKDQxy5N.description",
+          "sourceSha256": "45f43a962015c0e03635189eb2222c648cffda827b43acade4582bc696aaf46c",
+          "translationSha256": "8a525219ac5a1b3483c85c6363e7936ed5a76ff21ebb533f67d80107ec216c7c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.hRYfuCjzyKDQxy5N.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.ljNDKasBN7kX1zFQ.name",
+          "sourceSha256": "d86f8ab2e7be3e29db5c35df8185bbf87f71c1d6bc57d94e2a42cc398f835c5f",
+          "translationSha256": "2008889741ee6c261fc81398be9ec59149ceabd02f459928ce013c9d80938e24",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.ljNDKasBN7kX1zFQ.description",
+          "sourceSha256": "495271ff42766b7257ef06b64a95ca3a6caf89ce4ca6b19256ef3caa39ec5ff8",
+          "translationSha256": "a4c440290430243c21cc127e3e18bcd7145f8ec97e47e3932ccac943476cb239",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.ljNDKasBN7kX1zFQ.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.L76Kz862oaC97fCb.name",
+          "sourceSha256": "155ce25615f8455bb5062939c38e3b76bc83c289433216b95323d207a7571aad",
+          "translationSha256": "f8f724cb11307c253d6d8ac5392c859379f0ea155b1df51a23f7295247d09b06",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.L76Kz862oaC97fCb.description",
+          "sourceSha256": "48f3a5d3475da546cb38b46d6f7a2821f8d4c72c26e37270c5de4eb61c92c6de",
+          "translationSha256": "e3ef0e235cdc188425ae69047f1b40a493f1aed2da58015bb2460dbb8e61d453",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.L76Kz862oaC97fCb.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.eLGFEkccrGtYPIdO.name",
+          "sourceSha256": "a53ef4dc94d1e0056ca1fdda8ebb30f4d3ddd6c3f065eab0d5e07d67c1a88ab8",
+          "translationSha256": "a4ca0ae443f228138c51fd10af27d562858cef1a9878419333c72c242126d878",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.eLGFEkccrGtYPIdO.description",
+          "sourceSha256": "91a9d9f7c9b49d12273b753627f1ec7d5472e035a377db47e6cefbf22b9d3683",
+          "translationSha256": "a227b609b41ada32fccbe3e09f3a2d702d56c17a035c717223a16ed69aa93e0e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.eLGFEkccrGtYPIdO.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.7qn0fTMATQQ5Qn5D.name",
+          "sourceSha256": "d53895c6eb7816fb44ec7f46db45019172de4793a42ccaf893ed71ec8ed00743",
+          "translationSha256": "83cfda28f4b2016acb6f59dfb446f52dbc2cc82b1d17348f01d1a4370fafa36d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.7qn0fTMATQQ5Qn5D.description",
+          "sourceSha256": "6512cdfee97a0aa67abf0c9e9e9c6222e5f652c590fafcfcb2942a095218842f",
+          "translationSha256": "27889654223904e7bf0aa2536849fefd998f2e7cfabd83d82a40b5446ee09ce8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.7qn0fTMATQQ5Qn5D.effects.TeFxBRKYKIXtg6pS.name",
+          "sourceSha256": "d53895c6eb7816fb44ec7f46db45019172de4793a42ccaf893ed71ec8ed00743",
+          "translationSha256": "83cfda28f4b2016acb6f59dfb446f52dbc2cc82b1d17348f01d1a4370fafa36d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.7qn0fTMATQQ5Qn5D.effects.TeFxBRKYKIXtg6pS.description",
+          "sourceSha256": "9b3b9ebe15a522eabfd200629d1995895969f178b481616c7703be343fbb4e73",
+          "translationSha256": "543fd8b8434fa4d2cdf399ff76777ce576322699a411a6fa76c130b4074d6287",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.7qn0fTMATQQ5Qn5D.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.aUgukxOu2jPK9NFB.name",
+          "sourceSha256": "9d9b4d847bc2e111d84638c6436d078ec32508b86bc0b46299dc8ef84b90251a",
+          "translationSha256": "1a5df0005b98e488aceca1417ea1447319a6ee68dcb8dab4cbebf79424310790",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.aUgukxOu2jPK9NFB.description",
+          "sourceSha256": "ec8f55e086a320bc47e5b5382648a1b169137adf54970f96f25377d7b68cd35c",
+          "translationSha256": "107a3dc586606fdd50f35d16f1196031635d0eb51b08dfe42f6eda8b7e1aa996",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.aUgukxOu2jPK9NFB.effects.J6OIwL9rmPzNN307.name",
+          "sourceSha256": "9d9b4d847bc2e111d84638c6436d078ec32508b86bc0b46299dc8ef84b90251a",
+          "translationSha256": "1a5df0005b98e488aceca1417ea1447319a6ee68dcb8dab4cbebf79424310790",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.aUgukxOu2jPK9NFB.effects.J6OIwL9rmPzNN307.description",
+          "sourceSha256": "e6f081788bb8383bda62c0003edafc6149a4fa85edf1c192c75e3121867d3980",
+          "translationSha256": "3642a9218383caeb9a733452977d945b52497d4ede99b319e1b186bad8653c84",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.aUgukxOu2jPK9NFB.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.KnOoY2A6AydWMfCY.name",
+          "sourceSha256": "d0bbdb580e152be2f1b71fe78d3e8501aee3399b30bb2b08d76bc771c275035e",
+          "translationSha256": "f2a6906ac8528f10502c4abf06fb9239ec2c67f19cd839ceebd03c3c26f9e365",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.KnOoY2A6AydWMfCY.description",
+          "sourceSha256": "bee5d368717973ba622c39581a001bd0314bf8c3ac6ba9808480eaf69bcb96ff",
+          "translationSha256": "2a4536f8fe5b04f68abc0dddb49d06a83f6f34510faf95c3b4c0c4656937a6c3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.KnOoY2A6AydWMfCY.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.92q9PFRYM5uMkwHt.name",
+          "sourceSha256": "0a544774d0c23d0c926a08ecb128c9703628353ce451512df693c0f09461ca73",
+          "translationSha256": "50c57851ece1f97d460572415797716f99efd2cb280f0f6b48ae7372d9824864",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.92q9PFRYM5uMkwHt.description",
+          "sourceSha256": "a3d6c7cc46e47fb8dbe6b0f34cb3b162a787886eb8e9267d6a8b2d147b84f51c",
+          "translationSha256": "5351222ed5dc3252287a91db3e2371dd9ed792314069d3e6c233ced4022697ba",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaKeshmaalWazir.items.92q9PFRYM5uMkwHt.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
+        }
+      ]
     }
   ]
 }

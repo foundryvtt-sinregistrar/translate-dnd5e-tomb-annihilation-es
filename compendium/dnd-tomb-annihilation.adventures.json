@@ -10494,36 +10494,36 @@
           "items": {
             "U2cJTNIOODxmQTsB": {
               "name": "Ataque múltiple",
-              "description": "<p>El dao hace dos [[/item Fist]] ataques o dos ataques maul.</p>"
+              "description": "<p>La dao realiza dos ataques con su [[/item Fist]] o dos ataques con su maza a dos manos.</p>"
             },
             "ZfITWG2alUeJAcoU": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-              "name": "Puño"
+              "name": "Puñetazo"
             },
             "ewu5MutkWYLuqa5m": {
-              "name": "Difusión de conjuros innatos",
-              "description": "<p>La habilidad innata del dao para deletrear es Carisma (salva CD 14, +6 para golpear con ataques de conjuro). Puede lanzar innatamente los siguientes conjuros, sin necesidad de componentes materiales:</p><p><strong>A discreción:</strong> [[/item .fzuZJhPaWrReOIA2]]{detectar el mal y el bien}, [[/item .opkXFp2vQ1C4l6ue]]{detectar magia}@UUID[Compendium.dnd5e.spells.Item.QvGcdRUSNRKEQJlK], [[/item .RkoIqOW5LCYA74BC]]{forma de piedra}</p><p><strong>3/día cada uno:</strong> [[/item .wElbbRBeBfCzafAv]]{passwall}, [[/item .hRYfuCjzyKDQxy5N]]{mover tierra}, [[/item .ljNDKasBN7kX1zFQ]]{lenguas}</p><p><strong>1/día cada uno:</strong> [[/item .L76Kz862oaC97fCb]]{conjure elementos} (sólo elemental de la tierra), [[/item .eLGFEkccrGtYPIdO]]{forma gaseosa}, [[/item .7qn0fTMATQQ5Qn5D]]{invisibilidad}, [[/item .aUgukxOu2jPK9NFB]]{asesino fantasmal}, [[/item .KnOoY2A6AydWMfCY]]{cambio de plano}, [[/item .92q9PFRYM5uMkwHt]]{muro de piedra}</p>",
+              "name": "Lanzamiento de Conjuros Innato",
+              "description": "<p>La aptitud mágica innata de la dao es Carisma (CD 14 para sus salvaciones de conjuros, +6 a impactar con ataques de conjuro). Puede lanzar de forma innata los siguientes conjuros, sin necesidad de componentes materiales:</p><p><strong>A voluntad:</strong> [[/item .fzuZJhPaWrReOIA2]]{detectar el bien y el mal}, [[/item .opkXFp2vQ1C4l6ue]]{detectar magia}, @UUID[Compendium.dnd5e.spells.Item.QvGcdRUSNRKEQJlK]{moldear la piedra}, [[/item .RkoIqOW5LCYA74BC]]{moldear la piedra}</p><p><strong>3/día cada uno:</strong> [[/item .wElbbRBeBfCzafAv]]{pasamuros}, [[/item .hRYfuCjzyKDQxy5N]]{mover la tierra}, [[/item .ljNDKasBN7kX1zFQ]]{don de lenguas}</p><p><strong>1/día cada uno:</strong> [[/item .L76Kz862oaC97fCb]]{conjurar elemental} (solo elementales de tierra), [[/item .eLGFEkccrGtYPIdO]]{forma gaseosa}, [[/item .7qn0fTMATQQ5Qn5D]]{invisibilidad}, [[/item .aUgukxOu2jPK9NFB]]{asesino fantasmal}, [[/item .KnOoY2A6AydWMfCY]]{desplazamiento entre planos}, [[/item .92q9PFRYM5uMkwHt]]{muro de piedra}</p>",
               "activities": {
                 "miA0xTnOvpobseZl": {
-                  "name": "Detectar el mal y el bien"
+                  "name": "Detectar el bien y el mal"
                 },
                 "C6Ck5IO68LNiWfxO": {
                   "name": "Detectar magia"
                 },
                 "34hoFWhq2ayVTr7i": {
-                  "name": "Forma de piedra"
+                  "name": "Moldear la piedra"
                 },
                 "U0ZZZjagHMRDyn73": {
-                  "name": "Muro de paso"
+                  "name": "Pasamuros"
                 },
                 "BNknitr5y7XHlZr3": {
-                  "name": "Mover la Tierra"
+                  "name": "Mover la tierra"
                 },
                 "MnYUHGflyIiYAPzj": {
-                  "name": "Lenguas"
+                  "name": "Don de lenguas"
                 },
                 "ARRmdyqOs7ujCT3b": {
-                  "name": "Conjure elemental"
+                  "name": "Conjurar elemental"
                 },
                 "UWidbZVJmHfmdvtB": {
                   "name": "Forma gaseosa"
@@ -10532,10 +10532,10 @@
                   "name": "Invisibilidad"
                 },
                 "Ob2jFPjduvLnNoUX": {
-                  "name": "Asesino fantasmagórico"
+                  "name": "Asesino fantasmal"
                 },
                 "tFKOzjkUZiiePz6Q": {
-                  "name": "Cambio de plano"
+                  "name": "Desplazamiento entre planos"
                 },
                 "uXqUK9VBqLWmaS8n": {
                   "name": "Muro de piedra"
@@ -10543,139 +10543,139 @@
               }
             },
             "mgviB3Fzw0hllekx": {
-              "name": "Gran maza",
-              "description": "<p>[[/attack extended]]. [[/damage extended average]]. Si el objetivo es una criatura enorme o más pequeña, debe tener éxito en un [[/check format=long]] o ser llamado &amp;Reference[Prone apply=false].</p>",
+              "name": "Maza a dos manos",
+              "description": "<p>[[/attack extended]]. [[/damage extended average]]. Si el objetivo es una criatura Enorme o más pequeña, debe superar una [[/check format=long]] o quedar &amp;Reference[Prone apply=false].</p>",
               "effects": {
                 "HZsfCEt5FysY6PA0": {
-                  "name": "Prona"
+                  "name": "Derribado"
                 }
               }
             },
             "unJVrnDHvjyMf6Wf": {
-              "name": "Glide de Tierra",
-              "description": "<p>Keshma puede excavar a través de tierra y piedra no mágicas, sin trabajar. Mientras lo hace, ella no molesta el material que se mueve a través de.</p>"
+              "name": "Deslizarse por la Tierra",
+              "description": "<p>Keshma puede excavar a través de tierra y piedra no mágicas y sin trabajar. Al hacerlo, no altera el material que atraviesa.</p>"
             },
             "YABeStGtfb6rPetm": {
-              "name": "Demise elemental",
-              "description": "<p>Si Keshma muere, su cuerpo se desintegra en polvo cristalino, dejando sólo el equipo que llevaba o llevaba.</p>"
+              "name": "Muerte Elemental",
+              "description": "<p>Si Keshma muere, su cuerpo se desintegra en polvo cristalino y solo queda el equipo que vestía o llevaba consigo.</p>"
             },
             "2kvwgaJbGbAzCEUQ": {
-              "name": "Con patas de seguridad",
-              "description": "<p>Keshma tiene ventaja en los lanzamientos de ahorro de fuerza y dexteridad hechos contra los efectos que la golpearían &amp;Reference[Prone apply=false].</p>"
+              "name": "Pies Firmes",
+              "description": "<p>Keshma tiene ventaja en las tiradas de salvación de Fuerza y Destreza contra efectos que la dejarían &amp;Reference[Prone apply=false].</p>"
             },
             "fzuZJhPaWrReOIA2": {
-              "name": "Detectar el mal y el bien",
-              "description": "<p>Por la duración, usted sabe si hay una aberración, celestial, elemental, fey, demonio, o no-muerto a menos de 30 pies de usted, así como donde la criatura se encuentra. Del mismo modo, usted sabe si hay un lugar u objeto dentro de 30 pies de usted que ha sido mágicamente consagrado o profanado.</p><p>El conjuro puede penetrar la mayoría de las barreras, pero está bloqueado por 1 pie de piedra, 1 pulgada de metal común, una fina hoja de plomo, o 3 pies de madera o suciedad.</p>",
+              "name": "Detectar el bien y el mal",
+              "description": "<p>Mientras dure el conjuro, sabes si hay alguna aberración, celestial, elemental, feérico, infernal o muerto viviente a 30 pies o menos de ti, así como dónde se encuentra. Del mismo modo, sabes si hay algún lugar u objeto consagrado o profanado mágicamente a 30 pies o menos de ti.</p><p>El conjuro puede atravesar la mayoría de las barreras, pero lo bloquean 1 pie de piedra, 1 pulgada de metal común, una lámina fina de plomo o 3 pies de madera o tierra.</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             },
             "opkXFp2vQ1C4l6ue": {
               "name": "Detectar magia",
-              "description": "<p>Durante la duración, sientes la presencia de la magia a menos de 30 pies de ti. Si sientes magia de esta manera, puedes usar tu acción para ver un aura débil alrededor de cualquier criatura visible u objeto en la zona que lleva magia, y aprender su escuela de magia, si la hay.</p><p>El conjuro puede penetrar la mayoría de las barreras, pero está bloqueado por 1 pie de piedra, 1 pulgada de metal común, una fina hoja de plomo, o 3 pies de madera o suciedad.</p>",
+              "description": "<p>Durante el conjuro, percibes la presencia de magia a 30 pies o menos de ti. Si la percibes de este modo, puedes usar tu acción para ver un aura tenue alrededor de cualquier criatura u objeto visible del área que posea magia y conocer su escuela de magia, si pertenece a alguna.</p><p>El conjuro puede atravesar la mayoría de las barreras, pero lo bloquean 1 pie de piedra, 1 pulgada de metal común, una lámina fina de plomo o 3 pies de madera o tierra.</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             },
             "RkoIqOW5LCYA74BC": {
-              "name": "Forma de piedra",
-              "description": "<p>Tocas un objeto de piedra de tamaño mediano o más pequeño o una sección de piedra de no más de 5 pies en cualquier dimensión y lo formas en cualquier forma que se adapte a tu propósito. Así, por ejemplo, se podría dar forma a una roca grande en un arma, ídolo o cofre, o hacer un pequeño paso a través de una pared, siempre y cuando la pared sea de menos de 5 pies de espesor. También se podría dar forma a una puerta de piedra o su marco para cerrar la puerta. El objeto que creas puede tener hasta dos bisagras y un pestillo, pero no es posible un detalle mecánico más fino.</p>",
+              "name": "Moldear la piedra",
+              "description": "<p>Tocas un objeto de piedra de tamaño Mediano o más pequeño, o una sección de piedra que no supere los 5 pies en ninguna dimensión, y le das cualquier forma que te resulte útil. Por ejemplo, podrías transformar una roca grande en un arma, un ídolo o un cofre, o abrir un pequeño pasadizo a través de un muro de menos de 5 pies de grosor. También podrías moldear una puerta de piedra o su marco para sellarla. El objeto que crees puede tener hasta dos bisagras y un pestillo, pero no es posible crear mecanismos más delicados.</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             },
             "wElbbRBeBfCzafAv": {
-              "name": "Muro de paso",
-              "description": "<p>Un pasaje aparece en un punto de su elección que usted puede ver en una superficie de madera, yeso, o piedra (como una pared, un techo, o un piso) dentro del rango, y dura por la duración. Usted elige las dimensiones de la abertura: hasta 5 pies de ancho, 8 pies de alto y 20 pies de profundidad. El pasaje no crea inestabilidad en una estructura que lo rodea.</p><p>Cuando la apertura desaparece, cualquier criatura u objeto que todavía esté en el pasaje creado por el conjuro se expulsa con seguridad a un espacio desocupado más cercano a la superficie en la que se lanza el conjuro.</p>",
+              "name": "Pasamuros",
+              "description": "<p>En un punto que elijas y puedas ver sobre una superficie de madera, yeso o piedra dentro del alcance, como una pared, un techo o un suelo, aparece un pasadizo que permanece durante el conjuro. Tú eliges las dimensiones de la abertura: hasta 5 pies de ancho, 8 pies de alto y 20 pies de profundidad. El pasadizo no vuelve inestable la estructura que lo rodea.</p><p>Cuando la abertura desaparece, cualquier criatura u objeto que aún esté en el pasadizo creado por el conjuro es expulsado sin sufrir daño al espacio desocupado más cercano a la superficie sobre la que lanzaste el conjuro.</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             },
             "hRYfuCjzyKDQxy5N": {
-              "name": "Mover la Tierra",
-              "description": "<p>Elija un área de terreno no mayor de 40 pies en un lado dentro del alcance. Puede remodelar la suciedad, la arena o la arcilla en la zona de cualquier manera que elija para la duración. Puede elevar o bajar la elevación de la zona, crear o rellenar una trinchera, erigir o aplanar una pared, o formar un pilar. El alcance de tales cambios no puede exceder la mitad de la dimensión más grande del área. Por lo tanto, si afectas a un cuadrado de 40 pies, puedes crear un pilar de hasta 20 pies de altura, elevar o bajar la elevación del cuadrado por hasta 20 pies, cavar una trinchera de hasta 20 pies de profundidad, y así sucesivamente. Estos cambios tardan 10 minutos en completarse.</p><p>Al final de cada 10 minutos que pasas concentrándote en el conjuro, puedes elegir una nueva área de terreno para afectar.</p><p>Debido a que la transformación del terreno ocurre lentamente, las criaturas en la zona no pueden ser atrapadas o lesionadas por el Movimiento del suelo.</p><p>Este conjuro no puede manipular la piedra natural o la construcción de piedra. Rocas y estructuras cambian para acomodar el nuevo terreno. Si la forma en que forma el terreno haría una estructura inestable, podría colapsar.</p><p>Del mismo modo, este conjuro no afecta directamente el crecimiento de las plantas. La tierra movida lleva consigo cualquier Planta.</p>",
+              "name": "Mover la tierra",
+              "description": "<p>Elige un área de terreno que no supere los 40 pies de lado dentro del alcance. Mientras dure el conjuro, puedes remodelar la tierra, la arena o la arcilla del área como quieras. Puedes elevar o rebajar el terreno, crear o rellenar una zanja, levantar o aplanar un muro, o formar una columna. Ninguno de estos cambios puede superar la mitad de la mayor dimensión del área. Así, si afectas a un cuadrado de 40 pies de lado, puedes crear una columna de hasta 20 pies de altura, elevar o rebajar el terreno del cuadrado hasta 20 pies, cavar una zanja de hasta 20 pies de profundidad, etcétera. Estos cambios tardan 10 minutos en completarse.</p><p>Al final de cada periodo de 10 minutos que pases concentrándote en el conjuro, puedes elegir una nueva área de terreno a la que afectar.</p><p>Como la transformación del terreno es lenta, normalmente las criaturas del área no pueden quedar atrapadas ni sufrir daño por el movimiento del suelo.</p><p>Este conjuro no puede manipular la piedra natural ni las construcciones de piedra. Las rocas y las estructuras se desplazan para acomodarse al nuevo terreno. Si la forma que das al terreno vuelve inestable una estructura, esta podría derrumbarse.</p><p>Del mismo modo, este conjuro no afecta directamente al crecimiento de las plantas. La tierra desplazada arrastra consigo las plantas que haya en ella.</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             },
             "ljNDKasBN7kX1zFQ": {
-              "name": "Lenguas",
-              "description": "<p>Este conjuro le otorga a la criatura que toca la capacidad de entender cualquier idioma hablado que oiga. Además, cuando el objetivo habla, cualquier criatura que conoce al menos un idioma y puede escuchar el objetivo entiende lo que dice.</p>",
+              "name": "Don de lenguas",
+              "description": "<p>Este conjuro otorga a la criatura que toques la capacidad de entender cualquier idioma hablado que oiga. Además, cuando el objetivo habla, cualquier criatura que conozca al menos un idioma y pueda oírlo entiende lo que dice.</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             },
             "L76Kz862oaC97fCb": {
-              "name": "Conjure elemental",
-              "description": "<p>Llamas a un sirviente elemental. Elija un área de aire, tierra, fuego o agua que llene un cubo de 10 pies dentro del alcance. Un elemento de la calificación de desafío 5 o inferior apropiado para el área elegida aparece en un espacio desocupado a menos de 10 pies de distancia. Por ejemplo, un elemento de fuego emerge de una hoguera, y un elemento de tierra se eleva desde el suelo. El elemental desaparece cuando cae a 0 puntos de impacto o cuando el conjuro termina.</p><p>Lo elemental es amable contigo y con tus compañeros durante todo el tiempo. Roll iniciativa para lo elemental, que tiene sus propios giros. Obedece cualquier orden verbal que le emita (no requiere ninguna acción). Si usted no emite ningún comando a lo elemental, se defiende de criaturas hostiles, pero de lo contrario no toma ninguna acción.</p><p>Si su concentración está rota, el elemental no desaparece. En cambio, pierdes el control de lo elemental, se vuelve hostil hacia ti y tus compañeros, y podría atacar. No puedes despedir a un elemental descontrolado, que desaparece 1 hora después de que lo hayas invocado.</p><p><strong>Niveles superiores. </strong>Cuando se lanza este conjuro utilizando una espacio de conjuro de 6o nivel o superior, la calificación de desafío aumenta en 1 por cada nivel de ranura por encima de 5o.</p>",
+              "name": "Conjurar elemental",
+              "description": "<p>Convocas a un sirviente elemental. Elige un área de aire, tierra, fuego o agua que llene un cubo de 10 pies de lado dentro del alcance. Un elemental con valor de desafío 5 o inferior apropiado para el área elegida aparece en un espacio desocupado a 10 pies o menos de ella. Por ejemplo, un elemental de fuego emerge de una hoguera y uno de tierra surge del suelo. El elemental desaparece cuando sus puntos de golpe se reducen a 0 o cuando termina el conjuro.</p><p>El elemental es amistoso contigo y con tus compañeros mientras dure el conjuro. Tira iniciativa por él; tiene sus propios turnos. Obedece las órdenes verbales que le des, sin que tengas que usar ninguna acción. Si no le das órdenes, se defiende de las criaturas hostiles, pero no realiza ninguna otra acción.</p><p>Si pierdes la concentración, el elemental no desaparece. En su lugar, pierdes el control sobre él, se vuelve hostil hacia ti y tus compañeros, y podría atacar. No puedes hacer desaparecer a un elemental que no controles; desaparece 1 hora después de haberlo convocado.</p><p><strong>A niveles superiores. </strong>Cuando lanzas este conjuro usando un espacio de nivel 6 o superior, el valor de desafío aumenta en 1 por cada nivel del espacio por encima de 5.</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             },
             "eLGFEkccrGtYPIdO": {
               "name": "Forma gaseosa",
-              "description": "<p>Transformas una criatura dispuesta a tocar, junto con todo lo que lleva y lleva, en una nube nebulosa durante todo el tiempo. El conjuro termina si la criatura cae a 0 puntos de impacto. Una criatura incorpórea no se ve afectada.</p><p>Mientras que en esta forma, el único método de movimiento del objetivo es una velocidad de vuelo de 10 pies. El objetivo puede entrar y ocupar el espacio de otra criatura. El objetivo tiene resistencia al daño no mágico, y tiene ventaja en los lanzamientos de ahorro de fuerza, dexteridad y Constitución. El objetivo puede pasar a través de pequeños agujeros, aberturas estrechas e incluso meras grietas, aunque trata líquidos como si fueran superficies sólidas. El objetivo no puede caer y permanece flotando en el aire incluso cuando está aturdido o incapacitado de otra manera.</p><p>Mientras que en la forma de una nube de niebla, el objetivo no puede hablar o manipular objetos, y cualquier objeto que estaba llevando o sosteniendo no puede ser caído, utilizado o interactuado de otra manera con. El objetivo no puede atacar o lanzar conjuros.</p>",
+              "description": "<p>Transformas a una criatura voluntaria que toques, junto con todo lo que vista o lleve consigo, en una nube de niebla durante el conjuro. El conjuro termina si sus puntos de golpe se reducen a 0. No afecta a las criaturas incorporales.</p><p>En esta forma, el objetivo solo puede desplazarse volando, con una velocidad de 10 pies. Puede entrar en el espacio de otra criatura y ocuparlo. Tiene resistencia al daño no mágico y ventaja en las tiradas de salvación de Fuerza, Destreza y Constitución. Puede atravesar pequeños agujeros, aberturas estrechas e incluso simples grietas, aunque trata los líquidos como superficies sólidas. No puede caer y permanece suspendido en el aire incluso si está aturdido o incapacitado de otro modo.</p><p>Mientras tenga forma de nube de niebla, el objetivo no puede hablar ni manipular objetos, y no puede soltar, usar ni interactuar de ningún otro modo con los objetos que llevara consigo o sostuviera. No puede atacar ni lanzar conjuros.</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             },
             "7qn0fTMATQQ5Qn5D": {
               "name": "Invisibilidad",
-              "description": "<p>Una criatura que tocas se vuelve invisible hasta que el conjuro termina. Todo lo que el objetivo lleva o lleva es invisible mientras esté en la persona del objetivo. El conjuro termina para un objetivo que ataca o lanza un conjuro.</p><p><strong>En los niveles superiores.</strong> Al lanzar este conjuro usando una espacio de conjuros de 3er nivel o superior, puedes apuntar a una criatura adicional por cada nivel de ranura por encima de 2do.</p>",
+              "description": "<p>Una criatura que toques se vuelve invisible hasta que termine el conjuro. Todo lo que lleve puesto o transporte también es invisible mientras lo lleve encima. El conjuro termina para un objetivo que ataque o lance un conjuro.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro usando un espacio de nivel 3 o superior, puedes elegir una criatura adicional por cada nivel del espacio por encima de 2.</p>",
               "effects": {
                 "TeFxBRKYKIXtg6pS": {
                   "name": "Invisibilidad",
-                  "description": "<p>El objetivo se vuelve invisible hasta que el conjuro termina. Todo lo que el objetivo lleva o lleva es invisible mientras esté en la persona del objetivo. El conjuro termina para un objetivo que ataca o lanza un conjuro.</p>"
+                  "description": "<p>El objetivo se vuelve invisible hasta que termine el conjuro. Todo lo que lleve puesto o transporte también es invisible mientras lo lleve encima. El conjuro termina para un objetivo que ataque o lance un conjuro.</p>"
                 },
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             },
             "aUgukxOu2jPK9NFB": {
-              "name": "Asesino fantasmagórico",
-              "description": "<p>Te adentras en las pesadillas de una criatura que puedes ver dentro del alcance y crear una manifestación ilusoria de sus miedos más profundos, visibles sólo para esa criatura. El objetivo debe hacer un lanzamiento de ahorro de sabiduría. En un ahorro fallido, el objetivo se convierte en &amp;Reference[Frightened] para la duración. Al final de cada uno de los giros del objetivo antes de que el conjuro termine, el objetivo debe tener éxito en un lanzamiento de ahorro de sabiduría o tomar 4d10 daño psíquico. En una salvada exitosa, el conjuro termina.</p><p><strong>En los niveles superiores</strong>. Cuando se lanza este conjuro utilizando una espacio de conjuro de 5o nivel o superior, el daño aumenta en 1d10 para cada nivel de ranura por encima de 4o.</p>",
+              "name": "Asesino fantasmal",
+              "description": "<p>Te adentras en las pesadillas de una criatura que puedas ver dentro del alcance y creas una manifestación ilusoria de sus temores más profundos, que solo ella puede ver. El objetivo debe realizar una tirada de salvación de Sabiduría. Si falla, queda &amp;Reference[Frightened]{asustado} mientras dure el conjuro. Al final de cada uno de sus turnos, antes de que termine el conjuro, debe superar una tirada de salvación de Sabiduría o sufrir 4d10 de daño psíquico. Si tiene éxito, el conjuro termina.</p><p><strong>A niveles superiores.</strong> Si lanzas este conjuro usando un espacio de nivel 5 o superior, el daño aumenta en 1d10 por cada nivel del espacio por encima de 4.</p>",
               "effects": {
                 "J6OIwL9rmPzNN307": {
-                  "name": "Asesino fantasmagórico",
-                  "description": "<p>El objetivo se asusta por la duración. Al final de cada uno de los giros del objetivo antes de que el conjuro termine, el objetivo debe tener éxito en un lanzamiento de ahorro de sabiduría o recibir daño psíquico. En una salvada exitosa, el conjuro termina.</p>"
+                  "name": "Asesino fantasmal",
+                  "description": "<p>El objetivo queda asustado mientras dure el conjuro. Al final de cada uno de sus turnos, antes de que termine el conjuro, debe superar una tirada de salvación de Sabiduría o sufrir daño psíquico. Si tiene éxito, el conjuro termina.</p>"
                 },
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             },
             "KnOoY2A6AydWMfCY": {
-              "name": "Cambio de plano",
-              "description": "<p>Tú y hasta ocho criaturas dispuestas que unen las manos en un círculo son transportadas a un plano diferente de la existencia. Puede especificar un destino objetivo en términos generales, como la Ciudad de Brass en el plano de Fuego Elemental o el palacio de Dispater en el segundo nivel de los Nueve Infiernos, y aparece en o cerca de ese destino. Si usted está tratando de llegar a la ciudad de Brass, por ejemplo, usted puede llegar en su calle de acero, antes de su Puerta de Cenizas, o mirando a la ciudad del otro lado del mar de fuego, a discreción del DM.</p><p>Alternativamente, si conoces la secuencia sigil de un círculo de teletransportación en otro plano de existencia, este conjuro puede llevarte a ese círculo. Si el círculo de teletransportación es demasiado pequeño para contener a todas las criaturas que transportaste, aparecen en los espacios desocupados más cercanos al círculo.</p><p>Puedes usar este conjuro para desterrar a una criatura no dispuesta a otro plano. Elige una criatura a tu alcance y haz un ataque de conjuros contra ella. En un golpe, la criatura debe hacer un lanzamiento de ahorro Carisma. Si la criatura falla este salvo, es transportada a una ubicación aleatoria en el plano de existencia que usted especifica. Una criatura tan transportada debe encontrar su propio camino de regreso a su actual plano de existencia.</p>",
+              "name": "Desplazamiento entre planos",
+              "description": "<p>Tú y hasta ocho criaturas voluntarias que os cojáis de las manos formando un círculo sois transportados a otro plano de existencia. Puedes indicar un destino en términos generales, como la Ciudad de Oropel en el Plano Elemental del Fuego o el palacio de Dispater en el segundo nivel de los Nueve Infiernos, y aparecéis en ese lugar o cerca de él. Si intentas llegar a la Ciudad de Oropel, por ejemplo, podríais aparecer en su Calle de Acero, ante su Puerta de las Cenizas o contemplándola desde el otro lado del Mar de Fuego, a discreción del DM.</p><p>Si conoces la secuencia de sellos de un círculo de teletransportación de otro plano, el conjuro puede llevaros hasta él. Si el círculo es demasiado pequeño para todas las criaturas transportadas, aparecen en los espacios desocupados más cercanos a él.</p><p>Puedes usar este conjuro para desterrar a una criatura no voluntaria a otro plano. Elige a una criatura a tu alcance y realiza un ataque de conjuro cuerpo a cuerpo contra ella. Si impactas, debe realizar una tirada de salvación de Carisma. Si falla, es transportada a un lugar aleatorio del plano de existencia que indiques. Tendrá que encontrar por sus propios medios el modo de volver a tu plano actual.</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             },
             "92q9PFRYM5uMkwHt": {
               "name": "Muro de piedra",
-              "description": "<p>Una pared no mágica de piedra sólida nace en la existencia en un punto que elijas dentro de su alcance. La pared tiene 6 pulgadas de espesor y está compuesta por diez paneles de 10 pies por 10 pies. Cada panel debe ser contiguo con al menos otro panel. Alternativamente, puedes crear paneles de 10 pies por 20 pies de espesor que son sólo 3 pulgadas.</p><p>Si la pared atraviesa el espacio de una criatura cuando aparece, la criatura es empujada a un lado de la pared (su elección). Si una criatura estaría rodeada por todos los lados por la pared (o la pared y otra superficie sólida), esa criatura puede hacer un lanzamiento de ahorro de Dexterity. En un éxito, puede utilizar su Reacción para subir a su velocidad de modo que ya no está encerrado por la pared.</p><p>La pared puede tener cualquier forma que desees, aunque no puede ocupar el mismo espacio que una criatura u objeto. La pared no necesita ser vertical ni descansar sobre ninguna base firme. Sin embargo, debe fusionarse con la piedra existente y ser sólidamente apoyada por ella. Así, puedes usar este conjuro para puentear un abismo o crear una rampa.</p><p>Si crea un espacio superior a 20 pies de longitud, debe reducir a la mitad el tamaño de cada panel para crear soportes. Puedes dar forma cruda a la pared para crear almenas, almenas, etc.</p><p>El muro es un objeto de piedra que puede dañarse y romperse. Cada panel tiene AC 15 y 30 puntos de impacto por pulgada de espesor. Reducir un panel a 0 puntos de impacto lo destruye y puede causar que los paneles conectados se desplomen a discreción del DM.</p><p>Si mantienes tu concentración en este conjuro durante toda su duración, la pared se vuelve permanente y no se puede disipar. De lo contrario, la pared desaparece cuando el conjuro termina.</p>",
+              "description": "<p>Un muro no mágico de piedra sólida aparece en un punto que elijas dentro del alcance. Tiene 6 pulgadas de grosor y está compuesto por diez paneles de 10 pies por 10 pies. Cada panel debe ser contiguo al menos a otro. También puedes crear paneles de 10 pies por 20 pies que solo tengan 3 pulgadas de grosor.</p><p>Si el muro atraviesa el espacio de una criatura al aparecer, la empuja hacia uno de sus lados, a tu elección. Si una criatura fuera a quedar rodeada por completo por el muro, o por el muro y otra superficie sólida, puede realizar una tirada de salvación de Destreza. Si tiene éxito, puede usar su reacción para moverse hasta su velocidad y evitar quedar encerrada por el muro.</p><p>El muro puede tener cualquier forma que desees, aunque no puede ocupar el mismo espacio que una criatura u objeto. No tiene por qué ser vertical ni descansar sobre unos cimientos firmes. Sin embargo, debe unirse a piedra ya existente y quedar sólidamente apoyado en ella. Por tanto, puedes usar este conjuro para tender un puente sobre una sima o crear una rampa.</p><p>Si creas un tramo de más de 20 pies de longitud, debes reducir a la mitad el tamaño de cada panel para crear soportes. Puedes dar una forma tosca al muro para crear almenas, parapetos y elementos similares.</p><p>El muro es un objeto de piedra que puede sufrir daño y, por tanto, abrirse en él una brecha. Cada panel tiene CA 15 y 30 puntos de golpe por pulgada de grosor. Reducir un panel a 0 puntos de golpe lo destruye y podría hacer que los paneles conectados se derrumben, a discreción del DM.</p><p>Si mantienes la concentración en este conjuro durante toda su duración, el muro se vuelve permanente y no puede disiparse. De lo contrario, desaparece cuando termina el conjuro.</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             }

@@ -2816,6 +2816,18 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Disco flotante de Tenser y Fuerza fantasmal carecen de descripción en el
   original exportado. Se revisan sus nombres sin inventar el contenido ausente.
 
+### final-keshma — Keshma al-Wazir
+
+- Revisados 142 registros en ambas copias contra el exportado inglés,
+  incluidos los conjuros de tierra, la pérdida de control del elemental,
+  la forma gaseosa y la concordancia femenina del personaje.
+- El original duplica Moldear la piedra en la lista innata mediante un UUID
+  y un enlace al objeto. La maza utiliza `check` para derribar. Se conservan
+  ambos comportamientos para la revisión funcional.
+- Cerrados los campos de los 332 perfiles del compendio de actores. La
+  comprobación de Adventure detecta 306 campos adicionales pendientes,
+  principalmente nombres de grupos y encuentros, además de fichas exclusivas.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2825,8 +2837,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
   de Foundry, tres de créditos y cuatro de historial.
   No equivale a 931 páginas del PDF.
-- 17357 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 17357 campos distintos.
+- 17499 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 17499 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento cuarenta y dos biografías en ambas copias de actores: siete
   príncipes, ciento veintisiete criaturas o PNJ vinculados al apéndice D y ocho perfiles
