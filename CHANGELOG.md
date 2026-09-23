@@ -1,6 +1,19 @@
 # Changelog
 
-## [Unreleased]
+## [0.2.0] — 2026-09-23 — Versión de prueba local
+
+- Revisión editorial completa de 20.154 campos y 126 claves de interfaz.
+- 19 ayudas y 28 mapas/diagramas en español.
+- Reparaciones de enlaces retirados y anclas españolas verificadas en Foundry.
+- Corrección del restablecimiento de escenas reflejadas mediante IDs.
+- Importación limpia validada y 11.377 comprobaciones sin diferencias tras
+  aplicar las últimas reparaciones de enlaces al mundo de pruebas.
+- 1.339 destinos absolutos y sus anclas resueltos, 19 pruebas Node y ocho Python.
+- Pendientes: rótulos ingleses en 14 fondos y una escala del atlas, pruebas
+  funcionales exhaustivas y diagnóstico de los avisos de consola documentados.
+- Paquete local; no se publica una release remota ni se configura actualización automática.
+
+## [0.1.0] — Borrador inicial (histórico)
 
 - Esqueleto `0.1.0` para Foundry VTT 14.368 y dnd5e 6.0.3.
 - Dependencias Babele y `dnd-tomb-annihilation`.

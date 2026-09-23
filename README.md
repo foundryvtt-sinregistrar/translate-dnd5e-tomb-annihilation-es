@@ -1,9 +1,10 @@
 # La tumba de la aniquilación — Español (Babele)
 
-Borrador del módulo `translate-dnd5e-tomb-annihilation-es`, versión `0.1.0`.
+Versión de prueba `0.2.0` del módulo `translate-dnd5e-tomb-annihilation-es`.
 Incluye traducción de los cinco compendios y 126 textos de interfaz.
 **Revisión textual cerrada; validación funcional en curso.** No es una edición final ni
-una publicación instalable desde una URL remota.
+una publicación instalable desde una URL remota. El ZIP local se instala
+extrayendo su carpeta en `Data/modules/` con Foundry detenido.
 
 ## Entorno objetivo
 
@@ -45,7 +46,9 @@ La traducción de Adventure incluye 475 actores, 79 diarios con 1.033 páginas,
 42 escenas y 41 carpetas. También cubre textos de modificaciones locales de
 fichas. Los nombres propios y los fragmentos puramente técnicos pueden coincidir
 con el original. Las ayudas para jugadores incluyen 19 imágenes españolas;
-otros mapas todavía pueden conservar etiquetas inglesas integradas.
+el atlas incorpora otros 28 mapas y diagramas españoles. Quedan rótulos
+ingleses en 14 fondos de escena y la escala del mapa de Puerto Nyanzaru para
+jugadores. Las pruebas no cubren todas las automatizaciones de una partida.
 
 ## Desarrollo
 
