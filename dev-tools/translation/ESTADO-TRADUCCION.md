@@ -1129,14 +1129,27 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   si lo destruyen; la salida se abre cuando desaparece.
 - Auditorías técnica y editorial sin errores.
 
+### ch5-level5-final-01 a ch5-level5-final-03 — Podredumbre, cadena y esfera
+
+- Revisados tres textos y títulos con referencias físicas 177-179.
+  Completados los 18 textos del quinto nivel.
+- La podredumbre solo afecta a los materiales y objetos no mágicos indicados;
+  reparar no los restaura. Retirar la argolla termina el efecto.
+- Aclarado que el salto con pértiga es del balcón oriental al occidental,
+  más elevado. Conservados el vehículo del pentadron y sus limitaciones.
+- Conservadas las excepciones de decapitación y la avería tras la conjunción.
+  El original no precisa la frecuencia del daño de sobrecarga de la esfera;
+  no se ha inventado una cadencia por turno. La tabla insertada sigue pendiente.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 590 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 593 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4 y 111 del capítulo 5. No equivale a 590 páginas del PDF.
-- 1290 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1290 campos distintos.
+  del capítulo 4 y 114 del capítulo 5. No equivale a 593 páginas del PDF.
+- 1296 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1296 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
