@@ -2898,17 +2898,17 @@
           "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>"
         },
         "PDD3nrwo3Evq3lsU": {
-          "name": "Mente axiomática",
-          "description": "<p>La monodrona no puede ser obligada a actuar de una manera contraria a su naturaleza o a sus instrucciones.</p>"
+          "name": "Mente Axiomática",
+          "description": "<p>No se puede obligar al monodrón a actuar de forma contraria a su naturaleza o sus instrucciones.</p>"
         },
         "0DB8RyhLyzM4kjWk": {
           "name": "Desintegración",
-          "description": "<p>Si el monodrone muere, su cuerpo se desintegra en el polvo, dejando atrás sus armas y cualquier otra cosa que llevaba.</p>"
+          "description": "<p>Si el monodrón muere, su cuerpo se desintegra en polvo y solo quedan sus armas y todo lo que llevara consigo.</p>"
         }
       },
-      "name": "Monodrona",
-      "languages": "Modron",
-      "tokenName": "Monodrona"
+      "name": "Monodrón",
+      "languages": "Modrón",
+      "tokenName": "Monodrón"
     },
     "M6KBoykERKyLRz34": {
       "alignment": "Neutral malvado",
@@ -6630,28 +6630,28 @@
       "items": {
         "I9SZNBVyqboeqKfd": {
           "name": "Ataque múltiple",
-          "description": "<p>El cuadrante hace dos [[/item Fist]] ataques o cuatro ataques de arco corto.</p>"
+          "description": "<p>El cuadrón realiza dos ataques de [[/item Fist]] o cuatro ataques con su arco corto.</p>"
         },
         "wPl3UrmNGlQuSROC": {
           "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-          "name": "Puño"
+          "name": "Puñetazo"
         },
         "vu2sGw3BDNj7YSro": {
           "name": "Arco corto",
           "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>"
         },
         "VEfk98quhq7x0YyG": {
-          "name": "Mente axiomática",
-          "description": "<p>El cuadrante no puede ser obligado a actuar de una manera contraria a su naturaleza o a sus instrucciones.</p>"
+          "name": "Mente Axiomática",
+          "description": "<p>No se puede obligar al cuadrón a actuar de forma contraria a su naturaleza o sus instrucciones.</p>"
         },
         "i33tTrwQHvuW4s8w": {
           "name": "Desintegración",
-          "description": "<p>Si el cuadrante muere, su cuerpo se desintegra en el polvo, dejando atrás sus armas y cualquier otra cosa que llevaba.</p>"
+          "description": "<p>Si el cuadrón muere, su cuerpo se desintegra en polvo y solo quedan sus armas y todo lo que llevara consigo.</p>"
         }
       },
-      "name": "Cuadrona",
-      "languages": "Modron",
-      "tokenName": "Cuadrona"
+      "name": "Cuadrón",
+      "languages": "Modrón",
+      "tokenName": "Cuadrón"
     },
     "rG9NdBVvCfnkqCY1": {
       "items": {
@@ -15148,34 +15148,34 @@
       "items": {
         "0WNBKfDlqFWqSlH8": {
           "name": "Ataque múltiple",
-          "description": "<p>La pentadrona hace cinco [[/item Arm]] ataques.</p>"
+          "description": "<p>El pentadrón realiza cinco ataques de [[/item Arm]].</p>"
         },
         "kyV63Dxh35VP6rcl": {
           "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
           "name": "Brazo"
         },
         "F5tIraUoCnXeTACX": {
-          "name": "Gas de parálisis",
-          "description": "<p>El pentadrone exhala un cono de gas de 30 pies.</p><p>Cada criatura en esa área debe tener éxito en un [[/save format=long]] o ser &amp;Reference[Paralyzed apply=false]{paralizado} durante 1 minuto. Una criatura puede repetir el lanzamiento de ahorro al final de cada uno de sus giros, terminando con el efecto en sí misma en un éxito.</p>",
+          "name": "Gas Paralizante",
+          "description": "<p>El pentadrón exhala gas en un cono de 30 pies.</p><p>Cada criatura en esa área debe superar una [[/save format=long]] o quedar &amp;Reference[Paralyzed apply=false]{paralizada} durante 1 minuto. Una criatura puede repetir la tirada de salvación al final de cada uno de sus turnos y terminar el efecto sobre sí misma si tiene éxito.</p>",
           "effects": {
             "3iT3q9qYV0JjAV88": {
               "name": "Paralizado",
-              "description": "<p>El objetivo es &amp;Reference[Paralyzed apply=false]{paralizado} durante 1 minuto. Una criatura puede repetir el lanzamiento de ahorro al final de cada uno de sus giros, terminando con el efecto en sí misma en un éxito.</p>"
+              "description": "<p>El objetivo está &amp;Reference[Paralyzed apply=false]{paralizado} durante 1 minuto. Una criatura puede repetir la tirada de salvación al final de cada uno de sus turnos y terminar el efecto sobre sí misma si tiene éxito.</p>"
             }
           }
         },
         "cbZ4eU09BGYE2BlA": {
-          "name": "Mente axiomática",
-          "description": "<p>La pentadrona no puede ser obligada a actuar de una manera contraria a su naturaleza o sus instrucciones.</p>"
+          "name": "Mente Axiomática",
+          "description": "<p>No se puede obligar al pentadrón a actuar de forma contraria a su naturaleza o sus instrucciones.</p>"
         },
         "zcZHG6695m1JhBJQ": {
           "name": "Desintegración",
-          "description": "<p>Si el pentadrone muere, su cuerpo se desintegra en el polvo, dejando atrás sus armas y cualquier otra cosa que llevaba.</p>"
+          "description": "<p>Si el pentadrón muere, su cuerpo se desintegra en polvo y solo quedan sus armas y todo lo que llevara consigo.</p>"
         }
       },
-      "name": "Pentadrona",
-      "languages": "Modron",
-      "tokenName": "Pentadrona"
+      "name": "Pentadrón",
+      "languages": "Modrón",
+      "tokenName": "Pentadrón"
     },
     "x8SjVcKK8Cjzb5pK": {
       "alignment": "Neutral malvado",

@@ -2568,6 +2568,14 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   menciona un objetivo para apagar el fuego, mientras la descripción completa
   permite que lo haga una criatura; se conserva esta diferencia del original.
 
+### additional-modrons — Monodrón, cuadrón y pentadrón
+
+- Revisadas las tres fichas y sus copias de Adventure: 84 registros contrastados
+  con el exportado inglés. Comprobados los dos ataques de puñetazo o cuatro de
+  arco corto del cuadrón, los cinco ataques de brazo del pentadrón y la duración
+  y repetición de la salvación del gas paralizante.
+- Los enlaces por nombre `Fist` y `Arm` se conservan para la revisión funcional.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2577,8 +2585,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
   de Foundry, tres de créditos y cuatro de historial.
   No equivale a 931 páginas del PDF.
-- 13865 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 13865 campos distintos.
+- 13949 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 13949 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento treinta y siete biografías en ambas copias de actores: siete
   príncipes, ciento veintisiete criaturas o PNJ vinculados al apéndice D y tres PNJ

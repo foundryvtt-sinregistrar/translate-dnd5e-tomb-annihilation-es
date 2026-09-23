@@ -136001,6 +136001,696 @@
           "note": "Elemental profile reviewed against English export. Fire timing, whirlwinds, tail states and source language data checked."
         }
       ]
+    },
+    {
+      "id": "additional-modrons-LnzZKer6fHLa0t51",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.actors.LnzZKer6fHLa0t51.name",
+          "sourceSha256": "b5fd02a46b1cb79dcab1e110171a70342c81ff68a55f90e42f0f4569736b417d",
+          "translationSha256": "bd3b80b1a965c84f6646a595df948d8366436083b8fd0feb62c69d178efdb604",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.LnzZKer6fHLa0t51.alignment",
+          "sourceSha256": "7ac6561f7ff4cc4ce9b12ef73b6928a75260a08a11171ca98180b6a8ee2e5132",
+          "translationSha256": "76c21bbdb953fc07672ef18987952485011479ed42d8b727ce7745b6d166cfb3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.LnzZKer6fHLa0t51.languages",
+          "sourceSha256": "9a39d2091a8e9fc5fa756459611d383f40a93eebbc58b65ec76e287ea2422b2e",
+          "translationSha256": "8a0f06c549437bc90b7fa10e84aa6eed9b1c955472fd5b0b837ea4cf996fa2b2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.LnzZKer6fHLa0t51.tokenName",
+          "sourceSha256": "b5fd02a46b1cb79dcab1e110171a70342c81ff68a55f90e42f0f4569736b417d",
+          "translationSha256": "bd3b80b1a965c84f6646a595df948d8366436083b8fd0feb62c69d178efdb604",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.LnzZKer6fHLa0t51.items.PDD3nrwo3Evq3lsU.name",
+          "sourceSha256": "5a74b8f1822f7075ea93dfb9bd27f6302d908a9577a117b630d334d36688f201",
+          "translationSha256": "210f617afe727f80e5d8630f63c45508bfea5b5e4b38f76faabdb5c3ae8d9ae3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.LnzZKer6fHLa0t51.items.PDD3nrwo3Evq3lsU.description",
+          "sourceSha256": "478a90b922996ff5a2d9baa4022b3ddae55ec830313a18e9726b8280bcc69cde",
+          "translationSha256": "7f54861d3aa9bb98ecc75de167c312ef1de0aa23d7291d56a8fd10aaf899fead",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.LnzZKer6fHLa0t51.items.0DB8RyhLyzM4kjWk.name",
+          "sourceSha256": "f84d990c63699b9850cd594fd24ecbbe8cfb17e976f9b2dadef9d4f067103476",
+          "translationSha256": "e66dd9c1763fd8716a99a544d2016c65e1e1f0453a4cc9dbcd43400f5968d4a1",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.LnzZKer6fHLa0t51.items.0DB8RyhLyzM4kjWk.description",
+          "sourceSha256": "f6fc1be95487cc89f2d55d77e46b51c1db96496d6350680ab9b1bca66547c633",
+          "translationSha256": "76ce8b3cdf6c267acf4bd1be0f7f638886bcbad9315bc64c87dc8a3e80c3c4a6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.LnzZKer6fHLa0t51.items.Fi0DUvCrLssWRwHH.name",
+          "sourceSha256": "5679daa7c55dde153a0e3f2e5d7c5318f149fa10716a7d874fa97e46639426a3",
+          "translationSha256": "0d81d65266d727278d155afd599cef4f20a288399d923cb7d5d145a310d781de",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.LnzZKer6fHLa0t51.items.Fi0DUvCrLssWRwHH.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.LnzZKer6fHLa0t51.items.Uncntz5MLG3I7YXO.name",
+          "sourceSha256": "3331d5456d2d5b84ac4bc46eb8807cd4b4d2b5f0cd17aa54ad0ccc0362ea8c72",
+          "translationSha256": "2885b8fcf41b9530edd6976b31811378f5b90fd4032dabf6c039e07541399af8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.LnzZKer6fHLa0t51.items.Uncntz5MLG3I7YXO.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.LnzZKer6fHLa0t51.name",
+          "sourceSha256": "b5fd02a46b1cb79dcab1e110171a70342c81ff68a55f90e42f0f4569736b417d",
+          "translationSha256": "bd3b80b1a965c84f6646a595df948d8366436083b8fd0feb62c69d178efdb604",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.LnzZKer6fHLa0t51.alignment",
+          "sourceSha256": "7ac6561f7ff4cc4ce9b12ef73b6928a75260a08a11171ca98180b6a8ee2e5132",
+          "translationSha256": "76c21bbdb953fc07672ef18987952485011479ed42d8b727ce7745b6d166cfb3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.LnzZKer6fHLa0t51.languages",
+          "sourceSha256": "9a39d2091a8e9fc5fa756459611d383f40a93eebbc58b65ec76e287ea2422b2e",
+          "translationSha256": "8a0f06c549437bc90b7fa10e84aa6eed9b1c955472fd5b0b837ea4cf996fa2b2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.LnzZKer6fHLa0t51.tokenName",
+          "sourceSha256": "b5fd02a46b1cb79dcab1e110171a70342c81ff68a55f90e42f0f4569736b417d",
+          "translationSha256": "bd3b80b1a965c84f6646a595df948d8366436083b8fd0feb62c69d178efdb604",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.LnzZKer6fHLa0t51.items.PDD3nrwo3Evq3lsU.name",
+          "sourceSha256": "5a74b8f1822f7075ea93dfb9bd27f6302d908a9577a117b630d334d36688f201",
+          "translationSha256": "210f617afe727f80e5d8630f63c45508bfea5b5e4b38f76faabdb5c3ae8d9ae3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.LnzZKer6fHLa0t51.items.PDD3nrwo3Evq3lsU.description",
+          "sourceSha256": "478a90b922996ff5a2d9baa4022b3ddae55ec830313a18e9726b8280bcc69cde",
+          "translationSha256": "7f54861d3aa9bb98ecc75de167c312ef1de0aa23d7291d56a8fd10aaf899fead",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.LnzZKer6fHLa0t51.items.0DB8RyhLyzM4kjWk.name",
+          "sourceSha256": "f84d990c63699b9850cd594fd24ecbbe8cfb17e976f9b2dadef9d4f067103476",
+          "translationSha256": "e66dd9c1763fd8716a99a544d2016c65e1e1f0453a4cc9dbcd43400f5968d4a1",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.LnzZKer6fHLa0t51.items.0DB8RyhLyzM4kjWk.description",
+          "sourceSha256": "f6fc1be95487cc89f2d55d77e46b51c1db96496d6350680ab9b1bca66547c633",
+          "translationSha256": "76ce8b3cdf6c267acf4bd1be0f7f638886bcbad9315bc64c87dc8a3e80c3c4a6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.LnzZKer6fHLa0t51.items.Fi0DUvCrLssWRwHH.name",
+          "sourceSha256": "5679daa7c55dde153a0e3f2e5d7c5318f149fa10716a7d874fa97e46639426a3",
+          "translationSha256": "0d81d65266d727278d155afd599cef4f20a288399d923cb7d5d145a310d781de",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.LnzZKer6fHLa0t51.items.Fi0DUvCrLssWRwHH.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.LnzZKer6fHLa0t51.items.Uncntz5MLG3I7YXO.name",
+          "sourceSha256": "3331d5456d2d5b84ac4bc46eb8807cd4b4d2b5f0cd17aa54ad0ccc0362ea8c72",
+          "translationSha256": "2885b8fcf41b9530edd6976b31811378f5b90fd4032dabf6c039e07541399af8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.LnzZKer6fHLa0t51.items.Uncntz5MLG3I7YXO.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        }
+      ]
+    },
+    {
+      "id": "additional-modrons-qWvhDsssQHB7Rid0",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.actors.qWvhDsssQHB7Rid0.name",
+          "sourceSha256": "7f668c3b60ba6065382c2f5a1d841fb023f25b9e245d9213f499e05fb3232f8c",
+          "translationSha256": "08a0b792d8053c7bc7d06e745c8049400321d72dda0a47e4aef17cde5b0a4513",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.qWvhDsssQHB7Rid0.alignment",
+          "sourceSha256": "7ac6561f7ff4cc4ce9b12ef73b6928a75260a08a11171ca98180b6a8ee2e5132",
+          "translationSha256": "76c21bbdb953fc07672ef18987952485011479ed42d8b727ce7745b6d166cfb3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.qWvhDsssQHB7Rid0.languages",
+          "sourceSha256": "9a39d2091a8e9fc5fa756459611d383f40a93eebbc58b65ec76e287ea2422b2e",
+          "translationSha256": "8a0f06c549437bc90b7fa10e84aa6eed9b1c955472fd5b0b837ea4cf996fa2b2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.qWvhDsssQHB7Rid0.tokenName",
+          "sourceSha256": "7f668c3b60ba6065382c2f5a1d841fb023f25b9e245d9213f499e05fb3232f8c",
+          "translationSha256": "08a0b792d8053c7bc7d06e745c8049400321d72dda0a47e4aef17cde5b0a4513",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.qWvhDsssQHB7Rid0.items.I9SZNBVyqboeqKfd.name",
+          "sourceSha256": "ed2fe6ee4108fdd7aa2adc5e1e0b272881becc9d47f1b91289237da2411ddc11",
+          "translationSha256": "0a39b8f3bdfe279a18ef7e5bea3f6239da0932a302f113bb61df2e0b3f3abaad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.qWvhDsssQHB7Rid0.items.I9SZNBVyqboeqKfd.description",
+          "sourceSha256": "4b4fb9a6fcc4f005cf3dd14a3ec1fcf1ebcc10bc83d82c7bb1386b416b50f09a",
+          "translationSha256": "0a7884132cd3a61e584ad45277e2eafbdcb0f8fae6f9b3e58a2b0ad5f986d016",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.qWvhDsssQHB7Rid0.items.wPl3UrmNGlQuSROC.name",
+          "sourceSha256": "5d29c96c668dec8bba922ad7fc68a2de7f1482f06c5996f4047a273a48ef76a4",
+          "translationSha256": "203b3b93871d6d672e5607f5f99ee03243ffc1253fdd5192653215b4ebaf5df8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.qWvhDsssQHB7Rid0.items.wPl3UrmNGlQuSROC.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.qWvhDsssQHB7Rid0.items.VEfk98quhq7x0YyG.name",
+          "sourceSha256": "5a74b8f1822f7075ea93dfb9bd27f6302d908a9577a117b630d334d36688f201",
+          "translationSha256": "210f617afe727f80e5d8630f63c45508bfea5b5e4b38f76faabdb5c3ae8d9ae3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.qWvhDsssQHB7Rid0.items.VEfk98quhq7x0YyG.description",
+          "sourceSha256": "ca0963d631793d0a3002237c0cb9d111d5e6cccbf51ca2805f97a294876ec932",
+          "translationSha256": "9157cabd30aa6c3a655c612bb1b995e74d07fdf39e03bf9671f5c395a485991e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.qWvhDsssQHB7Rid0.items.i33tTrwQHvuW4s8w.name",
+          "sourceSha256": "f84d990c63699b9850cd594fd24ecbbe8cfb17e976f9b2dadef9d4f067103476",
+          "translationSha256": "e66dd9c1763fd8716a99a544d2016c65e1e1f0453a4cc9dbcd43400f5968d4a1",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.qWvhDsssQHB7Rid0.items.i33tTrwQHvuW4s8w.description",
+          "sourceSha256": "7afd695d4be79e0d79a177debabdc3c49d77febeba98ec3e6a0a718d277694fd",
+          "translationSha256": "f30dc30ba0bcc0377de7820053a17b7823a0f8cc0ca2d908448b02b983e7dd4f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.qWvhDsssQHB7Rid0.items.vu2sGw3BDNj7YSro.name",
+          "sourceSha256": "98469a9f08315d135c60ff37f0231cd39fa036634a517b53313314f0cafc59ee",
+          "translationSha256": "12dbc9a9ec7a6b9684f1ae319b557446849338c8865988674bbbce132a2e1c29",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.qWvhDsssQHB7Rid0.items.vu2sGw3BDNj7YSro.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.qWvhDsssQHB7Rid0.name",
+          "sourceSha256": "7f668c3b60ba6065382c2f5a1d841fb023f25b9e245d9213f499e05fb3232f8c",
+          "translationSha256": "08a0b792d8053c7bc7d06e745c8049400321d72dda0a47e4aef17cde5b0a4513",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.qWvhDsssQHB7Rid0.alignment",
+          "sourceSha256": "7ac6561f7ff4cc4ce9b12ef73b6928a75260a08a11171ca98180b6a8ee2e5132",
+          "translationSha256": "76c21bbdb953fc07672ef18987952485011479ed42d8b727ce7745b6d166cfb3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.qWvhDsssQHB7Rid0.languages",
+          "sourceSha256": "9a39d2091a8e9fc5fa756459611d383f40a93eebbc58b65ec76e287ea2422b2e",
+          "translationSha256": "8a0f06c549437bc90b7fa10e84aa6eed9b1c955472fd5b0b837ea4cf996fa2b2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.qWvhDsssQHB7Rid0.tokenName",
+          "sourceSha256": "7f668c3b60ba6065382c2f5a1d841fb023f25b9e245d9213f499e05fb3232f8c",
+          "translationSha256": "08a0b792d8053c7bc7d06e745c8049400321d72dda0a47e4aef17cde5b0a4513",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.qWvhDsssQHB7Rid0.items.I9SZNBVyqboeqKfd.name",
+          "sourceSha256": "ed2fe6ee4108fdd7aa2adc5e1e0b272881becc9d47f1b91289237da2411ddc11",
+          "translationSha256": "0a39b8f3bdfe279a18ef7e5bea3f6239da0932a302f113bb61df2e0b3f3abaad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.qWvhDsssQHB7Rid0.items.I9SZNBVyqboeqKfd.description",
+          "sourceSha256": "4b4fb9a6fcc4f005cf3dd14a3ec1fcf1ebcc10bc83d82c7bb1386b416b50f09a",
+          "translationSha256": "0a7884132cd3a61e584ad45277e2eafbdcb0f8fae6f9b3e58a2b0ad5f986d016",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.qWvhDsssQHB7Rid0.items.wPl3UrmNGlQuSROC.name",
+          "sourceSha256": "5d29c96c668dec8bba922ad7fc68a2de7f1482f06c5996f4047a273a48ef76a4",
+          "translationSha256": "203b3b93871d6d672e5607f5f99ee03243ffc1253fdd5192653215b4ebaf5df8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.qWvhDsssQHB7Rid0.items.wPl3UrmNGlQuSROC.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.qWvhDsssQHB7Rid0.items.VEfk98quhq7x0YyG.name",
+          "sourceSha256": "5a74b8f1822f7075ea93dfb9bd27f6302d908a9577a117b630d334d36688f201",
+          "translationSha256": "210f617afe727f80e5d8630f63c45508bfea5b5e4b38f76faabdb5c3ae8d9ae3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.qWvhDsssQHB7Rid0.items.VEfk98quhq7x0YyG.description",
+          "sourceSha256": "ca0963d631793d0a3002237c0cb9d111d5e6cccbf51ca2805f97a294876ec932",
+          "translationSha256": "9157cabd30aa6c3a655c612bb1b995e74d07fdf39e03bf9671f5c395a485991e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.qWvhDsssQHB7Rid0.items.i33tTrwQHvuW4s8w.name",
+          "sourceSha256": "f84d990c63699b9850cd594fd24ecbbe8cfb17e976f9b2dadef9d4f067103476",
+          "translationSha256": "e66dd9c1763fd8716a99a544d2016c65e1e1f0453a4cc9dbcd43400f5968d4a1",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.qWvhDsssQHB7Rid0.items.i33tTrwQHvuW4s8w.description",
+          "sourceSha256": "7afd695d4be79e0d79a177debabdc3c49d77febeba98ec3e6a0a718d277694fd",
+          "translationSha256": "f30dc30ba0bcc0377de7820053a17b7823a0f8cc0ca2d908448b02b983e7dd4f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.qWvhDsssQHB7Rid0.items.vu2sGw3BDNj7YSro.name",
+          "sourceSha256": "98469a9f08315d135c60ff37f0231cd39fa036634a517b53313314f0cafc59ee",
+          "translationSha256": "12dbc9a9ec7a6b9684f1ae319b557446849338c8865988674bbbce132a2e1c29",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.qWvhDsssQHB7Rid0.items.vu2sGw3BDNj7YSro.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        }
+      ]
+    },
+    {
+      "id": "additional-modrons-wuIm1Lg8EnL0LGeC",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.actors.wuIm1Lg8EnL0LGeC.name",
+          "sourceSha256": "06788fa6b01a95d51fe89dc0abf11ba68075682da93db23a9fd4b3f07fbe74f5",
+          "translationSha256": "80120aa323a3437b565d94eb58e067bf9a64537d9593912b413da9fc72f621e6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.wuIm1Lg8EnL0LGeC.alignment",
+          "sourceSha256": "7ac6561f7ff4cc4ce9b12ef73b6928a75260a08a11171ca98180b6a8ee2e5132",
+          "translationSha256": "76c21bbdb953fc07672ef18987952485011479ed42d8b727ce7745b6d166cfb3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.wuIm1Lg8EnL0LGeC.languages",
+          "sourceSha256": "9a39d2091a8e9fc5fa756459611d383f40a93eebbc58b65ec76e287ea2422b2e",
+          "translationSha256": "8a0f06c549437bc90b7fa10e84aa6eed9b1c955472fd5b0b837ea4cf996fa2b2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.wuIm1Lg8EnL0LGeC.tokenName",
+          "sourceSha256": "06788fa6b01a95d51fe89dc0abf11ba68075682da93db23a9fd4b3f07fbe74f5",
+          "translationSha256": "80120aa323a3437b565d94eb58e067bf9a64537d9593912b413da9fc72f621e6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.wuIm1Lg8EnL0LGeC.items.0WNBKfDlqFWqSlH8.name",
+          "sourceSha256": "ed2fe6ee4108fdd7aa2adc5e1e0b272881becc9d47f1b91289237da2411ddc11",
+          "translationSha256": "0a39b8f3bdfe279a18ef7e5bea3f6239da0932a302f113bb61df2e0b3f3abaad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.wuIm1Lg8EnL0LGeC.items.0WNBKfDlqFWqSlH8.description",
+          "sourceSha256": "a1f760ee35ea47e2d95200ffd79a0a3e7d2ee9c7d5cd2d42315cea7e93e80fe5",
+          "translationSha256": "3df14d1d4567eef1a0ac02a64021f6cff17c8227c6fda145c57ea6dafcc2cfef",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.wuIm1Lg8EnL0LGeC.items.kyV63Dxh35VP6rcl.name",
+          "sourceSha256": "d5cb968264a5023eebf4d58f781430d3623edd71596558ebb3e26069f933d39b",
+          "translationSha256": "477b0d18ba4ff87d90029908b5e7d9d3d62f5e348638e8fce8d839fc3953412b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.wuIm1Lg8EnL0LGeC.items.kyV63Dxh35VP6rcl.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.wuIm1Lg8EnL0LGeC.items.F5tIraUoCnXeTACX.name",
+          "sourceSha256": "48ca9e96de53e0b6f6a476f981afca8fd1efde9032cecc8a791475e04b97e02c",
+          "translationSha256": "fe5f482ca14ed67a30ae859174d4c85b455034f563984914874b56c780e50c8c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.wuIm1Lg8EnL0LGeC.items.F5tIraUoCnXeTACX.description",
+          "sourceSha256": "f1eaf5e4882a97ee561abde2b1580716aefe24b3042f6c4bc3c8d86a8510568d",
+          "translationSha256": "38702a1c3539514dd3a0105cb5d76e102cc5bdd7c8b79943f5945ed7f21486a5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.wuIm1Lg8EnL0LGeC.items.F5tIraUoCnXeTACX.effects.3iT3q9qYV0JjAV88.name",
+          "sourceSha256": "6cc4eb473ade8b4668ea771d3986d3799be7eaa1299f09beb9e316685afd18e1",
+          "translationSha256": "a4e496333ce4aad5d3a5965e7f117c047c77056505f9c36bc0b2ceb11b9fbca7",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.wuIm1Lg8EnL0LGeC.items.F5tIraUoCnXeTACX.effects.3iT3q9qYV0JjAV88.description",
+          "sourceSha256": "8668c164495f42972b86e93db9d43f5fd83581af253739c6940cb3e16b0fab33",
+          "translationSha256": "22d7e3fad3015e99dfb7bca4136e4e6e9f916c5e40d2298c190267d392c2368a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.wuIm1Lg8EnL0LGeC.items.cbZ4eU09BGYE2BlA.name",
+          "sourceSha256": "5a74b8f1822f7075ea93dfb9bd27f6302d908a9577a117b630d334d36688f201",
+          "translationSha256": "210f617afe727f80e5d8630f63c45508bfea5b5e4b38f76faabdb5c3ae8d9ae3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.wuIm1Lg8EnL0LGeC.items.cbZ4eU09BGYE2BlA.description",
+          "sourceSha256": "996f457358e8b72d7603a6fbacfafe669af6d2d3264bec0e34849bdfbed94550",
+          "translationSha256": "e454a87423aab0c2019a279fd871b94b316b60cb7b3eb79bddfad9a30ad6c578",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.wuIm1Lg8EnL0LGeC.items.zcZHG6695m1JhBJQ.name",
+          "sourceSha256": "f84d990c63699b9850cd594fd24ecbbe8cfb17e976f9b2dadef9d4f067103476",
+          "translationSha256": "e66dd9c1763fd8716a99a544d2016c65e1e1f0453a4cc9dbcd43400f5968d4a1",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.wuIm1Lg8EnL0LGeC.items.zcZHG6695m1JhBJQ.description",
+          "sourceSha256": "6fe4215aee7d3581b0013bb6ffaae6a74176eeac838d45e03cf0db42083f3eba",
+          "translationSha256": "d0df9fd91897c5cea6c51217ba7ecc4f0e856825d2bc3bab41a7dfbf729e560a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.wuIm1Lg8EnL0LGeC.name",
+          "sourceSha256": "06788fa6b01a95d51fe89dc0abf11ba68075682da93db23a9fd4b3f07fbe74f5",
+          "translationSha256": "80120aa323a3437b565d94eb58e067bf9a64537d9593912b413da9fc72f621e6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.wuIm1Lg8EnL0LGeC.alignment",
+          "sourceSha256": "7ac6561f7ff4cc4ce9b12ef73b6928a75260a08a11171ca98180b6a8ee2e5132",
+          "translationSha256": "76c21bbdb953fc07672ef18987952485011479ed42d8b727ce7745b6d166cfb3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.wuIm1Lg8EnL0LGeC.languages",
+          "sourceSha256": "9a39d2091a8e9fc5fa756459611d383f40a93eebbc58b65ec76e287ea2422b2e",
+          "translationSha256": "8a0f06c549437bc90b7fa10e84aa6eed9b1c955472fd5b0b837ea4cf996fa2b2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.wuIm1Lg8EnL0LGeC.tokenName",
+          "sourceSha256": "06788fa6b01a95d51fe89dc0abf11ba68075682da93db23a9fd4b3f07fbe74f5",
+          "translationSha256": "80120aa323a3437b565d94eb58e067bf9a64537d9593912b413da9fc72f621e6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.wuIm1Lg8EnL0LGeC.items.0WNBKfDlqFWqSlH8.name",
+          "sourceSha256": "ed2fe6ee4108fdd7aa2adc5e1e0b272881becc9d47f1b91289237da2411ddc11",
+          "translationSha256": "0a39b8f3bdfe279a18ef7e5bea3f6239da0932a302f113bb61df2e0b3f3abaad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.wuIm1Lg8EnL0LGeC.items.0WNBKfDlqFWqSlH8.description",
+          "sourceSha256": "a1f760ee35ea47e2d95200ffd79a0a3e7d2ee9c7d5cd2d42315cea7e93e80fe5",
+          "translationSha256": "3df14d1d4567eef1a0ac02a64021f6cff17c8227c6fda145c57ea6dafcc2cfef",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.wuIm1Lg8EnL0LGeC.items.kyV63Dxh35VP6rcl.name",
+          "sourceSha256": "d5cb968264a5023eebf4d58f781430d3623edd71596558ebb3e26069f933d39b",
+          "translationSha256": "477b0d18ba4ff87d90029908b5e7d9d3d62f5e348638e8fce8d839fc3953412b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.wuIm1Lg8EnL0LGeC.items.kyV63Dxh35VP6rcl.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.wuIm1Lg8EnL0LGeC.items.F5tIraUoCnXeTACX.name",
+          "sourceSha256": "48ca9e96de53e0b6f6a476f981afca8fd1efde9032cecc8a791475e04b97e02c",
+          "translationSha256": "fe5f482ca14ed67a30ae859174d4c85b455034f563984914874b56c780e50c8c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.wuIm1Lg8EnL0LGeC.items.F5tIraUoCnXeTACX.description",
+          "sourceSha256": "f1eaf5e4882a97ee561abde2b1580716aefe24b3042f6c4bc3c8d86a8510568d",
+          "translationSha256": "38702a1c3539514dd3a0105cb5d76e102cc5bdd7c8b79943f5945ed7f21486a5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.wuIm1Lg8EnL0LGeC.items.F5tIraUoCnXeTACX.effects.3iT3q9qYV0JjAV88.name",
+          "sourceSha256": "6cc4eb473ade8b4668ea771d3986d3799be7eaa1299f09beb9e316685afd18e1",
+          "translationSha256": "a4e496333ce4aad5d3a5965e7f117c047c77056505f9c36bc0b2ceb11b9fbca7",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.wuIm1Lg8EnL0LGeC.items.F5tIraUoCnXeTACX.effects.3iT3q9qYV0JjAV88.description",
+          "sourceSha256": "8668c164495f42972b86e93db9d43f5fd83581af253739c6940cb3e16b0fab33",
+          "translationSha256": "22d7e3fad3015e99dfb7bca4136e4e6e9f916c5e40d2298c190267d392c2368a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.wuIm1Lg8EnL0LGeC.items.cbZ4eU09BGYE2BlA.name",
+          "sourceSha256": "5a74b8f1822f7075ea93dfb9bd27f6302d908a9577a117b630d334d36688f201",
+          "translationSha256": "210f617afe727f80e5d8630f63c45508bfea5b5e4b38f76faabdb5c3ae8d9ae3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.wuIm1Lg8EnL0LGeC.items.cbZ4eU09BGYE2BlA.description",
+          "sourceSha256": "996f457358e8b72d7603a6fbacfafe669af6d2d3264bec0e34849bdfbed94550",
+          "translationSha256": "e454a87423aab0c2019a279fd871b94b316b60cb7b3eb79bddfad9a30ad6c578",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.wuIm1Lg8EnL0LGeC.items.zcZHG6695m1JhBJQ.name",
+          "sourceSha256": "f84d990c63699b9850cd594fd24ecbbe8cfb17e976f9b2dadef9d4f067103476",
+          "translationSha256": "e66dd9c1763fd8716a99a544d2016c65e1e1f0453a4cc9dbcd43400f5968d4a1",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.wuIm1Lg8EnL0LGeC.items.zcZHG6695m1JhBJQ.description",
+          "sourceSha256": "6fe4215aee7d3581b0013bb6ffaae6a74176eeac838d45e03cf0db42083f3eba",
+          "translationSha256": "d0df9fd91897c5cea6c51217ba7ecc4f0e856825d2bc3bab41a7dfbf729e560a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
+        }
+      ]
     }
   ]
 }
