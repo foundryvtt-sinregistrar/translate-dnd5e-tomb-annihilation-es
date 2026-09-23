@@ -1688,7 +1688,7 @@
           "items": {
             "GcFtQd9Py9mWRqLI": {
               "name": "Ataque múltiple",
-              "description": "<p>El deinonychus hace tres ataques: uno con su [[/item Bite]] y dos con su [[/item Claw]].</p>"
+              "description": "<p>El deinonychus realiza tres ataques: uno de [[/item Bite]]{Mordisco} y dos de [[/item Claw]]{Garra}.</p>"
             },
             "PwethtRQ6W05RKEb": {
               "name": "Mordisco",
@@ -1699,12 +1699,12 @@
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>"
             },
             "x85sPbByQEO9p11S": {
-              "name": "Salto",
-              "description": "<p>Si el deinonychus se mueve al menos 20 pies rectos hacia una criatura y luego le da con un ataque de garra en el mismo giro, ese objetivo debe tener éxito en un [[/save format=long]] o ser llamado &amp;Reference[Prone apply=false]{propenso}. Si el objetivo es propenso, el deinonychus puede hacer uno [[/item Bite]] atacarlo como una acción extra.</p>",
+              "name": "Abalanzarse",
+              "description": "<p>Si el deinonychus se desplaza al menos 20 pies en línea recta hacia una criatura y después le impacta con un ataque de garra en el mismo turno, el objetivo debe superar una [[/save format=long]] o queda &amp;Reference[Prone apply=false]{derribado}. Si el objetivo está derribado, el deinonychus puede realizar un ataque de [[/item Bite]]{Mordisco} contra él como acción adicional.</p>",
               "effects": {
                 "nlUdOfJCtP2qkzCs": {
-                  "name": "Prona",
-                  "description": "<p>El objetivo está golpeado. &amp;Reference[Prone apply=false]{propenso}.</p>"
+                  "name": "Derribado",
+                  "description": "<p>El objetivo queda &amp;Reference[Prone apply=false]{derribado}.</p>"
                 }
               }
             }
@@ -5643,17 +5643,17 @@
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>"
             },
             "0QlyIkNth7ikJ1PU": {
-              "name": "Ataque de buceo",
-              "description": "<p>Si el quetzalcoatlus está volando y se sumerge al menos 30 pies hacia un objetivo y luego golpea con un [[/item Bite]] ataque, el ataque trata un extra [[/damage average]] daños al objetivo.</p>"
+              "name": "Ataque en Picado",
+              "description": "<p>Si el quetzalcoatlus está volando, desciende en picado al menos 30 pies hacia un objetivo y después le impacta con un ataque de [[/item Bite]]{Mordisco}, el ataque inflige [[/damage average]] de daño adicional al objetivo.</p>"
             },
             "IqrR9F0gyDt3CTzu": {
-              "name": "Pasada",
-              "description": "<p>El quetzalcoatlus no provoca un ataque de oportunidad cuando vuela fuera del alcance de un enemigo.</p>"
+              "name": "Pasar Volando",
+              "description": "<p>El quetzalcoatlus no provoca ataques de oportunidad cuando sale volando del alcance de un enemigo.</p>"
             }
           },
           "name": "Quetzalcoatlus",
           "tokenName": "Quetzalcoatlus",
-          "biography": "<p>Este pariente gigante del pteranodon tiene una envergadura superior a 30 pies. Aunque puede moverse en el suelo como un cuádruple, es más cómodo en el aire.</p>"
+          "biography": "<p>Este pariente gigantesco del pteranodon supera los 30 pies de envergadura. Aunque puede desplazarse por el suelo a cuatro patas, se siente más cómodo en el aire.</p>"
         },
         "sGQzr5dUMUmZpONc": {
           "alignment": "Sin alineamiento",
@@ -6344,7 +6344,7 @@
           },
           "name": "Estegosaurio",
           "tokenName": "Estegosaurio",
-          "biography": "<p>Este dinosaurio, muy construido, tiene filas de placas en su espalda y una cola flexible y puntiaguda que se mantiene alta para atacar a los depredadores. Tiende a viajar en manadas de edades mixtas.</p>"
+          "biography": "<p>Este robusto dinosaurio tiene hileras de placas en el lomo y una cola flexible con púas que mantiene elevada para golpear a los depredadores. Suele desplazarse en manadas de distintas edades.</p>"
         },
         "7K0bTDwuNn9ExrnY": {
           "alignment": "Sin alineamiento",
@@ -7348,7 +7348,7 @@
           "items": {
             "6ZR81cwIkXUuht4W": {
               "name": "Ataque múltiple",
-              "description": "<p>El velociraptor hace dos ataques: uno con su [[/item Bite]] y uno con su [[/item Claws]].</p>"
+              "description": "<p>El velocirraptor realiza dos ataques: uno de [[/item Bite]]{Mordisco} y uno de [[/item Claws]]{Garras}.</p>"
             },
             "EhAr5FxHJdadNdHD": {
               "name": "Mordisco",
@@ -7359,13 +7359,13 @@
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>"
             },
             "N4Hyse7h90G8Zsyd": {
-              "name": "Tácticas de empaquetado",
-              "requirements": "Babuino",
-              "description": "<p>El velociraptor tiene ventaja en un rollo de ataque contra una criatura si al menos uno de los aliados del velociraptor está a menos de 5 pies de la criatura y el aliado no está incapacizado.</p>"
+              "name": "Atacar en Manada",
+              "requirements": "Velocirraptor",
+              "description": "<p>El velocirraptor tiene ventaja en una tirada de ataque contra una criatura si al menos uno de sus aliados está a 5 pies o menos de ella y no está incapacitado.</p>"
             }
           },
-          "name": "Velociraptor",
-          "tokenName": "Velociraptor"
+          "name": "Velocirraptor",
+          "tokenName": "Velocirraptor"
         },
         "MIbGBptGOW5OSlHY": {
           "items": {
@@ -17357,7 +17357,7 @@
             },
             "qJgA1S0AwoF5snTI": {
               "text": "<p>@Embed[Actor.wU2Wd6st8rb4FPnX caption=false cite=false]</p><p class=\"p1\">@Embed[Actor.wU2Wd6st8rb4FPnX caption=false cite=true statblock]</p>",
-              "name": "Velociraptor"
+              "name": "Velocirraptor"
             },
             "ePAoTyKXkhEVBxCD": {
               "text": "<p>@Embed[Actor.LGOEeAdUizQZYcEy caption=false cite=false]</p><img class=\" centered\" src=\"modules/dnd-tomb-annihilation/assets/portraits/volo.png\"><p>@Embed[Actor.LGOEeAdUizQZYcEy caption=false cite=true statblock classes=\"double-column\"]</p>",

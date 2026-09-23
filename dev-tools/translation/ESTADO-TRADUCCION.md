@@ -1620,18 +1620,31 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   esquinas del estallido del caminante. Su biografía original está vacía.
 - Auditorías técnica y editorial sin errores. Pendiente ejecución en Foundry.
 
+### appendix-d-dinosaurs — Seis perfiles de dinosaurios
+
+- Revisados 122 campos de seis actores en ambas copias y sus páginas:
+  hadrosaurio, dimetrodón, estegosaurio, quetzalcoatlus, deinonychus y
+  velocirraptor. Referencias físicas 218, 221, 223, 230 y 237.
+- Conservados distancias de carga y picado, derribo, ataques adicionales y
+  requisitos de Atacar en Manada. Corregida su etiqueta copiada «Baboon» en
+  el velocirraptor, que no establece un requisito de juego aplicable al rasgo.
+- Revisadas las biografías disponibles de estegosaurio y quetzalcoatlus;
+  las de los otros cuatro actores están vacías en el exportado.
+- Los enlaces por nombre `Bite`, `Claw` y `Claws` se incorporan al pendiente
+  de resolución por identificador. Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 764 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 770 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 159 de los apéndices A, B, C, D y F.
-  No equivale a 764 páginas del PDF.
-- 2711 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 2711 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 165 de los apéndices A, B, C, D y F.
+  No equivale a 770 páginas del PDF.
+- 2833 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 2833 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas dieciséis biografías en ambas copias de actores: siete
-  príncipes y nueve criaturas o PNJ del apéndice D. Siguen pendientes las demás
+  insertado. Revisadas dieciocho biografías en ambas copias de actores: siete
+  príncipes y once criaturas o PNJ del apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las
