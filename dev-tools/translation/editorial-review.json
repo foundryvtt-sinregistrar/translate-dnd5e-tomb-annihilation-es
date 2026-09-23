@@ -108161,6 +108161,226 @@
           "status": "reviewed-against-es-extraction-and-en-export"
         }
       ]
+    },
+    {
+      "id": "foundry-advice-90178K3zU3IfKRlW",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaFoundryAdvice.pages.90178K3zU3IfKRlW.text",
+          "sourceSha256": "3ea719aba1eeffb0488b5108d328a6cf57fcf7029fd7b6e0e5c8a21477d64828",
+          "translationSha256": "7a9def4a78ed7098a660594fcfc94e52aa7c41ef7a136f10a18874351a79ee63",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Foundry advice translated from the supplied export; module-specific labels checked against lang/es.json. Runtime behavior not verified."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaFoundryAdvice.pages.90178K3zU3IfKRlW.name",
+          "sourceSha256": "5fd9e778340594f5c546a94815ea3cb932ac0c2c81097f065147683f8f143b38",
+          "translationSha256": "8f0cdf6faf7f9e58d79706164cff050cfd0e4b6e00a03f5b1a2d2e07ed08ecd7",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Foundry advice translated from the supplied export; module-specific labels checked against lang/es.json. Runtime behavior not verified."
+        }
+      ]
+    },
+    {
+      "id": "foundry-advice-ETcjQ1Og1nZp4v1m",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaFoundryAdvice.pages.ETcjQ1Og1nZp4v1m.text",
+          "sourceSha256": "9434c01894fc7aa013b515a43c879e0f6f4ddd75051432e742be4da200ebfd40",
+          "translationSha256": "ff1758efb57b2b65a5bd282941b20d358bd4dc2b4ce3eb22aa621f137cda7549",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Foundry advice translated from the supplied export; module-specific labels checked against lang/es.json. Runtime behavior not verified."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaFoundryAdvice.pages.ETcjQ1Og1nZp4v1m.name",
+          "sourceSha256": "be7e2f20129365c2899b2c11bfc465541e61b1858f45bf0248cf99b9271bc707",
+          "translationSha256": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Foundry advice translated from the supplied export; module-specific labels checked against lang/es.json. Runtime behavior not verified."
+        }
+      ]
+    },
+    {
+      "id": "foundry-advice-PYKdAQB8m9lIbxhW",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaFoundryAdvice.pages.PYKdAQB8m9lIbxhW.text",
+          "sourceSha256": "ec0db12e1b4ce517846476718de417773d37f200601e8ee3ccca3e404db674ce",
+          "translationSha256": "cd7373da1874ace8500a9cecee0fa25b7917914b795d44d5f6fe47c668df9df1",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Foundry advice translated from the supplied export; module-specific labels checked against lang/es.json. Runtime behavior not verified."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaFoundryAdvice.pages.PYKdAQB8m9lIbxhW.name",
+          "sourceSha256": "29e773649913987163cc3b32b6470fc2c74f02d698b4ad1261feb55e04c53661",
+          "translationSha256": "f9bad8800a3f35c57a7a0b03b054e48e13a0250f4dca7b1b02b72ed7573fd6eb",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Foundry advice translated from the supplied export; module-specific labels checked against lang/es.json. Runtime behavior not verified."
+        }
+      ]
+    },
+    {
+      "id": "foundry-advice-LXnInRAwajLtv0WJ",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaFoundryAdvice.pages.LXnInRAwajLtv0WJ.text",
+          "sourceSha256": "af1b1d3c2a9d51648a51c855941cd3f99bddcfa25be434c63ee561bb07a0e998",
+          "translationSha256": "880f84c6edf142beb3981539f8e6376a855e2f844fb49df28be337e6047c245d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Foundry advice translated from the supplied export; module-specific labels checked against lang/es.json. Runtime behavior not verified."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaFoundryAdvice.pages.LXnInRAwajLtv0WJ.name",
+          "sourceSha256": "2fc0f5a61ae79b0269bbb5f43e9c2a462d4ae0fe9a7fece2900ebba41952ba7e",
+          "translationSha256": "9c0dd07e9849bebb70fdb2ad341d883b242f1616c359ad939bc62964b215322c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Foundry advice translated from the supplied export; module-specific labels checked against lang/es.json. Runtime behavior not verified."
+        }
+      ]
+    },
+    {
+      "id": "foundry-advice-g0VogDHI1befzqtW",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaFoundryAdvice.pages.g0VogDHI1befzqtW.text",
+          "sourceSha256": "d4c83b5a702a6908d70135c8f19c62a2603ea8d580c9c22e4b5c865c8af3ed50",
+          "translationSha256": "c89e35096908c0d4da9a0bd6ff72e221f39b2569373d3366e2b6775c76199bad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Foundry advice translated from the supplied export; module-specific labels checked against lang/es.json. Runtime behavior not verified."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaFoundryAdvice.pages.g0VogDHI1befzqtW.name",
+          "sourceSha256": "0141109a11d458dfdbb8de4ca32f2a1d565534d2691137cb9bd3bdb194fc3d00",
+          "translationSha256": "1219560217bfa488456c487e1c02351c2080ba0f07b92191f4967a2804d7249f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Foundry advice translated from the supplied export; module-specific labels checked against lang/es.json. Runtime behavior not verified."
+        }
+      ]
+    },
+    {
+      "id": "foundry-advice-c8qAoaF5p87fVPEc",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaFoundryAdvice.pages.c8qAoaF5p87fVPEc.text",
+          "sourceSha256": "1342f86cb438e0baf444d7dba438f1c4bed524d95e1d4fc43f9e063778907f97",
+          "translationSha256": "c04141f5f9282c006729c11a15a07e2e3aa545890ccd7a160779723366bf39a2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Foundry advice translated from the supplied export; module-specific labels checked against lang/es.json. Runtime behavior not verified."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaFoundryAdvice.pages.c8qAoaF5p87fVPEc.name",
+          "sourceSha256": "488d7d68f96b9bbf51fde11afb739c556122a08c5864cb8f35d872789e7b77d7",
+          "translationSha256": "c9e3c9b64ec405aa453309260f7ea65c72adef9ccdba8c7b41917cad00d46c21",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Foundry advice translated from the supplied export; module-specific labels checked against lang/es.json. Runtime behavior not verified."
+        }
+      ]
+    },
+    {
+      "id": "foundry-advice-EnWRvZIkkN5R29wy",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaFoundryAdvice.pages.EnWRvZIkkN5R29wy.text",
+          "sourceSha256": "b88ba8ad6c0ff6678d88004f3f8b2a8118109038027cc55335a3a1145f997c1e",
+          "translationSha256": "06c0203bc3648021ed4b9cbf48ca08dda02e7cb371d9941771ce2cdeb15f731a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Foundry advice translated from the supplied export; module-specific labels checked against lang/es.json. Runtime behavior not verified."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaFoundryAdvice.pages.EnWRvZIkkN5R29wy.name",
+          "sourceSha256": "cea53ab60f891ef7bcd6668a8ff22eb1b664fa12b752a76aafae6c12ebb3e155",
+          "translationSha256": "4b5132c038de139423fa44bf13b121b6fe5322becf18fac10fe2d3b2492e432b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Foundry advice translated from the supplied export; module-specific labels checked against lang/es.json. Runtime behavior not verified."
+        }
+      ]
+    },
+    {
+      "id": "foundry-advice-J8ganXPxTJKqTzUt",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaFoundryAdvice.pages.J8ganXPxTJKqTzUt.text",
+          "sourceSha256": "c16189be170cb292dce99e8df3ed3fd2e4e82f7670f76b37090d0527e86e0ba6",
+          "translationSha256": "abe4d4f9cdba7721766fb18a5e11cd768ca5a453221cdb1730425d4f0495b74e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Foundry advice translated from the supplied export; module-specific labels checked against lang/es.json. Runtime behavior not verified."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaFoundryAdvice.pages.J8ganXPxTJKqTzUt.name",
+          "sourceSha256": "92f1df8f1b4e316363e8f5000fc207bfea1f19ed288425b85c4d0e35b3da6d70",
+          "translationSha256": "418b2cecc5a363eccfb72b40865b8a5ba450887a77ead5ea07c4c24f28679cdc",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Foundry advice translated from the supplied export; module-specific labels checked against lang/es.json. Runtime behavior not verified."
+        }
+      ]
+    },
+    {
+      "id": "foundry-advice-ZPUhMOmxKRfpYI70",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaFoundryAdvice.pages.ZPUhMOmxKRfpYI70.text",
+          "sourceSha256": "31df77fde913b9ab6ce8eb188398fe08db5e909add8dcb3827cc13aefa688207",
+          "translationSha256": "b8d888f95bcaf0b0a207c3e4dd46c72734192a7295f83f3d330ce577a8fb5f54",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Foundry advice translated from the supplied export; module-specific labels checked against lang/es.json. Runtime behavior not verified."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaFoundryAdvice.pages.ZPUhMOmxKRfpYI70.name",
+          "sourceSha256": "b87f8f24d64eb193c47fa3e5c934c0e365dccf27177783a9a2045183e3e083f2",
+          "translationSha256": "7d4787a657ff287e33b26eb8e11c2dbefb54ae36448766ee57df20bb44f8f307",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Foundry advice translated from the supplied export; module-specific labels checked against lang/es.json. Runtime behavior not verified."
+        }
+      ]
+    },
+    {
+      "id": "foundry-advice-D9N75CYdVmqpY6OM",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaFoundryAdvice.pages.D9N75CYdVmqpY6OM.text",
+          "sourceSha256": "c8eb3f4d9838b9fb9addb7774e23ad50b4c95ffa923e48aab6bf02d70954aa40",
+          "translationSha256": "43585aae28d48d932302e354ca33d60611807107958f8e648584eb683caec2c3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Foundry advice translated from the supplied export; module-specific labels checked against lang/es.json. Runtime behavior not verified."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaFoundryAdvice.pages.D9N75CYdVmqpY6OM.name",
+          "sourceSha256": "5fb6dae692f0257762bc1dacc929d41aff3451c53f570cf761ae072e74d32aa6",
+          "translationSha256": "c5b79bb58073b469381dcf384a7023a2060a6511a7975637deeda6553590b465",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Foundry advice translated from the supplied export; module-specific labels checked against lang/es.json. Runtime behavior not verified."
+        }
+      ]
     }
   ]
 }

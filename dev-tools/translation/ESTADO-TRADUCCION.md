@@ -2368,16 +2368,29 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   Corregida la coma suelta tras el enlace a Hisari. Conservados los destinos
   originales de los enlaces para su auditoría funcional posterior.
 
+### foundry-advice — Consejos de uso del módulo
+
+- Revisadas diez páginas, 20 campos, contra el exportado inglés: organización,
+  imágenes, actores de grupo, tablas, recompensas, torres batiris, seguimiento,
+  maldición de muerte, picadora de carne y apuestas. Las etiquetas propias del
+  módulo se contrastan con `lang/es.json`; no se acredita su funcionamiento.
+- El panel de seguimiento describe una salvación durante tormentas, mientras
+  que las reglas de clima piden una prueba de Constitución. Se conserva lo que
+  dice cada fuente y queda pendiente comprobar el comportamiento real.
+- Los atributos HTML de imágenes y ayudas emergentes siguen en inglés bajo
+  la auditoría estricta actual. Quedan pendientes su traducción y la validación
+  de accesibilidad; los pies de imagen y el texto visible sí están revisados.
+
 ## Balance de revisión editorial
 
-- 914 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 924 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
   del capítulo 4, 126 del capítulo 5, 288 de los apéndices A, B, C, D y F
-  y seis de reglas adicionales, más quince de Bienvenido a Chult.
-  No equivale a 914 páginas del PDF.
-- 10605 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 10605 campos distintos.
+  y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
+  de Foundry. No equivale a 924 páginas del PDF.
+- 10625 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 10625 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento treinta y cuatro biografías en ambas copias de actores: siete
   príncipes y ciento veintisiete criaturas o PNJ vinculados al apéndice D. Siguen pendientes las demás
