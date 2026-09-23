@@ -770,14 +770,26 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   Las restricciones de magia siguen aplicándose dentro de espacios extradimensionales.
 - Auditorías técnica y editorial sin errores.
 
+### ch5-conclusion-01 — Consecuencias y cierre de la aventura
+
+- Revisada la conclusión con referencias físicas 190-191 y sus 43 enlaces.
+- Conservados los destinos alternativos de Syndra, el plazo de resurrección,
+  las excepciones a la destrucción de objetos y los pactos posteriores con Fenthaza.
+- Conservada la elección de Artus de mantener el anillo y el regreso de
+  Acererak junto a su filacteria. Las capacidades legendarias de los cuatro
+  tesoros siguen sujetas a decisión del director, como indica el original.
+- Completadas las cinco páginas del diario introductorio del capítulo 5.
+  Esto no implica que estén revisados sus seis niveles de localizaciones.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 483 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 484 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4 y cuatro del capítulo 5. No equivale a 483 páginas del PDF.
-- 1076 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1076 campos distintos.
+  del capítulo 4 y cinco del capítulo 5. No equivale a 484 páginas del PDF.
+- 1078 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1078 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz

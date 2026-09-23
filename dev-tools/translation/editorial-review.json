@@ -13143,6 +13143,33 @@
           "status": "reviewed-against-es-extraction-and-en-export"
         }
       ]
+    },
+    {
+      "id": "ch5-conclusion-01",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5TombOfTheN.pages.vvOmFAdbse9UvgMj.text",
+          "sourceSha256": "dc7c8e9a170abd9c4ed8a5405b5391b7f03acba6279621437852863795897eb6",
+          "translationSha256": "f7e100dbacd8b1c8c416ed7168359b94d98a82689e21ea6cb22f41bad420e9d6",
+          "pdfEsPages": [
+            190,
+            191
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5TombOfTheN.pages.vvOmFAdbse9UvgMj.name",
+          "sourceSha256": "89db2ad881f29c18b305a20c8ed7bdffdfde49d633c27a83bd204bf9cfedaba3",
+          "translationSha256": "2cc17842a47ef962a007c2a172699267b888e508cb29351f770530815ae03a38",
+          "pdfEsPages": [
+            190,
+            191
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
     }
   ]
 }
