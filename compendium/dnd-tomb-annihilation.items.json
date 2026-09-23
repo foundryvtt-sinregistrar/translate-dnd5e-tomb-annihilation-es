@@ -107,7 +107,7 @@
     },
     "4VcumtC3F0M1w4QS": {
       "name": "Poción de curación",
-      "description": "<p><em>La poción brilla en rojo cuando se agita.</em></p><p>Usted recupera 2d4+2 puntos de golpe cuando usted bebe esta poción.</p>"
+      "description": "<p><em>El líquido rojo de la poción brilla al agitarlo.</em></p><p>Recuperas 2d4+2 puntos de golpe al beber esta poción.</p>"
     },
     "4ZDnLC18j0cGAGop": {
       "name": "Ópalo",
@@ -171,8 +171,8 @@
       "description": "<p>Encontraste un ojo tallado de un cristal rosado en el estanque Golem en la tumba de los nueve dioses.</p>"
     },
     "CvqNPYpYw4zRXtYr": {
-      "name": "Poción de mayor curación",
-      "description": "<p><em>La poción brilla en rojo cuando se agita.</em></p><p>Usted recupera 4d4+4 puntos de golpe cuando usted bebe esta poción.</p>"
+      "name": "Poción de curación mayor",
+      "description": "<p><em>El líquido rojo de la poción brilla al agitarlo.</em></p><p>Recuperas 4d4+4 puntos de golpe al beber esta poción.</p>"
     },
     "DEHllCkN9GLW7cNF": {
       "name": "Mano de Bigby (hielo)",
@@ -220,8 +220,8 @@
       "description": "<p>Este pequeño recipiente contiene pedernal, eslabón y yesca, normalmente tela seca impregnada de aceite ligero, que se utilizan para encender fuego. Encender una antorcha o cualquier otro objeto con abundante combustible expuesto requiere una acción. Encender cualquier otro fuego lleva 1 minuto.</p>\n<p> </p>"
     },
     "IPN1rtgAmvJ5vIE1": {
-      "name": "Veneno de Serpiente (lesión)",
-      "description": "<p>Este veneno debe ser cosechado de un muerto o incapacitado <strong>serpiente venenosa gigante</strong>. Una criatura sometida a este veneno debe tener éxito en un [[/save format=long]], tomando [[/damage average]] daño en un error de guardar, o la mitad de daño en un éxito.</p><p><em><strong>Lesiones</strong></em>. El veneno para lesiones se puede aplicar a armas, municiones, componentes de trampas y otros objetos que causan daños por perforación o corte y permanecen potentes hasta que se liberan a través de una herida o se lavan. Una criatura que recibe daño por perforación o corte de un objeto cubierto con el veneno está expuesta a sus efectos.</p>"
+      "name": "Veneno de serpiente (herida)",
+      "description": "<p>Este veneno debe extraerse de una <strong>serpiente venenosa gigante</strong> muerta o incapacitada. Una criatura expuesta a él debe realizar una [[/save format=long]]; sufre [[/damage average]] de daño si falla, o la mitad si tiene éxito.</p><p><em><strong>Herida</strong></em>. El veneno de herida puede aplicarse a armas, munición, componentes de trampas y otros objetos que causen daño perforante o cortante. Conserva su potencia hasta que penetra en una herida o se elimina al lavarlo. Una criatura que sufra daño perforante o cortante de un objeto recubierto de este veneno queda expuesta a sus efectos.</p>"
     },
     "IZiP1h922lWl4kXg": {
       "name": "Esmeralda",
@@ -293,7 +293,7 @@
     },
     "KVeyorwMrZ69hoTb": {
       "name": "Poción de veneno",
-      "description": "<p><em>Este brebaje parece, huele y sabe como una poción de curación u otra poción beneficiosa.</em></p><p>Sin embargo, en realidad es veneno enmascarado por la magia de la ilusión. Un conjuro de identificación revela su verdadera naturaleza.</p><p>Si lo bebes, recibes daños por veneno en 3d6, y debes tener éxito en un lanzamiento de ahorro de la Constitución CD 13 o ser envenenado. Al principio de cada uno de sus turnos mientras usted está envenenado de esta manera, usted toma 3d6 daño venenoso. Al final de cada uno de tus turnos, puedes repetir el lanzamiento de ahorro. En un ahorro exitoso, el daño venenoso que recibes en tus turnos posteriores disminuye en 1d6. El veneno termina cuando el daño disminuye a 0.</p><section class=\"secret foundry-note\" id=\"secret-lK9L9LydgGgQJzNL\"><p><strong>Nota de Foundry</strong></p><p>Para aplicar el daño reducido de una Constitución exitosa, por favor utilice la Otra Fórmula (configurada en 1d6) según sea necesario.</p></section>"
+      "description": "<p><em>Esta mezcla tiene el aspecto, el olor y el sabor de una poción de curación u otra poción beneficiosa.</em></p><p>Sin embargo, es un veneno disfrazado mediante magia de ilusión. Un conjuro identificar revela su verdadera naturaleza.</p><p>Si la bebes, sufres 3d6 de daño de veneno y debes superar una tirada de salvación de Constitución CD 13 o quedar envenenado. Al comienzo de cada uno de tus turnos mientras estés envenenado de este modo, sufres 3d6 de daño de veneno. Al final de cada uno de tus turnos, puedes repetir la tirada de salvación. Cada vez que la superas, el daño de veneno que sufres en tus turnos posteriores se reduce en 1d6. El veneno termina cuando el daño se reduce a 0.</p><section class=\"secret foundry-note\" id=\"secret-lK9L9LydgGgQJzNL\"><p><strong>Nota de Foundry</strong></p><p>Para aplicar la reducción del daño tras superar una salvación de Constitución, utiliza Otra fórmula, configurada en 1d6, según sea necesario.</p></section>"
     },
     "KscR8uErtbkE4kEQ": {
       "name": "Caja de joyas",
@@ -437,8 +437,8 @@
       "description": "<p>Estos útiles incluyen diversos instrumentos, como tijeras, mortero y mano de mortero, así como bolsas y viales que los herboristas usan para crear remedios y pociones. La competencia con estos útiles te permite sumar tu bonificador por competencia a las pruebas de característica que realices para identificar o aplicar hierbas. Además, necesitas tener competencia con ellos para crear antitoxinas y pociones de curación.</p>"
     },
     "dHBFZnJPlFciPBTk": {
-      "name": "Poción de mayor curación",
-      "description": "<p><em>La poción brilla en rojo cuando se agita.</em></p><p>Usted recupera 4d4+4 puntos de golpe cuando usted bebe esta poción.</p>"
+      "name": "Poción de curación mayor",
+      "description": "<p><em>El líquido rojo de la poción brilla al agitarlo.</em></p><p>Recuperas 4d4+4 puntos de golpe al beber esta poción.</p>"
     },
     "ddJcn1ExvV2RQEZ2": {
       "name": "Odre",
@@ -1043,8 +1043,8 @@
       "description": "<p>Una esmeralda encontrada en un templario muerto en las letrinas del Camp Righteous.</p>"
     },
     "toaEssenceofEthe": {
-      "name": "Esencia de éter (inhalado)",
-      "description": "<p>Una criatura sometida a este veneno debe tener éxito en un [[/save format=long]] o convertirse en &amp;Reference[poisoned apply=false]{envenenado} durante 8 horas. La criatura envenenada es &amp;Reference[unconscious apply=false]{inconsciente}. La criatura se despierta si recibe daño o si otra criatura toma una acción para sacudirlo despierto.</p><p><strong>Inhalado</strong>. Estos venenos son polvos o gases que surten efecto cuando se inhalan. Soplar el polvo o liberar a las criaturas sujetos de gas en un cubo de 5 pies a su efecto. La nube resultante se disipa inmediatamente después. Sostener la respiración es ineficaz contra los venenos inhalados, ya que afectan las membranas nasales, los conductos lagrimales y otras partes del cuerpo.</p>",
+      "name": "Esencia de éter (inhalación)",
+      "description": "<p>Una criatura expuesta a este veneno debe superar una [[/save format=long]] o quedar &amp;Reference[poisoned apply=false]{envenenada} durante 8 horas. La criatura envenenada está &amp;Reference[unconscious apply=false]{inconsciente}. Despierta si sufre daño o si otra criatura utiliza una acción para sacudirla y despertarla.</p><p><strong>Inhalación</strong>. Estos venenos son polvos o gases que actúan al inhalarlos. Soplar el polvo o liberar el gas expone a sus efectos a las criaturas situadas en un cubo de 5 pies de lado. La nube resultante se disipa inmediatamente después. Contener la respiración no protege de estos venenos, pues afectan a las membranas nasales, los conductos lagrimales y otras partes del cuerpo.</p>",
       "effects": {
         "fO6tgye0zt0EualB": {
           "name": "Envenenado e inconsciente"
@@ -1098,8 +1098,8 @@
       }
     },
     "toaMidnightTears": {
-      "name": "Lágrimas de medianoche (ingeridas)",
-      "description": "<p>Una criatura que ingiere este veneno no sufre ningún efecto hasta la medianoche. Si el veneno no ha sido neutralizado antes de entonces, la criatura debe tener éxito en un lanzamiento de ahorro de la Constitución CD 17, tomando 31 (9d6) daño venenoso en un ahorro fallido, o la mitad de daño en un exitoso.</p><p><em><strong>ingerido</strong></em>. Una criatura debe tragar una dosis entera de veneno ingerido para sufrir sus efectos. La dosis puede administrarse en alimentos o en un líquido. Usted puede decidir que una dosis parcial tiene un efecto reducido, como permitir una ventaja en el lanzamiento de ahorro o sólo la mitad del daño en un ahorro fallido.</p>"
+      "name": "Lágrimas de medianoche (ingestión)",
+      "description": "<p>Una criatura que ingiera este veneno no sufre ningún efecto hasta la medianoche. Si no se ha neutralizado el veneno para entonces, debe realizar una tirada de salvación de Constitución CD 17; sufre 31 (9d6) de daño de veneno si falla, o la mitad si tiene éxito.</p><p><em><strong>Ingestión</strong></em>. Una criatura debe tragar una dosis completa de veneno de ingestión para sufrir sus efectos. La dosis puede administrarse en comida o líquido. Puedes decidir que una dosis parcial tenga un efecto reducido, como otorgar ventaja en la tirada de salvación o causar solo la mitad del daño si se falla.</p>"
     },
     "toaMoldyChest000": {
       "name": "Pecho mohoso",
@@ -1138,8 +1138,8 @@
       "description": "<p>Un zafiro encontrado en un templario muerto en las letrinas dCampamento Justicia.</p>"
     },
     "toaSerpentVenom0": {
-      "name": "Veneno de Serpiente (lesión)",
-      "description": "<p>Este veneno debe ser cosechado de una serpiente venenosa gigante muerta o incapacitada. Una criatura sometida a este veneno debe tener éxito en un [[/save format=long]], tomando [[/damage average]] en un error de ahorro, o la mitad de daño en uno exitoso.</p><p><strong>Lesiones</strong>. El veneno para lesiones se puede aplicar a armas, municiones, componentes de trampas y otros objetos que causan daños por perforación o corte y permanecen potentes hasta que se liberan a través de una herida o se lavan. Una criatura que recibe daño por perforación o corte de un objeto cubierto con el veneno está expuesta a sus efectos.</p>"
+      "name": "Veneno de serpiente (herida)",
+      "description": "<p>Este veneno debe extraerse de una serpiente venenosa gigante muerta o incapacitada. Una criatura expuesta a él debe realizar una [[/save format=long]]; sufre [[/damage average]] de daño si falla, o la mitad si tiene éxito.</p><p><strong>Herida</strong>. El veneno de herida puede aplicarse a armas, munición, componentes de trampas y otros objetos que causen daño perforante o cortante. Conserva su potencia hasta que penetra en una herida o se elimina al lavarlo. Una criatura que sufra daño perforante o cortante de un objeto recubierto de este veneno queda expuesta a sus efectos.</p>"
     },
     "toaSkullBox00000": {
       "name": "Caja de cráneo Velociraptor",
@@ -1272,18 +1272,18 @@
       "description": "<p>Un símbolo sagrado de plata de Torm en una tanga de cuero se encontró en la pared de un santuario quemado en Camp Righteous.</p>"
     },
     "toaTorpor0000000": {
-      "name": "Torpor (ingerido)",
-      "description": "<p>Una criatura sometida a este veneno debe tener éxito en un [[/save format=long]] o convertirse en &amp;Reference[poisoned apply=false]{envenenado} para [[/r 4d6]] horas. La criatura envenenada es &amp;Reference[incapacitated apply=false]{incapacitados}.</p><p><strong>ingerido</strong>. Una criatura debe tragar una dosis entera de veneno ingerido para sufrir sus efectos. La dosis puede administrarse en alimentos o en un líquido. Usted puede decidir que una dosis parcial tiene un efecto reducido, como permitir una ventaja en el lanzamiento de ahorro o sólo la mitad del daño en un ahorro fallido.</p><section class=\"secret\" id=\"secret-J5AaHG6lKrVC6MRP\"><p><strong>Nota de Foundry</strong></p><p>Por defecto, la duración de la condición se establece en un mínimo de 4 horas. Puede ajustar la duración del efecto activo abriéndola en la pestaña Efectos y luego seleccionando la pestaña Duración. Cambie el valor (en segundos), luego haga clic en <strong>Enviar cambios</strong>.</p></section>",
+      "name": "Letargo (ingestión)",
+      "description": "<p>Una criatura expuesta a este veneno debe superar una [[/save format=long]] o quedar &amp;Reference[poisoned apply=false]{envenenada} durante [[/r 4d6]] horas. La criatura envenenada está &amp;Reference[incapacitated apply=false]{incapacitada}.</p><p><strong>Ingestión</strong>. Una criatura debe tragar una dosis completa de veneno de ingestión para sufrir sus efectos. La dosis puede administrarse en comida o líquido. Puedes decidir que una dosis parcial tenga un efecto reducido, como otorgar ventaja en la tirada de salvación o causar solo la mitad del daño si se falla.</p><section class=\"secret\" id=\"secret-J5AaHG6lKrVC6MRP\"><p><strong>Nota de Foundry</strong></p><p>Por defecto, la duración del estado está fijada en el mínimo de 4 horas. Puedes ajustar la duración del efecto activo abriéndolo en la pestaña Efectos y seleccionando la pestaña Duración. Cambia el valor en segundos y pulsa <strong>Guardar cambios</strong>.</p></section>",
       "effects": {
         "lIBCsjf66PF5e18D": {
           "name": "Envenenado e incapacitado",
-          "description": "<p>El objetivo es &amp;Reference[poisoned apply=false]{envenenado} para [[/r 4d6]] horas. La criatura envenenada es &amp;Reference[incapacitated apply=false]{incapacitados}.</p>"
+          "description": "<p>El objetivo está &amp;Reference[poisoned apply=false]{envenenado} durante [[/r 4d6]] horas. La criatura envenenada está &amp;Reference[incapacitated apply=false]{incapacitada}.</p>"
         }
       }
     },
     "toaWyvernPoison0": {
-      "name": "Wyvern Poison (Lesión)",
-      "description": "<p>Este veneno debe ser cosechado de un wyvern muerto o incapacitado. Una criatura sometida a este veneno debe hacer un [[/save format=long]], tomando [[/damage average]] en un error de ahorro, o la mitad de daño en uno exitoso.</p><p><strong>Lesiones</strong>. El veneno para lesiones se puede aplicar a armas, municiones, componentes de trampas y otros objetos que causan daños por perforación o corte y permanecen potentes hasta que se liberan a través de una herida o se lavan. Una criatura que recibe daño por perforación o corte de un objeto cubierto con el veneno está expuesta a sus efectos.</p>"
+      "name": "Veneno de wyvern (herida)",
+      "description": "<p>Este veneno debe extraerse de un wyvern muerto o incapacitado. Una criatura expuesta a él debe realizar una [[/save format=long]]; sufre [[/damage average]] de daño si falla, o la mitad si tiene éxito.</p><p><strong>Herida</strong>. El veneno de herida puede aplicarse a armas, munición, componentes de trampas y otros objetos que causen daño perforante o cortante. Conserva su potencia hasta que penetra en una herida o se elimina al lavarlo. Una criatura que sufra daño perforante o cortante de un objeto recubierto de este veneno queda expuesta a sus efectos.</p>"
     },
     "toaYklwa00000000": {
       "name": "Yklwa",
@@ -1331,11 +1331,11 @@
       "description": "<p>Un anillo de cuarzo azul encontrado entre el cadáver de un dragón verde adulto más conocido durante su vida como Aguja.</p>"
     },
     "toach2dreamingti": {
-      "name": "Soñando con Tintura",
-      "description": "<p>Cualquier criatura que bebe una dosis de la tintura debe tener éxito en un [[/save con 15 format=long]]. Las criaturas que son inmunes a la condición envenenada tienen éxito automáticamente. </p><p>En un ahorro fallido, la criatura comienza a experimentar vistas ilusorias, sonidos, olores y sensaciones que parecen reales. Casting a <em>@UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{menor restauración}</em> conjuro o magia similar en el personaje termina el efecto, que de lo contrario dura para [[/r 1d4 + 4]] horas.</p>",
+      "name": "Tintura onírica",
+      "description": "<p>Cualquier criatura que beba una dosis de la tintura debe superar una [[/save con 15 format=long]]. Las criaturas inmunes al estado envenenado tienen éxito automáticamente.</p><p>Si falla, empieza a percibir imágenes, sonidos, olores y sensaciones ilusorios que parecen reales. Un conjuro <em>@UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{restablecimiento menor}</em> o una magia similar lanzados sobre el personaje terminan el efecto, que de lo contrario dura [[/r 1d4 + 4]] horas.</p>",
       "effects": {
         "19XHgPDWmoYNhkpc": {
-          "name": "Soñando"
+          "name": "Ensueño"
         }
       }
     },
@@ -1676,8 +1676,8 @@
       "description": "<p>Un rubí encontrado en un cofre en el Dedo de Fuego.</p>"
     },
     "uHqmxmG50OV3BCze": {
-      "name": "Poción de respiración de agua",
-      "description": "<p><em>Su líquido verde nublado huele al mar y tiene una burbuja parecida a una medusa flotando en él.</em></p>\n<p>Puede respirar bajo el agua durante 1 hora después de beber esta poción. </p>\n<p> </p>"
+      "name": "Poción de respiración acuática",
+      "description": "<p><em>Su líquido verde y turbio huele a mar y contiene una burbuja flotante parecida a una medusa.</em></p>\n<p>Puedes respirar bajo el agua durante 1 hora después de beber esta poción.</p>\n<p> </p>"
     },
     "uN5QsjtkcNKlNQgN": {
       "name": "Pouch de Voj"
