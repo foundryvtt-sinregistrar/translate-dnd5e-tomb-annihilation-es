@@ -866,14 +866,26 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   de disipar magia, inverso a los errores de enlaces anotados anteriormente.
 - Auditorías técnica y editorial sin errores.
 
+### ch5-level2-tombs-01 a ch5-level2-tombs-02 — Papazotl y Nangnang
+
+- Revisados dos textos y títulos con referencias físicas 143-144.
+- El aura de las marmitas es de conjuración según el inglés, no de abjuración
+  como en el PDF. Conservados los refuerzos por marmita y la excepción del escudo
+  para quienes se inclinen ante la estatua sin rostro.
+- Corregidos los errores del PDF «CA 18» y «amuleto» por CD 18 y huevo.
+  Mente en blanco evita música y daño psíquico, sin añadir una exención del baile.
+- Conservado el precio individual de cada broche de oro y aclarado que el slaad
+  queda libre al entrar en el círculo, además de al atacarlo o alterar la sal.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 519 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 521 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4 y cuarenta del capítulo 5. No equivale a 519 páginas del PDF.
-- 1148 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1148 campos distintos.
+  del capítulo 4 y cuarenta y dos del capítulo 5. No equivale a 521 páginas del PDF.
+- 1152 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1152 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
