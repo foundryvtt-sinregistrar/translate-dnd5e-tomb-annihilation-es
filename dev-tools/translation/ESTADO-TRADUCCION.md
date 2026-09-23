@@ -2688,6 +2688,20 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   original; su actividad sí lo indica y se ha traducido ese campo. Conservada
   esta diferencia para la reconciliación funcional, sin alterar sus reglas.
 
+### additional-variants — Momia, enano, pterodáctilo y extraño de vino
+
+- Revisadas cuatro variantes en ambas copias: 122 registros. Contrastados
+  los textos con el exportado inglés y revalidadas en contexto las traducciones
+  previas del tumulario y del hombre pterodáctilo. Se cuenta la biografía de
+  este último como otro perfil revisado, aunque repite el texto de la especie.
+- Confirmado «Extraño de vino» en la página física 142 española. Completado
+  «Entiende acuano» desde `languages.value` (`aquan`), omitido en el texto inglés.
+- La variante de enano conserva un ataque múltiple que enlaza espada larga y
+  arco largo ausentes de su inventario, donde hay hacha de batalla y ballesta
+  ligera. Pendiente de reparación funcional de referencias y descripción.
+- Comprobadas la pérdida de puntos de golpe máximos cada 24 horas de la momia
+  y la inmunidad a miradas de momias, con excepción de sus señores.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2697,11 +2711,11 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
   de Foundry, tres de créditos y cuatro de historial.
   No equivale a 931 páginas del PDF.
-- 15367 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 15367 campos distintos.
+- 15489 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 15489 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas ciento cuarenta biografías en ambas copias de actores: siete
-  príncipes, ciento veintisiete criaturas o PNJ vinculados al apéndice D y seis perfiles
+  insertado. Revisadas ciento cuarenta y una biografías en ambas copias de actores: siete
+  príncipes, ciento veintisiete criaturas o PNJ vinculados al apéndice D y siete perfiles
   adicionales. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.

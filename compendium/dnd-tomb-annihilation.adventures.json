@@ -2017,7 +2017,7 @@
           "items": {
             "3mwnwg5CfZSoHGln": {
               "name": "Ataque múltiple",
-              "description": "<p>El pterafolk hace tres ataques: uno con su [[/item Bite]] y dos con su [[/item Claw]]. Alternativamente, hace dos ataques cuerpo a cuerpo con su [[/item Javelin]].</p>"
+              "description": "<p>El hombre pterodáctilo realiza tres ataques: uno con su [[/item Bite]]{Mordisco} y dos con su [[/item Claw]]{Garra}. Como alternativa, realiza dos ataques cuerpo a cuerpo con su [[/item Javelin]]{Jabalina}.</p>"
             },
             "QDQBbBT7nyF7YlrK": {
               "name": "Mordisco",
@@ -2032,19 +2032,19 @@
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>"
             },
             "HHDFY7CvmnVy2AeU": {
-              "name": "Buceo de terror",
-              "description": "<p>Si el pterafolk está volando y se zambulle al menos 30 pies derecho hacia un objetivo, y luego golpea ese objetivo con un ataque de arma cuerpo a cuerpo, el objetivo es &amp;Reference[Frightened apply=false]{asustado.} hasta el final de su siguiente turno.</p>",
+              "name": "Picado del Terror",
+              "description": "<p>Si el hombre pterodáctilo está volando, se lanza en picado al menos 30 pies en línea recta hacia un objetivo y después lo impacta con un ataque con arma cuerpo a cuerpo, el objetivo queda &amp;Reference[Frightened apply=false]{asustado} hasta el final de su siguiente turno.</p>",
               "effects": {
                 "cGdA4mrE1CzK0F7a": {
                   "name": "Asustado",
-                  "description": "<p>El objetivo es &amp;Reference[Frightened apply=false]{asustado.} hasta el final de su siguiente turno.</p>"
+                  "description": "<p>El objetivo está &amp;Reference[Frightened apply=false]{asustado} hasta el final de su siguiente turno.</p>"
                 }
               }
             }
           },
           "name": "Hombre pterodáctilo anciano",
           "tokenName": "Hombre pterodáctilo anciano",
-          "biography": "<p>Pterafolk (pronunciado TAIR-eh-folk) son bípedos de 10 pies de altura, alados y reptilianos nativos de Chul. Aislacionistas malévolos, consideran a la mayoría de las otras criaturas como sus enemigos. En la cultura chultana, los pterafolk son a menudo conocidos como “gente terrorista” por su hábito de descender del cielo para arrebatar lo que sea y quien sea que puedan, y luego transportar tesoros y comida de vuelta a sus gallineros.</p><p>Pterafolk tiene envergaduras de 20 pies y da a luz a los jóvenes vivos. Los rituales antiguos una vez otorgados a pterafolk la capacidad de asumir las formas de pteranodons y lagartijas sin alas, pero esos rituales han sido olvidados durante mucho tiempo.</p>"
+          "biography": "<p>Los hombres pterodáctilo (pterafolk en inglés, pronunciado [tére-folk]) son reptiles bípedos alados de 10 pies de altura, nativos de Chult. Malévolos y aislacionistas, consideran enemigas a la mayoría de las demás criaturas. En la cultura chultana se los conoce a menudo como «terroráctilos» por su costumbre de lanzarse en picado desde el cielo para llevarse cuanto y a cuantos pueden, y regresar a sus nidos con tesoros y comida.</p><p>Sus alas tienen una envergadura de 20 pies y dan a luz a crías vivas. Antiguos rituales les otorgaban la capacidad de adoptar la forma de pteranodones y hombres lagarto sin alas, pero esos rituales se olvidaron hace mucho.</p>"
         },
         "vlOUPoMS0HfImkA8": {
           "alignment": "Legal malvado",
@@ -6439,23 +6439,23 @@
           "items": {
             "uGJpXeUbei6zXTd1": {
               "name": "Ataque múltiple",
-              "description": "<p>La momia puede usar su [[/item .8Jju4CVZaIDab6Ju]]{Terrible resplandor} y hace un ataque con su [[/item .ik1IkSZi4fpiGbB3]]{puño podrido}.</p>"
+              "description": "<p>La momia puede usar su [[/item .8Jju4CVZaIDab6Ju]]{Mirada Pavorosa} y realiza un ataque con su [[/item .ik1IkSZi4fpiGbB3]]{puño putrefacto}.</p>"
             },
             "ik1IkSZi4fpiGbB3": {
-              "name": "Puño putrefacto",
-              "description": "<p>[[/attack extended]]. [[/damage extended]]. </p><p>Si el objetivo es una criatura, debe tener éxito en un  <strong>CD 12 Constitución</strong> salvar el tiro o ser maldecido con momia podrida. El objetivo maldito no puede recuperar puntos de impacto, y su punto de impacto máximo disminuye en 10 (3d6) por cada 24 horas que transcurran. Si la maldición reduce el punto máximo de impacto del objetivo a 0, el objetivo muere, y su cuerpo se convierte en polvo. La maldición dura hasta que sea removida por el conjuro de maldición o por otra magia.</p>",
-              "descriptionChat": "<p>La momia ataca con su Puño Roto. Si el objetivo es una criatura, debe hacer un <strong>Constitución</strong> El lanzamiento de ahorro.</p>"
+              "name": "Puño Putrefacto",
+              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>Si el objetivo es una criatura, debe superar una tirada de salvación de <strong>Constitución CD 12</strong> o quedar maldito con la podredumbre de momia. El objetivo maldito no puede recuperar puntos de golpe y sus puntos de golpe máximos disminuyen en 10 (3d6) cada 24 horas. Si la maldición reduce sus puntos de golpe máximos a 0, el objetivo muere y su cuerpo se convierte en polvo. La maldición dura hasta que la elimine el conjuro levantar maldición u otra magia.</p>",
+              "descriptionChat": "<p>La momia ataca con su puño putrefacto. Si el objetivo es una criatura, debe realizar una tirada de salvación de <strong>Constitución</strong>.</p>"
             },
             "8Jju4CVZaIDab6Ju": {
-              "name": "Mirada aterradora",
-              "description": "<p>La momia apunta a una criatura que puede ver a menos de 60 pies de distancia. Si el objetivo puede ver la momia, debe tener éxito en un  <strong>CD 11 Sabiduría</strong> guardar el tiro contra esta magia o asustarse hasta el final del próximo turno de la momia. </p><p>Si el objetivo falla el lanzamiento de ahorro por 5 o más, también está paralizado durante la misma duración. Un objetivo que tiene éxito en el lanzamiento de ahorro es inmune al Terrible resplandor de todas las momias (pero no los señores de la momia) durante las próximas 24 horas.</p>",
-              "descriptionChat": "<p>La momia apunta a una criatura que puede ver a menos de 60 pies de distancia. Si el objetivo puede ver a la momia, debe hacer un <strong>Sabiduría</strong> salvar el tiro contra esta magia.</p>"
+              "name": "Mirada Pavorosa",
+              "description": "<p>La momia elige como objetivo a una criatura que pueda ver a 60 pies o menos. Si el objetivo puede ver a la momia, debe superar una tirada de salvación de <strong>Sabiduría CD 11</strong> contra esta magia o quedar asustado hasta el final del siguiente turno de la momia.</p><p>Si falla la salvación por 5 o más, también está paralizado durante el mismo tiempo. Un objetivo que supere la salvación es inmune a la Mirada Pavorosa de todas las momias (pero no de los señores de las momias) durante las siguientes 24 horas.</p>",
+              "descriptionChat": "<p>La momia elige como objetivo a una criatura que pueda ver a 60 pies o menos. Si el objetivo puede ver a la momia, debe realizar una tirada de salvación de <strong>Sabiduría</strong> contra esta magia.</p>"
             }
           },
-          "name": "Su-Monster Mami",
-          "languages": "los idiomas que conocía en la vida",
-          "tokenName": "Su-Monster Mami",
-          "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+          "name": "Momia de sucarate",
+          "languages": "Los idiomas que conocía en vida",
+          "tokenName": "Momia de sucarate",
+          "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
         },
         "Sv7IxjB2Nq6n9Yu7": {
           "alignment": "Caótico malvado",
@@ -6907,7 +6907,7 @@
           "items": {
             "fKIUImfcNk0pU2HN": {
               "name": "Ataque múltiple",
-              "description": "<p>El torbellino hace dos [[/item .WZ3XGh48UoyAvBhS]]{espadalong} ataques o dos [[/item .PUYwkzEiKopyM6YL]]{longbow} ataques. Puede usar su [[/item .NX8cqG6aZMns8wvY]]{Drenaje vital} en lugar de un ataque de espada larga.</p>"
+              "description": "<p>El tumulario realiza dos ataques con [[/item .WZ3XGh48UoyAvBhS]]{espada larga} o dos ataques con [[/item .PUYwkzEiKopyM6YL]]{arco largo}. Puede usar [[/item .NX8cqG6aZMns8wvY]]{Consumir vida} en lugar de uno de los ataques con espada larga.</p>"
             },
             "070ZKCdPnLWHtH8b": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
@@ -6915,31 +6915,31 @@
             },
             "nkPIb1htkHIdbJ97": {
               "name": "Armadura de cuero tachonado",
-              "description": "<p>Hecho de cuero resistente pero flexible, el cuero tachonado está reforzado con remaches o pinchos de cierre.</p>"
+              "description": "<p>Esta armadura está hecha de cuero resistente pero flexible, reforzado con remaches o púas muy juntos.</p>"
             },
             "qodTzcDY37TCj4GN": {
-              "name": "Sensibilidad a la luz solar",
-              "description": "<p>Mientras que en la luz del sol, el torbellino tiene<strong> </strong>desventaja<strong> </strong>en los rollos de ataque, así como en la Sabiduría (percepción) controles que dependen de la vista.</p>"
+              "name": "Sensibilidad a la Luz Solar",
+              "description": "<p>Bajo la luz del sol, el tumulario tiene<strong> </strong>desventaja<strong> </strong>en las tiradas de ataque y en las pruebas de Sabiduría (Percepción) que dependan de la vista.</p>"
             },
             "NX8cqG6aZMns8wvY": {
-              "name": "Drenaje de vida",
-              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo debe tener éxito en un [[/save format=long]] o su punto de impacto máximo se reduce en una cantidad igual al daño tomado. Esta reducción dura hasta que el objetivo termine un largo descanso. El objetivo muere si este efecto reduce su punto de impacto máximo a 0.</p><p>Un humanoide muerto por este ataque se levanta 24 horas más tarde como un @UUID[Compendium.dnd5e.monsters.Actor.NAISFPoNNgUCsEyW]{zombie} bajo el control del torbellino, a menos que el humanoide sea restaurado a la vida o su cuerpo sea destruido. El wight no puede tener más de doce zombies bajo su control a la vez.</p>",
-              "descriptionChat": "<p>El Wight ataca con su drenaje de vida. El objetivo debe hacer un <strong>Constitución</strong> El lanzamiento de ahorro.</p>",
+              "name": "Consumir vida",
+              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo debe superar una tirada de salvación [[/save format=long]] o sus puntos de golpe máximos se reducen en una cantidad igual al daño sufrido. Esta reducción dura hasta que termine un descanso largo. Si este efecto reduce sus puntos de golpe máximos a 0, el objetivo muere.</p><p>Un humanoide muerto por este ataque se alza 24 horas después como un @UUID[Compendium.dnd5e.monsters.Actor.NAISFPoNNgUCsEyW]{zombi} bajo el control del tumulario, salvo que vuelva a la vida o su cuerpo sea destruido. El tumulario no puede controlar más de doce zombis a la vez.</p>",
+              "descriptionChat": "<p>El tumulario ataca con Consumir vida. El objetivo debe realizar una tirada de salvación de <strong>Constitución</strong>.</p>",
               "activities": {
                 "KMdv830gfOssbiG4": {
-                  "name": "Zombie se levanta"
+                  "name": "Se alza un zombi"
                 }
               }
             },
             "oyfwR45WpRhyMeuZ": {
               "name": "Hacha de batalla",
-              "description": "<p>[[/attack extended]]. [[/damage extended average]] o [[/damage twoHanded average]] daño si se utiliza con dos manos.</p>"
+              "description": "<p>[[/attack extended]]. [[/damage extended average]] o [[/damage twoHanded average]] de daño si se empuña a dos manos.</p>"
             }
           },
-          "name": "Tomb Dwarf (Variante)",
+          "name": "Enano de la tumba (variante)",
           "creatureSubtype": "Tumulario",
-          "languages": "los idiomas que conocía en la vida",
-          "tokenName": "Tomb enano"
+          "languages": "Los idiomas que conocía en vida",
+          "tokenName": "Enano de la tumba"
         },
         "toaTombGuardian0": {
           "alignment": "Neutral",
@@ -7622,32 +7622,32 @@
         },
         "toaWineWierd0000": {
           "alignment": "Neutral",
-          "name": "Vino raro",
-          "creatureSubtype": "Hierba de agua",
-          "languages": "entiende pero no habla",
-          "tokenName": "Vino raro",
+          "name": "Extraño de vino",
+          "creatureSubtype": "Extraño acuático",
+          "languages": "Entiende acuano, pero no puede hablar",
+          "tokenName": "Extraño de vino",
           "items": {
             "YhjaBey88vtuQcY2": {
-              "name": "Constricción",
-              "description": "<p>[[/attack extended]]. [[/damage extended average]]. Si el objetivo es mediano o más pequeño, es &amp;Reference[Grappled apply=false] (escape CD 13) y tiró de 5 pies hacia el [[lookup @name lowercase]]. Hasta que termine esta pelea, el objetivo es &amp;Reference[Restrained apply=false], el [[lookup @name lowercase]] trata de ahogarlo, y el [[lookup @name lowercase]] no puede constriñir otro objetivo.</p>",
+              "name": "Constreñir",
+              "description": "<p>[[/attack extended]]. [[/damage extended average]]. Si el objetivo es Mediano o más pequeño, está &amp;Reference[Grappled apply=false] (CD 13 para escapar) y es arrastrado 5 pies hacia el [[lookup @name lowercase]]. Hasta que termine el agarre, el objetivo está &amp;Reference[Restrained apply=false], el [[lookup @name lowercase]] intenta ahogarlo y el [[lookup @name lowercase]] no puede constreñir a otro objetivo.</p>",
               "activities": {
                 "dhfcqP6CETdTYDt7": {
-                  "name": "Comprobación de escape"
+                  "name": "Prueba para escapar"
                 }
               },
               "effects": {
                 "uCGENWT9BPbL87wR": {
-                  "name": "Agarrado y Restringido"
+                  "name": "Agarrado y apresado"
                 }
               }
             },
             "WZNiLWMlgfzoNTg3": {
-              "name": "Invisible en vino",
-              "description": "<p>Los [[lookup @name lowercase]] es &amp;Reference[Invisible apply=false] mientras está completamente inmerso en el vino.</p>"
+              "name": "Invisible en el Vino",
+              "description": "<p>El [[lookup @name lowercase]] está &amp;Reference[Invisible apply=false] mientras esté totalmente sumergido en vino.</p>"
             },
             "TS78zywWjdYyQUXO": {
-              "name": "Encuadernación de vinos",
-              "description": "<p>Los [[lookup @name lowercase]] muere si deja el vino al que está atado o si ese vino es destruido.</p>"
+              "name": "Vinculado al Vino",
+              "description": "<p>El [[lookup @name lowercase]] muere si abandona el vino al que está vinculado o si ese vino es destruido.</p>"
             }
           }
         },
