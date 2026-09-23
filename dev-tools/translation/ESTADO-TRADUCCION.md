@@ -2115,18 +2115,29 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Conservada la indicación «al este de Mbala» que comparten ambos textos
   de la misión de Eshek, pendiente de contrastar con el mapa en la revisión final.
 
+### appendix-d-rokah-priestesses — Rokah, Undril y Madre Sibonseni
+
+- Revisados 190 campos: tres páginas y ambas copias de los actores.
+  Historias contrastadas con las páginas físicas 17–18 y 24; perfiles,
+  conjuros y nota de escalado de Foundry con el exportado inglés.
+- Conservados el permiso y los honorarios ofrecidos por Rokah, el cometido
+  de Undril y su posible intervención ante Niles, y la posición social de Sibonseni.
+- Eminencia Divina conserva su duración hasta el final del turno y el
+  escalado por nivel de espacio. El Ataque Furtivo de Rokah presenta la misma
+  omisión del límite por turno ya registrada para otros espías.
+
 ## Balance de revisión editorial
 
-- 843 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 846 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 238 de los apéndices A, B, C, D y F.
-  No equivale a 843 páginas del PDF.
-- 7509 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 7509 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 241 de los apéndices A, B, C, D y F.
+  No equivale a 846 páginas del PDF.
+- 7699 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 7699 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas noventa y seis biografías en ambas copias de actores: siete
-  príncipes y ochenta y nueve criaturas o PNJ del apéndice D. Siguen pendientes las demás
+  insertado. Revisadas noventa y nueve biografías en ambas copias de actores: siete
+  príncipes y noventa y dos criaturas o PNJ del apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las
