@@ -161903,6 +161903,1132 @@
           "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
         }
       ]
+    },
+    {
+      "id": "final-slaad",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.name",
+          "sourceSha256": "1973babd45f14042f4f630722a4ff03e8ecf10b33a039f0499776d46aefdd165",
+          "translationSha256": "b7012a0d116a4b442f92ae742a8ab6cd2d127b3cfb1ad679f68001f5e546226d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.alignment",
+          "sourceSha256": "dfc5d1c129a568faaef0718a9734cc3fc081cabfc32d7cccf1f17200d74dcca6",
+          "translationSha256": "5d5347450ddc75dcdf356f2462d419f9e8db247a1a937f101e77d178f1b0596b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.creatureSubtype",
+          "sourceSha256": "297da0d4c889b812c8fca7ef261c3e349af93ae16a68f8e3ba008e04647133fb",
+          "translationSha256": "470d45659a4e7fc5410b9bddad943fe562422ae5f67a41f1825fa2ff12902622",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.languages",
+          "sourceSha256": "794cdf669bf95e23a5434109d296ce45a1f770eb66eea25d454698380e1883a4",
+          "translationSha256": "794cdf669bf95e23a5434109d296ce45a1f770eb66eea25d454698380e1883a4",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.tokenName",
+          "sourceSha256": "93e4043f060bf40971bf8462b138e76866a2c639b4c2f309bd3f1b430c372758",
+          "translationSha256": "da8614dd4a028a14d988d8a5cb98ad2f7fa48726d2eaadb77f44c69e05c2d6ea",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.WyM3zG01N4KESTB8.name",
+          "sourceSha256": "36ae85511c705c3857455f0c5668bc8d6cdbac0af0d526daefdb8330b12a7eb1",
+          "translationSha256": "6706725ba91a414f56c4207a4fadf7f1c676070bb25a1b3c2497563c6da5c624",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.WyM3zG01N4KESTB8.description",
+          "sourceSha256": "d40df86b5045857c927131abd564e6a9c9270167aeeafaa6780e21187f78c741",
+          "translationSha256": "580a7760e94b573ebdb331907ebba1a0da28cfcac48886fffb3a53213ebf4ec2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.WyM3zG01N4KESTB8.activities.v4euJnlzwaIp1syW.name",
+          "sourceSha256": "d69eecab2f767f0d282d036abcf2ffce962762fafc91151c5f84d262991d2179",
+          "translationSha256": "cc34393132191af618b4437bab4066776b106e5d8d45264d3c263ef88f11f063",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.WyM3zG01N4KESTB8.activities.a0F7H7jHsmsMIari.name",
+          "sourceSha256": "d9f195a0432541e2b55ad8de73247e8e0568b16c86d3838ea898e874ee177425",
+          "translationSha256": "f5497f5ab61d3eed684fd5955f2e15bd27eac03986f2357b15ed614cd3c7283e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.WyM3zG01N4KESTB8.activities.QKOYv57Gka3CfUJy.name",
+          "sourceSha256": "d53895c6eb7816fb44ec7f46db45019172de4793a42ccaf893ed71ec8ed00743",
+          "translationSha256": "83cfda28f4b2016acb6f59dfb446f52dbc2cc82b1d17348f01d1a4370fafa36d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.WyM3zG01N4KESTB8.activities.VWGfnV8xvLjq2r9A.name",
+          "sourceSha256": "cb0d3238583c0fb02745016ee38365aeb218deb64731eceea42c18d24290ed95",
+          "translationSha256": "168cc32ccdb2f6c4736a39c2a1d3052e411648602362ae09c5590a76482a7774",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.WyM3zG01N4KESTB8.activities.muzEiczb88Iff4YS.name",
+          "sourceSha256": "b824616228a1b5a287e9fce2e1b073caacced8ec23fa24c3d2d7413306f8c6de",
+          "translationSha256": "7d0f4553e252a24ffb2eca47d31d7cacb62f3460f4413001a275a7f1b928652a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.WyM3zG01N4KESTB8.activities.sjsgNAMdJZvk7iPe.name",
+          "sourceSha256": "140262b32b0c98dfc6afb74b287d2df7f50e0645cea8c1dd907c793699180ee2",
+          "translationSha256": "43f7b0cbafad394c21cd2e4a9c65273cb14137a818da644c326d066c17519f12",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.WyM3zG01N4KESTB8.activities.yG0wMi7zgQQVR745.name",
+          "sourceSha256": "31bbe05d43158cd2f6cec70821ac4571c76d77eda3cfe8889f81cd785150b1c0",
+          "translationSha256": "367d60a7ade7db4c5d9cac9da897534bb9167208a79d68150161c8c6420cc7fc",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.WyM3zG01N4KESTB8.activities.NIhbJcK9eZz61Vbo.name",
+          "sourceSha256": "cc173df6702cba90cfae123f149085dc44e3f6c660816c528f063c75083e5a9e",
+          "translationSha256": "0f176de02085eb3dc5a86fee0df59bef37743fab432820a1a36160fea169c8ff",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.WyM3zG01N4KESTB8.activities.1FwNGakyoQY9uVi8.name",
+          "sourceSha256": "d86f8ab2e7be3e29db5c35df8185bbf87f71c1d6bc57d94e2a42cc398f835c5f",
+          "translationSha256": "2008889741ee6c261fc81398be9ec59149ceabd02f459928ce013c9d80938e24",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.WyM3zG01N4KESTB8.activities.JA8iADTa8RcTZHYT.name",
+          "sourceSha256": "d0bbdb580e152be2f1b71fe78d3e8501aee3399b30bb2b08d76bc771c275035e",
+          "translationSha256": "f2a6906ac8528f10502c4abf06fb9239ec2c67f19cd839ceebd03c3c26f9e365",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.Qkqey6UmYImH9ytW.name",
+          "sourceSha256": "ed2fe6ee4108fdd7aa2adc5e1e0b272881becc9d47f1b91289237da2411ddc11",
+          "translationSha256": "0a39b8f3bdfe279a18ef7e5bea3f6239da0932a302f113bb61df2e0b3f3abaad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.Qkqey6UmYImH9ytW.description",
+          "sourceSha256": "99a17499bcf2ca8409928d876ab967e98e77ce2c84dab7f6e70fd040b29bf00b",
+          "translationSha256": "438b6c3786ebc92b8ce0381a49d05822c529751baa5d00ee246ea05433e70bcf",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.jwcspgAfaYSK0HKG.name",
+          "sourceSha256": "6e5597953e98e07b763c9f7c837239daf41a26a239b0616631539b9a04b559ad",
+          "translationSha256": "0f5627d69976efecdf83d744d6ec28905da742f1533855b78aad823b0bcbcd97",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.jwcspgAfaYSK0HKG.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.y3OyTu1Qd2QoAokf.name",
+          "sourceSha256": "68a31aefb013bde5c9baadece2d532269c9f7a35699cb10f79136eca29938318",
+          "translationSha256": "738394d7769046cb7f24dd2bc42ce9c6493f7dccc5630c6b1673c9bac71bd853",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.y3OyTu1Qd2QoAokf.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.tpojVWVij9RXPRab.name",
+          "sourceSha256": "7caa0fa619e382ef655de551803638b595e7af369b8bca264fd97c0fa5cc39a7",
+          "translationSha256": "12ec4eb0f99c65ce88f539cfb4a3f0d3a71eecf38faeaaecbf0d836e730394a5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.tpojVWVij9RXPRab.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.f5wbQ1ova0guK2En.name",
+          "sourceSha256": "297da0d4c889b812c8fca7ef261c3e349af93ae16a68f8e3ba008e04647133fb",
+          "translationSha256": "470d45659a4e7fc5410b9bddad943fe562422ae5f67a41f1825fa2ff12902622",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.f5wbQ1ova0guK2En.description",
+          "sourceSha256": "4c7b7a310ad818346f0ac17760c510656ad79d687730533b407a93ba2a9e2606",
+          "translationSha256": "25f45f55e03bf57f39f8c9385b974acaef8a759c62a4610b74c7410e1ca99e87",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.gImpAdeJO0pkxnjQ.name",
+          "sourceSha256": "c15db37ae346b4efc3e521fffc127aeecb382360d32871d96fd772bdfe5bb482",
+          "translationSha256": "d3575997869fa07b87e24abd304ddf5f3ddcd44397203f53fe393ba99ae5a92f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.gImpAdeJO0pkxnjQ.description",
+          "sourceSha256": "8bb1c853929924e6cb0d10a47e182233f71b020707ad6ca554d1cb01bc26471c",
+          "translationSha256": "68e2381fe3f39f77b4175b142c1ad6f56a1fcda38bfa43bd817124a0a74ef7ba",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.OGjzppFdKi5DUYRt.name",
+          "sourceSha256": "ac0b843bf322d98cd33f0b469f8a9afe1374b49c8d6cacbd3f407430a6d02a9c",
+          "translationSha256": "68b1766be1d9c0d91510230f9befb2175bb544ba05c9c06325b6c6459138b1ed",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.OGjzppFdKi5DUYRt.description",
+          "sourceSha256": "45c4bdb8877d2782a7a60b9cb7136ace288b52ccf3e24d56376a107eb1c2742a",
+          "translationSha256": "797dffcf36b5f8e0f2cae85612e03a5f77cefc14aac0cc4a20d84f22aeaaebf7",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.Ia47FG9ggWSknR3L.name",
+          "sourceSha256": "35de2da495048b4f43abec7981955ec21ffae67cedbac28944e5f00278ab06b2",
+          "translationSha256": "d93a5609674234ea219973361375ec6a9d5ad0e719d059719463bfe58e7231c6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.Ia47FG9ggWSknR3L.description",
+          "sourceSha256": "23857c8229eca1c45f20d212ff586ab9b441eccc27213bbd712f54d3fb6d7f5a",
+          "translationSha256": "8860fb0827d10b2d7f5036bf9ecdf7e0ad19d1348495b7979b1a3db2eb14d176",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.Ia47FG9ggWSknR3L.activities.dB0nYeKjVnXNXyr9.name",
+          "sourceSha256": "29670fae6b30ff3a63776420154e8b4ea84fcfaa7c00a09e15d2dc058eaf0280",
+          "translationSha256": "a01e129108863c2330f426a99f52489859fedc20664dc009744894baab52e9ae",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.YsQg7KrBGcBYrsGG.name",
+          "sourceSha256": "a99f2738cfb717c0e1f8678c1dee2337d27f8cb7f9f911bcc104601a97403888",
+          "translationSha256": "5dbf5ce008a8f567bec1fc8a42d54b888efbb1bfc04517bfa5d5b4daf1a41997",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.YsQg7KrBGcBYrsGG.description",
+          "sourceSha256": "9ae9f891d6a86b8527eeb7ee6a0f1bf1910b86788229b7e7fbbc5d1d7e31834a",
+          "translationSha256": "8afa8a678c06c86ce231748c9dd3e9c7e9ede30348ebbb7c7bde375828fe7227",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.QEyzxUGfhdJ55uyz.name",
+          "sourceSha256": "d69eecab2f767f0d282d036abcf2ffce962762fafc91151c5f84d262991d2179",
+          "translationSha256": "cc34393132191af618b4437bab4066776b106e5d8d45264d3c263ef88f11f063",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.QEyzxUGfhdJ55uyz.description",
+          "sourceSha256": "6909404538f84b03702c7d17e4c595ba3a2be079058c4d63b72402e9b5c67443",
+          "translationSha256": "5cd31166944342c8b405016d63a5dbde27e041e703863e3f3fa0ae328499a499",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.QEyzxUGfhdJ55uyz.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.PyIKzZJ7hA8M96aS.name",
+          "sourceSha256": "d9f195a0432541e2b55ad8de73247e8e0568b16c86d3838ea898e874ee177425",
+          "translationSha256": "f5497f5ab61d3eed684fd5955f2e15bd27eac03986f2357b15ed614cd3c7283e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.PyIKzZJ7hA8M96aS.description",
+          "sourceSha256": "2b48e14aa0310e00f77ff28aa9ca2c1cf009271017e92cd8d96b7a766394c857",
+          "translationSha256": "c3677a92b8876911296cca6277566fd5e40f423572117a518777a477fa49f16d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.PyIKzZJ7hA8M96aS.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.X1VIMWRvgaAxJxW8.name",
+          "sourceSha256": "d53895c6eb7816fb44ec7f46db45019172de4793a42ccaf893ed71ec8ed00743",
+          "translationSha256": "83cfda28f4b2016acb6f59dfb446f52dbc2cc82b1d17348f01d1a4370fafa36d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.X1VIMWRvgaAxJxW8.description",
+          "sourceSha256": "6512cdfee97a0aa67abf0c9e9e9c6222e5f652c590fafcfcb2942a095218842f",
+          "translationSha256": "27889654223904e7bf0aa2536849fefd998f2e7cfabd83d82a40b5446ee09ce8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.X1VIMWRvgaAxJxW8.effects.TeFxBRKYKIXtg6pS.name",
+          "sourceSha256": "d53895c6eb7816fb44ec7f46db45019172de4793a42ccaf893ed71ec8ed00743",
+          "translationSha256": "83cfda28f4b2016acb6f59dfb446f52dbc2cc82b1d17348f01d1a4370fafa36d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.X1VIMWRvgaAxJxW8.effects.TeFxBRKYKIXtg6pS.description",
+          "sourceSha256": "9b3b9ebe15a522eabfd200629d1995895969f178b481616c7703be343fbb4e73",
+          "translationSha256": "543fd8b8434fa4d2cdf399ff76777ce576322699a411a6fa76c130b4074d6287",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.X1VIMWRvgaAxJxW8.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.OQysFZz8r6OSo4pD.name",
+          "sourceSha256": "cb0d3238583c0fb02745016ee38365aeb218deb64731eceea42c18d24290ed95",
+          "translationSha256": "168cc32ccdb2f6c4736a39c2a1d3052e411648602362ae09c5590a76482a7774",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.OQysFZz8r6OSo4pD.description",
+          "sourceSha256": "e9f106d2cca002174fa5486d25387cd0ea5a36bf17a4cf0e3cf7bf1dd27502c2",
+          "translationSha256": "f1ae9e0167f4ea7feb171ec33e0938a0118f32fb7c0e4cc8ef03ad39a66c2474",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.OQysFZz8r6OSo4pD.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.MR1eFJK7chA41ZSK.name",
+          "sourceSha256": "b824616228a1b5a287e9fce2e1b073caacced8ec23fa24c3d2d7413306f8c6de",
+          "translationSha256": "7d0f4553e252a24ffb2eca47d31d7cacb62f3460f4413001a275a7f1b928652a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.MR1eFJK7chA41ZSK.description",
+          "sourceSha256": "b486eea9afdee0636b39e776016779b40507cbe28358d0eba911ddda1f0053f7",
+          "translationSha256": "0fc46e04be19e18d5666060559d53025cb0214540373a90e24d9f2c916b6fc28",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.MR1eFJK7chA41ZSK.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.5OYu5yN0H4bww6TG.name",
+          "sourceSha256": "140262b32b0c98dfc6afb74b287d2df7f50e0645cea8c1dd907c793699180ee2",
+          "translationSha256": "43f7b0cbafad394c21cd2e4a9c65273cb14137a818da644c326d066c17519f12",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.5OYu5yN0H4bww6TG.description",
+          "sourceSha256": "e4bacf009c15b26a87fd0ffcbf6e6527b684a586c17c3d8cb08a07070107605e",
+          "translationSha256": "edd1750010cfa4e26ef7de36a3fa60bcbe7dac8bbd6a3cd71ed2166803f9d5ab",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.5OYu5yN0H4bww6TG.effects.4QpReACTSQTg2KTw.name",
+          "sourceSha256": "140262b32b0c98dfc6afb74b287d2df7f50e0645cea8c1dd907c793699180ee2",
+          "translationSha256": "43f7b0cbafad394c21cd2e4a9c65273cb14137a818da644c326d066c17519f12",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.5OYu5yN0H4bww6TG.effects.4QpReACTSQTg2KTw.description",
+          "sourceSha256": "4aa8901b83cad57539bf1864a84653099d5d8f34b9606dcf4082a874c61399b9",
+          "translationSha256": "a24a5c0b41a2a0626e3beafe5263891519108dd7a3cf61aff523e8555fd2a108",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.5OYu5yN0H4bww6TG.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.kCUCnoY6bW0XVk5u.name",
+          "sourceSha256": "31bbe05d43158cd2f6cec70821ac4571c76d77eda3cfe8889f81cd785150b1c0",
+          "translationSha256": "367d60a7ade7db4c5d9cac9da897534bb9167208a79d68150161c8c6420cc7fc",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.kCUCnoY6bW0XVk5u.description",
+          "sourceSha256": "746372f1286018562cc1ae5e01ffe507915de59830003c1d5648d8db707d2cbd",
+          "translationSha256": "d1e29c82bc49ac661955b5d12804261d91e257048273d0d77509d239921022cb",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.kCUCnoY6bW0XVk5u.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.tRfmp2BsRLMXunAJ.name",
+          "sourceSha256": "cc173df6702cba90cfae123f149085dc44e3f6c660816c528f063c75083e5a9e",
+          "translationSha256": "0f176de02085eb3dc5a86fee0df59bef37743fab432820a1a36160fea169c8ff",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.tRfmp2BsRLMXunAJ.description",
+          "sourceSha256": "60853c313193b1821572ff9ddf08e9ef060fe7313fd17053cccc4c16e1205262",
+          "translationSha256": "dc60c214a2e96bd7746206fda6acec485798026507db3a34c7e10b5f9c8364dd",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.tRfmp2BsRLMXunAJ.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.Pvtz3MFlVlg8wBCq.name",
+          "sourceSha256": "d86f8ab2e7be3e29db5c35df8185bbf87f71c1d6bc57d94e2a42cc398f835c5f",
+          "translationSha256": "2008889741ee6c261fc81398be9ec59149ceabd02f459928ce013c9d80938e24",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.Pvtz3MFlVlg8wBCq.description",
+          "sourceSha256": "495271ff42766b7257ef06b64a95ca3a6caf89ce4ca6b19256ef3caa39ec5ff8",
+          "translationSha256": "a4c440290430243c21cc127e3e18bcd7145f8ec97e47e3932ccac943476cb239",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.Pvtz3MFlVlg8wBCq.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.GRsvTERQt4XmcqPJ.name",
+          "sourceSha256": "d0bbdb580e152be2f1b71fe78d3e8501aee3399b30bb2b08d76bc771c275035e",
+          "translationSha256": "f2a6906ac8528f10502c4abf06fb9239ec2c67f19cd839ceebd03c3c26f9e365",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.GRsvTERQt4XmcqPJ.description",
+          "sourceSha256": "bee5d368717973ba622c39581a001bd0314bf8c3ac6ba9808480eaf69bcb96ff",
+          "translationSha256": "2a4536f8fe5b04f68abc0dddb49d06a83f6f34510faf95c3b4c0c4656937a6c3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGraySlaadcont.items.GRsvTERQt4XmcqPJ.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.name",
+          "sourceSha256": "1973babd45f14042f4f630722a4ff03e8ecf10b33a039f0499776d46aefdd165",
+          "translationSha256": "b7012a0d116a4b442f92ae742a8ab6cd2d127b3cfb1ad679f68001f5e546226d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.alignment",
+          "sourceSha256": "dfc5d1c129a568faaef0718a9734cc3fc081cabfc32d7cccf1f17200d74dcca6",
+          "translationSha256": "5d5347450ddc75dcdf356f2462d419f9e8db247a1a937f101e77d178f1b0596b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.creatureSubtype",
+          "sourceSha256": "297da0d4c889b812c8fca7ef261c3e349af93ae16a68f8e3ba008e04647133fb",
+          "translationSha256": "470d45659a4e7fc5410b9bddad943fe562422ae5f67a41f1825fa2ff12902622",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.languages",
+          "sourceSha256": "794cdf669bf95e23a5434109d296ce45a1f770eb66eea25d454698380e1883a4",
+          "translationSha256": "794cdf669bf95e23a5434109d296ce45a1f770eb66eea25d454698380e1883a4",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.tokenName",
+          "sourceSha256": "93e4043f060bf40971bf8462b138e76866a2c639b4c2f309bd3f1b430c372758",
+          "translationSha256": "da8614dd4a028a14d988d8a5cb98ad2f7fa48726d2eaadb77f44c69e05c2d6ea",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.WyM3zG01N4KESTB8.name",
+          "sourceSha256": "36ae85511c705c3857455f0c5668bc8d6cdbac0af0d526daefdb8330b12a7eb1",
+          "translationSha256": "6706725ba91a414f56c4207a4fadf7f1c676070bb25a1b3c2497563c6da5c624",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.WyM3zG01N4KESTB8.description",
+          "sourceSha256": "d40df86b5045857c927131abd564e6a9c9270167aeeafaa6780e21187f78c741",
+          "translationSha256": "580a7760e94b573ebdb331907ebba1a0da28cfcac48886fffb3a53213ebf4ec2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.WyM3zG01N4KESTB8.activities.v4euJnlzwaIp1syW.name",
+          "sourceSha256": "d69eecab2f767f0d282d036abcf2ffce962762fafc91151c5f84d262991d2179",
+          "translationSha256": "cc34393132191af618b4437bab4066776b106e5d8d45264d3c263ef88f11f063",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.WyM3zG01N4KESTB8.activities.a0F7H7jHsmsMIari.name",
+          "sourceSha256": "d9f195a0432541e2b55ad8de73247e8e0568b16c86d3838ea898e874ee177425",
+          "translationSha256": "f5497f5ab61d3eed684fd5955f2e15bd27eac03986f2357b15ed614cd3c7283e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.WyM3zG01N4KESTB8.activities.QKOYv57Gka3CfUJy.name",
+          "sourceSha256": "d53895c6eb7816fb44ec7f46db45019172de4793a42ccaf893ed71ec8ed00743",
+          "translationSha256": "83cfda28f4b2016acb6f59dfb446f52dbc2cc82b1d17348f01d1a4370fafa36d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.WyM3zG01N4KESTB8.activities.VWGfnV8xvLjq2r9A.name",
+          "sourceSha256": "cb0d3238583c0fb02745016ee38365aeb218deb64731eceea42c18d24290ed95",
+          "translationSha256": "168cc32ccdb2f6c4736a39c2a1d3052e411648602362ae09c5590a76482a7774",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.WyM3zG01N4KESTB8.activities.muzEiczb88Iff4YS.name",
+          "sourceSha256": "b824616228a1b5a287e9fce2e1b073caacced8ec23fa24c3d2d7413306f8c6de",
+          "translationSha256": "7d0f4553e252a24ffb2eca47d31d7cacb62f3460f4413001a275a7f1b928652a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.WyM3zG01N4KESTB8.activities.sjsgNAMdJZvk7iPe.name",
+          "sourceSha256": "140262b32b0c98dfc6afb74b287d2df7f50e0645cea8c1dd907c793699180ee2",
+          "translationSha256": "43f7b0cbafad394c21cd2e4a9c65273cb14137a818da644c326d066c17519f12",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.WyM3zG01N4KESTB8.activities.yG0wMi7zgQQVR745.name",
+          "sourceSha256": "31bbe05d43158cd2f6cec70821ac4571c76d77eda3cfe8889f81cd785150b1c0",
+          "translationSha256": "367d60a7ade7db4c5d9cac9da897534bb9167208a79d68150161c8c6420cc7fc",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.WyM3zG01N4KESTB8.activities.NIhbJcK9eZz61Vbo.name",
+          "sourceSha256": "cc173df6702cba90cfae123f149085dc44e3f6c660816c528f063c75083e5a9e",
+          "translationSha256": "0f176de02085eb3dc5a86fee0df59bef37743fab432820a1a36160fea169c8ff",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.WyM3zG01N4KESTB8.activities.1FwNGakyoQY9uVi8.name",
+          "sourceSha256": "d86f8ab2e7be3e29db5c35df8185bbf87f71c1d6bc57d94e2a42cc398f835c5f",
+          "translationSha256": "2008889741ee6c261fc81398be9ec59149ceabd02f459928ce013c9d80938e24",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.WyM3zG01N4KESTB8.activities.JA8iADTa8RcTZHYT.name",
+          "sourceSha256": "d0bbdb580e152be2f1b71fe78d3e8501aee3399b30bb2b08d76bc771c275035e",
+          "translationSha256": "f2a6906ac8528f10502c4abf06fb9239ec2c67f19cd839ceebd03c3c26f9e365",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.Qkqey6UmYImH9ytW.name",
+          "sourceSha256": "ed2fe6ee4108fdd7aa2adc5e1e0b272881becc9d47f1b91289237da2411ddc11",
+          "translationSha256": "0a39b8f3bdfe279a18ef7e5bea3f6239da0932a302f113bb61df2e0b3f3abaad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.Qkqey6UmYImH9ytW.description",
+          "sourceSha256": "99a17499bcf2ca8409928d876ab967e98e77ce2c84dab7f6e70fd040b29bf00b",
+          "translationSha256": "438b6c3786ebc92b8ce0381a49d05822c529751baa5d00ee246ea05433e70bcf",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.jwcspgAfaYSK0HKG.name",
+          "sourceSha256": "6e5597953e98e07b763c9f7c837239daf41a26a239b0616631539b9a04b559ad",
+          "translationSha256": "0f5627d69976efecdf83d744d6ec28905da742f1533855b78aad823b0bcbcd97",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.jwcspgAfaYSK0HKG.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.y3OyTu1Qd2QoAokf.name",
+          "sourceSha256": "68a31aefb013bde5c9baadece2d532269c9f7a35699cb10f79136eca29938318",
+          "translationSha256": "738394d7769046cb7f24dd2bc42ce9c6493f7dccc5630c6b1673c9bac71bd853",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.y3OyTu1Qd2QoAokf.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.tpojVWVij9RXPRab.name",
+          "sourceSha256": "7caa0fa619e382ef655de551803638b595e7af369b8bca264fd97c0fa5cc39a7",
+          "translationSha256": "12ec4eb0f99c65ce88f539cfb4a3f0d3a71eecf38faeaaecbf0d836e730394a5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.tpojVWVij9RXPRab.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.f5wbQ1ova0guK2En.name",
+          "sourceSha256": "297da0d4c889b812c8fca7ef261c3e349af93ae16a68f8e3ba008e04647133fb",
+          "translationSha256": "470d45659a4e7fc5410b9bddad943fe562422ae5f67a41f1825fa2ff12902622",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.f5wbQ1ova0guK2En.description",
+          "sourceSha256": "4c7b7a310ad818346f0ac17760c510656ad79d687730533b407a93ba2a9e2606",
+          "translationSha256": "25f45f55e03bf57f39f8c9385b974acaef8a759c62a4610b74c7410e1ca99e87",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.gImpAdeJO0pkxnjQ.name",
+          "sourceSha256": "c15db37ae346b4efc3e521fffc127aeecb382360d32871d96fd772bdfe5bb482",
+          "translationSha256": "d3575997869fa07b87e24abd304ddf5f3ddcd44397203f53fe393ba99ae5a92f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.gImpAdeJO0pkxnjQ.description",
+          "sourceSha256": "8bb1c853929924e6cb0d10a47e182233f71b020707ad6ca554d1cb01bc26471c",
+          "translationSha256": "68e2381fe3f39f77b4175b142c1ad6f56a1fcda38bfa43bd817124a0a74ef7ba",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.OGjzppFdKi5DUYRt.name",
+          "sourceSha256": "ac0b843bf322d98cd33f0b469f8a9afe1374b49c8d6cacbd3f407430a6d02a9c",
+          "translationSha256": "68b1766be1d9c0d91510230f9befb2175bb544ba05c9c06325b6c6459138b1ed",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.OGjzppFdKi5DUYRt.description",
+          "sourceSha256": "45c4bdb8877d2782a7a60b9cb7136ace288b52ccf3e24d56376a107eb1c2742a",
+          "translationSha256": "797dffcf36b5f8e0f2cae85612e03a5f77cefc14aac0cc4a20d84f22aeaaebf7",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.Ia47FG9ggWSknR3L.name",
+          "sourceSha256": "35de2da495048b4f43abec7981955ec21ffae67cedbac28944e5f00278ab06b2",
+          "translationSha256": "d93a5609674234ea219973361375ec6a9d5ad0e719d059719463bfe58e7231c6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.Ia47FG9ggWSknR3L.description",
+          "sourceSha256": "23857c8229eca1c45f20d212ff586ab9b441eccc27213bbd712f54d3fb6d7f5a",
+          "translationSha256": "8860fb0827d10b2d7f5036bf9ecdf7e0ad19d1348495b7979b1a3db2eb14d176",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.Ia47FG9ggWSknR3L.activities.dB0nYeKjVnXNXyr9.name",
+          "sourceSha256": "29670fae6b30ff3a63776420154e8b4ea84fcfaa7c00a09e15d2dc058eaf0280",
+          "translationSha256": "a01e129108863c2330f426a99f52489859fedc20664dc009744894baab52e9ae",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.YsQg7KrBGcBYrsGG.name",
+          "sourceSha256": "a99f2738cfb717c0e1f8678c1dee2337d27f8cb7f9f911bcc104601a97403888",
+          "translationSha256": "5dbf5ce008a8f567bec1fc8a42d54b888efbb1bfc04517bfa5d5b4daf1a41997",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.YsQg7KrBGcBYrsGG.description",
+          "sourceSha256": "9ae9f891d6a86b8527eeb7ee6a0f1bf1910b86788229b7e7fbbc5d1d7e31834a",
+          "translationSha256": "8afa8a678c06c86ce231748c9dd3e9c7e9ede30348ebbb7c7bde375828fe7227",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.QEyzxUGfhdJ55uyz.name",
+          "sourceSha256": "d69eecab2f767f0d282d036abcf2ffce962762fafc91151c5f84d262991d2179",
+          "translationSha256": "cc34393132191af618b4437bab4066776b106e5d8d45264d3c263ef88f11f063",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.QEyzxUGfhdJ55uyz.description",
+          "sourceSha256": "6909404538f84b03702c7d17e4c595ba3a2be079058c4d63b72402e9b5c67443",
+          "translationSha256": "5cd31166944342c8b405016d63a5dbde27e041e703863e3f3fa0ae328499a499",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.QEyzxUGfhdJ55uyz.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.PyIKzZJ7hA8M96aS.name",
+          "sourceSha256": "d9f195a0432541e2b55ad8de73247e8e0568b16c86d3838ea898e874ee177425",
+          "translationSha256": "f5497f5ab61d3eed684fd5955f2e15bd27eac03986f2357b15ed614cd3c7283e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.PyIKzZJ7hA8M96aS.description",
+          "sourceSha256": "2b48e14aa0310e00f77ff28aa9ca2c1cf009271017e92cd8d96b7a766394c857",
+          "translationSha256": "c3677a92b8876911296cca6277566fd5e40f423572117a518777a477fa49f16d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.PyIKzZJ7hA8M96aS.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.X1VIMWRvgaAxJxW8.name",
+          "sourceSha256": "d53895c6eb7816fb44ec7f46db45019172de4793a42ccaf893ed71ec8ed00743",
+          "translationSha256": "83cfda28f4b2016acb6f59dfb446f52dbc2cc82b1d17348f01d1a4370fafa36d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.X1VIMWRvgaAxJxW8.description",
+          "sourceSha256": "6512cdfee97a0aa67abf0c9e9e9c6222e5f652c590fafcfcb2942a095218842f",
+          "translationSha256": "27889654223904e7bf0aa2536849fefd998f2e7cfabd83d82a40b5446ee09ce8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.X1VIMWRvgaAxJxW8.effects.TeFxBRKYKIXtg6pS.name",
+          "sourceSha256": "d53895c6eb7816fb44ec7f46db45019172de4793a42ccaf893ed71ec8ed00743",
+          "translationSha256": "83cfda28f4b2016acb6f59dfb446f52dbc2cc82b1d17348f01d1a4370fafa36d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.X1VIMWRvgaAxJxW8.effects.TeFxBRKYKIXtg6pS.description",
+          "sourceSha256": "9b3b9ebe15a522eabfd200629d1995895969f178b481616c7703be343fbb4e73",
+          "translationSha256": "543fd8b8434fa4d2cdf399ff76777ce576322699a411a6fa76c130b4074d6287",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.X1VIMWRvgaAxJxW8.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.OQysFZz8r6OSo4pD.name",
+          "sourceSha256": "cb0d3238583c0fb02745016ee38365aeb218deb64731eceea42c18d24290ed95",
+          "translationSha256": "168cc32ccdb2f6c4736a39c2a1d3052e411648602362ae09c5590a76482a7774",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.OQysFZz8r6OSo4pD.description",
+          "sourceSha256": "e9f106d2cca002174fa5486d25387cd0ea5a36bf17a4cf0e3cf7bf1dd27502c2",
+          "translationSha256": "f1ae9e0167f4ea7feb171ec33e0938a0118f32fb7c0e4cc8ef03ad39a66c2474",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.OQysFZz8r6OSo4pD.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.MR1eFJK7chA41ZSK.name",
+          "sourceSha256": "b824616228a1b5a287e9fce2e1b073caacced8ec23fa24c3d2d7413306f8c6de",
+          "translationSha256": "7d0f4553e252a24ffb2eca47d31d7cacb62f3460f4413001a275a7f1b928652a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.MR1eFJK7chA41ZSK.description",
+          "sourceSha256": "b486eea9afdee0636b39e776016779b40507cbe28358d0eba911ddda1f0053f7",
+          "translationSha256": "0fc46e04be19e18d5666060559d53025cb0214540373a90e24d9f2c916b6fc28",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.MR1eFJK7chA41ZSK.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.5OYu5yN0H4bww6TG.name",
+          "sourceSha256": "140262b32b0c98dfc6afb74b287d2df7f50e0645cea8c1dd907c793699180ee2",
+          "translationSha256": "43f7b0cbafad394c21cd2e4a9c65273cb14137a818da644c326d066c17519f12",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.5OYu5yN0H4bww6TG.description",
+          "sourceSha256": "e4bacf009c15b26a87fd0ffcbf6e6527b684a586c17c3d8cb08a07070107605e",
+          "translationSha256": "edd1750010cfa4e26ef7de36a3fa60bcbe7dac8bbd6a3cd71ed2166803f9d5ab",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.5OYu5yN0H4bww6TG.effects.4QpReACTSQTg2KTw.name",
+          "sourceSha256": "140262b32b0c98dfc6afb74b287d2df7f50e0645cea8c1dd907c793699180ee2",
+          "translationSha256": "43f7b0cbafad394c21cd2e4a9c65273cb14137a818da644c326d066c17519f12",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.5OYu5yN0H4bww6TG.effects.4QpReACTSQTg2KTw.description",
+          "sourceSha256": "4aa8901b83cad57539bf1864a84653099d5d8f34b9606dcf4082a874c61399b9",
+          "translationSha256": "a24a5c0b41a2a0626e3beafe5263891519108dd7a3cf61aff523e8555fd2a108",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.5OYu5yN0H4bww6TG.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.kCUCnoY6bW0XVk5u.name",
+          "sourceSha256": "31bbe05d43158cd2f6cec70821ac4571c76d77eda3cfe8889f81cd785150b1c0",
+          "translationSha256": "367d60a7ade7db4c5d9cac9da897534bb9167208a79d68150161c8c6420cc7fc",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.kCUCnoY6bW0XVk5u.description",
+          "sourceSha256": "746372f1286018562cc1ae5e01ffe507915de59830003c1d5648d8db707d2cbd",
+          "translationSha256": "d1e29c82bc49ac661955b5d12804261d91e257048273d0d77509d239921022cb",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.kCUCnoY6bW0XVk5u.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.tRfmp2BsRLMXunAJ.name",
+          "sourceSha256": "cc173df6702cba90cfae123f149085dc44e3f6c660816c528f063c75083e5a9e",
+          "translationSha256": "0f176de02085eb3dc5a86fee0df59bef37743fab432820a1a36160fea169c8ff",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.tRfmp2BsRLMXunAJ.description",
+          "sourceSha256": "60853c313193b1821572ff9ddf08e9ef060fe7313fd17053cccc4c16e1205262",
+          "translationSha256": "dc60c214a2e96bd7746206fda6acec485798026507db3a34c7e10b5f9c8364dd",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.tRfmp2BsRLMXunAJ.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.Pvtz3MFlVlg8wBCq.name",
+          "sourceSha256": "d86f8ab2e7be3e29db5c35df8185bbf87f71c1d6bc57d94e2a42cc398f835c5f",
+          "translationSha256": "2008889741ee6c261fc81398be9ec59149ceabd02f459928ce013c9d80938e24",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.Pvtz3MFlVlg8wBCq.description",
+          "sourceSha256": "495271ff42766b7257ef06b64a95ca3a6caf89ce4ca6b19256ef3caa39ec5ff8",
+          "translationSha256": "a4c440290430243c21cc127e3e18bcd7145f8ec97e47e3932ccac943476cb239",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.Pvtz3MFlVlg8wBCq.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.GRsvTERQt4XmcqPJ.name",
+          "sourceSha256": "d0bbdb580e152be2f1b71fe78d3e8501aee3399b30bb2b08d76bc771c275035e",
+          "translationSha256": "f2a6906ac8528f10502c4abf06fb9239ec2c67f19cd839ceebd03c3c26f9e365",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.GRsvTERQt4XmcqPJ.description",
+          "sourceSha256": "bee5d368717973ba622c39581a001bd0314bf8c3ac6ba9808480eaf69bcb96ff",
+          "translationSha256": "2a4536f8fe5b04f68abc0dddb49d06a83f6f34510faf95c3b4c0c4656937a6c3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGraySlaadcont.items.GRsvTERQt4XmcqPJ.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Gray slaad variant reviewed against English export, including control gem removal, innate spell links and major image."
+        }
+      ]
     }
   ]
 }

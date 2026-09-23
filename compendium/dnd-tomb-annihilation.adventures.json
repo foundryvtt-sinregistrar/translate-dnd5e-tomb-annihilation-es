@@ -3172,30 +3172,30 @@
                   "name": "Invisibilidad"
                 },
                 "VWGfnV8xvLjq2r9A": {
-                  "name": "Mano Maga"
+                  "name": "Mano de mago"
                 },
                 "muzEiczb88Iff4YS": {
                   "name": "Imagen mayor"
                 },
                 "sjsgNAMdJZvk7iPe": {
-                  "name": "Miedo"
+                  "name": "Terror"
                 },
                 "NIhbJcK9eZz61Vbo": {
                   "name": "Bola de fuego"
                 },
                 "1FwNGakyoQY9uVi8": {
-                  "name": "Lenguas"
+                  "name": "Don de lenguas"
                 },
                 "JA8iADTa8RcTZHYT": {
-                  "name": "Cambio de plano"
+                  "name": "Desplazamiento entre planos"
                 }
               },
-              "name": "Difusión de conjuros innatos",
-              "description": "<p> La habilidad innata del Slaad para deletrear es Carisma (salvar CD 14). El Slaad puede lanzar innatamente los siguientes conjuros, sin necesidad de componentes materiales:</p>\n<p><strong>A discreción:</strong> <em>@UUID[Compendium.dnd5e.spells.Item.ghXTfe7sgCbgf1Q8]</em>, <em>@UUID[Compendium.dnd5e.spells.Item.ppWAAEul0QHtm4er]</em>, <em>@UUID[Compendium.dnd5e.spells.Item.1N8dDMMgZ1h1YJ3B]</em>, <em>@UUID[Compendium.dnd5e.spells.Item.Utk1OQRwYkMkFRD3]</em>, <em>@UUID[Compendium.dnd5e.spells.Item.nslx2nT3p4lNkmdp]</em></p>\n<p><strong>2/día cada uno:</strong> <em>@UUID[Compendium.dnd5e.spells.Item.XXUDGFELgoskdOD0]</em>, <em>@UUID[Compendium.dnd5e.spells.Item.yfbK8gZqESlaoY5t]</em>, <em>@UUID[Compendium.dnd5e.spells.Item.ztgcdrWPshKRpFd0]</em>, <em>@UUID[Compendium.dnd5e.spells.Item.gopnZvS0c2jD5FP8]</em></p>\n<p><strong>1/día:</strong> <em>@UUID[Compendium.dnd5e.spells.Item.J6Jpw5XzB5aTeqnz]</em></p>"
+              "name": "Lanzamiento de Conjuros Innato",
+              "description": "<p>La aptitud mágica innata del slaad es Carisma (CD 14 para sus salvaciones de conjuros). Puede lanzar de forma innata los siguientes conjuros, sin necesidad de componentes materiales:</p><p><strong>A voluntad:</strong> <em>@UUID[Compendium.dnd5e.spells.Item.ghXTfe7sgCbgf1Q8]{detectar magia}</em>, <em>@UUID[Compendium.dnd5e.spells.Item.ppWAAEul0QHtm4er]{detectar pensamientos}</em>, <em>@UUID[Compendium.dnd5e.spells.Item.1N8dDMMgZ1h1YJ3B]{invisibilidad}</em>, <em>@UUID[Compendium.dnd5e.spells.Item.Utk1OQRwYkMkFRD3]{mano de mago}</em>, <em>@UUID[Compendium.dnd5e.spells.Item.nslx2nT3p4lNkmdp]{imagen mayor}</em></p><p><strong>2/día cada uno:</strong> <em>@UUID[Compendium.dnd5e.spells.Item.XXUDGFELgoskdOD0]{terror}</em>, <em>@UUID[Compendium.dnd5e.spells.Item.yfbK8gZqESlaoY5t]{volar}</em>, <em>@UUID[Compendium.dnd5e.spells.Item.ztgcdrWPshKRpFd0]{bola de fuego}</em>, <em>@UUID[Compendium.dnd5e.spells.Item.gopnZvS0c2jD5FP8]{don de lenguas}</em></p><p><strong>1/día:</strong> <em>@UUID[Compendium.dnd5e.spells.Item.J6Jpw5XzB5aTeqnz]{desplazamiento entre planos}</em></p>"
             },
             "Qkqey6UmYImH9ytW": {
               "name": "Ataque múltiple",
-              "description": "<p>El slaad hace tres ataques: uno con su [[/item Bite]] y dos con su [[/item Claws]] o gran espada.</p>"
+              "description": "<p>El slaad realiza tres ataques: uno con su [[/item Bite]] y dos con sus [[/item Claws]] o su espadón.</p>"
             },
             "jwcspgAfaYSK0HKG": {
               "name": "Mordisco",
@@ -3207,134 +3207,134 @@
             },
             "tpojVWVij9RXPRab": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-              "name": "Espada grande"
+              "name": "Espadón"
             },
             "kCUCnoY6bW0XVk5u": {
               "name": "Volar",
-              "description": "<p>Tocas a una criatura dispuesta. El objetivo gana una velocidad de vuelo de 60 pies para la Duración. Cuando el conjuro termina, el objetivo cae si todavía está en alto, a menos que pueda detener la caída.</p><p><strong>En los niveles superiores.</strong> Cuando usted lanza este conjuro usando una espacio de conjuro de 4o nivel o superior, usted puede apuntar a una criatura adicional por cada nivel de ranura por encima de 3o.</p>",
+              "description": "<p>Tocas a una criatura voluntaria. El objetivo obtiene una velocidad volando de 60 pies durante el conjuro. Cuando este termina, el objetivo cae si sigue en el aire, a menos que pueda detener la caída.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro usando un espacio de nivel 4 o superior, puedes elegir una criatura adicional por cada nivel del espacio por encima de 3.</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             },
             "f5wbQ1ova0guK2En": {
-              "name": "Cambio de forma",
-              "description": "<p>El Slaad puede utilizar su acción para polimorfotizarse en un humanoide pequeño o medio, o volver a su verdadera forma. Sus estadísticas, aparte de su tamaño, son las mismas en cada forma. Cualquier equipo que lleva o lleva no se transforma. Revierte a su verdadera forma si muere.</p>"
+              "name": "Cambiaformas",
+              "description": "<p>El slaad puede usar su acción para transformarse en un humanoide Pequeño o Mediano o volver a su verdadera forma. Sus estadísticas, salvo su tamaño, son las mismas en ambas formas. El equipo que vista o lleve consigo no se transforma. Si muere, vuelve a su forma verdadera.</p>"
             },
             "gImpAdeJO0pkxnjQ": {
-              "name": "Resistencia mágica",
-              "description": "<p>El slaad tiene ventaja en el ahorro de lanzamientos contra conjuros y otros efectos mágicos.</p>"
+              "name": "Resistencia Mágica",
+              "description": "<p>El slaad tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.</p>"
             },
             "OGjzppFdKi5DUYRt": {
-              "name": "Armas mágicas",
-              "description": "<p>Los ataques con armas del Slaad son mágicos.</p>"
+              "name": "Armas Mágicas",
+              "description": "<p>Los ataques con arma del slaad son mágicos.</p>"
             },
             "Ia47FG9ggWSknR3L": {
               "name": "Regeneración",
-              "description": "<p>El slaad recupera [[/heal]] al inicio de su turno si tiene al menos 1 punto de impacto.</p>",
+              "description": "<p>El slaad recupera [[/heal]] al comienzo de su turno si tiene al menos 1 punto de golpe.</p>",
               "activities": {
                 "dB0nYeKjVnXNXyr9": {
-                  "name": "Curación: Inicio de la vuelta"
+                  "name": "Curación: comienzo del turno"
                 }
               }
             },
             "YsQg7KrBGcBYrsGG": {
-              "name": "Gema de control",
-              "description": "<p>Implantado en el cerebro del Slaad es una gema mágica de control. El Slaad debe obedecer a quien posee la gema y es inmune a ser encantado mientras está tan controlado.</p><p>Ciertos conjuros se pueden utilizar para adquirir la gema. Si el slaad falla en su lanzamiento de ahorro contra el encarcelamiento, el conjuro puede transferir la gema a la mano abierta del hechicero, en lugar de encarcelar al slaad.</p><p>A @UUID[Compendium.dnd5e.spells.Item.3okM6Gn63zzEULkz]{deseo} si se lanza en presencia del Slaad, puede ser escrito para adquirir la gema. A @UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{mayor restauración} conjuro lanzado en el slaad destruye la gema sin dañar el slaad.</p><p>Alguien que es competente en Sabiduría (Medicina) puede quitar la gema de un slaad incapacitado. Cada intento requiere 1 minuto de trabajo ininterrumpido y un éxito [[/check format=long]]. Cada intento fallido de tratos [[/damage average]] daños en el slaad.</p>"
+              "name": "Gema de Control",
+              "description": "<p>El slaad tiene una gema mágica de control implantada en el cerebro. Debe obedecer a quien la posea y es inmune a ser hechizado mientras esté controlado de este modo.</p><p>Ciertos conjuros permiten obtener la gema. Si el slaad falla su salvación contra cautiverio, el conjuro puede trasladar la gema a la mano abierta del lanzador en lugar de aprisionar al slaad.</p><p>Un conjuro de @UUID[Compendium.dnd5e.spells.Item.3okM6Gn63zzEULkz]{deseo} lanzado en presencia del slaad puede formularse para obtener la gema. Un conjuro de @UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{restablecimiento mayor} lanzado sobre el slaad destruye la gema sin dañarlo.</p><p>Alguien competente en Sabiduría (Medicina) puede extraer la gema de un slaad incapacitado. Cada intento requiere 1 minuto de trabajo ininterrumpido y superar una [[/check format=long]]. Cada intento fallido causa [[/damage average]] de daño al slaad.</p>"
             },
             "QEyzxUGfhdJ55uyz": {
               "name": "Detectar magia",
-              "description": "<p>Durante la duración, sientes la presencia de la magia a menos de 30 pies de ti. Si sientes magia de esta manera, puedes usar tu acción para ver un aura débil alrededor de cualquier criatura visible u objeto en la zona que lleva magia, y aprender su escuela de magia, si la hay.</p><p>El conjuro puede penetrar la mayoría de las barreras, pero está bloqueado por 1 pie de piedra, 1 pulgada de metal común, una fina hoja de plomo, o 3 pies de madera o suciedad.</p>",
+              "description": "<p>Durante el conjuro, percibes la presencia de magia a 30 pies o menos de ti. Si la percibes de este modo, puedes usar tu acción para ver un aura tenue alrededor de cualquier criatura u objeto visible del área que posea magia y conocer su escuela de magia, si pertenece a alguna.</p><p>El conjuro puede atravesar la mayoría de las barreras, pero lo bloquean 1 pie de piedra, 1 pulgada de metal común, una lámina fina de plomo o 3 pies de madera o tierra.</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             },
             "PyIKzZJ7hA8M96aS": {
               "name": "Detectar pensamientos",
-              "description": "<p>Durante la duración, usted puede leer los pensamientos de ciertas criaturas. Cuando lanzas el conjuro y como tu acción en cada giro hasta que el conjuro termina, puedes enfocar tu mente en cualquier criatura que puedas ver a menos de 30 pies de ti. Si la criatura que elijas tiene una Inteligencia de 3 o inferior o no habla ningún idioma, la criatura no se verá afectada.</p><p>Inicialmente aprendes los pensamientos superficiales de la criatura, lo que más está en su mente en ese momento. Como una acción, puedes desplazar tu atención a los pensamientos de otra criatura o intentar indagar más profundamente en la mente de la misma criatura. Si sondas más profundo, el objetivo debe hacer un lanzamiento de ahorro de sabiduría. Si falla, usted obtiene una visión de su razonamiento (si lo hay), su estado emocional, y algo que se avecina en su mente (como algo que le preocupa, ama u odia). Si tiene éxito, el conjuro termina. De cualquier manera, el objetivo sabe que están sondeando en su mente, y a menos que cambien su atención a los pensamientos de otra criatura, la criatura puede usar su acción en su turno para hacer una comprobación de Inteligencia impugnada por su comprobación de Inteligencia; si tiene éxito, el conjuro termina.</p><p>Las preguntas dirigidas verbalmente a la criatura objetivo forman naturalmente el curso de sus pensamientos, por lo que este conjuro es particularmente eficaz como parte de un interrogatorio.</p><p>También puedes usar este conjuro para detectar la presencia de criaturas pensantes que no puedes ver. Cuando usted lanza el conjuro o como su acción durante la duración, usted puede buscar pensamientos a menos de 30 pies de usted. El conjuro puede penetrar barreras, pero 2 pies de roca, 2 pulgadas de cualquier metal que no sea plomo, o una delgada hoja de plomo te bloquea. No se puede detectar una criatura con una Inteligencia de 3 o inferior o una que no habla ningún idioma.</p><p>Una vez que detectas la presencia de una criatura de esta manera, puedes leer sus pensamientos por el resto de la duración como se describe anteriormente, incluso si no puedes verlo, pero todavía debe estar dentro del rango.</p>",
+              "description": "<p>Durante el conjuro, puedes leer los pensamientos de ciertas criaturas. Al lanzarlo y como acción en cada uno de tus turnos hasta que termine, puedes concentrar tu mente en una criatura que puedas ver a 30 pies o menos de ti. Si la criatura tiene Inteligencia 3 o inferior, o no habla ningún idioma, no se ve afectada.</p><p>Al principio percibes sus pensamientos superficiales: lo que más ocupa su mente en ese momento. Como acción, puedes dirigir tu atención a los pensamientos de otra criatura o intentar profundizar en la mente de la misma. Si profundizas, el objetivo debe realizar una tirada de salvación de Sabiduría. Si falla, descubres su razonamiento, si lo tiene, su estado emocional y algo que ocupe un lugar destacado en su mente, como una preocupación o algo que ame u odie. Si tiene éxito, el conjuro termina. En cualquier caso, el objetivo sabe que estás explorando su mente y, a menos que dirijas tu atención a otra criatura, puede usar su acción en su turno para realizar una prueba de Inteligencia enfrentada a la tuya; si gana, el conjuro termina.</p><p>Las preguntas dirigidas verbalmente al objetivo orientan de forma natural sus pensamientos, por lo que este conjuro resulta especialmente eficaz en un interrogatorio.</p><p>También puedes usarlo para detectar criaturas pensantes que no puedas ver. Al lanzar el conjuro o como acción mientras dure, puedes buscar pensamientos a 30 pies o menos de ti. El conjuro atraviesa barreras, pero lo bloquean 2 pies de roca, 2 pulgadas de cualquier metal distinto del plomo o una lámina fina de plomo. No puedes detectar criaturas con Inteligencia 3 o inferior ni aquellas que no hablen ningún idioma.</p><p>Cuando detectas a una criatura de este modo, puedes leer sus pensamientos durante el resto del conjuro como se describe arriba, aunque no puedas verla, siempre que siga dentro del alcance.</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             },
             "X1VIMWRvgaAxJxW8": {
               "name": "Invisibilidad",
-              "description": "<p>Una criatura que tocas se vuelve invisible hasta que el conjuro termina. Todo lo que el objetivo lleva o lleva es invisible mientras esté en la persona del objetivo. El conjuro termina para un objetivo que ataca o lanza un conjuro.</p><p><strong>En los niveles superiores.</strong> Al lanzar este conjuro usando una espacio de conjuros de 3er nivel o superior, puedes apuntar a una criatura adicional por cada nivel de ranura por encima de 2do.</p>",
+              "description": "<p>Una criatura que toques se vuelve invisible hasta que termine el conjuro. Todo lo que lleve puesto o transporte también es invisible mientras lo lleve encima. El conjuro termina para un objetivo que ataque o lance un conjuro.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro usando un espacio de nivel 3 o superior, puedes elegir una criatura adicional por cada nivel del espacio por encima de 2.</p>",
               "effects": {
                 "TeFxBRKYKIXtg6pS": {
                   "name": "Invisibilidad",
-                  "description": "<p>El objetivo se vuelve invisible hasta que el conjuro termina. Todo lo que el objetivo lleva o lleva es invisible mientras esté en la persona del objetivo. El conjuro termina para un objetivo que ataca o lanza un conjuro.</p>"
+                  "description": "<p>El objetivo se vuelve invisible hasta que termine el conjuro. Todo lo que lleve puesto o transporte también es invisible mientras lo lleve encima. El conjuro termina para un objetivo que ataque o lance un conjuro.</p>"
                 },
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             },
             "OQysFZz8r6OSo4pD": {
-              "name": "Mano Maga",
-              "description": "<p>Una mano espectral y flotante aparece en un punto que usted elige dentro del rango. La mano dura por la duración o hasta que la desestime como una acción. La mano se desvanece si está a más de 30 pies de ti o si vuelves a lanzar este conjuro.</p><p>Puedes usar tu acción para controlar la mano. Puede usar la mano para manipular un objeto, abrir una puerta o contenedor desbloqueado, guardar o recuperar un objeto de un contenedor abierto o verter el contenido de un vial. Puedes mover la mano hasta 30 pies cada vez que la uses.</p><p>La mano no puede atacar, activar objetos mágicos ni llevar más de 10 libras.</p>",
+              "name": "Mano de mago",
+              "description": "<p>Una mano espectral flotante aparece en un punto que elijas dentro del alcance. Permanece durante el conjuro o hasta que la disipes como acción. La mano desaparece si se aleja más de 30 pies de ti o si vuelves a lanzar este conjuro.</p><p>Puedes usar tu acción para controlar la mano. Puedes utilizarla para manipular un objeto, abrir una puerta o recipiente sin cerrar con llave, guardar o sacar un objeto de un recipiente abierto o verter el contenido de un vial. Puedes mover la mano hasta 30 pies cada vez que la uses.</p><p>La mano no puede atacar, activar objetos mágicos ni transportar más de 10 libras.</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             },
             "MR1eFJK7chA41ZSK": {
               "name": "Imagen mayor",
-              "description": "<p>Se crea la imagen de un objeto, una criatura, o algún otro fenómeno visible que no es mayor que un cubo de 20 pies. La imagen aparece en un lugar que se puede ver dentro del rango y dura durante la duración. Parece completamente real, incluyendo sonidos, olores y temperatura apropiada a la cosa representada. No se puede crear suficiente calor o frío para causar daño, un sonido lo suficientemente fuerte como para causar daño al trueno o ensordecer a una criatura, o un olor que podría enfermar a una criatura (como el hedor de un troglodita).</p><p>Mientras estés dentro del rango de la ilusión, puedes usar tu acción para hacer que la imagen se mueva a cualquier otro lugar dentro del rango. A medida que la imagen cambia de ubicación, se puede alterar su apariencia para que sus movimientos parezcan naturales para la imagen. Por ejemplo, si creas una imagen de una criatura y la mueves, puedes alterar la imagen para que parezca estar caminando. Del mismo modo, puedes hacer que la ilusión haga sonidos diferentes en diferentes momentos, incluso haciendo que continúe una conversación, por ejemplo.</p><p>La interacción física con la imagen revela que es una ilusión, porque las cosas pueden pasar a través de ella. Una criatura que usa su acción para examinar la imagen puede determinar que es una ilusión con un chequeo exitoso de Inteligencia (Investigación) contra tu conjuro salvar CD. Si una criatura discierne la ilusión por lo que es, la criatura puede ver a través de la imagen, y sus otras cualidades sensoriales se debilitan ante la criatura.</p><p><strong>En los niveles superiores.</strong> Cuando lanzas este conjuro usando un conjuro de 6o nivel o superior, el conjuro dura hasta que se disipa, sin requerir tu concentración.</p>",
+              "description": "<p>Creas la imagen de un objeto, una criatura u otro fenómeno visible que no supere un cubo de 20 pies de lado. La imagen aparece en un lugar que puedas ver dentro del alcance y permanece durante el conjuro. Parece completamente real, incluidos los sonidos, olores y temperatura apropiados para lo representado. No puedes generar suficiente calor o frío para causar daño, un sonido tan fuerte que cause daño de trueno o ensordezca a una criatura, ni un olor que pueda enfermarla, como el hedor de un troglodita.</p><p>Mientras estés dentro del alcance de la ilusión, puedes usar tu acción para mover la imagen a otro lugar dentro del alcance. Al cambiarla de lugar, puedes alterar su aspecto para que sus movimientos parezcan naturales. Por ejemplo, si creas la imagen de una criatura y la mueves, puedes hacer que parezca que camina. También puedes hacer que la ilusión produzca sonidos diferentes en distintos momentos, incluso mantener una conversación.</p><p>La interacción física revela que es una ilusión, porque las cosas pueden atravesarla. Una criatura que use su acción para examinar la imagen puede descubrir que es una ilusión si supera una prueba de Inteligencia (Investigación) contra tu CD de salvación de conjuros. Si reconoce la ilusión como tal, puede ver a través de la imagen y sus demás cualidades sensoriales se vuelven tenues para ella.</p><p><strong>A niveles superiores.</strong> Si lanzas este conjuro usando un espacio de nivel 6 o superior, dura hasta que se disipe, sin requerir concentración.</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             },
             "5OYu5yN0H4bww6TG": {
-              "name": "Miedo",
-              "description": "<p>Proyectas una imagen fantasmal de los peores miedos de una criatura. Cada criatura en un cono de 30 pies debe tener éxito en un lanzamiento de ahorro de sabiduría o dejar lo que sea que está sosteniendo y convertirse en &amp;Reference[Frightened] durante la duración.</p><p>Mientras Asustada por este conjuro, una criatura debe tomar la acción Dash y alejarse de ti por la ruta más segura disponible en cada uno de sus giros, a menos que no haya ningún lugar para moverse. Si la criatura termina su turno en un lugar donde no tiene línea de visión para usted, la criatura puede hacer un lanzamiento de ahorro de sabiduría. En una salvada exitosa, el conjuro termina para esa criatura.</p>",
+              "name": "Terror",
+              "description": "<p>Proyectas una imagen fantasmal de los peores miedos de una criatura. Cada criatura en un cono de 30 pies debe superar una tirada de salvación de Sabiduría o soltar lo que sostenga y quedar &amp;Reference[Frightened]{asustada} durante el conjuro.</p><p>Mientras esté asustada por este conjuro, debe realizar la acción de Correr y alejarse de ti por la ruta más segura disponible en cada uno de sus turnos, salvo que no tenga adónde moverse. Si termina su turno en un lugar desde el que no tenga línea de visión hacia ti, puede realizar una tirada de salvación de Sabiduría. Si tiene éxito, el conjuro termina para ella.</p>",
               "effects": {
                 "4QpReACTSQTg2KTw": {
-                  "name": "Miedo",
-                  "description": "<p>El objetivo cae lo que sea que está sosteniendo y se asusta por la duración. Mientras que asustado por este conjuro, una criatura debe tomar la acción Dash y alejarse del lanzador por la ruta más segura disponible en cada uno de sus giros, a menos que no haya ningún lugar para moverse.</p>"
+                  "name": "Terror",
+                  "description": "<p>El objetivo suelta lo que sostenga y queda asustado durante el conjuro. Mientras esté asustado de este modo, debe realizar la acción de Correr y alejarse del lanzador por la ruta más segura disponible en cada uno de sus turnos, salvo que no tenga adónde moverse.</p>"
                 },
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             },
             "tRfmp2BsRLMXunAJ": {
               "name": "Bola de fuego",
-              "description": "<p>Una racha brillante parpadea desde tu dedo apuntando a un punto que eliges dentro del rango y luego florece con un rugido bajo en una explosión de llama. Cada criatura en una esfera de 20 pies de radio centrada en ese punto debe hacer un lanzamiento de ahorro de Dexterity. Un objetivo tiene 8d6 daños por incendio en un error de guardar, o la mitad de daño en un éxito.</p><p>El fuego se extiende por las esquinas. Enciende objetos inflamables en el área que no se llevan ni llevan.</p><p><strong>Niveles superiores.</strong> Cuando se lanza este conjuro usando una espacio de conjuro de 4o nivel o superior, el daño aumenta en 1d6 para cada nivel de ranura por encima de 3o.</p>",
+              "description": "<p>Un destello brillante sale de tu dedo extendido hacia un punto que elijas dentro del alcance y estalla con un rugido sordo en una explosión de llamas. Cada criatura en una esfera de 20 pies de radio centrada en ese punto debe realizar una tirada de salvación de Destreza. Un objetivo sufre 8d6 de daño de fuego si falla, o la mitad si tiene éxito.</p><p>El fuego se propaga por las esquinas y prende los objetos inflamables del área que nadie lleve puestos ni transporte.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro usando un espacio de nivel 4 o superior, el daño aumenta en 1d6 por cada nivel del espacio por encima de 3.</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             },
             "Pvtz3MFlVlg8wBCq": {
-              "name": "Lenguas",
-              "description": "<p>Este conjuro le otorga a la criatura que toca la capacidad de entender cualquier idioma hablado que oiga. Además, cuando el objetivo habla, cualquier criatura que conoce al menos un idioma y puede escuchar el objetivo entiende lo que dice.</p>",
+              "name": "Don de lenguas",
+              "description": "<p>Este conjuro otorga a la criatura que toques la capacidad de entender cualquier idioma hablado que oiga. Además, cuando el objetivo habla, cualquier criatura que conozca al menos un idioma y pueda oírlo entiende lo que dice.</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             },
             "GRsvTERQt4XmcqPJ": {
-              "name": "Cambio de plano",
-              "description": "<p>Tú y hasta ocho criaturas dispuestas que unen las manos en un círculo son transportadas a un plano diferente de la existencia. Puede especificar un destino objetivo en términos generales, como la Ciudad de Brass en el plano de Fuego Elemental o el palacio de Dispater en el segundo nivel de los Nueve Infiernos, y aparece en o cerca de ese destino. Si usted está tratando de llegar a la ciudad de Brass, por ejemplo, usted puede llegar en su calle de acero, antes de su Puerta de Cenizas, o mirando a la ciudad del otro lado del mar de fuego, a discreción del DM.</p><p>Alternativamente, si conoces la secuencia sigil de un círculo de teletransportación en otro plano de existencia, este conjuro puede llevarte a ese círculo. Si el círculo de teletransportación es demasiado pequeño para contener a todas las criaturas que transportaste, aparecen en los espacios desocupados más cercanos al círculo.</p><p>Puedes usar este conjuro para desterrar a una criatura no dispuesta a otro plano. Elige una criatura a tu alcance y haz un ataque de conjuros contra ella. En un golpe, la criatura debe hacer un lanzamiento de ahorro Carisma. Si la criatura falla este salvo, es transportada a una ubicación aleatoria en el plano de existencia que usted especifica. Una criatura tan transportada debe encontrar su propio camino de regreso a su actual plano de existencia.</p>",
+              "name": "Desplazamiento entre planos",
+              "description": "<p>Tú y hasta ocho criaturas voluntarias que os cojáis de las manos formando un círculo sois transportados a otro plano de existencia. Puedes indicar un destino en términos generales, como la Ciudad de Oropel en el Plano Elemental del Fuego o el palacio de Dispater en el segundo nivel de los Nueve Infiernos, y aparecéis en ese lugar o cerca de él. Si intentas llegar a la Ciudad de Oropel, por ejemplo, podríais aparecer en su Calle de Acero, ante su Puerta de las Cenizas o contemplándola desde el otro lado del Mar de Fuego, a discreción del DM.</p><p>Si conoces la secuencia de sellos de un círculo de teletransportación de otro plano, el conjuro puede llevaros hasta él. Si el círculo es demasiado pequeño para todas las criaturas transportadas, aparecen en los espacios desocupados más cercanos a él.</p><p>Puedes usar este conjuro para desterrar a una criatura no voluntaria a otro plano. Elige a una criatura a tu alcance y realiza un ataque de conjuro cuerpo a cuerpo contra ella. Si impactas, debe realizar una tirada de salvación de Carisma. Si falla, es transportada a un lugar aleatorio del plano de existencia que indiques. Tendrá que encontrar por sus propios medios el modo de volver a tu plano actual.</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             }
           },
-          "name": "Slaad gris (variante de gema de control)",
-          "creatureSubtype": "Cambio de forma",
+          "name": "Slaad gris (variante con gema de control)",
+          "creatureSubtype": "Cambiaformas",
           "languages": "Slaad",
           "tokenName": "Slaad gris"
         },
