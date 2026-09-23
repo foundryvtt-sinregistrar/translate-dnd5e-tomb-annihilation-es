@@ -1021,14 +1021,24 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   `#fabled-treasures` requieren la revisión técnica ya prevista.
 - Auditorías técnica y editorial sin errores.
 
+### ch5-level4-mirror-01 — Espejo atrapavidas
+
+- Revisado texto, tabla de doce celdas y título con referencia física 164.
+- Conservadas las tres celdas vacías, la liberación aleatoria al llenarse y
+  las reacciones simultáneas al destruir el espejo.
+- Khomara y Blackfire coinciden con el grimorio descrito en la oficina de Mustio.
+  Corregido NM para Tlad y aclarado que Zaal obedece a Lukanu.
+- Los enlaces del apéndice D de gárgola y campeona repiten el destino genérico
+  ya anotado. Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 564 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 565 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4 y ochenta y cinco del capítulo 5. No equivale a 564 páginas del PDF.
-- 1238 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1238 campos distintos.
+  del capítulo 4 y ochenta y seis del capítulo 5. No equivale a 565 páginas del PDF.
+- 1240 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1240 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
