@@ -1747,18 +1747,30 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Revisados los límites de maniobra y regeneración de la mole, y el daño de
   Rodar Devastador solo al entrar por primera vez en un espacio en cada turno.
 
+### appendix-d-mantrap-ptera-su — Atrapahombres, hombre pterodáctilo y sucarate
+
+- Revisados 98 campos de ambas copias de tres actores y sus páginas.
+  Referencias físicas 213, 224 y 233. Incluye biografías, ataques y efectos.
+- Conservados el daño de la atrapahombres al comenzar el turno de la víctima,
+  la restricción a una sola presa y el movimiento forzoso causado por su polen.
+- Conservados las cuatro extremidades libres para el ataque del sucarate y
+  el miedo del picado hasta el final del siguiente turno del objetivo.
+- El ataque múltiple del hombre pterodáctilo indica jabalinas cuerpo a cuerpo
+  en el exportado y a distancia en el PDF. Se registra la diferencia, conservando
+  el exportado. Los enlaces por nombre de las armas siguen pendientes.
+
 ## Balance de revisión editorial
 
-- 785 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 788 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 180 de los apéndices A, B, C, D y F.
-  No equivale a 785 páginas del PDF.
-- 3853 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 3853 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 183 de los apéndices A, B, C, D y F.
+  No equivale a 788 páginas del PDF.
+- 3951 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 3951 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas treinta y cinco biografías en ambas copias de actores: siete
-  príncipes y veintiocho criaturas o PNJ del apéndice D. Siguen pendientes las demás
+  insertado. Revisadas treinta y ocho biografías en ambas copias de actores: siete
+  príncipes y treinta y una criaturas o PNJ del apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las

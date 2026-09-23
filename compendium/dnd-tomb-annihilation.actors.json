@@ -2048,30 +2048,30 @@
       "alignment": "Sin alineamiento",
       "languages": "—",
       "tokenName": "Atrapahombres",
-      "biography": "<p>Un mantrap es una planta carnívora gigante que se asemeja a un flytrap de gran tamaño. Para atraer presas, la trampa libera un polen que mágicamente atrae criaturas a él. Aunque romperá sus frondosas mandíbulas cerradas alrededor de cualquier criatura de sangre caliente que se extravía a su alcance, prefiere la presa humanoides.</p>",
+      "biography": "<p>Una atrapahombres es una planta carnívora gigante parecida a una atrapamoscas descomunal. Libera un polen que atrae mágicamente a las criaturas hacia ella. Aunque cierra sus mandíbulas de hojas sobre cualquier criatura de sangre caliente que se ponga a su alcance, prefiere las presas humanoides.</p>",
       "items": {
         "RCwpjiiYfAn7DxbU": {
-          "name": "Engullir",
-          "description": "<p><em>Ataque de arma de cuerpo entero:</em> [[/attack]], alcanzar 5 pies, una criatura mediana o más pequeña. <em>Impacto</em>: El objetivo está atrapado dentro de las mandíbulas frondosas del mantrap.</p><p>Mientras que atrapado de esta manera, el objetivo es &amp;Reference[Blinded apply=false]{cegado} y &amp;Reference[Restrained apply=false]{restringidos}, tiene cobertura total de ataques y otros efectos fuera de la trampa, y toma [[/damage average]] daños al inicio de cada uno de los giros del objetivo. Si el mantrap muere, la criatura que está dentro ya no está sujetada por él.</p><p>Una trampa puede envolver sólo a una criatura a la vez.</p>",
+          "name": "Absorber",
+          "description": "<p><em>Ataque con arma cuerpo a cuerpo:</em> [[/attack]], alcance 5 pies, una criatura Mediana o más pequeña. <em>Impacto</em>: El objetivo queda atrapado dentro de las mandíbulas de hojas de la atrapahombres.</p><p>Mientras permanece atrapado de este modo, está &amp;Reference[Blinded apply=false]{cegado} y &amp;Reference[Restrained apply=false]{apresado}, tiene cobertura total contra ataques y otros efectos que se originen fuera de la atrapahombres y sufre [[/damage average]] de daño al comienzo de cada uno de sus turnos. Si la atrapahombres muere, la criatura de su interior deja de estar apresada por ella.</p><p>Una atrapahombres solo puede engullir a una criatura a la vez.</p>",
           "activities": {
             "vQsptKRzH4B502U0": {
-              "name": "Daños: Inicio de la vuelta"
+              "name": "Daño: comienzo del turno"
             }
           },
           "effects": {
             "rSVLIG4tKacmFv18": {
-              "name": "Cegado y restringido",
-              "description": "<p>Mientras que el objetivo está atrapado dentro de las mandíbulas frondosas del mantrap, el objetivo es &amp;Reference[Blinded apply=false]{cegado} y &amp;Reference[Restrained apply=false]{restringidos}, tiene cobertura total de ataques y otros efectos fuera de la trampa, y recibe daños al inicio de cada uno de los giros del objetivo.</p>"
+              "name": "Cegado y apresado",
+              "description": "<p>Mientras el objetivo permanece atrapado dentro de las mandíbulas de hojas de la atrapahombres, está &amp;Reference[Blinded apply=false]{cegado} y &amp;Reference[Restrained apply=false]{apresado}, tiene cobertura total contra ataques y otros efectos que se originen fuera de la atrapahombres y sufre daño al comienzo de cada uno de sus turnos.</p>"
             }
           }
         },
         "97PAUqWox37PQPs6": {
-          "name": "Atractivo polen",
-          "description": "<p>Cuando la trampa detecta criaturas cercanas, libera polen a un radio de 30 pies. Cualquier bestia o humanoide dentro de la zona debe tener éxito en un [[/save format=long]] o ser forzado a usar todo su movimiento en sus turnos para acercarse lo más posible a la trampa. Un objetivo afectado puede repetir el lanzamiento de ahorro al final de cada uno de sus turnos, terminando con el efecto en sí mismo en un éxito.</p>"
+          "name": "Polen atrayente",
+          "description": "<p>Cuando la atrapahombres detecta criaturas cerca, libera polen en un radio de 30 pies. Cada bestia o humanoide en el área debe superar una [[/save format=long]] o verse obligado a usar todo su movimiento en sus turnos para acercarse a la atrapahombres tanto como pueda. Un objetivo afectado puede repetir la tirada de salvación al final de cada uno de sus turnos y librarse del efecto si tiene éxito.</p>"
         },
         "UNGLY2MhDLW1rkT3": {
-          "name": "Apariencia falsa",
-          "description": "<p>Mientras que la trampa permanece inmóvil, es indistinguible de una planta tropical ordinaria.</p>"
+          "name": "Apariencia Falsa",
+          "description": "<p>Mientras permanece inmóvil, la atrapahombres es indistinguible de una planta tropical corriente.</p>"
         }
       }
     },
@@ -3430,7 +3430,7 @@
       "items": {
         "PaWJOGaEb510G1rP": {
           "name": "Ataque múltiple",
-          "description": "<p>El monstruo hace dos ataques: uno con su [[/item Bite]] y uno con su [[/item Claws]].</p>"
+          "description": "<p>El sucarate realiza dos ataques: uno con su [[/item Bite]]{Mordisco} y otro con sus [[/item Claws]]{Garras}.</p>"
         },
         "Sc4gJ9H79lkAjQ6o": {
           "name": "Mordisco",
@@ -3438,27 +3438,27 @@
         },
         "iBMqyTLQ96CGnLIy": {
           "name": "Garras",
-          "description": "<p>[[/attack extended]]. [[/damage extended average]]o bien [[/damage average activity=yYbc38KYisJ2OkHf]] Golpeando el daño si el su-monstruo está colgando de su cola y los cuatro miembros están libres.</p>",
+          "description": "<p>[[/attack extended]]. [[/damage extended average]], o [[/damage average activity=yYbc38KYisJ2OkHf]] de daño cortante si el sucarate cuelga de su cola y tiene las cuatro extremidades libres.</p>",
           "activities": {
             "yYbc38KYisJ2OkHf": {
-              "name": "Ataque: Colgar hacia abajo"
+              "name": "Ataque: colgado boca abajo"
             }
           }
         },
         "eGmjUR1gPVWbXKwj": {
           "name": "Aplastamiento psíquico",
-          "description": "<p>El monstruo apunta a una criatura que puede ver a menos de 30 pies de distancia. El objetivo debe tener éxito en un [[/save format=long]] o tomar [[/damage average]] daños y ser &amp;Reference[stunned apply=false]{aturdido} durante 1 minuto. El objetivo aturdido puede repetir el lanzamiento de ahorro al final de cada uno de sus turnos, terminando el efecto en sí mismo en un éxito.</p>",
+          "description": "<p>El sucarate elige como objetivo a una criatura que pueda ver a 30 pies o menos de él. El objetivo debe superar una [[/save format=long]] o sufrir [[/damage average]] de daño y quedar &amp;Reference[stunned apply=false]{aturdido} durante 1 minuto. El objetivo aturdido puede repetir la tirada de salvación al final de cada uno de sus turnos y librarse del efecto si tiene éxito.</p>",
           "effects": {
             "3uN9DpqtUH1hAGHr": {
               "name": "Aturdido",
-              "description": "<p>El objetivo es &amp;Reference[stunned apply=false]{aturdido} durante 1 minuto.</p>"
+              "description": "<p>El objetivo está &amp;Reference[stunned apply=false]{aturdido} durante 1 minuto.</p>"
             }
           }
         }
       },
-      "name": "Su-monstruo",
-      "tokenName": "Su-monstruo",
-      "biography": "<p>Los Su-monstruos son primates astutos y malvados que habitan áreas y cuevas abandonadas. Los adultos miden 5 pies y tienen colas prensil largas. Aunque pueden agarrar herramientas y armas con sus colas o patas con garras, los su-monstruos prefieren romper presas con sus garras. Los adultos su-monstruos también pueden proyectar explosiones de energía psionic que dejan aturdidos a los enemigos e incapaces de huir o defenderse.</p><p>Un su-monstruo duerme mientras cuelga boca abajo por su cola. Mientras está despierto, también puede desencadenar un ataque devastador desde esa posición, rasgando con las cuatro garras.</p><p>Los su-monstruos se comunican silenciosamente usando sus colas prensil para hacer gestos. Por lo general matan más de lo que pueden comer, enterrando las sobras y marcando su ubicación con las posesiones de la víctima.</p>"
+      "name": "Sucarate",
+      "tokenName": "Sucarate",
+      "biography": "<p>Los sucarates son primates astutos y malvados que habitan parajes salvajes y cuevas abandonadas. Los adultos miden 5 pies de altura y tienen largas colas prensiles. Aunque pueden sujetar herramientas y armas con la cola o los pies provistos de garras, prefieren desgarrar a sus presas con estas últimas. Los adultos también pueden proyectar descargas de energía psiónica que aturden a sus enemigos y les impiden huir o defenderse.</p><p>Un sucarate duerme colgado boca abajo de la cola. Mientras está despierto, también puede lanzar un ataque devastador desde esa posición y desgarrar con las garras de sus cuatro extremidades.</p><p>Los sucarates se comunican en silencio mediante gestos de sus colas prensiles. Suelen matar más de lo que pueden comer, enterrar los restos y señalar el lugar con las pertenencias de las víctimas.</p>"
     },
     "SzA1n4qtgfbFyHRr": {
       "alignment": "Sin alineamiento",
@@ -4174,7 +4174,7 @@
       "items": {
         "3mwnwg5CfZSoHGln": {
           "name": "Ataque múltiple",
-          "description": "<p>El pterafolk hace tres ataques: uno con su [[/item Bite]] y dos con su [[/item Claw]]. Alternativamente, hace dos ataques cuerpo a cuerpo con su [[/item Javelin]].</p>"
+          "description": "<p>El hombre pterodáctilo realiza tres ataques: uno con su [[/item Bite]]{Mordisco} y dos con su [[/item Claw]]{Garra}. Como alternativa, realiza dos ataques cuerpo a cuerpo con su [[/item Javelin]]{Jabalina}.</p>"
         },
         "QDQBbBT7nyF7YlrK": {
           "name": "Mordisco",
@@ -4189,19 +4189,19 @@
           "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>"
         },
         "HHDFY7CvmnVy2AeU": {
-          "name": "Buceo de terror",
-          "description": "<p>Si el pterafolk está volando y se zambulle al menos 30 pies derecho hacia un objetivo, y luego golpea ese objetivo con un ataque de arma cuerpo a cuerpo, el objetivo es &amp;Reference[Frightened apply=false]{asustado.} hasta el final de su siguiente turno.</p>",
+          "name": "Picado del Terror",
+          "description": "<p>Si el hombre pterodáctilo está volando, se lanza en picado al menos 30 pies en línea recta hacia un objetivo y después lo impacta con un ataque con arma cuerpo a cuerpo, el objetivo queda &amp;Reference[Frightened apply=false]{asustado} hasta el final de su siguiente turno.</p>",
           "effects": {
             "cGdA4mrE1CzK0F7a": {
               "name": "Asustado",
-              "description": "<p>El objetivo es &amp;Reference[Frightened apply=false]{asustado.} hasta el final de su siguiente turno.</p>"
+              "description": "<p>El objetivo está &amp;Reference[Frightened apply=false]{asustado} hasta el final de su siguiente turno.</p>"
             }
           }
         }
       },
       "name": "Hombre pterodáctilo",
       "tokenName": "Hombre pterodáctilo",
-      "biography": "<p>Pterafolk (pronunciado TAIR-eh-folk) son bípedos de 10 pies de altura, alados y reptilianos nativos de Chul. Aislacionistas malévolos, consideran a la mayoría de las otras criaturas como sus enemigos. En la cultura chultana, los pterafolk son a menudo conocidos como “gente terrorista” por su hábito de descender del cielo para arrebatar lo que sea y quien sea que puedan, y luego transportar tesoros y comida de vuelta a sus gallineros.</p><p>Pterafolk tiene envergaduras de 20 pies y da a luz a los jóvenes vivos. Los rituales antiguos una vez otorgados a pterafolk la capacidad de asumir las formas de pteranodons y lagartijas sin alas, pero esos rituales han sido olvidados durante mucho tiempo.</p>"
+      "biography": "<p>Los hombres pterodáctilo (pterafolk en inglés, pronunciado [tére-folk]) son reptiles bípedos alados de 10 pies de altura, nativos de Chult. Malévolos y aislacionistas, consideran enemigas a la mayoría de las demás criaturas. En la cultura chultana se los conoce a menudo como «terroráctilos» por su costumbre de lanzarse en picado desde el cielo para llevarse cuanto y a cuantos pueden, y regresar a sus nidos con tesoros y comida.</p><p>Sus alas tienen una envergadura de 20 pies y dan a luz a crías vivas. Antiguos rituales les otorgaban la capacidad de adoptar la forma de pteranodones y hombres lagarto sin alas, pero esos rituales se olvidaron hace mucho.</p>"
     },
     "aGsedxuRgn7dsQOV": {
       "alignment": "Sin alineamiento",
