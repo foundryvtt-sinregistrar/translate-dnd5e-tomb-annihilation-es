@@ -1105,14 +1105,27 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   al apéndice D repite el destino genérico del grung ya anotado.
 - Auditorías técnica y editorial sin errores.
 
+### ch5-level5-lake-01 a ch5-level5-lake-02 — Lago y puerta de la voracidad
+
+- Revisados dos textos y títulos con referencias físicas 175-176.
+- El aboleth ignora los botes independientemente de su personalidad, no de
+  cualquier conducta del grupo; carece de acciones en guarida.
+- Adaptada la pista inglesa «light» como «que brille»: «ligero» en el PDF
+  pierde la referencia a la fosforescencia necesaria para resolver la puerta.
+- Diferenciadas la apertura desde cada lado, la supresión temporal de la boca
+  y la deglución automática. La jaula permite respirar y ofrece cobertura.
+- La linterna del Depredador es de ojo de buey según el original y el objeto
+  enlazado, no sorda como figura en el PDF.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 587 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 589 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4 y 108 del capítulo 5. No equivale a 587 páginas del PDF.
-- 1284 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1284 campos distintos.
+  del capítulo 4 y 110 del capítulo 5. No equivale a 589 páginas del PDF.
+- 1288 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1288 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
