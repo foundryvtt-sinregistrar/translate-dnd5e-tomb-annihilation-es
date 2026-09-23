@@ -2014,18 +2014,32 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - El enlace por nombre `Scimitar` de Pillapincha queda pendiente de
   revisión funcional. Se mantienen las variantes de HTML de cada copia.
 
+### appendix-d-fenthaza-hew — Fenthaza y Hew Hackinstone
+
+- Revisados 150 campos entre páginas y ambas copias de las fichas.
+  Referencias físicas 239–240 y 36; textos completos de conjuros y otros
+  detalles del perfil contrastados con el exportado inglés.
+- La biografía de Fenthaza solo contiene la descripción genérica de las
+  cuentapesadillas. Su historia personal permanece en el capítulo 4.
+  Reparada la misma omisión de «impacta» en Colmillos de la Muerte.
+- Conservada la limitación de Hew a empuñar el hacha con una sola mano.
+  Su biografía de Adventure inserta el diario del capítulo 1 ya revisado.
+- Los enlaces de Fenthaza por nombre `Constrict` y `Scimitar` siguen
+  pendientes de revisión funcional. El documento de Hew conserva el número
+  5 del exportado, frente al 6 de la edición española impresa.
+
 ## Balance de revisión editorial
 
-- 817 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 819 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 212 de los apéndices A, B, C, D y F.
-  No equivale a 817 páginas del PDF.
-- 6195 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 6195 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 214 de los apéndices A, B, C, D y F.
+  No equivale a 819 páginas del PDF.
+- 6345 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 6345 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas setenta biografías en ambas copias de actores: siete
-  príncipes y sesenta y tres criaturas o PNJ del apéndice D. Siguen pendientes las demás
+  insertado. Revisadas setenta y dos biografías en ambas copias de actores: siete
+  príncipes y sesenta y cinco criaturas o PNJ del apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las
