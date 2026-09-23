@@ -2758,6 +2758,15 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   menciona conjuros adicionales por edad y color; conservada esa lista sin
   inventar conjuros ausentes. Pendiente de comprobar el perfil funcional.
 
+### additional-drow-mage — Mago drow
+
+- Revisados 90 registros en ambas copias, incluidos los textos de los conjuros,
+  contra el exportado inglés. Corregido el género del mensaje de lanzamiento,
+  que heredaba «maga» de otro personaje.
+- El original usa la ficha de mago genérico: subtipo «cualquier raza», cuatro
+  idiomas cualesquiera y sin rasgos drow en sus objetos. Se conservan estos
+  datos y se registra la discrepancia para la revisión funcional del perfil.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2767,8 +2776,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
   de Foundry, tres de créditos y cuatro de historial.
   No equivale a 931 páginas del PDF.
-- 16577 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 16577 campos distintos.
+- 16667 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 16667 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento cuarenta y dos biografías en ambas copias de actores: siete
   príncipes, ciento veintisiete criaturas o PNJ vinculados al apéndice D y ocho perfiles
