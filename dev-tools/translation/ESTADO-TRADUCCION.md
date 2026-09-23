@@ -2783,6 +2783,15 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - La revisión comprende el actor invocado, no acredita la corrección del
   objeto o conjuro que lo invoca ni modifica sus actividades mecánicas.
 
+### final-water — G’lyh’rul y Ojo de las Profundidades
+
+- Revisados 148 registros en ambas copias contra el exportado inglés,
+  incluidos los conjuros. Comprobadas las fases de enfermedad del aboleth,
+  la respiración acuática y las salvaciones adicionales de Esclavizar.
+- Ojo de las Profundidades usa un perfil de druida humano calishita en el
+  original. Además, su lista enlaza Garrote con `VzgFzcmocr1X1cp4`, mientras
+  el objeto presente tiene ID `udSiVp4nSrGBSvG1`. Pendiente de revisión funcional.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2792,8 +2801,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
   de Foundry, tres de créditos y cuatro de historial.
   No equivale a 931 páginas del PDF.
-- 16797 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 16797 campos distintos.
+- 16945 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 16945 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento cuarenta y dos biografías en ambas copias de actores: siete
   príncipes, ciento veintisiete criaturas o PNJ vinculados al apéndice D y ocho perfiles

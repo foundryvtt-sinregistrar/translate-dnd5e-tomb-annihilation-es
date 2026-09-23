@@ -1713,81 +1713,81 @@
         "FwOZEwx7MPDq8Igu": {
           "name": "Cola",
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-          "descriptionChat": "<p>El Abolet ataca con su cola.</p>"
+          "descriptionChat": "<p>El aboleth ataca con su cola.</p>"
         },
         "5zfFkWqOMddCmxiR": {
           "name": "Ataque múltiple",
-          "description": "<p>El aboleto hace tres [[/item .sgauK8Lyt8qxsxOH]]{tentáculo} ataques.</p>"
+          "description": "<p>El aboleth realiza tres ataques de [[/item .sgauK8Lyt8qxsxOH]]{tentáculo}.</p>"
         },
         "SHlQeobxHZU6iQ24": {
           "description": "<p>[[lookup @resources.legact.label]]</p>",
           "name": "Acciones legendarias",
-          "descriptionChat": "<p>El aboleth puede tomar 3 acciones legendarias.</p>"
+          "descriptionChat": "<p>El aboleth puede realizar 3 acciones legendarias.</p>"
         },
         "Wpa7li8EJJJ7W3kA": {
           "name": "Esclavizar",
-          "description": "<p>El aboleto apunta a una criatura que puede ver a menos de 30 pies de distancia. El objetivo debe tener éxito en un [[/save format=long]] o ser mágicamente &amp;Reference[charmed]{encanto} por el aboléth hasta que el aboléth muere o hasta que está en un plano diferente de la existencia del blanco.</p><p>El objetivo encantado está bajo el control del aboleth y no puede tomar reacciones, y el aboleth y el objetivo pueden comunicarse telepáticamente entre sí a cualquier distancia.Siempre que el objetivo encantado recibe daños, el objetivo puede repetir el lanzamiento de ahorro. En un éxito, el efecto termina. No más de una vez cada 24 horas, el objetivo también puede repetir el lanzamiento de ahorro cuando está al menos a 1 milla de distancia de la aboleth.</p>",
-          "descriptionChat": "<p>El objetivo debe hacer un <strong>Sabiduría</strong> El lanzamiento de ahorro. Siempre que el objetivo recibe daños, el objetivo puede repetir el lanzamiento de ahorro. No más de una vez cada 24 horas, el objetivo también puede repetir el lanzamiento de ahorro cuando está al menos a 1 milla de distancia de la aboleth.</p>",
+          "description": "<p>El aboleth elige como objetivo a una criatura que pueda ver a 30 pies o menos. El objetivo debe superar una [[/save format=long]] o quedar mágicamente &amp;Reference[charmed]{hechizado} por el aboleth hasta que este muera o se encuentre en un plano de existencia distinto al del objetivo.</p><p>El objetivo hechizado está bajo el control del aboleth y no puede realizar reacciones. Ambos pueden comunicarse telepáticamente entre sí a cualquier distancia. Siempre que el objetivo hechizado sufra daño, puede repetir la salvación. Si tiene éxito, el efecto termina. Como máximo una vez cada 24 horas, el objetivo también puede repetir la salvación cuando esté al menos a 1 milla del aboleth.</p>",
+          "descriptionChat": "<p>El objetivo debe realizar una tirada de salvación de <strong>Sabiduría</strong>. Siempre que sufra daño, puede repetirla. Como máximo una vez cada 24 horas, también puede repetirla cuando esté al menos a 1 milla del aboleth.</p>",
           "effects": {
             "uHuNqQXFHIDVViEk": {
               "name": "Hechizado",
-              "description": "<p>El objetivo es mágico. &amp;Reference[charmed]{encanto} por el aboléth hasta que el aboléth muere o hasta que está en un plano diferente de la existencia del blanco.</p>"
+              "description": "<p>El objetivo está mágicamente &amp;Reference[charmed]{hechizado} por el aboleth hasta que este muera o se encuentre en un plano de existencia distinto al del objetivo.</p>"
             }
           }
         },
         "eK34LWjCZnoLqUbv": {
           "name": "Detectar",
-          "description": "<p>La aboledad hace un control de la Sabiduría (percepción).</p>",
+          "description": "<p>El aboleth realiza una prueba de Sabiduría (Percepción).</p>",
           "activities": {
             "dnd5eactivity000": {
               "description": {
-                "chatFlavor": "¡El abolet centra su mirada!"
+                "chatFlavor": "¡El aboleth fija la mirada!"
               }
             },
             "dnd5eactivity300": {
               "description": {
-                "chatFlavor": "¡El abolet centra su mirada!"
+                "chatFlavor": "¡El aboleth fija la mirada!"
               }
             }
           }
         },
         "nb2rVHLawik6EjMJ": {
           "name": "Coletazo",
-          "description": "<p>La aboledad lo hace uno [[/item .FwOZEwx7MPDq8Igu]]{cola} ataque.</p>",
-          "descriptionChat": "<p>¡El aboneto desliza su cola contra su presa!</p>"
+          "description": "<p>El aboleth realiza un ataque de [[/item .FwOZEwx7MPDq8Igu]]{cola}.</p>",
+          "descriptionChat": "<p>¡El aboleth golpea a su presa con la cola!</p>"
         },
         "SCTJPlV2KrhVflgI": {
-          "name": "Drenaje psíquico",
-          "description": "<p>Una criatura encantada por el abolet toma [[/damage average]] daño, y el abolet recupera puntos de impacto igual al daño que la criatura toma.</p>"
+          "name": "Drenaje Psíquico",
+          "description": "<p>Una criatura hechizada por el aboleth sufre [[/damage average]] de daño y el aboleth recupera tantos puntos de golpe como el daño que sufra la criatura.</p>"
         },
         "dZWUNgKiLNxVg983": {
-          "name": "Nube de Mucous",
-          "description": "<p>Mientras está bajo el agua, el aboleth está rodeado de moco transformador. Una criatura que toca el aboleth o que lo golpea con un ataque cuerpo a cuerpo mientras que dentro de 5 pies de ella debe hacer un [[/save format=long]]. En un fracaso, la criatura está enferma por [[/r 1d4]] horas. La criatura enferma sólo puede respirar bajo el agua.</p>",
-          "descriptionChat": "<p>Mientras está bajo el agua, el aboleth está rodeado de moco transformador. Una criatura que toca el aboleth o que lo golpea con un ataque cuerpo a cuerpo mientras está dentro <strong>5 pies.</strong> de ella debe hacer un <strong>Constitución</strong> El lanzamiento de ahorro.</p>"
+          "name": "Nube Mucosa",
+          "description": "<p>Bajo el agua, el aboleth está rodeado de una mucosidad transformadora. Una criatura que lo toque o lo impacte con un ataque cuerpo a cuerpo estando a 5 pies o menos debe realizar una [[/save format=long]]. Si falla, enferma durante [[/r 1d4]] horas. La criatura enferma solo puede respirar bajo el agua.</p>",
+          "descriptionChat": "<p>Bajo el agua, el aboleth está rodeado de una mucosidad transformadora. Una criatura que lo toque o lo impacte con un ataque cuerpo a cuerpo estando a <strong>5 pies</strong> o menos debe realizar una tirada de salvación de <strong>Constitución</strong>.</p>"
         },
         "R5sQYgehDyPiDyyE": {
-          "name": "Telepatía inquisitiva",
-          "description": "<p>Si una criatura se comunica telepáticamente con la abolenta, la abolenta aprende los mayores deseos de la criatura si la abolenta puede ver a la criatura.</p>"
+          "name": "Telepatía Indagadora",
+          "description": "<p>Si una criatura se comunica telepáticamente con el aboleth y este puede verla, el aboleth descubre sus mayores deseos.</p>"
         },
         "sgauK8Lyt8qxsxOH": {
           "name": "Tentáculo",
-          "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>Si el objetivo es una criatura, debe tener éxito en un [[/save format=long]] o convertirse en &amp;Reference[diseased apply=false]{enfermos}. La enfermedad no tiene efecto durante 1 minuto y puede ser removida por cualquier magia que cura la enfermedad. </p><p>Después de 1 minuto, la piel de la criatura enferma se vuelve translúcida y viscosa, la criatura no puede recuperar puntos de impacto a menos que esté bajo el agua, y la enfermedad sólo puede ser eliminada por sanar u otro conjuro de curación de enfermedad de 6o nivel o superior. </p><p>Cuando la criatura está fuera de un cuerpo de agua, se necesita [[/damage average activity=dnd5eactivity100]] daño cada 10 minutos a menos que la humedad se aplique a la piel antes de que hayan pasado 10 minutos.</p>",
-          "descriptionChat": "<p>El Abolet ataca con su Tentaculo. Si el objetivo es una criatura, debe hacer un <strong>Constitución</strong> El lanzamiento de ahorro.</p>",
+          "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>Si el objetivo es una criatura, debe superar una [[/save format=long]] o quedar &amp;Reference[diseased apply=false]{enfermo}. La enfermedad no tiene efecto durante 1 minuto y puede eliminarse con cualquier magia que cure enfermedades.</p><p>Al cabo de 1 minuto, la piel de la criatura enferma se vuelve translúcida y viscosa, no puede recuperar puntos de golpe salvo que esté bajo el agua y la enfermedad solo puede eliminarse mediante sanar u otro conjuro de nivel 6 o superior que cure enfermedades.</p><p>Cuando está fuera del agua, la criatura sufre [[/damage average activity=dnd5eactivity100]] de daño cada 10 minutos, salvo que se le humedezca la piel antes de que transcurran 10 minutos.</p>",
+          "descriptionChat": "<p>El aboleth ataca con su tentáculo. Si el objetivo es una criatura, debe realizar una tirada de salvación de <strong>Constitución</strong>.</p>",
           "effects": {
             "8Q8S4HYRBFL6FGNA": {
-              "name": "Enfermos"
+              "name": "Enfermo"
             }
           }
         },
         "fI8m07LnyCCdsSpn": {
           "name": "Anfibio",
-          "description": "<p>El aboleto puede respirar aire y agua.</p>"
+          "description": "<p>El aboleth puede respirar tanto aire como agua.</p>"
         }
       },
       "name": "G’lyh’rul",
-      "creatureSubtype": "abolet",
+      "creatureSubtype": "Aboleth",
       "tokenName": "G’lyh’rul",
-      "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+      "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
     },
     "DSvcyETFx627esZF": {
       "alignment": "Sin alineamiento",
@@ -1938,56 +1938,56 @@
       "alignment": "Neutral",
       "items": {
         "07sdy4qaaW4MaB8W": {
-          "name": "Lanzamiento de conjuros",
-          "description": "<p>El druida es un hechicero de 4o nivel. Su habilidad de conjuros es Sabiduría (salva CD 12, +4 para golpear con ataques de conjuros).</p><p>Tiene los siguientes conjuros druidas preparados:</p><p>Cantrips (a voluntad): [[/item .SbSvZKkJASyk8jKo]]{druidcraft}, [[/item .eCPQuQkIabFKTl9u]]{producir llama}, [[/item .VzgFzcmocr1X1cp4]]{shimelagh}</p><p>1er nivel (4 franjas horarias): [[/item .gMrWeG8fMDPRFiVe]]{entrelazar}, [[/item .B0pnIcc52O6G8hi8]]{Longstrider}, [[/item .aL1F8fvYLtNzUbKu]]{hablar con los animales}, [[/item .WTbOQBsarsL1LuXJ]]{truenos}</p><p>2o nivel (3 franjas horarias): [[/item .X8w9EzYLGc4vQ1H2]]{mensajero animal}, [[/item .JPwIEfgUPVebr5AH]]{piel de corteza}</p>",
-          "descriptionChat": "<p>El druida es un hechicero. Su habilidad de conjuro es la Sabiduría.</p>"
+          "name": "Lanzamiento de Conjuros",
+          "description": "<p>El druida es un lanzador de conjuros de nivel 4. Su aptitud mágica es Sabiduría (CD 12 para sus salvaciones de conjuros, +4 a impactar con ataques de conjuro).</p><p>Tiene preparados los siguientes conjuros de druida:</p><p>Trucos (a voluntad): [[/item .SbSvZKkJASyk8jKo]]{saber druídico}, [[/item .eCPQuQkIabFKTl9u]]{crear llama}, [[/item .VzgFzcmocr1X1cp4]]{garrote}</p><p>Nivel 1 (4 espacios): [[/item .gMrWeG8fMDPRFiVe]]{enmarañar}, [[/item .B0pnIcc52O6G8hi8]]{zancada prodigiosa}, [[/item .aL1F8fvYLtNzUbKu]]{hablar con los animales}, [[/item .WTbOQBsarsL1LuXJ]]{ola atronadora}</p><p>Nivel 2 (3 espacios): [[/item .X8w9EzYLGc4vQ1H2]]{mensajero animal}, [[/item .JPwIEfgUPVebr5AH]]{piel robliza}</p>",
+          "descriptionChat": "<p>El druida es un lanzador de conjuros cuya aptitud mágica es Sabiduría.</p>"
         },
         "KUP8WEfLxlcY7K2x": {
-          "name": "Personal de trimestre",
-          "description": "<p>[[/attack extended]]. [[/damage extended]] o [[/damage twoHanded]] si es empuñado con dos manos.</p><p>Con @UUID[.udSiVp4nSrGBSvG1]{shimelagh}, [[/attack extended activity=J8RgDbtkXvXUJDuD]]. [[/damage extended activity=J8RgDbtkXvXUJDuD]].</p>",
-          "descriptionChat": "<p>El druida ataca con su personal de cuarto.</p>",
+          "name": "Bastón",
+          "description": "<p>[[/attack extended]]. [[/damage extended]] o [[/damage twoHanded]] si se empuña a dos manos.</p><p>Con @UUID[.udSiVp4nSrGBSvG1]{garrote}, [[/attack extended activity=J8RgDbtkXvXUJDuD]]. [[/damage extended activity=J8RgDbtkXvXUJDuD]].</p>",
+          "descriptionChat": "<p>El druida ataca con su bastón.</p>",
           "activities": {
             "J8RgDbtkXvXUJDuD": {
-              "name": "Ataque de emisión de conjuros"
+              "name": "Ataque con aptitud mágica"
             }
           },
           "effects": {
             "siLjGctswI3gx3B2": {
-              "name": "Shillelagh"
+              "name": "Garrote"
             }
           }
         },
         "SbSvZKkJASyk8jKo": {
           "name": "Saber druídico",
-          "description": "<p>Susurrando a los espíritus de la Naturaleza, usted crea uno de los siguientes Efectos dentro del rango:</p>\n<ul>\n<li>Creas un pequeño e inofensivo efecto sensorial que predice cuál será el tiempo en tu ubicación durante las próximas 24 horas. El efecto podría manifestarse como un orbe dorado para cielos claros, una nube para lluvia, copos de nieve caídos para nieve, y así sucesivamente. Este efecto persiste durante 1 vuelta.</li>\n<li>Al instante haces florecer una flor, una vaina de semilla abierta, o un brote de hoja.</li>\n<li>Creas un efecto sensorial instantáneo e inofensivo, como hojas caídas, un soplo de viento, el sonido de un animal pequeño, o el débil olor de zorrillo. El efecto debe caber en un cubo de 5 pies.</li>\n<li>Al instante enciendes o apagas una Vela, una antorcha o una pequeña fogata.</li>\n</ul>"
+          "description": "<p>Susurras a los espíritus de la naturaleza y produces uno de los siguientes efectos dentro del alcance:</p>\n<ul>\n<li>Creas un efecto sensorial diminuto e inofensivo que predice el tiempo que hará donde te encuentras durante las próximas 24 horas. Puede manifestarse como un orbe dorado si el cielo estará despejado, una nube si lloverá, copos si nevará, etc. Este efecto dura 1 asalto.</li>\n<li>Haces que una flor o una vaina de semillas se abra, o que una yema de hoja brote instantáneamente.</li>\n<li>Creas un efecto sensorial instantáneo e inofensivo, como hojas que caen, una ráfaga de viento, el sonido de un animal pequeño o un leve olor a mofeta. El efecto debe caber en un cubo de 5 pies de lado.</li>\n<li>Enciendes o apagas instantáneamente una vela, una antorcha o una pequeña hoguera.</li>\n</ul>"
         },
         "eCPQuQkIabFKTl9u": {
-          "name": "Producir Llama",
-          "description": "<p>Una llama parpadeante aparece en tu mano. La llama permanece allí durante la Duración y no daña ni a usted ni a su Equipo. La llama arroja luz brillante en un radio de 10 pies y luz tenue por otros 10 pies. El conjuro termina si lo descartas como una acción o si lo lanzas de nuevo.</p><p>También puedes Atacar con la llama, aunque así termina el conjuro. Cuando lanzas este conjuro, o como una acción en un giro posterior, puedes lanzar la llama a una criatura a menos de 30 pies de ti. Hacer un conjuro de alcance Ataque. En un golpe, el objetivo recibe 1d8 daños por incendio.</p><p>El daño de este conjuro aumenta en 1d8 cuando alcanzas el 5o nivel (2d8), 11o nivel (3d8), y 17o nivel (4d8).</p>"
+          "name": "Crear llama",
+          "description": "<p>Una llama parpadeante aparece en tu mano. Permanece mientras dure el conjuro y no os daña ni a ti ni a tu equipo. Emite luz brillante en un radio de 10 pies y luz tenue otros 10 pies. El conjuro termina si lo disipas como acción o si vuelves a lanzarlo.</p><p>También puedes atacar con la llama, aunque hacerlo termina el conjuro. Cuando lo lanzas, o como acción en un turno posterior, puedes arrojar la llama a una criatura a 30 pies o menos de ti. Realiza un ataque de conjuro a distancia. Si impactas, el objetivo sufre 1d8 de daño de fuego.</p><p>El daño del conjuro aumenta en 1d8 cuando alcanzas el nivel 5 (2d8), el nivel 11 (3d8) y el nivel 17 (4d8).</p>"
         },
         "gMrWeG8fMDPRFiVe": {
-          "name": "Enredar",
-          "description": "<p>Las malas hierbas y las vides brotan del suelo en un cuadrado de 20 pies a partir de un punto dentro de su alcance. Para la Duración, estas Plantas convierten el terreno de la zona en terreno difícil.</p><p>Una criatura en el área cuando se lanza el conjuro debe tener éxito en un lanzamiento de ahorro de fuerza o ser refrenado por las plantas enredaderas hasta que el conjuro termine. Una criatura restringida por las plantas puede usar su acción para hacer una comprobación de fuerza contra su conjuro salvar CD. En un éxito, se libera a sí mismo.</p><p>Cuando el conjuro termina, las plantas conjuradas se marchitan.</p>"
+          "name": "Enmarañar",
+          "description": "<p>Hierbas y enredaderas que se aferran a cuanto encuentran brotan del suelo en un cuadrado de 20 pies de lado que parte de un punto dentro del alcance. Mientras dure el conjuro, las plantas convierten el área en terreno difícil.</p><p>Una criatura que esté en el área al lanzar el conjuro debe superar una tirada de salvación de Fuerza o quedar apresada por las plantas hasta que termine. Una criatura apresada puede usar su acción para realizar una prueba de Fuerza contra tu CD de salvación de conjuros. Si tiene éxito, se libera.</p><p>Cuando el conjuro termina, las plantas invocadas se marchitan.</p>"
         },
         "B0pnIcc52O6G8hi8": {
           "name": "Zancada prodigiosa",
-          "description": "<p>Tocas a una criatura. La velocidad del objetivo aumenta 10 pies hasta que el conjuro termina.</p>"
+          "description": "<p>Tocas a una criatura. Su velocidad aumenta en 10 pies hasta que termine el conjuro.</p>"
         },
         "aL1F8fvYLtNzUbKu": {
-          "name": "Habla con los animales",
-          "description": "<p>Ganas la habilidad de comprender y comunicarse verbalmente con las bestias por la duración. El conocimiento y la conciencia de muchas bestias están limitados por su inteligencia, pero al menos, las bestias pueden darte información sobre lugares cercanos y monstruos, incluyendo lo que puedan percibir o haber percibido en el pasado día. Usted podría ser capaz de persuadir a una bestia para realizar un pequeño favor para usted, a discreción del DM.</p>"
+          "name": "Hablar con los animales",
+          "description": "<p>Durante el conjuro, puedes entender a las bestias y comunicarte verbalmente con ellas. Los conocimientos y la percepción de muchas bestias están limitados por su inteligencia, pero como mínimo pueden darte información sobre lugares y monstruos cercanos, incluido lo que perciban o hayan percibido durante el último día. A discreción del DM, podrías persuadir a una bestia para que te haga un pequeño favor.</p>"
         },
         "WTbOQBsarsL1LuXJ": {
-          "name": "Ola de truenos",
-          "description": "<p>Una ola de fuerza estruendosa se extiende de ti. Cada criatura en un cubo de 15 pies que se origina de usted debe hacer un lanzamiento de ahorro Constitución. En una salvada fallida, una criatura recibe daño por truenos en 2d8 y es empujada a 10 pies de distancia de usted. En una salvada exitosa, la criatura recibe la mitad del daño y no es empujada.</p><p>Además, los objetos no seguros que están completamente dentro del área de efecto son automáticamente empujados a 10 pies de distancia de usted por el efecto del conjuro, y el conjuro emite un atronador boom audible a 300 pies.</p><p><strong>Niveles superiores.</strong> Cuando se lanza este conjuro utilizando una espacio de conjuro de 2o nivel o superior, el daño aumenta en 1d8 para cada nivel de ranura por encima de 1o.</p>"
+          "name": "Ola atronadora",
+          "description": "<p>Una onda de fuerza atronadora surge de ti. Cada criatura en un cubo de 15 pies de lado que se origine en ti debe realizar una tirada de salvación de Constitución. Si falla, sufre 2d8 de daño de trueno y es empujada 10 pies alejándose de ti. Si tiene éxito, sufre la mitad del daño y no es empujada.</p><p>Además, los objetos sin sujetar que estén por completo dentro del área son empujados automáticamente 10 pies alejándose de ti, y el conjuro produce un estampido audible hasta a 300 pies.</p><p><strong>A niveles superiores.</strong> Si lanzas este conjuro usando un espacio de nivel 2 o superior, el daño aumenta en 1d8 por cada nivel del espacio por encima de 1.</p>"
         },
         "X8w9EzYLGc4vQ1H2": {
           "name": "Mensajero animal",
-          "description": "<p>Por medio de este conjuro, usted usa un animal para entregar un mensaje. Elija una bestia pequeña que se puede ver dentro del alcance, como una ardilla, un jay azul, o un murciélago. Usted especifica un lugar, que debe haber visitado, y un destinatario que coincide con una descripción general, como \"un hombre o mujer vestido con el uniforme de la guardia de la ciudad\" o \"un enano pelirrojo con un sombrero puntiagudo.\" También dice un mensaje de hasta veinticinco palabras. La bestia objetivo viaja durante la duración del conjuro hacia el lugar especificado, cubriendo unas 50 millas por 24 horas para un mensajero volador, o 25 millas para otros animales.</p><p>Cuando el mensajero llega, entrega su mensaje a la criatura que usted describió, replicando el sonido de su voz. El mensajero habla sólo a una criatura que coincide con la descripción que diste. Si el mensajero no llega a su destino antes de que termine el conjuro, el mensaje se pierde, y la bestia vuelve a donde lanzas este conjuro.</p><p><strong>En los niveles superiores.</strong> Si lanzas este conjuro usando una espacio de conjuros de 3er nivel o superior, la duración del conjuro aumenta en 48 horas por cada nivel de ranura por encima de la 2a.</p>"
+          "description": "<p>Mediante este conjuro utilizas un animal para entregar un mensaje. Elige una bestia Diminuta que puedas ver dentro del alcance, como una ardilla, un arrendajo azul o un murciélago. Indicas un lugar que hayas visitado y un destinatario mediante una descripción general, como «una persona con el uniforme de la guardia de la ciudad» o «un enano pelirrojo con un sombrero puntiagudo». También pronuncias un mensaje de hasta veinticinco palabras. La bestia viaja hacia el lugar indicado mientras dure el conjuro: recorre unas 50 millas cada 24 horas si vuela, o 25 millas si es otro tipo de animal.</p><p>Al llegar, entrega el mensaje a la criatura que hayas descrito, reproduciendo el sonido de tu voz. Solo habla con una criatura que coincida con la descripción. Si no llega a su destino antes de que termine el conjuro, el mensaje se pierde y la bestia regresa al lugar donde lo lanzaste.</p><p><strong>A niveles superiores.</strong> Si lanzas este conjuro usando un espacio de nivel 3 o superior, su duración aumenta en 48 horas por cada nivel del espacio por encima de 2.</p>"
         },
         "JPwIEfgUPVebr5AH": {
           "name": "Piel robliza",
-          "description": "<p>Tocas a una criatura dispuesta. Hasta que el conjuro termina, la piel del objetivo tiene un aspecto áspero, parecido a la corteza, y el AC del objetivo no puede ser menor de 16, independientemente del tipo de armadura que lleve.</p>",
+          "description": "<p>Tocas a una criatura voluntaria. Hasta que termine el conjuro, su piel adquiere un aspecto áspero, parecido a la corteza, y su CA no puede ser inferior a 16, independientemente de la armadura que lleve.</p>",
           "effects": {
             "uM6rgctYpcbCVSkn": {
               "name": "Piel robliza"
@@ -1995,28 +1995,28 @@
           }
         },
         "udSiVp4nSrGBSvG1": {
-          "name": "Shillelagh",
-          "description": "<p>La madera de un club o quarterstaff que tienes está imbuida del poder de la naturaleza. Durante la duración, puedes usar tu habilidad de conjuros en lugar de Fuerza para el ataque y daños rollos de ataques cuerpo a cuerpo usando esa arma, y el daño del arma muere se convierte en un d8. El arma también se vuelve mágica, si no lo es ya. El conjuro termina si lo lanzas de nuevo o si sueltas el arma.</p>",
+          "name": "Garrote",
+          "description": "<p>La madera de un garrote o bastón que sostengas se imbuye del poder de la naturaleza. Mientras dure el conjuro, puedes usar tu aptitud mágica en lugar de Fuerza para las tiradas de ataque y daño de los ataques cuerpo a cuerpo con esa arma, y su dado de daño se convierte en un d8. El arma también se vuelve mágica si no lo era ya. El conjuro termina si vuelves a lanzarlo o si sueltas el arma.</p>",
           "activities": {
             "dnd5eactivity000": {
-              "name": "Arma Imbue"
+              "name": "Imbuir arma"
             },
             "ONVab5lmTqJwwMBC": {
-              "name": "Ataque de emisión de conjuros"
+              "name": "Ataque con aptitud mágica"
             }
           },
           "effects": {
             "QPsqj6jfS0iXSrTs": {
-              "name": "Shillelagh"
+              "name": "Garrote"
             }
           }
         }
       },
-      "name": "Ojo de lo profundo",
-      "creatureSubtype": "Druida humana calishita",
-      "languages": "cualesquiera dos idiomas",
-      "tokenName": "Ojo de lo profundo",
-      "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+      "name": "Ojo de las Profundidades",
+      "creatureSubtype": "Druida humano calishita",
+      "languages": "Dos idiomas cualesquiera",
+      "tokenName": "Ojo de las Profundidades",
+      "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
     },
     "HVfnxW4QdcaxfDGA": {
       "name": "Espinoso",
