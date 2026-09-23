@@ -1596,15 +1596,27 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   excluye a muertos vivientes e infernales.
 - Auditorías técnica y editorial sin errores. Pendiente ejecución en Foundry.
 
+### appendix-d-bronto-champion — Brontosaurio y campeón
+
+- Revisados 60 campos: los textos no vacíos de ambos actores en sus dos
+  copias y sus páginas de diario, con referencias físicas 215 y 216.
+- Conservados derribo del pisotón, ataque múltiple, repetición de salvación,
+  recuperación de PG y variantes de ataque según los PG restantes.
+- Completada la nota truncada de idiomas del campeón: uno cualquiera,
+  normalmente común. La descripción de la armadura procede del exportado.
+- Los actores originales no incluyen las biografías presentes en el PDF;
+  queda registrada esta omisión, igual que en el bodak.
+- Auditorías técnica y editorial sin errores. Pendiente ejecución en Foundry.
+
 ## Balance de revisión editorial
 
-- 760 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 762 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 155 de los apéndices A, B, C, D y F.
-  No equivale a 760 páginas del PDF.
-- 2581 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 2581 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 157 de los apéndices A, B, C, D y F.
+  No equivale a 762 páginas del PDF.
+- 2641 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 2641 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas quince biografías en ambas copias de actores: siete
   príncipes y ocho criaturas o PNJ del apéndice D. Siguen pendientes las demás

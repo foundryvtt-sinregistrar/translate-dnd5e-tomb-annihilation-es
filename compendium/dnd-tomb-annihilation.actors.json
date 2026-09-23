@@ -4054,11 +4054,11 @@
         },
         "47WwFTxvgQfkv0sd": {
           "name": "Pisotón",
-          "description": "<p>[[/attack extended]]. [[/damage extended average]], y el objetivo debe tener éxito en un [[/save format=long]] o ser llamado &amp;Reference[Prone apply=false]{propenso}.</p>",
+          "description": "<p>[[/attack extended]]. [[/damage extended average]], y el objetivo debe superar una [[/save format=long]] o queda &amp;Reference[Prone apply=false]{derribado}.</p>",
           "effects": {
             "QFsLRONoBjILuRz0": {
-              "name": "Prona",
-              "description": "<p>El objetivo está golpeado. &amp;Reference[Prone apply=false]{propenso}.</p>"
+              "name": "Derribado",
+              "description": "<p>El objetivo queda &amp;Reference[Prone apply=false]{derribado}.</p>"
             }
           }
         }
@@ -14911,43 +14911,43 @@
       "items": {
         "VbdBdTYP2Wscf0tn": {
           "name": "Ataque múltiple",
-          "description": "<p>El campeón hace tres ataques con su [[/item .PCXrQGc6dhwdsmrT]] o sus [[/item .cOYinpp0ZB8ftlnM]]</p>"
+          "description": "<p>El campeón realiza tres ataques con su [[/item .PCXrQGc6dhwdsmrT]]{espadón} o su [[/item .cOYinpp0ZB8ftlnM]]{arco corto}.</p>"
         },
         "cOYinpp0ZB8ftlnM": {
           "name": "Arco corto",
-          "description": "<p>[[/attack extended]]. [[/damage extended average]] si el campeón tiene más de la mitad de sus puntos de éxito totales restantes.</p>",
+          "description": "<p>[[/attack extended]]. [[/damage extended average]] si al campeón le quedan más de la mitad de sus puntos de golpe totales.</p>",
           "activities": {
             "VIjETd5At2TW0hYG": {
-              "name": "Ataque: Medio o menos PG"
+              "name": "Ataque con la mitad de PG o menos"
             }
           }
         },
         "PCXrQGc6dhwdsmrT": {
-          "name": "Espada grande",
-          "description": "<p>[[/attack extended]]. [[/damage extended average]] si el campeón tiene más de la mitad de sus puntos de éxito totales restantes.</p>",
+          "name": "Espadón",
+          "description": "<p>[[/attack extended]]. [[/damage extended average]] si al campeón le quedan más de la mitad de sus puntos de golpe totales.</p>",
           "activities": {
             "9jiLmvMfLOzAMWkA": {
-              "name": "Ataque: Medio o menos PG"
+              "name": "Ataque con la mitad de PG o menos"
             }
           }
         },
         "caE98jXIN7T3nmXW": {
-          "name": "Armadura de placa",
-          "description": "<p>La placa consiste en placas metálicas en forma, entrelazadas para cubrir todo el cuerpo. Un traje de placa incluye guanteletes, botas de cuero pesado, un casco visera, y capas gruesas de relleno debajo de la armadura. Hebillas y correas distribuyen el peso sobre el cuerpo.</p>"
+          "name": "Armadura de placas",
+          "description": "<p>Esta armadura cubre todo el cuerpo con placas metálicas moldeadas y encajadas entre sí. Incluye guanteletes, botas de cuero grueso, un yelmo con visera y gruesas capas de acolchado bajo las placas. Las hebillas y correas distribuyen el peso por todo el cuerpo.</p>"
         },
         "XQr8tRwheO2kfToY": {
           "name": "Indomable",
-          "description": "<p>El campeón vuelve a rodar un tirada de salvación fallido.</p>"
+          "description": "<p>El campeón repite una tirada de salvación que haya fallado.</p>"
         },
         "FA9hIXLHJi5rUBiq": {
-          "name": "Segundo Viento",
-          "description": "<p>Como una acción adicional, el campeón puede recuperar 20 puntos de éxito.</p>"
+          "name": "Tomar Aliento",
+          "description": "<p>Como acción adicional, el campeón puede recuperar 20 puntos de golpe.</p>"
         }
       },
       "name": "Campeón",
-      "alignment": "Cualquier alineación",
+      "alignment": "Cualquier alineamiento",
       "creatureSubtype": "Cualquier raza",
-      "languages": "Cualquier idioma (generalmente",
+      "languages": "Un idioma cualquiera (normalmente común)",
       "tokenName": "Campeón"
     },
     "vStrC3BjGho0xSsc": {
