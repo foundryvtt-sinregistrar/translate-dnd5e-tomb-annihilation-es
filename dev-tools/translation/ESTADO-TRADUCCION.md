@@ -1352,15 +1352,28 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Auditorías técnica y editorial sin errores; pendiente comprobar las tarjetas
   y los efectos en Foundry junto con el resto del módulo.
 
+### appendix-b-start — Uso de encuentros y primeras criaturas
+
+- Revisadas ocho páginas (16 registros): introducción, Puerto Nyanzaru,
+  naturaleza, aarakocras, enanos albinos, aldanis, almirajes y simios.
+- Referencias físicas 194, 197, 200 y 204. Conservados frecuencia, umbrales,
+  condiciones de sorpresa, soborno de los aldanis y apaciguamiento del almiraj.
+- Los UUID genéricos del apéndice D siguen apuntando a la página de grungs
+  en el original, incluso para chwingas, enanos, aldanis y almirajes. Se añaden
+  estos casos a la corrección funcional pendiente; no se alteran sus destinos
+  como parte de la revisión lingüística. La etiqueta `Encounter` del Embed
+  también requiere comprobar la traducción de parámetros de presentación.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 635 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 643 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 30 de los apéndices A, C y F.
-  No equivale a 635 páginas del PDF.
-- 1624 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1624 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 38 de los apéndices A, B, C y F.
+  No equivale a 643 páginas del PDF.
+- 1640 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1640 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
