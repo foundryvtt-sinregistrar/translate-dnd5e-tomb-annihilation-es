@@ -455,7 +455,7 @@
       "items": {
         "NAmhPf8w89iV8CsY": {
           "name": "Ataque múltiple",
-          "description": "<p>[[lookup @name]] Hace dos. [[/item .BhYnUUBoU3ESkl1B]] ataques.</p>"
+          "description": "<p>[[lookup @name]] realiza dos ataques con [[/item .BhYnUUBoU3ESkl1B]]{espada corta}.</p>"
         },
         "BhYnUUBoU3ESkl1B": {
           "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
@@ -464,24 +464,24 @@
         },
         "q6pfCQyaPQSw2waZ": {
           "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-          "name": "Ballesa de mano",
-          "descriptionChat": "<p>El espía ataca con su ballesta de manos.</p>"
+          "name": "Ballesta de mano",
+          "descriptionChat": "<p>El espía ataca con su ballesta de mano.</p>"
         },
         "93TfWPoMzBoaneMx": {
-          "name": "Acción astuta",
-          "description": "<p>En cada uno de sus turnos, [[lookup @name]] puede utilizar una acción adicional para tomar la &amp;Reference[dash], &amp;Reference[disengage]o bien &amp;Reference[hide] acción.</p>"
+          "name": "Acción Astuta",
+          "description": "<p>En cada uno de sus turnos, [[lookup @name]] puede usar una acción adicional para realizar la acción &amp;Reference[dash]{Correr}, &amp;Reference[disengage]{Destrabarse} u &amp;Reference[hide]{Ocultarse}.</p>"
         },
         "TEgU7pKAAA0f35Yw": {
-          "name": "Ataque furtivo",
-          "description": "<p>[[lookup @name]] reparte un extra [[/damage average]] daño cuando golpea un objetivo con un ataque de arma y tiene ventaja en el rollo de ataque, o cuando el objetivo está a menos de 5 pies de un aliado de [[lookup @name]]’s que no está incapacitado y no tiene desventaja en el rollo de ataque.</p>"
+          "name": "Ataque Furtivo",
+          "description": "<p>[[lookup @name]] causa [[/damage average]] de daño adicional cuando impacta a un objetivo con un ataque con arma y tiene ventaja en la tirada de ataque, o cuando el objetivo está a 5 pies o menos de un aliado de [[lookup @name]] que no esté incapacitado y él no tiene desventaja en la tirada de ataque.</p>"
         }
       },
       "name": "Aazon Talieri",
-      "creatureSubtype": "Tetiriano Humano",
-      "languages": "dos cualquiera",
-      "biographyPublic": "<p><em>Véase también: @UUID[Actor.BUzlp2K5V80ApPuy]{Jobal}</em></p>",
+      "creatureSubtype": "Humano tethyriano",
+      "languages": "Dos idiomas cualesquiera",
+      "biographyPublic": "<p><em>Consulta también: @UUID[Actor.BUzlp2K5V80ApPuy]{Jobal}</em></p>",
       "tokenName": "Aazon",
-      "biography": "<p>@UUID[Actor.BUzlp2K5V80ApPuy]{Jobal} jefe espía, confidente, y consorte es Aazon Talieri (NG macho humano tetiriano @UUID[Compendium.dnd5e.monsters.Actor.13K3XK2A3wwxVKLD]{espía}. Jobal confía en él implícitamente, y la lealtad de Aazon es irreprochable.</p>"
+      "biography": "<p>El jefe de espías, confidente y consorte de @UUID[Actor.BUzlp2K5V80ApPuy]{Jobal} es Aazon Talieri, un @UUID[Compendium.dnd5e.monsters.Actor.13K3XK2A3wwxVKLD]{espía} humano tethyriano NB. Jobal confía plenamente en él y su lealtad es intachable.</p>"
     },
     "3vTgQjRFbmBvbyZ9": {
       "alignment": "Legal malvado",
@@ -3537,22 +3537,22 @@
       "items": {
         "oSlFzVMu0fdEfYt1": {
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-          "name": "Garra (solo formulario de destino)",
-          "descriptionChat": "<p>El súcubo/incubo ataca con su garra.</p>"
+          "name": "Garra (solo en forma infernal)",
+          "descriptionChat": "<p>El infernal ataca con su garra.</p>"
         },
         "P3P1EukfOip32dtd": {
-          "name": "Vínculo telepático",
-          "description": "<p>[[lookup @name]] ignora la restricción de rango en su telepatía cuando se comunica con una criatura que ha encantado. Los dos ni siquiera necesitan estar en el mismo plano de existencia.</p>"
+          "name": "Vínculo Telepático",
+          "description": "<p>[[lookup @name]] ignora el límite de alcance de su telepatía al comunicarse con una criatura a la que haya hechizado. Ni siquiera necesitan estar en el mismo plano de existencia.</p>"
         },
         "ZVMVqd01HraMcenH": {
-          "name": "Cambio de forma",
-          "description": "<p>[[lookup @name]] puede utilizar su acción para polimorfo en un humanoide pequeño o medio, o de vuelta en su forma verdadera. Sin alas, [[lookup @name]] pierde su velocidad de vuelo. Aparte de su tamaño y velocidad, [[lookup @name]]Las estadísticas son las mismas en cada forma.</p><p>Cualquier equipo [[lookup @name]] se vuelve a su verdadera forma si muere.</p>",
-          "descriptionChat": "<p>El demonio puede usar su acción para <strong>polimorf</strong> en un humanoide, o de vuelta en su forma verdadera.</p>"
+          "name": "Cambiaformas",
+          "description": "<p>[[lookup @name]] puede usar su acción para polimorfarse en un humanoide Pequeño o Mediano, o para recuperar su verdadera forma. Sin alas, [[lookup @name]] pierde su velocidad volando. Salvo el tamaño y la velocidad, las estadísticas de [[lookup @name]] son las mismas en todas sus formas.</p><p>El equipo que [[lookup @name]] vista o lleve no se transforma. Si muere, recupera su verdadera forma.</p>",
+          "descriptionChat": "<p>El infernal puede usar su acción para <strong>polimorfarse</strong> en un humanoide o recuperar su verdadera forma.</p>"
         },
         "2bFCfFfjRNmhyE8A": {
-          "name": "Encanto",
-          "description": "<p>Un humanoide [[lookup @name]] puede ver a menos de 30 pies de él debe hacer un [[/save format=long]] o estar mágicamente encantado por 1 día. El blanco encantado obedece [[lookup @name]] comandos verbales o telepáticos.</p><p>Si el objetivo sufre algún daño o recibe un comando suicida, puede repetir el lanzamiento de ahorro, poniendo fin al efecto en un éxito. Si el objetivo ahorra con éxito contra el efecto, o si el efecto en él termina, el objetivo es inmune a [[lookup @name]]El encanto de las próximas 24 horas. [[lookup @name]] sólo puede tener un objetivo encantado a la vez. Si él encanta a otro, el efecto en el objetivo anterior termina.</p>",
-          "descriptionChat": "<p>Un humanoide el demonio puede ver dentro de 30 pies de él debe hacer un <strong>Sabiduría</strong> El lanzamiento de ahorro.</p>",
+          "name": "Hechizar",
+          "description": "<p>Un humanoide que [[lookup @name]] pueda ver a 30 pies o menos debe realizar una tirada de salvación [[/save format=long]] o quedar hechizado mágicamente durante 1 día. El objetivo hechizado obedece las órdenes verbales o telepáticas de [[lookup @name]].</p><p>Si el objetivo sufre algún daño o recibe una orden suicida, puede repetir la tirada de salvación y terminar el efecto si tiene éxito. Si supera la salvación contra este efecto o si el efecto termina, es inmune a Hechizar de [[lookup @name]] durante las siguientes 24 horas. [[lookup @name]] solo puede tener a un objetivo hechizado a la vez. Si hechiza a otro, el efecto sobre el anterior termina.</p>",
+          "descriptionChat": "<p>Un humanoide que el infernal pueda ver a 30 pies o menos de él debe realizar una tirada de salvación de <strong>Sabiduría</strong>.</p>",
           "activities": {
             "dnd5eactivity000": {
               "target": {
@@ -3565,20 +3565,20 @@
           "effects": {
             "iuVbm8rd6UWg36yg": {
               "name": "Hechizado",
-              "description": "<p>El blanco encantado obedece las órdenes verbales o telepáticas del demonio.</p><p>Si el objetivo sufre algún daño o recibe un comando suicida, puede repetir el lanzamiento de ahorro, poniendo fin al efecto en un éxito. Si el objetivo guarda con éxito contra el efecto, o si el efecto sobre él termina, el objetivo es inmune a este demonio Charm por las próximas 24 horas.</p>"
+              "description": "<p>El objetivo hechizado obedece las órdenes verbales o telepáticas del infernal.</p><p>Si el objetivo sufre algún daño o recibe una orden suicida, puede repetir la tirada de salvación y terminar el efecto si tiene éxito. Si supera la salvación contra el efecto o si el efecto termina, es inmune a Hechizar de este infernal durante las siguientes 24 horas.</p>"
             }
           }
         },
         "eb0O9cQ8N6lovLyI": {
-          "name": "Beso drenador",
-          "requirements": "Apunta a una criatura encantada o dispuesta",
-          "description": "<p>[[lookup @name]] besa a una criatura encantada por él o una criatura dispuesta. El objetivo debe hacer un [[/save format=long]] contra esta magia, tomando [[/damage average]] daño en un error de guardar, o la mitad de daño en un éxito.</p><p>El punto de impacto máximo del objetivo se reduce en una cantidad igual al daño tomado. Esta reducción dura hasta que el objetivo termine un largo descanso. El objetivo muere si este efecto reduce su punto de impacto máximo a 0.</p>",
-          "descriptionChat": "<p>El objetivo debe hacer un <strong>Constitución</strong> salvar el tiro contra esta magia.</p>",
+          "name": "Beso Drenante",
+          "requirements": "Una criatura hechizada o voluntaria como objetivo",
+          "description": "<p>[[lookup @name]] besa a una criatura a la que haya hechizado o a una criatura voluntaria. El objetivo debe realizar una tirada de salvación [[/save format=long]] contra esta magia. Si falla, sufre [[/damage average]] de daño; si tiene éxito, sufre la mitad.</p><p>Los puntos de golpe máximos del objetivo se reducen en una cantidad igual al daño sufrido. Esta reducción dura hasta que termine un descanso largo. Si este efecto reduce sus puntos de golpe máximos a 0, el objetivo muere.</p>",
+          "descriptionChat": "<p>El objetivo debe realizar una tirada de salvación de <strong>Constitución</strong> contra esta magia.</p>",
           "activities": {
             "dnd5eactivity000": {
               "target": {
                 "affects": {
-                  "special": "criatura encantada o dispuesta"
+                  "special": "Criatura hechizada o voluntaria"
                 }
               }
             }
@@ -3586,7 +3586,7 @@
         },
         "s1s5asgUorljP7SV": {
           "name": "Excursión etérea",
-          "description": "<p>[[lookup @name]] mágicamente entra en el Plano Etéreo desde el Plano Material, o viceversa.</p>",
+          "description": "<p>[[lookup @name]] entra mágicamente en el Plano Etéreo desde el Plano Material, o viceversa.</p>",
           "effects": {
             "1Bd78CAdilT57jFe": {
               "name": "Excursión etérea"
@@ -3595,12 +3595,12 @@
         }
       },
       "name": "Indar",
-      "alignment": "El mal neutro",
-      "creatureSubtype": "Cambio de forma",
-      "languages": "Telepatía 60 pies.",
-      "biographyPublic": "<p><em>Véase también: @UUID[Actor.xM5ii0MGoWV7nBAQ]{Kwayothé} y @UUID[Actor.ca13D7iRGnjZoiaS]{Ixis}.</em></p>",
+      "alignment": "Neutral malvado",
+      "creatureSubtype": "Cambiaformas",
+      "languages": "Telepatía 60 pies",
+      "biographyPublic": "<p><em>Consulta también: @UUID[Actor.xM5ii0MGoWV7nBAQ]{Kwayothé} y @UUID[Actor.ca13D7iRGnjZoiaS]{Ixis}.</em></p>",
       "tokenName": "Indar",
-      "biography": "<p>@UUID[Actor.UhaSt0dBvdrdmolM]{Indar} — un íncubo — es un consorte de @UUID[Actor.xM5ii0MGoWV7nBAQ]{Kwayothé}.</p>"
+      "biography": "<p>@UUID[Actor.UhaSt0dBvdrdmolM]{Indar}, un íncubo, es consorte de @UUID[Actor.xM5ii0MGoWV7nBAQ]{Kwayothé}.</p>"
     },
     "V0hTSWWR1q53iwvx": {
       "alignment": "Neutral malvado",
@@ -4669,22 +4669,22 @@
       "items": {
         "oSlFzVMu0fdEfYt1": {
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-          "name": "Garra (solo formulario de destino)",
-          "descriptionChat": "<p>El súcubo/incubo ataca con su garra.</p>"
+          "name": "Garra (solo en forma infernal)",
+          "descriptionChat": "<p>El infernal ataca con su garra.</p>"
         },
         "P3P1EukfOip32dtd": {
-          "name": "Vínculo telepático",
-          "description": "<p>[[lookup @name]] ignora la restricción de rango en su telepatía cuando se comunica con una criatura que ha encantado. Los dos ni siquiera necesitan estar en el mismo plano de existencia.</p>"
+          "name": "Vínculo Telepático",
+          "description": "<p>[[lookup @name]] ignora el límite de alcance de su telepatía al comunicarse con una criatura a la que haya hechizado. Ni siquiera necesitan estar en el mismo plano de existencia.</p>"
         },
         "ZVMVqd01HraMcenH": {
-          "name": "Cambio de forma",
-          "description": "<p>[[lookup @name]] puede usar su acción para <strong>polimorf</strong> en un humanoide pequeño o medio, o de vuelta en su forma verdadera. Sin alas, [[lookup @name]] pierde su velocidad de vuelo. Aparte de su tamaño y velocidad, [[lookup @name]]Las estadísticas son las mismas en cada forma.</p><p>Cualquier equipo [[lookup @name]] lleva o lleva no se transforma. Ella vuelve a su verdadera forma si muere.</p>",
-          "descriptionChat": "<p>El demonio puede usar su acción para <strong>polimorf</strong> en un humanoide, o de vuelta en su forma verdadera.</p>"
+          "name": "Cambiaformas",
+          "description": "<p>[[lookup @name]] puede usar su acción para <strong>polimorfarse</strong> en un humanoide Pequeño o Mediano, o para recuperar su verdadera forma. Sin alas, [[lookup @name]] pierde su velocidad volando. Salvo el tamaño y la velocidad, las estadísticas de [[lookup @name]] son las mismas en todas sus formas.</p><p>El equipo que [[lookup @name]] vista o lleve no se transforma. Si muere, recupera su verdadera forma.</p>",
+          "descriptionChat": "<p>El infernal puede usar su acción para <strong>polimorfarse</strong> en un humanoide o recuperar su verdadera forma.</p>"
         },
         "2bFCfFfjRNmhyE8A": {
-          "name": "Encanto",
-          "description": "<p>Un humanoide [[lookup @name]] puede ver a menos de 30 pies de su debe hacer un [[/save format=long]] o estar mágicamente encantado por 1 día. El blanco encantado obedece [[lookup @name]]órdenes verbales o telepáticas.</p><p>Si el objetivo sufre algún daño o recibe un comando suicida, puede repetir el lanzamiento de ahorro, poniendo fin al efecto en un éxito. Si el objetivo ahorra con éxito contra el efecto, o si el efecto en él termina, el objetivo es inmune a [[lookup @name]]Es Charm para las próximas 24 horas. [[lookup @name]] sólo puede tener un objetivo encantado a la vez. Si ella encanta a otro, el efecto en el objetivo anterior termina.</p>",
-          "descriptionChat": "<p>Un humanoide el demonio puede ver dentro de 30 pies de él debe hacer un <strong>Sabiduría</strong> El lanzamiento de ahorro.</p>",
+          "name": "Hechizar",
+          "description": "<p>Un humanoide que [[lookup @name]] pueda ver a 30 pies o menos debe realizar una tirada de salvación [[/save format=long]] o quedar hechizado mágicamente durante 1 día. El objetivo hechizado obedece las órdenes verbales o telepáticas de [[lookup @name]].</p><p>Si el objetivo sufre algún daño o recibe una orden suicida, puede repetir la tirada de salvación y terminar el efecto si tiene éxito. Si supera la salvación contra este efecto o si el efecto termina, es inmune a Hechizar de [[lookup @name]] durante las siguientes 24 horas. [[lookup @name]] solo puede tener a un objetivo hechizado a la vez. Si hechiza a otro, el efecto sobre el anterior termina.</p>",
+          "descriptionChat": "<p>Un humanoide que el infernal pueda ver a 30 pies o menos de él debe realizar una tirada de salvación de <strong>Sabiduría</strong>.</p>",
           "activities": {
             "dnd5eactivity000": {
               "target": {
@@ -4697,20 +4697,20 @@
           "effects": {
             "iuVbm8rd6UWg36yg": {
               "name": "Hechizado",
-              "description": "<p>El blanco encantado obedece las órdenes verbales o telepáticas del demonio.</p><p>Si el objetivo sufre algún daño o recibe un comando suicida, puede repetir el lanzamiento de ahorro, poniendo fin al efecto en un éxito. Si el objetivo guarda con éxito contra el efecto, o si el efecto sobre él termina, el objetivo es inmune a este demonio Charm por las próximas 24 horas.</p>"
+              "description": "<p>El objetivo hechizado obedece las órdenes verbales o telepáticas del infernal.</p><p>Si el objetivo sufre algún daño o recibe una orden suicida, puede repetir la tirada de salvación y terminar el efecto si tiene éxito. Si supera la salvación contra el efecto o si el efecto termina, es inmune a Hechizar de este infernal durante las siguientes 24 horas.</p>"
             }
           }
         },
         "eb0O9cQ8N6lovLyI": {
-          "name": "Beso drenador",
-          "requirements": "Apunta a una criatura encantada o dispuesta",
-          "description": "<p>[[lookup @name]] besa a una criatura encantada por ella o una criatura dispuesta. El objetivo debe hacer un [[/save format=long]] contra esta magia, tomando [[/damage average]] daño en un error de guardar, o la mitad de daño en un éxito.</p><p>El punto de impacto máximo del objetivo se reduce en una cantidad igual al daño tomado. Esta reducción dura hasta que el objetivo termine un largo descanso. El objetivo muere si este efecto reduce su punto de impacto máximo a 0.</p>",
-          "descriptionChat": "<p>El objetivo debe hacer un <strong>Constitución</strong> salvar el tiro contra esta magia.</p>",
+          "name": "Beso Drenante",
+          "requirements": "Una criatura hechizada o voluntaria como objetivo",
+          "description": "<p>[[lookup @name]] besa a una criatura a la que haya hechizado o a una criatura voluntaria. El objetivo debe realizar una tirada de salvación [[/save format=long]] contra esta magia. Si falla, sufre [[/damage average]] de daño; si tiene éxito, sufre la mitad.</p><p>Los puntos de golpe máximos del objetivo se reducen en una cantidad igual al daño sufrido. Esta reducción dura hasta que termine un descanso largo. Si este efecto reduce sus puntos de golpe máximos a 0, el objetivo muere.</p>",
+          "descriptionChat": "<p>El objetivo debe realizar una tirada de salvación de <strong>Constitución</strong> contra esta magia.</p>",
           "activities": {
             "dnd5eactivity000": {
               "target": {
                 "affects": {
-                  "special": "criatura encantada o dispuesta"
+                  "special": "Criatura hechizada o voluntaria"
                 }
               }
             }
@@ -4718,7 +4718,7 @@
         },
         "s1s5asgUorljP7SV": {
           "name": "Excursión etérea",
-          "description": "<p>[[lookup @name]] mágicamente entra en el Plano Etéreo desde el Plano Material, o viceversa.</p>",
+          "description": "<p>[[lookup @name]] entra mágicamente en el Plano Etéreo desde el Plano Material, o viceversa.</p>",
           "effects": {
             "1Bd78CAdilT57jFe": {
               "name": "Excursión etérea"
@@ -4727,12 +4727,12 @@
         }
       },
       "name": "Ixis",
-      "alignment": "El mal neutro",
-      "creatureSubtype": "Cambio de forma",
-      "languages": "Telepatía 60 pies.",
-      "biographyPublic": "<p><em>Véase también: @UUID[Actor.xM5ii0MGoWV7nBAQ]{Kwayothé} y @UUID[Actor.UhaSt0dBvdrdmolM]{Indar}.</em></p>",
+      "alignment": "Neutral malvado",
+      "creatureSubtype": "Cambiaformas",
+      "languages": "Telepatía 60 pies",
+      "biographyPublic": "<p><em>Consulta también: @UUID[Actor.xM5ii0MGoWV7nBAQ]{Kwayothé} y @UUID[Actor.UhaSt0dBvdrdmolM]{Indar}.</em></p>",
       "tokenName": "Ixis",
-      "biography": "<p>@UUID[Actor.ca13D7iRGnjZoiaS]{Ixis} — un súcubo — es un consorte de @UUID[Actor.xM5ii0MGoWV7nBAQ]{Kwayothé}.</p>"
+      "biography": "<p>@UUID[Actor.ca13D7iRGnjZoiaS]{Ixis}, una súcubo, es consorte de @UUID[Actor.xM5ii0MGoWV7nBAQ]{Kwayothé}.</p>"
     },
     "d08AFD41Tb5JjqVG": {
       "alignment": "Legal malvado",

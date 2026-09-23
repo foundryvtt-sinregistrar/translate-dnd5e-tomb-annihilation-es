@@ -2187,18 +2187,29 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   coherente con su lista de conjuros; esto no valida automáticamente usos
   de esa clave en otras fichas pendientes de la comprobación de enlaces.
 
+### appendix-d-consorts — Aazon, Indar e Ixis
+
+- Revisados 160 campos: tres páginas y ambas copias de los actores.
+  Relaciones e identidad contrastadas con la página física 27; perfiles y
+  efectos contrastados con el exportado inglés.
+- Reparada la puntuación incompleta de la biografía de Aazon. Conservados
+  la inmunidad temporal a Hechizar, el límite de un objetivo, las condiciones
+  de repetir la salvación y la reducción de puntos de golpe máximos del beso.
+- Cambiaformas mantiene las diferencias de marcado entre Indar e Ixis;
+  el equipo no cambia y la velocidad volando depende de conservar las alas.
+
 ## Balance de revisión editorial
 
-- 871 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 874 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 266 de los apéndices A, B, C, D y F.
-  No equivale a 871 páginas del PDF.
-- 8915 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 8915 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 269 de los apéndices A, B, C, D y F.
+  No equivale a 874 páginas del PDF.
+- 9075 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 9075 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas ciento quince biografías en ambas copias de actores: siete
-  príncipes y ciento ocho criaturas o PNJ vinculados al apéndice D. Siguen pendientes las demás
+  insertado. Revisadas ciento dieciocho biografías en ambas copias de actores: siete
+  príncipes y ciento once criaturas o PNJ vinculados al apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las
