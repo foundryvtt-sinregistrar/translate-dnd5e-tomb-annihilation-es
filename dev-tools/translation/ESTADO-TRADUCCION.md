@@ -976,14 +976,25 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   traducir su encabezado, como los fragmentos ya anotados en otros capítulos.
 - Completadas las 27 páginas de texto del nivel 3. Auditorías sin errores.
 
+### ch5-level4-access-01 a ch5-level4-access-04 — Acceso a las Cámaras del Horror
+
+- Revisados cuatro textos y títulos con referencias físicas 158-159.
+- Conservados los diezmos por humanoide y pedestal, el pago equivalente y la
+  distinción entre plata (pp) y platino (ppt). El tesoro oeste conserva cobre
+  del export, frente a la errata de electro del PDF.
+- Conservado el idioma druídico del lagarto y el campo antimágico de las celdas.
+- El apéndice D de las gárgolas repite el destino genérico incorrecto ya anotado
+  para otros monstruos. Pendiente de revisión técnica.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 551 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 555 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4 y setenta y dos del capítulo 5. No equivale a 551 páginas del PDF.
-- 1212 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1212 campos distintos.
+  del capítulo 4 y setenta y seis del capítulo 5. No equivale a 555 páginas del PDF.
+- 1220 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1220 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
