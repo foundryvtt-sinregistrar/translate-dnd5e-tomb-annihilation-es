@@ -2588,6 +2588,18 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Corregida «Pinza» a «Garra» en el troll; la traducción del mismo término
   inglés en un escorpión no es válida para esta criatura.
 
+### additional-mephits — Mephits y variante invocadora
+
+- Revisados seis perfiles en ambas copias: vapor, polvo, barro, magma, barro
+  invocador y humo. Son 226 registros, incluida la biografía del mephit de humo
+  contrastada con el exportado inglés y los textos de sus conjuros.
+- Conservadas las diferencias del original entre repetir la salvación «en cada
+  turno» del estallido de polvo y «al final» del turno en su aliento; también
+  las duraciones distintas de los efectos del mephit de barro y del de humo.
+- La invocación mantiene su tirada de 25 % y su comentario inglés «resultado
+  de 1», incoherente con ese umbral; pendiente de reparación funcional junto
+  con los demás comentarios de tirada detectados.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2597,11 +2609,11 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
   de Foundry, tres de créditos y cuatro de historial.
   No equivale a 931 páginas del PDF.
-- 14079 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 14079 campos distintos.
+- 14305 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 14305 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas ciento treinta y siete biografías en ambas copias de actores: siete
-  príncipes, ciento veintisiete criaturas o PNJ vinculados al apéndice D y tres PNJ
+  insertado. Revisadas ciento treinta y ocho biografías en ambas copias de actores: siete
+  príncipes, ciento veintisiete criaturas o PNJ vinculados al apéndice D y cuatro perfiles
   adicionales. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
