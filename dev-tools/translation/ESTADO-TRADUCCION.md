@@ -2646,6 +2646,17 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   como biografía narrativa. Los perfiles mínimos no incluyen texto adicional
   que pueda considerarse revisado mediante estos registros.
 
+### additional-fiends-one — Diablos y demonio de las sombras
+
+- Revisados diablo óseo, espinoso y barbado, y demonio de las sombras, en ambas
+  copias: 148 registros contrastados con el exportado inglés.
+- Comprobados venenos y repetición de salvaciones, prohibición de recuperar
+  puntos de golpe por la barba, daño acumulativo de la herida infernal,
+  recuperación de las doce espinas y daño con ventaja del demonio.
+- Corregido el lapsus inglés «bond devil» al traducir el efecto del aguijón
+  como propio del diablo óseo. Conservados los enlaces por nombre del diablo
+  espinoso para su revisión funcional.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2655,8 +2666,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
   de Foundry, tres de créditos y cuatro de historial.
   No equivale a 931 páginas del PDF.
-- 14795 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 14795 campos distintos.
+- 14943 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 14943 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento cuarenta biografías en ambas copias de actores: siete
   príncipes, ciento veintisiete criaturas o PNJ vinculados al apéndice D y seis perfiles

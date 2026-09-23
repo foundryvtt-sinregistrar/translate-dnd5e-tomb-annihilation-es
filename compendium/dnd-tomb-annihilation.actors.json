@@ -642,36 +642,36 @@
         "KjxsSFx9xv2HLtMX": {
           "name": "Garra",
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-          "descriptionChat": "<p>El Diablo Hueso ataca con su Garra.</p>"
+          "descriptionChat": "<p>El diablo óseo ataca con su garra.</p>"
         },
         "sC1dqjfFZKnDmhec": {
           "name": "Ataque múltiple",
-          "description": "<p>El diablo hace tres ataques: dos con su [[/item .KjxsSFx9xv2HLtMX]]{garras} y uno con su [[/item .iFHGL8wlqBtZAdHr]]{picadura}.</p>"
+          "description": "<p>El diablo realiza tres ataques: dos con sus [[/item .KjxsSFx9xv2HLtMX]]{garras} y uno con su [[/item .iFHGL8wlqBtZAdHr]]{aguijón}.</p>"
         },
         "iFHGL8wlqBtZAdHr": {
           "name": "Aguijón",
-          "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo debe tener éxito en un [[/save format=long]] o convertirse en &amp;Reference[poisoned apply=false]{envenenado} durante 1 minuto. El objetivo puede repetir el lanzamiento de ahorro al final de cada uno de sus turnos, terminando con el efecto en sí mismo en un éxito.</p>",
-          "descriptionChat": "<p>El Diablo Hueso ataca con su Sting. el objetivo debe hacer un <strong>Constitución</strong> El lanzamiento de ahorro. El objetivo puede repetir el lanzamiento de ahorro al final de cada uno de sus turnos, poniendo fin al efecto en sí mismo en un éxito .</p>",
+          "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo debe superar una [[/save format=long]] o quedar &amp;Reference[poisoned apply=false]{envenenado} durante 1 minuto. Puede repetir la tirada de salvación al final de cada uno de sus turnos y terminar el efecto sobre sí mismo si tiene éxito.</p>",
+          "descriptionChat": "<p>El diablo óseo ataca con su aguijón. El objetivo debe realizar una tirada de salvación de <strong>Constitución</strong>. Puede repetirla al final de cada uno de sus turnos y terminar el efecto sobre sí mismo si tiene éxito.</p>",
           "effects": {
             "66KiOald68N0BqFU": {
               "name": "Envenenado",
-              "description": "<p>El objetivo es &amp;Reference[poisoned apply=false]{envenenado} durante 1 minuto desde el aguijón del diablo enlace.</p>"
+              "description": "<p>El objetivo está &amp;Reference[poisoned apply=false]{envenenado} durante 1 minuto por el aguijón del diablo óseo.</p>"
             }
           }
         },
         "aj4Bg2H8CNydNhMB": {
           "name": "Vista del Diablo",
-          "description": "<p>La oscuridad mágica no impide la Darkvision del diablo.</p>"
+          "description": "<p>La oscuridad mágica no obstaculiza la visión en la oscuridad del diablo.</p>"
         },
         "hQXiIJrlHh2rb2k9": {
-          "name": "Resistencia mágica",
-          "description": "<p>El diablo tiene ventaja en los lanzamientos de ahorro contra conjuros y otros efectos mágicos.</p>"
+          "name": "Resistencia Mágica",
+          "description": "<p>El diablo tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.</p>"
         }
       },
       "name": "Diablo óseo",
       "creatureSubtype": "Diablo",
       "tokenName": "Diablo óseo",
-      "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+      "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
     },
     "5kuLnMaUs9aKSQaC": {
       "alignment": "Sin alineamiento",
@@ -3627,7 +3627,7 @@
       "items": {
         "NMpuy2oWYJc2zgpJ": {
           "name": "Ataque múltiple",
-          "description": "<p>El diablo hace dos ataques: uno con su [[/item Bite]] y uno con su [[/item Fork]] o dos con espinas en la cola.</p>"
+          "description": "<p>El diablo realiza dos ataques: uno con su [[/item Bite]] y otro con su [[/item Fork]], o dos con las espinas de su cola.</p>"
         },
         "genMmSqS5bPLrnqK": {
           "name": "Mordisco",
@@ -3635,27 +3635,27 @@
         },
         "bEWVfMnx4ATRH1PL": {
           "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-          "name": "Espina de cola"
+          "name": "Espina de la Cola"
         },
         "h0l13s1EyQbGFAgp": {
           "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-          "name": "Tenedor"
+          "name": "Horca"
         },
         "FQ6SIiMoiEBQgeum": {
-          "name": "La vista del Diablo",
-          "description": "<p>La oscuridad mágica no impide la oscuridad del diablo.</p>"
+          "name": "Vista del Diablo",
+          "description": "<p>La oscuridad mágica no obstaculiza la visión en la oscuridad del diablo.</p>"
         },
         "wAWsBrpsqEMSqjhK": {
-          "name": "Pasada",
-          "description": "<p>El diablo no provoca un ataque de oportunidad cuando vuela fuera del alcance de un enemigo.</p>"
+          "name": "Pasar Volando",
+          "description": "<p>El diablo no provoca ataques de oportunidad cuando sale volando del alcance de un enemigo.</p>"
         },
         "8YFk5PvappKcWBL0": {
-          "name": "Espines limitadas",
-          "description": "<p>El diablo tiene doce espinas en la cola. Las espinas usadas vuelven a crecer cuando el diablo termina un largo descanso.</p>"
+          "name": "Espinas Limitadas",
+          "description": "<p>El diablo tiene doce espinas en la cola. Las que haya usado vuelven a crecer cuando termina un descanso largo.</p>"
         },
         "QAYt65ke9Ladgt1d": {
-          "name": "Resistencia mágica",
-          "description": "<p>El diablo tiene ventaja en los lanzamientos de ahorro contra conjuros y otros efectos mágicos.</p>"
+          "name": "Resistencia Mágica",
+          "description": "<p>El diablo tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.</p>"
         }
       },
       "name": "Diablo espinoso",
@@ -4071,46 +4071,46 @@
       "items": {
         "iRRniNGmcgkUi4oH": {
           "name": "Ataque múltiple",
-          "description": "<p>El diablo hace dos ataques: uno con su [[/item .ndwCjJFBLTujojCl]]{barba} y uno con su [[/item .RgZ4lGrNf9AaIyrG]]{glaive}.</p>"
+          "description": "<p>El diablo realiza dos ataques: uno con su [[/item .ndwCjJFBLTujojCl]]{barba} y otro con su [[/item .RgZ4lGrNf9AaIyrG]]{guja}.</p>"
         },
         "xt4Cm1tg8Xfodhdt": {
-          "name": "La vista del diablo",
-          "description": "<p>La oscuridad mágica no impide la Darkvision del diablo.</p>"
+          "name": "Vista del Diablo",
+          "description": "<p>La oscuridad mágica no obstaculiza la visión en la oscuridad del diablo.</p>"
         },
         "u1abloZz4RhCI9rk": {
-          "name": "Resistencia mágica",
-          "description": "<p>El diablo tiene ventaja en los lanzamientos de ahorro contra conjuros y otros efectos mágicos.</p>"
+          "name": "Resistencia Mágica",
+          "description": "<p>El diablo tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.</p>"
         },
         "PIggvpkBTTCDGOHp": {
           "name": "Inquebrantable",
-          "description": "<p>El diablo no puede asustarse mientras ve a una criatura aliada. <strong>dentro de 30 pies</strong> de ella.</p>"
+          "description": "<p>El diablo no puede estar asustado mientras pueda ver a una criatura aliada <strong>a 30 pies o menos</strong>.</p>"
         },
         "ndwCjJFBLTujojCl": {
           "name": "Barba",
-          "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo debe tener éxito en un [[/save format=long]] o ser &amp;Reference[poisoned apply=false]{envenenado} durante 1 minuto. Mientras que envenenado de esta manera, el objetivo no puede recuperar los puntos de impacto. El objetivo puede repetir el lanzamiento de ahorro al final de cada uno de sus turnos, terminando con el efecto en sí mismo en un éxito.</p>",
-          "descriptionChat": "<p>El Diablo Barbudo ataca con su Barba. El objetivo debe hacer un <strong>Constitución</strong> El lanzamiento de ahorro. El objetivo puede repetir el lanzamiento de ahorro al final de cada uno de sus turnos, terminando con el efecto en sí mismo en un éxito.</p>",
+          "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo debe superar una [[/save format=long]] o quedar &amp;Reference[poisoned apply=false]{envenenado} durante 1 minuto. Mientras esté envenenado de esta forma, no puede recuperar puntos de golpe. Puede repetir la tirada de salvación al final de cada uno de sus turnos y terminar el efecto sobre sí mismo si tiene éxito.</p>",
+          "descriptionChat": "<p>El diablo barbado ataca con su barba. El objetivo debe realizar una tirada de salvación de <strong>Constitución</strong>. Puede repetirla al final de cada uno de sus turnos y terminar el efecto sobre sí mismo si tiene éxito.</p>",
           "effects": {
             "CiofRWHyyRnO031N": {
               "name": "Envenenado",
-              "description": "<p>El objetivo es &amp;Reference[poisoned apply=false]{envenenado} durante 1 minuto. Mientras que envenenado de esta manera, el objetivo no puede recuperar los puntos de impacto. El objetivo puede repetir el lanzamiento de ahorro al final de cada uno de sus turnos, terminando con el efecto en sí mismo en un éxito.</p>"
+              "description": "<p>El objetivo está &amp;Reference[poisoned apply=false]{envenenado} durante 1 minuto. Mientras esté envenenado de esta forma, no puede recuperar puntos de golpe. Puede repetir la tirada de salvación al final de cada uno de sus turnos y terminar el efecto sobre sí mismo si tiene éxito.</p>"
             }
           }
         },
         "RgZ4lGrNf9AaIyrG": {
           "name": "Guja",
-          "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>Si el objetivo es una criatura distinta de un no-muerto o una construcción, debe tener éxito en un [[/save format=long]] o perder [[/damage 1d10]] puntos de impacto al inicio de cada una de sus vueltas debido a una herida infernal. Cada vez que el diablo golpea el blanco herido con este ataque, el daño causado por la herida aumenta en 5 (1d10).</p><p>Cualquier criatura puede tomar una acción para atajar la herida con un éxito [[/check Medicine 12 format=long]]. La herida también se cierra si el objetivo recibe curación mágica.</p><section id=\"secret-goSnCSTcDXUThYnY\" class=\"secret\"><p><strong>Nota de Foundry</strong></p><p><span style=\"margin:0px;padding:0px\">A <strong>Daño escalado</strong> la actividad se establece para aplicar daños adicionales causados al mismo objetivo.</span></p></section>",
-          "descriptionChat": "<p>El Diablo Barbudo ataca con su Glaive. Si el objetivo es una criatura distinta de un no-muerto o una construcción, debe hacer un <strong>Constitución</strong> El lanzamiento de ahorro. Cualquier criatura puede tomar una acción para sujetar la herida con un chequeo exitoso de Sabiduría (Medicina).</p>",
+          "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>Si el objetivo es una criatura que no sea un muerto viviente ni un autómata, debe superar una [[/save format=long]] o perder [[/damage 1d10]] puntos de golpe al comienzo de cada uno de sus turnos debido a una herida infernal. Cada vez que el diablo impacta al objetivo herido con este ataque, el daño que causa la herida aumenta en 5 (1d10).</p><p>Cualquier criatura puede usar una acción para cerrar la herida si supera una [[/check Medicine 12 format=long]]. La herida también se cierra si el objetivo recibe curación mágica.</p><section id=\"secret-goSnCSTcDXUThYnY\" class=\"secret\"><p><strong>Nota de Foundry</strong></p><p><span style=\"margin:0px;padding:0px\">Se ha configurado una actividad de <strong>Daño Acumulado</strong> para aplicar el daño adicional causado al mismo objetivo.</span></p></section>",
+          "descriptionChat": "<p>El diablo barbado ataca con su guja. Si el objetivo es una criatura que no sea un muerto viviente ni un autómata, debe realizar una tirada de salvación de <strong>Constitución</strong>. Cualquier criatura puede usar una acción para cerrar la herida si supera una prueba de Sabiduría (Medicina).</p>",
           "activities": {
             "8KoabS6p61598TbU": {
-              "name": "Daño escalado"
+              "name": "Daño Acumulado"
             }
           }
         }
       },
-      "name": "Diablo barbudo",
+      "name": "Diablo barbado",
       "creatureSubtype": "Diablo",
-      "tokenName": "Diablo barbudo",
-      "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+      "tokenName": "Diablo barbado",
+      "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
     },
     "ZWFcvDPmy6Pnf2FW": {
       "alignment": "Sin alineamiento",
@@ -11646,24 +11646,24 @@
       "items": {
         "guta5KaYjfu9RNST": {
           "name": "Garras",
-          "description": "<p>[[/attack extended]]. [[/damage extended average]] o, si el demonio tenía ventaja en el rollo de ataque, [[/damage average activity=rzS3e8lmTSDy9BFj]] daño.</p>",
+          "description": "<p>[[/attack extended]]. [[/damage extended average]] o, si el demonio tenía ventaja en la tirada de ataque, [[/damage average activity=rzS3e8lmTSDy9BFj]] de daño.</p>",
           "activities": {
             "rzS3e8lmTSDy9BFj": {
-              "name": "Ataque en ventaja"
+              "name": "Ataque con ventaja"
             }
           }
         },
         "73IgMc9XWVwHzilr": {
-          "name": "Movimiento incorpóreo",
-          "description": "<p>El demonio puede moverse a través de otras criaturas y objetos como si fueran terreno difícil. Se necesita 5 ([[/r 1d10]]) daño por fuerza si termina su giro dentro de un objeto.</p>"
+          "name": "Movimiento Incorpóreo",
+          "description": "<p>El demonio puede moverse a través de otras criaturas y objetos como si fueran terreno difícil. Sufre 5 ([[/r 1d10]]) de daño de fuerza si termina su turno dentro de un objeto.</p>"
         },
         "sth0YtePzwpO82AR": {
           "name": "Sensibilidad a la Luz",
-          "description": "<p>Mientras que en la luz brillante, el demonio tiene desventaja en los rollos de ataque, así como en la Sabiduría (percepción) controles que dependen de la vista.</p>"
+          "description": "<p>Mientras esté bajo luz brillante, el demonio tiene desventaja en las tiradas de ataque y en las pruebas de Sabiduría (Percepción) que dependan de la vista.</p>"
         },
         "GzicxGJr2Ci988b3": {
-          "name": "Sigilo en las sombras",
-          "description": "<p>Mientras que en la luz tenue o la oscuridad, el demonio puede tomar el &amp;Reference[Hide] acción como una acción adicional.</p>"
+          "name": "Sigilo en las Sombras",
+          "description": "<p>Mientras esté en luz tenue u oscuridad, el demonio puede realizar la acción de &amp;Reference[Hide] como acción adicional.</p>"
         }
       },
       "name": "Demonio de las sombras",
