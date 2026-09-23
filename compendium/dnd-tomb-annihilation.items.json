@@ -1076,8 +1076,8 @@
       "name": "Lingote de hierro"
     },
     "toaItemMaskBeast": {
-      "name": "Máscara de la Bestia",
-      "description": "<p>Esta máscara de madera tiene la forma de un rostro de bestia y tiene 3 cargos. Mientras usa la máscara, puede gastar 1 carga y utilizar la máscara para lanzar el @UUID[Compendium.dnd5e.spells.Item.hDOENzjuj5WpLq7B]{amistad animal} deletrear como una acción. La máscara recupera todas las cargas gastadas al amanecer.</p>"
+      "name": "Máscara de la bestia",
+      "description": "<p>Esta máscara de madera tiene forma de rostro de bestia y 3 cargas. Mientras la lleves puesta, puedes usar una acción y gastar 1 carga para lanzar @UUID[Compendium.dnd5e.spells.Item.hDOENzjuj5WpLq7B]{encantar animal}. Recupera todas las cargas al amanecer.</p>"
     },
     "toaJadeCrocodile": {
       "name": "Tecla de cocodrilo de Jade",
@@ -1472,22 +1472,22 @@
       "description": "<p>Un anillo de oro con cornalina fue descubierto en la cueva de agitación en Firefinger.</p>"
     },
     "toamgcAmuletofth": {
-      "name": "Amuleto del cráneo negro",
-      "description": "<p>Este amuleto está tallado en obsidiana y tiene la forma de un cráneo humanoide que grita, con ojos de rubí y esmeraldas para dientes. Se cuelga de un collar de cadena de hierro.</p><p>El amuleto tiene 6 cargos y recupera 1d6 cargos diarios al amanecer. Mientras lleva el amuleto, puede usar una acción para gastar 1 de sus cargos para transportarse y cualquier cosa que esté usando o llevando a un lugar a menos de 100 pies de usted. El destino que elijas no necesita estar en tu línea de vista, pero debe ser familiar para ti (en otras palabras, un lugar que hayas visto o visitado), y debe estar en el mismo plano de existencia que tú. Este efecto no está sujeto a las restricciones mágicas colocadas en la Tumba de los Nueve Dioses; por lo tanto, el amuleto puede ser utilizado para entrar y salir de la tumba.</p><p>Si no estás muerto viviente, debes hacer un lanzamiento de ahorro de la Constitución CD 16 cada vez que uses el amuleto para teletransportarte. En un tirada de salvación fallido, el cráneo negro se estremece mientras se transforma en tránsito. La transformación tiene efecto tan pronto como llegues al destino, y se determina aleatoriamente al lanzar los dados del percentil y consultar la tabla de Transformación del Cráneo Negro.</p><p>@Embed[Compendium.dnd-tomb-annihilation.tables.RollTable.dmgBlackSkullTra rollable classes=\"caption-top\" resultLabel=\"Transformation\"]</p>",
+      "name": "Amuleto del Cráneo Negro",
+      "description": "<p>Este amuleto de obsidiana tiene forma de cráneo humanoide que grita, con ojos de rubí y dientes de esmeralda. Cuelga de una cadena de hierro.</p><p>Tiene 6 cargas y recupera 1d6 al amanecer. Mientras lo lleves puesto, puedes usar una acción y gastar 1 carga para teletransportarte con todo lo que lleves puesto o transportes a un lugar a un máximo de 100 pies. No necesitas verlo, pero debe resultarte familiar: un lugar que hayas visto o visitado. Debe estar en tu mismo plano de existencia. El efecto no está sujeto a las restricciones mágicas de la Tumba de los Nueve Dioses, por lo que permite entrar y salir de ella.</p><p>Si no eres un muerto viviente, debes hacer una salvación de Constitución CD 16 cada vez que lo uses. Si fallas, el cráneo se ríe mientras te transformas durante el viaje. El cambio se produce al llegar: tira los dados percentiles y consulta «Transformaciones del Cráneo Negro».</p><p>@Embed[Compendium.dnd-tomb-annihilation.tables.RollTable.dmgBlackSkullTra rollable classes=\"caption-top\" resultLabel=\"Transformation\"]</p>",
       "activities": {
         "2wBI7EMxac8CUcvQ": {
-          "name": "Teletransporte"
+          "name": "Teletransportarse"
         }
       }
     },
     "toamgcBookmark00": {
-      "name": "Marcador",
-      "description": "<p>Esta daga +3 pertenece a @UUID[Actor.hNq59kIhDGqZBGXl]{Artus Cimber} (ver @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.9gGxLgtmRcNjXZ50]{Apéndice D}). Mientras usted tiene la daga dibujada, puede utilizar una acción adicional para activar una de las siguientes propiedades:</p><ul><li>Provoca que una gema azul puesta en el pomo de la daga emita luz brillante en un radio de 20 pies y luz tenue durante otros 20 pies, o haz que la gema se oscurezca.</li><li>Convierte la daga en una brújula que, mientras descansas en tu palma, apunta hacia el norte.</li><li>Reparto @UUID[Compendium.dnd5e.spells.Item.A4RsPuSvB9wFtz1j]{puerta de dimensión} de la daga. Una vez que esta propiedad es usada, no puede ser usada de nuevo hasta el siguiente amanecer.</li><li>Reparto @UUID[Compendium.dnd5e.spells.Item.P6f1PPKPd9BCb742]{compulsión} (Salva CD 15) de la daga. El alcance del conjuro aumenta a 90 pies, pero sólo se dirige a arañas que son bestias. Una vez que esta propiedad es usada, no puede ser usada de nuevo hasta el siguiente amanecer.</li></ul>",
+      "name": "Marcapáginas",
+      "description": "<p>Esta daga +3 pertenece a @UUID[Actor.hNq59kIhDGqZBGXl]{Artus Cimber} (consulta el @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.9gGxLgtmRcNjXZ50]{apéndice D}). Mientras la tengas desenvainada, puedes usar una acción adicional para activar una de estas propiedades:</p><ul><li>Hacer que la gema azul del pomo emita luz brillante en un radio de 20 pies y tenue otros 20 pies, o apagarla.</li><li>Convertir la daga en una brújula que apunta al norte al colocarla en la palma de la mano.</li><li>Lanzar @UUID[Compendium.dnd5e.spells.Item.A4RsPuSvB9wFtz1j]{puerta dimensional} desde la daga. No puedes volver a usar esta propiedad hasta el siguiente amanecer.</li><li>Lanzar @UUID[Compendium.dnd5e.spells.Item.P6f1PPKPd9BCb742]{compulsión} (salvación CD 15) desde la daga. El alcance aumenta a 90 pies, pero solo afecta a arañas de tipo bestia. No puedes volver a usar esta propiedad hasta el siguiente amanecer.</li></ul>",
       "activities": {
         "W1URb3A46JTu02lj": {
           "target": {
             "affects": {
-              "special": "sólo arañas que son bestias"
+              "special": "solo arañas de tipo bestia"
             }
           }
         },
@@ -1502,10 +1502,10 @@
       },
       "effects": {
         "6uTKgi5M5uwh4DVc": {
-          "name": "Activar gema"
+          "name": "Gema activada"
         },
         "vYc7DRcl94wEwsEH": {
-          "name": "Activar brújula"
+          "name": "Brújula activada"
         }
       }
     },

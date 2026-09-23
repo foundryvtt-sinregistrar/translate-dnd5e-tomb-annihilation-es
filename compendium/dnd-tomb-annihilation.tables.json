@@ -28,25 +28,25 @@
   },
   "entries": {
     "dmgBlackSkullTra": {
-      "name": "Transformación del cráneo negro",
+      "name": "Transformaciones del Cráneo Negro",
       "results": {
         "Il1s5EreuYB87SZe": {
-          "description": "<p>El símbolo de Acerrak se quema en su carne, una maldición que sólo puede ser removida con un @UUID[Compendium.dnd5e.spells.Item.XZhdgVK3cLoxNCQl]{eliminar la maldición} conjuro o magia similar. Hasta que la maldición termine, tus puntos de éxito no pueden ser restaurados por la magia.</p>"
+          "description": "<p>El símbolo de Acererak queda grabado a fuego en tu piel. Esta maldición solo termina con @UUID[Compendium.dnd5e.spells.Item.XZhdgVK3cLoxNCQl]{levantar maldición} o magia similar. Hasta entonces, no puedes recuperar puntos de golpe mediante magia.</p>"
         },
         "9JDm98jIp6b85tEp": {
-          "description": "<p>Crece más grande como si se viera afectado por un @UUID[Compendium.dnd5e.spells.Item.WahI41a3goVUg0x1]{agrandar/reducir} Deletrear, excepto que el efecto dura 1 hora.</p>"
+          "description": "<p>Aumentas de tamaño como bajo los efectos de @UUID[Compendium.dnd5e.spells.Item.WahI41a3goVUg0x1]{agrandar/reducir}, pero el efecto dura 1 hora.</p>"
         },
         "47i7ysHtDdZiSP3U": {
-          "description": "<p>Te vuelves más pequeño como si se viera afectado por un @UUID[Compendium.dnd5e.spells.Item.WahI41a3goVUg0x1]{agrandar/reducir} Deletrear, excepto que el efecto dura 1 hora.</p>"
+          "description": "<p>Disminuyes de tamaño como bajo los efectos de @UUID[Compendium.dnd5e.spells.Item.WahI41a3goVUg0x1]{agrandar/reducir}, pero el efecto dura 1 hora.</p>"
         },
         "5aWRIwRoey1g3lBe": {
-          "description": "<p>Llegas al destino con nada más que el @UUID[Compendium.dnd-tomb-annihilation.items.Item.toamgcAmuletofth]{amuleto del cráneo negro}. Todo lo demás que llevabas aparece en un espacio desocupado a 100 pies de ti.</p>"
+          "description": "<p>Llegas sin nada salvo el @UUID[Compendium.dnd-tomb-annihilation.items.Item.toamgcAmuletofth]{Amuleto del Cráneo Negro}. Todo lo demás que llevaras puesto o transportaras aparece en un espacio desocupado al azar a un máximo de 100 pies de ti.</p>"
         },
         "1pK1LL7Mmx29wcS2": {
-          "description": "<p>Tú lo eres &amp;Reference[paralyzed] durante 1 minuto o hasta que este efecto termine con un @UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{menor restauración} conjuro o magia similar.</p>"
+          "description": "<p>Quedas &amp;Reference[paralyzed] durante 1 minuto o hasta que @UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{restablecimiento menor} o magia similar termine el efecto.</p>"
         },
         "fTUXd7VTRJxcbdvI": {
-          "description": "<p>Te vuelves &amp;Reference[petrified]. Este efecto sólo se puede terminar con un @UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{mayor restauración} conjuro o magia similar.</p>"
+          "description": "<p>Quedas &amp;Reference[petrified]. Solo @UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{restablecimiento mayor} o magia similar puede terminar el efecto.</p>"
         }
       }
     },

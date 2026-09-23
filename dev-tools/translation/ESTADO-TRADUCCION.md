@@ -1272,6 +1272,17 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   Los objetos dentro de actores o deltas de fichas requieren revisión separada.
 - Auditorías técnica y editorial sin errores.
 
+### appendix-c-magic — Amuleto, Marcapáginas y máscara
+
+- Revisados 12 campos de tres objetos y siete de la tabla de transformaciones
+  del Cráneo Negro, con referencias físicas 207 y 209.
+- Conservada la excepción de teletransporte del amuleto y el efecto sobre
+  portadores no muertos vivientes. La tabla mantiene sus seis resultados.
+- Corregido el alcance de compulsión de Marcapáginas: aumenta a 90 pies,
+  no en 90 pies como dice el PDF. Solo afecta a arañas de tipo bestia.
+- Revisados también nombres de actividades y efectos de la daga.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
 - 626 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -1279,8 +1290,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
   del capítulo 4, 126 del capítulo 5 y 21 de los apéndices A y C.
   No equivale a 626 páginas del PDF.
-- 1426 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1426 campos distintos.
+- 1445 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1445 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
