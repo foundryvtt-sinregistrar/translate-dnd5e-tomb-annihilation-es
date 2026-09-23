@@ -1177,14 +1177,26 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   de la opción. Su ubicación y «Illusory» requieren comprobación de interfaz.
 - Auditorías técnica y editorial sin errores.
 
+### ch5-level6-trials2-01 a ch5-level6-trials2-02 — Últimas pruebas
+
+- Revisados dos textos y títulos con referencias físicas 184-185.
+- El espejo permite accionar solo la palanca que se ve reflejada. Conservadas
+  la sexta vela oculta, la palanca falsa y la única convocatoria de hombres jabalí.
+- Adaptada la cancioncilla a ocho versos rimados, manteniendo los dos órdenes
+  de lectura y sus consecuencias.
+- Corregido el PDF: abrir el compartimento por el procedimiento de la canción
+  inversa no activa la trampa. Sí lo hacen las herramientas o el conjuro abrir.
+- Conservados el falso foso, la altura real, el daño recurrente y el único uso.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 598 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 600 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4 y 119 del capítulo 5. No equivale a 598 páginas del PDF.
-- 1306 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1306 campos distintos.
+  del capítulo 4 y 121 del capítulo 5. No equivale a 600 páginas del PDF.
+- 1310 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1310 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
