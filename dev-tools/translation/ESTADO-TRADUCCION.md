@@ -1701,18 +1701,30 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   para no ocultar qué estado aplica; corregir la automatización requiere otro bloque.
 - La biografía original está vacía. El enlace por nombre `Bite` sigue pendiente.
 
+### appendix-d-grungs — Grungs y variantes
+
+- Revisados 286 campos: ambas copias de cinco actores y la página del diario.
+  Incluye grung, guerrero verde, guerreros de élite dorado y naranja, y grung
+  salvaje. Referencias físicas 222 y 223.
+- Revisados conjuros, efectos del veneno por color, repeticiones de salvación,
+  chirrido y saltos. La traducción conserva el contacto directo como impedimento
+  para repetir la salvación contra Piel Venenosa.
+- El exportado amplía la descripción del PDF con criaderos, ascenso de casta,
+  esclavitud, dependencia del agua y variantes del veneno. Estos pasajes y los
+  textos completos de los conjuros se traducen del inglés exportado.
+
 ## Balance de revisión editorial
 
-- 779 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 780 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 174 de los apéndices A, B, C, D y F.
-  No equivale a 779 páginas del PDF.
-- 3269 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 3269 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 175 de los apéndices A, B, C, D y F.
+  No equivale a 780 páginas del PDF.
+- 3555 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 3555 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas veintiséis biografías en ambas copias de actores: siete
-  príncipes y diecinueve criaturas o PNJ del apéndice D. Siguen pendientes las demás
+  insertado. Revisadas treinta y una biografías en ambas copias de actores: siete
+  príncipes y veinticuatro criaturas o PNJ del apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las
