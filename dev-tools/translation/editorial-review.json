@@ -15630,6 +15630,35 @@
           "status": "reviewed-against-es-extraction-and-en-export"
         }
       ]
+    },
+    {
+      "id": "ch5-level5-controls-01",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level5Gear.pages.OMdYjBDxRKlgdD3d.text",
+          "sourceSha256": "6f3e39881324a1ac0fde852437d13d10c6f2bd043941c41f3065923541fe4507",
+          "translationSha256": "98c3bb95c6e64f91d04d00147962432e5d8a064d16d6ad8784c8384bf9c7ae60",
+          "pdfEsPages": [
+            171,
+            172,
+            173
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level5Gear.pages.OMdYjBDxRKlgdD3d.name",
+          "sourceSha256": "27e5a18544c0aacbadd177d9cfb8fb5ae004e5c1290a1abe7d71511e8a3feea5",
+          "translationSha256": "8d8dddc5bf55ea43fde1504e4662f9574caba179772da24750224991dd5b74f3",
+          "pdfEsPages": [
+            171,
+            172,
+            173
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
     }
   ]
 }

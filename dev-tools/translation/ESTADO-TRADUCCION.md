@@ -1080,14 +1080,25 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   para decidir su presentación durante la comprobación de la escena.
 - Auditorías técnica y editorial sin errores.
 
+### ch5-level5-controls-01 — Sala de control
+
+- Revisado texto y título con referencias físicas 171-173.
+- Corregida la configuración 1 conforme al original: 58 conecta con 60 y 63;
+  59 queda aislada. El PDF incluye 59 también entre las conexiones.
+- Diferenciados selector y botón de giro, palanca de vertido, cierre de la
+  salida y enlace telepático. Se mantienen las restricciones para taponar
+  tuberías y liberar a una criatura atrapada bajo la pared.
+- Conservado Gorra, nombre original de Mustio, y los 36 destinos UUID.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 580 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 581 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4 y 101 del capítulo 5. No equivale a 580 páginas del PDF.
-- 1270 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1270 campos distintos.
+  del capítulo 4 y 102 del capítulo 5. No equivale a 581 páginas del PDF.
+- 1272 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1272 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
