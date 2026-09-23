@@ -303,26 +303,26 @@
           "items": {
             "f06f1zQs43dT80cM": {
               "name": "Ataque múltiple",
-              "description": "<p>El aldani hace dos ataques con su [[/item .iIdIKVDKWcYa9iOr]]{garra}.</p>"
+              "description": "<p>El aldani realiza dos ataques con su [[/item .iIdIKVDKWcYa9iOr]]{garra}.</p>"
             },
             "iIdIKVDKWcYa9iOr": {
               "name": "Garra",
-              "description": "<p>[[/attack extended]]. [[/damage extended]], y el objetivo es &amp;Reference[Grappled apply=false]{forcejeado} (escape CD [[lookup @skills.ath.passive]]). El aldani tiene dos garras, cada una de las cuales sólo puede alcanzar un objetivo.</p>",
+              "description": "<p>[[/attack extended]]. [[/damage extended]], y el objetivo queda &amp;Reference[Grappled apply=false]{agarrado} (CD para escapar: [[lookup @skills.ath.passive]]). El aldani tiene dos pinzas y solo puede agarrar a un objetivo con cada una.</p>",
               "activities": {
                 "2iZuYzf98P3DMJZY": {
-                  "name": "Comprobación de escape"
+                  "name": "Prueba para escapar"
                 }
               },
               "effects": {
                 "KlBWvEfjluBPWvkh": {
                   "name": "Agarrado",
-                  "description": "<p>El objetivo es &amp;Reference[Grappled apply=false]{forcejeado} (escape CD 11).</p>"
+                  "description": "<p>El objetivo está &amp;Reference[Grappled apply=false]{agarrado} (CD 11 para escapar).</p>"
                 }
               }
             },
             "mfDwyUCYv4pGAirl": {
               "name": "Anfibio",
-              "description": "<p>Los aldani pueden respirar aire y agua.</p>"
+              "description": "<p>El aldani puede respirar tanto aire como agua.</p>"
             }
           },
           "name": "Aldani (hombre langosta)",
@@ -365,8 +365,8 @@
               "name": "Cuerno"
             },
             "E0jvCOc9sAbY1zvY": {
-              "name": "Sentidos de Keen",
-              "description": "<p>El almiraj tiene ventaja en la Sabiduría (percepción) controles que dependen de la audición o la vista.</p>"
+              "name": "Sentidos Agudos",
+              "description": "<p>El almiraj tiene ventaja en las pruebas de Sabiduría (Percepción) que dependen del oído o de la vista.</p>"
             }
           },
           "biography": "<p>Un almiraj (se pronuncia [álmirash]) es un conejo grande y tímido con un cuerno en espiral de 1 pie de largo en la frente, parecido al de un unicornio. Si se ve obligado a atacar, intenta ensartar a sus enemigos con él.</p><div><div><p>Hace mucho tiempo, unos mercaderes de la lejana tierra de Zakhara trajeron almirajes a Chult. Estas criaturas, hábiles para eludir a los depredadores, han prosperado por toda la península tropical. Viven en madrigueras y pueden capturarse y domesticarse. Con permiso del DM, el conjuro @UUID[Compendium.dnd5e.spells.Item.JGT5bNqu9REL7Fuz]{encontrar familiar} puede invocar a un almiraj.</p></div></div>"

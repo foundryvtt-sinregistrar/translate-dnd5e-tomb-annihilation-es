@@ -1535,6 +1535,18 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   Este bloque no acredita sus rasgos de combate, objetos ni actividades.
 - Auditorías técnica y editorial sin errores.
 
+### appendix-d-smalltraits — Textos completos de almiraj y aldani
+
+- Revisados 30 campos adicionales en las dos copias de almiraj y aldani,
+  con referencia física 211: alineamiento, rasgos, ataques, actividad y efecto.
+- Comprobado por clave de campo que ambos actores tienen revisados todos sus
+  textos exportados, sumando las biografías y nombres del bloque anterior.
+- Conservados sentidos basados en oído o vista, respiración anfibia y un
+  objetivo agarrado por cada pinza. El efecto del aldani conserva CD 11.
+- Las fórmulas y datos mecánicos siguen siendo los originales; la cobertura
+  textual completa no acredita su funcionamiento dentro de Foundry.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
 - 757 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -1542,8 +1554,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
   del capítulo 4, 126 del capítulo 5 y 152 de los apéndices A, B, C, D y F.
   No equivale a 757 páginas del PDF.
-- 2421 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 2421 campos distintos.
+- 2451 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 2451 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas trece biografías en ambas copias de actores: siete
   príncipes y seis criaturas o PNJ del apéndice D. Siguen pendientes las demás
