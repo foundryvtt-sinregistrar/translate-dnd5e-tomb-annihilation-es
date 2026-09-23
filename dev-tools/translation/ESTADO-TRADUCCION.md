@@ -2844,6 +2844,18 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   editoriales de actor pendientes según el esquema de extracción actual.
   Esta cobertura no certifica las automatizaciones ni los enlaces durante el juego.
 
+### items-equipment — Equipo de viaje y herramientas
+
+- Revisados 29 objetos independientes (60 campos): herramientas, recipientes,
+  material de escritura, munición, equipo de viaje, canoa, colector de lluvia
+  y ambos repelentes. Contrastados con el exportado inglés, conservando
+  cantidades, unidades, precios, capacidades, duraciones y enlaces de tirada.
+- Conservada la propiedad de la espada larga que permite hablar dracónico.
+  Los paquetes de explorador y erudito solo describen una mochila en el
+  original; no se ha inventado un inventario ausente. La baraja de los Tres
+  Dragones también conserva la descripción genérica del original.
+- Estos objetos no tienen copias independientes con el mismo ID en Adventure.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2853,8 +2865,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
   de Foundry, tres de créditos y cuatro de historial.
   No equivale a 931 páginas del PDF.
-- 17805 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 17805 campos distintos.
+- 17865 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 17865 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento cuarenta y dos biografías en ambas copias de actores: siete
   príncipes, ciento veintisiete criaturas o PNJ vinculados al apéndice D y ocho perfiles

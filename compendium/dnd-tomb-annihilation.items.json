@@ -115,11 +115,11 @@
     },
     "4deps3WocWqUrlfp": {
       "name": "Herramientas de peletero",
-      "description": "<p>Estas herramientas especiales incluyen los artículos necesarios para perseguir una artesanía o comercio en el trabajo del cuero.</p>\n<p>El dominio de un conjunto de herramientas artesanales le permite añadir su bono de habilidad a cualquier control de habilidad que realice utilizando las herramientas de su oficio. Cada tipo de herramientas artesanales requiere una habilidad separada.</p>"
+      "description": "<p>Estas herramientas especiales incluyen los utensilios necesarios para trabajar el cuero.</p>\n<p>La competencia con unas herramientas de artesano te permite sumar tu bonificador por competencia a las pruebas de característica que realices con ellas para ejercer tu oficio. Cada tipo de herramientas de artesano requiere una competencia distinta.</p>"
     },
     "4iYOSes23ps0cYYG": {
       "name": "Espada larga",
-      "description": "<p>[[/attack extended]]. [[/damage extended average]] o [[/damage twoHanded average]] daño si se utiliza con dos manos.</p><p>La espada tiene una propiedad mágica menor: su portador gana la capacidad de hablar y entender el lenguaje Draconic.</p>"
+      "description": "<p>[[/attack extended]]. [[/damage extended average]] o [[/damage twoHanded average]] de daño si se usa a dos manos.</p><p>La espada tiene una propiedad mágica menor: su portador puede hablar y entender dracónico.</p>"
     },
     "4vWnKFrBQcYr179F": {
       "name": "Zafiro",
@@ -127,11 +127,11 @@
     },
     "4vofYizMEcliLIGP": {
       "name": "Antorcha",
-      "description": "<p>Una antorcha se quema durante 1 hora, proporcionando una luz brillante en un radio de 20 pies y una luz tenue para otros 20 pies. Si hace un ataque cuerpo a cuerpo con una antorcha encendida y golpea, le da 1 daño al fuego.</p>"
+      "description": "<p>Una antorcha arde durante 1 hora y proporciona luz brillante en un radio de 20 pies y luz tenue otros 20 pies más allá. Si realizas un ataque cuerpo a cuerpo con una antorcha encendida e impactas, causa 1 de daño de fuego.</p>"
     },
     "506FVb3GuOkXS6Ak": {
       "name": "Flecha",
-      "description": "<p>Munición estándar utilizada para arcos de todas las variedades. Estas flechas mundanas están hechas de árboles de madera lisa con plumas de ganso fletching y petacas de metal martillo.</p>"
+      "description": "<p>Munición corriente para arcos de todo tipo. Estas flechas no mágicas tienen astiles de madera lisa, plumas de ganso y puntas de metal forjado.</p>"
     },
     "5IiQnltlB6iUtmf3": {
       "name": "Battleaxe enano +1",
@@ -163,8 +163,8 @@
       "name": "El tesoro de Keshma"
     },
     "BPmAaXqZvmkOP7KD": {
-      "name": "Cuerda Hempen (50 pies)",
-      "description": "<p>Cuerda, ya sea de cáñamo o seda, tiene 2 puntos de impacto y puede ser reventado con un control de fuerza CD 17.</p>"
+      "name": "Cuerda de cáñamo (50 pies)",
+      "description": "<p>Una cuerda, ya sea de cáñamo o de seda, tiene 2 puntos de golpe y puede romperse con una prueba de Fuerza CD 17.</p>"
     },
     "CmdmoB6i7H9pAcJd": {
       "name": "Ojo de cristal rosado",
@@ -189,11 +189,11 @@
     },
     "E8y0xiFk4wnjRTJh": {
       "name": "Carcaj",
-      "description": "<p>Este temblor puede sostener hasta 20 flechas. Es un aljaba de cuero negro bordado con un mapa de estrellas de cuarzo. Fue encontrado en los Barrios de Fenthaza en el templo dedicado a Dendar la Serpiente Nocturna.</p>"
+      "description": "<p>Este carcaj puede contener hasta 20 flechas. Es de cuero negro y lleva bordado un mapa estelar adornado con cuarzos. Se encontró en los aposentos de Fenthaza, en el templo dedicado a Dendar, la Serpiente de la Noche.</p>"
     },
     "EKEVYYI4wYXVPzYc": {
       "name": "Cuchillo pequeño",
-      "description": "<p>Un cuchillo contundente usado por los eruditos para abrir cartas y correspondencia.</p>"
+      "description": "<p>Un cuchillo sin filo que los eruditos usan para abrir cartas y correspondencia.</p>"
     },
     "FDyWQxiGpAEMpNGR": {
       "name": "Valija (25 gp)",
@@ -208,8 +208,8 @@
       "description": "<p>Una gema de ónix fue descubierta en un saco dentro de la cabaña de Nanny Pu'pu en Mbala.</p>"
     },
     "Gce9CkNKuJgaE9tn": {
-      "name": "Paquete del explorador",
-      "description": "<p>Una mochila puede sostener un pie cúbico o 30 libras de equipo. También puedes atar objetos, como un roll de cama o una bobina de cuerda, al exterior de una mochila.</p>"
+      "name": "Paquete de explorador",
+      "description": "<p>Una mochila puede contener un pie cúbico o 30 libras de equipo. También puedes sujetar objetos, como un saco de dormir o una cuerda enrollada, a su exterior.</p>"
     },
     "II7y1G16n4FNJn5i": {
       "name": "Pergamino ortográfico: Comuna con la Naturaleza",
@@ -217,7 +217,7 @@
     },
     "IMi5xvbQUXwvGYcG": {
       "name": "Yesquero",
-      "description": "<p>Este pequeño recipiente contiene pedernal, acero al fuego y tinte (normalmente paño seco empapado en aceite ligero) utilizado para encender un fuego. Usarlo para encender una antorcha - o cualquier otra cosa con combustible abundante y expuesto - toma una acción. Encender cualquier otro fuego toma 1 minuto.</p>\n<p> </p>"
+      "description": "<p>Este pequeño recipiente contiene pedernal, eslabón y yesca, normalmente tela seca impregnada de aceite ligero, que se utilizan para encender fuego. Encender una antorcha o cualquier otro objeto con abundante combustible expuesto requiere una acción. Encender cualquier otro fuego lleva 1 minuto.</p>\n<p> </p>"
     },
     "IPN1rtgAmvJ5vIE1": {
       "name": "Veneno de Serpiente (lesión)",
@@ -288,8 +288,8 @@
       "description": "<p>Una amatista encontrada en un templario muerto en las letrinas dCampamento Justicia.</p>"
     },
     "KIv02BnJu6t8Rhwh": {
-      "name": "Juego de líos",
-      "description": "<p>Esta caja de estaño contiene una taza y cubiertos simples. La caja abraza juntas, y un lado se puede utilizar como una sartén y el otro como un plato o un tazón poco profundo.</p>"
+      "name": "Fiambrera",
+      "description": "<p>Esta caja de hojalata contiene una taza y unos cubiertos sencillos. Sus dos mitades se cierran con un enganche; una puede usarse como sartén y la otra como plato o cuenco poco profundo.</p>"
     },
     "KVeyorwMrZ69hoTb": {
       "name": "Poción de veneno",
@@ -320,8 +320,8 @@
       "description": "<p>Encontraste un globo de cristal escarlata en la Tumba de los Nueve Dioses.</p>"
     },
     "Nq57IMgBfdvkC8PI": {
-      "name": "Libro de Lore",
-      "description": "<p>Un libro que contiene relatos históricos, información relativa a un campo particular de la tradición, el mito o la leyenda.</p>"
+      "name": "Libro de conocimientos",
+      "description": "<p>Un libro que contiene relatos históricos o información sobre un campo concreto del saber, un mito o una leyenda.</p>"
     },
     "O4u4AEhnjNMrcMfr": {
       "name": "Bote plegable",
@@ -345,11 +345,11 @@
     },
     "Q3iwOhasZLjlYfhv": {
       "name": "Herramientas de cartógrafo",
-      "description": "<p>Estos instrumentos especiales incluyen los artículos necesarios para realizar una artesanía o un comercio de cartografía.</p>\n<p>El dominio de un conjunto de herramientas artesanales le permite añadir su bono de habilidad a cualquier control de habilidad que realice utilizando las herramientas de su oficio. Cada tipo de herramientas artesanales requiere una habilidad separada.</p>"
+      "description": "<p>Estas herramientas especiales incluyen los utensilios necesarios para ejercer la cartografía.</p>\n<p>La competencia con unas herramientas de artesano te permite sumar tu bonificador por competencia a las pruebas de característica que realices con ellas para ejercer tu oficio. Cada tipo de herramientas de artesano requiere una competencia distinta.</p>"
     },
     "QM2QweE1NrqwJDlD": {
-      "name": "Pluma de tinta",
-      "description": "<p>Un dispositivo utilizado en combinación con tinta para escribir o dibujar en una hoja de papel.</p>"
+      "name": "Pluma",
+      "description": "<p>Un utensilio que se utiliza con tinta para escribir o dibujar sobre una hoja de papel.</p>"
     },
     "S5UrwuSeZ88mHz2A": {
       "name": "Ojo de cristal verde",
@@ -368,8 +368,8 @@
       "description": "<p>Una piedra preciosa rubí fue encontrada en la pagoda de Nangalore.</p>"
     },
     "VMnX2RS0OqoTp8KZ": {
-      "name": "Cartas de ante de tres drágonos",
-      "description": "<p>Este artículo abarca una amplia gama de tipos de cartas de juego, tanto sin marcar como marcadas.</p>\n<p>Si eres competente con un juego, puedes añadir tu bono de habilidad a los cheques de habilidad que haces para jugar un juego con ese juego. Cada tipo de juego requiere una habilidad separada.</p>"
+      "name": "Baraja de los Tres Dragones",
+      "description": "<p>Este objeto abarca una amplia variedad de naipes, tanto normales como marcados.</p>\n<p>Si tienes competencia con un juego, puedes sumar tu bonificador por competencia a las pruebas de característica que realices para jugar con él. Cada tipo de juego requiere una competencia distinta.</p>"
     },
     "WHxyUHFXLcSHmvWx": {
       "name": "El libro de ortografía de Devlin",
@@ -433,16 +433,16 @@
       "description": "<p>[[/attack extended]]. [[/damage extended average]].</p><p>El cetro está hecho de hierro sólido y tiene una cabeza adamantina.</p>"
     },
     "cQANzxCGDaWTl5Oc": {
-      "name": "Kit de herbalismo",
-      "description": "<p>Este kit contiene una variedad de instrumentos como cortadores, morteros y pestillos, y bolsas y viales utilizados por los herbolarios para crear remedios y pociones. La competencia con este kit le permite añadir su bono de competencia a cualquier control de capacidad que realice para identificar o aplicar hierbas. Además, se requiere competencia con este kit para crear antitoxinas y pociones de curación.</p>"
+      "name": "Útiles de herborista",
+      "description": "<p>Estos útiles incluyen diversos instrumentos, como tijeras, mortero y mano de mortero, así como bolsas y viales que los herboristas usan para crear remedios y pociones. La competencia con estos útiles te permite sumar tu bonificador por competencia a las pruebas de característica que realices para identificar o aplicar hierbas. Además, necesitas tener competencia con ellos para crear antitoxinas y pociones de curación.</p>"
     },
     "dHBFZnJPlFciPBTk": {
       "name": "Poción de mayor curación",
       "description": "<p><em>La poción brilla en rojo cuando se agita.</em></p><p>Usted recupera 4d4+4 puntos de golpe cuando usted bebe esta poción.</p>"
     },
     "ddJcn1ExvV2RQEZ2": {
-      "name": "Piel de agua",
-      "description": "<p>Una piel de cuero cosida en una piel cerrada que puede contener hasta 4 pintas de líquido. Pesa 5 libras cuando está lleno; una pinta de agua es aproximadamente 1 libra.</p>"
+      "name": "Odre",
+      "description": "<p>Un recipiente de piel cosida que puede contener hasta 4 pintas de líquido. Pesa 5 libras cuando está lleno; una pinta de agua pesa aproximadamente 1 libra.</p>"
     },
     "djffoDw9QzHByyMF": {
       "name": "Pergamino ortográfico: Restauración menor",
@@ -454,7 +454,7 @@
     },
     "eK7IWNGLlvhAPYIR": {
       "name": "Carcaj",
-      "description": "<p>Un temblor puede sostener hasta 20 flechas.</p>"
+      "description": "<p>Un carcaj puede contener hasta 20 flechas.</p>"
     },
     "ffirbL8z25ZZImBw": {
       "name": "Pergamino ortográfico: Protección contra el mal y el bien (Undead)",
@@ -495,15 +495,15 @@
     },
     "jTN9SUHwL1QJBjb9": {
       "name": "Pergamino",
-      "description": "<p>Una sola hoja de papel pergamino más pesado.</p>"
+      "description": "<p>Una hoja de pergamino grueso.</p>"
     },
     "kevmACn8EZIov31x": {
       "name": "Pergamino ortográfico: Toc",
       "description": "<p><em>Nivel 2 &amp;Reference[Spell Scroll]</em></p><p>Elija un objeto que pueda ver dentro del rango. El objeto puede ser una puerta, una caja, un cofre, un conjunto de manáculos, un candado u otro objeto que contenga un medio mundano o mágico que impida el acceso.</p><p>Un objetivo que se mantiene cerrado por una cerradura mundana o que está atascado o bloqueado se convierte en desbloqueado, desbloqueado, o sin barras. Si el objeto tiene múltiples cerraduras, sólo uno de ellos está desbloqueado.</p><p>Si eliges un objetivo que se mantiene cerrado con Arcane Lock, ese conjuro se suprime durante 10 minutos, durante el cual el objetivo se puede abrir y cerrar normalmente.</p><p>Cuando lanzas el conjuro, un fuerte golpe, audible desde tan lejos como 300 pies, emana del objeto objetivo.</p>"
     },
     "kjpzcUvtp48y3OQF": {
-      "name": "Bolsa de arena",
-      "description": "<p>Una pequeña bolsa de arena utilizada por el erudito para secar letras recién entintadas y correspondencia rápida y segura para un envío rápido.</p>"
+      "name": "Saquito de arena",
+      "description": "<p>Un saquito de arena que los eruditos usan para secar con rapidez y sin estropearla la tinta de las cartas recién escritas, de modo que puedan enviarlas cuanto antes.</p>"
     },
     "l9ziM32a9FdfpLFb": {
       "name": "Ojo de Cristal Naranja",
@@ -535,8 +535,8 @@
       "description": "<p>Esencial para los magos, un libro de conjuros es un tomo encuadernado en cuero con 100 páginas de terciopelo en blanco adecuado para grabar conjuros.</p><p>Este libro de conjuros contiene [[/r 1d4]] Deletrea cada uno de 4to a 6to nivel.</p><p></p>"
     },
     "ntHuG3eXwgIrlRzW": {
-      "name": "Paquete de estudiosos",
-      "description": "<p>Una mochila puede sostener un pie cúbico o 30 libras de equipo. También puedes atar objetos, como un roll de cama o una bobina de cuerda, al exterior de una mochila.</p>"
+      "name": "Paquete de erudito",
+      "description": "<p>Una mochila puede contener un pie cúbico o 30 libras de equipo. También puedes sujetar objetos, como un saco de dormir o una cuerda enrollada, a su exterior.</p>"
     },
     "o02Zu6XTnnKHMene": {
       "name": "Daga ceremonial",
@@ -544,7 +544,7 @@
     },
     "oLJ9bSI4JBkdxVJB": {
       "name": "Raciones",
-      "description": "<p>Las raciones consisten en alimentos secos adecuados para un viaje prolongado, incluyendo carne seca, fruta seca, hardtack y nueces.</p>"
+      "description": "<p>Las raciones consisten en alimentos secos adecuados para viajes largos, como carne seca, fruta desecada, galletas duras y frutos secos.</p>"
     },
     "odkjUeOyi8WQeAoZ": {
       "name": "El Longbow de Malison",
@@ -584,7 +584,7 @@
     },
     "t73thb1C4a3YFyqR": {
       "name": "Catalejo",
-      "description": "<p>Los objetos vistos a través de un espejo espía se magnifican al doble de su tamaño.</p>\n<p> </p>"
+      "description": "<p>Los objetos vistos a través de un catalejo parecen el doble de grandes.</p>\n<p> </p>"
     },
     "toa1Yklwa0000000": {
       "name": "Yklwa +1",
@@ -599,17 +599,17 @@
       "description": "<p>La Corona del Opal Negro fue usada una vez por el archimago Sadamor de Netheril. La leyenda habla de cómo Sadamor vio las profundidades del mal de la humanidad reflejadas en el ópalo de su corona. Con el corazón roto, creó un dispositivo del día del juicio final —una esfera de aniquilación— para tragar el mundo, pero fue consumido por su propia creación.</p>"
     },
     "toaBlockInsectRe": {
-      "name": "Bloque repelente de insectos",
-      "description": "<p>El repelente de insectos se puede comprar en Port Nyanzaru en dos formas: bloques de incienso o un grasiento salve. El príncipe mercante Kwayothé controla la venta de ambos. Ninguna clase de repelente protege contra <strong>insectos gigantes</strong> o los viles <strong>enjambres de insectos</strong> que se describe en el apéndice A de la <em>Manual de monstruos</em>.</p><p>Un bloque de incienso se vende por 1 sp. Cuando se enciende, quema durante 8 horas y repele insectos normales dentro de un radio de 20 pies centrado en él.</p>",
+      "name": "Bloque de repelente de insectos",
+      "description": "<p>En Puerto Nyanzaru se puede comprar repelente de insectos en dos formatos: bloques de incienso o un ungüento graso. La princesa mercante Kwayothé controla la venta de ambos. Ninguno protege contra los <strong>insectos gigantes</strong> ni los temibles <strong>enjambres de insectos</strong> descritos en el apéndice A del <em>Manual de Monstruos</em>.</p><p>Un bloque de incienso cuesta 1 pp. Una vez encendido, arde durante 8 horas y repele los insectos normales en un radio de 20 pies a su alrededor.</p>",
       "activities": {
         "LWyeUButBHToOuEZ": {
-          "name": "Gasto"
+          "name": "Gastar uso"
         }
       }
     },
     "toaCanoe00000000": {
       "name": "Canoa",
-      "description": "<p>Una canoa se puede comprar en Port Nyanzaru por 50 gp. Tiene capacidad para seis criaturas medianas y tiene una velocidad máxima de 2 mph. Por lo demás, es idéntico a un bote de remos (véase el capítulo 5 de la <em>Guía del Dungeon Master</em>).</p>"
+      "description": "<p>En Puerto Nyanzaru se puede comprar una canoa por 50 po. Puede transportar hasta seis criaturas Medianas y tiene una velocidad máxima de 2 millas por hora. Por lo demás, es idéntica a un bote de remos (consulta el capítulo 5 de la <em>Guía del Dungeon Master</em>).</p>"
     },
     "toaCh1Diamond500": {
       "name": "Diamante",
@@ -1064,11 +1064,11 @@
       "description": "<p>Obtuviste una jarra de oro con un rostro triste que se transforma en una sonrisa cuando se llena en los Salones Rotten de la Tumba de los Nueve Dioses.</p>"
     },
     "toaInsectRepelle": {
-      "name": "Salve repelente de insectos",
-      "description": "<p>El repelente de insectos se puede comprar en Port Nyanzaru en dos formas: bloques de incienso o un grasiento salve. El príncipe mercante Kwayothé controla la venta de ambos. Ninguna clase de repelente protege contra <strong>insectos gigantes</strong> o los viles <strong>enjambres de insectos</strong> que se describe en el apéndice A de la <em>Manual de monstruos</em>.</p><p>Una calabaza o vial de salve, que se vende por 1 gp, contiene 20 aplicaciones de grasa inodora.</p><p>Una aplicación protege a su portador contra insectos normales durante 24 horas. La salmuera es resistente al agua para que no se lave bajo la lluvia.</p>",
+      "name": "Ungüento repelente de insectos",
+      "description": "<p>En Puerto Nyanzaru se puede comprar repelente de insectos en dos formatos: bloques de incienso o un ungüento graso. La princesa mercante Kwayothé controla la venta de ambos. Ninguno protege contra los <strong>insectos gigantes</strong> ni los temibles <strong>enjambres de insectos</strong> descritos en el apéndice A del <em>Manual de Monstruos</em>.</p><p>Una calabaza o un vial de ungüento cuesta 1 po y contiene 20 aplicaciones de grasa inodora.</p><p>Una aplicación protege a quien la use contra los insectos normales durante 24 horas. El ungüento es resistente al agua, por lo que la lluvia no lo elimina.</p>",
       "activities": {
         "ThBaYOyTzPGQIUad": {
-          "name": "Gasto"
+          "name": "Gastar uso"
         }
       }
     },
@@ -1127,7 +1127,7 @@
     },
     "toaRainCatcher00": {
       "name": "Colector de lluvia",
-      "description": "<p>Un receptor de lluvia es un artilugio simple que consiste en una lona de cuero de 5 pies cuadrados y un marco de madera con patas. Cuando la lona se extiende a través del marco de madera, forma una cuenca que puede coger 2 galones de agua potable por pulgada de lluvia y mantener hasta 8 galones. La lona y el marco de madera se pliegan para facilitar el transporte. Un receptor de lluvia cuesta 1 gp y pesa 5 libras.</p>"
+      "description": "<p>Un colector de lluvia es un artilugio sencillo compuesto por una lona de cuero cuadrada de 5 pies de lado y un armazón de madera con patas. Al tensar la lona sobre el armazón, se forma una cubeta que recoge 2 galones de agua potable por pulgada de lluvia y puede contener hasta 8 galones. La lona y el armazón se pliegan para facilitar su transporte. Un colector de lluvia cuesta 1 po y pesa 5 libras.</p>"
     },
     "toaRuby000000000": {
       "name": "Rubí",
@@ -1683,8 +1683,8 @@
       "name": "Pouch de Voj"
     },
     "uN9jqqeqq8WuhJoc": {
-      "name": "Colchoneta",
-      "description": "<p>Rollo de tela utilizado por el viajero para dormir en.</p>"
+      "name": "Saco de dormir",
+      "description": "<p>Un rollo de tela que los viajeros usan para dormir.</p>"
     },
     "uPNhsK1TNYNvzCU6": {
       "name": "Tesorería de Hrakhamar"
@@ -1699,11 +1699,11 @@
       }
     },
     "yLno70maMojv7FQ0": {
-      "name": "Valija",
-      "description": "<p>Una bolsa de tela o cuero puede contener hasta 20 balas de honda o 50 agujas de la sopleta, entre otras cosas. Una bolsa compartimentada para sujetar componentes del conjuro se llama bolsa del componente. Una bolsa puede contener hasta ⅕ de pie cúbico o 6 libras de equipo.</p>"
+      "name": "Bolsa",
+      "description": "<p>Una bolsa de tela o cuero puede contener hasta 20 balas de honda o 50 agujas de cerbatana, entre otras cosas. Una bolsa con compartimentos para guardar los componentes de los conjuros se llama bolsa de componentes. Una bolsa puede contener hasta ⅕ de pie cúbico o 6 libras de equipo.</p>"
     },
     "yNJwzScrTsRkOCa5": {
-      "name": "Frasco de tinta",
+      "name": "Botella de tinta",
       "description": "<p>Una pequeña botella de tinta para escribir sobre pergamino.</p>"
     },
     "yhanxJwcOCQrKJHp": {

@@ -167991,6 +167991,492 @@
           "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
         }
       ]
+    },
+    {
+      "id": "items-equipment",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.items.4deps3WocWqUrlfp.name",
+          "sourceSha256": "73677d7488ac43e5a55ec3234c9ed3b98a7f1001bf06f2c833b0ddbd07c5e3d6",
+          "translationSha256": "24f735b102acfc5221bc48215d48b573e9fc1aa238542a45b8396a54acff0824",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.4deps3WocWqUrlfp.description",
+          "sourceSha256": "91e910b549dd3ac82c657b350c3050e04f0c5950b6b1dbb28752c65a8492432f",
+          "translationSha256": "df8558912d00aebb0edd24b06b6b26e56c4f4172e81895a8a870116dd89223a4",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.4iYOSes23ps0cYYG.name",
+          "sourceSha256": "c47593d2cf1da5f5febca151a7f2be3a13397667a51881906b12af1ef5aa0887",
+          "translationSha256": "f0373ef6ae04db31875ad27adc500770f978876dcaafdff720098ddb2e370f9d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.4iYOSes23ps0cYYG.description",
+          "sourceSha256": "e6edce1d07b9b2709d8fbb35d732a0094ac556035641a9c738ae2e43968fbc4d",
+          "translationSha256": "fcb4fda7944d5c079e2065f0835b88070d96780d0992cc617c1720304b914815",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.4vofYizMEcliLIGP.name",
+          "sourceSha256": "dcc578acd71a7bf2c0e96de641cc4656cffa744e1cadd724c18b4780ce007e40",
+          "translationSha256": "122dddeb8030c38723eb0b9d33a4bb7ca2451906f3d341aabd63ac111440f97b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.4vofYizMEcliLIGP.description",
+          "sourceSha256": "ba659361d80ad4ca5578a0c1bf8ed920c9efddf722aad4702114c511188db4ed",
+          "translationSha256": "d81f518d2da637d8c0801a68979776164dccd34fa57b60e2ccd17a27eff2b853",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.506FVb3GuOkXS6Ak.name",
+          "sourceSha256": "05800e70aa10c86f5ab898d18ad6884245a149f3b945bb0bd8cd05a8e469cd27",
+          "translationSha256": "439423c8afa809cdef80b6b29f41d4fab9a9123917841f573c3c5e9aec6fb397",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.506FVb3GuOkXS6Ak.description",
+          "sourceSha256": "6157a6e07ebb8f904c7104866f0e089d568b4a38a1edead89965977c14eec8e2",
+          "translationSha256": "4867c209b4a740ba8a4ff9819ae88cbee15727cbb2cecddd55ce175e6e2ae6b9",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.BPmAaXqZvmkOP7KD.name",
+          "sourceSha256": "6482a3f156289a82f73168ab74be87a0773c202b23707e33bb6e588e1a48b0cc",
+          "translationSha256": "0b1559d2e392ec07a3008ff35897443515850900afea5831a3e6b929eba98bfb",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.BPmAaXqZvmkOP7KD.description",
+          "sourceSha256": "65b2f24903409ba247191bb51ccbd125d92278ffa95412451df4a1d3ab2426a3",
+          "translationSha256": "6bde3d8e69dea15f94bad2a7e4ed4703df44e0a2c7f3da1d7c209cca51ca54e0",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.E8y0xiFk4wnjRTJh.name",
+          "sourceSha256": "210b56c8d06acd330fcb201585c07eef5e4ebbcabd78ee3e04a4b0dfc56fc4be",
+          "translationSha256": "0110bb6e1c34326a08424e96c2123126b144e1230da1ed6d7cd83a63852e4703",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.E8y0xiFk4wnjRTJh.description",
+          "sourceSha256": "d6c61238e665363cdfabec494f29100f69bc5b239d274004a757be71a47c1b79",
+          "translationSha256": "f456dd195e71027f09c968932e926d050ec13db87caade00d151ca40972d6ff6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.EKEVYYI4wYXVPzYc.name",
+          "sourceSha256": "f8258d3e4610736a7c1b70696689941de8700b203895e64853f0aaa80159e33c",
+          "translationSha256": "b8338768a283e9052e16b39a49f442c6bd6f24c421f942f56d86137195e6dc5d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.EKEVYYI4wYXVPzYc.description",
+          "sourceSha256": "6ba86469082cce647d77e418dcea2df21f5ed9d709a0988c30165017ddf450fa",
+          "translationSha256": "6f6349092121d51c24b27263faddbfca7b455a0d340b7e383728154dec1a62e2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.Gce9CkNKuJgaE9tn.name",
+          "sourceSha256": "ab785bb3f1b9c97c3c3439d6124fe78511351799ecf5a28547f7aae6fc8d2113",
+          "translationSha256": "2424f7073139ecf37d324837aa8e9515b1b34dccfcbfb2fc9a834bcb353c87ee",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.Gce9CkNKuJgaE9tn.description",
+          "sourceSha256": "11b6c2ee6b27c570c839e1440916415b4e48e09763c177f80929dd0d6001142a",
+          "translationSha256": "9d1213883925b518881998b104f7c9737f6821a26e5eced53f918417288187d5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.IMi5xvbQUXwvGYcG.name",
+          "sourceSha256": "6bfd456a621d3f12b985624785ba22f7c91371e4a973d23b7f57bd4e2bf3b8f9",
+          "translationSha256": "592820a5eff26f9d4aac3f5ddfdfa40f48b1dcf98b4746a7cd4f37b1641c9fff",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.IMi5xvbQUXwvGYcG.description",
+          "sourceSha256": "53b7f0a9f0a68fd0b1a9fbcf23353290f63b907879a025e8ee507449ac9013fd",
+          "translationSha256": "61cfdaef3a8febe465fbaa0fff1b6d2b99a4c7c7f51279d0a386ecb43501107e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.KIv02BnJu6t8Rhwh.name",
+          "sourceSha256": "fd7bead875a8147b795acd12a8ee0f44fed1d22132d1f8cfaf1affa32abb1f33",
+          "translationSha256": "ac04a302b05d97df8cc8636847de3236afa9206c40679d7d8d7d0590452bce3b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.KIv02BnJu6t8Rhwh.description",
+          "sourceSha256": "339df8f0781c923c4690c03966ef3c48fa6819de5baca47f507c7a441e4db4c4",
+          "translationSha256": "47cc4305b507845455d23abee232f6308898415e6678d947661ddd57d683bbb9",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.Nq57IMgBfdvkC8PI.name",
+          "sourceSha256": "d0344ffdc27ea675ad4e7d9a299be39b515fb530344f11b1bf4b1fcaf320e994",
+          "translationSha256": "bceb896ff2666e4eeb0ad1c7bef6b12a0ad3f549c7d78a918c65c6f16df2c95c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.Nq57IMgBfdvkC8PI.description",
+          "sourceSha256": "47b6f117fde49a4f3a5fa449bab79d3227862bb062f1f5e6b3380d5f1c731f61",
+          "translationSha256": "3c805332741db53acb6f86162aef20d4136921ef6dcb95275ef7179826bae355",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.Q3iwOhasZLjlYfhv.name",
+          "sourceSha256": "1d9ec7569d70d7170eb63a66a49abb0105bb6498445d65cc3e4b38474fd0d6de",
+          "translationSha256": "e1ad01818f91efba3265978f801b9573e62b4b0bfa502410091b8f263651e5ff",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.Q3iwOhasZLjlYfhv.description",
+          "sourceSha256": "1ef754efa7231f3349244affc762e8ba4039219db8fbfab31d200397f89caead",
+          "translationSha256": "44b3e2b09b769948bad6d6261725bdd576ff6c6372b79757bb0a7f80df374318",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.QM2QweE1NrqwJDlD.name",
+          "sourceSha256": "3c66a28b5d66fe7f6ece5c4ceaeede6f5d816606cdfd79aa5a9a439dbdb2a29d",
+          "translationSha256": "83e4c3c43c80415e680ea3b9a072bb4ea06cc80e70907204415077648a951e6b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.QM2QweE1NrqwJDlD.description",
+          "sourceSha256": "b3abdf4d985a5263da86b5e1d0259cff62e47fc4af019cc2989780b5fc7dbb15",
+          "translationSha256": "b5e82621b037c2a72620a1c034962f0a5611d1f5b7ddc143ff2080d28e51cb07",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.VMnX2RS0OqoTp8KZ.name",
+          "sourceSha256": "3fae123a2dbbf5f6020c06ce877e3a66a6e8e6a7cb0de53fc10bb2c519b50a59",
+          "translationSha256": "dd62b11174a794ca8bebf27c622fc534cbc3fdcfb718d2b5c9049f70065bcdbe",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.VMnX2RS0OqoTp8KZ.description",
+          "sourceSha256": "2025f4034a58d18e7b76965357ae6312333461297271acb80281f9e130650272",
+          "translationSha256": "860a93c80a027b95418e3e2510f940203c34d5ec012100ee8e2fd3b9aec2b2b4",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.cQANzxCGDaWTl5Oc.name",
+          "sourceSha256": "e189c28a421b1325d700b622f5fc729d8a2baa0be401ae1f64efc6a27de861d3",
+          "translationSha256": "abf156f890b579dd093e1a8403176e7a7c889e2f271f9545bfae0b250b555911",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.cQANzxCGDaWTl5Oc.description",
+          "sourceSha256": "6de293c520b04ff97b6171b2e08ea409924c26f8ee9f00cfc7c0483053f2d318",
+          "translationSha256": "175c6294aac4e3c1fb3d65daaab038586f0ef75fa6e30d5149f5adb0bb1bad30",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.ddJcn1ExvV2RQEZ2.name",
+          "sourceSha256": "6d072346c9c1298b31dc883da28ef48b478fe983c550c6025e4d4816eea74b78",
+          "translationSha256": "3f8759b89189b581baa9f733b89f2e40445de2d79935f1cb90370927f75725b1",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.ddJcn1ExvV2RQEZ2.description",
+          "sourceSha256": "014c01bd06dc67f715df3e2f5d02577fbc4b3d7733a58ffe12233f24b471f50d",
+          "translationSha256": "bafa6c319a62447b4b0a497ed10df1d1bc68d016dec92c43d4f081441bde27de",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.eK7IWNGLlvhAPYIR.name",
+          "sourceSha256": "210b56c8d06acd330fcb201585c07eef5e4ebbcabd78ee3e04a4b0dfc56fc4be",
+          "translationSha256": "0110bb6e1c34326a08424e96c2123126b144e1230da1ed6d7cd83a63852e4703",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.eK7IWNGLlvhAPYIR.description",
+          "sourceSha256": "b10bc18d72f05eea7ff646b3fd70862f3a6692075ce7ed1be9f0f2efc71a0011",
+          "translationSha256": "eea0a8af3685e6f76576b1be38ecb4360bede4ad970238cb3e149966a8b68452",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.jTN9SUHwL1QJBjb9.name",
+          "sourceSha256": "ff872964e5ec9c9b11e9caa568f1359de26efab51f18a091aac47041607eb101",
+          "translationSha256": "e4d2f49158a1427e070ff75b6ac1f5e9fdba91fb833f2feaf04979df294e8583",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.jTN9SUHwL1QJBjb9.description",
+          "sourceSha256": "94b26f28f014a69ae9fbb55993a71e9c2dd54cbaefe40274ad8db675f073873f",
+          "translationSha256": "3ac70b7ba081ecb9fffeaeef039c15547590c2bfb52e480a828ed141c4d8fb99",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.kjpzcUvtp48y3OQF.name",
+          "sourceSha256": "69c92ced39f159e3a944626008a7c1bb5e30da9f0307fe2e799f8e0f71de437d",
+          "translationSha256": "1517859b28a12da081456d8d7e1f0fdcf1a8b9153822504fe31d48fa54ab50b3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.kjpzcUvtp48y3OQF.description",
+          "sourceSha256": "207aacf03b24193a77d38b16f099a6410f83a6da87380a3d25d21b2c8666daa0",
+          "translationSha256": "746f5b78d53d5e60012744b09dd261342d427199a04fdb2f1b0d0e0fff1ed16a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.ntHuG3eXwgIrlRzW.name",
+          "sourceSha256": "a69e3cef77cd6ee06ad04b42a6f02f2a7d6a180dbf5e89713abbfd54638fb09c",
+          "translationSha256": "6450049d1cbae035e78f27259e7a19e152bc7f32d9906f6d0ee2fb5d45174cc3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.ntHuG3eXwgIrlRzW.description",
+          "sourceSha256": "11b6c2ee6b27c570c839e1440916415b4e48e09763c177f80929dd0d6001142a",
+          "translationSha256": "9d1213883925b518881998b104f7c9737f6821a26e5eced53f918417288187d5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.oLJ9bSI4JBkdxVJB.name",
+          "sourceSha256": "d595b92321290a0ed2d7bf13fac1780a71f6e8a99a367a600220c61db1b9f40a",
+          "translationSha256": "253133a179ea20e5e5d42277aa3753953e53445bf762f90c4e85035a25747380",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.oLJ9bSI4JBkdxVJB.description",
+          "sourceSha256": "7ff9e5d132509ede329ec733d78550b839b24d6bfbfce394c3ae3d52991e771b",
+          "translationSha256": "b2898f6556e7e3050d103088404e98bbd580d5fe253ad1275dc312e727fc3b2d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.t73thb1C4a3YFyqR.name",
+          "sourceSha256": "da9188c97a12f1bdb9b520bdef1e2f81700e304cf7624e441bd72f83c5afd6a1",
+          "translationSha256": "63514af162469996fd93b8c448fbf8e788c56ff1dbfc736bd52edc975214fdfc",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.t73thb1C4a3YFyqR.description",
+          "sourceSha256": "8a25b98031906b9b87802acb5115cbb0d1a2669e131dfe789f5e2da6cfe811f9",
+          "translationSha256": "c89ffa9f67d10ace42a2e4d8baf7a6fd3059359dd03ea3bb76d5ca76cd5453d2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.toaBlockInsectRe.name",
+          "sourceSha256": "b0c0b5b09920a724ecb9eeda08027d9681ef69062724b1b3a15736f816ea315f",
+          "translationSha256": "8d2608eb22df949454bee673ecf545c74c21ad462e82972b0fc5b3da81574bb7",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.toaBlockInsectRe.description",
+          "sourceSha256": "cdd69d1a0bd9e9f8b0542889a470755dd489f7a063fbcc2cc68c9d612df80944",
+          "translationSha256": "37f74a652a0a11e172df5e83edcaa4dcfdfcbc502ebe41cb756f336e0d510f94",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.toaBlockInsectRe.activities.LWyeUButBHToOuEZ.name",
+          "sourceSha256": "46360e2f0d18b21b0ee50c37bd81b5a5753d288281a90757e46851e3b80417d7",
+          "translationSha256": "e120c9a91a62f893f39f799fdf5c845a0bfa5e4fd0b38d952f65857cd44bcc10",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.toaCanoe00000000.name",
+          "sourceSha256": "7fc475a3c92cc3ca23289560dded2d376caf0bc8d6ae3aa06f9d658f5c8a6615",
+          "translationSha256": "058597fedbd3b39e1b99245f66644a08539b3b302e4803fd2d729381026845f7",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.toaCanoe00000000.description",
+          "sourceSha256": "3b2e41a26568feb1b8165790f986ebab1b24049418077a76f9ce89ce3e72d2c6",
+          "translationSha256": "5728778b38d457e2a0b119bb986d35bac706e9f518dc2d5a4280adc9ee7fecfa",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.toaInsectRepelle.name",
+          "sourceSha256": "e83fd7992beba25086ee9467b582cb71e56ae4d0a63b32b95a2260735b178e24",
+          "translationSha256": "57b13acf2f4b2b2749a968ef025bc9672236186a33869dcd8c5e7c414784ad8c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.toaInsectRepelle.description",
+          "sourceSha256": "9ead1e48ca334db8a0d0aef562f40a8cb4e31b1b0597405b5cb1854c8f7036f6",
+          "translationSha256": "bac1c758e894866a795b650cd1b26a93434788049c3436002997acfdbed6366e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.toaInsectRepelle.activities.ThBaYOyTzPGQIUad.name",
+          "sourceSha256": "46360e2f0d18b21b0ee50c37bd81b5a5753d288281a90757e46851e3b80417d7",
+          "translationSha256": "e120c9a91a62f893f39f799fdf5c845a0bfa5e4fd0b38d952f65857cd44bcc10",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.toaRainCatcher00.name",
+          "sourceSha256": "4ea97398776a9fd286b8d08e74686a16039b7d40eeccf7d9d1c8420f676b32fb",
+          "translationSha256": "84faa671ff4016f455abea89aa6611d4cee79f629801cef8adb5dbb667a5b83a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.toaRainCatcher00.description",
+          "sourceSha256": "ccfb2b6a0c32c9741096cc92c4794ab5816c46cbf581228c404af5ffde70f251",
+          "translationSha256": "b8d10c8f85661fdae273814d08d6e5280a95af3215466fe4868531f14742f417",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.uN9jqqeqq8WuhJoc.name",
+          "sourceSha256": "5fbbcda3e82882f04213f8bb5ff385eb39d86b465a5f667dc77640725a1c6c1d",
+          "translationSha256": "8ec2e278db49eea84d1e97c352439d51db52a061c1244e6b5d1e9abf39144368",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.uN9jqqeqq8WuhJoc.description",
+          "sourceSha256": "ecbb0ebcdc86880d5bde685516a98b6d5961ba79300e1055c8efbe61c4e9eaa8",
+          "translationSha256": "75f308d81cb6839479d8def7128d096ca7a0fe93ecc62d37bdffc68d04f81a02",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.yLno70maMojv7FQ0.name",
+          "sourceSha256": "6878061e92552132b665628e33ebc4e1da32a0e0c1a65e2988ab6743eaf064d1",
+          "translationSha256": "2499938fed95a1e8bb9d4525274b85f41babfa3dfefedd14f881a2313208f4c4",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.yLno70maMojv7FQ0.description",
+          "sourceSha256": "08e0edc5e2d647eae1956e6bcccb7d73a0c4dfdeb0a6c8ca68bbb153f1c28804",
+          "translationSha256": "c12e53ee0fb78cc976dcc73a024428c5597022e5714a1d0ffd5c7a9714bf070f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.yNJwzScrTsRkOCa5.name",
+          "sourceSha256": "68a974ac3475ea7d1cd6fcfd6812a48bf7026220c726d1ce2c9569918b19c9f2",
+          "translationSha256": "cc2cfa233084f38c5ee1e633a624f3a67ce0cf1d38dc0ef93c497fea6b262d92",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.yNJwzScrTsRkOCa5.description",
+          "sourceSha256": "47e50eab38918360bcf8642f67c0d55857b418eb50b4fb5800574411cb5e7eac",
+          "translationSha256": "954db726ec901ce35210d21019df6e06a66ccf980d31162c44aa3c29b7b9cb53",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Equipment block: checked meaning, capacities, durations, prices and special properties against English export."
+        }
+      ]
     }
   ]
 }
