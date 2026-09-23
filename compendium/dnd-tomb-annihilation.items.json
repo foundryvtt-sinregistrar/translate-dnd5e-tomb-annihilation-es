@@ -88,8 +88,8 @@
       "description": "<p>Una bolsa de tela o cuero puede contener hasta 20 balas de honda o 50 agujas de la sopleta, entre otras cosas. Una bolsa compartimentada para sujetar componentes del conjuro se llama bolsa del componente. Una bolsa puede contener hasta ⅕ de pie cúbico o 6 libras de equipo.</p>"
     },
     "2iZ4CIkn1Ct8mQdW": {
-      "name": "Pergamino ortográfico: Purificar la comida y la bebida",
-      "description": "<p><em>1er nivel &amp;Reference[Spell Scroll]</em></p><p>Todos los alimentos y bebidas no mágicos dentro de una esfera de 5 pies de radio centrada en un punto de su elección dentro del rango se purifican y se convierten en libres de veneno y enfermedad.</p>"
+      "name": "Pergamino de conjuro: Purificar comida y bebida",
+      "description": "<p><em>&amp;Reference[Spell Scroll]{Pergamino de conjuro} de nivel 1</em></p><p>Todos los alimentos y bebidas no mágicos dentro de una esfera de 5 pies de radio centrada en un punto que elijas dentro del alcance quedan purificados y libres de venenos y enfermedades.</p>"
     },
     "3Nh6mj37LuW20IZS": {
       "name": "Flecha +1",
@@ -145,8 +145,8 @@
       "description": "<p>Obtuviste este globo de cristal azul en la Tumba de I'jin, situado en la Tumba de los Nueve Dioses.</p>"
     },
     "79qPxVOrjjAVXPLN": {
-      "name": "Pergamino ortográfico: Fabricar",
-      "description": "<p><em>4o nivel &amp;Reference[Spell Scroll]</em></p><p>Convierte las materias primas en productos del mismo material. Por ejemplo, se puede fabricar un puente de madera de un grupo de árboles, una cuerda de un trozo de cáñamo, y ropa de lino o lana.</p><p>Elija las materias primas que puede ver dentro del rango. Se puede fabricar un objeto grande o pequeño (contenido dentro de un cubo de 10 pies, u ocho cubos de 5 pies conectados), dada una cantidad suficiente de materia prima. Sin embargo, si trabaja con metal, piedra u otra sustancia mineral, el objeto fabricado no puede ser mayor que el medio (contenido en un solo cubo de 5 pies). La calidad de los objetos realizados por el conjuro es proporcional a la calidad de las materias primas.</p><p>Criaturas o Artículos Mágicos no pueden ser creados o transmutados por este conjuro. Tampoco puedes usarlo para crear artículos que normalmente requieren un alto grado de artesanía, como joyas, armas, vidrio o armadura, a menos que tengas competencia con el tipo de herramientas artesanales que se utilizan para crear tales objetos.</p>"
+      "name": "Pergamino de conjuro: Fabricar",
+      "description": "<p><em>&amp;Reference[Spell Scroll]{Pergamino de conjuro} de nivel 4</em></p><p>Transformas materias primas en productos del mismo material. Por ejemplo, puedes fabricar un puente de madera a partir de un grupo de árboles, una cuerda a partir de unas plantas de cáñamo o ropa a partir de lino o lana.</p><p>Elige materias primas que puedas ver dentro del alcance. Si dispones de suficiente material, puedes fabricar un objeto Grande o más pequeño, que quepa en un cubo de 10 pies de lado o en ocho cubos conectados de 5 pies de lado. Sin embargo, si trabajas con metal, piedra u otra sustancia mineral, el objeto fabricado no puede superar el tamaño Mediano y debe caber en un único cubo de 5 pies de lado. La calidad de los objetos creados con el conjuro depende de la calidad de las materias primas.</p><p>Este conjuro no puede crear ni transformar criaturas u objetos mágicos. Tampoco puedes usarlo para crear objetos que normalmente requieran una gran destreza artesanal, como joyas, armas, vidrio o armaduras, salvo que tengas competencia con las herramientas de artesano necesarias para fabricarlos.</p>"
     },
     "7FXXC30bQYm6T0K8": {
       "name": "Cimitarra de Zaroum Al-Sarya",
@@ -212,8 +212,8 @@
       "description": "<p>Una mochila puede contener un pie cúbico o 30 libras de equipo. También puedes sujetar objetos, como un saco de dormir o una cuerda enrollada, a su exterior.</p>"
     },
     "II7y1G16n4FNJn5i": {
-      "name": "Pergamino ortográfico: Comuna con la Naturaleza",
-      "description": "<p><em>5o nivel &amp;Reference[Spell Scroll]</em></p><p>Se convierten brevemente en uno con la naturaleza y adquieren conocimiento del territorio circundante. En el exterior, el conjuro te da conocimiento de la tierra a menos de 3 millas de ti. En cuevas y otros entornos subterráneos naturales, el radio está limitado a 300 pies. El conjuro no funciona donde la naturaleza ha sido reemplazada por la construcción, como en mazmorras y ciudades.</p><p>Usted instantáneamente obtiene conocimiento de hasta tres hechos de su elección sobre cualquiera de los siguientes temas en cuanto se relacionan con el área:</p>\n<ul>\n<li>terreno y cuerpos de agua</li>\n<li>plantas, minerales, animales o pueblos prevalentes</li>\n<li>celestes, fey, demonios, elementales, o muertos vivientes</li>\n<li>influencia de otros planos de existencia</li>\n<li>edificios</li>\n</ul>\n<p>Por ejemplo, se puede determinar la ubicación de poderosos no-muertos en la zona, la ubicación de las principales fuentes de agua potable y la ubicación de cualquier ciudad cercana.</p>"
+      "name": "Pergamino de conjuro: Comunión con la naturaleza",
+      "description": "<p><em>&amp;Reference[Spell Scroll]{Pergamino de conjuro} de nivel 5</em></p><p>Por un momento te fundes con la naturaleza y obtienes información sobre el territorio que te rodea. Al aire libre, el conjuro te proporciona información sobre el terreno en un radio de 3 millas. En cuevas y otros entornos subterráneos naturales, el radio se limita a 300 pies. El conjuro no funciona donde las construcciones han sustituido a la naturaleza, como en mazmorras y poblaciones.</p><p>Obtienes al instante hasta tres datos que elijas sobre cualquiera de los siguientes aspectos del área:</p>\n<ul>\n<li>El terreno y las masas de agua.</li>\n<li>Las plantas, minerales, animales o pueblos predominantes.</li>\n<li>Los celestiales, feéricos, infernales, elementales o muertos vivientes poderosos.</li>\n<li>La influencia de otros planos de existencia.</li>\n<li>Los edificios.</li>\n</ul>\n<p>Por ejemplo, podrías determinar dónde se encuentran los muertos vivientes poderosos del área, las principales fuentes de agua potable y las poblaciones cercanas.</p>"
     },
     "IMi5xvbQUXwvGYcG": {
       "name": "Yesquero",
@@ -250,13 +250,13 @@
       "description": "<p>El interior del pecho está forrado con plomo y contiene 300 gp, una jarra de oro en relieve con una cara triste que sonríe cuando la jarra está llena (250 gp), y un tubo de hueso con tapón que contiene un pergamino conjuro de quitar la maldición.</p>"
     },
     "Jaqlc33GipcoKdC4": {
-      "name": "Pergamino ortográfico: Puerta Arcana",
-      "description": "<p><em>Nivel 6 &amp;Reference[Spell Scroll], Requiere concentración</em></p><p>Usted crea portales de teletransportación enlazados que permanecen abiertos durante la duración. Elija dos puntos en el suelo que puede ver, un punto a menos de 10 pies de usted y un punto a menos de 500 pies de usted. Un portal circular, de 10 pies de diámetro, se abre sobre cada punto. Si el portal se abriría en el espacio ocupado por una criatura, el conjuro falla, y el casting se pierde.</p><p>Los portales son anillos bidimensionales brillantes llenos de niebla, que flotan pulgadas desde el suelo y perpendiculares a él en los puntos que elija. Un anillo es visible sólo desde un lado (su elección), que es el lado que funciona como un portal.</p><p>Cualquier criatura u objeto que entre en el portal sale del otro portal como si ambos estuvieran adyacentes entre sí; pasar por un portal desde el lado no portal no tiene efecto. La niebla que llena cada portal es opaca y bloquea la visión a través de él. En su turno, puede girar los anillos como una acción adicional para que el lado activo se enfrenta en una dirección diferente.</p>",
+      "name": "Pergamino de conjuro: Portal arcano",
+      "description": "<p><em>&amp;Reference[Spell Scroll]{Pergamino de conjuro} de nivel 6, requiere concentración</em></p><p>Creas dos portales de teletransportación conectados que permanecen abiertos durante el conjuro. Elige dos puntos en el suelo que puedas ver: uno a 10 pies o menos de ti y otro a 500 pies o menos. Sobre cada punto se abre un portal circular de 10 pies de diámetro. Si un portal fuera a abrirse en el espacio ocupado por una criatura, el conjuro falla y el lanzamiento se pierde.</p><p>Los portales son anillos luminosos bidimensionales llenos de niebla, que flotan a unas pulgadas del suelo y perpendiculares a él en los puntos elegidos. Cada anillo solo es visible desde uno de sus lados, a tu elección, que es el que funciona como portal.</p><p>Cualquier criatura u objeto que entre en un portal sale por el otro como si ambos fueran adyacentes. Atravesar un portal desde su lado inactivo no tiene ningún efecto. La niebla que llena cada portal es opaca e impide ver a través de él. En tu turno, puedes girar los anillos como acción adicional para orientar su lado activo en otra dirección.</p>",
       "activities": {
         "KR58r9V0HjqLMbhA": {
           "target": {
             "affects": {
-              "special": "1 en 10 pies, el otro en 500 pies"
+              "special": "1 a 10 pies o menos; el otro, a 500 pies o menos"
             }
           }
         }
@@ -360,8 +360,8 @@
       "description": "<p>El aljaba de cuero podrido puede sostener hasta 20 flechas.</p>"
     },
     "SzItefoQkF2Orkzh": {
-      "name": "Pergamino ortográfico: Tiny Hut",
-      "description": "<p><em>3er nivel &amp;Reference[Spell Scroll]</em></p><p>Un domo de fuerza inmóvil de 10 pies de radio surge alrededor y por encima de ustedes y permanece estacionario durante todo el tiempo. El conjuro termina si dejas su área.</p><p>Nueve criaturas de tamaño mediano o más pequeño pueden caber dentro de la cúpula con usted. El conjuro falla si su área incluye una criatura más grande o más de nueve criaturas. Criaturas y objetos dentro de la cúpula cuando se lanza este conjuro puede moverse a través de ella libremente. A todas las otras criaturas y objetos se les prohíbe pasar por ella. Los conjuros y otros efectos mágicos no pueden extenderse a través de la cúpula o ser lanzados a través de ella. La atmósfera dentro del espacio es cómoda y seca, independientemente del clima exterior.</p><p>Hasta que el conjuro termine, puedes ordenar que el interior se vuelva tenuemente iluminado u oscuro. La cúpula es opaca desde el exterior, de cualquier color que elijas, pero es transparente desde el interior.</p>"
+      "name": "Pergamino de conjuro: Pequeña choza",
+      "description": "<p><em>&amp;Reference[Spell Scroll]{Pergamino de conjuro} de nivel 3</em></p><p>Una cúpula inmóvil de fuerza de 10 pies de radio aparece a tu alrededor y sobre ti, y permanece en el mismo lugar durante el conjuro. El conjuro termina si abandonas su área.</p><p>Dentro de la cúpula caben contigo nueve criaturas de tamaño Mediano o más pequeño. El conjuro falla si su área incluye una criatura más grande o más de nueve criaturas. Las criaturas y los objetos que estén dentro de la cúpula al lanzar el conjuro pueden atravesarla libremente. Ninguna otra criatura ni objeto puede atravesarla. Los conjuros y otros efectos mágicos no pueden extenderse ni lanzarse a través de la cúpula. El ambiente interior es agradable y seco, sea cual sea el tiempo en el exterior.</p><p>Hasta que termine el conjuro, puedes ordenar que el interior tenga luz tenue o esté a oscuras. La cúpula es opaca desde fuera, del color que elijas, pero transparente desde dentro.</p>"
     },
     "UcZy9DNXQEV848Uy": {
       "name": "Rubí",
@@ -445,8 +445,8 @@
       "description": "<p>Un recipiente de piel cosida que puede contener hasta 4 pintas de líquido. Pesa 5 libras cuando está lleno; una pinta de agua pesa aproximadamente 1 libra.</p>"
     },
     "djffoDw9QzHByyMF": {
-      "name": "Pergamino ortográfico: Restauración menor",
-      "description": "<p><em>Nivel 2 &amp;Reference[Spell Scroll]</em></p><p>Tocas a una criatura y puedes acabar con una enfermedad o con una condición que la aflija. La afección puede ser cegada, ensordecida, paralizada o envenenada.</p>"
+      "name": "Pergamino de conjuro: Restablecimiento menor",
+      "description": "<p><em>&amp;Reference[Spell Scroll]{Pergamino de conjuro} de nivel 2</em></p><p>Tocas a una criatura y puedes terminar una enfermedad o un estado que la afecte. El estado puede ser cegado, ensordecido, paralizado o envenenado.</p>"
     },
     "e3Yrs6EWfttKcavA": {
       "name": "Ojo de Cristal Rojo",
@@ -457,8 +457,8 @@
       "description": "<p>Un carcaj puede contener hasta 20 flechas.</p>"
     },
     "ffirbL8z25ZZImBw": {
-      "name": "Pergamino ortográfico: Protección contra el mal y el bien (Undead)",
-      "description": "<p><em>1er nivel &amp;Reference[Spell Scroll], Requiere concentración</em></p><p>Hasta que el conjuro termine, una criatura dispuesta a tocar está protegida contra ciertos tipos de criaturas: <strong>Sólo muertos vivientes</strong>.</p><p>La protección otorga varias prestaciones. Las criaturas de esos tipos tienen desventajas en los rollos de ataque contra el objetivo. El objetivo tampoco puede ser cautivado, asustado o poseído por ellos. Si el objetivo ya está encantado, asustado o poseído por una criatura así, el objetivo tiene ventaja en cualquier nuevo lanzamiento de ahorro contra el efecto relevante.</p>"
+      "name": "Pergamino de conjuro: Protección contra el bien y el mal (muertos vivientes)",
+      "description": "<p><em>&amp;Reference[Spell Scroll]{Pergamino de conjuro} de nivel 1, requiere concentración</em></p><p>Hasta que termine el conjuro, una criatura voluntaria que toques queda protegida contra ciertos tipos de criaturas: <strong>solo muertos vivientes</strong>.</p><p>La protección otorga varios beneficios. Las criaturas de esos tipos tienen desventaja en las tiradas de ataque contra el objetivo. Además, no pueden hechizarlo, asustarlo ni poseerlo. Si el objetivo ya está hechizado, asustado o poseído por una de esas criaturas, tiene ventaja en cualquier nueva tirada de salvación contra el efecto correspondiente.</p>"
     },
     "fhPmiShc9KCq0bcJ": {
       "name": "El libro de ortografía de Ras Nsi",
@@ -476,12 +476,12 @@
       }
     },
     "hxXC59CHJ5omW83E": {
-      "name": "Pergamino ortográfico: Crear no muerto",
-      "description": "<p><em>Nivel 6 &amp;Reference[Spell Scroll]</em></p><p>Puedes lanzar este conjuro sólo por la noche. Elija hasta tres cadáveres de humanoides medianos o pequeños dentro de su alcance. Cada cadáver se convierte en un demonio bajo su control. (El DM tiene estadísticas de juego para estas criaturas.)</p><p>Como una acción adicional en cada uno de sus turnos, usted puede mentalmente ordenar a cualquier criatura que usted anima con este conjuro si la criatura está a menos de 120 pies de usted (si usted controla múltiples criaturas, usted puede ordenar cualquiera o todos ellos al mismo tiempo, emitiendo el mismo comando a cada uno). Usted decide qué acción tomará la criatura y dónde se moverá durante su próximo turno, o puede emitir un comando general, como para proteger una cámara o corredor en particular. Si no da órdenes, la criatura sólo se defiende de criaturas hostiles. Una vez dada una orden, la criatura continúa siguiéndola hasta completar su tarea.</p><p>La criatura está bajo tu control durante 24 horas, después de lo cual deja de obedecer cualquier orden que le hayas dado. Para mantener el control de la criatura por otras 24 horas, debes lanzar este conjuro sobre la criatura antes de que termine el actual período de 24 horas. Este uso del conjuro reafirma tu control sobre hasta tres criaturas que has animado con este conjuro, en lugar de animar a otras nuevas.</p><p><strong>Niveles superiores. </strong>Cuando lanzas este conjuro usando una espacio de conjuro de 7o nivel, puedes animar o reafirmar el control sobre cuatro demonios. Cuando lanzas este conjuro usando una espacio de conjuro de nivel 8, puedes animar o reafirmar el control sobre cinco demonios o dos horrores o torbellinos. Cuando lanzas este conjuro usando una espacio de conjuros de nivel 9, puedes animar o reafirmar el control sobre seis demonios, tres horrores o torbellinos, o dos momias.</p>",
+      "name": "Pergamino de conjuro: Crear muerto viviente",
+      "description": "<p><em>&amp;Reference[Spell Scroll]{Pergamino de conjuro} de nivel 6</em></p><p>Solo puedes lanzar este conjuro de noche. Elige hasta tres cadáveres de humanoides Medianos o Pequeños dentro del alcance. Cada cadáver se convierte en un gul bajo tu control. El DM dispone de los perfiles de estas criaturas.</p><p>Como acción adicional en cada uno de tus turnos, puedes dar órdenes mentales a cualquier criatura que hayas animado con este conjuro y que esté a 120 pies o menos de ti. Si controlas varias, puedes dar la misma orden a cualquiera de ellas o a todas a la vez. Decides qué acción realizará la criatura y adónde se moverá durante su siguiente turno, o puedes darle una orden general, como vigilar una habitación o un pasillo. Si no le das órdenes, solo se defiende de las criaturas hostiles. Una vez que recibe una orden, sigue cumpliéndola hasta completar su tarea.</p><p>La criatura permanece bajo tu control durante 24 horas; después deja de obedecer las órdenes que le hayas dado. Para mantener el control durante otras 24 horas, debes volver a lanzar este conjuro sobre ella antes de que termine el periodo actual de 24 horas. Este uso del conjuro renueva tu control sobre hasta tres criaturas que hayas animado con él, en lugar de animar otras nuevas.</p><p><strong>A niveles superiores. </strong>Cuando lanzas este conjuro usando un espacio de nivel 7, puedes animar cuatro gules o renovar tu control sobre ellos. Con un espacio de nivel 8, puedes animar cinco gules, dos ghasts o dos tumularios, o renovar tu control sobre ellos. Con un espacio de nivel 9, puedes animar seis gules, tres ghasts, tres tumularios o dos momias, o renovar tu control sobre ellos.</p>",
       "activities": {
         "dnd5eactivity000": {
           "activation": {
-            "condition": "Puedes lanzar este conjuro sólo por la noche."
+            "condition": "Solo puedes lanzar este conjuro de noche."
           }
         }
       }
@@ -498,8 +498,8 @@
       "description": "<p>Una hoja de pergamino grueso.</p>"
     },
     "kevmACn8EZIov31x": {
-      "name": "Pergamino ortográfico: Toc",
-      "description": "<p><em>Nivel 2 &amp;Reference[Spell Scroll]</em></p><p>Elija un objeto que pueda ver dentro del rango. El objeto puede ser una puerta, una caja, un cofre, un conjunto de manáculos, un candado u otro objeto que contenga un medio mundano o mágico que impida el acceso.</p><p>Un objetivo que se mantiene cerrado por una cerradura mundana o que está atascado o bloqueado se convierte en desbloqueado, desbloqueado, o sin barras. Si el objeto tiene múltiples cerraduras, sólo uno de ellos está desbloqueado.</p><p>Si eliges un objetivo que se mantiene cerrado con Arcane Lock, ese conjuro se suprime durante 10 minutos, durante el cual el objetivo se puede abrir y cerrar normalmente.</p><p>Cuando lanzas el conjuro, un fuerte golpe, audible desde tan lejos como 300 pies, emana del objeto objetivo.</p>"
+      "name": "Pergamino de conjuro: Apertura",
+      "description": "<p><em>&amp;Reference[Spell Scroll]{Pergamino de conjuro} de nivel 2</em></p><p>Elige un objeto que puedas ver dentro del alcance. Puede ser una puerta, una caja, un cofre, unos grilletes, un candado u otro objeto con un mecanismo normal o mágico que impida el acceso.</p><p>Si el objetivo está cerrado con una cerradura no mágica, atascado o atrancado, queda abierto, desatascado o desatrancado. Si tiene varias cerraduras, solo se abre una.</p><p>Si eliges un objetivo cerrado mediante cerradura arcana, ese conjuro queda suprimido durante 10 minutos, durante los cuales el objetivo puede abrirse y cerrarse con normalidad.</p><p>Al lanzar el conjuro, el objeto emite un fuerte golpe que puede oírse hasta a 300 pies de distancia.</p>"
     },
     "kjpzcUvtp48y3OQF": {
       "name": "Saquito de arena",
@@ -510,8 +510,8 @@
       "description": "<p>Encontraste un ojo de cristal naranja tallado en la Tumba de los Nueve Dioses.</p>"
     },
     "legl95Xw7AZz9Dl1": {
-      "name": "Pergamino ortográfico: Quitar la maldición",
-      "description": "<p><em>3er nivel &amp;Reference[Spell Scroll]</em></p><p>Al tocarte, todas las maldiciones afectan a una criatura u objeto. Si el objeto es un objeto mágico maldito, su maldición permanece, pero el conjuro rompe la Afinación de su propietario al objeto para que pueda ser removido o descartado.</p>"
+      "name": "Pergamino de conjuro: Levantar maldición",
+      "description": "<p><em>&amp;Reference[Spell Scroll]{Pergamino de conjuro} de nivel 3</em></p><p>Al tocar a una criatura u objeto, terminas todas las maldiciones que le afecten. Si es un objeto mágico maldito, su maldición permanece, pero el conjuro rompe la sintonización de su dueño con él para que pueda quitárselo o deshacerse de él.</p>"
     },
     "ltVi9G03tsQkJLdu": {
       "name": "Boar asado",
@@ -554,8 +554,8 @@
       "name": "Cristales de Tortuga Shell"
     },
     "pDYHjhatT1OpvZxJ": {
-      "name": "Pergamino ortográfico: Lenguajes entendidos",
-      "description": "<p><em>1er nivel &amp;Reference[Spell Scroll]</em></p><p>Por la duración, usted entiende el significado literal de cualquier lenguaje hablado que usted oiga. Usted también entiende cualquier lenguaje escrito que usted ve, pero usted debe estar tocando la superficie en la cual las palabras están escritas. Se tarda aproximadamente 1 minuto en leer una página de texto.</p><p>Este conjuro no decodifica mensajes secretos en un texto o un glifo, como un sigil arcano, que no es parte de un lenguaje escrito.</p>"
+      "name": "Pergamino de conjuro: Comprensión idiomática",
+      "description": "<p><em>&amp;Reference[Spell Scroll]{Pergamino de conjuro} de nivel 1</em></p><p>Mientras dure el conjuro, entiendes el significado literal de cualquier idioma hablado que oigas. También entiendes cualquier idioma escrito que veas, pero debes tocar la superficie en la que estén escritas las palabras. Leer una página de texto lleva aproximadamente 1 minuto.</p><p>Este conjuro no descifra mensajes secretos en un texto ni glifos, como un sello arcano, que no formen parte de un idioma escrito.</p>"
     },
     "qwD4AeszpAYa9e05": {
       "name": "Ónice",
@@ -1707,8 +1707,8 @@
       "description": "<p>Una pequeña botella de tinta para escribir sobre pergamino.</p>"
     },
     "yhanxJwcOCQrKJHp": {
-      "name": "Pergamino ortográfico: Resurrección",
-      "description": "<p><em>7o nivel &amp;Reference[Spell Scroll]</em></p><p>Tocas a una criatura muerta que no ha estado muerta más de un siglo, que no murió de vejez, y que no es no-muerta. Si su alma está libre y dispuesta, el objetivo vuelve a la vida con todos sus puntos de impacto.</p><p>Este conjuro neutraliza cualquier veneno y cura las enfermedades normales que afligen a la criatura cuando murió. Sin embargo, no elimina enfermedades mágicas, maldiciones, y cosas por el estilo; si tales efectos no se eliminan antes de lanzar el conjuro, afligen al objetivo al volver a la vida.</p><p>Este conjuro cierra todas las heridas mortales y restaura las partes del cuerpo que faltan.</p><p>Regresar de la muerte es una prueba. El objetivo tiene una penalización de −4 para todos los rollos de ataque, los lanzamientos ahorradores y los controles de capacidad. Cada vez que el objetivo termina un largo descanso, la penalización se reduce en 1 hasta que desaparece.</p><p>Lanzando este conjuro para restaurar la vida a una criatura que ha estado muerta por un año o más te grava grandemente. Hasta que termines un largo descanso, no puedes lanzar conjuros de nuevo, y tienes desventajas en todos los rollos de ataque, controles de habilidad y lanzamientos ahorradores.</p>"
+      "name": "Pergamino de conjuro: Resurrección",
+      "description": "<p><em>&amp;Reference[Spell Scroll]{Pergamino de conjuro} de nivel 7</em></p><p>Tocas a una criatura muerta que lleve muerta como máximo un siglo, que no haya fallecido de vejez y que no sea un muerto viviente. Si su alma está libre y dispuesta a regresar, el objetivo vuelve a la vida con todos sus puntos de golpe.</p><p>Este conjuro neutraliza los venenos y cura las enfermedades normales que afectaban a la criatura al morir. Sin embargo, no elimina las enfermedades mágicas, las maldiciones ni los efectos similares; si no se eliminan antes de lanzar el conjuro, afectan al objetivo cuando vuelve a la vida.</p><p>Este conjuro cierra todas las heridas mortales y restaura las partes del cuerpo que falten.</p><p>Volver de entre los muertos es una experiencia traumática. El objetivo sufre un penalizador de −4 a todas sus tiradas de ataque, tiradas de salvación y pruebas de característica. Cada vez que termina un descanso largo, el penalizador se reduce en 1 hasta desaparecer.</p><p>Lanzar este conjuro para devolver la vida a una criatura que lleve muerta un año o más te agota enormemente. Hasta que termines un descanso largo, no puedes volver a lanzar conjuros y tienes desventaja en todas las tiradas de ataque, pruebas de característica y tiradas de salvación.</p>"
     },
     "zvvRNh7A7rEDZPvb": {
       "name": "Flecha +1",

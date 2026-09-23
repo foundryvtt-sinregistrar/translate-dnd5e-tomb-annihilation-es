@@ -2856,6 +2856,17 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   Dragones también conserva la descripción genérica del original.
 - Estos objetos no tienen copias independientes con el mismo ID en Adventure.
 
+### scroll-* — Pergaminos de conjuro
+
+- Revisados los 12 pergaminos independientes (26 campos) contra el exportado
+  inglés. Incluye nombres, descripciones, alcance especial de Portal arcano
+  y condición de lanzamiento nocturno de Crear muerto viviente.
+- Comprobadas las restricciones de fabricación, el control de los muertos
+  vivientes, las barreras de Pequeña choza, la protección limitada a muertos
+  vivientes y las condiciones y penalizaciones de Resurrección.
+- Conservados niveles, cifras, referencias y estructura HTML. Portal arcano
+  queda alineado con el pergamino ya revisado de Valindra en Adventure.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2865,8 +2876,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
   de Foundry, tres de créditos y cuatro de historial.
   No equivale a 931 páginas del PDF.
-- 17865 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 17865 campos distintos.
+- 17891 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 17891 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento cuarenta y dos biografías en ambas copias de actores: siete
   príncipes, ciento veintisiete criaturas o PNJ vinculados al apéndice D y ocho perfiles
