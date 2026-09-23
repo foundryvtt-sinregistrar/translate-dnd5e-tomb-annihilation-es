@@ -9329,12 +9329,12 @@
       "items": {
         "WaEunPCFG0EddNTt": {
           "name": "Espada larga",
-          "description": "<p>[[/attack extended]]. [[/damage extended average]] o [[/damage twoHanded average]] si se usa con dos manos.</p>",
-          "descriptionChat": "<p>Los veteranos atacan con su Longsword.</p>"
+          "description": "<p>[[/attack extended]]. [[/damage extended average]] o [[/damage twoHanded average]] si se empuña a dos manos.</p>",
+          "descriptionChat": "<p>El veterano ataca con su espada larga.</p>"
         },
         "wziRdUn3HafZKJ8o": {
           "name": "Ataque múltiple",
-          "description": "<p>Los [[lookup @name lowercase]] Hace dos. [[/item Longsword]] ataques. Si tiene una breve palabra dibujada, también puede hacer un [[/item Shortsword]] ataque.</p>"
+          "description": "<p>El [[lookup @name lowercase]] realiza dos ataques con [[/item Longsword]]{Espada larga}. Si tiene desenvainada una espada corta, también puede realizar un ataque con [[/item Shortsword]]{Espada corta}.</p>"
         },
         "cXf5q5xw30ICGxZg": {
           "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
@@ -9347,16 +9347,16 @@
           "descriptionChat": "<p>El veterano ataca con su ballesta pesada.</p>"
         },
         "0otc04A190Q8hTBK": {
-          "name": "Armadura de férula",
-          "description": "<p>Esta armadura está hecha de tiras verticales estrechas de metal remachado a un respaldo de cuero que se lleva sobre el acolchado de tela. La malla flexible protege las articulaciones.</p>"
+          "name": "Armadura de bandas",
+          "description": "<p>Esta armadura está hecha de estrechas tiras verticales de metal remachadas sobre una base de cuero que se lleva encima de un acolchado de tela. Una malla flexible protege las articulaciones.</p>"
         }
       },
       "name": "Grig Ruddell",
-      "creatureSubtype": "Humano Illuskan",
-      "languages": "cualquier idioma (generalmente común)",
-      "biographyPublic": "<p><em>Véase también: @UUID[Actor.toaOrtimaySwift0]{Ortimay Swift y Dark}.</em></p>",
+      "creatureSubtype": "Humano illuskano",
+      "languages": "Un idioma cualquiera (normalmente común)",
+      "biographyPublic": "<p><em>Consulta también: @UUID[Actor.toaOrtimaySwift0]{Ortimay Oscura y Veloz}.</em></p>",
       "tokenName": "Grig Ruddell",
-      "biography": "<p>Los <em>Pegaso de freno</em> es capitaneado por @UUID[Actor.toaOrtimaySwift0]{Ortimay Swift y Dark} (CG mujer gnomo bandido capitán con visión oscura a un rango de 60 pies), que es a la vez inteligente y tranquilo. El primer oficial es Grig Ruddell (n. hombre illuskan veterano humano), un hombre erguido cuya cara está casi escondida por una barba pesada con rayas de gris. Además de gritarle órdenes a la tripulación y conversar en tonos bajos con el capitán Ortimay, Ruddell apenas habla.</p>"
+      "biography": "<p>El <em>Pegaso Fresco</em> está capitaneado por @UUID[Actor.toaOrtimaySwift0]{Ortimay Oscura y Veloz}, una capitana bandida gnoma de las rocas CB con visión en la oscuridad hasta 60 pies, tan inteligente como serena. El primer oficial es Grig Ruddell, un veterano humano illuskano N de gran corpulencia cuyo rostro casi queda oculto por una espesa barba entrecana. Salvo para dar órdenes a gritos a la tripulación o conversar en voz baja con la capitana Ortimay, Ruddell apenas habla.</p>"
     },
     "toaGrungWarrior0": {
       "alignment": "Legal malvado",
@@ -9462,64 +9462,64 @@
       "items": {
         "sSs3hSzkKBMNBgTs": {
           "name": "Escudo",
-          "description": "<p>Un escudo está hecho de madera o metal y se lleva en una mano. Wieling un escudo aumenta su clase de armadura en 2. Sólo puedes beneficiarte de un escudo a la vez.</p>"
+          "description": "<p>Un escudo está hecho de madera o metal y se lleva en una mano. Empuñar un escudo aumenta tu Clase de Armadura en 2. Solo puedes beneficiarte de un escudo a la vez.</p>"
         },
         "QuVUb9i809rjJWcL": {
           "name": "Ataque múltiple",
-          "description": "<p>El gladiador hace tres ataques cuerpo a cuerpo o dos ataques a rango.</p><p>Melee: [[/item .eL15erXXE9EuXWSB]], [[/item .GrUneCbXCYngdpjf]]</p><p>Intervalo: [[/item .eL15erXXE9EuXWSB]]</p>"
+          "description": "<p>El gladiador realiza tres ataques cuerpo a cuerpo o dos ataques a distancia.</p><p>Cuerpo a cuerpo: [[/item .eL15erXXE9EuXWSB]], [[/item .GrUneCbXCYngdpjf]]</p><p>A distancia: [[/item .eL15erXXE9EuXWSB]]</p>"
         },
         "eL15erXXE9EuXWSB": {
           "name": "Lanza",
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-          "descriptionChat": "<p>El Gladiator ataca con su lanza.</p>"
+          "descriptionChat": "<p>El gladiador ataca con su lanza.</p>"
         },
         "GO2zHOdb2GBHd2U4": {
           "name": "Armadura de cuero tachonado",
-          "description": "<p>Hecho de cuero resistente pero flexible, el cuero tachonado está reforzado con remaches o pinchos de cierre.</p>"
+          "description": "<p>Esta armadura está hecha de cuero resistente pero flexible, reforzado con remaches o púas muy juntos.</p>"
         },
         "YbB6EsBwNaEzVlxU": {
           "name": "Valiente",
-          "description": "<p>El gladiador tiene ventaja en los lanzamientos de ahorro en contra de ser asustado.</p>"
+          "description": "<p>El gladiador tiene ventaja en las tiradas de salvación para evitar estar asustado.</p>"
         },
         "NPTnV9YupSeKJrQ0": {
           "name": "Bruto",
-          "description": "<p>Un arma cuerpo a cuerpo reparte una gota extra de su daño cuando el gladiador golpea con él (incluido en el ataque).</p>"
+          "description": "<p>Un arma cuerpo a cuerpo causa un dado adicional de su daño cuando el gladiador impacta con ella (incluido en el ataque).</p>"
         },
         "GrUneCbXCYngdpjf": {
           "name": "Golpe con escudo",
-          "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>Si el objetivo es una criatura mediana o más pequeña, debe tener éxito en un [[/save]] ahorro tirar o ser golpeado &amp;Reference[prone].</p><p></p>",
-          "descriptionChat": "<p>El Gladiator ataca con su Shield Bash. Si el objetivo es una criatura mediana o más pequeña, debe hacer un <strong>Fuerza</strong> ahorro tirar o ser golpeado propenso.</p>",
+          "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>Si el objetivo es una criatura Mediana o menor, debe superar una tirada de salvación [[/save]] o caer &amp;Reference[prone]{derribado}.</p><p></p>",
+          "descriptionChat": "<p>El gladiador realiza un golpe con escudo. Si el objetivo es una criatura Mediana o más pequeña, debe realizar una tirada de salvación de <strong>Fuerza</strong> o quedar derribado.</p>",
           "activities": {
             "dnd5eactivity100": {
               "activation": {
-                "condition": "En el golpe"
+                "condition": "Al impactar"
               }
             }
           },
           "effects": {
             "e0KniuDngw2shi5N": {
-              "name": "Prona"
+              "name": "Derribado"
             }
           }
         },
         "AwP14Hu6dPdnSbQt": {
           "name": "Parada",
-          "description": "<p>El gladiador añade 3 a su <strong>CA</strong> contra un ataque que lo golpearía. Para hacerlo, el gladiador debe ver al atacante y estar empuñando un arma de combate.</p>",
-          "descriptionChat": "<p>El gladiador añade 3 a su <strong>CA</strong> contra un ataque que lo golpearía.</p>",
+          "description": "<p>El gladiador añade 3 a su <strong>CA</strong> contra un ataque cuerpo a cuerpo que fuera a impactarlo. Para hacerlo, debe ver al atacante y empuñar un arma cuerpo a cuerpo.</p>",
+          "descriptionChat": "<p>El gladiador añade 3 a su <strong>CA</strong> contra un ataque cuerpo a cuerpo que fuera a impactarlo.</p>",
           "activities": {
             "dnd5eactivity000": {
               "activation": {
-                "condition": "cuando un ataque cuerpo a cuerpo golpearía a esta criatura"
+                "condition": "Cuando un ataque cuerpo a cuerpo fuera a impactar a esta criatura"
               }
             }
           }
         }
       },
-      "name": "Tacón",
-      "creatureSubtype": "Gladiador de medio orco",
-      "languages": "cualquier idioma (generalmente común)",
-      "tokenName": "Tacón",
-      "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+      "name": "Talón",
+      "creatureSubtype": "Gladiador semiorco",
+      "languages": "Un idioma cualquiera (normalmente común)",
+      "tokenName": "Talón",
+      "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
     },
     "toaHewHackinston": {
       "alignment": "Caótico neutral",
@@ -9725,32 +9725,32 @@
       "items": {
         "NAmhPf8w89iV8CsY": {
           "name": "Ataque múltiple",
-          "description": "<p>El espía hace dos ataques cuerpo a cuerpo.</p>"
+          "description": "<p>La espía realiza dos ataques cuerpo a cuerpo.</p>"
         },
         "BhYnUUBoU3ESkl1B": {
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
           "name": "Espada corta",
-          "descriptionChat": "<p>El espía ataca con su espada corta.</p>"
+          "descriptionChat": "<p>La espía ataca con su espada corta.</p>"
         },
         "q6pfCQyaPQSw2waZ": {
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-          "name": "Ballesa de mano",
-          "descriptionChat": "<p>El espía ataca con su ballesta de manos.</p>"
+          "name": "Ballesta de mano",
+          "descriptionChat": "<p>La espía ataca con su ballesta de mano.</p>"
         },
         "93TfWPoMzBoaneMx": {
-          "name": "Acción astuta",
-          "description": "<p>En cada uno de sus turnos, el espía puede usar una acción adicional para tomar el guión, desactivar u ocultar la acción.</p>"
+          "name": "Acción Astuta",
+          "description": "<p>En cada uno de sus turnos, la espía puede usar una acción adicional para Correr, Destrabarse o Esconderse.</p>"
         },
         "TEgU7pKAAA0f35Yw": {
-          "name": "Ataque furtivo",
-          "description": "<p>El espía hace un daño adicional de 7 (2d6) cuando golpea un objetivo con un ataque de arma y tiene ventaja en el rollo de ataque, o cuando el objetivo está a menos de 5 pies de un aliado del espía que no está incapacitado y el espía no tiene desventaja en el rollo de ataque.</p>"
+          "name": "Ataque Furtivo",
+          "description": "<p>La espía causa 7 (2d6) de daño adicional cuando impacta a un objetivo con un ataque con arma y tiene ventaja en la tirada de ataque, o cuando el objetivo está a 5 pies o menos de un aliado de la espía que no esté incapacitado y la espía no tiene desventaja en la tirada de ataque.</p>"
         }
       },
       "name": "Kalita",
-      "creatureSubtype": "Chultán espía humano",
-      "languages": "dos cualquiera",
+      "creatureSubtype": "Espía humana chultana",
+      "languages": "Dos idiomas cualesquiera",
       "tokenName": "Kalita",
-      "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+      "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
     },
     "toaKeshmaalWazir": {
       "alignment": "Neutral malvado",
@@ -10456,32 +10456,32 @@
       "items": {
         "cac4FpQc3XabBwTj": {
           "name": "Ataque múltiple",
-          "description": "<p>Los [[lookup @name lowercase]] Hace dos. [[/item Mace]] ataques.</p>"
+          "description": "<p>El [[lookup @name lowercase]] realiza dos ataques con [[/item Mace]]{Maza}.</p>"
         },
         "9INT7D1zulhfsok7": {
           "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
           "name": "Ballesta pesada",
-          "descriptionChat": "<p>Los Thug atacan con su ballesta pesada.</p>"
+          "descriptionChat": "<p>El matón ataca con su ballesta pesada.</p>"
         },
         "6gRu9IFFkvxesFfK": {
           "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
           "name": "Maza",
-          "descriptionChat": "<p>Los Thug atacan con sus Mace.</p>"
+          "descriptionChat": "<p>El matón ataca con su maza.</p>"
         },
         "wonRQjOkc9E7RYtd": {
           "name": "Armadura de cuero",
-          "description": "<p>La coraza y los protectores de hombro de esta armadura están hechos de cuero que ha sido endurecido por ser hervido en aceite. El resto de la armadura está hecha de materiales más suaves y flexibles.</p>"
+          "description": "<p>El peto y las hombreras de esta armadura están hechos de cuero endurecido al hervirlo en aceite. El resto de la armadura se fabrica con materiales más blandos y flexibles.</p>"
         },
         "OE8y8otGDFop6Fzt": {
-          "name": "Tácticas de empaquetado",
-          "description": "<p>Los [[lookup @name lowercase]] tiene ventaja en un ataque contra una criatura si al menos uno de los aliados del matón está a menos de 5 pies de la criatura y el aliado no está incapacitado.</p>"
+          "name": "Atacar en Manada",
+          "description": "<p>El [[lookup @name lowercase]] tiene ventaja en una tirada de ataque contra una criatura si al menos uno de los aliados del matón está a 5 pies o menos de ella y no está incapacitado.</p>"
         }
       },
       "name": "Mercenario",
       "creatureSubtype": "Humano",
-      "languages": "cualquier idioma (generalmente común)",
+      "languages": "Un idioma cualquiera (normalmente común)",
       "tokenName": "Mercenario",
-      "biography": "<p>\n        <em>\n          Token artwork by\n          <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Aventuras olvidadas</a>.\n        </em>\n      </p><p>\n        <em>\n          Token artwork by\n          <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Aventuras olvidadas</a>.\n        </em>\n      </p>"
+      "biography": "<p>\n        <em>\n          Ilustración de la ficha por\n          <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.\n        </em>\n      </p><p>\n        <em>\n          Ilustración de la ficha por\n          <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.\n        </em>\n      </p>"
     },
     "toaMotherSibonse": {
       "alignment": "Legal neutral",
@@ -13637,11 +13637,11 @@
       "items": {
         "ZQRXxpwNzfQSKAIU": {
           "name": "Ataque múltiple",
-          "description": "<p>El duende hace dos ataques con su [[/item Scimitar]]. El segundo ataque tiene desventajas.</p>"
+          "description": "<p>El goblin realiza dos ataques con su [[/item Scimitar]]{Cimitarra}. El segundo ataque tiene desventaja.</p>"
         },
         "sSs3hSzkKBMNBgTs": {
           "name": "Escudo",
-          "description": "<p>Un escudo está hecho de madera o metal y se lleva en una mano. Wieling un escudo aumenta su clase de armadura en 2. Sólo puedes beneficiarte de un escudo a la vez.</p>"
+          "description": "<p>Un escudo está hecho de madera o metal y se lleva en una mano. Empuñar un escudo aumenta tu Clase de Armadura en 2. Solo puedes beneficiarte de un escudo a la vez.</p>"
         },
         "JmCJ5b1QFqu91tD4": {
           "name": "Cimitarra",
@@ -13652,16 +13652,16 @@
           "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>"
         },
         "xnWviKpM9xy0DWor": {
-          "name": "Redirigir ataque",
-          "description": "<p>Cuando una criatura el goblin puede ver los objetivos con un ataque, el goblin elige otro goblin dentro de 5 pies de él. Los dos goblins intercambian lugares, y el goblin elegido se convierte en el objetivo.</p>"
+          "name": "Redirigir Ataque",
+          "description": "<p>Cuando una criatura que el goblin pueda ver lo elige como objetivo de un ataque, el goblin elige a otro goblin a 5 pies o menos. Ambos intercambian posiciones y el goblin elegido pasa a ser el objetivo del ataque.</p>"
         },
         "p2zChy24ZJdVqMSH": {
-          "name": "Camisa de cadena",
-          "description": "<p>Hecho de anillos metálicos entrelazados, una camisa de cadena se usa entre capas de ropa o cuero. Esta armadura ofrece una protección modesta a la parte superior del cuerpo del usuario y permite que el sonido de los anillos frotarse unos contra otros para ser amortiguado por capas externas.</p>"
+          "name": "Camisa de malla",
+          "description": "<p>Una camisa de malla está hecha de anillas de metal entrelazadas y se lleva entre capas de ropa o cuero. Esta armadura ofrece una protección modesta al torso y permite amortiguar el ruido del roce de las anillas con las capas exteriores.</p>"
         },
         "ouBYyrH7zhmYEu0T": {
-          "name": "Escape ágil",
-          "description": "<p>El duende puede tomar el &amp;Reference[Disengage] o &amp;Reference[Hide] acción como una acción adicional en cada uno de sus turnos.</p>"
+          "name": "Huida Ágil",
+          "description": "<p>El goblin puede realizar la acción de &amp;Reference[Disengage]{Destrabarse} o &amp;Reference[Hide]{Esconderse} como acción adicional en cada uno de sus turnos.</p>"
         }
       },
       "name": "Yokka",
@@ -14884,28 +14884,28 @@
         "RrHhFZOd6QT75V3W": {
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
           "name": "Hacha a dos manos",
-          "descriptionChat": "<p>Los Berserker atacan con su Greataxe.</p>"
+          "descriptionChat": "<p>El berserker ataca con su hacha a dos manos.</p>"
         },
         "vdaEgOdpIO2o7GNX": {
           "name": "Armadura de pieles",
-          "description": "<p>Esta armadura cruda consta de pieles gruesas y pieles. Es comúnmente usado por tribus bárbaras, humanoides malvados, y otras personas que carecen de acceso a las herramientas y materiales necesarios para crear una mejor armadura.</p>"
+          "description": "<p>Esta rudimentaria armadura está hecha de pieles gruesas. Suelen llevarla tribus bárbaras, humanoides malvados y otros pueblos sin acceso a las herramientas y materiales necesarios para fabricar armaduras mejores.</p>"
         },
         "Qzj9HKnvRGhYoggC": {
           "name": "Temerario",
-          "description": "<p>Al comienzo de su turno, el berserker puede ganar ventaja en todos los rodillos de ataque de armas cuerpo a cuerpo durante ese turno, pero los rodillos de ataque contra él tienen ventaja hasta el inicio de su próximo turno.</p>",
+          "description": "<p>Al comienzo de su turno, el berserker puede obtener ventaja en todas las tiradas de ataque con armas cuerpo a cuerpo durante ese turno, pero las tiradas de ataque contra él tienen ventaja hasta el comienzo de su siguiente turno.</p>",
           "effects": {
             "WqXUqzRbXoMjF2MJ": {
               "name": "Temerario",
-              "description": "<p>Los rodillos de ataque contra él tienen ventaja hasta el inicio de su próxima vuelta.</p>"
+              "description": "<p>Las tiradas de ataque contra él tienen ventaja hasta el comienzo de su siguiente turno.</p>"
             }
           }
         }
       },
       "name": "Voltan",
       "creatureSubtype": "Berserker humano calishita",
-      "languages": "cualquier idioma (generalmente común)",
+      "languages": "Un idioma cualquiera (normalmente común)",
       "tokenName": "Voltan",
-      "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+      "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
     },
     "vSRDZMWOwOSQHW6m": {
       "items": {

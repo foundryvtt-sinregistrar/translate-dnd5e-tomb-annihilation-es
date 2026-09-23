@@ -2517,6 +2517,17 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Los cuatro Magos Rojos carecen de biografía exportada. No se añade texto
   narrativo ni se confunde el crédito artístico de los otros PNJ con biografía.
 
+### additional-named-two — Tripulantes, mercenario y Yokka
+
+- Revisados 234 campos de Grig Ruddell, Talón, Kalita, mercenario, Yokka y
+  Voltan en ambas copias. Referencias físicas 22, 45, 60 y 95; perfiles contra
+  el inglés y descripciones idénticas reutilizadas de las ya revisadas.
+- Revisada la biografía de Grig y su enlace público a Ortimay. Usado Talón
+  para Heel conforme al PDF, y ajustadas las referencias de Kalita al femenino.
+- Comprobadas la desventaja del segundo ataque de Yokka, su intercambio de
+  posiciones con otro goblin y la duración de Temerario hasta el comienzo
+  del siguiente turno de Voltan. No se añaden biografías ausentes del original.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2526,11 +2537,11 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
   de Foundry, tres de créditos y cuatro de historial.
   No equivale a 931 páginas del PDF.
-- 13027 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 13027 campos distintos.
+- 13261 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 13261 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas ciento treinta y seis biografías en ambas copias de actores: siete
-  príncipes, ciento veintisiete criaturas o PNJ vinculados al apéndice D y dos PNJ
+  insertado. Revisadas ciento treinta y siete biografías en ambas copias de actores: siete
+  príncipes, ciento veintisiete criaturas o PNJ vinculados al apéndice D y tres PNJ
   adicionales. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
