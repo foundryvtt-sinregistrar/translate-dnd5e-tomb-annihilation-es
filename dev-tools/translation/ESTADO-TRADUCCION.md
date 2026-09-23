@@ -2306,18 +2306,33 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - La acción legendaria usa una referencia por nombre `Eye Ray`, pendiente
   de comprobar en juego tras la traducción de los nombres.
 
+### appendix-d-sewn-sisters — Las Hermanas Cosidas
+
+- Revisados 176 campos: página conjunta y ambas copias de Calderilla,
+  Peggy Ánimas y Ancha Yaya. Referencias físicas 180–181; reglas y conjuros
+  contrastados con el perfil inglés. Corregida la variante «Babby Nanna» del
+  original al nombre español de Ancha Yaya.
+- Comprobados los límites de Pesadilla Atormentadora: contacto durante una
+  hora, pérdida del descanso, reducción de puntos máximos y captura del alma
+  únicamente si el objetivo muerto era malvado. Conservadas las protecciones.
+- Desplazamiento entre planos conserva su descripción general y la restricción
+  «solo sobre sí misma» en el nombre y en la lista innata. El perfil exportado
+  no incluye la reserva de conjuros del aquelarre descrita en el PDF.
+- Cerradas las páginas de texto del apéndice D; continúa la revisión de los
+  demás documentos y de las incidencias funcionales registradas.
+
 ## Balance de revisión editorial
 
-- 892 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 893 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 287 de los apéndices A, B, C, D y F.
-  No equivale a 892 páginas del PDF.
-- 10355 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 10355 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 288 de los apéndices A, B, C, D y F.
+  No equivale a 893 páginas del PDF.
+- 10531 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 10531 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas ciento treinta y una biografías en ambas copias de actores: siete
-  príncipes y ciento veinticuatro criaturas o PNJ vinculados al apéndice D. Siguen pendientes las demás
+  insertado. Revisadas ciento treinta y cuatro biografías en ambas copias de actores: siete
+  príncipes y ciento veintisiete criaturas o PNJ vinculados al apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las
