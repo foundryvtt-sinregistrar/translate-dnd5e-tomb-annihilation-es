@@ -1230,25 +1230,25 @@
       "items": {
         "K5t851nVi2Zc34t5": {
           "name": "Ataque múltiple",
-          "description": "<p>El caracol de flail hace tantos [[/item .ROjqHaHxgywMqAKe]] ataques como si tuviera tentáculos, todos contra el mismo objetivo.</p>"
+          "description": "<p>El caracol flagelo realiza tantos ataques de [[/item .ROjqHaHxgywMqAKe]]{Tentáculo flagelo} como tentáculos flagelo tenga, todos contra el mismo objetivo.</p>"
         },
         "ROjqHaHxgywMqAKe": {
           "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-          "name": "Tentacle de flail"
+          "name": "Tentáculo flagelo"
         },
         "fLrXqdsE2k7A1DRB": {
-          "name": "Scintilante Shell",
-          "description": "<p>La concha del caracol emite luz deslumbrante y colorida hasta el final del siguiente giro del caracol. Durante este tiempo, la concha arroja luz brillante en un radio de 30 pies y luz tenue por otros 30 pies, y las criaturas que pueden ver el caracol tienen desventaja en los rollos de ataque contra él.</p><p>Además, cualquier criatura dentro de la luz brillante y capaz de ver el caracol cuando este poder se activa debe tener éxito en un [[/save format=long]] o ser &amp;Reference[Stunned apply=false]{aturdido} hasta que la luz se acabe.</p>",
+          "name": "Concha centelleante",
+          "description": "<p>La concha del caracol emite una luz deslumbrante de colores hasta el final de su siguiente turno. Durante ese tiempo, emite luz brillante en un radio de 30 pies y luz tenue 30 pies más allá, y las criaturas que puedan ver al caracol tienen desventaja en las tiradas de ataque contra él.</p><p>Además, cualquier criatura dentro del área de luz brillante que pueda ver al caracol cuando se active este poder debe superar una [[/save format=long]] o quedar &amp;Reference[Stunned apply=false]{aturdida} hasta que termine la luz.</p>",
           "effects": {
             "dwGO3YvZkoUTvcPK": {
               "name": "Aturdido",
-              "description": "<p>El objetivo es &amp;Reference[Stunned apply=false]{aturdido} hasta que la luz se acabe.</p>"
+              "description": "<p>El objetivo queda &amp;Reference[Stunned apply=false]{aturdido} hasta que termine la luz.</p>"
             }
           }
         },
         "JRvWqlwXWj2j8y2Q": {
-          "name": "Defensa de Shell",
-          "description": "<p>El caracol se retira en su caparazón, ganando un bono de +4 a AC hasta que emerge. Puede emerger de su caparazón como una acción adicional en su turno.</p><section id=\"secret-2tCtQJVKUexnpKWC\" class=\"secret\"><p><strong>Nota de Foundry</strong></p><p>Un efecto activo está disponible en la pestaña Efectos de la hoja de caracteres para habilitar el bono AC.</p></section>",
+          "name": "Defensa con concha",
+          "description": "<p>El caracol flagelo se retrae en su concha y obtiene un bonificador de +4 a la CA hasta que salga. Puede salir de su concha como acción adicional en su turno.</p><section id=\"secret-2tCtQJVKUexnpKWC\" class=\"secret\"><p><strong>Nota de Foundry</strong></p><p>En la pestaña Efectos de la ficha hay un efecto activo para aplicar el bonificador a la CA.</p></section>",
           "effects": {
             "ZqQCpN6AXiQf9CeO": {
               "name": "Bonificador de +4 a la CA"
@@ -1256,26 +1256,26 @@
           }
         },
         "wNqFNv497JFGtEjn": {
-          "name": "Concha antimagica",
-          "description": "<p>El caracol tiene ventaja en los lanzamientos de ahorro contra conjuros, y cualquier criatura haciendo un ataque de conjuro contra el caracol tiene desventaja en el rollo de ataque.</p><p>Si el caracol tiene éxito en su lanzamiento de ahorro contra un conjuro o un ataque de conjuro lo pierde, un efecto adicional podría ocurrir, como determinado por rodar un [[/r d6]]:</p><p><em>1–2</em>. Si el conjuro afecta a un área o tiene múltiples objetivos, falla y no tiene efecto. Si el conjuro apunta sólo al caracol, no tiene ningún efecto en el caracol y se refleja de nuevo en la rueda, utilizando el nivel de espacio de conjuro, conjuro salvar CD, prima de ataque, y la habilidad de conjuro de la rueda.</p><p><em>3–4</em>. Sin efecto adicional.</p><p><em>5–6</em>. La concha del caracol convierte parte de la energía del conjuro en una explosión de fuerza destructiva. Cada criatura dentro de 30 pies del caracol debe hacer un [[/save format=long]], tomando [[/damage average]] daño por nivel del conjuro en un error de guardar, o la mitad de daño en un éxito.</p>",
+          "name": "Concha Antimagia",
+          "description": "<p>El caracol tiene ventaja en las tiradas de salvación contra conjuros, y cualquier criatura que realice un ataque de conjuro contra él tiene desventaja en la tirada de ataque.</p><p>Si el caracol supera su tirada de salvación contra un conjuro o un ataque de conjuro falla contra él, puede producirse un efecto adicional, determinado con una tirada de [[/r d6]]:</p><p><em>1–2</em>. Si el conjuro afecta a un área o tiene varios objetivos, falla y no tiene efecto. Si su único objetivo es el caracol, no lo afecta y se refleja contra el lanzador, usando el nivel del espacio de conjuro, la CD de salvación de conjuros, el bonificador de ataque y la aptitud mágica del lanzador.</p><p><em>3–4</em>. No hay ningún efecto adicional.</p><p><em>5–6</em>. La concha convierte parte de la energía del conjuro en un estallido de fuerza destructiva. Cada criatura a 30 pies o menos del caracol debe realizar una [[/save format=long]]; sufre [[/damage average]] de daño por nivel del conjuro si falla, o la mitad si tiene éxito.</p>",
           "activities": {
             "kuVEiKF02ylnOKj8": {
-              "name": "Rollo d6",
+              "name": "Tirar d6",
               "roll": {
-                "name": "Rollo d6"
+                "name": "Tirar d6"
               }
             },
             "614GQvYqXpOBuYAT": {
-              "name": "Guardar: 5-6"
+              "name": "Salvación: 5-6"
             }
           }
         },
         "WGjWpJIPk1fLqT2x": {
-          "name": "Tentáculos de flail",
-          "description": "<p>El caracol tiene cinco tentáculos. Cada vez que el caracol recibe 10 daños o más en un solo giro, uno de sus tentáculos muere. Si aún queda un tentáculo, el caracol vuelve a crecer a todos los muertos dentro de [[/r 1d4]] días. Si todos sus tentáculos mueren, el caracol se retrae en su caparazón, ganando cobertura total, y comienza a lamentar, un sonido que se puede oír durante 600 pies, deteniéndose sólo cuando muere [[/r 5d6]] minutos después. La magia curativa que restaura extremidades, como el conjuro regenerador, puede detener este proceso moribundo.</p>"
+          "name": "Tentáculos Flagelo",
+          "description": "<p>El caracol flagelo tiene cinco tentáculos flagelo. Cada vez que recibe 10 de daño o más en un mismo turno, uno de sus tentáculos muere. Si le queda al menos uno, regenera todos los que hayan muerto en [[/r 1d4]] días. Si mueren todos sus tentáculos, el caracol se retrae en su concha, obtiene cobertura total y comienza a emitir lamentos que pueden oírse a 600 pies. Solo deja de lamentarse cuando muere, [[/r 5d6]] minutos después. La magia curativa que restaura extremidades, como el conjuro regenerar, puede detener este proceso y evitar su muerte.</p>"
         }
       },
-      "biography": "<p>Un caracol es una criatura de la tierra elemental que es preciada por su concha multihued. Los cazadores podrían arder en un falso sentido de confianza al ver a esta criatura ponderada, aparentemente no hostil. Si cualquier otra criatura lo suficientemente grande como para ser una amenaza se acerca demasiado, sin embargo, el caracol desencadena un destello de luz centelleante y luego ataca con sus tentáculos parecidos a maza.</p><p><em><strong>Sendero del Tesoro</strong></em>. Sin perturbarse, un caracol se mueve lentamente a lo largo del suelo, consumiendo todo lo que hay en la superficie, incluyendo rocas, arena y suelo, deteniéndose para saborear el crecimiento de cristales y otros grandes depósitos minerales. Deja tras de sí un sendero brillante que se solidifica rápidamente en una fina capa de una sustancia casi transparente no comestible para el caracol. Este residuo cristalino puede ser cosechado y cortado para formar cristales de ventana de diferente claridad. También se puede calentar y hilar en objetos de vidrio de otro tipo. Algunos humanoides se ganan la vida con caracoles de cola para recoger este vaso.</p><aside class=\"notable\"><h4>Usando la concha de un caracol</h4><p>Una cáscara de caracol, que pesa alrededor de 250 libras, tiene numerosos usos. Una cáscara intacta puede venderse por 5.000 gp.</p><p>Muchos cazadores buscan la concha por sus propiedades antimágicas. Un armero experto puede hacer tres escudos de una sola concha. Durante 1 mes, cada escudo le da a su portador el rasgo antimágico Shell del caracol. Cuando la magia del escudo se desvanece, deja detrás un escudo exótico que es el elemento perfecto de la que hacer un <em>@UUID[Compendium.dnd5e.items.Item.kpDbCYgUivh7NApp]{escudo de protección ortopédica}</em>.</p><p>Una cáscara de caracol flail también se puede utilizar para hacer un <em>@UUID[Compendium.dnd5e.items.Item.JRJpKZyamkpa7awv]{túnica de colores brillantes}</em>. La concha es molida y añadida al tinte mientras la prenda está siendo moldeada. El polvo es también un componente material del ritual que encanta la túnica.</p></aside>"
+      "biography": "<p>El caracol flagelo es una criatura de tierra elemental apreciada por su concha multicolor. Su aspecto pesado y aparentemente inofensivo puede inspirar una falsa confianza a los cazadores. Sin embargo, si otra criatura lo bastante grande como para suponer una amenaza se acerca demasiado, el caracol emite un destello de luz centelleante y después ataca con sus tentáculos, similares a mazas.</p><p><em><strong>Un rastro de tesoros</strong></em>. Si nadie lo molesta, el caracol flagelo avanza lentamente por el suelo y consume todo lo que encuentra en la superficie, incluidas rocas, arena y tierra; se detiene para saborear las formaciones cristalinas y otros grandes depósitos minerales. Deja tras de sí un rastro brillante que se solidifica rápidamente en una fina capa de una sustancia casi transparente que no puede comer. Este residuo vítreo puede recogerse y cortarse para fabricar cristales de ventana de distinta transparencia. También puede calentarse y moldearse para crear otros objetos de vidrio. Algunos humanoides se ganan la vida siguiendo a los caracoles flagelo para recoger este material.</p><aside class=\"notable\"><h4>Usos de la concha de un caracol flagelo</h4><p>La concha de un caracol flagelo pesa unas 250 libras y tiene numerosos usos. Una concha intacta puede venderse por 5.000 po.</p><p>Muchos cazadores buscan la concha por sus propiedades antimagia. Un armero experto puede fabricar tres escudos con una sola concha. Durante 1 mes, cada escudo otorga a su portador el rasgo Concha Antimagia del caracol. Cuando la magia desaparece, queda un escudo exótico, perfecto para fabricar un <em>@UUID[Compendium.dnd5e.items.Item.kpDbCYgUivh7NApp]{escudo de resistencia a conjuros}</em>.</p><p>La concha de un caracol flagelo también puede utilizarse para fabricar una <em>@UUID[Compendium.dnd5e.items.Item.JRJpKZyamkpa7awv]{túnica de colores hipnóticos}</em>. Se pulveriza la concha y se añade al tinte mientras se confecciona la prenda. El polvo también sirve como componente material del ritual que encanta la túnica.</p></aside>"
     },
     "9tQTH4CCuVj57FtH": {
       "alignment": "Sin alineamiento",

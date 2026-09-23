@@ -1666,18 +1666,28 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   entradas originales de armadura de mago permanecen traducidas.
 - El enlace por nombre `Scimitar` sigue pendiente de resolución por identificador.
 
+### appendix-d-flail-snail — Caracol flagelo
+
+- Revisados 48 campos de las dos copias del actor y su página, con referencia
+  física 216. Conservados pérdida de tentáculos por turno, regeneración,
+  cobertura total y condiciones de reflexión de conjuros.
+- Discrepancia entre fuentes: el exportado contiene un rastro de vidrio y usos
+  artesanales de la concha ausentes del PDF español. También fija su precio en
+  5.000 po frente a las 2.500 po del PDF. Se conserva y traduce el exportado.
+- Corregida la etiqueta errónea «+4 AC Bonud» del efecto de Defensa con concha.
+
 ## Balance de revisión editorial
 
-- 773 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 774 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 168 de los apéndices A, B, C, D y F.
-  No equivale a 773 páginas del PDF.
-- 3051 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 3051 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 169 de los apéndices A, B, C, D y F.
+  No equivale a 774 páginas del PDF.
+- 3099 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 3099 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas veintidós biografías en ambas copias de actores: siete
-  príncipes y quince criaturas o PNJ del apéndice D. Siguen pendientes las demás
+  insertado. Revisadas veintitrés biografías en ambas copias de actores: siete
+  príncipes y dieciséis criaturas o PNJ del apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las
