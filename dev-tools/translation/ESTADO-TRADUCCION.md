@@ -1794,18 +1794,30 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   acumulativo permanente y umbrales distintos de destrucción para armaduras
   y escudos u objetos mágicos. El enlace por nombre `Claws` sigue pendiente.
 
+### appendix-d-zombies — Anquilosaurio, girallon y tiranosaurio zombis
+
+- Revisados 96 campos de ambas copias de los tres actores y su página,
+  con referencias físicas 241 y 242. Conservados los valores dinámicos del
+  nombre y la CD para escapar, junto con sus etiquetas en español.
+- Revisados destinos distintos del ataque múltiple del tiranosaurio, impedimento
+  para vomitar durante el agarre, iniciativa independiente de los zombis y pérdida
+  del rasgo al obtener 1. Conservados los comentarios técnicos de las tiradas.
+- La biografía del tiranosaurio zombi está vacía en el exportado; no incluye
+  la aclaración del PDF de que no controla a los zombis de su interior.
+- Los enlaces por nombre `Bite`, `Claw` y `Tail` siguen pendientes.
+
 ## Balance de revisión editorial
 
-- 794 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 795 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 189 de los apéndices A, B, C, D y F.
-  No equivale a 794 páginas del PDF.
-- 4271 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 4271 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 190 de los apéndices A, B, C, D y F.
+  No equivale a 795 páginas del PDF.
+- 4367 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 4367 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas cuarenta y siete biografías en ambas copias de actores: siete
-  príncipes y cuarenta criaturas o PNJ del apéndice D. Siguen pendientes las demás
+  insertado. Revisadas cuarenta y nueve biografías en ambas copias de actores: siete
+  príncipes y cuarenta y dos criaturas o PNJ del apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las

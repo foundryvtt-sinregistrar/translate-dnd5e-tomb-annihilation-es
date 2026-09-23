@@ -7401,26 +7401,26 @@
     },
     "toaAnkylosaurusZ": {
       "alignment": "Sin alineamiento",
-      "languages": "--",
+      "languages": "—",
       "items": {
         "oEMkZuZbecGeBApo": {
           "name": "Cola",
-          "description": "<p>[[/attack extended]]. [[/damage extended average]]. Si el objetivo es una criatura, debe tener éxito en un [[/save format=long]] o ser llamado &amp;Reference[prone apply=false]{propenso}.</p>",
+          "description": "<p>[[/attack extended]]. [[/damage extended average]]. Si el objetivo es una criatura, debe superar una [[/save format=long]] o quedar &amp;Reference[prone apply=false]{derribado}.</p>",
           "effects": {
             "7vzBNAfxkXaDUgoj": {
-              "name": "Prona",
-              "description": "<p>El objetivo está golpeado. &amp;Reference[prone apply=false]{propenso}.</p>"
+              "name": "Derribado",
+              "description": "<p>El objetivo queda &amp;Reference[prone apply=false]{derribado}.</p>"
             }
           }
         },
         "V9ZXbqXXuB6wM23K": {
-          "name": "Fortaleza de muertos vivientes",
-          "description": "<p>Si el daño reduce el zombi a 0 puntos de impacto, debe hacer un lanzamiento ahorro Constitución con un CD de 5 + el daño tomado, a menos que el daño sea radiante o de un golpe crítico. En un éxito, el zombi cae a 1 punto de impacto en su lugar.</p>"
+          "name": "Fortaleza de Muerto Viviente",
+          "description": "<p>Si el daño reduce al zombi a 0 puntos de golpe, debe realizar una tirada de salvación de Constitución con una CD de 5 + el daño recibido, salvo que el daño sea radiante o proceda de un golpe crítico. Si tiene éxito, el zombi queda con 1 punto de golpe en su lugar.</p>"
         }
       },
       "name": "Anquilosaurio zombi",
       "tokenName": "Anquilosaurio zombi",
-      "biography": "<p>Esta criatura es lenta y apenas se da cuenta de su entorno.</p>"
+      "biography": "<p>Esta criatura es lenta y apenas percibe lo que la rodea.</p>"
     },
     "toaAremag0000000": {
       "alignment": "Neutral",
@@ -8973,7 +8973,7 @@
       "items": {
         "ukL021MeueJAJh9h": {
           "name": "Ataque múltiple",
-          "description": "<p>Los [[lookup @name lowercase]] hace cinco ataques: uno con su [[/item Bite]] y cuatro con su [[/item Claw]].</p>"
+          "description": "<p>El [[lookup @name lowercase]] realiza cinco ataques: uno con su [[/item Bite]]{Mordisco} y cuatro con su [[/item Claw]]{Garra}.</p>"
         },
         "LLXOApc5r40tXYtk": {
           "name": "Mordisco",
@@ -8985,16 +8985,16 @@
         },
         "yvexF4jzNg6QWXvo": {
           "name": "Agresivo",
-          "description": "<p>Como una acción adicional, la [[lookup @name lowercase]] puede subir a su velocidad hacia una criatura hostil que puede ver.</p>"
+          "description": "<p>Como acción adicional, el [[lookup @name lowercase]] puede moverse hasta su velocidad hacia una criatura hostil que pueda ver.</p>"
         },
         "UOVHR6RfYYxT9WOu": {
-          "name": "Fortaleza de muertos vivientes",
-          "description": "<p>Si el daño reduce la [[lookup @name lowercase]] a 0 puntos de impacto, debe hacer un lanzamiento de ahorro Constitución con un CD de 5 + el daño tomado, a menos que el daño sea radiante o de un impacto crítico. En un éxito, el zombi cae a 1 punto de impacto en su lugar.</p>"
+          "name": "Fortaleza de Muerto Viviente",
+          "description": "<p>Si el daño reduce al [[lookup @name lowercase]] a 0 puntos de golpe, debe realizar una tirada de salvación de Constitución con una CD de 5 + el daño recibido, salvo que el daño sea radiante o proceda de un golpe crítico. Si tiene éxito, el zombi queda con 1 punto de golpe en su lugar.</p>"
         }
       },
       "name": "Girallon zombi",
       "tokenName": "Girallon zombi",
-      "biography": "<p>Los Giralones son simios de cuatro brazos con piel blanca. Los zombies Girallon son más lentos que sus contrapartes no-muertos, pero no menos feroces. La energía necromántica que les da poder alimenta sus corazones asesinos y su hambre de carne viva.</p>"
+      "biography": "<p>Los girallons son simios de cuatro brazos y pelaje blanco. Los girallons zombis son más lentos que los vivos, pero igual de feroces. La energía nigromántica que los anima alimenta sus corazones asesinos y su hambre de carne viva.</p>"
     },
     "toaGondolo000000": {
       "alignment": "Caótico bueno",
@@ -12614,20 +12614,20 @@
       "items": {
         "dBNzrfUooVbnsFk2": {
           "name": "Ataque múltiple",
-          "description": "<p>Los [[lookup @name lowercase]] hace dos ataques: uno con su [[/item Bite]]{mordedura} y uno con su [[/item Tail]]{cola}. No puede hacer que ambos ataques contra el mismo objetivo.</p>"
+          "description": "<p>El [[lookup @name lowercase]] realiza dos ataques: uno con su [[/item Bite]]{mordisco} y otro con su [[/item Tail]]{cola}. No puede dirigir ambos ataques contra el mismo objetivo.</p>"
         },
         "njO3bsnVk06fDLXT": {
           "name": "Mordisco",
-          "description": "<p>[[/attack extended]]. [[/damage extended average]].</p><p>Si el objetivo es una criatura mediana o más pequeña, es &amp;Reference[Grappled apply=false] (escape CD [[lookup @skills.ath.passive]]). Hasta que termine esta pelea, el objetivo es &amp;Reference[Restrained apply=false] y el tiranosaurio zombi no puede morder a otro objetivo o desgorge zombies.</p>",
+          "description": "<p>[[/attack extended]]. [[/damage extended average]].</p><p>Si el objetivo es una criatura Mediana o más pequeña, queda &amp;Reference[Grappled apply=false]{agarrado} (CD [[lookup @skills.ath.passive]] para escapar). Hasta que termine el agarre, el objetivo está &amp;Reference[Restrained apply=false]{apresado} y el tiranosaurio zombi no puede morder a otro objetivo ni vomitar zombis.</p>",
           "activities": {
             "Ry0jWG3B2GgUBsEc": {
-              "name": "Comprobación de escape"
+              "name": "Prueba para escapar"
             }
           },
           "effects": {
             "IDpo8WjKSbe4JeN0": {
-              "name": "Agarrado y Restringido",
-              "description": "<p>Si el objetivo es una criatura mediana o más pequeña, es &amp;Reference[Grappled apply=false] (escape CD 17). Hasta que termine esta pelea, el objetivo es &amp;Reference[Restrained apply=false]</p>"
+              "name": "Agarrado y apresado",
+              "description": "<p>Si el objetivo es una criatura Mediana o más pequeña, queda &amp;Reference[Grappled apply=false]{agarrado} (CD 17 para escapar). Hasta que termine el agarre, el objetivo está &amp;Reference[Restrained apply=false]{apresado}.</p>"
             }
           }
         },
@@ -12636,32 +12636,32 @@
           "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>"
         },
         "TqCn1lVUa1ddfRpr": {
-          "name": "Desgorge Zombie",
-          "description": "<p>Como una acción adicional, la [[lookup @name lowercase]] puede desgorge un normal @UUID[Compendium.dnd5e.monsters.Actor.NAISFPoNNgUCsEyW]{zombie}, que aparece en un espacio desocupado a menos de 10 pies de distancia. El zombi degollado actúa por iniciativa propia.</p><p>Después de que un zombi es degollado, roda un [[/r d6#On a roll of 1, the tyrannosaurus zombie runs out of zombies to disgorge and loses this trait]]. En un rollo de 1, el tiranosaurio zombie se queda sin zombies para desgorge y pierde este rasgo.</p><p>Si la [[lookup @name lowercase]] todavía tiene este rasgo cuando muere, [[/r d4#Number of zombies that erupt from the tyrannosaurus zombie corpse.]] zombies normales salen de su cadáver al comienzo de su próximo turno. Estos zombies actúan por iniciativa propia.</p>",
+          "name": "Vomitar Zombi",
+          "description": "<p>Como acción adicional, el [[lookup @name lowercase]] puede vomitar un @UUID[Compendium.dnd5e.monsters.Actor.NAISFPoNNgUCsEyW]{zombi} normal, que aparece en un espacio desocupado a 10 pies o menos de él. El zombi regurgitado actúa con su propia iniciativa.</p><p>Después de vomitar un zombi, tira un [[/r d6#On a roll of 1, the tyrannosaurus zombie runs out of zombies to disgorge and loses this trait]]. Si sale un 1, al tiranosaurio zombi no le quedan zombis que vomitar y pierde este rasgo.</p><p>Si el [[lookup @name lowercase]] conserva este rasgo cuando muere, [[/r d4#Number of zombies that erupt from the tyrannosaurus zombie corpse.]] zombis normales emergen de su cadáver al comienzo de su siguiente turno. Estos zombis actúan con su propia iniciativa.</p>",
           "activities": {
             "3rpoeI5NB00Zhnoh": {
-              "name": "Desgorge Zombie"
+              "name": "Vomitar Zombi"
             },
             "5CeoSy5R4ElVb3zx": {
-              "name": "Comprobación de los rasgos",
+              "name": "Comprobar rasgo",
               "roll": {
-                "name": "Comprobación de los rasgos"
+                "name": "Comprobar rasgo"
               }
             },
             "Ne1ZppUHvqSJ9DNT": {
-              "name": "Cantidad de zombis que surgen",
+              "name": "Número de zombis que emergen",
               "activation": {
-                "condition": "Si el tiranosaurio zombi todavía tiene este rasgo cuando muere"
+                "condition": "Si el tiranosaurio zombi conserva este rasgo cuando muere"
               },
               "roll": {
-                "name": "Cantidad de zombis que surgen"
+                "name": "Número de zombis que emergen"
               }
             }
           }
         },
         "5FF9jgxx79G4d2mW": {
-          "name": "Fortaleza de muertos vivientes",
-          "description": "<p>Si el daño reduce la [[lookup @name lowercase]] a 0 puntos de impacto, debe hacer un lanzamiento de ahorro Constitución con un CD de 5 + el daño tomado, a menos que el daño sea radiante o de un impacto crítico. En un éxito, el zombi cae a 1 punto de impacto en su lugar.</p>"
+          "name": "Fortaleza de Muerto Viviente",
+          "description": "<p>Si el daño reduce al [[lookup @name lowercase]] a 0 puntos de golpe, debe realizar una tirada de salvación de Constitución con una CD de 5 + el daño recibido, salvo que el daño sea radiante o proceda de un golpe crítico. Si tiene éxito, el zombi queda con 1 punto de golpe en su lugar.</p>"
         }
       },
       "name": "Tiranosaurio zombi",
