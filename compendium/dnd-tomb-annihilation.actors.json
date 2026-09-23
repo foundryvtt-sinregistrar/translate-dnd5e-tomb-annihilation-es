@@ -361,31 +361,31 @@
       "items": {
         "Et0GP61ZnJkxxqvN": {
           "name": "Mordisco",
-          "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo debe hacer un [[/save format=long]], tomando [[/damage average activity=dnd5eactivity100]] daño en un error de guardar, o la mitad de daño en un éxito. Si el daño al veneno reduce el objetivo a 0 puntos de impacto, el objetivo es estable, pero &amp;Reference[poisoned apply=false]{envenenado} durante 1 hora, incluso después de recuperar los puntos de impacto, y es &amp;Reference[paralyzed apply=false]{paralizado} mientras que envenenado de esta manera.</p>",
-          "descriptionChat": "<p>La Araña Lobo Gigante ataca con su mordida. El objetivo debe hacer un <strong>Constitución</strong> El lanzamiento de ahorro.</p>",
+          "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo debe realizar una tirada de salvación [[/save format=long]]. Si falla, sufre [[/damage average activity=dnd5eactivity100]] de daño; si tiene éxito, sufre la mitad. Si el daño de veneno reduce al objetivo a 0 puntos de golpe, queda estable pero &amp;Reference[poisoned apply=false]{envenenado} durante 1 hora, incluso si recupera puntos de golpe, y está &amp;Reference[paralyzed apply=false]{paralizado} mientras esté envenenado de esta forma.</p>",
+          "descriptionChat": "<p>La araña lobo gigante ataca con su mordisco. El objetivo debe realizar una tirada de salvación de <strong>Constitución</strong>.</p>",
           "effects": {
             "SPJ6vbJNxptwfIxb": {
-              "name": "Envenenado y Paralizado",
-              "description": "<p>Si el daño del veneno reduce el objetivo a 0 puntos de impacto, el objetivo es estable pero envenenado durante 1 hora, incluso después de recuperar los puntos de impacto, y está paralizado mientras está envenenado de esta manera.</p>"
+              "name": "Envenenado y paralizado",
+              "description": "<p>Si el daño de veneno reduce al objetivo a 0 puntos de golpe, queda estable pero envenenado durante 1 hora, incluso si recupera puntos de golpe, y está paralizado mientras esté envenenado de esta forma.</p>"
             }
           }
         },
         "w4oJusdFuSttyz8X": {
-          "name": "Escalada de arañas",
-          "description": "<p>La araña puede trepar superficies difíciles, incluso boca abajo en los techos, sin necesidad de hacer una comprobación de capacidad.</p>"
+          "name": "Trepar cual Arácnido",
+          "description": "<p>La araña puede trepar por superficies difíciles, incluso boca abajo por el techo, sin realizar pruebas de característica.</p>"
         },
         "OwNnGHVHu2XX0oPc": {
-          "name": "Sentido web",
-          "description": "<p>Mientras está en contacto con una web, la araña conoce la ubicación exacta de cualquier otra criatura en contacto con la misma web.</p>"
+          "name": "Sentir Telarañas",
+          "description": "<p>Mientras esté en contacto con una telaraña, la araña conoce la ubicación exacta de cualquier otra criatura en contacto con esa misma telaraña.</p>"
         },
         "oRhC5cUi8uHMapul": {
           "name": "Andar por telarañas",
-          "description": "<p>La araña ignora las restricciones de movimiento causadas por la telaraña.</p>"
+          "description": "<p>La araña ignora las restricciones al movimiento causadas por las telarañas.</p>"
         }
       },
-      "name": "Araña gigante lobo",
-      "tokenName": "Araña gigante lobo",
-      "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+      "name": "Araña lobo gigante",
+      "tokenName": "Araña lobo gigante",
+      "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
     },
     "3F0Jdj223E7nyUc3": {
       "alignment": "Legal bueno",
@@ -990,12 +990,12 @@
       "alignment": "Sin alineamiento",
       "name": "Estirge",
       "tokenName": "Estirge",
-      "biography": "<p><em>Token artwork by </em><a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\"><em>Aventuras olvidadas</em></a><em>.</em></p>",
+      "biography": "<p><em>Ilustración de la ficha por </em><a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\"><em>Forgotten Adventures</em></a><em>.</em></p>",
       "items": {
         "MEFgfFD6YUD9cE08": {
-          "name": "Drenaje de sangre",
-          "description": "<p>[[/attack extended]]. [[/damage extended average]].</p><p>El movimiento se une al objetivo. Mientras esté unido, el movimiento no ataca. En su lugar, al comienzo de cada uno de los giros del agitador, el objetivo pierde [[/damage average activity=jpyDyKWlcqv4HZXd]] puntos de impacto debido a la pérdida de sangre.</p><p>El movimiento puede desprenderse gastando 5 pies de su movimiento. Lo hace después de drenar 10 puntos de sangre del objetivo o el objetivo muere.</p>",
-          "descriptionChat": "<p>El Stirge ataca con su drenaje de sangre. Una criatura, incluyendo el objetivo, puede usar su acción para separar el movimiento.</p>",
+          "name": "Drenar Sangre",
+          "description": "<p>[[/attack extended]]. [[/damage extended average]].</p><p>La estirge se adhiere al objetivo. Mientras está adherida, no ataca; en su lugar, al comienzo de cada uno de sus turnos, el objetivo pierde [[/damage average activity=jpyDyKWlcqv4HZXd]] puntos de golpe por la pérdida de sangre.</p><p>La estirge puede soltarse gastando 5 pies de movimiento. Lo hace tras drenar 10 puntos de golpe de sangre del objetivo o cuando este muere.</p>",
+          "descriptionChat": "<p>La estirge ataca con Drenar Sangre. Una criatura, incluido el objetivo, puede usar su acción para desprender a la estirge.</p>",
           "activities": {
             "jpyDyKWlcqv4HZXd": {
               "name": "Pérdida de sangre"
@@ -1349,22 +1349,22 @@
       "items": {
         "wpqra38jsZPRAuov": {
           "name": "Ataque múltiple",
-          "description": "<p>El escorpión hace tres ataques: dos con su [[/item .OJ2b64O3e1nni21W]]{garras} y uno con su [[/item .q6uVUHWyzht5OpwV]]{picadura}.</p>"
+          "description": "<p>El escorpión realiza tres ataques: dos con sus [[/item .OJ2b64O3e1nni21W]]{pinzas} y uno con su [[/item .q6uVUHWyzht5OpwV]]{aguijón}.</p>"
         },
         "OJ2b64O3e1nni21W": {
-          "name": "Garra",
-          "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo es &amp;Reference[grappled] (escape CD 12). El escorpión tiene dos garras, cada una de las cuales puede alcanzar un solo objetivo.</p>",
-          "descriptionChat": "<p>El Escorpión Gigante ataca con su Garra. El objetivo está enfrentado.</p>"
+          "name": "Pinza",
+          "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo queda &amp;Reference[grappled]{agarrado} (CD 12 para escapar). El escorpión tiene dos pinzas, cada una de las cuales puede agarrar a un solo objetivo.</p>",
+          "descriptionChat": "<p>El escorpión gigante ataca con su pinza. El objetivo queda agarrado.</p>"
         },
         "q6uVUHWyzht5OpwV": {
           "name": "Aguijón",
-          "description": "<p>&amp;Reference[grappled]</p><p>El objetivo debe hacer un [[/save]] ahorro lanzamiento, toma [[/damage average activity=dnd5eactivity100]] daño en un error de guardar, o la mitad de daño en un éxito.</p>",
-          "descriptionChat": "<p>El Escorpión Gigante ataca con su Sting. El objetivo debe hacer un <strong>Constitución</strong> El lanzamiento de ahorro.</p>"
+          "description": "<p>&amp;Reference[grappled]{Agarrado}</p><p>El objetivo debe realizar una tirada de salvación [[/save]]. Si falla, sufre [[/damage average activity=dnd5eactivity100]] de daño; si tiene éxito, sufre la mitad.</p>",
+          "descriptionChat": "<p>El escorpión gigante ataca con su aguijón. El objetivo debe realizar una tirada de salvación de <strong>Constitución</strong>.</p>"
         }
       },
       "name": "Escorpión gigante",
       "tokenName": "Escorpión gigante",
-      "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+      "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
     },
     "Aks8Yt5eqnc3Q9JN": {
       "alignment": "Neutral",
@@ -4352,12 +4352,12 @@
       "alignment": "Sin alineamiento",
       "name": "Avispa gigante",
       "tokenName": "Avispa gigante",
-      "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
+      "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
       "items": {
         "L1TmhBXd2UrVxExn": {
           "name": "Aguijón",
-          "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo debe hacer un [[/save]] ahorro lanzamiento, toma [[/damage average activity=dnd5eactivity100]] daño en un error de guardar, o la mitad de daño en un éxito. Si el daño del veneno reduce el objetivo a 0 puntos de impacto, el objetivo es estable pero envenenado durante 1 hora, incluso después de recuperar los puntos de impacto, y está paralizado mientras está envenenado de esta manera.</p>",
-          "descriptionChat": "<p>La Avispa Gigante ataca con su Sting. El objetivo debe hacer un <strong>Constitución</strong> El lanzamiento de ahorro.</p>"
+          "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo debe realizar una tirada de salvación [[/save]]. Si falla, sufre [[/damage average activity=dnd5eactivity100]] de daño; si tiene éxito, sufre la mitad. Si el daño de veneno reduce al objetivo a 0 puntos de golpe, queda estable pero envenenado durante 1 hora, incluso si recupera puntos de golpe, y está paralizado mientras esté envenenado de esta forma.</p>",
+          "descriptionChat": "<p>La avispa gigante ataca con su aguijón. El objetivo debe realizar una tirada de salvación de <strong>Constitución</strong>.</p>"
         }
       }
     },
@@ -14978,36 +14978,36 @@
       "items": {
         "SuRAERXystPvC7Ci": {
           "name": "Mordisco",
-          "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo debe hacer un [[/save format=long]], tomando [[/damage average activity=dnd5eactivity100]] daño en un error de guardar, o la mitad de daño en un éxito.</p><p>Si el daño al veneno reduce el objetivo a 0 puntos de impacto, el objetivo es estable, pero &amp;Reference[poisoned apply=false]{envenenado} durante 1 hora, incluso después de recuperar los puntos de impacto, y es &amp;Reference[paralyzed apply=false]{paralizado} mientras que envenenado de esta manera.</p>",
-          "descriptionChat": "<p>La Araña Gigante ataca con su mordida. El objetivo debe hacer un <strong>Constitución</strong> El lanzamiento de ahorro.</p>",
+          "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo debe realizar una tirada de salvación [[/save format=long]]. Si falla, sufre [[/damage average activity=dnd5eactivity100]] de daño; si tiene éxito, sufre la mitad.</p><p>Si el daño de veneno reduce al objetivo a 0 puntos de golpe, queda estable pero &amp;Reference[poisoned apply=false]{envenenado} durante 1 hora, incluso si recupera puntos de golpe, y está &amp;Reference[paralyzed apply=false]{paralizado} mientras esté envenenado de esta forma.</p>",
+          "descriptionChat": "<p>La araña gigante ataca con su mordisco. El objetivo debe realizar una tirada de salvación de <strong>Constitución</strong>.</p>",
           "effects": {
             "F9U9F5cmXX4Gfpob": {
-              "name": "Envenenado y Paralizado",
-              "description": "<p>Si el daño al veneno reduce el objetivo a 0 puntos de impacto, el objetivo es estable, pero &amp;Reference[poisoned apply=false]{envenenado} durante 1 hora, incluso después de recuperar los puntos de impacto, y es &amp;Reference[paralyzed apply=false]{paralizado} mientras que envenenado de esta manera.</p>"
+              "name": "Envenenado y paralizado",
+              "description": "<p>Si el daño de veneno reduce al objetivo a 0 puntos de golpe, queda estable pero &amp;Reference[poisoned apply=false]{envenenado} durante 1 hora, incluso si recupera puntos de golpe, y está &amp;Reference[paralyzed apply=false]{paralizado} mientras esté envenenado de esta forma.</p>"
             }
           }
         },
         "OPXUPzkwhBaLTt7a": {
-          "name": "Escalada de arañas",
-          "description": "<p>La araña puede trepar superficies difíciles, incluso boca abajo en los techos, sin necesidad de hacer una comprobación de capacidad.</p>"
+          "name": "Trepar cual Arácnido",
+          "description": "<p>La araña puede trepar por superficies difíciles, incluso boca abajo por el techo, sin realizar pruebas de característica.</p>"
         },
         "1LTl2RCToU6ZLZdi": {
-          "name": "Sentido web",
-          "description": "<p>Mientras está en contacto con una web, la araña conoce la ubicación exacta de cualquier otra criatura en contacto con la misma web.</p>"
+          "name": "Sentir Telarañas",
+          "description": "<p>Mientras esté en contacto con una telaraña, la araña conoce la ubicación exacta de cualquier otra criatura en contacto con esa misma telaraña.</p>"
         },
         "tEmV0HTreVHudOYa": {
           "name": "Andar por telarañas",
-          "description": "<p>La araña ignora las restricciones de movimiento causadas por la telaraña.</p>"
+          "description": "<p>La araña ignora las restricciones al movimiento causadas por las telarañas.</p>"
         },
         "g7e60AxXarlQ9xQC": {
           "name": "Telaraña",
-          "description": "<p>[[/attack extended]]. <em>Pulse:</em> El objetivo es &amp;Reference[restrained] por telarañas.</p><p>Como una acción, el objetivo restringido puede hacer un [[/check]] cheque, reventando la telaraña en un éxito. La telaraña también puede ser atacada y destruida (AC 10; CV 5; vulnerabilidad al daño por incendio; inmunidad a golpes, veneno y daños psíquicos).</p>",
-          "descriptionChat": "<p>El objetivo está restringido por la telaraña. Como una acción, el objetivo restringido puede hacer una comprobación de la fuerza, reventando la telaraña en un éxito.</p>"
+          "description": "<p>[[/attack extended]]. <em>Impacto:</em> El objetivo queda &amp;Reference[restrained]{apresado} por la telaraña.</p><p>Como acción, el objetivo apresado puede realizar una prueba [[/check]] y romper la telaraña si tiene éxito. También se puede atacar y destruir la telaraña (CA 10; 5 puntos de golpe; vulnerabilidad al daño de fuego; inmunidad al daño contundente, de veneno y psíquico).</p>",
+          "descriptionChat": "<p>El objetivo queda apresado por la telaraña. Como acción, puede realizar una prueba de Fuerza y romperla si tiene éxito.</p>"
         }
       },
       "name": "Araña gigante",
       "tokenName": "Araña gigante",
-      "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+      "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
     },
     "vlOUPoMS0HfImkA8": {
       "alignment": "Legal malvado",

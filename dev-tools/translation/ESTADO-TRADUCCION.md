@@ -2430,6 +2430,19 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Usado «Mordedor» para Quipper. Conservado el crédito de ilustración
   duplicado del tiburón de arrecife, tal como figura en el original.
 
+### additional-arthropods — Artrópodos y estirge
+
+- Revisados 120 campos de araña lobo gigante, araña gigante, escorpión gigante,
+  avispa gigante y estirge, en ambas copias, contra el exportado inglés.
+- Comprobados el veneno estabilizador con parálisis, su persistencia tras
+  recuperar puntos de golpe, la cobertura y destrucción de telarañas y la
+  pérdida de sangre de la estirge. «Claw» se traduce como «Pinza» en el escorpión.
+- Aguijón del escorpión comienza con `Reference[grappled]` en lugar de las
+  tiradas de ataque y daño directo, y solo describe después el veneno.
+  Se conserva el defecto del exportado para reparación funcional.
+- La acción de desprender a la estirge aparece en su mensaje de chat, pero
+  falta en la descripción completa original. Queda registrada la omisión.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2439,8 +2452,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
   de Foundry, tres de créditos y cuatro de historial.
   No equivale a 931 páginas del PDF.
-- 11257 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 11257 campos distintos.
+- 11377 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 11377 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento treinta y cuatro biografías en ambas copias de actores: siete
   príncipes y ciento veintisiete criaturas o PNJ vinculados al apéndice D. Siguen pendientes las demás
