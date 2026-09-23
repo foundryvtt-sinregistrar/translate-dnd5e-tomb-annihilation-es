@@ -9478,19 +9478,19 @@
           "items": {
             "NQWrA8iesrWFspcU": {
               "name": "Daga",
-              "description": "<p><em>Ataque con arma cuerpo a cuerpo o a distancia</em>: [[/attack]], alcance 5 pies o rango 20/60 pies, un objetivo. Pulse: [[/damage average]] y el objetivo debe tener éxito en un [[/save format=long]] o tomar [[/damage average activity=aQiJmGK9e8KrjObG]] daño.</p>"
+              "description": "<p><em>Ataque con arma cuerpo a cuerpo o a distancia</em>: [[/attack]], alcance 5 pies o alcance a distancia 20/60 pies, un objetivo. Impacto: [[/damage average]] de daño, y el objetivo debe superar una [[/save format=long]] o sufrir [[/damage average activity=aQiJmGK9e8KrjObG]] de daño.</p>"
             },
             "CXwRrpTT4BCcviX9": {
               "name": "Arco corto",
-              "description": "<p><em>Ataque con arma de alcance:</em> [[/attack]] para golpear, rango 80/320 pies, un objetivo. <em>Impacto</em>: [[/damage average]] y el objetivo debe tener éxito en un [[/save format=long]] o tomar [[/damage average activity=5fBXEgZXEchZTUCw]] daño.</p>"
+              "description": "<p><em>Ataque con arma a distancia:</em> [[/attack]] a impactar, alcance 80/320 pies, un objetivo. <em>Impacto</em>: [[/damage average]] de daño, y el objetivo debe superar una [[/save format=long]] o sufrir [[/damage average activity=5fBXEgZXEchZTUCw]] de daño.</p>"
             },
             "lvWQVOWTuTZ5BEAe": {
-              "name": "Chirr mezquino",
-              "description": "<p>[[lookup @name]] hace un ruido chirriante al que los grungs son inmunes.</p><p>Cada humanoide o bestia que está a menos de 15 pies del grung y capaz de oírlo debe tener éxito en un [[/save format=long]] o ser &amp;Reference[Stunned apply=false]{aturdido} hasta el final de [[lookup @name]]El próximo turno.</p>",
+              "name": "Chirrido hipnotizante",
+              "description": "<p>[[lookup @name]] emite un chirrido al que los grungs son inmunes.</p><p>Cada humanoide o bestia a 15 pies o menos del grung que pueda oírlo debe superar una [[/save format=long]] o quedar &amp;Reference[Stunned apply=false]{aturdido} hasta el final del siguiente turno de [[lookup @name]].</p>",
               "effects": {
                 "zmNr8KLvS58q2YHI": {
                   "name": "Aturdido",
-                  "description": "<p>El objetivo es &amp;Reference[Stunned apply=false] hasta el final del siguiente turno del grung.</p>"
+                  "description": "<p>El objetivo queda &amp;Reference[Stunned apply=false]{aturdido} hasta el final del siguiente turno del grung.</p>"
                 }
               }
             },
@@ -9499,25 +9499,25 @@
               "description": "<p>[[lookup @name]] puede respirar aire y agua.</p>"
             },
             "5Mc6gBP81tHhBDuE": {
-              "name": "Piel venenosa",
-              "description": "<p>Cualquier criatura que lucha [[lookup @name]] o entra en contacto directo con el [[lookup @name]]la piel debe tener éxito en un [[/save format=long]] o convertirse en &amp;Reference[Poisoned apply=false]{envenenado} durante 1 minuto.</p><p>Una criatura que ya no está en contacto directo con [[lookup @name]] puede repetir el lanzamiento de ahorro al final de cada uno de sus turnos, poniendo fin al efecto en sí mismo en un éxito.</p>",
+              "name": "Piel Venenosa",
+              "description": "<p>Cualquier criatura que agarre a [[lookup @name]] o entre en contacto directo con la piel de [[lookup @name]] debe superar una [[/save format=long]] o quedar &amp;Reference[Poisoned apply=false]{envenenada} durante 1 minuto.</p><p>Una criatura que ya no esté en contacto directo con [[lookup @name]] puede repetir la tirada de salvación al final de cada uno de sus turnos y terminar el efecto sobre sí misma si tiene éxito.</p>",
               "effects": {
                 "9PGwv5jKIYBT8TCS": {
                   "name": "Envenenado",
-                  "description": "<p>El objetivo es &amp;Reference[Poisoned apply=false]{envenenado} durante 1 minuto.</p>"
+                  "description": "<p>El objetivo queda &amp;Reference[Poisoned apply=false]{envenenado} durante 1 minuto.</p>"
                 }
               }
             },
             "RyDp6axQm9ORIj3N": {
-              "name": "Salto en parado",
-              "description": "<p>[[lookup @name]]El salto largo es de hasta 25 pies y su salto alto es de hasta 15 pies, con o sin un comienzo de carrera.</p>"
+              "name": "Saltar sin Carrera",
+              "description": "<p>[[lookup @name]] puede saltar hasta 25 pies de longitud y 15 pies de altura, con o sin carrerilla.</p>"
             }
           },
           "name": "Jefe Yorb",
           "creatureSubtype": "Grung",
           "languages": "Grung",
           "tokenName": "Jefe Yorb",
-          "biography": "<p>El Santuario de Nangnang en Omu alberga un templo de piel dorada <strong>guerrero de élite grung</strong> Nombrado Jefe Yorb. Cuatro de piel naranja <strong>guerreros de élite grung</strong> revolotean en el patio inundado con Yorb y su entrenado <strong>hadrosaurio</strong> Monta. Uno de piel roja <strong>salvaje grung</strong> y siete de piel verde <strong>grungs</strong> acecha en la azotea de 20 pies de altura del santuario. Ver @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{Apéndice D} para las estadísticas de estas criaturas.</p><p>Los grungs en el techo desatan flechas para proteger a los intrusos. Si los intrusos se resisten, más grungs de piel verde se acercan de los edificios cercanos, con [[/r 1d4]] al final de cada ronda hasta que hayan llegado veinte.</p><p>Los grungs están nerviosos y desconfian de los extraños. Al principio, Yorb está más interesado en asustar a los intrusos que en hablar con ellos. Si los personajes rescatan a su hijo favorito en el área 5 y tienen los medios para comunicarse con el jefe, Yorb se abre a ellos. Actualmente no tiene ni idea de que su hijo está desaparecido.</p><p>Los grungs adoran al dios embaucador muerto Nangnang. Si los personajes entran en negociaciones con Yorb, puede contar la leyenda completa de los nueve dioses embaucadores de Omu (ver @UUID[JournalEntry.toaCh3DwellersOf.JournalEntryPage.JFC5mUJCcUG2UYq1]{Leyenda de los Nueve Dioses}).</p>"
+          "biography": "<p>El santuario de Nangnang en Omu es el hogar de un <strong>guerrero de élite grung</strong> de piel dorada llamado jefe Yorb. Cuatro <strong>guerreros de élite grung</strong> de piel naranja se revuelcan en el patio inundado junto a Yorb y su montura, un <strong>hadrosaurio</strong> adiestrado. Un <strong>grung salvaje</strong> de piel roja y siete <strong>grungs</strong> de piel verde acechan en el tejado del santuario, a 20 pies de altura. Consulta el @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{apéndice D} para ver sus perfiles.</p><p>Los grungs del tejado disparan flechas para ahuyentar a los intrusos. Si estos contraatacan, más grungs de piel verde se acercan desde los edificios vecinos: aparecen [[/r 1d4]] al final de cada asalto hasta que han llegado veinte.</p><p>Los grungs están nerviosos y desconfían de los extraños. Al principio, Yorb prefiere espantar a los intrusos antes que hablar con ellos. Si los personajes rescatan a su hijo predilecto en la zona 5 y tienen medios para comunicarse con el jefe, este se muestra más dispuesto a hablar. Por ahora, no sabe que su hijo ha desaparecido.</p><p>Los grungs adoran a la difunta diosa embaucadora Nangnang. Si los personajes negocian con Yorb, este puede contarles la leyenda completa de los nueve dioses embaucadores de Omu (consulta «@UUID[JournalEntry.toaCh3DwellersOf.JournalEntryPage.JFC5mUJCcUG2UYq1]{La leyenda de los nueve dioses}»).</p>"
         },
         "bbbFze9wvbA48XkH": {
           "alignment": "Neutral",
@@ -10688,19 +10688,19 @@
           "items": {
             "NQWrA8iesrWFspcU": {
               "name": "Daga",
-              "description": "<p>[[/attack extended]]. [[/damage extended average]], y el objetivo debe tener éxito en un [[/save format=long]] o tomar [[/damage format=long activity=aQiJmGK9e8KrjObG]] daño.</p>"
+              "description": "<p>[[/attack extended]]. [[/damage extended average]], y el objetivo debe superar una [[/save format=long]] o sufrir [[/damage format=long activity=aQiJmGK9e8KrjObG]] de daño.</p>"
             },
             "CXwRrpTT4BCcviX9": {
               "name": "Arco corto",
-              "description": "<p>[[/attack extended]]. [[/damage extended average]], y el objetivo debe tener éxito en un [[/save format=long]] o tomar [[/damage average activity=5fBXEgZXEchZTUCw]] daño.</p>"
+              "description": "<p>[[/attack extended]]. [[/damage extended average]], y el objetivo debe superar una [[/save format=long]] o sufrir [[/damage average activity=5fBXEgZXEchZTUCw]] de daño.</p>"
             },
             "lvWQVOWTuTZ5BEAe": {
-              "name": "Chirr mezquino",
-              "description": "<p>[[lookup @name]] hace un ruido chirriante al que los grungs son inmunes. Cada humanoide o bestia que se encuentra a menos de 15 pies de Groak y capaz de escucharlo debe tener éxito en un [[/save format=long]] o ser &amp;Reference[stunned apply=false]{aturdido} hasta el final del siguiente turno de Groak.</p>",
+              "name": "Chirrido hipnotizante",
+              "description": "<p>[[lookup @name]] emite un chirrido al que los grungs son inmunes. Cada humanoide o bestia a 15 pies o menos de Groak que pueda oírlo debe superar una [[/save format=long]] o quedar &amp;Reference[stunned apply=false]{aturdido} hasta el final del siguiente turno de Groak.</p>",
               "effects": {
                 "zmNr8KLvS58q2YHI": {
                   "name": "Aturdido",
-                  "description": "<p>El objetivo es &amp;Reference[stunned apply=false]{aturdido} hasta el final del siguiente turno del grung.</p>"
+                  "description": "<p>El objetivo está &amp;Reference[stunned apply=false]{aturdido} hasta el final del siguiente turno del grung.</p>"
                 }
               }
             },
@@ -10709,38 +10709,38 @@
               "description": "<p>[[lookup @name]] puede respirar aire y agua.</p>"
             },
             "RyDp6axQm9ORIj3N": {
-              "name": "Salto en parado",
-              "description": "<p>[[lookup @name]]El salto largo es de hasta 25 pies y su salto alto es de hasta 15 pies, con o sin un comienzo de carrera.</p>"
+              "name": "Saltar sin Carrera",
+              "description": "<p>[[lookup @name]] puede saltar hasta 25 pies de longitud y 15 pies de altura, con o sin carrerilla.</p>"
             },
             "9vLjJR0jPaC2Fzze": {
-              "name": "Diadema de ráfagas",
-              "description": "<p><em>Objeto maravilloso</em></p>\n<p>Mientras usa este círculo, puede utilizar una acción para lanzar el <em>@UUID[Compendium.dnd5e.spells.Item.7u2obDvuvtZBkTfq]{Scorching Ray}</em> Deletrear con él. Cuando haces los ataques del conjuro, lo haces con un bono de ataque de +5. El círculo no se puede usar de esta manera otra vez hasta el próximo amanecer.</p>"
+              "name": "Diadema de estallidos",
+              "description": "<p><em>Objeto maravilloso</em></p><p>Mientras lleves puesta esta diadema, puedes usar una acción para lanzar <em>@UUID[Compendium.dnd5e.spells.Item.7u2obDvuvtZBkTfq]{rayo abrasador}</em> con ella. Realizas los ataques del conjuro con un bonificador de +5. La diadema no puede volver a usarse de este modo hasta el siguiente amanecer.</p>"
             },
             "hXmkjRuwkLR4lFFC": {
               "name": "Rayo abrasador",
-              "description": "<p>Creas tres rayos de fuego y los lanzas a objetivos a un alcance. Puedes lanzarlos a un blanco o varios.</p><p>Haga un ataque ortográfico de rango para cada rayo. En un golpe, el objetivo recibe 2d6 daños por incendio.</p><p><strong>Niveles superiores.</strong> Cuando usted lanza este conjuro usando una espacio de conjuro de 3er nivel o superior, usted crea un rayo adicional para cada nivel de ranura por encima de 2do.</p>",
+              "description": "<p>Creas tres rayos de fuego y los lanzas contra objetivos dentro del alcance. Puedes dirigirlos contra un solo objetivo o varios.</p><p>Realiza un ataque de conjuro a distancia por cada rayo. Si impactas, el objetivo sufre 2d6 de daño de fuego.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro usando un espacio de nivel 3 o superior, creas un rayo adicional por cada nivel del espacio por encima de 2.</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             },
             "Mzu9TyTOUnLztSd2": {
-              "name": "Piel venenosa",
-              "description": "<p>Cualquier criatura que arruine el grung o de otra manera entre en contacto directo con la piel del grung debe tener éxito en un [[/save format=long]] o convertirse en &amp;Reference[poisoned apply=false]{envenenado} durante 1 minuto. Una criatura envenenada que ya no está en contacto directo con el grung puede repetir el lanzamiento de ahorro al final de cada uno de sus giros, poniendo fin al efecto sobre sí misma en un éxito.</p><section class=\"secret\" id=\"secret-O6G61i3m1Gr2YlLw\"><p><strong>Nota de la fundición: Veneno Grung Variante</strong></p><p>Separar Guardar actividades están disponibles si desea utilizar la opción de veneno variante de la criatura.</p><ul><li><p><em><strong>Efecto venenoso del grano de oro</strong></em>. La criatura envenenada está encantada y puede hablar Grung.</p></li></ul></section>",
+              "name": "Piel Venenosa",
+              "description": "<p>Cualquier criatura que agarre al grung o entre en contacto directo con su piel debe superar una [[/save format=long]] o quedar &amp;Reference[poisoned apply=false]{envenenada} durante 1 minuto. Una criatura envenenada que ya no esté en contacto directo con el grung puede repetir la tirada de salvación al final de cada uno de sus turnos y terminar el efecto sobre sí misma si tiene éxito.</p><section class=\"secret\" id=\"secret-O6G61i3m1Gr2YlLw\"><p><strong>Nota de Foundry: variante del veneno grung</strong></p><p>Hay actividades de salvación independientes disponibles si deseas usar la variante del veneno de esta criatura.</p><ul><li><p><em><strong>Efecto del veneno del grung dorado</strong></em>. La criatura envenenada está hechizada y puede hablar grung.</p></li></ul></section>",
               "activities": {
                 "bORpJ8iKsnPMzlsz": {
-                  "name": "Variante: Oro Grung Save"
+                  "name": "Variante: salvación del grung dorado"
                 }
               },
               "effects": {
                 "lhf8HpVU7LCJnOSm": {
                   "name": "Envenenado",
-                  "description": "<p>El objetivo es &amp;Reference[poisoned apply=false]{envenenado} durante 1 minuto.</p>"
+                  "description": "<p>El objetivo está &amp;Reference[poisoned apply=false]{envenenado} durante 1 minuto.</p>"
                 },
                 "ZONJk8lvbH2TKoF8": {
-                  "name": "Envenenado y encantado",
-                  "description": "<p>El objetivo es &amp;Reference[poisoned apply=false]{envenenado} durante 1 minuto.</p><p>La criatura envenenada es &amp;Reference[charmed apply=false]{encanto} y puede hablar Grung.</p>"
+                  "name": "Envenenado y hechizado",
+                  "description": "<p>El objetivo está &amp;Reference[poisoned apply=false]{envenenado} durante 1 minuto.</p><p>La criatura envenenada está &amp;Reference[charmed apply=false]{hechizada} y puede hablar grung.</p>"
                 }
               }
             }
@@ -10749,7 +10749,7 @@
           "creatureSubtype": "Grung",
           "languages": "Grung",
           "tokenName": "Rey Groak",
-          "biography": "<p>Groak (oro) <strong>guerrero de élite grung</strong> usando un @UUID[Compendium.dnd5e.items.Item.9UvWQTY5yIgkJmmb]{círculo de voladura}) es el rey del amor que busca cortejar a la diosa Nangnang. Carismático pero inestable, Groak puede oscilar de amistoso a homicida en el lapso de unos pocos segundos. Debido a esto, su gente ni siquiera se atreve a susurrar una palabra dura sobre él. Groak quiere ser visto como un visionario y un romántico, y le encanta escuchar historias del mundo exterior. Sin embargo, amenaza a cualquiera que se atreva a cuestionar su auto-imagen inflada. Groak tolera a los aventureros siempre y cuando lo entretengan, generalmente están de acuerdo con todo lo que dice, y están dispuestos a ayudarle en su búsqueda para realizar su destino divino para convertirse en consorte de Nangnang.</p><hr><p>Los grungs son agresivos humanoides parecidos a ranas que se encuentran en las selvas tropicales y las selvas tropicales. Son ferozmente territoriales y se ven a sí mismos como superiores a la mayoría de las otras criaturas.</p><p>Los anfibios que viven en los árboles. Los grungs viven en los árboles y prefieren la sombra. Un criadero grung se mantiene en piscinas bien protegidas a nivel del suelo. Alrededor de tres meses después de la eclosión, un renacuajo grung toma la forma de un adulto. Un joven grung tarda de seis a nueve meses en alcanzar la madurez.</p><p><em><strong>Castas y colores</strong></em>. La sociedad grung es un sistema de castas. Cada casta pone huevos en una piscina separada para incubar, y los grungs juveniles se unen a su casta al emerger del criadero. Todos los grungs son un gris verdoso cuando nacen, pero cada individuo toma el color de su casta a medida que crece hasta la edad adulta.</p><p>Los grungs verdes son guerreros, cazadores y obreros de la tribu, y los grungs azules trabajan como artesanos y en otros papeles domésticos. Supervisando y guiando a ambos grupos están los grungs púrpuras, que sirven como administradores y comandantes. (Utilice el bloque grung stat para representar a los miembros de las castas verde, azul y púrpura.)</p><p>Los grungs rojos son eruditos y usuarios de la magia de la tribu. Son superiores a los grungs púrpuras, azules y verdes y se les da el debido respeto incluso por grungs de estatus superior. (Utilice el bloque de estado salvaje grung para representar a los miembros de la casta roja.)</p><p>Las castas superiores incluyen grungs naranjas, que son guerreros de élite que tienen autoridad sobre todos los grungs menores, y grungs de oro, que tienen las posiciones de liderazgo más altas. El soberano de una tribu es siempre un grung de oro. (Utilice el bloque de estado de guerrero de élite grung para representar a los miembros de las castas naranja y oro.)</p><p>Un grung normalmente permanece en su casta de por vida. En raras ocasiones, un individuo que se distingue con grandes actos puede ganarse una invitación a unirse a una casta superior. A través de una combinación de tónicos herbarios y magia ritual, un grung elevado cambia de color y se introduce en su nueva casta de la misma manera que un joven de la casta sería. A partir de entonces, el grung y su progenie son miembros de la casta superior.</p><p><em><strong>Toxicidad natural</strong></em>. Todos los grungs secretan una sustancia que es inofensiva para ellos pero venenosa para otras criaturas. Un grung también usa veneno para envenenar sus armas.</p><p><em><strong>Esclavos</strong></em>. Los Grungs siempre están en busca de criaturas que puedan capturar y esclavizar. Los Grungs usan esclavos para todo tipo de tareas menudas, pero sobre todo les gusta mandarlos. Los esclavos son alimentados con alimentos ligeramente envenenados para mantenerlos letárgicos y obedientes. Una criatura afligida de esta manera durante un largo período de tiempo se convierte en una cáscara de su ser anterior y puede ser restaurada a la normalidad sólo por la magia.</p><p><em><strong>Dependencia del agua</strong></em>. Un grung que no se sumerge en el agua durante al menos 1 hora durante un día sufre un nivel de agotamiento al final de ese día. Un grung puede recuperarse de este agotamiento sólo a través de la magia o sumergiéndose en el agua durante al menos 1 hora.</p><aside class=\"notable\"><h4>Variante: Veneno Grung</h4><p>El veneno del grung pierde su potencia 1 minuto después de haber sido removido de un grung. Una avería similar ocurre si el grung muere. Una criatura &amp;Reference[poisoned apply=false]{envenenado} por un grung puede sufrir un efecto adicional que varía dependiendo del color de la piel del grung. Este efecto dura hasta que la criatura ya no está envenenada por el grung.</p><p><em><strong>Verde</strong></em>. La criatura envenenada no puede moverse excepto para escalar o hacer saltos de pie. Si la criatura está volando, no puede tomar ninguna acción o reacción a menos que aterrice.</p><p><em><strong>Azul</strong></em>. La criatura envenenada debe gritar fuerte o hacer un ruido fuerte al principio y al final de su turno.</p><p><em><strong>Púrpura</strong></em>. La criatura envenenada siente una necesidad desesperada de empaparse en líquido o barro. No puede tomar acciones o moverse excepto para hacerlo o para llegar a un cuerpo de líquido o barro.</p><p><em><strong>Rojo</strong></em>. La criatura envenenada debe usar su acción para comer si la comida está al alcance de la mano.</p><p><em><strong>Naranja</strong></em>. La criatura envenenada tiene miedo de sus aliados.</p><p><em><strong>Oro</strong></em>. La criatura envenenada está encantada y puede hablar Grung.</p></aside>"
+          "biography": "<p>Groak, un <strong>guerrero de élite grung</strong> dorado que lleva una @UUID[Compendium.dnd5e.items.Item.9UvWQTY5yIgkJmmb]{diadema de estallidos}, es un rey enamorado que pretende cortejar a la diosa Nangnang. Carismático pero inestable, puede pasar de la amabilidad a la furia homicida en cuestión de segundos. Por eso, su pueblo no se atreve ni a susurrar una mala palabra sobre él. Quiere que lo vean como un visionario y un romántico, y le encanta escuchar historias del mundo exterior. Sin embargo, amenaza a cualquiera que se atreva a cuestionar su exagerada opinión de sí mismo. Tolera a los aventureros mientras lo entretengan, estén de acuerdo con casi todo lo que dice y se dispongan a ayudarlo a cumplir su destino divino: convertirse en consorte de Nangnang.</p><hr><p>Los grungs son humanoides agresivos parecidos a ranas que habitan selvas tropicales. Son ferozmente territoriales y se consideran superiores a la mayoría de las demás criaturas.</p><p>Anfibios arborícolas. Los grungs viven en los árboles y prefieren la sombra. Mantienen sus criaderos en estanques bien vigilados a ras de suelo. Unos tres meses después de salir del huevo, un renacuajo grung adopta la forma de un adulto. La cría tarda entre seis y nueve meses más en alcanzar la madurez.</p><p><em><strong>Castas y colores</strong></em>. La sociedad grung se organiza en castas. Cada casta pone sus huevos en un estanque distinto, y las crías se incorporan a su casta al salir del criadero. Todos los grungs nacen con un tono gris verdoso apagado, pero adquieren el color de su casta al hacerse adultos.</p><p>Los grungs verdes son los guerreros, cazadores y trabajadores de la tribu; los azules son artesanos y desempeñan otras labores domésticas. Los morados supervisan y dirigen a ambos grupos como administradores y comandantes. (Usa el perfil de grung para representar a los miembros de las castas verde, azul y morada).</p><p>Los grungs rojos son los eruditos y lanzadores de conjuros de la tribu. Su posición es superior a la de los morados, azules y verdes, e incluso los grungs de mayor rango les muestran el debido respeto. (Usa el perfil de grung salvaje para representar a los miembros de la casta roja).</p><p>Las castas superiores incluyen a los grungs naranjas, guerreros de élite con autoridad sobre todos los de menor rango, y a los dorados, que ocupan los puestos de mando más altos. El soberano de una tribu siempre es un grung dorado. (Usa el perfil de guerrero de élite grung para representar a los miembros de las castas naranja y dorada).</p><p>Lo habitual es que un grung permanezca en su casta toda la vida. En contadas ocasiones, alguien que destaque por sus grandes hazañas puede recibir una invitación para incorporarse a una casta superior. Una combinación de tónicos herbales y magia ritual cambia su color, y es admitido en la nueva casta del mismo modo que una cría de esta. A partir de entonces, tanto él como sus descendientes pertenecen a la casta superior.</p><p><em><strong>Tóxicos por naturaleza</strong></em>. Todos los grungs segregan una sustancia inofensiva para ellos, pero venenosa para otras criaturas. También utilizan su veneno para impregnar las armas.</p><p><em><strong>Esclavistas</strong></em>. Los grungs siempre buscan criaturas que capturar y esclavizar. Emplean a sus esclavos en todo tipo de tareas serviles, aunque sobre todo disfrutan dándoles órdenes. Les dan comida ligeramente envenenada para mantenerlos aletargados y dóciles. Una criatura sometida a este trato durante mucho tiempo se convierte en una sombra de lo que fue y solo puede volver a la normalidad mediante magia.</p><p><em><strong>Dependencia del agua</strong></em>. Un grung que no se sumerja en agua durante al menos 1 hora al día sufre un nivel de cansancio al final de ese día. Solo puede recuperarse de este cansancio mediante magia o sumergiéndose en agua durante al menos 1 hora.</p><aside class=\"notable\"><h4>Variante: veneno grung</h4><p>El veneno grung pierde su potencia 1 minuto después de extraerlo. Lo mismo ocurre si el grung muere. Una criatura &amp;Reference[poisoned apply=false]{envenenada} por un grung puede sufrir un efecto adicional que varía según el color de la piel del grung. Este efecto dura hasta que la criatura deje de estar envenenada por él.</p><p><em><strong>Verde</strong></em>. La criatura envenenada solo puede moverse para trepar o saltar sin carrerilla. Si está volando, no puede realizar acciones ni reacciones hasta que aterrice.</p><p><em><strong>Azul</strong></em>. La criatura envenenada debe gritar o hacer algún otro ruido fuerte al comienzo y al final de su turno.</p><p><em><strong>Morado</strong></em>. La criatura envenenada siente una necesidad desesperada de empaparse en líquido o barro. Solo puede realizar acciones o moverse para hacerlo o para llegar a una masa de líquido o barro.</p><p><em><strong>Rojo</strong></em>. La criatura envenenada debe usar su acción para comer si tiene comida a su alcance.</p><p><em><strong>Naranja</strong></em>. La criatura envenenada está asustada de sus aliados.</p><p><em><strong>Dorado</strong></em>. La criatura envenenada está hechizada y puede hablar grung.</p></aside>"
         },
         "toaKorhieDonadru": {
           "alignment": "Legal bueno",
@@ -10787,28 +10787,28 @@
           "alignment": "Legal malvado",
           "items": {
             "rQOUT0iY4rrMHtTI": {
-              "name": "Lanzamiento de conjuros",
-              "description": "<p>[[lookup @name]] es un hechicero de nivel 9. Su habilidad de conjuros es Sabiduría (salva CD 12, +4 para golpear con ataques de conjuros). Ella conoce los siguientes conjuros de guardabosques:</p><p>1er nivel (4 franjas horarias): <em>[[/item .ZiME9Rgd8mvlz5Wm]]{curar heridas}, [[/item .O4ucI88zpmRdiRTy]]{salto}</em></p><p>2o nivel (3 franjas horarias): <em>[[/item .p39bjM50RvMhvKsa]]{piel de corteza}, [[/item .6tKQpjl3vNzd6Sr6]]{Crecimiento de picos}</em></p><p>3er nivel (2 franjas horarias): <em>[[/item .5lcSv54MOAb1qQgl]]{crecimiento de la planta}</em></p>"
+              "name": "Lanzamiento de Conjuros",
+              "description": "<p>[[lookup @name]] es una lanzadora de conjuros de nivel 9. Su aptitud mágica es Sabiduría (salvación de conjuros CD 12, +4 a impactar con ataques de conjuro). Conoce los siguientes conjuros de explorador:</p><p>Nivel 1 (4 espacios): <em>[[/item .ZiME9Rgd8mvlz5Wm]]{curar heridas}, [[/item .O4ucI88zpmRdiRTy]]{salto}</em></p><p>Nivel 2 (3 espacios): <em>[[/item .p39bjM50RvMhvKsa]]{piel robliza}, [[/item .6tKQpjl3vNzd6Sr6]]{crecimiento espinoso}</em></p><p>Nivel 3 (2 espacios): <em>[[/item .5lcSv54MOAb1qQgl]]{crecimiento vegetal}</em></p>"
             },
             "YDE0RFO5rdNqi0sA": {
               "name": "Daga",
-              "description": "<p>[[/attack extended]]. [[/damage extended average]], y el objetivo debe tener éxito en un [[/save format=long]] o tomar [[/damage format=long activity=aQiJmGK9e8KrjObG]] daño.</p>"
+              "description": "<p>[[/attack extended]]. [[/damage extended average]], y el objetivo debe superar una [[/save format=long]] o sufrir [[/damage format=long activity=aQiJmGK9e8KrjObG]] de daño.</p>"
             },
             "n1pvbT4bimGKd3FS": {
               "name": "Arco corto",
-              "description": "<p>[[/attack extended]]. [[/damage extended average]], y el objetivo debe tener éxito en un [[/save format=long]] o tomar [[/damage average activity=5fBXEgZXEchZTUCw]] daño.</p>"
+              "description": "<p>[[/attack extended]]. [[/damage extended average]], y el objetivo debe superar una [[/save format=long]] o sufrir [[/damage average activity=5fBXEgZXEchZTUCw]] de daño.</p>"
             },
             "ZiME9Rgd8mvlz5Wm": {
-              "name": "Heridas curativas",
-              "description": "<p>Una criatura que tocas recupera un número de puntos de impacto igual a 1d8 + tu modificador de habilidad de deletrear. Este conjuro no tiene ningún efecto en muertos vivientes o construcciones.</p><p><strong>Niveles superiores.</strong> Cuando usted lanza este conjuro usando una espacio de conjuro de 2o nivel o superior, la curación aumenta en 1d8 para cada nivel de ranura por encima de 1o.</p>"
+              "name": "Curar heridas",
+              "description": "<p>Una criatura a la que toques recupera tantos puntos de golpe como 1d8 + tu modificador por aptitud mágica. Este conjuro no tiene efecto sobre muertos vivientes ni autómatas.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro usando un espacio de nivel 2 o superior, la curación aumenta en 1d8 por cada nivel del espacio por encima de 1.</p>"
             },
             "O4ucI88zpmRdiRTy": {
-              "name": "Saltar",
-              "description": "<p>Tocas a una criatura. La distancia de salto de la criatura se triplica hasta que el conjuro termina.</p>"
+              "name": "Salto",
+              "description": "<p>Tocas a una criatura. Su distancia de salto se triplica hasta que termine el conjuro.</p>"
             },
             "p39bjM50RvMhvKsa": {
               "name": "Piel robliza",
-              "description": "<p>Tocas a una criatura dispuesta. Hasta que el conjuro termina, la piel del objetivo tiene un aspecto áspero, parecido a la corteza, y el AC del objetivo no puede ser menor de 16, independientemente del tipo de armadura que lleve.</p>",
+              "description": "<p>Tocas a una criatura voluntaria. Hasta que termine el conjuro, su piel adquiere un aspecto áspero, parecido a la corteza, y su CA no puede ser inferior a 16, independientemente de la armadura que lleve.</p>",
               "effects": {
                 "uM6rgctYpcbCVSkn": {
                   "name": "Piel robliza"
@@ -10816,46 +10816,46 @@
               }
             },
             "6tKQpjl3vNzd6Sr6": {
-              "name": "Crecimiento de las especias",
-              "description": "<p>El suelo en un radio de 20 pies centrado en un punto dentro de los giros de rango y brotes espigas duras y espinas. La zona se vuelve difícil terreno para la Duración. Cuando una criatura se mueve hacia o dentro del área, se necesita 2d4 daño piercing por cada 5 pies que viaja.</p><p>La transformación del suelo se camufla para lucir natural. Cualquier criatura que no pueda ver el área en el momento en que se lance el conjuro debe hacer un chequeo de Sabiduría (Percepción) contra su conjuro, salvo CD para reconocer el terreno como peligroso antes de entrar en él.</p>"
+              "name": "Crecimiento espinoso",
+              "description": "<p>El suelo en un radio de 20 pies centrado en un punto dentro del alcance se retuerce y se cubre de púas y espinas duras. El área se convierte en terreno difícil durante el conjuro. Cuando una criatura entra o se mueve por ella, sufre 2d4 de daño perforante por cada 5 pies que recorra.</p><p>La transformación del suelo está camuflada para parecer natural. Una criatura que no pueda ver el área cuando se lanza el conjuro debe superar una prueba de Sabiduría (Percepción) contra tu CD de salvación de conjuros para reconocer el peligro del terreno antes de entrar en él.</p>"
             },
             "5lcSv54MOAb1qQgl": {
               "name": "Crecimiento vegetal",
-              "description": "<p>Este conjuro canaliza la vitalidad en las plantas dentro de un área específica. Hay dos usos posibles para el conjuro, otorgando beneficios inmediatos o a largo plazo.</p><p>Si lanzas este conjuro usando 1 acción, elige un punto dentro del rango. Todas las plantas normales en un radio de 100 pies centrados en ese punto se vuelven gruesas y sobrecrecidas. Una criatura que se mueve a través de la zona debe pasar 4 pies de movimiento por cada 1 pie que se mueve.</p><p>Usted puede excluir una o más áreas de cualquier tamaño dentro del área del conjuro de ser afectado.</p><p>Si lanzas este conjuro durante 8 horas, enriqueces la tierra. Todas las plantas en un radio de media milla centradas en un punto dentro del rango se enriquecen durante 1 año. Las plantas producen el doble de la cantidad normal de alimentos cuando se cosechan.</p>"
+              "description": "<p>Este conjuro infunde vitalidad a las plantas de un área determinada. Tiene dos usos posibles, que proporcionan beneficios inmediatos o duraderos.</p><p>Si lanzas este conjuro usando 1 acción, elige un punto dentro del alcance. Todas las plantas normales en un radio de 100 pies centrado en ese punto crecen hasta formar una vegetación densa. Una criatura que se mueva por el área debe gastar 4 pies de movimiento por cada 1 pie que avance.</p><p>Puedes excluir de sus efectos una o más zonas de cualquier tamaño dentro del área del conjuro.</p><p>Si lanzas este conjuro durante 8 horas, enriqueces la tierra. Todas las plantas en un radio de media milla centrado en un punto dentro del alcance quedan enriquecidas durante 1 año. Producen el doble de alimento de lo normal al cosecharlas.</p>"
             },
             "uFbJjmUzyXC8WpwW": {
               "name": "Anfibio",
               "description": "<p>[[lookup @name]] puede respirar aire y agua.</p>"
             },
             "n7DK4R0VJSstCXG7": {
-              "name": "Salto en parado",
-              "description": "<p>[[lookup @name]]El salto largo es de hasta 25 pies y su salto alto es de hasta 15 pies, con o sin un comienzo de carrera.</p>"
+              "name": "Saltar sin Carrera",
+              "description": "<p>[[lookup @name]] puede saltar hasta 25 pies de longitud y 15 pies de altura, con o sin carrerilla.</p>"
             },
             "OYowKbV1zwJzRfAO": {
-              "name": "Piel venenosa",
-              "description": "<p>Cualquier criatura que lucha [[lookup @name]] o de otra manera entra en contacto directo con su piel debe tener éxito en un [[/save format=long]] o convertirse en &amp;Reference[poisoned apply=false]{envenenado} durante 1 minuto. Una criatura envenenada que ya no está en contacto directo con [[lookup @name]] puede repetir el lanzamiento de ahorro al final de cada uno de sus turnos, poniendo fin al efecto en sí mismo en un éxito.</p><section class=\"secret\" id=\"secret-8n3IAwMRiOUpgtpb\"><p><strong>Nota de la fundición: Veneno Grung Variante</strong></p><p>Separar Guardar actividades están disponibles si desea utilizar la opción de veneno variante de la criatura.</p><ul><li><p><em><strong>Efecto Venenoso Rojo Adicional</strong></em>: La criatura envenenada debe usar su acción para comer si la comida está al alcance de la mano.</p></li></ul></section>",
+              "name": "Piel Venenosa",
+              "description": "<p>Cualquier criatura que agarre a [[lookup @name]] o entre en contacto directo con su piel debe superar una [[/save format=long]] o quedar &amp;Reference[poisoned apply=false]{envenenada} durante 1 minuto. Una criatura envenenada que ya no esté en contacto directo con [[lookup @name]] puede repetir la tirada de salvación al final de cada uno de sus turnos y terminar el efecto sobre sí misma si tiene éxito.</p><section class=\"secret\" id=\"secret-8n3IAwMRiOUpgtpb\"><p><strong>Nota de Foundry: variante del veneno grung</strong></p><p>Hay actividades de salvación independientes disponibles si deseas usar la variante del veneno de esta criatura.</p><ul><li><p><em><strong>Efecto adicional del veneno del grung rojo</strong></em>. La criatura envenenada debe usar su acción para comer si tiene comida a su alcance.</p></li></ul></section>",
               "activities": {
                 "DiAa4t5LUm9AdApF": {
-                  "name": "Variante: Red Grung Save"
+                  "name": "Variante: salvación del grung rojo"
                 }
               },
               "effects": {
                 "6tqRrKvToujgUYBn": {
                   "name": "Envenenado",
-                  "description": "<p>El objetivo es &amp;Reference[poisoned apply=false]{envenenado} durante 1 minuto.</p>"
+                  "description": "<p>El objetivo está &amp;Reference[poisoned apply=false]{envenenado} durante 1 minuto.</p>"
                 },
                 "QUOT3CqgXkL3Zq0C": {
-                  "name": "Envenenado y debe comer",
-                  "description": "<p>El objetivo es &amp;Reference[poisoned apply=false]{envenenado} durante 1 minuto.</p><p>La criatura envenenada debe usar su acción para comer si la comida está al alcance de la mano.</p>"
+                  "name": "Envenenado y obligado a comer",
+                  "description": "<p>El objetivo está &amp;Reference[poisoned apply=false]{envenenado} durante 1 minuto.</p><p>La criatura envenenada debe usar su acción para comer si tiene comida a su alcance.</p>"
                 }
               }
             }
           },
-          "name": "Kr’ook",
+          "name": "Krr’ook",
           "creatureSubtype": "Grung",
           "languages": "Grung",
-          "tokenName": "Kr’ook",
-          "biography": "<p>Krr’ook (rojo) <strong>salvaje grung</strong>) es un sacerdote grung que teme la inestabilidad del rey. Ella susurra señales favorables y presagios en el oído del rey para guardar en sus buenas gracias. En secreto, Krr'ok sospecha que el Gran Ritual para convocar a Nangnang fracasará. En consecuencia, ella teme por su vida. Se acerca a los aventureros para ver si pueden ayudarla a engañar al rey en la noche del ritual. Si Krr'ook siente algo fuera de kilter, o si el ritual sale mal, ella expia a los aventureros y los entrega directamente a la ira infantil del rey.</p><hr><p>Los grungs son agresivos humanoides parecidos a ranas que se encuentran en las selvas tropicales y las selvas tropicales. Son ferozmente territoriales y se ven a sí mismos como superiores a la mayoría de las otras criaturas.</p><p>Los anfibios que viven en los árboles. Los grungs viven en los árboles y prefieren la sombra. Un criadero grung se mantiene en piscinas bien protegidas a nivel del suelo. Alrededor de tres meses después de la eclosión, un renacuajo grung toma la forma de un adulto. Un joven grung tarda de seis a nueve meses en alcanzar la madurez.</p><p><em><strong>Castas y colores</strong></em>. La sociedad grung es un sistema de castas. Cada casta pone huevos en una piscina separada para incubar, y los grungs juveniles se unen a su casta al emerger del criadero. Todos los grungs son un gris verdoso cuando nacen, pero cada individuo toma el color de su casta a medida que crece hasta la edad adulta.</p><p>Los grungs verdes son guerreros, cazadores y obreros de la tribu, y los grungs azules trabajan como artesanos y en otros papeles domésticos. Supervisando y guiando a ambos grupos están los grungs púrpuras, que sirven como administradores y comandantes. (Utilice el bloque grung stat para representar a los miembros de las castas verde, azul y púrpura.)</p><p>Los grungs rojos son eruditos y usuarios de la magia de la tribu. Son superiores a los grungs púrpuras, azules y verdes y se les da el debido respeto incluso por grungs de estatus superior. (Utilice el bloque de estado salvaje grung para representar a los miembros de la casta roja.)</p><p>Las castas superiores incluyen grungs naranjas, que son guerreros de élite que tienen autoridad sobre todos los grungs menores, y grungs de oro, que tienen las posiciones de liderazgo más altas. El soberano de una tribu es siempre un grung de oro. (Utilice el bloque de estado de guerrero de élite grung para representar a los miembros de las castas naranja y oro.)</p><p>Un grung normalmente permanece en su casta de por vida. En raras ocasiones, un individuo que se distingue con grandes actos puede ganarse una invitación a unirse a una casta superior. A través de una combinación de tónicos herbarios y magia ritual, un grung elevado cambia de color y se introduce en su nueva casta de la misma manera que un joven de la casta sería. A partir de entonces, el grung y su progenie son miembros de la casta superior.</p><p><em><strong>Toxicidad natural</strong></em>. Todos los grungs secretan una sustancia que es inofensiva para ellos pero venenosa para otras criaturas. Un grung también usa veneno para envenenar sus armas.</p><p><em><strong>Esclavos</strong></em>. Los Grungs siempre están en busca de criaturas que puedan capturar y esclavizar. Los Grungs usan esclavos para todo tipo de tareas menudas, pero sobre todo les gusta mandarlos. Los esclavos son alimentados con alimentos ligeramente envenenados para mantenerlos letárgicos y obedientes. Una criatura afligida de esta manera durante un largo período de tiempo se convierte en una cáscara de su ser anterior y puede ser restaurada a la normalidad sólo por la magia.</p><p><em><strong>Dependencia del agua</strong></em>. Un grung que no se sumerge en el agua durante al menos 1 hora durante un día sufre un nivel de agotamiento al final de ese día. Un grung puede recuperarse de este agotamiento sólo a través de la magia o sumergiéndose en el agua durante al menos 1 hora.</p><aside class=\"notable\"><h4>Variante: Veneno Grung</h4><p>El veneno del grung pierde su potencia 1 minuto después de haber sido removido de un grung. Una avería similar ocurre si el grung muere. Una criatura &amp;Reference[poisoned apply=false]{envenenado} por un grung puede sufrir un efecto adicional que varía dependiendo del color de la piel del grung. Este efecto dura hasta que la criatura ya no está envenenada por el grung.</p><p><em><strong>Verde</strong></em>. La criatura envenenada no puede moverse excepto para escalar o hacer saltos de pie. Si la criatura está volando, no puede tomar ninguna acción o reacción a menos que aterrice.</p><p><em><strong>Azul</strong></em>. La criatura envenenada debe gritar fuerte o hacer un ruido fuerte al principio y al final de su turno.</p><p><em><strong>Púrpura</strong></em>. La criatura envenenada siente una necesidad desesperada de empaparse en líquido o barro. No puede tomar acciones o moverse excepto para hacerlo o para llegar a un cuerpo de líquido o barro.</p><p><em><strong>Rojo</strong></em>. La criatura envenenada debe usar su acción para comer si la comida está al alcance de la mano.</p><p><em><strong>Naranja</strong></em>. La criatura envenenada tiene miedo de sus aliados.</p><p><em><strong>Oro</strong></em>. La criatura envenenada está encantada y puede hablar Grung.</p></aside>"
+          "tokenName": "Krr’ook",
+          "biography": "<p>Krr’ook, una <strong>grung salvaje</strong> roja, es una sacerdotisa que teme la inestabilidad del rey. Le susurra señales y presagios favorables para conservar su favor. En secreto, sospecha que el Gran Ritual para invocar a Nangnang fracasará y, por ello, teme por su vida. Se acerca a los aventureros para averiguar si pueden ayudarla a engañar al rey la noche del ritual. Si percibe algo fuera de lugar o el ritual sale mal, los convierte en chivos expiatorios y los entrega directamente a la ira infantil del monarca.</p><hr><p>Los grungs son humanoides agresivos parecidos a ranas que habitan selvas tropicales. Son ferozmente territoriales y se consideran superiores a la mayoría de las demás criaturas.</p><p>Anfibios arborícolas. Los grungs viven en los árboles y prefieren la sombra. Mantienen sus criaderos en estanques bien vigilados a ras de suelo. Unos tres meses después de salir del huevo, un renacuajo grung adopta la forma de un adulto. La cría tarda entre seis y nueve meses más en alcanzar la madurez.</p><p><em><strong>Castas y colores</strong></em>. La sociedad grung se organiza en castas. Cada casta pone sus huevos en un estanque distinto, y las crías se incorporan a su casta al salir del criadero. Todos los grungs nacen con un tono gris verdoso apagado, pero adquieren el color de su casta al hacerse adultos.</p><p>Los grungs verdes son los guerreros, cazadores y trabajadores de la tribu; los azules son artesanos y desempeñan otras labores domésticas. Los morados supervisan y dirigen a ambos grupos como administradores y comandantes. (Usa el perfil de grung para representar a los miembros de las castas verde, azul y morada).</p><p>Los grungs rojos son los eruditos y lanzadores de conjuros de la tribu. Su posición es superior a la de los morados, azules y verdes, e incluso los grungs de mayor rango les muestran el debido respeto. (Usa el perfil de grung salvaje para representar a los miembros de la casta roja).</p><p>Las castas superiores incluyen a los grungs naranjas, guerreros de élite con autoridad sobre todos los de menor rango, y a los dorados, que ocupan los puestos de mando más altos. El soberano de una tribu siempre es un grung dorado. (Usa el perfil de guerrero de élite grung para representar a los miembros de las castas naranja y dorada).</p><p>Lo habitual es que un grung permanezca en su casta toda la vida. En contadas ocasiones, alguien que destaque por sus grandes hazañas puede recibir una invitación para incorporarse a una casta superior. Una combinación de tónicos herbales y magia ritual cambia su color, y es admitido en la nueva casta del mismo modo que una cría de esta. A partir de entonces, tanto él como sus descendientes pertenecen a la casta superior.</p><p><em><strong>Tóxicos por naturaleza</strong></em>. Todos los grungs segregan una sustancia inofensiva para ellos, pero venenosa para otras criaturas. También utilizan su veneno para impregnar las armas.</p><p><em><strong>Esclavistas</strong></em>. Los grungs siempre buscan criaturas que capturar y esclavizar. Emplean a sus esclavos en todo tipo de tareas serviles, aunque sobre todo disfrutan dándoles órdenes. Les dan comida ligeramente envenenada para mantenerlos aletargados y dóciles. Una criatura sometida a este trato durante mucho tiempo se convierte en una sombra de lo que fue y solo puede volver a la normalidad mediante magia.</p><p><em><strong>Dependencia del agua</strong></em>. Un grung que no se sumerja en agua durante al menos 1 hora al día sufre un nivel de cansancio al final de ese día. Solo puede recuperarse de este cansancio mediante magia o sumergiéndose en agua durante al menos 1 hora.</p><aside class=\"notable\"><h4>Variante: veneno grung</h4><p>El veneno grung pierde su potencia 1 minuto después de extraerlo. Lo mismo ocurre si el grung muere. Una criatura &amp;Reference[poisoned apply=false]{envenenada} por un grung puede sufrir un efecto adicional que varía según el color de la piel del grung. Este efecto dura hasta que la criatura deje de estar envenenada por él.</p><p><em><strong>Verde</strong></em>. La criatura envenenada solo puede moverse para trepar o saltar sin carrerilla. Si está volando, no puede realizar acciones ni reacciones hasta que aterrice.</p><p><em><strong>Azul</strong></em>. La criatura envenenada debe gritar o hacer algún otro ruido fuerte al comienzo y al final de su turno.</p><p><em><strong>Morado</strong></em>. La criatura envenenada siente una necesidad desesperada de empaparse en líquido o barro. Solo puede realizar acciones o moverse para hacerlo o para llegar a una masa de líquido o barro.</p><p><em><strong>Rojo</strong></em>. La criatura envenenada debe usar su acción para comer si tiene comida a su alcance.</p><p><em><strong>Naranja</strong></em>. La criatura envenenada está asustada de sus aliados.</p><p><em><strong>Dorado</strong></em>. La criatura envenenada está hechizada y puede hablar grung.</p></aside>"
         },
         "toaKlahu00000000": {
           "alignment": "Neutral",
@@ -11795,11 +11795,11 @@
           "items": {
             "fpHrowec7ozMBINF": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] hace dos ataques con su [[/item Scimitar]]. El segundo ataque tiene desventajas.</p>"
+              "description": "<p>[[lookup @name]] realiza dos ataques con su [[/item Scimitar]]{cimitarra}. El segundo ataque tiene desventaja.</p>"
             },
             "sSs3hSzkKBMNBgTs": {
               "name": "Escudo",
-              "description": "<p>Un escudo está hecho de madera o metal y se lleva en una mano. Wieling un escudo aumenta su clase de armadura en 2. Sólo puedes beneficiarte de un escudo a la vez.</p>"
+              "description": "<p>Un escudo está hecho de madera o metal y se lleva en una mano. Empuñar un escudo aumenta tu Clase de Armadura en 2. Solo puedes beneficiarte de un escudo a la vez.</p>"
             },
             "XtVyHLC1NvcyKnih": {
               "name": "Cimitarra",
@@ -11810,22 +11810,22 @@
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>"
             },
             "sHOCFBgAuIepomuB": {
-              "name": "Redirigir ataque",
-              "description": "<p>Cuando una criatura [[lookup @name]] puede ver los objetivos con un ataque, ella elige otro duende a menos de 5 pies de él. Los dos goblins intercambian lugares, y el goblin elegido se convierte en el objetivo.</p>"
+              "name": "Redirigir Ataque",
+              "description": "<p>Cuando una criatura que [[lookup @name]] pueda ver la elige como objetivo de un ataque, escoge a otro goblin a 5 pies o menos de ella. Ambos intercambian posiciones y el goblin elegido pasa a ser el objetivo.</p>"
             },
             "p2zChy24ZJdVqMSH": {
-              "name": "Camisa de cadena",
-              "description": "<p>Hecho de anillos metálicos entrelazados, una camisa de cadena se usa entre capas de ropa o cuero. Esta armadura ofrece una protección modesta a la parte superior del cuerpo del usuario y permite que el sonido de los anillos frotarse unos contra otros para ser amortiguado por capas externas.</p>"
+              "name": "Camisa de malla",
+              "description": "<p>Una camisa de malla está hecha de anillas de metal entrelazadas y se lleva entre capas de ropa o cuero. Esta armadura ofrece una protección modesta al torso y permite amortiguar el ruido del roce de las anillas con las capas exteriores.</p>"
             },
             "Z3VgZZ7cR2MuXIyi": {
-              "name": "Escape ágil",
-              "description": "<p>[[lookup @name]] puede tomar el &amp;Reference[Disengage] o &amp;Reference[Hide] acción como una acción adicional en cada uno de sus turnos.</p>"
+              "name": "Huida Ágil",
+              "description": "<p>[[lookup @name]] puede realizar la acción de &amp;Reference[Disengage]{Destrabarse} o &amp;Reference[Hide]{Esconderse} como acción adicional en cada uno de sus turnos.</p>"
             }
           },
-          "name": "Reina Grabstab",
+          "name": "Reina Pillapincha",
           "creatureSubtype": "Goblinoide",
-          "tokenName": "Reina Grabstab",
-          "biography": "<p>Reina de la tribu de los goblin de hormiga mordisqueante y gobernante de Yelliark</p>"
+          "tokenName": "Reina Pillapincha",
+          "biography": "<p>Reina de la tribu goblin Hormiga Que Pica y soberana de Yellyark.</p>"
         },
         "toaRadas00000000": {
           "items": {
@@ -12093,19 +12093,19 @@
           "items": {
             "NQWrA8iesrWFspcU": {
               "name": "Daga",
-              "description": "<p>[[/attack extended]]. [[/damage extended average]], y el objetivo debe tener éxito en un [[/save format=long]] o tomar [[/damage format=long activity=aQiJmGK9e8KrjObG]] daño.</p>"
+              "description": "<p>[[/attack extended]]. [[/damage extended average]], y el objetivo debe superar una [[/save format=long]] o sufrir [[/damage format=long activity=aQiJmGK9e8KrjObG]] de daño.</p>"
             },
             "CXwRrpTT4BCcviX9": {
               "name": "Arco corto",
-              "description": "<p>[[/attack extended]]. [[/damage extended average]], y el objetivo debe tener éxito en un [[/save format=long]] o tomar [[/damage average activity=5fBXEgZXEchZTUCw]] daño.</p>"
+              "description": "<p>[[/attack extended]]. [[/damage extended average]], y el objetivo debe superar una [[/save format=long]] o sufrir [[/damage average activity=5fBXEgZXEchZTUCw]] de daño.</p>"
             },
             "lvWQVOWTuTZ5BEAe": {
-              "name": "Chirr mezquino",
-              "description": "<p>[[lookup @name]] hace un ruido chirriante al que los grungs son inmunes. Cada humanoide o bestia que está a menos de 15 pies de distancia [[lookup @name]] y capaz de oír debe tener éxito en un [[/save format=long]] o ser &amp;Reference[stunned apply=false]{aturdido} hasta el final de la [[lookup @name]]El próximo turno.</p>",
+              "name": "Chirrido hipnotizante",
+              "description": "<p>[[lookup @name]] emite un chirrido al que los grungs son inmunes. Cada humanoide o bestia a 15 pies o menos de [[lookup @name]] que pueda oírlo debe superar una [[/save format=long]] o quedar &amp;Reference[stunned apply=false]{aturdido} hasta el final del siguiente turno de [[lookup @name]].</p>",
               "effects": {
                 "zmNr8KLvS58q2YHI": {
                   "name": "Aturdido",
-                  "description": "<p>El objetivo es &amp;Reference[stunned apply=false]{aturdido} hasta el final del siguiente turno del grung.</p>"
+                  "description": "<p>El objetivo está &amp;Reference[stunned apply=false]{aturdido} hasta el final del siguiente turno del grung.</p>"
                 }
               }
             },
@@ -12114,34 +12114,34 @@
               "description": "<p>[[lookup @name]] puede respirar aire y agua.</p>"
             },
             "5Mc6gBP81tHhBDuE": {
-              "name": "Piel venenosa",
-              "description": "<p>Cualquier criatura que lucha [[lookup @name]] o de otra manera entra en contacto directo con la piel debe tener éxito en un [[/save format=long]] o convertirse en &amp;Reference[poisoned apply=false]{envenenado} durante 1 minuto. Una criatura envenenada que ya no está en contacto directo con [[lookup @name]] puede repetir el lanzamiento de ahorro al final de cada uno de sus turnos, poniendo fin al efecto en sí mismo en un éxito.</p><section class=\"secret\" id=\"secret-3UjrpLtGAj9ualnr\"><p><strong>Nota de la fundición: Veneno Grung Variante</strong></p><p>Separar Guardar actividades están disponibles si desea utilizar la opción de veneno variante de la criatura.</p><ul><li><p><em><strong>Efecto venenoso de Orange Grung</strong></em>. La criatura envenenada tiene miedo de sus aliados.</p></li></ul></section>",
+              "name": "Piel Venenosa",
+              "description": "<p>Cualquier criatura que agarre a [[lookup @name]] o entre en contacto directo con su piel debe superar una [[/save format=long]] o quedar &amp;Reference[poisoned apply=false]{envenenada} durante 1 minuto. Una criatura envenenada que ya no esté en contacto directo con [[lookup @name]] puede repetir la tirada de salvación al final de cada uno de sus turnos y terminar el efecto sobre sí misma si tiene éxito.</p><section class=\"secret\" id=\"secret-3UjrpLtGAj9ualnr\"><p><strong>Nota de Foundry: variante del veneno grung</strong></p><p>Hay actividades de salvación independientes disponibles si deseas usar la variante del veneno de esta criatura.</p><ul><li><p><em><strong>Efecto del veneno del grung naranja</strong></em>. La criatura envenenada está asustada de sus aliados.</p></li></ul></section>",
               "activities": {
                 "0fe2gqWzoQANUFg2": {
-                  "name": "Variante: Naranja Grung Save"
+                  "name": "Variante: salvación del grung naranja"
                 }
               },
               "effects": {
                 "IeB8V9WsRb0D7vTn": {
                   "name": "Envenenado",
-                  "description": "<p>El objetivo es &amp;Reference[poisoned apply=false]{envenenado} durante 1 minuto.</p>"
+                  "description": "<p>El objetivo está &amp;Reference[poisoned apply=false]{envenenado} durante 1 minuto.</p>"
                 },
                 "gcny78HDwW9TSLHa": {
                   "name": "Envenenado y asustado",
-                  "description": "<p>El objetivo es &amp;Reference[poisoned apply=false]{envenenado} durante 1 minuto.</p><p>La criatura envenenada tiene miedo de sus aliados.</p>"
+                  "description": "<p>El objetivo queda &amp;Reference[poisoned apply=false]{envenenado} durante 1 minuto.</p><p>La criatura envenenada está asustada de sus aliados.</p>"
                 }
               }
             },
             "RyDp6axQm9ORIj3N": {
-              "name": "Salto en parado",
-              "description": "<p>[[lookup @name]]El salto largo es de hasta 25 pies y su salto alto es de hasta 15 pies, con o sin un comienzo de carrera.</p>"
+              "name": "Saltar sin Carrera",
+              "description": "<p>[[lookup @name]] puede saltar hasta 25 pies de longitud y 15 pies de altura, con o sin carrerilla.</p>"
             }
           },
           "name": "Roark",
-          "creatureSubtype": "Grung, naranja",
+          "creatureSubtype": "Grung naranja",
           "languages": "Grung",
           "tokenName": "Roark",
-          "biography": "<p>Roark (naranja) <strong>guerrero de élite grung</strong>) es un cauteloso y peligroso guerrero grung, dedicado a su rey. Roark piensa que toda esta tontería de la celebración de la diosa está distrayendo de la cuestión real en la mano: defender a Dungrunglung de los no-muertos. En secreto, la lealtad de Roark es a la tribu primero y Groak segundo, pero Roark está cumpliendo obedientemente la obsesión del rey por ahora. Sospecha de aventureros que aún están dispuestos a ayudar a defender su pueblo de los muertos vivientes.</p><hr><p>Los grungs son agresivos humanoides parecidos a ranas que se encuentran en las selvas tropicales y las selvas tropicales. Son ferozmente territoriales y se ven a sí mismos como superiores a la mayoría de las otras criaturas.</p><p>Los anfibios que viven en los árboles. Los grungs viven en los árboles y prefieren la sombra. Un criadero grung se mantiene en piscinas bien protegidas a nivel del suelo. Alrededor de tres meses después de la eclosión, un renacuajo grung toma la forma de un adulto. Un joven grung tarda de seis a nueve meses en alcanzar la madurez.</p><p><em><strong>Castas y colores</strong></em>. La sociedad grung es un sistema de castas. Cada casta pone huevos en una piscina separada para incubar, y los grungs juveniles se unen a su casta al emerger del criadero. Todos los grungs son un gris verdoso cuando nacen, pero cada individuo toma el color de su casta a medida que crece hasta la edad adulta.</p><p>Los grungs verdes son guerreros, cazadores y obreros de la tribu, y los grungs azules trabajan como artesanos y en otros papeles domésticos. Supervisando y guiando a ambos grupos están los grungs púrpuras, que sirven como administradores y comandantes. (Utilice el bloque grung stat para representar a los miembros de las castas verde, azul y púrpura.)</p><p>Los grungs rojos son eruditos y usuarios de la magia de la tribu. Son superiores a los grungs púrpuras, azules y verdes y se les da el debido respeto incluso por grungs de estatus superior. (Utilice el bloque de estado salvaje grung para representar a los miembros de la casta roja.)</p><p>Las castas superiores incluyen grungs naranjas, que son guerreros de élite que tienen autoridad sobre todos los grungs menores, y grungs de oro, que tienen las posiciones de liderazgo más altas. El soberano de una tribu es siempre un grung de oro. (Utilice el bloque de estado de guerrero de élite grung para representar a los miembros de las castas naranja y oro.)</p><p>Un grung normalmente permanece en su casta de por vida. En raras ocasiones, un individuo que se distingue con grandes actos puede ganarse una invitación a unirse a una casta superior. A través de una combinación de tónicos herbarios y magia ritual, un grung elevado cambia de color y se introduce en su nueva casta de la misma manera que un joven de la casta sería. A partir de entonces, el grung y su progenie son miembros de la casta superior.</p><p><em><strong>Toxicidad natural</strong></em>. Todos los grungs secretan una sustancia que es inofensiva para ellos pero venenosa para otras criaturas. Un grung también usa veneno para envenenar sus armas.</p><p><em><strong>Esclavos</strong></em>. Los Grungs siempre están en busca de criaturas que puedan capturar y esclavizar. Los Grungs usan esclavos para todo tipo de tareas menudas, pero sobre todo les gusta mandarlos. Los esclavos son alimentados con alimentos ligeramente envenenados para mantenerlos letárgicos y obedientes. Una criatura afligida de esta manera durante un largo período de tiempo se convierte en una cáscara de su ser anterior y puede ser restaurada a la normalidad sólo por la magia.</p><p><em><strong>Dependencia del agua</strong></em>. Un grung que no se sumerge en el agua durante al menos 1 hora durante un día sufre un nivel de agotamiento al final de ese día. Un grung puede recuperarse de este agotamiento sólo a través de la magia o sumergiéndose en el agua durante al menos 1 hora.</p><aside class=\"notable\"><h4>Variante: Veneno Grung</h4><p>El veneno del grung pierde su potencia 1 minuto después de haber sido removido de un grung. Una avería similar ocurre si el grung muere. Una criatura &amp;Reference[poisoned apply=false]{envenenado} por un grung puede sufrir un efecto adicional que varía dependiendo del color de la piel del grung. Este efecto dura hasta que la criatura ya no está envenenada por el grung.</p><p><em><strong>Verde</strong></em>. La criatura envenenada no puede moverse excepto para escalar o hacer saltos de pie. Si la criatura está volando, no puede tomar ninguna acción o reacción a menos que aterrice.</p><p><em><strong>Azul</strong></em>. La criatura envenenada debe gritar fuerte o hacer un ruido fuerte al principio y al final de su turno.</p><p><em><strong>Púrpura</strong></em>. La criatura envenenada siente una necesidad desesperada de empaparse en líquido o barro. No puede tomar acciones o moverse excepto para hacerlo o para llegar a un cuerpo de líquido o barro.</p><p><em><strong>Rojo</strong></em>. La criatura envenenada debe usar su acción para comer si la comida está al alcance de la mano.</p><p><em><strong>Naranja</strong></em>. La criatura envenenada tiene miedo de sus aliados.</p><p><em><strong>Oro</strong></em>. La criatura envenenada está encantada y puede hablar Grung.</p></aside>"
+          "biography": "<p>Roark, un <strong>guerrero de élite grung</strong> naranja, es un guerrero cumplidor y peligroso, entregado a su rey. Cree que todo ese disparate de invocar a una diosa los distrae del verdadero problema: defender Dungrunglung de los muertos vivientes. En secreto, su lealtad corresponde primero a la tribu y después a Groak, aunque por ahora soporta obedientemente la obsesión del monarca. Desconfía de los aventureros, pero está dispuesto a aceptar ayuda para defender su aldea de los muertos vivientes.</p><hr><p>Los grungs son humanoides agresivos parecidos a ranas que habitan selvas tropicales. Son ferozmente territoriales y se consideran superiores a la mayoría de las demás criaturas.</p><p>Anfibios arborícolas. Los grungs viven en los árboles y prefieren la sombra. Mantienen sus criaderos en estanques bien vigilados a ras de suelo. Unos tres meses después de salir del huevo, un renacuajo grung adopta la forma de un adulto. La cría tarda entre seis y nueve meses más en alcanzar la madurez.</p><p><em><strong>Castas y colores</strong></em>. La sociedad grung se organiza en castas. Cada casta pone sus huevos en un estanque distinto, y las crías se incorporan a su casta al salir del criadero. Todos los grungs nacen con un tono gris verdoso apagado, pero adquieren el color de su casta al hacerse adultos.</p><p>Los grungs verdes son los guerreros, cazadores y trabajadores de la tribu; los azules son artesanos y desempeñan otras labores domésticas. Los morados supervisan y dirigen a ambos grupos como administradores y comandantes. (Usa el perfil de grung para representar a los miembros de las castas verde, azul y morada).</p><p>Los grungs rojos son los eruditos y lanzadores de conjuros de la tribu. Su posición es superior a la de los morados, azules y verdes, e incluso los grungs de mayor rango les muestran el debido respeto. (Usa el perfil de grung salvaje para representar a los miembros de la casta roja).</p><p>Las castas superiores incluyen a los grungs naranjas, guerreros de élite con autoridad sobre todos los de menor rango, y a los dorados, que ocupan los puestos de mando más altos. El soberano de una tribu siempre es un grung dorado. (Usa el perfil de guerrero de élite grung para representar a los miembros de las castas naranja y dorada).</p><p>Lo habitual es que un grung permanezca en su casta toda la vida. En contadas ocasiones, alguien que destaque por sus grandes hazañas puede recibir una invitación para incorporarse a una casta superior. Una combinación de tónicos herbales y magia ritual cambia su color, y es admitido en la nueva casta del mismo modo que una cría de esta. A partir de entonces, tanto él como sus descendientes pertenecen a la casta superior.</p><p><em><strong>Tóxicos por naturaleza</strong></em>. Todos los grungs segregan una sustancia inofensiva para ellos, pero venenosa para otras criaturas. También utilizan su veneno para impregnar las armas.</p><p><em><strong>Esclavistas</strong></em>. Los grungs siempre buscan criaturas que capturar y esclavizar. Emplean a sus esclavos en todo tipo de tareas serviles, aunque sobre todo disfrutan dándoles órdenes. Les dan comida ligeramente envenenada para mantenerlos aletargados y dóciles. Una criatura sometida a este trato durante mucho tiempo se convierte en una sombra de lo que fue y solo puede volver a la normalidad mediante magia.</p><p><em><strong>Dependencia del agua</strong></em>. Un grung que no se sumerja en agua durante al menos 1 hora al día sufre un nivel de cansancio al final de ese día. Solo puede recuperarse de este cansancio mediante magia o sumergiéndose en agua durante al menos 1 hora.</p><aside class=\"notable\"><h4>Variante: veneno grung</h4><p>El veneno grung pierde su potencia 1 minuto después de extraerlo. Lo mismo ocurre si el grung muere. Una criatura &amp;Reference[poisoned apply=false]{envenenada} por un grung puede sufrir un efecto adicional que varía según el color de la piel del grung. Este efecto dura hasta que la criatura deje de estar envenenada por él.</p><p><em><strong>Verde</strong></em>. La criatura envenenada solo puede moverse para trepar o saltar sin carrerilla. Si está volando, no puede realizar acciones ni reacciones hasta que aterrice.</p><p><em><strong>Azul</strong></em>. La criatura envenenada debe gritar o hacer algún otro ruido fuerte al comienzo y al final de su turno.</p><p><em><strong>Morado</strong></em>. La criatura envenenada siente una necesidad desesperada de empaparse en líquido o barro. Solo puede realizar acciones o moverse para hacerlo o para llegar a una masa de líquido o barro.</p><p><em><strong>Rojo</strong></em>. La criatura envenenada debe usar su acción para comer si tiene comida a su alcance.</p><p><em><strong>Naranja</strong></em>. La criatura envenenada está asustada de sus aliados.</p><p><em><strong>Dorado</strong></em>. La criatura envenenada está hechizada y puede hablar grung.</p></aside>"
         },
         "toaRokah00000000": {
           "alignment": "Neutral",
@@ -17413,7 +17413,7 @@
             },
             "2ksXBLyTv8FTr5fp": {
               "text": "<p>@Embed[Actor.toaGrabstab00000 caption=false cite=false]</p><img class=\"size-four centered\" src=\"modules/dnd-tomb-annihilation/assets/portraits/queen-grabstab.webp\"><p>@Embed[Actor.toaGrabstab00000 caption=false cite=true statblock classes=\"double-column\"]</p>",
-              "name": "Reina Grabstab"
+              "name": "Reina Pillapincha"
             },
             "AAeMJOksNv8ievX9": {
               "text": "<p>@Embed[Actor.toaFenthaza00000 caption=false cite=false]</p><img class=\"size-four centered\" src=\"modules/dnd-tomb-annihilation/assets/portraits/fenthaza.webp\"><p>@Embed[Actor.toaFenthaza00000 caption=false cite=true statblock classes=\"double-column\"]</p>",
@@ -17633,7 +17633,7 @@
             },
             "KyEJIvkWcatCtFK7": {
               "text": "<p>@Embed[Actor.toaKrrook0000000 caption=false cite=false]</p><p></p><p class=\"p1\">@Embed[Actor.toaKrrook0000000 caption=false cite=true statblock classes=\"double-column\"]</p>",
-              "name": "Kr’ook"
+              "name": "Krr’ook"
             },
             "tBAF2sqi7APVAFih": {
               "text": "<p>@Embed[Actor.toaRoark00000000 caption=false cite=false]</p><p></p><p class=\"p1\">@Embed[Actor.toaRoark00000000 caption=false cite=true statblock classes=\"double-column\"]</p>",

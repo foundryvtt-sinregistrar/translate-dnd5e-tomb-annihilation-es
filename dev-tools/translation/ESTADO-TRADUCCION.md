@@ -1999,18 +1999,33 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Corregida la llave suelta de la biografía de Zaroum. Los enlaces por
   nombre `Scimitar` y `Dagger` siguen pendientes de revisión funcional.
 
+### appendix-d-tribal-leaders — Pillapincha y líderes grung
+
+- Revisados 270 campos de Pillapincha, Yorb, Groak, Krr’ook y Roark:
+  cinco páginas y las dos copias de cada actor. Referencias físicas 55,
+  90, 109 y 222–223; los textos adicionales se contrastan con el exportado.
+- Conservados el cambio de objetivo de Pillapincha, las condiciones para
+  negociar con Yorb y la lealtad prioritaria de Roark a su tribu. El PDF
+  expresa de otra forma la disposición de Roark a aceptar ayuda; se sigue
+  el sentido del original inglés.
+- Revisados los venenos dorado, rojo y naranja y el uso de la diadema de
+  estallidos. Los tres PNJ de Dungrunglung incluyen la historia ampliada
+  de los grungs, ya contrastada con el exportado en sus fichas genéricas.
+- El enlace por nombre `Scimitar` de Pillapincha queda pendiente de
+  revisión funcional. Se mantienen las variantes de HTML de cada copia.
+
 ## Balance de revisión editorial
 
-- 812 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 817 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 207 de los apéndices A, B, C, D y F.
-  No equivale a 812 páginas del PDF.
-- 5925 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 5925 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 212 de los apéndices A, B, C, D y F.
+  No equivale a 817 páginas del PDF.
+- 6195 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 6195 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas sesenta y cinco biografías en ambas copias de actores: siete
-  príncipes y cincuenta y ocho criaturas o PNJ del apéndice D. Siguen pendientes las demás
+  insertado. Revisadas setenta biografías en ambas copias de actores: siete
+  príncipes y sesenta y tres criaturas o PNJ del apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las
