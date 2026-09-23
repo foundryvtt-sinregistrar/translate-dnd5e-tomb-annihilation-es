@@ -987,14 +987,26 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   para otros monstruos. Pendiente de revisión técnica.
 - Auditorías técnica y editorial sin errores.
 
+### ch5-level4-cells-01 a ch5-level4-cells-04 — Celdas elementales
+
+- Revisados cuatro textos y títulos con referencias físicas 159-161.
+- Corregida una errata decisiva del PDF: en el cuarto asalto el agua apaga
+  la vela; no se detiene la inundación. Arrancar el primer molusco disipa el
+  campo antimágico, y comerlo determina el destino del teletransporte.
+- Conservadas la precaución de aguantar la respiración antes de llegar al aire
+  y la disipación al extraer el primer hueso, previa a inhalar su contenido.
+- En tierra, la Destreza es una salvación, no una prueba de característica.
+  Conservados el umbral de arena, los rodillos y el bloqueo del botón de salida.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 555 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 559 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4 y setenta y seis del capítulo 5. No equivale a 555 páginas del PDF.
-- 1220 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1220 campos distintos.
+  del capítulo 4 y ochenta del capítulo 5. No equivale a 559 páginas del PDF.
+- 1228 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1228 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
