@@ -5196,19 +5196,19 @@
         },
         "YtE538TuI5QV2YMF": {
           "name": "Puerta dimensional",
-          "description": "<p>Te teletransportas desde tu ubicación actual a cualquier otro lugar dentro del rango. Llegas exactamente al lugar deseado. Puede ser un lugar que se puede ver, uno que se puede visualizar, o uno que se puede describir al indicar distancia y dirección, como \"200 pies rectos hacia abajo\" o \"hacia arriba al noroeste en un ángulo de 45 grados, 300 pies\".</p><p>Puedes llevar objetos siempre y cuando su peso no exceda lo que puedas llevar. También puedes traer una criatura dispuesta de tu tamaño o más pequeña que está llevando el equipo hasta su capacidad de carga. La criatura debe estar a menos de 5 pies de ti cuando lances este conjuro.</p><p>Si llegaras a un lugar ya ocupado por un objeto o una criatura, tú y cualquier criatura que viaje contigo cada uno recibiría daño de fuerza 4d6, y el conjuro no te teletransportará.</p>",
+          "description": "<p>Te teletransportas desde tu ubicación actual a cualquier otro lugar dentro del alcance. Llegas exactamente al punto deseado. Puede ser un lugar que veas, que visualices o que describas indicando distancia y dirección, como «200 pies hacia abajo en línea recta» o «300 pies hacia el noroeste, en un ángulo ascendente de 45 grados».</p><p>Puedes llevar objetos cuyo peso total no supere tu capacidad de carga. También puedes llevar a una criatura voluntaria de tu tamaño o menor, con equipo que no supere su propia capacidad de carga. Debe estar a 5 pies o menos de ti cuando lances el conjuro.</p><p>Si el lugar de llegada está ocupado por un objeto o una criatura, tanto tú como cualquier criatura que viaje contigo sufrís 4d6 de daño de fuerza y el conjuro no os teletransporta.</p>",
           "effects": {
             "dnd5espellchange": {
-              "name": "Cambios ortográficos"
+              "name": "Cambios de conjuro"
             }
           }
         },
         "Bte0oaFTdrd6b5EL": {
-          "name": "Obligación",
-          "description": "<p>Criaturas de su elección que usted puede ver dentro del rango y que puede oír debe hacer un lanzamiento de ahorro de sabiduría. Un objetivo tiene éxito automáticamente en este lanzamiento de ahorro si no puede ser encantado. En un ahorro fallido, un objetivo se ve afectado por este conjuro. Hasta que el conjuro termine, puedes usar una acción adicional en cada uno de tus turnos para designar una dirección horizontal para ti. Cada objetivo afectado debe utilizar la mayor cantidad posible de su movimiento para moverse en esa dirección en su próximo giro. Puede tomar cualquier acción antes de moverse. Después de moverse de esta manera, puede hacer que otra Sabiduría ahorre para tratar de poner fin al efecto.</p><p>Un objetivo no se ve obligado a entrar en un peligro obviamente mortal, como un incendio o un pozo, pero provocará ataques de oportunidad para moverse en la dirección designada.</p>",
+          "name": "Compulsión",
+          "description": "<p>Las criaturas que elijas, que puedas ver dentro del alcance y que puedan oírte deben realizar una tirada de salvación de Sabiduría. Un objetivo tiene éxito automáticamente si no puede ser hechizado. Si falla, queda afectado por este conjuro. Hasta que termine el conjuro, puedes usar una acción adicional en cada uno de tus turnos para señalar una dirección horizontal respecto a ti. Cada objetivo afectado debe emplear tanto movimiento como le sea posible para avanzar en esa dirección durante su siguiente turno. Puede realizar cualquier acción antes de moverse. Tras moverse de este modo, puede repetir la salvación de Sabiduría para intentar terminar el efecto.</p><p>No se obliga al objetivo a entrar en un peligro claramente mortal, como un fuego o un foso, pero sí provocará ataques de oportunidad al moverse en la dirección indicada.</p>",
           "effects": {
             "dnd5espellchange": {
-              "name": "Cambios ortográficos"
+              "name": "Cambios de conjuro"
             }
           }
         },
@@ -5283,82 +5283,82 @@
         },
         "OfKle79h7auCgn3B": {
           "name": "Mano de Bigby (hielo)",
-          "description": "<p>Creas una mano grande de fuerza brillante y translúcida en un espacio desocupado que puedes ver dentro del rango. La mano dura para la Duración del conjuro, y se mueve a tus órdenes, imitando los movimientos de tu propia mano.</p><p>La mano es un objeto que tiene AC 20 e Hit Points igual a su punto de impacto máximo. Si cae a 0 puntos de impacto, el conjuro termina. Tiene una Fuerza de 26 (+8) y una Dexteridad de 10 (+0). La mano no llena su espacio.</p><p>Cuando usted lanza el conjuro y como una acción adicional en sus vueltas posteriores, usted puede mover la mano hasta 60 pies y luego causar uno de los siguientes efectos con él.</p><p><strong>Puño cerrado</strong>. La mano golpea a una criatura u objeto a menos de 5 pies de ella. Hacer un conjuro cuerpo a cuerpo Ataque para la mano usando su juego Estadísticas. En un golpe, el objetivo recibe 4d8 daños por fuerza.</p><p><strong>Mano fuerte</strong>. La mano intenta empujar a una criatura dentro de 5 pies de ella en la dirección que elija. Haga un chequeo con la Fuerza de la mano disputada por la Fuerza (Atlética) de la comprobación del objetivo. Si el objetivo es mediano o más pequeño, usted tiene ventaja en el cheque. Si tienes éxito, la mano empuja el objetivo hasta 5 pies más un número de pies igual a cinco veces su modificador de capacidad de Spellcasting. La mano se mueve con el objetivo para permanecer a menos de 5 pies de él.</p><p><strong>Mano de agarre</strong>. La mano trata de bregar con una criatura enorme o más pequeña a menos de 5 pies de distancia. Usas la puntuación de fuerza de la mano para resolver el problema. Si el objetivo es mediano o más pequeño, usted tiene ventaja en el cheque. Mientras que la mano está agarrando el objetivo, usted puede utilizar una acción adicional para tener la mano aplastarlo. Cuando lo haces, el objetivo recibe un daño de apaleamiento igual a 2d6 + tu modificador de capacidad de Spellcasting.</p><p><strong>Mano interpuesta</strong>. La mano se interpone entre usted y una criatura que usted elija hasta que le da a la mano una orden diferente. La mano se mueve para permanecer entre usted y el objetivo, proporcionándole media cubierta contra el objetivo. El objetivo no puede moverse a través del espacio de la mano si su puntuación de fuerza es menor o igual a la puntuación de fuerza de la mano. Si su puntuación de fuerza es más alta que la puntuación de fuerza de la mano, el objetivo puede moverse hacia usted a través del espacio de la mano, pero ese espacio es terreno difícil para el objetivo.</p>",
+          "description": "<p>Creas una mano Grande de fuerza brillante y translúcida en un espacio desocupado que puedas ver dentro del alcance. La mano permanece mientras dure el conjuro y se mueve a tus órdenes, imitando los movimientos de tu propia mano.</p><p>La mano es un objeto con CA 20 y tantos puntos de golpe como tu máximo de puntos de golpe. Si llega a 0 puntos de golpe, el conjuro termina. Tiene Fuerza 26 (+8) y Destreza 10 (+0). La mano no ocupa por completo su espacio.</p><p>Cuando lanzas el conjuro y como acción adicional en tus turnos posteriores, puedes mover la mano hasta 60 pies y después producir uno de los siguientes efectos.</p><p><strong>Puño cerrado.</strong> La mano golpea a una criatura u objeto a 5 pies o menos de ella. Realiza un ataque de conjuro cuerpo a cuerpo con la mano usando tus estadísticas. Si impacta, el objetivo sufre 4d8 de daño de fuerza.</p><p><strong>Mano contundente.</strong> La mano intenta empujar a una criatura a 5 pies o menos de ella en una dirección que elijas. Realiza una prueba de Fuerza de la mano enfrentada a una prueba de Fuerza (Atletismo) del objetivo. Si este es Mediano o más pequeño, tienes ventaja en la prueba. Si tienes éxito, la mano empuja al objetivo hasta 5 pies más una distancia en pies igual a cinco veces tu modificador por aptitud mágica. La mano se mueve con el objetivo para permanecer a 5 pies o menos de él.</p><p><strong>Mano apresadora.</strong> La mano intenta agarrar a una criatura Enorme o más pequeña a 5 pies o menos de ella. Usa la puntuación de Fuerza de la mano para resolver el agarre. Si el objetivo es Mediano o más pequeño, tienes ventaja en la prueba. Mientras la mano lo tenga agarrado, puedes usar una acción adicional para aplastarlo. Cuando lo haces, el objetivo sufre daño contundente igual a 2d6 + tu modificador por aptitud mágica.</p><p><strong>Mano interpuesta.</strong> La mano se interpone entre tú y una criatura que elijas hasta que le des otra orden. Se mueve para permanecer entre ambos y te proporciona cobertura media contra el objetivo. Este no puede atravesar el espacio de la mano si su puntuación de Fuerza es igual o inferior a la de la mano. Si es superior, puede acercarse a ti atravesando su espacio, pero este se considera terreno difícil para él.</p>",
           "activities": {
             "gSwGZaO7FU2ENmVm": {
-              "name": "Convocatoria"
+              "name": "Invocar"
             }
           },
           "effects": {
             "dnd5espellchange": {
-              "name": "Cambios ortográficos"
+              "name": "Cambios de conjuro"
             }
           }
         },
         "qqr2qrJDW0x10tVE": {
           "name": "Cono de frío",
-          "description": "<p>Una explosión de aire frío sale de tus manos. Cada criatura en un cono de 60 pies debe hacer un lanzamiento de ahorro de la Constitución. Una criatura recibe 8d8 daños fríos en un error de guardar, o la mitad de daño en un éxito.</p><p>Una criatura asesinada por este conjuro se convierte en una estatua congelada hasta que se descongela.</p><p><strong>Niveles superiores. </strong>Cuando lanzas este conjuro usando una espacio de conjuro de 6o nivel o superior, el daño aumenta en 1d8 por cada nivel de ranura por encima de 5o.</p>",
+          "description": "<p>Una ráfaga de aire helado brota de tus manos. Cada criatura en un cono de 60 pies debe realizar una tirada de salvación de Constitución. Sufre 8d8 de daño de frío si falla, o la mitad si tiene éxito.</p><p>Una criatura que muera por este conjuro se convierte en una estatua congelada hasta que se descongele.</p><p><strong>A niveles superiores.</strong> Si lanzas este conjuro usando un espacio de nivel 6 o superior, el daño aumenta en 1d8 por cada nivel del espacio por encima de 5.</p>",
           "effects": {
             "dnd5espellchange": {
-              "name": "Cambios ortográficos"
+              "name": "Cambios de conjuro"
             }
           }
         },
         "7Kw3f0d9bTCzBbDy": {
-          "name": "Carne a piedra",
-          "description": "<p>Tratas de convertir en piedra a una criatura que puedes ver dentro del rango. Si el cuerpo del objetivo está hecho de carne, la criatura debe hacer un lanzamiento de salvación de la Constitución. En un error de guardar, es &amp;Reference[Restrained] como su carne comienza a endurecerse. En una salvada exitosa, la criatura no se ve afectada.</p><p>Una criatura restringida por este conjuro debe hacer otra Constitución que salva lanzar al final de cada uno de sus giros. Si se salva con éxito contra este conjuro tres veces, el conjuro termina. Si falla tres veces sus salvas, se convierte en piedra y se somete a la &amp;Reference[Petrified] condición para la Duración. Los éxitos y fracasos no necesitan ser consecutivos; realizar un seguimiento de ambos hasta que el objetivo recoja tres de un tipo.</p><p>Si la criatura está físicamente rota mientras está petrificada, sufre de deformidades similares si vuelve a su estado original.</p><p>Si usted mantiene su concentración en este conjuro durante toda la duración posible, la criatura se convierte en piedra hasta que se elimina el efecto.</p>",
+          "name": "De la carne a la piedra",
+          "description": "<p>Intentas convertir en piedra a una criatura que puedas ver dentro del alcance. Si su cuerpo es de carne, debe realizar una tirada de salvación de Constitución. Si falla, queda &amp;Reference[Restrained]{apresada} mientras su carne empieza a endurecerse. Si tiene éxito, no se ve afectada.</p><p>Una criatura apresada por este conjuro debe repetir la salvación de Constitución al final de cada uno de sus turnos. Si supera tres salvaciones contra el conjuro, este termina. Si falla tres, se convierte en piedra y queda &amp;Reference[Petrified]{petrificada} mientras dure el conjuro. Los éxitos y fallos no tienen que ser consecutivos; lleva la cuenta de ambos hasta que acumule tres de un tipo.</p><p>Si la criatura se rompe físicamente mientras está petrificada, sufrirá deformidades similares si recupera su forma original.</p><p>Si mantienes la concentración durante toda la duración posible del conjuro, la criatura queda convertida en piedra hasta que se elimine el efecto.</p>",
           "effects": {
             "mVqFBzC5qYpFnZFV": {
-              "name": "Carne a piedra",
-              "description": "<p>El objetivo está restringido mientras su carne comienza a endurecerse. Una criatura restringida por este conjuro debe hacer otra Constitución que salva lanzar al final de cada uno de sus giros. Si se salva con éxito contra este conjuro tres veces, el conjuro termina. Si falla sus ahorros tres veces, se convierte en piedra y se somete a la condición petrificada para la Duración.</p>"
+              "name": "De la carne a la piedra",
+              "description": "<p>El objetivo queda apresado mientras su carne empieza a endurecerse. Una criatura apresada por este conjuro debe repetir la salvación de Constitución al final de cada uno de sus turnos. Si supera tres salvaciones contra el conjuro, este termina. Si falla tres, se convierte en piedra y queda petrificada mientras dure el conjuro.</p>"
             },
             "dnd5espellchange": {
-              "name": "Cambios ortográficos"
+              "name": "Cambios de conjuro"
             }
           }
         },
         "E6CRacQiyB0bN2IZ": {
           "name": "Tormenta de hielo",
-          "description": "<p>Una granada de hielo duro de roca al suelo en un cilindro de 20 pies de radio, 40 pies de altura centrado en un punto dentro del alcance. Cada criatura en el cilindro debe hacer un lanzamiento de ahorro de Dexterity. Una criatura recibe 2d8 daños por apaleamiento y 4d6 daños por frío en un ahorro fallido, o la mitad del daño en uno exitoso.</p><p>Las piedras de pedrisco convierten el área de efecto de la tormenta en terreno difícil hasta el final de su próximo giro.</p><p><strong>En los niveles superiores.</strong> Cuando lanzas este conjuro usando una ranura para conjuros de 5o nivel o superior, el daño por apaleamiento aumenta en 1d8 por cada nivel de ranura por encima de 4o.</p>",
+          "description": "<p>Una granizada de hielo duro como la roca golpea el suelo en un cilindro de 20 pies de radio y 40 pies de altura centrado en un punto dentro del alcance. Cada criatura en el cilindro debe realizar una tirada de salvación de Destreza. Sufre 2d8 de daño contundente y 4d6 de daño de frío si falla, o la mitad si tiene éxito.</p><p>El granizo convierte el área de la tormenta en terreno difícil hasta el final de tu siguiente turno.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro usando un espacio de nivel 5 o superior, el daño contundente aumenta en 1d8 por cada nivel del espacio por encima de 4.</p>",
           "effects": {
             "dnd5espellchange": {
-              "name": "Cambios ortográficos"
+              "name": "Cambios de conjuro"
             }
           }
         },
         "ZG2KSiXsgqen5KUG": {
-          "name": "Esfera helada",
-          "description": "<p>Un globo frígido de energía fría se extiende desde sus dedos hasta un punto de su elección dentro de su alcance, donde explota en una esfera de 60 pies de radio. Cada criatura dentro de la zona debe hacer un lanzamiento de ahorro de la Constitución. En un ahorro fallido, una criatura recibe 10d6 daños fríos. En un ahorro exitoso, se necesita la mitad de daño.</p><p>Si el globo golpea un cuerpo de agua o un líquido que es principalmente agua (sin incluir criaturas a base de agua), congela el líquido a una profundidad de 6 pulgadas sobre un área de 30 pies cuadrados. Este hielo dura 1 minuto. Las criaturas que nadan en la superficie de agua congelada están atrapadas en el hielo. Una criatura atrapada puede usar una acción para hacer una comprobación de fuerza contra su conjuro salvar CD para liberarse.</p><p>Puede abstenerse de disparar el globo terráqueo después de completar el conjuro, si lo desea. Un pequeño globo del tamaño de una honda, fresco al tacto, aparece en tu mano. En cualquier momento, usted o una criatura que le da el globo para que pueda lanzar el globo (a un rango de 40 pies) o lanzarlo con una honda (al rango normal de la honda). Se rompe en el impacto, con el mismo efecto que el lanzamiento normal del conjuro. También puedes bajar el globo sin romperlo. Después de 1 minuto, si el globo no se ha roto ya, explota.</p><p><strong>En los niveles superiores.</strong> Cuando lanzas este conjuro usando una espacio de conjuro de 7o nivel o superior, el daño aumenta en 1d6 por cada nivel de ranura por encima de 6o.</p>",
+          "name": "Esfera congelante",
+          "description": "<p>Un globo de energía helada sale de tus dedos hacia un punto que elijas dentro del alcance, donde estalla en una esfera de 60 pies de radio. Cada criatura en el área debe realizar una tirada de salvación de Constitución. Si falla, sufre 10d6 de daño de frío; si tiene éxito, sufre la mitad.</p><p>Si el globo impacta en una masa de agua o un líquido compuesto principalmente de agua (sin incluir criaturas acuáticas), congela el líquido hasta una profundidad de 6 pulgadas en un área cuadrada de 30 pies de lado. El hielo dura 1 minuto. Las criaturas que estuvieran nadando en la superficie quedan atrapadas en él. Una criatura atrapada puede usar una acción para realizar una prueba de Fuerza contra tu CD de salvación de conjuros y liberarse si tiene éxito.</p><p>Si quieres, puedes posponer el lanzamiento del globo tras completar el conjuro. En tu mano aparece un pequeño globo del tamaño de una piedra de honda, frío al tacto. En cualquier momento, tú o una criatura a la que se lo entregues podéis lanzarlo hasta 40 pies o arrojarlo con una honda hasta el alcance normal de esta. Se rompe al impactar y produce el mismo efecto que un lanzamiento normal del conjuro. También puedes dejarlo en el suelo sin romperlo. Si no se ha roto antes, estalla al cabo de 1 minuto.</p><p><strong>A niveles superiores.</strong> Si lanzas este conjuro usando un espacio de nivel 7 o superior, el daño aumenta en 1d6 por cada nivel del espacio por encima de 6.</p>",
           "effects": {
             "dnd5espellchange": {
-              "name": "Cambios ortográficos"
+              "name": "Cambios de conjuro"
             }
           }
         },
         "GdLltyBkGsSCEb1E": {
-          "name": "Crecimiento de las especias",
-          "description": "<p>El suelo en un radio de 20 pies centrado en un punto dentro de los giros de rango y brotes espigas duras y espinas. La zona se vuelve difícil terreno para la Duración. Cuando una criatura se mueve hacia o dentro del área, se necesita 2d4 daño piercing por cada 5 pies que viaja.</p><p>La transformación del suelo se camufla para lucir natural. Cualquier criatura que no pueda ver el área en el momento en que se lance el conjuro debe hacer un chequeo de Sabiduría (Percepción) contra su conjuro, salvo CD para reconocer el terreno como peligroso antes de entrar en él.</p>",
+          "name": "Crecimiento espinoso",
+          "description": "<p>El suelo en un radio de 20 pies centrado en un punto dentro del alcance se retuerce y se cubre de púas y espinas duras. El área se convierte en terreno difícil durante el conjuro. Cuando una criatura entra o se mueve por ella, sufre 2d4 de daño perforante por cada 5 pies que recorra.</p><p>La transformación del suelo está camuflada para parecer natural. Una criatura que no pueda ver el área cuando se lanza el conjuro debe superar una prueba de Sabiduría (Percepción) contra tu CD de salvación de conjuros para reconocer el peligro del terreno antes de entrar en él.</p>",
           "effects": {
             "dnd5espellchange": {
-              "name": "Cambios ortográficos"
+              "name": "Cambios de conjuro"
             }
           }
         },
         "imL8MAYkuyzeIyVS": {
-          "name": "Tormenta de bolitas",
-          "description": "<p>Hasta que el conjuro termine, la lluvia helada y la lluvia de nieve caerán en un cilindro de 20 pies de altura con un radio de 40 pies centrado en un punto que elijas dentro del rango. El área está muy oscura, y las llamas expuestas en la zona se rocían.</p><p>El suelo de la zona está cubierto de hielo resbaladizo, lo que lo hace difícil terreno. Cuando una criatura entra en el área del conjuro por primera vez en un giro o comienza su turno allí, debe hacer un lanzamiento de ahorro de Dexterity. En una salvada fallida, cae Prone.</p><p>Si una criatura se está concentrando en el área del conjuro, la criatura debe hacer una exitosa Constitución ahorrando lanzar contra su conjuro salvar CD o perder la concentración.</p>",
+          "name": "Tormenta de aguanieve",
+          "description": "<p>Hasta que termine el conjuro, caen lluvia helada y aguanieve en un cilindro de 20 pies de altura y 40 pies de radio centrado en un punto que elijas dentro del alcance. El área queda muy oscura y las llamas expuestas que haya en ella se apagan.</p><p>El suelo del área se cubre de hielo resbaladizo y se convierte en terreno difícil. Cuando una criatura entra en el área del conjuro por primera vez en un turno o empieza su turno en ella, debe realizar una tirada de salvación de Destreza. Si falla, cae derribada.</p><p>Una criatura que esté concentrándose en el área del conjuro debe superar una tirada de salvación de Constitución contra tu CD de salvación de conjuros o perder la concentración.</p>",
           "effects": {
             "dnd5espellchange": {
-              "name": "Cambios ortográficos"
+              "name": "Cambios de conjuro"
             }
           }
         },
         "M5p9obNMlC3Haikt": {
           "name": "Muro de hielo",
-          "description": "<p>Se crea una pared de hielo en una superficie sólida dentro de su alcance. Se puede formar en una cúpula hemisférica o una esfera con un radio de hasta 10 pies, o se puede formar una superficie plana compuesta por diez paneles de 10 pies cuadrados. Cada panel debe ser contiguo con otro panel. En cualquier forma, la pared es de 1 pie de espesor y dura durante la Duración.</p><p>Si la pared corta el espacio de una criatura cuando aparece, la criatura dentro de su área es empujada hacia un lado de la pared y debe hacer un lanzamiento de ahorro de Dexterity. En un ahorro fallido, la criatura recibe 10d6 daños en frío, o la mitad de daño en un ahorro exitoso.</p><p>La pared es un objeto que puede ser dañado y por lo tanto violado. Tiene AC 12 y 30 puntos de impacto por sección de 10 pies, y es vulnerable a daños por incendio. Reducir una sección de 10 pies de pared a 0 puntos de impacto lo destruye y deja una hoja de aire frígido en el espacio ocupado por la pared. Una criatura que se mueve a través de la hoja de aire frígido por primera vez en un giro debe hacer un lanzamiento de ahorro Constitución. Esa criatura recibe 5d6 daño frío en una falla de ahorro, o la mitad de daño en una exitosa.</p><p>En los niveles superiores. Cuando se lanza este conjuro usando una espacio de conjuro de 7o nivel o superior, el daño que la pared se ocupa cuando aparece aumenta en 2d6, y el daño de pasar a través de la hoja de aire frígido aumenta en 1d6, para cada nivel de ranura por encima de 6o.</p>",
+          "description": "<p>Creas un muro de hielo sobre una superficie sólida dentro del alcance. Puedes darle forma de cúpula hemisférica o esfera de hasta 10 pies de radio, o formar una superficie plana compuesta por diez paneles cuadrados de 10 pies de lado. Cada panel debe ser contiguo a otro. En cualquier forma, el muro tiene 1 pie de grosor y permanece mientras dure el conjuro.</p><p>Si el muro atraviesa el espacio de una criatura al aparecer, esta es empujada a un lado del muro y debe realizar una tirada de salvación de Destreza. Si falla, sufre 10d6 de daño de frío; si tiene éxito, sufre la mitad.</p><p>El muro es un objeto que puede dañarse para abrir brechas. Tiene CA 12 y 30 puntos de golpe por sección de 10 pies, y es vulnerable al daño de fuego. Reducir una sección de 10 pies a 0 puntos de golpe la destruye y deja una lámina de aire helado en el espacio que ocupaba. Una criatura que atraviese la lámina por primera vez en un turno debe realizar una tirada de salvación de Constitución. Sufre 5d6 de daño de frío si falla, o la mitad si tiene éxito.</p><p>A niveles superiores. Si lanzas este conjuro usando un espacio de nivel 7 o superior, el daño que causa el muro al aparecer aumenta en 2d6 y el daño por atravesar la lámina de aire helado aumenta en 1d6 por cada nivel del espacio por encima de 6.</p>",
           "effects": {
             "dnd5espellchange": {
-              "name": "Cambios ortográficos"
+              "name": "Cambios de conjuro"
             }
           }
         }

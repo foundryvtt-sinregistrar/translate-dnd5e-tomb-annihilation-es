@@ -1909,6 +1909,22 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   figura entre los objetos de Artus. Quedan anotados para reparación funcional.
 - Los conjuros se revisan en un bloque separado; la biografía ya estaba revisada.
 
+### appendix-d-artus-spells — Artus Cimber: conjuros
+
+- Revisados los 66 campos de conjuros restantes de las dos copias. La
+  selección y los nombres se contrastan con las páginas físicas 212–213;
+  los textos completos, con el exportado inglés.
+- Conservados el transporte de un acompañante en Puerta dimensional,
+  las salvaciones acumuladas de petrificación y los límites de creación
+  y rotura del Muro de hielo. La Esfera congelante afecta a un cuadrado
+  de 30 pies de lado, no a una superficie de 30 pies cuadrados.
+- La descripción exportada de Mano de Bigby (hielo) mantiene fuerza y
+  daño de fuerza, pese a las modificaciones del anillo. De la carne a la
+  piedra también conserva su texto normal. Queda pendiente comprobar las
+  modificaciones aplicadas por actividades y efectos antes de corregirlos.
+- Quedan revisados todos los textos no vacíos de ambas copias de Artus;
+  esto no acredita el funcionamiento de los conjuros y enlaces señalados.
+
 ## Balance de revisión editorial
 
 - 802 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -1916,8 +1932,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
   del capítulo 4, 126 del capítulo 5 y 197 de los apéndices A, B, C, D y F.
   No equivale a 802 páginas del PDF.
-- 5201 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 5201 campos distintos.
+- 5267 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 5267 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas cincuenta y cinco biografías en ambas copias de actores: siete
   príncipes y cuarenta y ocho criaturas o PNJ del apéndice D. Siguen pendientes las demás
