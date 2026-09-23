@@ -2160,18 +2160,32 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   estilos del texto exportado. Revisadas la armadura de bandas, la condición
   del ataque adicional con espada corta y las capacidades de los sacerdotes.
 
+### appendix-d-crew-fort-staff — Tripulación y otros PNJ de Chult
+
+- Revisados 418 campos: doce actores en ambas copias y nueve páginas.
+  Incluye a Thasselandra, Falx, Brax, Nhar, Veliod, Ra-das, Wulf Rygor,
+  Jaro, Rahl Zuberi, Bosco Dagaenmano, Sigbeorn y Gruta Halsdottir.
+  Referencias físicas 49, 61, 64–65 y 87; perfiles y objetos contra el inglés.
+- Añadidas once biografías al recuento: Wulf no tiene biografía exportada.
+  Ra-das carece de página propia en este apéndice, pero se revisa su ficha
+  por ser parte de la tripulación. Su alineamiento exportado es «cualquiera»,
+  frente a neutral en el PDF; se conserva y anota para revisión funcional.
+- Comprobados el dado y las condiciones de Liderazgo, las cargas y los
+  límites del anillo de Bosco, y la condición de empuñar la lanza a dos manos.
+  Corregidos el apellido Dagaenmano y las concordancias de los mensajes de chat.
+
 ## Balance de revisión editorial
 
-- 855 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 864 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 250 de los apéndices A, B, C, D y F.
-  No equivale a 855 páginas del PDF.
-- 8169 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 8169 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 259 de los apéndices A, B, C, D y F.
+  No equivale a 864 páginas del PDF.
+- 8587 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 8587 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas ciento cuatro biografías en ambas copias de actores: siete
-  príncipes y noventa y siete criaturas o PNJ del apéndice D. Siguen pendientes las demás
+  insertado. Revisadas ciento quince biografías en ambas copias de actores: siete
+  príncipes y ciento ocho criaturas o PNJ vinculados al apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las
