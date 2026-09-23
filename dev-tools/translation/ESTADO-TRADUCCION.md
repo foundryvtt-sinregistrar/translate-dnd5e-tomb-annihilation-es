@@ -843,14 +843,24 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   objetos, cartas y tabla insertada conservan sus revisiones independientes pendientes.
 - Auditorías técnica y editorial sin errores.
 
+### ch5-level2-access-01 a ch5-level2-access-05 — Accesos y vigilancia
+
+- Revisados cinco textos y títulos con referencias físicas 140, 142-143 y 145.
+- Conservados el mecanismo de los tres zombis, el alcance de la observación
+  a través del guardián y la excepción del amuleto llevado por un observador.
+- Corregida la unión entre texto y enlace del nivel 2 en la escalera.
+- El foso del diablo repite el UUID incorrecto de disipar magia a detectar magia.
+  Queda anotado para la revisión técnica de enlaces.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 512 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 517 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4 y treinta y tres del capítulo 5. No equivale a 512 páginas del PDF.
-- 1134 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1134 campos distintos.
+  del capítulo 4 y treinta y ocho del capítulo 5. No equivale a 517 páginas del PDF.
+- 1144 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1144 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
