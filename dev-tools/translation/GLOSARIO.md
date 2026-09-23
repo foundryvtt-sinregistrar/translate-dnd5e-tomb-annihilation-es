@@ -37,6 +37,7 @@ términos generales; no todas sus entradas son citas del libro.
 | Adventure Time | Hora de aventuras | 3 |
 | Bag of Nails | Saco de Clavos | 5 |
 | Flask of Wine | Jarro de Vino | 5 |
+| I’jin | I’jin | 249, 251, 257; comprobación visual, no «Pjin» del OCR |
 | River Mist | Bruma del Río | 5 |
 | Grabstab | Pillapincha | 5 |
 | Withers | Mustio | 5 |

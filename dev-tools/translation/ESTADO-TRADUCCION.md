@@ -4,8 +4,8 @@ Actualizado: 23 de septiembre de 2026.
 
 ## Estado actual
 
-**Borrador integral con validación técnica; revisión lingüística en curso.**
-No se considera una traducción final revisada.
+**Revisión textual cerrada; validación funcional integral pendiente.**
+No se considera una versión final lista para publicar.
 
 - Cinco packs originales exportados mediante la API de Foundry, con SHA-256.
 - 698 documentos principales: 1 aventura, 332 actores, 301 objetos,
@@ -17,7 +17,8 @@ No se considera una traducción final revisada.
 - 126 claves de interfaz traducidas manualmente, conservando los parámetros.
 - Glosario inicial y equivalencias contrastadas con la edición española.
 - Reutilización de traducciones locales solo con coincidencia del original inglés.
-- El resto se ha generado con OPUS-MT local y se mantiene identificado como borrador.
+- El borrador generado con OPUS-MT local ha pasado por revisión editorial:
+  todos los campos inventariados tienen un registro de revisión completo.
 
 Consultar [el inventario](INVENTARIO.md), [el glosario](GLOSARIO.md) y
 [el procedimiento reproducible](README.md).
@@ -2913,6 +2914,23 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Los errores funcionales heredados del original no se consideran corregidos
   por traducir sus descripciones; se comprobarán por separado.
 
+### Cierre de ayudas, interfaz y coherencia
+
+- Inspeccionadas las 24 ayudas: 19 imágenes en español incorporadas por ID;
+  cinco conservan símbolos o nombres propios del original. El manifiesto
+  registra página de origen, recorte y hash de cada imagen incorporada.
+- Revisadas las 126 claves de interfaz y sus parámetros. Registro independiente
+  en `interface-review.json`; no equivale a probar todos los controles en juego.
+- Corregidos 20 campos con variantes de nombres: I’jin (error del OCR «Pjin»),
+  Bruma del Río, Jarro de Vino, Pillapincha, Salysa, Fano de la Serpiente
+  Nocturna y Mazmorra de los Engaños. Los IDs y atributos HTML se conservan.
+- Estabilizados enlaces de objetos en 154 campos: se sustituye el nombre inglés
+  por el ID del objeto del mismo actor únicamente con coincidencia inequívoca.
+- Auditoría local: 1870 comandos de objeto y 2749 referencias UUID resueltos;
+  19 referencias sin destino local ya presentes en el inglés. No se certifican
+  1168 referencias externas o contextuales ni 47 anclas sin probarlas en Foundry.
+- Resultados y límites de los puntos 1, 2 y 3 en [CIERRE-TEXTUAL.md](CIERRE-TEXTUAL.md).
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2929,25 +2947,26 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   príncipes, ciento veintisiete criaturas o PNJ vinculados al apéndice D y ocho perfiles
   adicionales. Cerrada también la revisión de los campos de todos los perfiles
   de actor del compendio y Adventure, incluidos sus objetos incorporados.
-  Revisados los 301 objetos independientes. Siguen pendientes las ayudas y el cierre de interfaz
-  y la comprobación transversal de nombres y terminología.
-- Auditorías estáticas y editorial sin errores. Comprobados en Foundry los
-  esquemas de 698 documentos con los JSON actuales, sin errores. Las instantáneas
+  Revisados los 301 objetos independientes, las ayudas para jugadores, la
+  interfaz y la comprobación transversal de nombres descrita arriba.
+- Auditorías estáticas y editorial sin errores; cobertura de revisión completa:
+  20154 de 20154 campos. Superadas 16 pruebas Node y seis Python.
+  La comprobación de esquemas de 698 documentos en Foundry es anterior a
+  los cambios de este cierre y debe repetirse. Las instantáneas
   anteriores no se han renovado: el servidor rechazó la subida de archivos.
   Sigue pendiente la importación completa de Adventure en un mundo limpio.
-- **La revisión del módulo continúa incompleta.** El cierre de los actores
-  y del texto de los diarios no acredita los demás documentos enlazados,
-  las imágenes ni el funcionamiento de la aventura importada.
+- **La validación integral del módulo continúa incompleta.** El cierre textual
+  y de las ayudas no acredita los compendios externos, todos los mapas con
+  etiquetas dentro de imágenes ni el funcionamiento de la aventura importada.
 - El informe v2 final solicitado queda pendiente hasta cerrar toda la revisión;
   este estado de avance no acredita una revisión completa ni la sustituye.
 
 ## Trabajo que sigue pendiente
 
-- Cerrada la revisión de los objetos independientes y los metadatos textuales.
-  Cerrar ayudas e interfaz.
-  La generación automática todavía puede contener errores de sentido que
-  las comprobaciones técnicas no detectan.
-- Revisar nombres, terminología en contexto y etiquetas dentro de imágenes.
+- Comprobar en Foundry las referencias pendientes del informe de enlaces y
+  las discrepancias mecánicas heredadas documentadas en los lotes anteriores.
+- Revisar las etiquetas de los mapas fuera de las 24 ayudas del apéndice E.
+- Renovar la validación de esquemas y las instantáneas con estos últimos cambios.
 - Validar una importación completa de Adventure en un mundo limpio y comprobar
   las automatizaciones durante el juego. No sobrescribir el mundo existente.
 - Preparar la publicación únicamente después de cerrar estas revisiones.

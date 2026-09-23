@@ -342,7 +342,7 @@
             },
             "a9kyAVmjTWFo0te8": {
               "name": "Abalanzarse",
-              "description": "<p>Si el [[lookup @name lowercase]] se mueve al menos 30 pies en línea recta hacia una criatura y después la impacta con un ataque de garra en ese mismo turno, el objetivo debe superar una tirada de salvación [[/save format=long]] o quedar &amp;Reference[Prone apply=false]{derribado}. Si el objetivo está derribado, el [[lookup @name lowercase]] puede realizar un ataque de [[/item Bite]]{mordisco} contra él como acción adicional.</p>",
+              "description": "<p>Si el [[lookup @name lowercase]] se mueve al menos 30 pies en línea recta hacia una criatura y después la impacta con un ataque de garra en ese mismo turno, el objetivo debe superar una tirada de salvación [[/save format=long]] o quedar &amp;Reference[Prone apply=false]{derribado}. Si el objetivo está derribado, el [[lookup @name lowercase]] puede realizar un ataque de [[/item .KiCHzaFMUGUZr9mJ]]{mordisco} contra él como acción adicional.</p>",
               "effects": {
                 "yQ5bJozV7sBOV8Yg": {
                   "name": "Derribado",
@@ -637,7 +637,7 @@
           "items": {
             "2m2mkUSBJi2QOZje": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] realiza tres ataques: uno de [[/item Bite]]{mordisco} y dos de [[/item Claw]]{garra}. Puede realizar un ataque con la [[/item Tail]]{cola} en lugar de los dos ataques de garra.</p>"
+              "description": "<p>[[lookup @name]] realiza tres ataques: uno de [[/item .7QJr0VCtVk2wtZ78]]{mordisco} y dos de [[/item .P4joxK4BwyYsPfJv]]{garra}. Puede realizar un ataque con la [[/item .zNDI1LvLKZ9Hi2Ew]]{cola} en lugar de los dos ataques de garra.</p>"
             },
             "7QJr0VCtVk2wtZ78": {
               "name": "Mordisco",
@@ -804,7 +804,7 @@
             },
             "Fto9AMV5e4oLAMRt": {
               "name": "Rayo de frío",
-              "description": "<p>El atropal utiliza su [[/item Ray of Cold]]{Rayo de frío}.</p>"
+              "description": "<p>El atropal utiliza su [[/item .Fto9AMV5e4oLAMRt]]{Rayo de frío}.</p>"
             },
             "J7gsFGAX9E6ZzKvC": {
               "name": "Resistencia Mágica",
@@ -1218,7 +1218,7 @@
           "items": {
             "asEIZLAQkt4oQHdM": {
               "name": "Ataque múltiple",
-              "description": "<p>El carroñero reptante realiza dos ataques: uno con sus [[/item Tentacles]] y otro con su mordisco.</p>"
+              "description": "<p>El carroñero reptante realiza dos ataques: uno con sus [[/item .BM7hVQi2jKDEQnZ3]] y otro con su mordisco.</p>"
             },
             "33MayKSEUuJ6Jril": {
               "name": "Mordisco",
@@ -1665,7 +1665,7 @@
           "items": {
             "VYoqN1DPH9kCI8VR": {
               "name": "Ataque múltiple",
-              "description": "<p>El cíclope realiza dos ataques de [[/item Greatclub]].</p>"
+              "description": "<p>El cíclope realiza dos ataques de [[/item .rPafKkOainOGYkr3]].</p>"
             },
             "zUsXEMrFj04MZF3h": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
@@ -1688,7 +1688,7 @@
           "items": {
             "GcFtQd9Py9mWRqLI": {
               "name": "Ataque múltiple",
-              "description": "<p>El deinonychus realiza tres ataques: uno de [[/item Bite]]{Mordisco} y dos de [[/item Claw]]{Garra}.</p>"
+              "description": "<p>El deinonychus realiza tres ataques: uno de [[/item .PwethtRQ6W05RKEb]]{Mordisco} y dos de [[/item .is12NOG2LcY4Pjfe]]{Garra}.</p>"
             },
             "PwethtRQ6W05RKEb": {
               "name": "Mordisco",
@@ -1700,7 +1700,7 @@
             },
             "x85sPbByQEO9p11S": {
               "name": "Abalanzarse",
-              "description": "<p>Si el deinonychus se desplaza al menos 20 pies en línea recta hacia una criatura y después le impacta con un ataque de garra en el mismo turno, el objetivo debe superar una [[/save format=long]] o queda &amp;Reference[Prone apply=false]{derribado}. Si el objetivo está derribado, el deinonychus puede realizar un ataque de [[/item Bite]]{Mordisco} contra él como acción adicional.</p>",
+              "description": "<p>Si el deinonychus se desplaza al menos 20 pies en línea recta hacia una criatura y después le impacta con un ataque de garra en el mismo turno, el objetivo debe superar una [[/save format=long]] o queda &amp;Reference[Prone apply=false]{derribado}. Si el objetivo está derribado, el deinonychus puede realizar un ataque de [[/item .PwethtRQ6W05RKEb]]{Mordisco} contra él como acción adicional.</p>",
               "effects": {
                 "nlUdOfJCtP2qkzCs": {
                   "name": "Derribado",
@@ -1955,7 +1955,7 @@
           "items": {
             "VP628jcRRlz0G1LN": {
               "name": "Ataque múltiple",
-              "description": "<p>El eblis realiza dos ataques con su [[/item Beak]]{Pico}.</p>"
+              "description": "<p>El eblis realiza dos ataques con su [[/item .RtEg6THKtLo8SXpS]]{Pico}.</p>"
             },
             "RtEg6THKtLo8SXpS": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
@@ -2017,7 +2017,7 @@
           "items": {
             "3mwnwg5CfZSoHGln": {
               "name": "Ataque múltiple",
-              "description": "<p>El hombre pterodáctilo realiza tres ataques: uno con su [[/item Bite]]{Mordisco} y dos con su [[/item Claw]]{Garra}. Como alternativa, realiza dos ataques cuerpo a cuerpo con su [[/item Javelin]]{Jabalina}.</p>"
+              "description": "<p>El hombre pterodáctilo realiza tres ataques: uno con su [[/item .QDQBbBT7nyF7YlrK]]{Mordisco} y dos con su [[/item .fdGmUEvvEoZZZdrI]]{Garra}. Como alternativa, realiza dos ataques cuerpo a cuerpo con su [[/item .gZk9QQKXfzbn0OFf]]{Jabalina}.</p>"
             },
             "QDQBbBT7nyF7YlrK": {
               "name": "Mordisco",
@@ -2128,7 +2128,7 @@
           "items": {
             "oFYfTqElj1vxWcai": {
               "name": "Ataque múltiple",
-              "description": "<p>La serpiente realiza dos ataques: uno con su [[/item Bite]] y otro con su cola.</p>"
+              "description": "<p>La serpiente realiza dos ataques: uno con su [[/item .1etYbtDOdPWs2Val]] y otro con su cola.</p>"
             },
             "1etYbtDOdPWs2Val": {
               "name": "Mordisco",
@@ -2241,7 +2241,7 @@
           "items": {
             "QWjQnUWNoLWgmKGO": {
               "name": "Ataque múltiple",
-              "description": "<p>La salamandra flamígera realiza dos ataques con su [[/item Scimitar]]{Cimitarra}.</p>"
+              "description": "<p>La salamandra flamígera realiza dos ataques con su [[/item .fmqFZ6m3yuvRpZ8o]]{Cimitarra}.</p>"
             },
             "fmqFZ6m3yuvRpZ8o": {
               "name": "Cimitarra",
@@ -2486,7 +2486,7 @@
             },
             "ZtR4TpXkJIW0VVzq": {
               "name": "Lengua",
-              "description": "<p>El ranamot elige como objetivo a una criatura Mediana o más pequeña que pueda ver a 20 pies o menos. El objetivo debe realizar una [[/save format=long]]. Si falla, es arrastrado a un espacio desocupado a 5 pies o menos del ranamot, que puede realizar un ataque de [[/item Bite]]{Mordisco} contra él como acción adicional.</p>"
+              "description": "<p>El ranamot elige como objetivo a una criatura Mediana o más pequeña que pueda ver a 20 pies o menos. El objetivo debe realizar una [[/save format=long]]. Si falla, es arrastrado a un espacio desocupado a 5 pies o menos del ranamot, que puede realizar un ataque de [[/item .1eo55lhwz9bTzkyO]]{Mordisco} contra él como acción adicional.</p>"
             },
             "Oin5TUPPyz6M9EJm": {
               "name": "Anfibio",
@@ -2521,7 +2521,7 @@
             },
             "i49lwJ84vB720EPW": {
               "name": "Ataque múltiple",
-              "description": "<p>El [[lookup @name lowercase]] realiza dos ataques de [[/item Greataxe]].</p>"
+              "description": "<p>El [[lookup @name lowercase]] realiza dos ataques de [[/item .LVOGKiIm4UTD4fpj]].</p>"
             },
             "9LXx1CaY98oYrwWK": {
               "name": "Armadura de retales",
@@ -2537,7 +2537,7 @@
           "items": {
             "yczO5JpGxAk51Gp8": {
               "name": "Ataque múltiple",
-              "description": "<p>La [[lookup @name lowercase]] realiza dos ataques: uno con su [[/item Bite]]{mordisco} y otro con sus [[/item Claws]]{garras}.</p>"
+              "description": "<p>La [[lookup @name lowercase]] realiza dos ataques: uno con su [[/item .A6GBvah75Y7fGjc5]]{mordisco} y otro con sus [[/item .ipJwA0j2zfzmq5GW]]{garras}.</p>"
             },
             "A6GBvah75Y7fGjc5": {
               "name": "Mordisco",
@@ -2727,7 +2727,7 @@
           "items": {
             "MFu1FoVAGsSOo6Oe": {
               "name": "Ataque múltiple",
-              "description": "<p>La gárgola realiza cinco ataques: uno con su [[/item Bite]]{Mordisco} y cuatro con su [[/item Claw]]{Garra}.</p>"
+              "description": "<p>La gárgola realiza cinco ataques: uno con su [[/item .FoteCILKE0TDmw9x]]{Mordisco} y cuatro con su [[/item .RKssVx1rKbELTGEi]]{Garra}.</p>"
             },
             "FoteCILKE0TDmw9x": {
               "name": "Mordisco",
@@ -2951,7 +2951,7 @@
           "items": {
             "f22Qpl4jZe3bSXNM": {
               "name": "Ataque múltiple",
-              "description": "<p>El girallon realiza cinco ataques: uno con su [[/item Bite]]{Mordisco} y cuatro con su [[/item Claw]]{Garra}.</p>"
+              "description": "<p>El girallon realiza cinco ataques: uno con su [[/item .eBVsZQsojky7k40Z]]{Mordisco} y cuatro con su [[/item .8lebkvHyNLMaSB7N]]{Garra}.</p>"
             },
             "eBVsZQsojky7k40Z": {
               "name": "Mordisco",
@@ -2978,7 +2978,7 @@
           "items": {
             "ukL021MeueJAJh9h": {
               "name": "Ataque múltiple",
-              "description": "<p>El [[lookup @name lowercase]] realiza cinco ataques: uno con su [[/item Bite]]{Mordisco} y cuatro con su [[/item Claw]]{Garra}.</p>"
+              "description": "<p>El [[lookup @name lowercase]] realiza cinco ataques: uno con su [[/item .LLXOApc5r40tXYtk]]{Mordisco} y cuatro con su [[/item .1TkFaPHDdYXLDHtA]]{Garra}.</p>"
             },
             "LLXOApc5r40tXYtk": {
               "name": "Mordisco",
@@ -3123,7 +3123,7 @@
           "items": {
             "ZQRXxpwNzfQSKAIU": {
               "name": "Ataque múltiple",
-              "description": "<p>El goblin realiza dos ataques con su [[/item Scimitar]]{Cimitarra}. El segundo ataque tiene desventaja.</p>"
+              "description": "<p>El goblin realiza dos ataques con su [[/item .JmCJ5b1QFqu91tD4]]{Cimitarra}. El segundo ataque tiene desventaja.</p>"
             },
             "sSs3hSzkKBMNBgTs": {
               "name": "Escudo",
@@ -3195,7 +3195,7 @@
             },
             "Qkqey6UmYImH9ytW": {
               "name": "Ataque múltiple",
-              "description": "<p>El slaad realiza tres ataques: uno con su [[/item Bite]] y dos con sus [[/item Claws]] o su espadón.</p>"
+              "description": "<p>El slaad realiza tres ataques: uno con su [[/item .jwcspgAfaYSK0HKG]] y dos con sus [[/item .y3OyTu1Qd2QoAokf]] o su espadón.</p>"
             },
             "jwcspgAfaYSK0HKG": {
               "name": "Mordisco",
@@ -4079,7 +4079,7 @@
           "items": {
             "FBqSIhZmq8iB0VhE": {
               "name": "Ataque múltiple",
-              "description": "<p>El kamadan realiza dos ataques: uno con su [[/item Bite]]{Mordisco} o su [[/item Claw]]{Garra} y otro con sus [[/item Snakes]]{Serpientes}.</p>"
+              "description": "<p>El kamadan realiza dos ataques: uno con su [[/item .J9NndSEUl5RFNiyW]]{Mordisco} o su [[/item .P3TCQDwRb8iccfSK]]{Garra} y otro con sus [[/item .9t5ZNW1mLA6eSKiH]]{Serpientes}.</p>"
             },
             "J9NndSEUl5RFNiyW": {
               "name": "Mordisco",
@@ -4128,7 +4128,7 @@
           "items": {
             "Fi45qe2ncVZHNq43": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] realiza dos ataques: uno de [[/item Bite]]{mordisco} y otro con la [[/item Tail]]{cola}. No puede realizar ambos ataques contra el mismo objetivo.</p>"
+              "description": "<p>[[lookup @name]] realiza dos ataques: uno de [[/item .ozTUbgN4h5b0usFJ]]{mordisco} y otro con la [[/item .dLMqIGMGpaudz6BS]]{cola}. No puede realizar ambos ataques contra el mismo objetivo.</p>"
             },
             "ozTUbgN4h5b0usFJ": {
               "name": "Mordisco",
@@ -4507,7 +4507,7 @@
             },
             "JU9uQp48fE0SglEO": {
               "name": "Ataque múltiple",
-              "description": "<p>El hombre lagarto realiza dos ataques: uno con su [[/item Bite]] y otro con sus garras.</p>"
+              "description": "<p>El hombre lagarto realiza dos ataques: uno con su [[/item .nqm1vjgnPH9YZ908]] y otro con sus garras.</p>"
             },
             "nqm1vjgnPH9YZ908": {
               "name": "Mordisco",
@@ -4786,7 +4786,7 @@
           "items": {
             "cac4FpQc3XabBwTj": {
               "name": "Ataque múltiple",
-              "description": "<p>El [[lookup @name lowercase]] realiza dos ataques con [[/item Mace]]{Maza}.</p>"
+              "description": "<p>El [[lookup @name lowercase]] realiza dos ataques con [[/item .6gRu9IFFkvxesFfK]]{Maza}.</p>"
             },
             "9INT7D1zulhfsok7": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
@@ -4818,7 +4818,7 @@
           "items": {
             "659MOASPAyvrtzzt": {
               "name": "Ataque múltiple",
-              "description": "<p>El mezzoloth realiza dos ataques: uno con sus [[/item Claws]] y otro con su [[/item Trident]].</p>"
+              "description": "<p>El mezzoloth realiza dos ataques: uno con sus [[/item .0RWKPFUvLVLegNbn]] y otro con su [[/item .UZnvOjjxRlIM4CCO]].</p>"
             },
             "0RWKPFUvLVLegNbn": {
               "name": "Garras",
@@ -5154,7 +5154,7 @@
           "items": {
             "Dm3xuIrZeCAsP463": {
               "name": "Ataque múltiple",
-              "description": "<p>El nótico realiza dos ataques de [[/item Claw]].</p>"
+              "description": "<p>El nótico realiza dos ataques de [[/item .k9YVta2pzrik1bvb]].</p>"
             },
             "k9YVta2pzrik1bvb": {
               "name": "Garra",
@@ -5316,7 +5316,7 @@
           "items": {
             "VW6DZPtQ5vtLhyC5": {
               "name": "Ataque múltiple",
-              "description": "<p>El orco realiza dos ataques con su [[/item Greataxe]]{Hacha a dos manos} o con su lanza.</p>"
+              "description": "<p>El orco realiza dos ataques con su [[/item .PJJK4Zp9Ge5wU2MH]]{Hacha a dos manos} o con su lanza.</p>"
             },
             "PJJK4Zp9Ge5wU2MH": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
@@ -5428,7 +5428,7 @@
           "items": {
             "0WNBKfDlqFWqSlH8": {
               "name": "Ataque múltiple",
-              "description": "<p>El pentadrón realiza cinco ataques de [[/item Arm]].</p>"
+              "description": "<p>El pentadrón realiza cinco ataques de [[/item .kyV63Dxh35VP6rcl]].</p>"
             },
             "kyV63Dxh35VP6rcl": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
@@ -5560,7 +5560,7 @@
           "items": {
             "3mwnwg5CfZSoHGln": {
               "name": "Ataque múltiple",
-              "description": "<p>El hombre pterodáctilo realiza tres ataques: uno con su [[/item Bite]]{Mordisco} y dos con su [[/item Claw]]{Garra}. Como alternativa, realiza dos ataques cuerpo a cuerpo con su [[/item Javelin]]{Jabalina}.</p>"
+              "description": "<p>El hombre pterodáctilo realiza tres ataques: uno con su [[/item .QDQBbBT7nyF7YlrK]]{Mordisco} y dos con su [[/item .fdGmUEvvEoZZZdrI]]{Garra}. Como alternativa, realiza dos ataques cuerpo a cuerpo con su [[/item .gZk9QQKXfzbn0OFf]]{Jabalina}.</p>"
             },
             "QDQBbBT7nyF7YlrK": {
               "name": "Mordisco",
@@ -5611,7 +5611,7 @@
           "items": {
             "I9SZNBVyqboeqKfd": {
               "name": "Ataque múltiple",
-              "description": "<p>El cuadrón realiza dos ataques de [[/item Fist]] o cuatro ataques con su arco corto.</p>"
+              "description": "<p>El cuadrón realiza dos ataques de [[/item .wPl3UrmNGlQuSROC]] o cuatro ataques con su arco corto.</p>"
             },
             "wPl3UrmNGlQuSROC": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
@@ -5644,7 +5644,7 @@
             },
             "0QlyIkNth7ikJ1PU": {
               "name": "Ataque en Picado",
-              "description": "<p>Si el quetzalcoatlus está volando, desciende en picado al menos 30 pies hacia un objetivo y después le impacta con un ataque de [[/item Bite]]{Mordisco}, el ataque inflige [[/damage average]] de daño adicional al objetivo.</p>"
+              "description": "<p>Si el quetzalcoatlus está volando, desciende en picado al menos 30 pies hacia un objetivo y después le impacta con un ataque de [[/item .W0Se5l95XY1RNHhK]]{Mordisco}, el ataque inflige [[/damage average]] de daño adicional al objetivo.</p>"
             },
             "IqrR9F0gyDt3CTzu": {
               "name": "Pasar Volando",
@@ -6223,7 +6223,7 @@
           "items": {
             "NMpuy2oWYJc2zgpJ": {
               "name": "Ataque múltiple",
-              "description": "<p>El diablo realiza dos ataques: uno con su [[/item Bite]] y otro con su [[/item Fork]], o dos con las espinas de su cola.</p>"
+              "description": "<p>El diablo realiza dos ataques: uno con su [[/item .genMmSqS5bPLrnqK]] y otro con su [[/item .h0l13s1EyQbGFAgp]], o dos con las espinas de su cola.</p>"
             },
             "genMmSqS5bPLrnqK": {
               "name": "Mordisco",
@@ -6463,7 +6463,7 @@
           "items": {
             "PaWJOGaEb510G1rP": {
               "name": "Ataque múltiple",
-              "description": "<p>El sucarate realiza dos ataques: uno con su [[/item Bite]]{Mordisco} y otro con sus [[/item Claws]]{Garras}.</p>"
+              "description": "<p>El sucarate realiza dos ataques: uno con su [[/item .Sc4gJ9H79lkAjQ6o]]{Mordisco} y otro con sus [[/item .iBMqyTLQ96CGnLIy]]{Garras}.</p>"
             },
             "Sc4gJ9H79lkAjQ6o": {
               "name": "Mordisco",
@@ -6699,7 +6699,7 @@
           "items": {
             "Ve5N5VcrMfqvbr1y": {
               "name": "Ataque múltiple",
-              "description": "<p>El tabaxi realiza dos ataques con sus [[/item Claws]]{Garras} o dos ataques con dardos.</p>"
+              "description": "<p>El tabaxi realiza dos ataques con sus [[/item .3bzbsjMfGo4tWRMv]]{Garras} o dos ataques con dardos.</p>"
             },
             "3bzbsjMfGo4tWRMv": {
               "name": "Garras",
@@ -6848,7 +6848,7 @@
             },
             "wklAUVakX97y0z2S": {
               "name": "Abalanzarse",
-              "description": "<p>Si el tigre se mueve al menos 20 pies en línea recta hacia una criatura y después la impacta con un ataque de garra en el mismo turno, el objetivo debe superar una tirada de salvación [[/save format=long]] o caer &amp;Reference[prone apply=false]{derribado}.</p><p>Si el objetivo está derribado, el tigre puede realizar un ataque de [[/item Bite]]{Mordisco} contra él como acción adicional.</p>",
+              "description": "<p>Si el tigre se mueve al menos 20 pies en línea recta hacia una criatura y después la impacta con un ataque de garra en el mismo turno, el objetivo debe superar una tirada de salvación [[/save format=long]] o caer &amp;Reference[prone apply=false]{derribado}.</p><p>Si el objetivo está derribado, el tigre puede realizar un ataque de [[/item .YypXtXEL61FqWYOP]]{Mordisco} contra él como acción adicional.</p>",
               "descriptionChat": "<p>Si el tigre se mueve al menos <strong>20 pies</strong> en línea recta hacia una criatura y después la impacta con un ataque de garra en el mismo turno, el objetivo debe realizar una tirada de salvación de <strong>Fuerza</strong>.</p>",
               "effects": {
                 "gtzTwxdhIthlj5QI": {
@@ -6993,7 +6993,7 @@
           "items": {
             "zAOR7fx2KnhYDaNQ": {
               "name": "Ataque múltiple",
-              "description": "<p>La palma triflor usa su [[/item Orange Blossom]]{Flor naranja}, después su [[/item Yellow Blossom]]{Flor amarilla} y por último su [[/item Red Blossom]]{Flor roja}.</p>"
+              "description": "<p>La palma triflor usa su [[/item .xe9tVtJLCkvlLAMX]]{Flor naranja}, después su [[/item .xUCfTFnWLORYrtOr]]{Flor amarilla} y por último su [[/item .9hlMb8ldXjxPgs6V]]{Flor roja}.</p>"
             },
             "xe9tVtJLCkvlLAMX": {
               "name": "Flor naranja",
@@ -7147,7 +7147,7 @@
             },
             "Fi45qe2ncVZHNq43": {
               "name": "Ataque múltiple",
-              "description": "<p>El [[lookup @name lowercase]] realiza dos ataques: uno de [[/item Bite]]{mordisco} y otro con la [[/item Tail]]{cola}. No puede realizar ambos ataques contra el mismo objetivo.</p>"
+              "description": "<p>El [[lookup @name lowercase]] realiza dos ataques: uno de [[/item .O8pEyHMhxCwROJ6O]]{mordisco} y otro con la [[/item .jw9SyNUWRzgHe37B]]{cola}. No puede realizar ambos ataques contra el mismo objetivo.</p>"
             },
             "jw9SyNUWRzgHe37B": {
               "name": "Cola",
@@ -7164,7 +7164,7 @@
           "items": {
             "dBNzrfUooVbnsFk2": {
               "name": "Ataque múltiple",
-              "description": "<p>El [[lookup @name lowercase]] realiza dos ataques: uno con su [[/item Bite]]{mordisco} y otro con su [[/item Tail]]{cola}. No puede dirigir ambos ataques contra el mismo objetivo.</p>"
+              "description": "<p>El [[lookup @name lowercase]] realiza dos ataques: uno con su [[/item .njO3bsnVk06fDLXT]]{mordisco} y otro con su [[/item .VTsUaeYtUAJkxYS9]]{cola}. No puede dirigir ambos ataques contra el mismo objetivo.</p>"
             },
             "njO3bsnVk06fDLXT": {
               "name": "Mordisco",
@@ -7308,7 +7308,7 @@
           "items": {
             "AHvA38KBR29IoD2h": {
               "name": "Ataque múltiple",
-              "description": "<p>El vegepigmeo realiza dos ataques con sus [[/item Claws]]{Garras} o dos ataques cuerpo a cuerpo con su [[/item Spear]]{Lanza}.</p>"
+              "description": "<p>El vegepigmeo realiza dos ataques con sus [[/item .nmEX5Qy9K1T6b1ac]]{Garras} o dos ataques cuerpo a cuerpo con su [[/item .BcZ9gbmndXyE8MrB]]{Lanza}.</p>"
             },
             "nmEX5Qy9K1T6b1ac": {
               "name": "Garras",
@@ -7348,7 +7348,7 @@
           "items": {
             "6ZR81cwIkXUuht4W": {
               "name": "Ataque múltiple",
-              "description": "<p>El velocirraptor realiza dos ataques: uno de [[/item Bite]]{Mordisco} y uno de [[/item Claws]]{Garras}.</p>"
+              "description": "<p>El velocirraptor realiza dos ataques: uno de [[/item .EhAr5FxHJdadNdHD]]{Mordisco} y uno de [[/item .kU0BfgtmMGWMWsmg]]{Garras}.</p>"
             },
             "EhAr5FxHJdadNdHD": {
               "name": "Mordisco",
@@ -7376,7 +7376,7 @@
             },
             "wziRdUn3HafZKJ8o": {
               "name": "Ataque múltiple",
-              "description": "<p>El [[lookup @name lowercase]] realiza dos ataques con [[/item Longsword]]{Espada larga}. Si tiene desenvainada una espada corta, también puede realizar un ataque con [[/item Shortsword]]{Espada corta}.</p>"
+              "description": "<p>El [[lookup @name lowercase]] realiza dos ataques con [[/item .WaEunPCFG0EddNTt]]{Espada larga}. Si tiene desenvainada una espada corta, también puede realizar un ataque con [[/item .cXf5q5xw30ICGxZg]]{Espada corta}.</p>"
             },
             "cXf5q5xw30ICGxZg": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
@@ -7908,7 +7908,7 @@
           "items": {
             "9CoP2sCtkP2gQ7mk": {
               "name": "Ataque múltiple",
-              "description": "<p>El guardaestirpe realiza tres ataques: uno con su [[/item Bite]]{Mordisco} y dos con sus [[/item Claws]]{Garras}.</p>"
+              "description": "<p>El guardaestirpe realiza tres ataques: uno con su [[/item .XEvJ2fsk8eUXoXXi]]{Mordisco} y dos con sus [[/item .WAPDGgAqG1sG7NUz]]{Garras}.</p>"
             },
             "XEvJ2fsk8eUXoXXi": {
               "name": "Mordisco",
@@ -7942,7 +7942,7 @@
           "items": {
             "WF5ku1NwNMJIbqAC": {
               "name": "Ataque múltiple",
-              "description": "<p>El yuan-ti realiza dos ataques a distancia o dos ataques cuerpo a cuerpo, pero solo puede usar su [[/item Bite]]{mordisco} una vez.</p>"
+              "description": "<p>El yuan-ti realiza dos ataques a distancia o dos ataques cuerpo a cuerpo, pero solo puede usar su [[/item .tFjdyG76c2K6wRsw]]{mordisco} una vez.</p>"
             },
             "tFjdyG76c2K6wRsw": {
               "name": "Mordisco",
@@ -8068,7 +8068,7 @@
             },
             "WF5ku1NwNMJIbqAC": {
               "name": "Ataque múltiple (solo en forma yuan-ti)",
-              "description": "<p>El yuan-ti realiza dos ataques de [[/item Bite]] con sus brazos de serpiente.</p>"
+              "description": "<p>El yuan-ti realiza dos ataques de [[/item .tFjdyG76c2K6wRsw]] con sus brazos de serpiente.</p>"
             }
           },
           "name": "Corrupto yuan-ti (tipo 2)",
@@ -8174,7 +8174,7 @@
           "items": {
             "U8dBwp0dMHaLpbdv": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] realiza un ataque de [[/item Constrict]]{Constreñir} y uno de [[/item Scimitar]]{Cimitarra}.</p>"
+              "description": "<p>[[lookup @name]] realiza un ataque de [[/item .w3QxAj3KzUOeTi3b]]{Constreñir} y uno de [[/item .GCxr5KFenZhbGIat]]{Cimitarra}.</p>"
             },
             "GCxr5KFenZhbGIat": {
               "name": "Cimitarra",
@@ -9094,7 +9094,7 @@
             },
             "WjPN4Vu3BzXa0VD4": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] realiza dos ataques con [[/item Shortsword]]{espada corta}.</p>"
+              "description": "<p>[[lookup @name]] realiza dos ataques con [[/item .nY7OoantCcfviGJX]]{espada corta}.</p>"
             },
             "8Ujag7LxgFvaoUAV": {
               "name": "Armadura de cuero tachonado",
@@ -9287,7 +9287,7 @@
             },
             "BFtFTJ51chV7I2LH": {
               "name": "Rayo Ocular",
-              "description": "<p>El contemplador utiliza un [[/item Eye Ray]]{Rayo Ocular} al azar.</p>",
+              "description": "<p>El contemplador utiliza un [[/item .BFtFTJ51chV7I2LH]]{Rayo Ocular} al azar.</p>",
               "activities": {
                 "sfG3F0EhMeBqglOl": {
                   "name": "Gastar un uso"
@@ -9320,7 +9320,7 @@
           "items": {
             "cac4FpQc3XabBwTj": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] realiza dos ataques con [[/item Mace]]{maza}.</p>"
+              "description": "<p>[[lookup @name]] realiza dos ataques con [[/item .6gRu9IFFkvxesFfK]]{maza}.</p>"
             },
             "9INT7D1zulhfsok7": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
@@ -9524,7 +9524,7 @@
           "items": {
             "yHcg8lKwKcmNQrB3": {
               "name": "Ataque múltiple",
-              "description": "<p>El renacido realiza dos ataques de [[/item Fist]].</p>"
+              "description": "<p>El renacido realiza dos ataques de [[/item .pVg8u4coAFf7tnmq]].</p>"
             },
             "pVg8u4coAFf7tnmq": {
               "name": "Puñetazo",
@@ -9602,7 +9602,7 @@
           "items": {
             "kXMmoixY0s8ZPtJ2": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] realiza dos ataques con [[/item Greataxe]]{hacha a dos manos}.</p>"
+              "description": "<p>[[lookup @name]] realiza dos ataques con [[/item .ojpZM75xfVVkYIIL]]{hacha a dos manos}.</p>"
             },
             "ojpZM75xfVVkYIIL": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
@@ -9913,7 +9913,7 @@
             },
             "wziRdUn3HafZKJ8o": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] realiza dos ataques con [[/item Longsword]]{espada larga}. Si tiene desenvainada una espada corta, también puede realizar un ataque con [[/item Shortsword]]{espada corta}.</p>"
+              "description": "<p>[[lookup @name]] realiza dos ataques con [[/item .WaEunPCFG0EddNTt]]{espada larga}. Si tiene desenvainada una espada corta, también puede realizar un ataque con [[/item .cXf5q5xw30ICGxZg]]{espada corta}.</p>"
             },
             "cXf5q5xw30ICGxZg": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
@@ -9940,7 +9940,7 @@
           "items": {
             "U8dBwp0dMHaLpbdv": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] realiza un ataque de [[/item Constrict]]{Constreñir} y uno de [[/item Scimitar]]{Cimitarra}.</p>"
+              "description": "<p>[[lookup @name]] realiza un ataque de [[/item .w3QxAj3KzUOeTi3b]]{Constreñir} y uno de [[/item .GCxr5KFenZhbGIat]]{Cimitarra}.</p>"
             },
             "GCxr5KFenZhbGIat": {
               "name": "Cimitarra",
@@ -10144,7 +10144,7 @@
             },
             "wziRdUn3HafZKJ8o": {
               "name": "Ataque múltiple",
-              "description": "<p>El [[lookup @name lowercase]] realiza dos ataques con [[/item Longsword]]{Espada larga}. Si tiene desenvainada una espada corta, también puede realizar un ataque con [[/item Shortsword]]{Espada corta}.</p>"
+              "description": "<p>El [[lookup @name lowercase]] realiza dos ataques con [[/item .WaEunPCFG0EddNTt]]{Espada larga}. Si tiene desenvainada una espada corta, también puede realizar un ataque con [[/item .cXf5q5xw30ICGxZg]]{Espada corta}.</p>"
             },
             "cXf5q5xw30ICGxZg": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
@@ -10173,7 +10173,7 @@
           "items": {
             "46b7R0DbKIsxvWcv": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] realiza dos ataques con [[/item Greatsword]]{espadón}.</p>"
+              "description": "<p>[[lookup @name]] realiza dos ataques con [[/item .iPLa96izrYFiVtaO]]{espadón}.</p>"
             },
             "iPLa96izrYFiVtaO": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
@@ -10494,7 +10494,7 @@
           "items": {
             "U2cJTNIOODxmQTsB": {
               "name": "Ataque múltiple",
-              "description": "<p>La dao realiza dos ataques con su [[/item Fist]] o dos ataques con su maza a dos manos.</p>"
+              "description": "<p>La dao realiza dos ataques con su [[/item .ZfITWG2alUeJAcoU]] o dos ataques con su maza a dos manos.</p>"
             },
             "ZfITWG2alUeJAcoU": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
@@ -10756,7 +10756,7 @@
           "items": {
             "NAmhPf8w89iV8CsY": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] realiza dos ataques con [[/item Shortsword]]{espada corta}.</p>"
+              "description": "<p>[[lookup @name]] realiza dos ataques con [[/item .BhYnUUBoU3ESkl1B]]{espada corta}.</p>"
             },
             "BhYnUUBoU3ESkl1B": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
@@ -10862,7 +10862,7 @@
           "items": {
             "cac4FpQc3XabBwTj": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] realiza dos ataques con [[/item Mace]]{maza}.</p>"
+              "description": "<p>[[lookup @name]] realiza dos ataques con [[/item .6gRu9IFFkvxesFfK]]{maza}.</p>"
             },
             "9INT7D1zulhfsok7": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
@@ -10938,7 +10938,7 @@
           "items": {
             "NAmhPf8w89iV8CsY": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] realiza dos ataques con [[/item Shortsword]]{espada corta}.</p>"
+              "description": "<p>[[lookup @name]] realiza dos ataques con [[/item .BhYnUUBoU3ESkl1B]]{espada corta}.</p>"
             },
             "BhYnUUBoU3ESkl1B": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
@@ -11007,7 +11007,7 @@
           "items": {
             "YO57HtdvpuGxJANB": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] realiza dos ataques con [[/item Shortsword]]{espada corta} o dos ataques con [[/item Longbow]]{arco largo}.</p>"
+              "description": "<p>[[lookup @name]] realiza dos ataques con [[/item .YDoOa6D6QDoR2Htu]]{espada corta} o dos ataques con [[/item .E2fYrhLigMeVH09l]]{arco largo}.</p>"
             },
             "YDoOa6D6QDoR2Htu": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
@@ -11037,7 +11037,7 @@
           "items": {
             "oqPGb8nUk9PzOgZl": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] realiza dos ataques de [[/item Claw]].</p>"
+              "description": "<p>[[lookup @name]] realiza dos ataques de [[/item .lTrQZMOVP7JQn0EB]].</p>"
             },
             "lTrQZMOVP7JQn0EB": {
               "name": "Garra",
@@ -11075,7 +11075,7 @@
           "items": {
             "oqPGb8nUk9PzOgZl": {
               "name": "Ataque múltiple",
-              "description": "<p>El espantapájaros realiza dos ataques de [[/item Claw]].</p>"
+              "description": "<p>El espantapájaros realiza dos ataques de [[/item .lTrQZMOVP7JQn0EB]].</p>"
             },
             "lTrQZMOVP7JQn0EB": {
               "name": "Garra",
@@ -11224,7 +11224,7 @@
           "items": {
             "WF5ku1NwNMJIbqAC": {
               "name": "Ataque múltiple",
-              "description": "<p>El yuan-ti realiza dos ataques a distancia o dos ataques cuerpo a cuerpo, pero solo puede usar su [[/item Bite]]{mordisco} una vez.</p>"
+              "description": "<p>El yuan-ti realiza dos ataques a distancia o dos ataques cuerpo a cuerpo, pero solo puede usar su [[/item .tFjdyG76c2K6wRsw]]{mordisco} una vez.</p>"
             },
             "tFjdyG76c2K6wRsw": {
               "name": "Mordisco",
@@ -11387,7 +11387,7 @@
             },
             "i8L43E9D4ilYX7Ap": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] usa [[/item Fire Ray]] dos veces.</p>"
+              "description": "<p>[[lookup @name]] usa [[/item .3o58Ue3hTx2IXhPA]] dos veces.</p>"
             },
             "Jm3y7Ehgz9yXoHjx": {
               "name": "Escudo",
@@ -11513,7 +11513,7 @@
             },
             "wziRdUn3HafZKJ8o": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] realiza dos ataques con [[/item Longsword]]{espada larga}. Si tiene desenvainada una espada corta, también puede realizar un ataque con [[/item Shortsword]]{espada corta}.</p>"
+              "description": "<p>[[lookup @name]] realiza dos ataques con [[/item .WaEunPCFG0EddNTt]]{espada larga}. Si tiene desenvainada una espada corta, también puede realizar un ataque con [[/item .cXf5q5xw30ICGxZg]]{espada corta}.</p>"
             },
             "cXf5q5xw30ICGxZg": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
@@ -11573,7 +11573,7 @@
           "items": {
             "NAmhPf8w89iV8CsY": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] realiza dos ataques con [[/item Shortsword]]{espada corta}.</p>"
+              "description": "<p>[[lookup @name]] realiza dos ataques con [[/item .BhYnUUBoU3ESkl1B]]{espada corta}.</p>"
             },
             "93TfWPoMzBoaneMx": {
               "name": "Acción Astuta",
@@ -11769,7 +11769,7 @@
             },
             "wziRdUn3HafZKJ8o": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] realiza dos ataques con [[/item Longsword]]{espada larga}. Si tiene desenvainada una espada corta, también puede realizar un ataque con [[/item Shortsword]]{espada corta}.</p>"
+              "description": "<p>[[lookup @name]] realiza dos ataques con [[/item .WaEunPCFG0EddNTt]]{espada larga}. Si tiene desenvainada una espada corta, también puede realizar un ataque con [[/item .cXf5q5xw30ICGxZg]]{espada corta}.</p>"
             },
             "cXf5q5xw30ICGxZg": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
@@ -11795,7 +11795,7 @@
           "items": {
             "fpHrowec7ozMBINF": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] realiza dos ataques con su [[/item Scimitar]]{cimitarra}. El segundo ataque tiene desventaja.</p>"
+              "description": "<p>[[lookup @name]] realiza dos ataques con su [[/item .XtVyHLC1NvcyKnih]]{cimitarra}. El segundo ataque tiene desventaja.</p>"
             },
             "sSs3hSzkKBMNBgTs": {
               "name": "Escudo",
@@ -11831,7 +11831,7 @@
           "items": {
             "YO57HtdvpuGxJANB": {
               "name": "Ataque múltiple",
-              "description": "<p>El batidor realiza dos ataques con [[/item Shortsword]]{espada corta} o dos ataques con [[/item Longbow]]{arco largo}.</p>"
+              "description": "<p>El batidor realiza dos ataques con [[/item .YDoOa6D6QDoR2Htu]]{espada corta} o dos ataques con [[/item .E2fYrhLigMeVH09l]]{arco largo}.</p>"
             },
             "YDoOa6D6QDoR2Htu": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
@@ -11901,7 +11901,7 @@
             },
             "WqlkFpT9eHv4UlqR": {
               "name": "Ataque múltiple",
-              "description": "<p>Ras Nsi realiza tres ataques con su [[/item .8g61mlQi0jpN5Lnh]]{Espada larga}, pero solo puede usar [[/item Constrict]]{Constreñir} una vez.</p>"
+              "description": "<p>Ras Nsi realiza tres ataques con su [[/item .8g61mlQi0jpN5Lnh]]{Espada larga}, pero solo puede usar [[/item .qdbQR714M3hd1FuI]]{Constreñir} una vez.</p>"
             },
             "vPyUY9zNQgVj2MK3": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
@@ -12148,7 +12148,7 @@
           "items": {
             "NAmhPf8w89iV8CsY": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] realiza dos ataques con [[/item Shortsword]]{espada corta}.</p>"
+              "description": "<p>[[lookup @name]] realiza dos ataques con [[/item .BhYnUUBoU3ESkl1B]]{espada corta}.</p>"
             },
             "BhYnUUBoU3ESkl1B": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
@@ -12380,7 +12380,7 @@
             },
             "wziRdUn3HafZKJ8o": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] realiza dos ataques con [[/item Longsword]]{espada larga}. Si tiene desenvainada una espada corta, también puede realizar un ataque con [[/item Shortsword]]{espada corta}.</p>"
+              "description": "<p>[[lookup @name]] realiza dos ataques con [[/item .WaEunPCFG0EddNTt]]{espada larga}. Si tiene desenvainada una espada corta, también puede realizar un ataque con [[/item .cXf5q5xw30ICGxZg]]{espada corta}.</p>"
             },
             "cXf5q5xw30ICGxZg": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
@@ -12960,7 +12960,7 @@
             },
             "uwDyoGhbCR8NoRmc": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] realiza tres ataques: uno de [[/item Bite]]{mordisco} y dos de [[/item Claw]]{garra}.</p>"
+              "description": "<p>[[lookup @name]] realiza tres ataques: uno de [[/item .KuuOPjJ1YeTtjGbN]]{mordisco} y dos de [[/item .3UHmbpT3v3FTlplI]]{garra}.</p>"
             },
             "nWjLJm6ErLvCUvun": {
               "name": "Aliento de fuego",
@@ -13254,7 +13254,7 @@
             },
             "obsyvTtvkwhIrV3h": {
               "name": "Ilusión Mágica",
-              "description": "<p>Como acción adicional, Valindra puede ocultar su carne apergaminada y parecer una elfa viva. Esta ilusión mágica dura hasta que la termine como acción adicional o use su acción legendaria [[/item Frightening Gaze]]{Mirada aterradora}.</p><p>El efecto también termina si sus puntos de golpe se reducen a 30 o menos, o si se lanza <em>@UUID[Compendium.dnd5e.spells.Item.15Fa6q1nH27XfbR8]{disipar magia}</em> sobre ella.</p>"
+              "description": "<p>Como acción adicional, Valindra puede ocultar su carne apergaminada y parecer una elfa viva. Esta ilusión mágica dura hasta que la termine como acción adicional o use su acción legendaria [[/item .Uox2GEp5GMXOOXOc]]{Mirada aterradora}.</p><p>El efecto también termina si sus puntos de golpe se reducen a 30 o menos, o si se lanza <em>@UUID[Compendium.dnd5e.spells.Item.15Fa6q1nH27XfbR8]{disipar magia}</em> sobre ella.</p>"
             },
             "Ld1xR99LgRMHD2sj": {
               "name": "Pergamino de conjuro: Portal arcano",
@@ -13529,7 +13529,7 @@
                   "name": "Usar"
                 }
               },
-              "description": "<p>[[lookup @name]] realiza dos ataques con [[/item Longsword]]{espada larga}. Puede usar [[/item .IdmPJWpvV1RIsDDI]]{Consumir vida} en lugar de uno de los ataques con espada larga.</p>"
+              "description": "<p>[[lookup @name]] realiza dos ataques con [[/item .YdpVuzH77GiF7QyK]]{espada larga}. Puede usar [[/item .IdmPJWpvV1RIsDDI]]{Consumir vida} en lugar de uno de los ataques con espada larga.</p>"
             },
             "YdpVuzH77GiF7QyK": {
               "name": "Espada larga",
@@ -13637,7 +13637,7 @@
           "items": {
             "YO57HtdvpuGxJANB": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] realiza dos ataques con [[/item Shortsword]]{espada corta} o dos ataques con [[/item Longbow]]{arco largo}.</p>"
+              "description": "<p>[[lookup @name]] realiza dos ataques con [[/item .YDoOa6D6QDoR2Htu]]{espada corta} o dos ataques con [[/item .E2fYrhLigMeVH09l]]{arco largo}.</p>"
             },
             "YDoOa6D6QDoR2Htu": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
@@ -13851,7 +13851,7 @@
           "items": {
             "WF5ku1NwNMJIbqAC": {
               "name": "Ataque múltiple",
-              "description": "<p>El yuan-ti realiza dos ataques a distancia o dos ataques cuerpo a cuerpo, pero solo puede usar su [[/item Bite]]{mordisco} una vez.</p>"
+              "description": "<p>El yuan-ti realiza dos ataques a distancia o dos ataques cuerpo a cuerpo, pero solo puede usar su [[/item .tFjdyG76c2K6wRsw]]{mordisco} una vez.</p>"
             },
             "tFjdyG76c2K6wRsw": {
               "name": "Mordisco",
@@ -14025,7 +14025,7 @@
           "items": {
             "ZQRXxpwNzfQSKAIU": {
               "name": "Ataque múltiple",
-              "description": "<p>El goblin realiza dos ataques con su [[/item Scimitar]]{Cimitarra}. El segundo ataque tiene desventaja.</p>"
+              "description": "<p>El goblin realiza dos ataques con su [[/item .JmCJ5b1QFqu91tD4]]{Cimitarra}. El segundo ataque tiene desventaja.</p>"
             },
             "sSs3hSzkKBMNBgTs": {
               "name": "Escudo",
@@ -14195,7 +14195,7 @@
           "items": {
             "bLvq7KB0QTLkHbGE": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] realiza tres ataques cuerpo a cuerpo: dos con su [[/item Scimitar]]{cimitarra} y uno con su [[/item Dagger]]{daga}. O bien realiza dos ataques a distancia con su [[/item Dagger]]{daga}.</p>"
+              "description": "<p>[[lookup @name]] realiza tres ataques cuerpo a cuerpo: dos con su [[/item Scimitar]]{cimitarra} y uno con su [[/item .p8JLK5i4HEbgq2gN]]{daga}. O bien realiza dos ataques a distancia con su [[/item .p8JLK5i4HEbgq2gN]]{daga}.</p>"
             },
             "szUhMLg8Gm8SMGIN": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
@@ -16517,9 +16517,9 @@
               "name": "Valindra Shadowmantle"
             },
             "pkiSVHCdo7w01O2k": {
-              "name": "Reina Grabstab",
+              "name": "Reina Pillapincha",
               "image": {
-                "caption": "Reina Grabstab"
+                "caption": "Reina Pillapincha"
               }
             },
             "JQ3gsiRHGPB2F4pa": {
@@ -17800,61 +17800,71 @@
               "image": {
                 "caption": "Eku"
               },
-              "name": "Ayuda 3"
+              "name": "Ayuda 3",
+              "src": "modules/translate-dnd5e-tomb-annihilation-es/assets/handouts/es/handout-03.jpg"
             },
             "4tCpwoj4A71rw6Rx": {
               "name": "Ayuda 1",
               "image": {
                 "caption": "Mapa de Chult para los jugadores"
-              }
+              },
+              "src": "modules/translate-dnd5e-tomb-annihilation-es/assets/handouts/es/handout-01.jpg"
             },
             "73pfOhi0uI8ImMlm": {
               "name": "Ayuda 2",
               "image": {
                 "caption": "Azaka Stormfang"
-              }
+              },
+              "src": "modules/translate-dnd5e-tomb-annihilation-es/assets/handouts/es/handout-02.jpg"
             },
             "HqIM8px13pWr0aLv": {
               "name": "Ayuda 4",
               "image": {
                 "caption": "Faroul y Gondolo"
-              }
+              },
+              "src": "modules/translate-dnd5e-tomb-annihilation-es/assets/handouts/es/handout-04.jpg"
             },
             "siiN4Qhpk1ARBRh3": {
               "name": "Ayuda 5",
               "image": {
                 "caption": "Hew Hackinstone"
-              }
+              },
+              "src": "modules/translate-dnd5e-tomb-annihilation-es/assets/handouts/es/handout-05.jpg"
             },
             "ciEZf8O0K3rnHhNs": {
               "name": "Ayuda 6",
               "image": {
                 "caption": "Musharib"
-              }
+              },
+              "src": "modules/translate-dnd5e-tomb-annihilation-es/assets/handouts/es/handout-06.jpg"
             },
             "c93X1nruLP5dwoYI": {
               "name": "Ayuda 7",
               "image": {
                 "caption": "Qawasha y Kupalué"
-              }
+              },
+              "src": "modules/translate-dnd5e-tomb-annihilation-es/assets/handouts/es/handout-07.jpg"
             },
             "Q2rWfVReK0dKbyPb": {
               "name": "Ayuda 8",
               "image": {
-                "caption": "Bruma de Río y Frasco de Vino"
-              }
+                "caption": "Bruma del Río y Jarro de Vino"
+              },
+              "src": "modules/translate-dnd5e-tomb-annihilation-es/assets/handouts/es/handout-08.jpg"
             },
             "RY1oSiH0powrtzd5": {
               "name": "Ayuda 9",
               "image": {
-                "caption": "Salida"
-              }
+                "caption": "Salysa"
+              },
+              "src": "modules/translate-dnd5e-tomb-annihilation-es/assets/handouts/es/handout-09.jpg"
             },
             "lpN4JMJO4H5SLTiC": {
               "name": "Ayuda 10",
               "image": {
                 "caption": "Shago"
-              }
+              },
+              "src": "modules/translate-dnd5e-tomb-annihilation-es/assets/handouts/es/handout-10.jpg"
             },
             "VlJYk10geNUAIjPX": {
               "name": "Ayuda 11",
@@ -17866,25 +17876,28 @@
               "name": "Ayuda 12",
               "image": {
                 "caption": "Mapa de Omu para los jugadores"
-              }
+              },
+              "src": "modules/translate-dnd5e-tomb-annihilation-es/assets/handouts/es/handout-12.jpg"
             },
             "SLdBpcrK8dNlXkxp": {
               "name": "Ayuda 13",
               "image": {
                 "caption": "Carta de lord Brixton"
-              }
+              },
+              "src": "modules/translate-dnd5e-tomb-annihilation-es/assets/handouts/es/handout-13.jpg"
             },
             "d9zXNG0B3ak56HpU": {
               "name": "Ayuda 14",
               "image": {
-                "caption": "Suelo del acertijo de Pjin"
+                "caption": "Suelo del acertijo de I’jin"
               }
             },
             "MbunRtLHwATJIJCr": {
               "name": "Ayuda 15",
               "image": {
                 "caption": "Acertijo de Papazotl"
-              }
+              },
+              "src": "modules/translate-dnd5e-tomb-annihilation-es/assets/handouts/es/handout-15.jpg"
             },
             "Z6CTtCYYPWHiatyx": {
               "name": "Ayuda 16",
@@ -17896,37 +17909,43 @@
               "name": "Ayuda 17",
               "image": {
                 "caption": "Primera advertencia de Acererak"
-              }
+              },
+              "src": "modules/translate-dnd5e-tomb-annihilation-es/assets/handouts/es/handout-17.jpg"
             },
             "Pr5FPZyukQ9GQa6T": {
               "name": "Ayuda 18",
               "image": {
                 "caption": "Segunda advertencia de Acererak"
-              }
+              },
+              "src": "modules/translate-dnd5e-tomb-annihilation-es/assets/handouts/es/handout-18.jpg"
             },
             "UW7u47h0ZKEnwYP0": {
               "name": "Ayuda 19",
               "image": {
                 "caption": "Tercera advertencia de Acererak"
-              }
+              },
+              "src": "modules/translate-dnd5e-tomb-annihilation-es/assets/handouts/es/handout-19.jpg"
             },
             "A8cdWYcacokPLv2D": {
               "name": "Ayuda 20",
               "image": {
                 "caption": "Cuarta advertencia de Acererak"
-              }
+              },
+              "src": "modules/translate-dnd5e-tomb-annihilation-es/assets/handouts/es/handout-20.jpg"
             },
             "sctAPcZLR40PFy6s": {
               "name": "Ayuda 21",
               "image": {
                 "caption": "Extracto del diario de Devlin"
-              }
+              },
+              "src": "modules/translate-dnd5e-tomb-annihilation-es/assets/handouts/es/handout-21.jpg"
             },
             "FMGCsWGCPeGWfqgY": {
               "name": "Ayuda 22",
               "image": {
                 "caption": "Extracto del diario de Mustio"
-              }
+              },
+              "src": "modules/translate-dnd5e-tomb-annihilation-es/assets/handouts/es/handout-22.jpg"
             },
             "R5R56vs31tZmwbWt": {
               "name": "Ayuda 23",
@@ -18044,7 +18063,7 @@
               "name": "Mapa 3.2: Nueve santuarios de Omu"
             },
             "xgaQNLgIyhRamIy4": {
-              "name": "Mapa 4.1: Templo de la Serpiente de la Noche"
+              "name": "Mapa 4.1: Fano de la Serpiente Nocturna"
             },
             "yQ0EIRd4IxCDKk55": {
               "name": "Recinto interior"
@@ -19338,7 +19357,7 @@
           "name": "Localizaciones de la ciudad"
         },
         "toaCh4FaneOfTheN": {
-          "name": "Templo de la Serpiente de la Noche",
+          "name": "Fano de la Serpiente Nocturna",
           "pages": {
             "OgSI2qSL34BA2UJm": {
               "name": "Introducción",
@@ -21881,7 +21900,7 @@
               "name": "Almiraj"
             }
           },
-          "name": "Santuario de Pjin",
+          "name": "Santuario de I’jin",
           "regions": {
             "smIyMuJhOy9fgHgf": {
               "name": "Inicio del suelo del acertijo",
@@ -21927,7 +21946,7 @@
           },
           "levels": {
             "defaultLevel0000": {
-              "name": "Santuario de Pjin"
+              "name": "Santuario de I’jin"
             }
           }
         },
@@ -21975,7 +21994,7 @@
           }
         },
         "toaCh3FaneoftheN": {
-          "name": "Templo de la Serpiente de la Noche",
+          "name": "Fano de la Serpiente Nocturna",
           "tokens": {
             "yT3urFuuJ5kkFQr1": {
               "name": "Ras Nsi"
@@ -22294,7 +22313,7 @@
           },
           "levels": {
             "defaultLevel0000": {
-              "name": "Templo de la Serpiente de la Noche"
+              "name": "Fano de la Serpiente Nocturna"
             }
           },
           "regions": {
@@ -22558,7 +22577,7 @@
               "name": "Enjambre de murciélagos"
             }
           },
-          "name": "L2: Mazmorra del Engaño",
+          "name": "L2: Mazmorra de los Engaños",
           "navigation": "Nivel 2",
           "drawings": {
             "SgD9GMohoSCJyOB2": {
@@ -22640,7 +22659,7 @@
           },
           "levels": {
             "defaultLevel0000": {
-              "name": "L2: Mazmorra del Engaño"
+              "name": "L2: Mazmorra de los Engaños"
             }
           }
         },
@@ -23724,7 +23743,7 @@
               "name": "Enjambre de murciélagos"
             }
           },
-          "name": "Nivel reflejado 2: Mazmorra del Engaño",
+          "name": "Nivel reflejado 2: Mazmorra de los Engaños",
           "navigation": "Nivel 2",
           "drawings": {
             "SgD9GMohoSCJyOB2": {
@@ -23806,7 +23825,7 @@
           },
           "levels": {
             "defaultLevel0000": {
-              "name": "Nivel reflejado 2: Mazmorra del Engaño"
+              "name": "Nivel reflejado 2: Mazmorra de los Engaños"
             }
           }
         },

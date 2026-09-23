@@ -1,0 +1,12 @@
+{
+  "date": "2026-09-23",
+  "keys": 126,
+  "sourceSha256": "21e19a82352b4cc5f5840af2dbc1f945c1b9afca957bd3d2b82ca8830f398db8",
+  "translationSha256": "07f45ec076237dffcf05df34f92efbaa1324238a7ddd2432a54640c247ece91c",
+  "status": "manual-language-review",
+  "notes": [
+    "Reviewed betting, travel, weather, import, requests, death curse and gear controls against installed English UI.",
+    "Northeast intentionally uses northeast despite the English value mistakenly saying Northwest.",
+    "This records language review; it does not certify every interactive workflow."
+  ]
+}

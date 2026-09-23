@@ -1,6 +1,7 @@
 import assert from "node:assert/strict";
 import {test} from "node:test";
 import {readFileSync, existsSync} from "node:fs";
+import {createHash} from "node:crypto";
 import {toaFolderNamesById, toaJournalPagesById, toaAdventureActorsById} from "../scripts/converters/toa-merge-by-id.js";
 
 test("Adventure actors preserve explicit proper names and embedded biography references", () => {
@@ -36,6 +37,28 @@ test("Journal translation preserves page identity, format, image and ordering", 
 });
 
 const englishUI = new URL("../../dnd-tomb-annihilation/lang/en.json",import.meta.url);
+test("Spanish handouts preserve page identity and replace only registered image pages", () => {
+  globalThis.foundry = {utils:{deepClone:structuredClone}};
+  try {
+    const manifest=JSON.parse(readFileSync(new URL('../dev-tools/translation/handout-assets.json',import.meta.url),'utf8'));
+    const adventure=JSON.parse(readFileSync(new URL('../compendium/dnd-tomb-annihilation.adventures.json',import.meta.url),'utf8'));
+    const patches=adventure.entries[manifest.adventureId].journals[manifest.journalId].pages;
+    for (const asset of manifest.assets) {
+      const original={_id:asset.pageId,type:'image',src:asset.source,sort:17,image:{caption:'English'}};
+      const result=toaJournalPagesById([original],patches)[0];
+      assert.equal(result.src,asset.translation);
+      assert.equal(result._id,original._id);
+      assert.equal(result.sort,original.sort);
+      assert.equal(original.src,asset.source);
+      const path=asset.translation.replace('modules/translate-dnd5e-tomb-annihilation-es/','../');
+      assert.equal(createHash('sha256').update(readFileSync(new URL(path,import.meta.url))).digest('hex'),asset.sha256);
+    }
+    const unmodified={_id:'untouched',type:'image',src:'original.webp'};
+    const text={_id:'text',type:'text',src:null};
+    assert.deepEqual(toaJournalPagesById([unmodified,text],{text:{src:'wrong.jpg'}}),[unmodified,text]);
+  } finally { delete globalThis.foundry; }
+});
+
 test("Spanish UI covers the official keys and preserves formatting placeholders", {skip:!existsSync(englishUI)}, () => {
   const english = JSON.parse(readFileSync(englishUI,"utf8"));
   const spanish = JSON.parse(readFileSync(new URL("../lang/es.json",import.meta.url),"utf8"));

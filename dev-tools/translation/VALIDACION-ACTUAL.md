@@ -1,6 +1,11 @@
-# Validación técnica actual
+# Validación técnica: última sesión de Foundry y cierre estático posterior
 
 Fecha: 23 de septiembre de 2026, 15:43 UTC.
+
+La sesión descrita abajo precede al cierre de objetos, metadatos, ayudas y
+enlaces. No certifica los JSON actuales. El cierre estático posterior consta
+en [CIERRE-TEXTUAL.md](CIERRE-TEXTUAL.md): 20154 campos revisados, 20158
+registros editoriales válidos y 22 pruebas automatizadas superadas.
 
 ## Comprobaciones realizadas
 
@@ -30,7 +35,8 @@ repetir esta comprobación. No publica mensajes en el chat.
   Babele no actualiza automáticamente los documentos ya importados.
 - Queda pendiente importar Adventure en un mundo limpio y probar allí las
   automatizaciones y enlaces. No sobrescribir la aventura del mundo existente.
-- La revisión editorial completa y el informe v2 final siguen pendientes.
+- La revisión textual y de ayudas se ha cerrado posteriormente. La validación
+  integral y el informe v2 final siguen pendientes.
 
 ## Repetir la comprobación
 

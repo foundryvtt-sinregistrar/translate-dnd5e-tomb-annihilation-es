@@ -47,6 +47,7 @@ def raw_path(kind, path):
 
 def main():
     report = {'checkedFields':0, 'fieldErrors':[], 'mechanicalErrors':[], 'missingDocuments':[]}
+    handouts = load(ROOT / 'dev-tools/translation/handout-assets.json')
     for source_path in DATA.glob('*.en.json'):
         source = load(source_path)
         actual = load(DATA / source_path.name.replace('.en.json','.validated.json'))
@@ -68,6 +69,12 @@ def main():
                 if (result.strip() if isinstance(result,str) else result) != (expected.strip() if isinstance(expected,str) else expected):
                     report['fieldErrors'].append([source['collection'],id,list(path)])
             leaves = dict(indexed_leaves(raw_lookup[id]))
+            if source['documentType'] == 'Adventure' and id == handouts['adventureId']:
+                for asset in handouts['assets']:
+                    path = ('journal', handouts['journalId'], 'pages', asset['pageId'], 'src')
+                    allowed.add(path)
+                    if leaves.get(path) != asset['translation']:
+                        report['fieldErrors'].append([source['collection'], id, list(path)])
             for path, value in indexed_leaves(doc):
                 if path in allowed: continue
                 if leaves.get(path) != value:
