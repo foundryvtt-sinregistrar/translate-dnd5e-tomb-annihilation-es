@@ -2828,6 +2828,22 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   comprobación de Adventure detecta 306 campos adicionales pendientes,
   principalmente nombres de grupos y encuentros, además de fichas exclusivas.
 
+### final-adventure-actors — Actores exclusivos y campos adicionales de Adventure
+
+- Revisados los 306 campos restantes de 145 documentos de actor: nombres
+  de grupos y encuentros, aarakocra, Almero y puntales, tentáculos, objetos
+  representados como actores y campos adicionales de Syndra y Valindra.
+- Corregidas traducciones automáticas erróneas, nombres de criaturas sin
+  traducir y diferencias entre el nombre del encuentro y el de su ficha.
+  Los nombres de los armarios y las Hermanas Cosidas se contrastaron con
+  las páginas extraídas 170, 171 y 181 del PDF español.
+- Revisados Ataque en Picado, los tentáculos del Almero, el efecto de la
+  maldición de muerte y el pergamino de Portal arcano contra el exportado inglés.
+- Cobertura comprobada: 7389 de 7389 campos de los 332 actores del compendio
+  y 7695 de 7695 campos de los 475 actores de Adventure. No quedan campos
+  editoriales de actor pendientes según el esquema de extracción actual.
+  Esta cobertura no certifica las automatizaciones ni los enlaces durante el juego.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2837,26 +2853,28 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
   de Foundry, tres de créditos y cuatro de historial.
   No equivale a 931 páginas del PDF.
-- 17499 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 17499 campos distintos.
+- 17805 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 17805 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento cuarenta y dos biografías en ambas copias de actores: siete
   príncipes, ciento veintisiete criaturas o PNJ vinculados al apéndice D y ocho perfiles
-  adicionales. Siguen pendientes las demás
-  biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
-  diarios complementarios y apéndices todavía no cerrados.
+  adicionales. Cerrada también la revisión de los campos de todos los perfiles
+  de actor del compendio y Adventure, incluidos sus objetos incorporados.
+  Siguen pendientes los objetos independientes, ayudas, escenas, interfaz
+  y la comprobación transversal de nombres y terminología.
 - Auditorías estáticas y editorial sin errores. No se han renovado las
   instantáneas de Babele ni realizado una importación completa de Adventure.
-- **La revisión del módulo continúa incompleta.** Siguen los documentos
-  enlazados o insertados pendientes, diarios complementarios y apéndices.
+- **La revisión del módulo continúa incompleta.** El cierre de los actores
+  y del texto de los diarios no acredita los demás documentos enlazados,
+  las imágenes ni el funcionamiento de la aventura importada.
 - El informe v2 final solicitado queda pendiente hasta cerrar toda la revisión;
   este estado de avance no acredita una revisión completa ni la sustituye.
 
 ## Trabajo que sigue pendiente
 
-- Revisar editorialmente el borrador contra el PDF, por capítulos y apéndices.
-  La generación automática contiene expresiones poco naturales y puede cometer
-  errores de sentido que las comprobaciones técnicas no detectan.
+- Revisar editorialmente los objetos independientes, ayudas, escenas e interfaz.
+  La generación automática todavía puede contener errores de sentido que
+  las comprobaciones técnicas no detectan.
 - Revisar nombres, terminología en contexto y etiquetas dentro de imágenes.
 - Validar una importación completa de Adventure en un mundo limpio y comprobar
   las automatizaciones durante el juego. No sobrescribir el mundo existente.

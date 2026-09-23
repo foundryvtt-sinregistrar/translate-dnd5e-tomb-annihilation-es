@@ -165537,6 +165537,2460 @@
           "note": "Keshma reviewed against English export, including feminine agreement, earth movement and conjuration spells. Source duplicate stone shape link and maul check retained for functional review."
         }
       ]
+    },
+    {
+      "id": "final-adventure-actors",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaParty00000000.name",
+          "sourceSha256": "dfa82f21b3f3709c94f525d2d63cb6b2955e5a5d2430757cbedfa230f116b2ed",
+          "translationSha256": "e0a9e41564a339db93a2daffd3b8a98e4b315ee61929b944d121e7be40d4437a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaParty00000000.tokenName",
+          "sourceSha256": "dfa82f21b3f3709c94f525d2d63cb6b2955e5a5d2430757cbedfa230f116b2ed",
+          "translationSha256": "e0a9e41564a339db93a2daffd3b8a98e4b315ee61929b944d121e7be40d4437a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh1EncGladiat.name",
+          "sourceSha256": "5ddbe8d7f07eda3b47f43f0dee0cf820362f5ea2260a73de9be49277d0769000",
+          "translationSha256": "ea94fc031efea052c8950ee3b52b7a3acfc6b189bb20b7d2f5577de6db8475d8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh1EncGladiat.tokenName",
+          "sourceSha256": "5ddbe8d7f07eda3b47f43f0dee0cf820362f5ea2260a73de9be49277d0769000",
+          "translationSha256": "ea94fc031efea052c8950ee3b52b7a3acfc6b189bb20b7d2f5577de6db8475d8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2AssassinVi.name",
+          "sourceSha256": "59e657e1755135a935161c801f98b4c26f54014b5113c55ed18013438d3162e4",
+          "translationSha256": "1de282545276ccaeb70e5054d46c4d9225e9d0985acb7914fa508d79fd499f6a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2AssassinVi.tokenName",
+          "sourceSha256": "fb9e051188846561150850331a849e91cb9a6ae94feedd5dbce756214a04b826",
+          "translationSha256": "c6c3136c300274e8e1d89f35a3dc23516de0ca05536bb0a074c3c4d98211226d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2EncBaboons.name",
+          "sourceSha256": "390fd31846a74a6aaefceebbab659b1ae58232da9a1f9fa7e25e76e40aca0224",
+          "translationSha256": "0912bfe770e14ba8299c11c5afd58cc6f2f15b1cb747c3382fcb923d75149cd9",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2EncBaboons.tokenName",
+          "sourceSha256": "a208200f7b386253030cf03b41988f1d673678164599aa2b5cb53d3a634644b3",
+          "translationSha256": "4c742832ca0c45d31708874f1b8a17da7f13f7ee0c6bb8f68de7b823bc99585e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaBeastsCampRig.name",
+          "sourceSha256": "d92d97853e56b7a8fbaff970629fd31c9e71b196987fe405846a9e8b73127da2",
+          "translationSha256": "31a0f643a0ba01846ad4003e02a3d04caa9fdaec3739e7d320025a4c6bf5a773",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaBeastsCampRig.tokenName",
+          "sourceSha256": "643d3c17a648d6f4b7f8a3ba8230eb3650a4cac43992eda416cafc7b27e621d6",
+          "translationSha256": "05858f048536cbf6b576aae69793b1e07b8b43aa4a86bd4f38d0c7c7c2d33cb5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2EncDetachm.name",
+          "sourceSha256": "60fcab0c0a35042c44e1215fd76b4ddb70abc5dc40259b0ee1ac9873e1d53598",
+          "translationSha256": "e4de61ae7505a3a4a29c940c16b68cc3a039a1e759342b07d05642f3c5d9e445",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2EncDetachm.tokenName",
+          "sourceSha256": "43b6321a5db0d00a2e433e74f7f88e04d38fe2e0ddc889a9b9dfd9d724711303",
+          "translationSha256": "a51bda1dd5eba908d3b394f9633d267ce0c70574941477c00a2ad58213e1b890",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaDrufisSearchP.name",
+          "sourceSha256": "ec529f31cec1b72b1208b4429d38c6cbcfb5e311930af96e0f735aa70632f076",
+          "translationSha256": "ae51d7078e3bad8b2816d4aaae8c7357bd79054131a21e79c248711abbb1920c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaDrufisSearchP.tokenName",
+          "sourceSha256": "75fe2515de5f080ad0be9535538ebed8a97c9e11040ea6dbe5a42da2606fb944",
+          "translationSha256": "38298a36c59887559ec31404a00599a0c5ac009b91c62e2397f5f60a1d7cedd9",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2ElderPtera.name",
+          "sourceSha256": "e210aae5a9a089f9cc2941812b18711ce74c0f93ddb0912920e16ee4a1d4f4e2",
+          "translationSha256": "bf3ec7c32bf8152d5f2822f15d9b2a84d71d919692993097049b2bb773155101",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2ElderPtera.tokenName",
+          "sourceSha256": "b5957aa4901e0547b4452a97a6135a9aee39169e20787f51416b5760a7c0acd5",
+          "translationSha256": "a4b89ecb61261475ef3bd928fa11d90756fb72ce9844908769138b86c3810c34",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaFightingForce.name",
+          "sourceSha256": "8705d6da5f9b43c0ae497b062183b55961dc937abe0e9a632db16716b3b7fa9e",
+          "translationSha256": "46783cdd86ffa28eecdad5980fdc318d1d0201d3e4d63bf57de97b24783d2ad2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaFightingForce.tokenName",
+          "sourceSha256": "1b67084609e6773e1f32011aec30999df25202214b0b4261eb7c50f2d0c3e24b",
+          "translationSha256": "9ec41c0b35f95d5dacead6628ce97ec4cce96efd7a74dca5a435e8366bd11085",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2EncStrider.name",
+          "sourceSha256": "0f9a4f66c2e529ee09000e47951ec7e99930007bca97d5e95a3522dcdde10643",
+          "translationSha256": "45d3e12e994942eddf5a744aba9abc101d5aa4158ff549553fb51b9d2e56713b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2EncStrider.tokenName",
+          "sourceSha256": "bd36b95eb64b1ae21af18502ab7d2e082c3fdb36255032a03f2cb93b0b211ec6",
+          "translationSha256": "ea77c1918f7bac294310293cfbc6edaa1f13351090cda908ad1ceb6b125ec2df",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaFirenewtWarri.name",
+          "sourceSha256": "e18a5a58724c297c3383ce7f9bc68314870e5399355c0916ededc89084f22f96",
+          "translationSha256": "d4ff96b57b37b5f10defe1fdf0475571cb2ecab99d034b9e523b4d091530f681",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaFirenewtWarri.tokenName",
+          "sourceSha256": "e35bc634c2fc142accc95bc9719a982ddd1ec0d073b642d16782b4785b0e15f8",
+          "translationSha256": "265f1afcfce61123ffb07fcac538f2e53b239569cf5dc6344e5723049f7a8a8c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2FlyingSwor.name",
+          "sourceSha256": "f24a9ba5d62ffaa986ee3e831700363c6d9f17b7545c7246492b9cb342dd90df",
+          "translationSha256": "59de9f01011866b40e8b856688b921fdb52ed48609658d4b000890610846e347",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2FlyingSwor.tokenName",
+          "sourceSha256": "73e093699a21516217dd95b641901f595d4c9b03cb57eb37f439a850b1b7c7ec",
+          "translationSha256": "678763348d317d927b2a94ac52986eb34663d395c350e707eac4e1351edfadad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2GhoulsDung.name",
+          "sourceSha256": "7ea04031c3d86c6b1687e44ddb4097e53571b769f59051a68cfbe80942bb4e6c",
+          "translationSha256": "e2da95fe4bc0d852c89cf3f432d54f434d66ac2eee07c5748e21a7b806888bcd",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2GhoulsDung.tokenName",
+          "sourceSha256": "dac39afab72c930b363983f6cfb6741f1fd1e293d7e4c76cfb870687fae86022",
+          "translationSha256": "a3773063d5b42786959d63e7253a4808e3aad94155a698bb5c8c730eab572f40",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2GhoulsStar.name",
+          "sourceSha256": "523bc6c3a3377e1d6f0dca270f29d0dc4ed6f3855fced35175dbd3a3459168ee",
+          "translationSha256": "fb53c928cda6e36fec6e72ad92a830a664e54406df37593d8e5fd466cb1f47bf",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2GhoulsStar.tokenName",
+          "sourceSha256": "dac39afab72c930b363983f6cfb6741f1fd1e293d7e4c76cfb870687fae86022",
+          "translationSha256": "a3773063d5b42786959d63e7253a4808e3aad94155a698bb5c8c730eab572f40",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGiantStriders.name",
+          "sourceSha256": "f490310e9b04bf3bcb5af88b79ea737517deedfce509a84e5799d106c18041af",
+          "translationSha256": "7a46aefe3309ea12bf6344af336d9c0b65251842011d4bf6ee701f84ad1692d8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGiantStriders.tokenName",
+          "sourceSha256": "c695e921bef747682aa03858340f231e7856b3af3eef06fb5717fa409158f715",
+          "translationSha256": "1a141f87c7c886754569f9d02feef623fe6538db4e5e5fe9c7ced5ed6ecb72e0",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGoblinsCampRi.name",
+          "sourceSha256": "c039b88ca4df365f9fef7534875ed19bcab35935615ce149b4a01e4da53bc51f",
+          "translationSha256": "b868de1f944157ba8e9f40eadaf1f90c3acbe02c9c1c9d22a8e941230b138ec1",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGoblinsCampRi.tokenName",
+          "sourceSha256": "198474c00db41929359467c6101ab99ebb0d90456622629b42df9fadaf904fc6",
+          "translationSha256": "198474c00db41929359467c6101ab99ebb0d90456622629b42df9fadaf904fc6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2EncGrungWa.name",
+          "sourceSha256": "0e77e165148c6426dfb3a501608858bd2584fed586bccc359fbbd9a9ed21bd77",
+          "translationSha256": "75783ef726af358e16e277f2f2eeab38bb3e5639177ca8ec42a7de6a9114eaa4",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2EncGrungWa.tokenName",
+          "sourceSha256": "26787601f7deb1bf030ef861bba3640642bc480f5b885894f68906a6de44e69f",
+          "translationSha256": "d070716d1d0ffe9781bc737b8e79b0b58fc31f48125565d48f80c68fb3645461",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaUndeadGuardia.name",
+          "sourceSha256": "68f025b2311326cb787db548152a1a6d7a97f43e6935e2f388fb956bccd9df58",
+          "translationSha256": "524bc9288d316985f4a9547a89ddbe617711da322bc06a75f88c6f3e51766e43",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaUndeadGuardia.tokenName",
+          "sourceSha256": "984cc6e2f4d9f7d59079b2b8c8d986d38ebbf4b779e7c3b55e8f3cfd966cf6be",
+          "translationSha256": "6fe5cbda52c2152eec09581edef3cef8cd6922361ea7c46024c7c92c7293bd94",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2EncGrungEl.name",
+          "sourceSha256": "d26c8bdc11b8a6ec080fa5358eba66558af7199adbdc6a2295fdc9b94b4f279e",
+          "translationSha256": "c32388827bcd79753528a4963da76305e26197c66c8c46b64ef5d4b0af87b2a6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2EncGrungEl.tokenName",
+          "sourceSha256": "1b63d8ef7b0982c819966a6c7a50bdde3469d518318c33c2b412e21069e13a4c",
+          "translationSha256": "3f1d102c74d289a2fa9bf6dd307678f435c779cac679dd0783ef3614bd8d59db",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2GrungsDung.name",
+          "sourceSha256": "8c882ca5651afc914fcf067c3695340f0b985c64540dd586534bd90ee3915df3",
+          "translationSha256": "8c882ca5651afc914fcf067c3695340f0b985c64540dd586534bd90ee3915df3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2GrungsDung.tokenName",
+          "sourceSha256": "15bfa40d4a86df65e813bf812f16562f9b10c2c6b00fe8f01c3977fb9f52fe4e",
+          "translationSha256": "5f847ceb5831cd655ba697c8c08d52b4fafec7a9bb075c4d03366e29c10bfa59",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2KoboldsWyr.name",
+          "sourceSha256": "927f703a5b9a8df1bb212899759aa19f2faa7e126d33454b8f40dd2d371c4ec5",
+          "translationSha256": "4ab57dd3b12c5b42f2370ad394ebe6ebf5ef67035bed0baf886510a4d4aaf01e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2KoboldsWyr.tokenName",
+          "sourceSha256": "1715ac29747d972c1211e43bbc39cac37360c5a039634d43712952aa51e4d809",
+          "translationSha256": "1252d494b46228185aa459f741c74ea192af8d71d67d3c129e41f0b143442fab",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2PterafolkF.name",
+          "sourceSha256": "b74b041ae17049f01218b975c64aa836f19b3f99e472ad4411faf73b000eee6f",
+          "translationSha256": "c12890ac4f39877c0f751b8a8d694be7d4223b90aeba3821ab3bc4293a69dd1b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2PterafolkF.tokenName",
+          "sourceSha256": "b8b3561c0afcdfd5f94596ac3e1c8ecfd46198a1ab8f2bbf14a1a411ef48c95e",
+          "translationSha256": "94dc38cdf183f128474d2a48e36614bac51b50eead480b71a698d8a44a12f451",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2PterafolkM.name",
+          "sourceSha256": "66437fe77307d04035183e77a05a743de62ec7394260c6af3bdf5588b40c558e",
+          "translationSha256": "23b2b5c119ab416b16b3603e5b73de67919a39d48a113563377a8d2375169ca4",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2PterafolkM.tokenName",
+          "sourceSha256": "b8b3561c0afcdfd5f94596ac3e1c8ecfd46198a1ab8f2bbf14a1a411ef48c95e",
+          "translationSha256": "94dc38cdf183f128474d2a48e36614bac51b50eead480b71a698d8a44a12f451",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2EncQuipper.name",
+          "sourceSha256": "bdef9f88af0e249b09d07ed7db6e5d1c386cb894fd659c639465537c5ae3c184",
+          "translationSha256": "63bf1c12f25ed6d3788383710771e0657d4479941f1da338e7e02ddc08e494ea",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2EncQuipper.tokenName",
+          "sourceSha256": "565f96931e5a5819cdcd78a1a9f8409887971b4551c657ddd590f2f1a83f6b7c",
+          "translationSha256": "e280631d1fe0c243667380e01bcd70b48df252e9028c5770be56bd145fed50da",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2ReefSharks.name",
+          "sourceSha256": "27af08fc2303a450c1c08e86524f84d7f95ae2324abd0201da363da489e27d49",
+          "translationSha256": "b1b2ccb1efd2183da4c920c4bbd01a112c679b52ecf62a698f52a82b46b01adf",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2ReefSharks.tokenName",
+          "sourceSha256": "1e9b15095bee45ca0c65dfbbab2b8bf0ed88347c5d1041373e7443d5a2d41faa",
+          "translationSha256": "17b0ce0559b5cc0d183d49853f08ebd92ca0c2ec10059d5b343242634cfd451c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaSearchPartyHv.name",
+          "sourceSha256": "055e4dcaa2baabf6e95a871be0da78ce527ec399116e35de52fc34a43c00ee66",
+          "translationSha256": "a70fa9c3f00b541ef3a822ddf642d519519f62e21e232074ea49af4b5b333d3c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaSearchPartyHv.tokenName",
+          "sourceSha256": "c411f640da06594b88bd39390b6a28a1f1ba32e20ecb2d8043938a9dbcb74fa3",
+          "translationSha256": "fd180c480a83e2ac0ff7aba8195efb881e4ba984ae4c1c79e2ebd3ea44be22e9",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2SpectersWy.name",
+          "sourceSha256": "18b34851e9783b1b785ec223b45659db03eac5c7a2835af3fd6da62e65ffc10d",
+          "translationSha256": "d62d0d0b9afa8090e57b8cf9b74a11026ccf8b9f64d27a9a180a4817e754bfdf",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2SpectersWy.tokenName",
+          "sourceSha256": "9d4202862000f07514701f1d9198006f314b77066b050a07b268173b1a19153d",
+          "translationSha256": "c3096fc7dbabc787b13782c950b57fd616a5ad10db41fc8a6166e113b974438f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2StirgesFir.name",
+          "sourceSha256": "566c44baf084e815f33b775c349b17fed00b638ae87bc554ea4912e02cfcf898",
+          "translationSha256": "90316a3cde8a7c6d338308b220b459385aab4e9e62fbe05b56042640fc42f182",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2StirgesFir.tokenName",
+          "sourceSha256": "2ae099801894d8ddf2b33a67131090b8c0b1b518f8c23c4622a5baae54d62af2",
+          "translationSha256": "508fb5c541dab175e01186d5fce56d84c389c87a3b74a8dc5f56c1d982c2500b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaUndeadHordeCa.name",
+          "sourceSha256": "ded89ea232d4c02c215f9feff464be49923269a3a06515b0ed2a66ed537630c9",
+          "translationSha256": "193b0a591f0d97cd8319f047c1361e88d5312739e0b4e2d6b6b1d7c886ee988c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaUndeadHordeCa.tokenName",
+          "sourceSha256": "b82c8de9d772a848754fb7858aa5d8716ed75fab956a6a32b5a323cd418526b9",
+          "translationSha256": "d9608676c6fefac837046023a42700b6ec14d70c08b43f8ade0c2cbfa54e4dfe",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toach2YellowMusk.name",
+          "sourceSha256": "ded906dbdc796186f87c36f60d2757b9f3593a5dbed8a02df9dc2f989c6e356e",
+          "translationSha256": "b21ff45c2f43527b6a64ffc6c98f5341555448b435efed41ff6caaa96146140a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toach2YellowMusk.tokenName",
+          "sourceSha256": "f3490dc541b1c886d9faedb721d6e536e92c995bd5c27a1d796cc710b1ef98c3",
+          "translationSha256": "f37e771162184e205c5d0a1baf08c90c49846ccb566609a7a82d932337819db2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2ZombiesDun.name",
+          "sourceSha256": "fe6f736b148d02255a59e4f710e5e821088261fe1e1a2bcddcabb85fa6a10f7a",
+          "translationSha256": "a4a4d4884f9655117cbd31cab884a22b3e667e779ecd4786a48c7fcc441409f2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2ZombiesDun.tokenName",
+          "sourceSha256": "c9bc2ce60c0492a0f07d53a265888fc0a795c515743d1ea7d4aa7905890b3004",
+          "translationSha256": "988fa8d12ba39fdae6704e493abca4cf62f53888fa27c8a6ce508d347efb3bf0",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh3RedWizards.name",
+          "sourceSha256": "f36f794bfa879d43cee435491a51e52ff4aa72011d4cca8329d0d97df0dbb711",
+          "translationSha256": "367e6065d1a567ea977438a465064f6e4095e5c894e9e8ce82dad9af6c71a2ab",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh3RedWizards.tokenName",
+          "sourceSha256": "a3aa3f8057c2d2eeb758ce839a62410e1af04a34f6f034bf7e5d951296a69a6c",
+          "translationSha256": "9f64954c22c51a452b393b114d2495c20dc9f00aa5702d0c8bce322cd867fa60",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh3EscortsRed.name",
+          "sourceSha256": "0990e66f4f19c52d5bcb528867d93646ecd99a66e3917b548a56049e58c42e07",
+          "translationSha256": "72a90febdc3c0c39c1521a316da342ad68b6ca982e42e113bae2b3c370cfc220",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh3EscortsRed.tokenName",
+          "sourceSha256": "eb7e11672226ee171a7ba657c2440b97bf0285907ec3d3292812015b8cf78c82",
+          "translationSha256": "60636e863a8de8aa49a908f758c8c14e2ce1db1eb8a587d016e54e42a74cdec3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2EncSteamMe.name",
+          "sourceSha256": "28c70fb1b8e478da13d7604b10d45b73b89d179e013fce306c99881dc6f92a0e",
+          "translationSha256": "9c0dcf5eca5744aa0a0f8918acdb8cd62fb5f991c2000d527cd83d70eb93b788",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2EncSteamMe.tokenName",
+          "sourceSha256": "b9568e1df7990b7b81b4c4041513c1a69cb14b29b2ae9546466e66296f7225da",
+          "translationSha256": "408f0574eb5171750d713eacba9108bd745b400a034f9987278efff0bd6b15e5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh3vegepygmyt.name",
+          "sourceSha256": "ea2aa55d40c8bce25f78c57d597a95f4b58155b357e05296b27b98150f1638ae",
+          "translationSha256": "beab659ecce0ad425f4f67469396c329a2ccd3c8edbaae955dedd4b13d47fb43",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh3vegepygmyt.tokenName",
+          "sourceSha256": "62f6b44fee16cf38ffef9e0d9e5bf82ee334fb85076cd55844d6c2487abf9f79",
+          "translationSha256": "8b9529af6b6770b08b76d91936c59f7f97bfaf431502cff0417998e4cf731591",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toach3yuantimali.name",
+          "sourceSha256": "d3d0ea8bfd97317e771c8e4d047de3fe8b2abd57cb8c0f87f7fd7048e66c4b52",
+          "translationSha256": "48a5140494803d00f25691835dbf8195c67be9cb90a828d6b7b8f79185bf999d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toach3yuantimali.tokenName",
+          "sourceSha256": "c38696af0652040800dec458eccb599f0a9207d502e09a74c9906564fa2728da",
+          "translationSha256": "1874cc821f4673a75f94d48af309130dde3f330a808a1c187bf33c7a8252b4d6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2EncZorbosO.name",
+          "sourceSha256": "a00987c1e1cf600ee5b9e072c33a97006ae216bd0ca2637f01a64e9b3c8171e5",
+          "translationSha256": "23a30cc623273763028ea78da0dac249b2708ff24e11610718c552e225ab77a2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh2EncZorbosO.tokenName",
+          "sourceSha256": "129f5b7fcdf48a38c45440c9cd9214a5680aa7119f6b798f20a6ac464ff7f77c",
+          "translationSha256": "2492b7a1b61c4d53a412a100229a5a1657fe3c1d82f4a2882e0da5f24bd66fe8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh4EncCaptive.name",
+          "sourceSha256": "194fdfe65f6732518f31c322cbc9e61f45a03c2bbb527f9159aacb3a1656d53d",
+          "translationSha256": "5c09be7da61c38c664f46193f6c95517d78e907030039edcf396d8993d7aecd3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh4EncCaptive.tokenName",
+          "sourceSha256": "ee26f606d08cb704b6243bcf23fdeed35e1bc8cf5af72c7626c6319397e76abf",
+          "translationSha256": "87ef75aeb627aa840e8bbb5f44654454e139587528b4f4237dad54ef06e64b48",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh4EncGhouls0.name",
+          "sourceSha256": "09adb96ac460c074d92498b02258c304aa8ef618041650d09ce4b73e49a4bd74",
+          "translationSha256": "782fb044d580f48b9c7fd414f3add04b446a9ccf3e3ed32ae087e1e8a0e208d2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh4EncGhouls0.tokenName",
+          "sourceSha256": "dac39afab72c930b363983f6cfb6741f1fd1e293d7e4c76cfb870687fae86022",
+          "translationSha256": "a3773063d5b42786959d63e7253a4808e3aad94155a698bb5c8c730eab572f40",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh4EncYuantiB.name",
+          "sourceSha256": "924ced0551bd5166bd2186605bb886232ebd09e1947abcb2053b29b0a9cab93a",
+          "translationSha256": "9240cd6e8b171c11d9b856f4a3b8e5012ad2387d86732ed0a981294a90723206",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh4EncYuantiB.tokenName",
+          "sourceSha256": "2ae72c8df7d942318d2f0b5d43cba4fa0dd19cb2901e72b9e989668f808f2116",
+          "translationSha256": "9fae594ea9846a0811c047206415b734c4a75319413bc0aaaabe75bc8a30fa97",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh4EncYuantiN.name",
+          "sourceSha256": "838967ededf2c321cf98da276de22a47069b3aba9c96c74b5d7beb295d500991",
+          "translationSha256": "5bf2e9690544b36ae094f28fe69b4a1f568b06ea9135e34a6e278151f5025c45",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh4EncYuantiN.tokenName",
+          "sourceSha256": "f7cfdf360f52b634dd47aebf7e05d3e687eb6c69fe3055681a9c9b4bd9960852",
+          "translationSha256": "d86f060b80b401d112a13264f7985577cb2ca1cf82dc5598064424cca23b9fca",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaAcheronWardro.name",
+          "sourceSha256": "2f1c8047eeff1b8c7256de7c030f8785818a53bc8aac660258acfb1c945955be",
+          "translationSha256": "84a23de4a4f7c1017d344a24d01a65b41934492a3d7569c8e5d696115e3ba21b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaAcheronWardro.tokenName",
+          "sourceSha256": "2f1c8047eeff1b8c7256de7c030f8785818a53bc8aac660258acfb1c945955be",
+          "translationSha256": "84a23de4a4f7c1017d344a24d01a65b41934492a3d7569c8e5d696115e3ba21b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaBarbedDevils0.name",
+          "sourceSha256": "156e71cd0692cc34640492cf5b67083a6f726cd357ec18efc432b564a34c61c8",
+          "translationSha256": "f61dbdcd59e824c86f005948b9016e81ad2b2425e0e8e9883c0cd5d1738164d0",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaBarbedDevils0.tokenName",
+          "sourceSha256": "8de86abcb9e792542b1e21e5de1266fb254f880a84c0e5936956b1225b66e302",
+          "translationSha256": "fade2ac2b0e0db69b4aace0941bd7b73db58fafcb8e83a05f6c89c275b312ba9",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaBeardedDevils.name",
+          "sourceSha256": "d1626e8687ada6d8680cc4cce823152043de9a12b6765261b32e35abdb138749",
+          "translationSha256": "d48d0a3b5481e63f5f44cbc0a1446e810c4390ba263165206427a16f5f8b089a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaBeardedDevils.tokenName",
+          "sourceSha256": "3e36bff19d21f3bf9fce6f38da12e820ad9383099e0cff1f07d0c5ad7e991dd4",
+          "translationSha256": "460580fddfa8afac29e819ee6c7440f556b12550a46ef65db8037a5e6a3bcd99",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGehennaWardro.name",
+          "sourceSha256": "d745eb0ce4fcbfddbcf78679dcec51e105da5b356d5a4d557f9791c24af9fa65",
+          "translationSha256": "27efde221a47c447536911011689097609f425fc0262c4d71dd34d5c7823f1c1",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGehennaWardro.tokenName",
+          "sourceSha256": "d745eb0ce4fcbfddbcf78679dcec51e105da5b356d5a4d557f9791c24af9fa65",
+          "translationSha256": "27efde221a47c447536911011689097609f425fc0262c4d71dd34d5c7823f1c1",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh5MinotaurSk.name",
+          "sourceSha256": "9e2a3514e53d862283be7e3ff35b53a29624e850c015f07359363dec15f07fbe",
+          "translationSha256": "e1de2e441e97c256962f7cd374767ad9d87a28eeb10f2f4f180c1b9ea02f94ca",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh5MinotaurSk.tokenName",
+          "sourceSha256": "36b144d2d7d38d9ba338b8a52cc189d2a6be4d8497dd691eb86b75c4a6dc9e82",
+          "translationSha256": "917d33a8c32e3f52fea1c874cb16255b91db10bed6629970e8d64feb6b135a4a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh5Nothics000.name",
+          "sourceSha256": "5b764623018822ff75a4b14c964f976c5808bbcab75f9dbd0eea0f4ea307c880",
+          "translationSha256": "b21999ac19f2f977973b7812dc66dd078608f4de6aac31b7c08db693458f4925",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh5Nothics000.tokenName",
+          "sourceSha256": "1472803289a30e2b9f52e554bb0973315421b7fa0e3e4a5c90d4f90623371d0e",
+          "translationSha256": "3cda858542b649abe58f3c18980eaca227dfccf1a184a0379314030b64975243",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaOrcs000000000.name",
+          "sourceSha256": "72514f1ca1c657802c1682eb710abd7920615dba229890eb203cf42c56154329",
+          "translationSha256": "9f6d7f906e0316fde561c8fea6de6fb6b2f7a51fc99a281461141a624346ed1d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaOrcs000000000.tokenName",
+          "sourceSha256": "d84ce8e174a7232dccfb748b87390ce5755673c16ec851de24d6dc35cf370a45",
+          "translationSha256": "15833019cc3fe99ff8ec407e225643645f35078b55daa256661c36e8c6bb057a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaQuadrones0000.name",
+          "sourceSha256": "d25858fceb53f210b7081ea32bb2a9737263879530cb45b486d39b04c6f918ae",
+          "translationSha256": "cfd6d93b6bfeadba739858fa390213723fe46db58c99fe4e87e31d72e769386d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaQuadrones0000.tokenName",
+          "sourceSha256": "d25858fceb53f210b7081ea32bb2a9737263879530cb45b486d39b04c6f918ae",
+          "translationSha256": "cfd6d93b6bfeadba739858fa390213723fe46db58c99fe4e87e31d72e769386d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaSewnSisters00.name",
+          "sourceSha256": "7f3c906e4d1a30498528a0322337318ede8f938fc990a57b49a260437b4cd73b",
+          "translationSha256": "0ea09a74a4171829edbb548988d858fe21cb2ef3b75e16aab6734703a56388bb",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaSewnSisters00.tokenName",
+          "sourceSha256": "7f3c906e4d1a30498528a0322337318ede8f938fc990a57b49a260437b4cd73b",
+          "translationSha256": "0ea09a74a4171829edbb548988d858fe21cb2ef3b75e16aab6734703a56388bb",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaShadowfellWar.name",
+          "sourceSha256": "1b946bd658661cfed59781ddc9b16fcf70c7bc7693a94431bc9c19fbf31cd659",
+          "translationSha256": "6afee48078cdffdfffae995d1559d182a13ca6b8ac0145fd7b86016ca73d737d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaShadowfellWar.tokenName",
+          "sourceSha256": "1b946bd658661cfed59781ddc9b16fcf70c7bc7693a94431bc9c19fbf31cd659",
+          "translationSha256": "6afee48078cdffdfffae995d1559d182a13ca6b8ac0145fd7b86016ca73d737d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh5EncShambli.name",
+          "sourceSha256": "d8cce56a2832af723044d0ddbfed888683b92d7a7a0ea171fcbd852ca7f2cc1f",
+          "translationSha256": "e4b264373f9d67f681fea535f28b5d636b7afbc3cdf9e1e19b497bd227da06ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh5EncShambli.tokenName",
+          "sourceSha256": "8117654d9bfa19b1febdb2eb08129c8e884faf87f4773999dcc99b04ff6dcab0",
+          "translationSha256": "2f17f22cd187ad2649a3491b61039ee28398424f7e35245b773460adc4dc2429",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaSpinedDevils0.name",
+          "sourceSha256": "c411fc43fa3c6e3ad7987cc3f13372ff9cfa75f936924ba75006fbfc6e1171a1",
+          "translationSha256": "ddd40385c41c7a759b234796d1f6a2c73fc2764d8f408f5e717ce36e72e9fa2b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaSpinedDevils0.tokenName",
+          "sourceSha256": "98798be528ce030b3e2becf181122839adc60933c6b689959be37f80eab691e0",
+          "translationSha256": "2da4908e3c92fda023d453541c47c812ea4f341ac987710d73fd83bb72c1f715",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh5SwarmUndea.name",
+          "sourceSha256": "f13bf8572ba8d72e027a19f320a4c8865c36d1a93aee2902d220fc4211398550",
+          "translationSha256": "b33ab0f906a1a6611b1d82778e1cf66df660c2ba96ff169ed6da82ec920d498d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh5SwarmUndea.tokenName",
+          "sourceSha256": "19167624f3e38129207c4ee94bc2c73c779024bb6209d1879a5e94b3ad69095f",
+          "translationSha256": "bd2b93768e3769010a31060ab660aca7870b0f3456d4e795fc741a84e425f460",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh5EncTerraco.name",
+          "sourceSha256": "627e98ebae4479faab0b8138042b6abca17988cab23545835b369d8323c593e7",
+          "translationSha256": "fec03f6d8d2454946b56c35d9ae0aa1f7bebae0c1bbb08ffd8f2ad12c5e4e8f6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh5EncTerraco.tokenName",
+          "sourceSha256": "6057ee4e295c70b4853c56c879963ec3facb8188733abf00b1c6762ce1b5cd03",
+          "translationSha256": "1a493dc1a7ff4fc890a4df582b76a7e1ce68cbd31b690ed10b7201581f1fd36d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh5TombDwarve.name",
+          "sourceSha256": "b237062477d1752ed42cab84bd1c901e1e083d8a29dc8e381fe4a331075a9492",
+          "translationSha256": "4de23cb83271536bb295bd0c67001ac12e7bd3ce45fd0ffdeb98d2cc5b43f8a6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh5TombDwarve.tokenName",
+          "sourceSha256": "5c799d9a03e2f0c2c36b63cf3a35aca48f7417d82c0f0b039ed4c3c369e4ef98",
+          "translationSha256": "58a7b3f27ed46b8d3f39d0b45f873189f80839ac86b278fec680fe9ce3bc7d79",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaWereboars0000.name",
+          "sourceSha256": "1bb513c177fc5cc668f5fce8147d6aeb5e680386bfe9200595efd1b9051597fe",
+          "translationSha256": "26e205a1114dd82516f3abbc21be0ef9d76bdc1feaf35ca91d91e78fa1bb3d08",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaWereboars0000.tokenName",
+          "sourceSha256": "1e50b22de54e822a73f63bbfc5df79c77ca27c1a55ac3c53335797cd179dacf6",
+          "translationSha256": "30c395ad5808f23ed0003e897bb3227945caa2b3ac5826541dadef4a6c6de7e4",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncUndWight00.name",
+          "sourceSha256": "c59dbe84f7b777c60608c92f3854a3f9ed4ea7c292d2a240b6224ff1f274b0c1",
+          "translationSha256": "4a3d715366e17c90fdcfa436f3b9839d377778c1442b67de2d62b0b7d4ff0e1d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncUndWight00.tokenName",
+          "sourceSha256": "c59dbe84f7b777c60608c92f3854a3f9ed4ea7c292d2a240b6224ff1f274b0c1",
+          "translationSha256": "4a3d715366e17c90fdcfa436f3b9839d377778c1442b67de2d62b0b7d4ff0e1d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh5EncWineWei.name",
+          "sourceSha256": "bc130f1905fc4e8ecc20c79661c7e7dd36dfe8baead2cb5ef82b53cc195de815",
+          "translationSha256": "36be05dda5ec73c99ac26e543c940d7ac09a0bedcea135e17b754db6eb4c3d21",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh5EncWineWei.tokenName",
+          "sourceSha256": "e08091cb40d30bea660a7568150e36038de7c5db43baf07fe1a467dafd026cde",
+          "translationSha256": "93ac08dcf040a155412d5a5a73f8f1ed9f2bcae396b2f4b1c9bc471c2661a8b2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh5EncWraiths.name",
+          "sourceSha256": "0d142dab898f54a31c2a84e2e0404285634631183540b23564a4008f7861f817",
+          "translationSha256": "70d69401a0a0da3d085612f40b93e67214e4b42bce067a917763247e87c4818b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCh5EncWraiths.tokenName",
+          "sourceSha256": "2f2d76862c806f144f2b89eb424193b358ea03ab49d55704e5273e18b753d1de",
+          "translationSha256": "4ddf0a9fe50e93558c69e60a96969ae753c0f7ade839bb692b27d1abbacf4479",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncUndZombies.name",
+          "sourceSha256": "f0dd1d97e8328693fc332a6477757cf2b03c70c16f85edc9b34d74221ecaf809",
+          "translationSha256": "2bd4810c86613c67a754f1da9342a7ec95b66ffe271df2f3fb0ba20c90afb411",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncUndZombies.tokenName",
+          "sourceSha256": "c9bc2ce60c0492a0f07d53a265888fc0a795c515743d1ea7d4aa7905890b3004",
+          "translationSha256": "988fa8d12ba39fdae6704e493abca4cf62f53888fa27c8a6ce508d347efb3bf0",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaAarakocra0000.name",
+          "sourceSha256": "2913746674dcdc185c77898421cad250c8120a6621d2228930a767096882965e",
+          "translationSha256": "2913746674dcdc185c77898421cad250c8120a6621d2228930a767096882965e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaAarakocra0000.alignment",
+          "sourceSha256": "7bfdfa1353edfcc681a35f9a9c06bca0a3a4ca1ccbbb206fc285bae0e90d14b0",
+          "translationSha256": "6264edb86369d307605cb75ccec80c499ab978bec7df7c8a6b8a91682041d6ee",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaAarakocra0000.creatureSubtype",
+          "sourceSha256": "2913746674dcdc185c77898421cad250c8120a6621d2228930a767096882965e",
+          "translationSha256": "2913746674dcdc185c77898421cad250c8120a6621d2228930a767096882965e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaAarakocra0000.tokenName",
+          "sourceSha256": "2913746674dcdc185c77898421cad250c8120a6621d2228930a767096882965e",
+          "translationSha256": "2913746674dcdc185c77898421cad250c8120a6621d2228930a767096882965e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaAarakocra0000.items.QKf2YZjWEahSRw5B.name",
+          "sourceSha256": "f6dbd3e65e4254a66597419d5c2fa2f813c6cc61f0197901399936c3ed069e56",
+          "translationSha256": "5140b146c9ad0472ff913909f180652aef1ec184a4e93a4e315a64d6cc2c642c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaAarakocra0000.items.QKf2YZjWEahSRw5B.description",
+          "sourceSha256": "6f385806e4032251d4d62a8fbf6a1879b04c645debb12a1bb8060877edcc9ebc",
+          "translationSha256": "b5f3881f618b9832912ab7b4b7e9ea9695023b07180df16275948527bb41ba89",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaAarakocra0000.items.5a2lCBUzIbpgauNy.name",
+          "sourceSha256": "55c6d491cadd4a29fdd0b1e3746af34c10687b4e629828cdb0afe78efb537f78",
+          "translationSha256": "47402ddef99b381dae7cd7bb290df7f7c233a999a8f0690e34819a441f9cf42a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaAarakocra0000.items.5a2lCBUzIbpgauNy.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaAarakocra0000.items.mbynzzLWo2JNsJct.name",
+          "sourceSha256": "3331d5456d2d5b84ac4bc46eb8807cd4b4d2b5f0cd17aa54ad0ccc0362ea8c72",
+          "translationSha256": "2885b8fcf41b9530edd6976b31811378f5b90fd4032dabf6c039e07541399af8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaAarakocra0000.items.mbynzzLWo2JNsJct.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaSoulmonger000.name",
+          "sourceSha256": "89f88fe86a4eb19a0a9c5f8e8dd3af0698a38e47ebd64ba5ff90b6686b68613a",
+          "translationSha256": "057db069b1684ca9503a11d654cf40bf00dcfb5015f158b8583a991fcd137468",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaSoulmonger000.alignment",
+          "sourceSha256": "50bf80da81cf93a98faad116f4afea66abc5f12dcf933908a3a982ca02a1ebdc",
+          "translationSha256": "cbe44c69da85764f0313ad97856cdf77ec4eabbd6690b7cdd0b810a1c8ddba3c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaSoulmonger000.creatureType",
+          "sourceSha256": "62a6da8735c18e2d66fe5de3dc5440252a1da49e3cbaa7c1d2d5068ad73ffba0",
+          "translationSha256": "b8bedcc495e7442cd82e3fdcbf1cf6a617abf67d3b352a6708794b864370b2a5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaSoulmonger000.tokenName",
+          "sourceSha256": "89f88fe86a4eb19a0a9c5f8e8dd3af0698a38e47ebd64ba5ff90b6686b68613a",
+          "translationSha256": "057db069b1684ca9503a11d654cf40bf00dcfb5015f158b8583a991fcd137468",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaSoulmonger000.items.T5RvBZ44NYikc0gx.name",
+          "sourceSha256": "269a7e8e48e3bcadd6750ddf23c521f93e05e29e1728cc5109a7be07b4a18c09",
+          "translationSha256": "66aed5990f68e64b3ccee871bbd1e30e687c87838b43090c4b667a504c0540b5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaSoulmonger000.items.T5RvBZ44NYikc0gx.description",
+          "sourceSha256": "676ca12145dcb9daff33d1049cd3b5a77352ba13cca14f4a487142b33afb24aa",
+          "translationSha256": "f4ec4ab501afc2dcbf6d4b4893fb4f635dbd53b51fb6b937b2e13dc2e1be9d29",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaSoulmonger000.items.T5RvBZ44NYikc0gx.activities.HzZdVXmwSGYhLLRr.name",
+          "sourceSha256": "4c93c2c050c768edfaa9988369355ccf5db2060db76816b295f98c170260cc9f",
+          "translationSha256": "d8508442943d1f6cc1465cbd90b1229d3b12278afd71aeeb27b7644a2d7186eb",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaSoulmonger000.items.T5RvBZ44NYikc0gx.effects.MEcTqVuEdw42NNlS.name",
+          "sourceSha256": "26c5ae3f6d16af4c316e8a091769d7dc2302f1ea566432d0e6be63946ff3f272",
+          "translationSha256": "ba58192a34815333c5057a306502ea8eb9763c68fb211a4c7619f322c08651ea",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaSoulmongerStr.name",
+          "sourceSha256": "4de41588df665136858beb9c6ae2f04dff3516855ce1830291163dfa325ac606",
+          "translationSha256": "9e0943df1b0ab39aa0342394fc4dc4bbd5a379f49795a3cf9cabee2b4177261a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaSoulmongerStr.tokenName",
+          "sourceSha256": "4de41588df665136858beb9c6ae2f04dff3516855ce1830291163dfa325ac606",
+          "translationSha256": "9e0943df1b0ab39aa0342394fc4dc4bbd5a379f49795a3cf9cabee2b4177261a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaTentacles0000.name",
+          "sourceSha256": "269a7e8e48e3bcadd6750ddf23c521f93e05e29e1728cc5109a7be07b4a18c09",
+          "translationSha256": "66aed5990f68e64b3ccee871bbd1e30e687c87838b43090c4b667a504c0540b5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaTentacles0000.creatureType",
+          "sourceSha256": "dd47c14489ec73e8d2247cfc569b3ac53c9f1dc081616afee53c829fc3ae649a",
+          "translationSha256": "81c7c2f5b85a8ea8825c0bc9f0417701cf74a6f5cfb289b03b1db835bd89f37e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaTentacles0000.tokenName",
+          "sourceSha256": "269a7e8e48e3bcadd6750ddf23c521f93e05e29e1728cc5109a7be07b4a18c09",
+          "translationSha256": "66aed5990f68e64b3ccee871bbd1e30e687c87838b43090c4b667a504c0540b5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaSyndraSilvane.effects.toaDeathCurse000.name",
+          "sourceSha256": "1e4f693e6692d5088818833f6538f80ef3001bf53e6f633246504e13f4f0f9b1",
+          "translationSha256": "e0051e8b5ef0659538530617284b94c7b81437f6e2051bdc0df178ae9e9d410f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaSyndraSilvane.effects.toaDeathCurse000.description",
+          "sourceSha256": "1eab07657e26b0e29c7e87ca59e87435adb10264516736a5397f34881ef87452",
+          "translationSha256": "a8b9b81a9b9517edd182bf2869a4760e2be2bca8129ecf6d9a3bec5ec75b43af",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaValindraShado.items.Ld1xR99LgRMHD2sj.name",
+          "sourceSha256": "bf77ae402f1e55fd7b17d47c7153bab6d5fd5f28667be7efe5c510da3a45000f",
+          "translationSha256": "3a2fe92c0d37983ff2a504bafeb371c7c7123cd2b4200e33ec5f99fafd02c43c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaValindraShado.items.Ld1xR99LgRMHD2sj.description",
+          "sourceSha256": "355943fc2935572c3b172813717c1d302bb7a7af1efc60e29ac23ff9038ae363",
+          "translationSha256": "38710a4d741bd396cc9bcb9c1659cccde67dc43c3c4ddd35de3818f6184bc26f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaValindraShado.items.Ld1xR99LgRMHD2sj.activities.KR58r9V0HjqLMbhA.target.affects.special",
+          "sourceSha256": "f585cb3766a0f8924e2db1e680c0e2ac695b564e5403f31cd480ce0b48bb150a",
+          "translationSha256": "0e72e12a7015445456a22feda91172a83e5abd2dfeaef1cb833e12692615725f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaArea38CDoor00.name",
+          "sourceSha256": "319a412d04699584eaa62f5e6dd34c74cc032545f8b8fd93fae9918138aff0ec",
+          "translationSha256": "dabaf5037fa92001d11542e490ba2d217476e48ea57c13c428bc25a6972df190",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaArea38CDoor00.tokenName",
+          "sourceSha256": "319a412d04699584eaa62f5e6dd34c74cc032545f8b8fd93fae9918138aff0ec",
+          "translationSha256": "dabaf5037fa92001d11542e490ba2d217476e48ea57c13c428bc25a6972df190",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaArea39SmallSt.name",
+          "sourceSha256": "7bcf89fb6992048c3676265be2ab2206363c7f9aa4547279b095cfa1927bfadd",
+          "translationSha256": "a12da48839f6da47d262d297191452fb627becc6a6d1fc1bfeca6145fdc7eab3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaArea39SmallSt.tokenName",
+          "sourceSha256": "7ca548ab82004debbcc22699d0b412973dde31672147ccfe7cf67dc2793b649c",
+          "translationSha256": "54dcaf4942137c53d13ca0b1597cee73550823e726723d433d4ced6b9e467fe7",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaDecahedron000.name",
+          "sourceSha256": "cfdbff25970a33024b5e8df6d411c4f776258c4a6255c28504844900afc77826",
+          "translationSha256": "82ac01c357d7770d196bb5974b407fceaf8ad6a66df36d99fe7d5c774e2753d6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaDecahedron000.tokenName",
+          "sourceSha256": "cfdbff25970a33024b5e8df6d411c4f776258c4a6255c28504844900afc77826",
+          "translationSha256": "82ac01c357d7770d196bb5974b407fceaf8ad6a66df36d99fe7d5c774e2753d6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaMagneticStatu.name",
+          "sourceSha256": "2822b6461cc1a10659ff18d23bd02b54af51503498ecd74e4d9615ddd98bb78f",
+          "translationSha256": "cf905bba7242ca5a37f4bad9855f60f954291811b93e0affc0395ada577039e2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaMagneticStatu.tokenName",
+          "sourceSha256": "2822b6461cc1a10659ff18d23bd02b54af51503498ecd74e4d9615ddd98bb78f",
+          "translationSha256": "cf905bba7242ca5a37f4bad9855f60f954291811b93e0affc0395ada577039e2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncAarakocra0.name",
+          "sourceSha256": "2913746674dcdc185c77898421cad250c8120a6621d2228930a767096882965e",
+          "translationSha256": "2913746674dcdc185c77898421cad250c8120a6621d2228930a767096882965e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncAarakocra0.tokenName",
+          "sourceSha256": "1b6c990a8220c4578b9a5214bc8414aa26d3cec2472cce1628d734992729f79d",
+          "translationSha256": "9ceb012749bb7d81cb8c9c172697859d489c06bf64b92d018ea0415c9e0ea4d7",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncAlbinoDwar.name",
+          "sourceSha256": "e349fdd6204126cbb1b6f1855d3602f5b3ff5c66ec7ed2dd09fcc76ef634fb34",
+          "translationSha256": "60b0839724b10ab5755b06d96c05bd25b80f9c1494393e93b23387dd0fbe2fd9",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncAlbinoDwar.tokenName",
+          "sourceSha256": "a64c390b2650d33b5fca765066c03452fc061340777840c9e83e8d428b5f7dc0",
+          "translationSha256": "debf2335dc764d6ff93cc5b43c805d73dd286818a4ffb37807d63eda7fa46465",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncAldani0000.name",
+          "sourceSha256": "898b8ee0d9d6fe4478d1b16431c59170d8539871ab0030b92dae9e34060e9772",
+          "translationSha256": "898b8ee0d9d6fe4478d1b16431c59170d8539871ab0030b92dae9e34060e9772",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncAldani0000.tokenName",
+          "sourceSha256": "309c3785d71fcaf7c41336c56a6317561f4af6533014298f01487171fc1ce1b4",
+          "translationSha256": "a5a137dfa1d4854dc467c81f7d9cb6194dd54467b40f183c913b02780e50b21a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncAlmiraj000.name",
+          "sourceSha256": "9d877f766fb822c0589d5ac972b06c37b36ccbc1b8b659e209cd7a10ae353d6d",
+          "translationSha256": "9d877f766fb822c0589d5ac972b06c37b36ccbc1b8b659e209cd7a10ae353d6d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncAlmiraj000.tokenName",
+          "sourceSha256": "0302dfc1c5b1379c13bf5b5e787307dd0d571783ee316d5fecebe3eb4ff32d6f",
+          "translationSha256": "e2acb6607c8e6a9d47f92c1d4151f847fd52fd6db8049cbb20c29d4660664e4b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncApes000000.name",
+          "sourceSha256": "2d28d59fa61c177c11da23495caa9bab4f6c13a0d5d0892197c89f11c976de41",
+          "translationSha256": "4d20302c5f0612ff49bb27d31f95880e9192501b392b7bbfb2c76caf0570c6f6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncApes000000.tokenName",
+          "sourceSha256": "16323bc649861ce3ce5ae966d32017f7c380863814fdc95a3a5fb84cc81b9243",
+          "translationSha256": "14b5d6aad2de993fbbe12c5129d9a8bc20cc1dd2097850c63512a2931ecf6ada",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncAssassinVi.name",
+          "sourceSha256": "7d3b706a11e8a394e5c2d556fc096ab1cb732fcfdeea95be321e0e56dc421a86",
+          "translationSha256": "623bdfc6b17af74fd507870a325b6ae7184484cf9dc389c71a32707b9ffc04ac",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncAssassinVi.tokenName",
+          "sourceSha256": "fb9e051188846561150850331a849e91cb9a6ae94feedd5dbce756214a04b826",
+          "translationSha256": "c6c3136c300274e8e1d89f35a3dc23516de0ca05536bb0a074c3c4d98211226d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncAxeBeaks00.name",
+          "sourceSha256": "80c38b600d6560eb2741a4b63df802fbe62bffde62b65a1976864bd834ab1e8b",
+          "translationSha256": "335f0a416bc88035c5216c6355c987000e56599b4ca382bb784f170e48eff0a5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncAxeBeaks00.tokenName",
+          "sourceSha256": "de45e8fad137e17ab594d78067824945dc45463f4c2a966fc4611097ea62d612",
+          "translationSha256": "9510beb166035bb79110084ded4b7b2bf242304644ef6d666148c078e838273d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncBaboons000.name",
+          "sourceSha256": "da46d40095f34b07aed444752b3aa4dc0a2b4b1e405c37cf132600cd537ef7d4",
+          "translationSha256": "1a34976dfaf7c11dcc5e07a25eb898658beb89dd79e68ff625e488d54dfee6a1",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncBaboons000.tokenName",
+          "sourceSha256": "a208200f7b386253030cf03b41988f1d673678164599aa2b5cb53d3a634644b3",
+          "translationSha256": "4c742832ca0c45d31708874f1b8a17da7f13f7ee0c6bb8f68de7b823bc99585e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncChwinga000.name",
+          "sourceSha256": "3d7044f87e2b2c28948faa08c9882885270703656a3406d7430b6e3c329da6c6",
+          "translationSha256": "3d7044f87e2b2c28948faa08c9882885270703656a3406d7430b6e3c329da6c6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncChwinga000.tokenName",
+          "sourceSha256": "a91719dd411ceba30c590907ba2deb5421d03d30066a1a7562f4c25bc667f933",
+          "translationSha256": "37626b1d9d911be979a0191062cfd5bb0226a7f6f1a5a415881446c9f4607150",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncCrocodiles.name",
+          "sourceSha256": "11ef2e0fdf95f70c9e7a51a74aaad84841c09d5f392c2a16b2bccaacf3caca8a",
+          "translationSha256": "745c3b579b6ecb0857cf4dfb7e42c9e9d60fc073e519fbd1a4180a0b318d3717",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncCrocodiles.tokenName",
+          "sourceSha256": "1f73ffe200fceff7ed5441fbbb2bf9ed1421f5e7e835b6d624a3c18ad993d534",
+          "translationSha256": "148dd4dfcde66a010bb44c1127f7298d00939c7632e8c20def783ec8b9733b3b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncEblis00000.name",
+          "sourceSha256": "db409d96f0e0565627f5ebc46d1314a5a8889f34644cb05ac55731e6551be91d",
+          "translationSha256": "db409d96f0e0565627f5ebc46d1314a5a8889f34644cb05ac55731e6551be91d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncEblis00000.tokenName",
+          "sourceSha256": "d8f3df90af4e5af7e3c1063dc0b6ef6be95b3ec0527ed4b2734a4157d1306470",
+          "translationSha256": "4bf10aeac239a293b8c11e06c9a200064caa6cd6f7c1ac79792fa5750b4053a8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncEmeraldEnc.name",
+          "sourceSha256": "6b5ec274206bd3dd3df9f7821a17bc4e4d2bb1032163b145c9dbb8658c62030a",
+          "translationSha256": "002d0af3f9573be2c3c21cf4d59eaa65f0af4bbea6956b819a42aca8e7fac2f2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncEmeraldEnc.tokenName",
+          "sourceSha256": "2d46ca5f35a85b45bd1e95626387b7d5a5fe20ebfbdfa91a7fcc7666d9d48cd0",
+          "translationSha256": "1b9f80190b0e0a2879230c4ab4cd0bb20f8bf032d938035b5b1df3499e6ed46b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncExplorers0.name",
+          "sourceSha256": "eeec4ca70a764a6d17de38f8ac402d7844a51c6735bc75e4bdac0a57109cf7cd",
+          "translationSha256": "33cfe9d5b251def8cf32ce701b825f4442f9e2929f29c16baf7d995d3680884d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncExplorers0.tokenName",
+          "sourceSha256": "1f6afd3814e013cc5f7e3934a47c959cf9c7966e6a07b1e35cbbc2397e2ebb11",
+          "translationSha256": "5ae8a6999941ab8ebab59e6884c2ad09ecd54c9aa7eab49c28fdf117a24496f6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.RFqrWxhBX2cWygKN.name",
+          "sourceSha256": "b87cbfa5e6101b5dbf4098f909f8cee8b59cac8f9ae0f373297dcdf035e90f7e",
+          "translationSha256": "8d57eba8adececc82dbdfcb51c6b760d2b929a1f602a0deb80e2edfffa77f892",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.RFqrWxhBX2cWygKN.tokenName",
+          "sourceSha256": "e35bc634c2fc142accc95bc9719a982ddd1ec0d073b642d16782b4785b0e15f8",
+          "translationSha256": "265f1afcfce61123ffb07fcac538f2e53b239569cf5dc6344e5723049f7a8a8c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncFirenewts0.name",
+          "sourceSha256": "afd5a6289c2404acfb8db4797e0fb773b5d423327e59ffb600b09eb95c30a38c",
+          "translationSha256": "bd6c54550eec534e683faee587e3095643a3f529da07860d4bee3f05f66e44a6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncFirenewts0.tokenName",
+          "sourceSha256": "e35bc634c2fc142accc95bc9719a982ddd1ec0d073b642d16782b4785b0e15f8",
+          "translationSha256": "265f1afcfce61123ffb07fcac538f2e53b239569cf5dc6344e5723049f7a8a8c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncFlamingFis.name",
+          "sourceSha256": "c872208cac71989f6edd483ce0605a96947122f51be730501b1721b8fb087517",
+          "translationSha256": "fe7c25c55b70fc59e2c62da80ff00002b41778420acb4109a6b5569c931a2ecc",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncFlamingFis.tokenName",
+          "sourceSha256": "c872208cac71989f6edd483ce0605a96947122f51be730501b1721b8fb087517",
+          "translationSha256": "fe7c25c55b70fc59e2c62da80ff00002b41778420acb4109a6b5569c931a2ecc",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncFlyingMonk.name",
+          "sourceSha256": "fa2b64c96d8727d446dae9dc0cb64b6337ffa9c65ac0e209e36700c124dda212",
+          "translationSha256": "1b4e72e74bcd1ae34e1137a4971d0663a62a5046ecaba8c2a746e91616306aa6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncFlyingMonk.tokenName",
+          "sourceSha256": "65bd3dae53ddb062a9e43a7bead6399388087708d16f3f7e2b5e3f6a62d2e36e",
+          "translationSha256": "e8a89569b69d05e8ce6c04922f5d447556d61f9a64f677162fced3b31eb3f785",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncFlyingSnak.name",
+          "sourceSha256": "938913e3b2b99cc61518ee1ecb83d7055420b687c2ad0277f5ee648c0b605f05",
+          "translationSha256": "24b6f618786544bb0f05d219d9117bf62510fc216827af15449c7592b1f2bd9d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncFlyingSnak.tokenName",
+          "sourceSha256": "d7a5410022dcc9c72038ea5ba30a4ec7e262ee734e940d9c1dbf6dcb486cfeb4",
+          "translationSha256": "dec3b496e8983fe0c19f5406e7ad111bdaea983aa7ec4740b93bcac8705cfffd",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncFrostGiant.name",
+          "sourceSha256": "3f8c2922a98a0e6c406f6a4d52a7e5860f0dc729e3e2816da5a13a1a3dbb1a23",
+          "translationSha256": "29e54147eb75c56deb5a1ed0a4e710230aaeb78a8843024ce2a73c4b32f8328f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncFrostGiant.tokenName",
+          "sourceSha256": "be7fed5f682cb3e9f73d3556092c383dfe62185ad4e50d9230580617300323bf",
+          "translationSha256": "81ab1293673aca8f6ccf04e13f652e613943433620778736ae93fd51ab90e1ff",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncGargoyles0.name",
+          "sourceSha256": "78d97e1e27cc04c359c17adbebf819ab3dfddb6b63359808cc3fa79100e6024b",
+          "translationSha256": "1b7248a1fe437a1db1b2a92772c4c1191ce06e471cc6867f74a011374c98852d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncGargoyles0.tokenName",
+          "sourceSha256": "2b48d58fa73ead2f7868aa757c155729df49c222ff4bc0ef089e6c9090ae62e1",
+          "translationSha256": "da7c2603260371704fceb28249eea0e3d6566b871c9a46008d6c4cef94476953",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncGiantBoars.name",
+          "sourceSha256": "0fd6b9e662f2f4276117336d178e9891e7d7debae7460f8b7c08c9b3a0b102d3",
+          "translationSha256": "94e7527ba89371375580825d24fbaae35379fa1adc5a6926cacca6d4f964940b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncGiantBoars.tokenName",
+          "sourceSha256": "ef1864d3fea68c1fc64a63beb6758d23143178a48b3110d17069fa215fe8c302",
+          "translationSha256": "dbb5e57d753f96d8a9566b37af9ad03bf9310af83fb4f62a20786b5dc51bc5f2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncGiantFrogs.name",
+          "sourceSha256": "5d4b4259105cecca55a3f0cb481a2d2f069bb3bc48c6199dabdd5cf2ba03a9df",
+          "translationSha256": "21eb916231d254d0773b24d82f63ffdc3f9e3ddff7e557d276fa9567cc34aa73",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncGiantFrogs.tokenName",
+          "sourceSha256": "f269c0c526a0f2eb047a8c75b599df37689007e4fa9558bee07681206178b5e0",
+          "translationSha256": "32a0557f7d5db3cdbb4cd3853cc61060af58e4e81fb7737ddda0d719e469e43c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncGiantLizar.name",
+          "sourceSha256": "8775b0ad5586c89a3700f88ac4c3b00cca66b6fcf0594239141314c7da2d7fb6",
+          "translationSha256": "dffe81d7aac7175872ece1f79e07b1982253e358d8da814f795fae991303f4cf",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncGiantLizar.tokenName",
+          "sourceSha256": "1d703564184da1abf519168a9a3e3a2904531332ab7801f1421f252eed4ac43e",
+          "translationSha256": "b3c3c58d3653cb473a941e5fd64c82f25ba37c58b73456fed8f6b86e5420da04",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncGiantScorp.name",
+          "sourceSha256": "766082e4835ae8e94e27b4364292087ce5067497dc541bd3eb951cdaf312e428",
+          "translationSha256": "03c8ed9565bd61c181fd5e11bcba4e706384397922106f596bda7ca1bd49407d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncGiantScorp.tokenName",
+          "sourceSha256": "8f8de6ab6bd9a4baf52d5e4fc29136931ff7f584a9b7f0ca49ad05e70457ab07",
+          "translationSha256": "ee57d88f5d4205d7c188946af1efa672a38e5bed8a1c9b5033ddcdf4d801f316",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGiantSpiders0.name",
+          "sourceSha256": "ca9d3cbe490b12e90695f42d1c7c56fbc8fa04fc93c0a0491af9aca100340790",
+          "translationSha256": "80027b0007f17c80239395dc06d3ceb703987958e2f76bdcd8f02f7c12f04d05",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGiantSpiders0.tokenName",
+          "sourceSha256": "3507fb85dfbd404dbfb203a2ec0f3e44aa68259cc64dbf9e26f3668dabadcd62",
+          "translationSha256": "ad11c10b8febd8d69ff3982b629ee8d316349b70fca43282cfb7acb71b3002b3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncGiantWasps.name",
+          "sourceSha256": "20cbbed47d734e24fa2c412639466cb3e0d2e65b603aed6c3eefe0cb19177250",
+          "translationSha256": "148aea39212e60021fa5fc5e7cf7cb69300abba8f5892a691d5243103093a2cc",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncGiantWasps.tokenName",
+          "sourceSha256": "a9013ce10963beeb702365e5a13cb84df648d144cc5f0bca29b06ffd62ad5fb9",
+          "translationSha256": "b9c31a0b9706d268484461d23ade404040322916f20661724bb370f4a671d653",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncGiantWolfS.name",
+          "sourceSha256": "319fe21c94de02dc128cca1df288a6029ef3e4b0bb1ebc4e000b72bed6e0c25a",
+          "translationSha256": "93451c1e7cae043108a76263197e2e330c3cfb4d2a0742e9af9bc97d263a1aad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncGiantWolfS.tokenName",
+          "sourceSha256": "ebda228beff2dc81e0938b23631ad4a805c66590c1cf759d3c9aa381961537f4",
+          "translationSha256": "6886d4f99e8e6132e345b0b43517828a03cac5f6ce2d73a79c2b62b3c49f0162",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncGirallons0.name",
+          "sourceSha256": "ba744dac52290bca1e3297977f3afde8d7dd91be4755196e35ce98c206ed82ca",
+          "translationSha256": "67424c7bb6459e1d815b646d4006a29b5cc581984bc778cac0b9fb4137c06f2c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncGirallons0.tokenName",
+          "sourceSha256": "d34d4190d8092fff192bee699563dbeba8661a8ca3dd97f1227241533ed64258",
+          "translationSha256": "dfb3a7caa61eb25906bdeb500dfc2ed178c29743f54d4733fcae8c8675745aca",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGladiators000.name",
+          "sourceSha256": "5ddbe8d7f07eda3b47f43f0dee0cf820362f5ea2260a73de9be49277d0769000",
+          "translationSha256": "ea94fc031efea052c8950ee3b52b7a3acfc6b189bb20b7d2f5577de6db8475d8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGladiators000.tokenName",
+          "sourceSha256": "51cadb15d255755436c3a0900d5d5b5cf22a3dabe039a051cbc38dab37c8d033",
+          "translationSha256": "af24674018763998ca20802122744883b97ae00757b22b3a15daf8b3db66ec46",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncGoblins000.name",
+          "sourceSha256": "198474c00db41929359467c6101ab99ebb0d90456622629b42df9fadaf904fc6",
+          "translationSha256": "198474c00db41929359467c6101ab99ebb0d90456622629b42df9fadaf904fc6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncGoblins000.tokenName",
+          "sourceSha256": "198474c00db41929359467c6101ab99ebb0d90456622629b42df9fadaf904fc6",
+          "translationSha256": "198474c00db41929359467c6101ab99ebb0d90456622629b42df9fadaf904fc6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncGrungs0000.name",
+          "sourceSha256": "442374b8b5d744d105e8a7886165300d3b7c658e26bb2c3fba47495f3de6ca15",
+          "translationSha256": "442374b8b5d744d105e8a7886165300d3b7c658e26bb2c3fba47495f3de6ca15",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncGrungs0000.tokenName",
+          "sourceSha256": "442374b8b5d744d105e8a7886165300d3b7c658e26bb2c3fba47495f3de6ca15",
+          "translationSha256": "442374b8b5d744d105e8a7886165300d3b7c658e26bb2c3fba47495f3de6ca15",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncGuards0000.name",
+          "sourceSha256": "948e5af905857944a40fe331cc922d2cc069ce81754bee31519bbbdaca4175da",
+          "translationSha256": "5aebc7b24cf38bff81fdc3556523d5785c4f660e2e12d9c920a9c6c8e0340166",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncGuards0000.tokenName",
+          "sourceSha256": "5c701851062ea356db8530015104180b372ed736c0b419bab064f7872ec03c0c",
+          "translationSha256": "5433dce8567dff2cc66633dfaacbbc0a54059bac4e9dce7d662ff3498d83e3e5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncJaculis000.name",
+          "sourceSha256": "89421656693ca4aa5c3a3eab9d7db35bf003984ae0d7f49b135535e615e93298",
+          "translationSha256": "89421656693ca4aa5c3a3eab9d7db35bf003984ae0d7f49b135535e615e93298",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncJaculis000.tokenName",
+          "sourceSha256": "38ecaae31bbee96464ccdea3f2c24f240e162157845aeeea651976cf66984bfe",
+          "translationSha256": "a285a7963751bc4ffc10910c10a4b95ab71d94bfb14aece4097f0e4cd0358154",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncKamadans00.name",
+          "sourceSha256": "05ee0bc367393046f781934dcfd22a5d771d2f92f26cfeac87e5891d9ad4d27f",
+          "translationSha256": "05ee0bc367393046f781934dcfd22a5d771d2f92f26cfeac87e5891d9ad4d27f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncKamadans00.tokenName",
+          "sourceSha256": "f34625399781dc4763e8c45986a7b9f1f03942be5d05830e3cf3ec7a3bbd19f5",
+          "translationSha256": "c715eedae5acaab5c49cf04ae6969a871a09a9c982ca49886faa3e8212076b74",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncKobolds000.name",
+          "sourceSha256": "4bb4b04651b23a05e8ff4302208434b58c6caf0e06600a289105b5891422b11d",
+          "translationSha256": "4bb4b04651b23a05e8ff4302208434b58c6caf0e06600a289105b5891422b11d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncKobolds000.tokenName",
+          "sourceSha256": "1715ac29747d972c1211e43bbc39cac37360c5a039634d43712952aa51e4d809",
+          "translationSha256": "1252d494b46228185aa459f741c74ea192af8d71d67d3c129e41f0b143442fab",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncLizardfolk.name",
+          "sourceSha256": "b3122a55f5bde572306601816b420a3ceddba4068933aac21f1256cc9e575fa7",
+          "translationSha256": "ac6fe35b22401c2d1f533677b712a004079765731f15fefa7c4e5743115226bd",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncLizardfolk.tokenName",
+          "sourceSha256": "46069915a119c58308c76305077c6b6742b18a40c3c7cd9ff9de33d73fe10945",
+          "translationSha256": "b16dc0a595af925a3c1a08a2f5e36a0b6d82a2a3ad6e2a9d79d4ce8ddb0b52a3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncMagmins000.name",
+          "sourceSha256": "b9df2c9d29d73d685fe72387a495d8ee99b6ab0c8aafe31aa6ef065cd1392b21",
+          "translationSha256": "b9df2c9d29d73d685fe72387a495d8ee99b6ab0c8aafe31aa6ef065cd1392b21",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncMagmins000.tokenName",
+          "sourceSha256": "0946fe74f0e19b7f009cb2de530670f49884c63e7dccaf5f03553da19e3970f9",
+          "translationSha256": "a19067068c13d0d810388383255bdec2a3290075bdde01520c790d6c4c21835c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncMantraps00.name",
+          "sourceSha256": "3e16bc1e19082c5fd32a2eebab83c0b34aebec018b20bb172139fd2b543c1bda",
+          "translationSha256": "ede92a503254f2fc3426b98749c5fffbb9a87f086471585509eec1e801a677b9",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncMantraps00.tokenName",
+          "sourceSha256": "1149c7203698c3f9d41a285c7b75edf9c4590ed03808b737c5deb32e8a7de0f2",
+          "translationSha256": "807efb92cbe8eb5fe852542a0f38252ef713720fb11d1e020e66411d2ba8458e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncPterafolk0.name",
+          "sourceSha256": "4a883bc242fdc5dbcb98a86c5bc7a68306b1426b54f35dff0d143453ec57d4aa",
+          "translationSha256": "97ffa39ccbd71f75751e09b14dc8783003d14c02f04e1eb7bc31756631799325",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncPterafolk0.tokenName",
+          "sourceSha256": "b8b3561c0afcdfd5f94596ac3e1c8ecfd46198a1ab8f2bbf14a1a411ef48c95e",
+          "translationSha256": "94dc38cdf183f128474d2a48e36614bac51b50eead480b71a698d8a44a12f451",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncRedWizard0.name",
+          "sourceSha256": "57853a03c212ae93c3bdf7690cf2d4635bbdbbaf64c8916ffac04af9dd4e33a5",
+          "translationSha256": "cfd3fd3851cb1e6ecb6837ecbae811b0e834cc8dee39aaeabd51d89e2406db90",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncRedWizard0.tokenName",
+          "sourceSha256": "57853a03c212ae93c3bdf7690cf2d4635bbdbbaf64c8916ffac04af9dd4e33a5",
+          "translationSha256": "cfd3fd3851cb1e6ecb6837ecbae811b0e834cc8dee39aaeabd51d89e2406db90",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaReefSharks000.name",
+          "sourceSha256": "aee55fa0205b2c749e10901feacddee9081cfcf4bcc53bfa32974a536206ed17",
+          "translationSha256": "9a0638738ea18541e216ee9fc88682a45875b08d40974697453c43fea5ceec2f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaReefSharks000.tokenName",
+          "sourceSha256": "1e9b15095bee45ca0c65dfbbab2b8bf0ed88347c5d1041373e7443d5a2d41faa",
+          "translationSha256": "17b0ce0559b5cc0d183d49853f08ebd92ca0c2ec10059d5b343242634cfd451c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncSalamander.name",
+          "sourceSha256": "55e922591de98b2ae9e8ac3658ae6003c6577cd02d322590e13710c887bdc867",
+          "translationSha256": "c62706d711f7548d621bb04664c83d08b663dd3f96ac681fce71a31f23dc426b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncSalamander.tokenName",
+          "sourceSha256": "3333731b8f310fe90671ae91035a5109939ba9fefb5b84fa730be6458f316812",
+          "translationSha256": "42b6072ed6741cc87c466177aea01769b14b6268a693df41f80c6f23519327e3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncSeaHags000.name",
+          "sourceSha256": "cbab34087230ba7feddc157efe464dccbd772aca6ed4c8804929cdc76c834f71",
+          "translationSha256": "aa168f55fa7a0fbc8097efd0983ae9bbce5e0442e24a5a0006d172ee48fd4d5c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncSeaHags000.tokenName",
+          "sourceSha256": "cbab34087230ba7feddc157efe464dccbd772aca6ed4c8804929cdc76c834f71",
+          "translationSha256": "aa168f55fa7a0fbc8097efd0983ae9bbce5e0442e24a5a0006d172ee48fd4d5c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncStirges000.name",
+          "sourceSha256": "14db1297a0393c74eed84737b4017603eb896f10a56ead97d2e3ade29deef91e",
+          "translationSha256": "4d5dc66f2a33d71da51dc14be40a7c50e228b428e8a1823b400bfaeb01a3bf12",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncStirges000.tokenName",
+          "sourceSha256": "2ae099801894d8ddf2b33a67131090b8c0b1b518f8c23c4622a5baae54d62af2",
+          "translationSha256": "508fb5c541dab175e01186d5fce56d84c389c87a3b74a8dc5f56c1d982c2500b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncSumonsters.name",
+          "sourceSha256": "13b4c6b282b0bbd24d4836cd4eddf7177d582e3d864afa941845948ebb6db9cb",
+          "translationSha256": "6ec7e9daaa50cf24e8222acb52fbbfd8cec20fad37ace65e8a04dc5a624e9313",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncSumonsters.tokenName",
+          "sourceSha256": "948fc19e63a077b70ab118a2ed92abbdd761d2a447f2bdca379cb810f28c112e",
+          "translationSha256": "598ef8feb4a354e5b2dd89fd8e0a42a3b746b8328683d3d8eee1215991a7ff9b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncSwarmsofBa.name",
+          "sourceSha256": "2511b13ed8139420bd013e4ba788bc82143dd858a1084cc3d30913d0b2dda125",
+          "translationSha256": "ccded3455ef4a02720ccdf16ee706eb3e82fddf7e97a1b9842d4ecc8ece3e50c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncSwarmsofBa.tokenName",
+          "sourceSha256": "8eaac67759db50906db6b9b337ca30ea28b1101b1f66b7c5ca6f00629efe8fc3",
+          "translationSha256": "12553a727b3bd4cde36e3d5908168b85c0ae6c652c0d8c4e51ad47e4098dabc6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncSwarmsofIn.name",
+          "sourceSha256": "8c88afb3a5dcf16beab4c89e3170463fe4d435cdf1fa570b46409ccb9a6bec1a",
+          "translationSha256": "f6c74397230d6289ae7852f54c06eac625bc79f47d6a699b68b84706ac92d897",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncSwarmsofIn.tokenName",
+          "sourceSha256": "e68de62df0bf6be4d3765d2176a4dfef0f4136483ef29f38e3a12a3ac95e6594",
+          "translationSha256": "ea1b75dae33e1491658cf8eed912261974a177bbd4f620883522bcdd1ae7a874",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaSwarmsofPoiso.name",
+          "sourceSha256": "f719a25ec262241a750e87252ba00ece380c081c251edf1c090024f4cf662add",
+          "translationSha256": "31942c9f3304025ace36819d77a86d3ffa38d4be0f6c8010e501d0ea08a80cc4",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaSwarmsofPoiso.tokenName",
+          "sourceSha256": "f719a25ec262241a750e87252ba00ece380c081c251edf1c090024f4cf662add",
+          "translationSha256": "31942c9f3304025ace36819d77a86d3ffa38d4be0f6c8010e501d0ea08a80cc4",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncSwarmsofQu.name",
+          "sourceSha256": "cb25b8087fcf4af81f3c1eee9b1cf00c565c8a5a207fa7ec049194255f27df4e",
+          "translationSha256": "7a9912f17c9fdb2cbd4b91d34a2fcd36791e1c61d3b7209790c887e80d503e42",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncSwarmsofQu.tokenName",
+          "sourceSha256": "debe4d5affdd5d6f5cf1fadaa2ca77dec72a9fe7ca1cda3f5e85bec39560978a",
+          "translationSha256": "a30a167e8fb07debfef996303bea678e0c695a7fcc78a66a1be9ecccc90505b6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncTriflowerF.name",
+          "sourceSha256": "ea1089917e5d112eae644a2e8a30834b3ed09dd0184789e6cf0b586c5e5d7818",
+          "translationSha256": "c5dcd150ac98bed8adda420c192560774de9312eb5c2523d12f82cdd60d646d9",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncTriflowerF.tokenName",
+          "sourceSha256": "26fbd738f55099b60eb2616f6dfec285b171e08c75080cdee415facaf3d5fe28",
+          "translationSha256": "8faa4b6a2556a8ce5e960f78ee21eead9299cecb00a026b85476bf92fd6bb96d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaTribalWarrior.name",
+          "sourceSha256": "0eebb07b5f7c1a6796428a008394f71012d2c6458a1555650e8e6b8597bbdf8b",
+          "translationSha256": "980d360c16f212d7fb028b61a8860ae7e64e32e6730dfbfc2db263840f46013e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaTribalWarrior.tokenName",
+          "sourceSha256": "0eebb07b5f7c1a6796428a008394f71012d2c6458a1555650e8e6b8597bbdf8b",
+          "translationSha256": "980d360c16f212d7fb028b61a8860ae7e64e32e6730dfbfc2db263840f46013e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncVegepygmie.name",
+          "sourceSha256": "93c6a52e5abee1b1ce97a96576030e6d84f5609f6b8e2ec75127920262ca93ad",
+          "translationSha256": "aca5b2e8162d01d45b27b7f4c1c1bdd28a20a2886a56b537f16e79d243955cd6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncVegepygmie.tokenName",
+          "sourceSha256": "e45aaf95d536340250e77205b8e318d3717acde373face4887cd9b0d719531e1",
+          "translationSha256": "427027b2a9e49bff2693f7d2b67916523148b0f55f3a7aec2616844cd98f6624",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncVeterans00.name",
+          "sourceSha256": "3429c66614b1fa983dd43ea083900e74d8587ca1a29e11478a3a64e5bfebc2c0",
+          "translationSha256": "aaafd566eeb9749e0fe6370dd16b58b265cc7a55512dd37d89ab1214b2e80510",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncVeterans00.tokenName",
+          "sourceSha256": "834511726b18b3e3088296470476982375451bfd76656d1e7a3af480b4a67ebc",
+          "translationSha256": "11c0c3c8a746386fec9f4268dab51089ce8121790bfcd6080ebca2303fc5711d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncYellowMusk.name",
+          "sourceSha256": "2ce84b2debba2fd1a0052afa1146a79ae844c83fa5c16d02d76373c3327b2762",
+          "translationSha256": "7e0d1c6c090740ee50eb971aac326331c5018c2b8f065b899a0416b45528e118",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncYellowMusk.tokenName",
+          "sourceSha256": "f82a3a6ef9a59b08ad90e363c04dd2f0b20738c13d52f203ac6c328cda08eb56",
+          "translationSha256": "972c1ced6687eba8b8706b4a20471230d3a797a495d4fb32ce20b1127204ecc0",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncYuanTiMali.name",
+          "sourceSha256": "b593f4dd9304f0c457829e1a3dc5a8f63275d643f9ef71bffb7a2c24845758a5",
+          "translationSha256": "b12384d6cc4e1f8a07363b52c900b0e16675785b3965afb9a0afea7e912470e9",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncYuanTiMali.tokenName",
+          "sourceSha256": "c38696af0652040800dec458eccb599f0a9207d502e09a74c9906564fa2728da",
+          "translationSha256": "1874cc821f4673a75f94d48af309130dde3f330a808a1c187bf33c7a8252b4d6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncYuanti0000.name",
+          "sourceSha256": "c46a0dd68c015781ee089ed505b4900984142029ef10a35a7ecb7222a5c14f1e",
+          "translationSha256": "bc4a442afdd95cdfff04afd0bd0c4acfd7c66cce89138cde2340e153dd5fefee",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncYuanti0000.tokenName",
+          "sourceSha256": "d1d1cec07d3c8a125a775a37239a742707dbb3fdaa705dc180939e31609e6115",
+          "translationSha256": "8e757ffdd3cb38b8ab7fada9d15acb27997d5ccff014bf5713e21818373e5398",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncZhentarim0.name",
+          "sourceSha256": "a7857e78234314ad74f540bdf51870f58194b758251ceb3a1ca28f17721e2d09",
+          "translationSha256": "a7857e78234314ad74f540bdf51870f58194b758251ceb3a1ca28f17721e2d09",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncZhentarim0.tokenName",
+          "sourceSha256": "7ad91b7e045fa5b788e092da0525f16a9239e7db78123ca176a662dd6be523db",
+          "translationSha256": "dcfa3327c7a6651aa7d90ea0259ebb831c9759b3ac4478d5615bcf4c440b419e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncZorbos0000.name",
+          "sourceSha256": "9c060a7af0f130ebe03f2d8c9666797c7b1a98cb60f695f22f8071c2b2a23163",
+          "translationSha256": "9c060a7af0f130ebe03f2d8c9666797c7b1a98cb60f695f22f8071c2b2a23163",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncZorbos0000.tokenName",
+          "sourceSha256": "129f5b7fcdf48a38c45440c9cd9214a5680aa7119f6b798f20a6ac464ff7f77c",
+          "translationSha256": "2492b7a1b61c4d53a412a100229a5a1657fe3c1d82f4a2882e0da5f24bd66fe8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncAllosaurus.name",
+          "sourceSha256": "9f06383a3accb493052f91c1eb964d3e1add04b71b0c90d1409af04b75372ca4",
+          "translationSha256": "13097ff7e0f1c6596af41fe444b22e16a818b69ac7bdc22ef90aa6eb3c9d2060",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncAllosaurus.tokenName",
+          "sourceSha256": "60dbc2296da1be55d85c6d54273db75c2e0bc58f63cc08fa590ed20fa911a795",
+          "translationSha256": "2fe4df6797d212ff3743de4dc765ef336b36bee95b934204fa5f8cc57eb0a104",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncAnkylosaur.name",
+          "sourceSha256": "4f393a4c6de0b2f104a1c03094ceab04ced892659b91531da70401f48d8e8d5e",
+          "translationSha256": "7ab8601395bfb0ad64221361a8eb159dadf9c0858fd2c97c0ab9e039fcca1cb3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncAnkylosaur.tokenName",
+          "sourceSha256": "cb7d1ae9e919b340abefdadb09944a17d5649335121f54485bda126823a496a9",
+          "translationSha256": "ee4a16abecffc3f97e4b5b490f471b24d431cebc23713738b8e6f05c3dcdfc16",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncBrontosaur.name",
+          "sourceSha256": "ff908aec4ee69ebf144ca682fd6bae0f27e9cad0fcfc3d004eb5c80de845e612",
+          "translationSha256": "73bf7a1cea06c3d8baf343997a97b3a8bb837ff7b4bec0b7de634f838a878e6d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncBrontosaur.tokenName",
+          "sourceSha256": "71fd53f4a18f3d0198537fd2181b7cd0822dcd6cea3fa24af1691b2cd5842ca8",
+          "translationSha256": "1dedab189e8116763f91479a4e00c1b000122259f1b4e207d1029a7b069f51da",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncDeinonychu.name",
+          "sourceSha256": "b7565e217dffeb0deb2059268ed44497e60cc8806f96926a6ceea0c159bc7368",
+          "translationSha256": "32dcf54b24eed27a66d8ba57c1a97a0200d0b9adbf4ce65f247f76d3a8dc1246",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncDeinonychu.tokenName",
+          "sourceSha256": "ebf96093d3109a8ddc2ce3d7344b390b44df4a6547b57553879c2345476aae62",
+          "translationSha256": "d3a3e64c419e5fe8fd87ead2ef12e666a0c7059de51b303d2faad6521b3c7347",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncDimetrodon.name",
+          "sourceSha256": "4c2f3b8c50afbac0249be7260ec4b7921dd6310f53a879d40632ba4dd7c82aec",
+          "translationSha256": "6af2a00df3f4e5280242e65db62e7dcd40014a3de49cf435a100373f61d8f271",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncDimetrodon.tokenName",
+          "sourceSha256": "4c2f3b8c50afbac0249be7260ec4b7921dd6310f53a879d40632ba4dd7c82aec",
+          "translationSha256": "6af2a00df3f4e5280242e65db62e7dcd40014a3de49cf435a100373f61d8f271",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncHadrosauru.name",
+          "sourceSha256": "ef4a91d5f3195ae54cf0f7a6b83e2acf9f8a576b3aa92a8ce0ade3bcfb114b4c",
+          "translationSha256": "120a0b09f080e0c757b7fa2bee6a666c67d1a68447789e4acd00db27344b3be3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncHadrosauru.tokenName",
+          "sourceSha256": "ef4a91d5f3195ae54cf0f7a6b83e2acf9f8a576b3aa92a8ce0ade3bcfb114b4c",
+          "translationSha256": "120a0b09f080e0c757b7fa2bee6a666c67d1a68447789e4acd00db27344b3be3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncPlesiosaur.name",
+          "sourceSha256": "0f1c2a827418cf6eeb82bffae8d1defdfff1466d340a3be63a418401a10945a2",
+          "translationSha256": "3296d95e262e5ccda5c6194002446458ea7fdbd41dc011779881b4ede78e0576",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncPlesiosaur.tokenName",
+          "sourceSha256": "0f1c2a827418cf6eeb82bffae8d1defdfff1466d340a3be63a418401a10945a2",
+          "translationSha256": "3296d95e262e5ccda5c6194002446458ea7fdbd41dc011779881b4ede78e0576",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncPteranodon.name",
+          "sourceSha256": "aaa0c2716aa76e4a5af92e59b26a3f83cdcb3e0130376428117679d0b8bd8e5d",
+          "translationSha256": "7fc0869d78915d7c0fd02c8e496caa2f23c4832c5b185a694a855cc2b0d1078f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncPteranodon.tokenName",
+          "sourceSha256": "aaa0c2716aa76e4a5af92e59b26a3f83cdcb3e0130376428117679d0b8bd8e5d",
+          "translationSha256": "7fc0869d78915d7c0fd02c8e496caa2f23c4832c5b185a694a855cc2b0d1078f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncQuetzalcoa.name",
+          "sourceSha256": "1b3342d9e050bbd008d3cb4af0e68f6da066222a5efaa33471594a918a59531a",
+          "translationSha256": "1b3342d9e050bbd008d3cb4af0e68f6da066222a5efaa33471594a918a59531a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncQuetzalcoa.tokenName",
+          "sourceSha256": "1b3342d9e050bbd008d3cb4af0e68f6da066222a5efaa33471594a918a59531a",
+          "translationSha256": "1b3342d9e050bbd008d3cb4af0e68f6da066222a5efaa33471594a918a59531a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncStegosauru.name",
+          "sourceSha256": "8b7954618c75615aca0657087bb31a54b9f53cff476c4edd16ffc71c7982690f",
+          "translationSha256": "f8748f0ff1f4b11b027abf18c479f5a3f329621eeb0175c814030aadd84c174f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncStegosauru.tokenName",
+          "sourceSha256": "7cdd76f251d62b6838d173bd228565f1482d1a87aefb6fd2fe43e8ee4f2e69ef",
+          "translationSha256": "486959fd4cbb829e4807923edc2a843f11dc3f8fdf71720abde7dd8e52edb006",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncTriceratop.name",
+          "sourceSha256": "ea17f57cff080a33dac001f099cd86029d20216c5c818780fc112c807854d4f7",
+          "translationSha256": "983d86c27d525589cb798d9e51843e9e185d798034d354d15af4c7c0fcd56d97",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncTriceratop.tokenName",
+          "sourceSha256": "ea17f57cff080a33dac001f099cd86029d20216c5c818780fc112c807854d4f7",
+          "translationSha256": "983d86c27d525589cb798d9e51843e9e185d798034d354d15af4c7c0fcd56d97",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncTyrannosau.name",
+          "sourceSha256": "a10e17b8e9df1e55fda0ed054b3e4a50748edeefa7edf8ca0282fe636b2c05aa",
+          "translationSha256": "34293cb6bcb1485d1971c63625ba975e1d0a8748c7095d15cad2f2c40aecc35d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncTyrannosau.tokenName",
+          "sourceSha256": "f7b28e0fc33e7daf7f6c5793ce9a5e1cd1c3380a96708444160bbdf229012e38",
+          "translationSha256": "6ac30e421c74f80dd4b92837b140ab04ada307764738c3b67277f1a241ccef4f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncVelocirapt.name",
+          "sourceSha256": "c5c7ec389b84434faca8e02498e7b4fb0d8efd8ede736a7bc464fee947f52c27",
+          "translationSha256": "69b9bb62d1167fc6180524cd27719ece0e0ddf89504acca729554af2386dbb0d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncVelocirapt.tokenName",
+          "sourceSha256": "cf4c7e15d8190fe570e20d5f2eba43c73881cc2105087732e2a9cd31b97a637a",
+          "translationSha256": "2c52074b392f3a6a1e914d805bcdb9669b28c0669b1a2e08e818b1087c62bfc1",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncUndGhouls0.name",
+          "sourceSha256": "3515a08d1e96aee4484d5d4bed59587b3a59e6404a0975efd9a40bcf88e7add0",
+          "translationSha256": "d53f207ab3b7a50127b551537a46ddac70db72d979eaf097afc7433eed499644",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncUndGhouls0.tokenName",
+          "sourceSha256": "3515a08d1e96aee4484d5d4bed59587b3a59e6404a0975efd9a40bcf88e7add0",
+          "translationSha256": "d53f207ab3b7a50127b551537a46ddac70db72d979eaf097afc7433eed499644",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncUndSkeleto.name",
+          "sourceSha256": "f6fb698c6074f81c66ff5320be7fd8c69f2790b518f08606fd204f14e1f7af72",
+          "translationSha256": "70385038c6b024aca18eedf3fe9034764e834ce9905fb97b924249a23a2c795d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncUndSkeleto.tokenName",
+          "sourceSha256": "2df5317edfc10577507a71883ed0da49f5133d3a2a8742601e7d19963864d0e6",
+          "translationSha256": "3e1f39e9804de710961cb650288a686c378fd9318cc8f75c4c116a59dbabd85f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncUndSpecter.name",
+          "sourceSha256": "850e4a5b4fb663422677e6cc3cee2dadd34153ca28864f86accd0da01b0c423c",
+          "translationSha256": "4ded0f369abbd1b39b1ee73c6f52be07da5a087fa91eee0af8a3bd8652fa818f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaEncUndSpecter.tokenName",
+          "sourceSha256": "850e4a5b4fb663422677e6cc3cee2dadd34153ca28864f86accd0da01b0c423c",
+          "translationSha256": "4ded0f369abbd1b39b1ee73c6f52be07da5a087fa91eee0af8a3bd8652fa818f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Adventure-exclusive actor field reviewed against English export; encounter terminology aligned with reviewed creature profiles and adventure locations."
+        }
+      ]
     }
   ]
 }

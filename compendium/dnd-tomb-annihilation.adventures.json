@@ -105,7 +105,7 @@
       "actors": {
         "toaEncUndZombies": {
           "name": "Zombis",
-          "tokenName": "Grupo: Zombies"
+          "tokenName": "Grupo: Zombis"
         },
         "toaAarakocra0000": {
           "alignment": "Neutral bueno",
@@ -119,8 +119,8 @@
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>"
             },
             "QKf2YZjWEahSRw5B": {
-              "name": "Ataque de buceo",
-              "description": "<p>Si [[lookup @name]] está volando y se zambulle al menos 30 pies rectos hacia un objetivo y luego lo golpea con un ataque de arma cuerpo a cuerpo, el ataque trata un extra [[/damage average]] daños al objetivo.</p>"
+              "name": "Ataque en Picado",
+              "description": "<p>Si [[lookup @name]] está volando, desciende en picado al menos 30 pies en línea recta hacia un objetivo y después le impacta con un ataque con arma cuerpo a cuerpo, el ataque causa [[/damage average]] de daño adicional al objetivo.</p>"
             }
           },
           "name": "Aarakocra",
@@ -6181,7 +6181,7 @@
           "items": {
             "T5RvBZ44NYikc0gx": {
               "name": "Tentáculos",
-              "description": "<p>Una vez por turno, en respuesta a cualquier criatura que haga un ataque exitoso con un arma cuerpo a cuerpo contra el cilindro o uno de sus puntales, el Almero ataca a esa criatura con uno de sus tentáculos de 30 pies de largo. El tentáculo tiene una puntuación de fuerza de 22 y hace un ataque de arma cuerpo a cuerpo contra la criatura: [[/attack +7]], [[/damage 4d8 + 6 bludgeoning]] daño. En lugar de hacer daño, un tentáculo puede &amp;Reference[grappled]{grapple} su objetivo (escape CD 16). Si el objetivo pesa 330 libras o menos, el tentáculo también puede levantar a la criatura apretada y moverla a cualquier espacio desocupado dentro de su alcance de 30 pies, o dejarla caer en la lava.</p>",
+              "description": "<p>Una vez por turno, cuando una criatura impacta con un ataque con arma cuerpo a cuerpo al cilindro o a uno de sus puntales, el Almero responde atacándola con uno de sus tentáculos de 30 pies de largo. El tentáculo tiene una puntuación de Fuerza de 22 y realiza un ataque con arma cuerpo a cuerpo contra la criatura: [[/attack +7]], [[/damage 4d8 + 6 bludgeoning]] de daño. En lugar de causar daño, puede &amp;Reference[grappled]{agarrar} al objetivo (CD 16 para escapar). Si el objetivo pesa 330 libras o menos, el tentáculo también puede levantar a la criatura agarrada y moverla a cualquier espacio desocupado dentro de su alcance de 30 pies, o dejarla caer en la lava.</p>",
               "activities": {
                 "HzZdVXmwSGYhLLRr": {
                   "name": "Agarrar"
@@ -12746,7 +12746,7 @@
           "effects": {
             "toaDeathCurse000": {
               "name": "Maldición de muerte",
-              "description": "<p>Empiezas a desperdiciar después de ser traído de vuelta de entre los muertos. Su punto máximo de impacto se reduce en 1 por cada día que el Almero ha estado activo. Si tu punto máximo de impacto cae a 0, mueres.</p>"
+              "description": "<p>Empiezas a consumirte tras haber sido devuelto a la vida. Tus puntos de golpe máximos se reducen en 1 por cada día que el Almero lleve activo. Si tus puntos de golpe máximos se reducen a 0, mueres.</p>"
             }
           },
           "name": "Syndra Silvane",
@@ -13257,13 +13257,13 @@
               "description": "<p>Como acción adicional, Valindra puede ocultar su carne apergaminada y parecer una elfa viva. Esta ilusión mágica dura hasta que la termine como acción adicional o use su acción legendaria [[/item Frightening Gaze]]{Mirada aterradora}.</p><p>El efecto también termina si sus puntos de golpe se reducen a 30 o menos, o si se lanza <em>@UUID[Compendium.dnd5e.spells.Item.15Fa6q1nH27XfbR8]{disipar magia}</em> sobre ella.</p>"
             },
             "Ld1xR99LgRMHD2sj": {
-              "name": "Pergamino ortográfico: Puerta Arcana",
-              "description": "<p><em>Nivel 6 &amp;Reference[Spell Scroll], Requiere concentración</em></p><p>Usted crea portales de teletransportación enlazados que permanecen abiertos durante la duración. Elija dos puntos en el suelo que puede ver, un punto a menos de 10 pies de usted y un punto a menos de 500 pies de usted. Un portal circular, de 10 pies de diámetro, se abre sobre cada punto. Si el portal se abriría en el espacio ocupado por una criatura, el conjuro falla, y el casting se pierde.</p><p>Los portales son anillos bidimensionales brillantes llenos de niebla, que flotan pulgadas desde el suelo y perpendiculares a él en los puntos que elija. Un anillo es visible sólo desde un lado (su elección), que es el lado que funciona como un portal.</p><p>Cualquier criatura u objeto que entre en el portal sale del otro portal como si ambos estuvieran adyacentes entre sí; pasar por un portal desde el lado no portal no tiene efecto. La niebla que llena cada portal es opaca y bloquea la visión a través de él. En su turno, puede girar los anillos como una acción adicional para que el lado activo se enfrenta en una dirección diferente.</p>",
+              "name": "Pergamino de conjuro: Portal arcano",
+              "description": "<p><em>&amp;Reference[Spell Scroll]{Pergamino de conjuro} de nivel 6, requiere concentración</em></p><p>Creas dos portales de teletransportación conectados que permanecen abiertos durante el conjuro. Elige dos puntos en el suelo que puedas ver: uno a 10 pies o menos de ti y otro a 500 pies o menos. Sobre cada punto se abre un portal circular de 10 pies de diámetro. Si un portal fuera a abrirse en el espacio ocupado por una criatura, el conjuro falla y el lanzamiento se pierde.</p><p>Los portales son anillos luminosos bidimensionales llenos de niebla, que flotan a unas pulgadas del suelo y perpendiculares a él en los puntos elegidos. Cada anillo solo es visible desde uno de sus lados, a tu elección, que es el que funciona como portal.</p><p>Cualquier criatura u objeto que entre en un portal sale por el otro como si ambos fueran adyacentes. Atravesar un portal desde su lado inactivo no tiene ningún efecto. La niebla que llena cada portal es opaca e impide ver a través de él. En tu turno, puedes girar los anillos como acción adicional para orientar su lado activo en otra dirección.</p>",
               "activities": {
                 "KR58r9V0HjqLMbhA": {
                   "target": {
                     "affects": {
-                      "special": "1 en 10 pies, el otro en 500 pies"
+                      "special": "1 a 10 pies o menos; el otro, a 500 pies o menos"
                     }
                   }
                 }
@@ -15720,8 +15720,8 @@
           "biography": "<p>\n        <em>\n          Ilustración de la ficha por\n          <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.\n        </em>\n      </p><p>\n        <em>\n          Ilustración de la ficha por\n          <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.\n        </em>\n      </p><p>\n        <em>\n          Ilustración de la ficha por\n          <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.\n        </em>\n      </p>"
         },
         "toaParty00000000": {
-          "name": "Partido",
-          "tokenName": "Partido"
+          "name": "Grupo de aventureros",
+          "tokenName": "Grupo de aventureros"
         },
         "toaCh1EncGladiat": {
           "name": "Gladiadores",
@@ -15729,7 +15729,7 @@
         },
         "toaCh2AssassinVi": {
           "name": "Enredaderas asesinas (Dungrunglung)",
-          "tokenName": "Grupo: Assassin Vines"
+          "tokenName": "Grupo: Enredaderas asesinas"
         },
         "toaCh2EncBaboons": {
           "name": "Babuinos (Ataaz Muhahah)",
@@ -15744,56 +15744,56 @@
           "tokenName": "Grupo: Destacamento"
         },
         "toaDrufisSearchP": {
-          "name": "Partido de Búsqueda de Drufi (Hvalspyd)",
-          "tokenName": "Grupo: Partido de Búsqueda de Drufi"
+          "name": "Partida de búsqueda de Drufi (Hvalspyd)",
+          "tokenName": "Grupo: Partida de búsqueda de Drufi"
         },
         "toaCh2ElderPtera": {
-          "name": "Hombre pterodáctilo anciano (Dedo de Fuego)",
-          "tokenName": "Grupo: Elder Pterafolk"
+          "name": "Hombres pterodáctilo ancianos (Dedo de Fuego)",
+          "tokenName": "Grupo: Hombres pterodáctilo ancianos"
         },
         "toaFightingForce": {
-          "name": "Fuerza de combate (Campamento de Venganza)",
+          "name": "Fuerza de combate (Campamento Venganza)",
           "tokenName": "Grupo: Fuerza de combate"
         },
         "toaCh2EncStrider": {
-          "name": "Patrulla de bomberos (Ataaz Yklwazi)",
-          "tokenName": "Grupo: Patrulla de bomberos"
+          "name": "Patrulla de salamandras flamígeras (Ataaz Yklwazi)",
+          "tokenName": "Grupo: Patrulla de salamandras flamígeras"
         },
         "toaFirenewtWarri": {
-          "name": "Guerreros de Firenewt (Hrakhamar)",
-          "tokenName": "Grupo: Guerreros Firenett"
+          "name": "Salamandras flamígeras guerreras (Hrakhamar)",
+          "tokenName": "Grupo: Salamandras flamígeras guerreras"
         },
         "toaCh2FlyingSwor": {
-          "name": "Espadas voladoras (Anclaje de Jahaka)",
+          "name": "Espadas voladoras (Fondeadero de Jahaka)",
           "tokenName": "Grupo: Espadas voladoras"
         },
         "toaCh2GhoulsDung": {
           "name": "Gules (Dungrunglung)",
-          "tokenName": "Grupo: Ghouls"
+          "tokenName": "Grupo: Gules"
         },
         "toaCh2GhoulsStar": {
-          "name": "Ghouls (Destrucción de la Diosa Estelar)",
-          "tokenName": "Grupo: Ghouls"
+          "name": "Gules (Restos de la Diosa Estelar)",
+          "tokenName": "Grupo: Gules"
         },
         "toaGiantStriders": {
-          "name": "Striders gigantes (Hrakhamar)",
-          "tokenName": "Grupo: Striders gigantes"
+          "name": "Caminantes gigantescos (Hrakhamar)",
+          "tokenName": "Grupo: Caminantes gigantescos"
         },
         "toaGoblinsCampRi": {
           "name": "Goblins (Campamento Justicia)",
           "tokenName": "Goblins"
         },
         "toaCh2EncGrungWa": {
-          "name": "Guerreros Verdes Grung (Dungrunglung)",
-          "tokenName": "Grupo: Guerreros Grung"
+          "name": "Guerreros grung verdes (Dungrunglung)",
+          "tokenName": "Grupo: Guerreros grung"
         },
         "toaUndeadGuardia": {
-          "name": "Grupo: Guardianes No Muertos (Corazón de Ubtao)",
-          "tokenName": "Grupo: Guardianes No Muertos"
+          "name": "Grupo: Guardianes muertos vivientes (Corazón de Ubtao)",
+          "tokenName": "Grupo: Guardianes muertos vivientes"
         },
         "toaCh2EncGrungEl": {
-          "name": "Guerreros Elite Grung (Dungrunglung)",
-          "tokenName": "Grupo: Grung Elite Warriors"
+          "name": "Guerreros de élite grung (Dungrunglung)",
+          "tokenName": "Grupo: Guerreros de élite grung"
         },
         "toaCh2GrungsDung": {
           "name": "Grungs (Dungrunglung)",
@@ -15805,23 +15805,23 @@
         },
         "toaCh2PterafolkF": {
           "name": "Hombres pterodáctilo (Dedo de Fuego)",
-          "tokenName": "Grupo: Pterafolk"
+          "tokenName": "Grupo: Hombres pterodáctilo"
         },
         "toaCh2PterafolkM": {
           "name": "Hombres pterodáctilo (Mbala)",
-          "tokenName": "Grupo: Pterafolk"
+          "tokenName": "Grupo: Hombres pterodáctilo"
         },
         "toaCh2EncQuipper": {
-          "name": "Quippers (Mina Wyrmheart)",
-          "tokenName": "Grupo: Quippers"
+          "name": "Mordedores (Mina Wyrmheart)",
+          "tokenName": "Grupo: Mordedores"
         },
         "toaCh2ReefSharks": {
-          "name": "Tiburones de arrecife (Anclaje de Jahaka)",
+          "name": "Tiburones de arrecife (Fondeadero de Jahaka)",
           "tokenName": "Grupo: Tiburones de arrecife"
         },
         "toaSearchPartyHv": {
-          "name": "Partido de búsqueda (Hvalspyd)",
-          "tokenName": "Grupo: Partido de búsqueda"
+          "name": "Partida de búsqueda (Hvalspyd)",
+          "tokenName": "Grupo: Partida de búsqueda"
         },
         "toaCh2SpectersWy": {
           "name": "Espectros (Mina Wyrmheart)",
@@ -15829,79 +15829,79 @@
         },
         "toaCh2StirgesFir": {
           "name": "Estirges (Dedo de Fuego)",
-          "tokenName": "Grupo: Stirges"
+          "tokenName": "Grupo: Estirges"
         },
         "toaUndeadHordeCa": {
           "name": "Horda de muertos vivientes (Campamento Justicia)",
           "tokenName": "Grupo: Horda de muertos vivientes"
         },
         "toach2YellowMusk": {
-          "name": "Zombies almizcleros amarillos (Nangalore)",
-          "tokenName": "Grupo: Zombies almizcleros amarillos"
+          "name": "Zombis amarillos almizclados (Nangalore)",
+          "tokenName": "Grupo: Zombis amarillos almizclados"
         },
         "toaCh2ZombiesDun": {
           "name": "Zombis (Dungrunglung)",
-          "tokenName": "Grupo: Zombies"
+          "tokenName": "Grupo: Zombis"
         },
         "toaCh3RedWizards": {
-          "name": "Asistentes rojos (Área 2)",
-          "tokenName": "Grupo: Asistentes rojos"
+          "name": "Magos Rojos (zona 2)",
+          "tokenName": "Grupo: Magos Rojos"
         },
         "toaCh3EscortsRed": {
-          "name": "Escoltas del Asistente Rojo (Área 2)",
-          "tokenName": "Grupo: Escoltas del Asistente Rojo"
+          "name": "Escoltas del Mago Rojo (zona 2)",
+          "tokenName": "Grupo: Escoltas del Mago Rojo"
         },
         "toaCh2EncSteamMe": {
-          "name": "Mefitos de vapor (Área 12B)",
-          "tokenName": "Grupo: Mefitos de vapor"
+          "name": "Mephits de vapor (zona 12B)",
+          "tokenName": "Grupo: Mephits de vapor"
         },
         "toaCh3vegepygmyt": {
-          "name": "Tribu Vegepygmy (Área 5)",
-          "tokenName": "Grupo: Vegepygmy Tribe"
+          "name": "Tribu de vegepigmeos (zona 5)",
+          "tokenName": "Grupo: Tribu de vegepigmeos"
         },
         "toach3yuantimali": {
-          "name": "Yuan-ti Malisons (Zona 1)",
-          "tokenName": "Grupo: Yuan-ti Malisons"
+          "name": "Corruptos yuan-ti (zona 1)",
+          "tokenName": "Grupo: Corruptos yuan-ti"
         },
         "toaCh2EncZorbosO": {
-          "name": "Zorbos (Área 19A)",
+          "name": "Zorbos (zona 19A)",
           "tokenName": "Grupo: Zorbos"
         },
         "toaCh4EncCaptive": {
-          "name": "Cautivos (Área 19)",
-          "tokenName": "Grupo: Captives"
+          "name": "Cautivos (zona 19)",
+          "tokenName": "Grupo: Cautivos"
         },
         "toaCh4EncGhouls0": {
-          "name": "Ghouls (Área 11)",
-          "tokenName": "Grupo: Ghouls"
+          "name": "Gules (zona 11)",
+          "tokenName": "Grupo: Gules"
         },
         "toaCh4EncYuantiB": {
-          "name": "Yuan-ti Broodguards (Área 20)",
-          "tokenName": "Yuan-tis guardianes de la progenie"
+          "name": "Guardaestirpes yuan-ti (zona 20)",
+          "tokenName": "Guardaestirpes yuan-ti"
         },
         "toaCh4EncYuantiN": {
-          "name": "Nidos de Yuan-ti (Área 18)",
-          "tokenName": "Grupo: Nidos Yuan-ti"
+          "name": "Nidos de yuan-ti (zona 18)",
+          "tokenName": "Grupo: Nidos de yuan-ti"
         },
         "toaAcheronWardro": {
-          "name": "Armario Acheron",
-          "tokenName": "Armario Acheron"
+          "name": "Armario de Aqueronte",
+          "tokenName": "Armario de Aqueronte"
         },
         "toaBarbedDevils0": {
-          "name": "Diablos de púas",
-          "tokenName": "Grupo: Diablos de púas"
+          "name": "Diablos punzantes",
+          "tokenName": "Grupo: Diablos punzantes"
         },
         "toaBeardedDevils": {
           "name": "Diablos barbudos",
           "tokenName": "Grupo: Diablos barbudos"
         },
         "toaGehennaWardro": {
-          "name": "Armario Gehenna",
-          "tokenName": "Armario Gehenna"
+          "name": "Armario de Gehenna",
+          "tokenName": "Armario de Gehenna"
         },
         "toaCh5MinotaurSk": {
           "name": "Esqueletos de minotauro",
-          "tokenName": "Grupo: Esqueletos de Minotauro"
+          "tokenName": "Grupo: Esqueletos de minotauro"
         },
         "toaCh5Nothics000": {
           "name": "Nóticos",
@@ -15916,52 +15916,52 @@
           "tokenName": "Cuadrones"
         },
         "toaSewnSisters00": {
-          "name": "Hermanas Sewn",
-          "tokenName": "Hermanas Sewn"
+          "name": "Hermanas Cosidas",
+          "tokenName": "Hermanas Cosidas"
         },
         "toaShadowfellWar": {
-          "name": "Vestuario de Shadowfell",
-          "tokenName": "Vestuario de Shadowfell"
+          "name": "Armario del Shadowfell",
+          "tokenName": "Armario del Shadowfell"
         },
         "toaCh5EncShambli": {
-          "name": "Monturas ensombrecidas",
-          "tokenName": "Grupo: Montículos de Shambling"
+          "name": "Brozas movedizas",
+          "tokenName": "Grupo: Brozas movedizas"
         },
         "toaSpinedDevils0": {
-          "name": "Diablos giratorios",
-          "tokenName": "Grupo: Diablos escurridos"
+          "name": "Diablos espinosos",
+          "tokenName": "Grupo: Diablos espinosos"
         },
         "toaCh5SwarmUndea": {
-          "name": "Enjambres de arañas no muertas",
-          "tokenName": "Grupo: Enjambres de arañas no muertas"
+          "name": "Enjambres de arañas muertas vivientes",
+          "tokenName": "Grupo: Enjambres de arañas muertas vivientes"
         },
         "toaCh5EncTerraco": {
           "name": "Guerreros de terracota",
-          "tokenName": "Grupo: Guerreros de Terracota"
+          "tokenName": "Grupo: Guerreros de terracota"
         },
         "toaCh5TombDwarve": {
-          "name": "Enanos de tumba",
-          "tokenName": "Grupo: Enanos de Tumba"
+          "name": "Enanos de la tumba",
+          "tokenName": "Grupo: Enanos de la tumba"
         },
         "toaWereboars0000": {
-          "name": "Boars",
-          "tokenName": "Grupo:"
+          "name": "Hombres jabalí",
+          "tokenName": "Grupo: Hombres jabalí"
         },
         "toaEncUndWight00": {
           "name": "Tumularios",
           "tokenName": "Tumularios"
         },
         "toaCh5EncWineWei": {
-          "name": "Raros del vino",
-          "tokenName": "Grupo: Vinos raros"
+          "name": "Extraños de vino",
+          "tokenName": "Grupo: Extraños de vino"
         },
         "toaCh5EncWraiths": {
-          "name": "Espectros",
-          "tokenName": "Grupo: Espectros"
+          "name": "Apariciones",
+          "tokenName": "Grupo: Apariciones"
         },
         "toaSoulmongerStr": {
-          "name": "Soporte del Almero",
-          "tokenName": "Soporte del Almero"
+          "name": "Puntal del Almero",
+          "tokenName": "Puntal del Almero"
         },
         "toaTentacles0000": {
           "name": "Tentáculos",
@@ -16017,12 +16017,12 @@
           }
         },
         "toaArea38CDoor00": {
-          "name": "Zona 38C Puerta",
-          "tokenName": "Zona 38C Puerta"
+          "name": "Puerta de la zona 38C",
+          "tokenName": "Puerta de la zona 38C"
         },
         "toaArea39SmallSt": {
-          "name": "Área 39 Pecho de piedra pequeña",
-          "tokenName": "Área 39 Pecho pequeño"
+          "name": "Cofre pequeño de piedra de la zona 39",
+          "tokenName": "Cofre pequeño de la zona 39"
         },
         "toaDecahedron000": {
           "name": "Decaedro",
@@ -16034,23 +16034,23 @@
         },
         "toaEncAarakocra0": {
           "name": "Aarakocra",
-          "tokenName": "Aarakocra"
+          "tokenName": "Grupo: Aarakocra"
         },
         "toaEncAlbinoDwar": {
           "name": "Enanos albinos",
-          "tokenName": "Grupo: Albino Enanos"
+          "tokenName": "Grupo: Enanos albinos"
         },
         "toaEncApes000000": {
           "name": "Simios",
           "tokenName": "Grupos: Simios"
         },
         "toaEncAssassinVi": {
-          "name": "Asesino de Vines",
-          "tokenName": "Grupo: Assassin Vines"
+          "name": "Enredaderas asesinas",
+          "tokenName": "Grupo: Enredaderas asesinas"
         },
         "toaEncAxeBeaks00": {
-          "name": "Pimientos de hacha",
-          "tokenName": "Grupo: picos de hacha"
+          "name": "Picos de hacha",
+          "tokenName": "Grupo: Picos de hacha"
         },
         "toaEncBaboons000": {
           "name": "Babuinos",
@@ -16066,7 +16066,7 @@
         },
         "toaEncEblis00000": {
           "name": "Eblis",
-          "tokenName": "Grupo Eblis"
+          "tokenName": "Grupo: Eblis"
         },
         "toaEncEmeraldEnc": {
           "name": "Enclave Esmeralda",
@@ -16077,16 +16077,16 @@
           "tokenName": "Grupo: Exploradores"
         },
         "RFqrWxhBX2cWygKN": {
-          "name": "Fuegos artificiales (Patrulla Pesada)",
-          "tokenName": "Grupo: Guerreros Firenett"
+          "name": "Salamandras flamígeras (patrulla pesada)",
+          "tokenName": "Grupo: Salamandras flamígeras guerreras"
         },
         "toaEncFirenewts0": {
-          "name": "Fuegos nuevos (Patrulla Ligera)",
-          "tokenName": "Grupo: Guerreros Firenett"
+          "name": "Salamandras flamígeras (patrulla ligera)",
+          "tokenName": "Grupo: Salamandras flamígeras guerreras"
         },
         "toaEncFlamingFis": {
-          "name": "Puño ardiente",
-          "tokenName": "Puño ardiente"
+          "name": "Puño Ardiente",
+          "tokenName": "Puño Ardiente"
         },
         "toaEncFlyingMonk": {
           "name": "Monos voladores",
@@ -16098,14 +16098,14 @@
         },
         "toaEncFrostGiant": {
           "name": "Gigantes de escarcha",
-          "tokenName": "Grupo: Gigantes de Escarcha"
+          "tokenName": "Grupo: Gigantes de escarcha"
         },
         "toaEncGargoyles0": {
-          "name": "Gargolas",
-          "tokenName": "Grupo: Gargolas"
+          "name": "Gárgolas",
+          "tokenName": "Grupo: Gárgolas"
         },
         "toaEncGiantBoars": {
-          "name": "Jabalí gigante",
+          "name": "Jabalíes gigantes",
           "tokenName": "Grupo: Jabalíes gigantes"
         },
         "toaEncGiantFrogs": {
@@ -16129,11 +16129,11 @@
           "tokenName": "Grupo: Avispas gigantes"
         },
         "toaEncGiantWolfS": {
-          "name": "Arañas Lobo Gigante",
-          "tokenName": "Grupo: Arañas Lobo Gigante"
+          "name": "Arañas lobo gigantes",
+          "tokenName": "Grupo: Arañas lobo gigantes"
         },
         "toaEncGirallons0": {
-          "name": "Giralones",
+          "name": "Girallones",
           "tokenName": "Grupo: Girallones"
         },
         "toaGladiators000": {
@@ -16165,8 +16165,8 @@
           "tokenName": "Grupo: Kobolds"
         },
         "toaEncLizardfolk": {
-          "name": "Lagartijas",
-          "tokenName": "Grupo: Lagartofolk"
+          "name": "Hombres lagarto",
+          "tokenName": "Grupo: Hombres lagarto"
         },
         "toaEncMagmins000": {
           "name": "Magmins",
@@ -16174,15 +16174,15 @@
         },
         "toaEncMantraps00": {
           "name": "Atrapahombres",
-          "tokenName": "Grupo: Mantraps"
+          "tokenName": "Grupo: Atrapahombres"
         },
         "toaEncPterafolk0": {
-          "name": "Hombre pterodáctilo",
-          "tokenName": "Grupo: Pterafolk"
+          "name": "Hombres pterodáctilo",
+          "tokenName": "Grupo: Hombres pterodáctilo"
         },
         "toaEncRedWizard0": {
-          "name": "Fiesta del Asistente Rojo",
-          "tokenName": "Fiesta del Asistente Rojo"
+          "name": "Grupo del Mago Rojo",
+          "tokenName": "Grupo del Mago Rojo"
         },
         "toaReefSharks000": {
           "name": "Tiburones de arrecife",
@@ -16193,16 +16193,16 @@
           "tokenName": "Grupo: Salamandra"
         },
         "toaEncSeaHags000": {
-          "name": "Mar Hags",
-          "tokenName": "Mar Hags"
+          "name": "Sagas del mar",
+          "tokenName": "Sagas del mar"
         },
         "toaEncStirges000": {
-          "name": "Sanguijuelas voladoras",
-          "tokenName": "Grupo: Stirges"
+          "name": "Estirges",
+          "tokenName": "Grupo: Estirges"
         },
         "toaEncSumonsters": {
-          "name": "Su-monstruos",
-          "tokenName": "Grupo: Su-monstruos"
+          "name": "Sucarates",
+          "tokenName": "Grupo: Sucarates"
         },
         "toaEncSwarmsofBa": {
           "name": "Enjambres de murciélagos",
@@ -16217,12 +16217,12 @@
           "tokenName": "Enjambres de serpientes venenosas"
         },
         "toaEncSwarmsofQu": {
-          "name": "Enjambres de quippers",
-          "tokenName": "Grupo: Enjambres de quippers"
+          "name": "Enjambres de mordedores",
+          "tokenName": "Grupo: Enjambres de mordedores"
         },
         "toaEncTriflowerF": {
-          "name": "Frondas triflores",
-          "tokenName": "Grupo: Fronds triflor"
+          "name": "Palmas triflor",
+          "tokenName": "Grupo: Palmas triflor"
         },
         "toaTribalWarrior": {
           "name": "Guerreros tribales",
@@ -16230,23 +16230,23 @@
         },
         "toaEncVegepygmie": {
           "name": "Vegepigmeos",
-          "tokenName": "Grupo: Vegepygmies"
+          "tokenName": "Grupo: Vegepigmeos"
         },
         "toaEncVeterans00": {
           "name": "Veteranos",
           "tokenName": "Grupo: Veteranos"
         },
         "toaEncYellowMusk": {
-          "name": "Creper almizcle amarillo y zombis",
-          "tokenName": "Grupo: Almizcle amarillo Creeper &amp; Zombies"
+          "name": "Trepadora y zombis amarillos almizclados",
+          "tokenName": "Grupo: Trepadora y zombis amarillos almizclados"
         },
         "toaEncYuanTiMali": {
-          "name": "Yuan-ti Malisons",
-          "tokenName": "Grupo: Yuan-ti Malisons"
+          "name": "Corruptos yuan-ti",
+          "tokenName": "Grupo: Corruptos yuan-ti"
         },
         "toaEncYuanti0000": {
-          "name": "Yuan-tis purasangre",
-          "tokenName": "Grupo: Yuan-ti Purebloods"
+          "name": "Yuan-ti purasangre",
+          "tokenName": "Grupo: Yuan-ti purasangre"
         },
         "toaEncZhentarim0": {
           "name": "Zhentarim",
@@ -16257,8 +16257,8 @@
           "tokenName": "Grupo: Zorbos"
         },
         "toaEncAllosaurus": {
-          "name": "Allosaurios",
-          "tokenName": "Grupo: Allosaurios"
+          "name": "Alosaurios",
+          "tokenName": "Grupo: Alosaurios"
         },
         "toaEncAnkylosaur": {
           "name": "Anquilosaurios",
@@ -16269,8 +16269,8 @@
           "tokenName": "Encuentro"
         },
         "toaEncDeinonychu": {
-          "name": "Deinonychuses",
-          "tokenName": "Grupo: Deinonychuses"
+          "name": "Deinonychus",
+          "tokenName": "Grupo: Deinonychus"
         },
         "toaEncDimetrodon": {
           "name": "Dimetrodón",
@@ -16281,8 +16281,8 @@
           "tokenName": "Hadrosaurio"
         },
         "toaEncPlesiosaur": {
-          "name": "Plesiosauros",
-          "tokenName": "Plesiosauros"
+          "name": "Plesiosaurios",
+          "tokenName": "Plesiosaurios"
         },
         "toaEncPteranodon": {
           "name": "Pteranodones",
@@ -16305,8 +16305,8 @@
           "tokenName": "Grupo: Tiranosaurios"
         },
         "toaEncVelocirapt": {
-          "name": "Velociraptores",
-          "tokenName": "Grupo: Velociraptores"
+          "name": "Velocirraptores",
+          "tokenName": "Grupo: Velocirraptores"
         },
         "toaEncUndGhouls0": {
           "name": "Gules",
