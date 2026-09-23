@@ -2576,6 +2576,18 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y repetición de la salvación del gas paralizante.
 - Los enlaces por nombre `Fist` y `Arm` se conservan para la revisión funcional.
 
+### additional-monsters-one — Basilisco, troll, hidra y lobo invernal
+
+- Revisadas cuatro fichas en ambas copias: 130 registros contrastados con el
+  exportado inglés. Comprobadas las dos fases de petrificación del basilisco,
+  las excepciones a la regeneración del troll, la pérdida y crecimiento de
+  cabezas de la hidra y las salvaciones del lobo invernal.
+- La copia del troll en Adventure usa `9UdTW5NNAdC3yQoB`, frente a
+  `RliKw170F26yfIXb` en Actors. Verificada la igualdad de sus campos de texto
+  originales antes de aplicar la misma revisión a ambas.
+- Corregida «Pinza» a «Garra» en el troll; la traducción del mismo término
+  inglés en un escorpión no es válida para esta criatura.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2585,8 +2597,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
   de Foundry, tres de créditos y cuatro de historial.
   No equivale a 931 páginas del PDF.
-- 13949 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 13949 campos distintos.
+- 14079 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 14079 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento treinta y siete biografías en ambas copias de actores: siete
   príncipes, ciento veintisiete criaturas o PNJ vinculados al apéndice D y tres PNJ

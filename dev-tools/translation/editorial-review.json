@@ -136691,6 +136691,1070 @@
           "note": "Modron profile reviewed against English export. Attack counts, paralysis duration and save timing checked; name-based item links retained for functional review."
         }
       ]
+    },
+    {
+      "id": "additional-monsters-one-H0P0hkMt28cLrPvM",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.actors.H0P0hkMt28cLrPvM.name",
+          "sourceSha256": "5fac2c3826942f50c8017db46b5152e013352bb06388a82932e9994882b661d8",
+          "translationSha256": "56ab2d490b0c95a06cf7cd0d23bfa55abb3c57d9eee7bc33d9aef6222378740c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.H0P0hkMt28cLrPvM.alignment",
+          "sourceSha256": "041b0ecfb7faefa98d4836bc442ffa1ab341621b8b622b1b1968fd507c36051b",
+          "translationSha256": "6d0b9367ac639a2a6f103e485911fae243e3c2ab772f3f711284a9559d780f78",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.H0P0hkMt28cLrPvM.tokenName",
+          "sourceSha256": "5fac2c3826942f50c8017db46b5152e013352bb06388a82932e9994882b661d8",
+          "translationSha256": "56ab2d490b0c95a06cf7cd0d23bfa55abb3c57d9eee7bc33d9aef6222378740c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.H0P0hkMt28cLrPvM.biography",
+          "sourceSha256": "005ea83779c9757f66198e442b3974d1b9644098f09fe20d516e44b7b0697302",
+          "translationSha256": "13449ca5b377e53eed4ec882e9de4fdadb921a78a531289fbf79e3a63a220ce5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.H0P0hkMt28cLrPvM.items.bKBPawscKpixPeO0.name",
+          "sourceSha256": "b9c247a67a5f1e75531f422d2cbb2f5d40c1370186c28181a4cd513962ceccfa",
+          "translationSha256": "e4155fe19de7358a93464af8cce8c0cb5a77d373337967bfe9a47156940b648b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.H0P0hkMt28cLrPvM.items.bKBPawscKpixPeO0.description",
+          "sourceSha256": "2a95c6db1d5f71d863f4906184a3818775aa6910eb5497b729915493125a0a16",
+          "translationSha256": "60b2b2b6fef9efd38f7b4963435865776feae8e90388a97c12fa8b90de523a1e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.H0P0hkMt28cLrPvM.items.bKBPawscKpixPeO0.descriptionChat",
+          "sourceSha256": "efebcaab4e462d1c0dffeb2f0fd4f68f55420d244e1f21e3971cbd52e08cc3ec",
+          "translationSha256": "9abd5ff96c7f9b29c2ccc033b7b483207c6781fad023d92e758a1a167e816ab1",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.H0P0hkMt28cLrPvM.items.atyoFYgU32nJ9kPK.name",
+          "sourceSha256": "6e5597953e98e07b763c9f7c837239daf41a26a239b0616631539b9a04b559ad",
+          "translationSha256": "0f5627d69976efecdf83d744d6ec28905da742f1533855b78aad823b0bcbcd97",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.H0P0hkMt28cLrPvM.items.atyoFYgU32nJ9kPK.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.H0P0hkMt28cLrPvM.items.atyoFYgU32nJ9kPK.descriptionChat",
+          "sourceSha256": "e39f8220dd9f03268e3d9c15307523f7c75bfc2bcea46bd2df64a753dd61cfc3",
+          "translationSha256": "bfc7f547f9e2e2103e1486edb33cb7ed53efd7a0702a46b1af5472f5f32d472f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.H0P0hkMt28cLrPvM.name",
+          "sourceSha256": "5fac2c3826942f50c8017db46b5152e013352bb06388a82932e9994882b661d8",
+          "translationSha256": "56ab2d490b0c95a06cf7cd0d23bfa55abb3c57d9eee7bc33d9aef6222378740c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.H0P0hkMt28cLrPvM.alignment",
+          "sourceSha256": "041b0ecfb7faefa98d4836bc442ffa1ab341621b8b622b1b1968fd507c36051b",
+          "translationSha256": "6d0b9367ac639a2a6f103e485911fae243e3c2ab772f3f711284a9559d780f78",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.H0P0hkMt28cLrPvM.tokenName",
+          "sourceSha256": "5fac2c3826942f50c8017db46b5152e013352bb06388a82932e9994882b661d8",
+          "translationSha256": "56ab2d490b0c95a06cf7cd0d23bfa55abb3c57d9eee7bc33d9aef6222378740c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.H0P0hkMt28cLrPvM.biography",
+          "sourceSha256": "005ea83779c9757f66198e442b3974d1b9644098f09fe20d516e44b7b0697302",
+          "translationSha256": "13449ca5b377e53eed4ec882e9de4fdadb921a78a531289fbf79e3a63a220ce5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.H0P0hkMt28cLrPvM.items.bKBPawscKpixPeO0.name",
+          "sourceSha256": "b9c247a67a5f1e75531f422d2cbb2f5d40c1370186c28181a4cd513962ceccfa",
+          "translationSha256": "e4155fe19de7358a93464af8cce8c0cb5a77d373337967bfe9a47156940b648b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.H0P0hkMt28cLrPvM.items.bKBPawscKpixPeO0.description",
+          "sourceSha256": "2a95c6db1d5f71d863f4906184a3818775aa6910eb5497b729915493125a0a16",
+          "translationSha256": "60b2b2b6fef9efd38f7b4963435865776feae8e90388a97c12fa8b90de523a1e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.H0P0hkMt28cLrPvM.items.bKBPawscKpixPeO0.descriptionChat",
+          "sourceSha256": "efebcaab4e462d1c0dffeb2f0fd4f68f55420d244e1f21e3971cbd52e08cc3ec",
+          "translationSha256": "9abd5ff96c7f9b29c2ccc033b7b483207c6781fad023d92e758a1a167e816ab1",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.H0P0hkMt28cLrPvM.items.atyoFYgU32nJ9kPK.name",
+          "sourceSha256": "6e5597953e98e07b763c9f7c837239daf41a26a239b0616631539b9a04b559ad",
+          "translationSha256": "0f5627d69976efecdf83d744d6ec28905da742f1533855b78aad823b0bcbcd97",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.H0P0hkMt28cLrPvM.items.atyoFYgU32nJ9kPK.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.H0P0hkMt28cLrPvM.items.atyoFYgU32nJ9kPK.descriptionChat",
+          "sourceSha256": "e39f8220dd9f03268e3d9c15307523f7c75bfc2bcea46bd2df64a753dd61cfc3",
+          "translationSha256": "bfc7f547f9e2e2103e1486edb33cb7ed53efd7a0702a46b1af5472f5f32d472f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        }
+      ]
+    },
+    {
+      "id": "additional-monsters-one-RliKw170F26yfIXb",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.actors.RliKw170F26yfIXb.name",
+          "sourceSha256": "9bac25686c53aa859d6179d914be697db510e5dfa7513cad362d76b1c86c9d3b",
+          "translationSha256": "9bac25686c53aa859d6179d914be697db510e5dfa7513cad362d76b1c86c9d3b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.RliKw170F26yfIXb.alignment",
+          "sourceSha256": "6d88eb730ffb57bef8302e6318f6f3cb0f3ed84d74ce1df9d21bbba898681889",
+          "translationSha256": "2c3a7f5ba46a94c575747d50710414b1b715adfe58fb87b375d96842b5df4eea",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.RliKw170F26yfIXb.tokenName",
+          "sourceSha256": "9bac25686c53aa859d6179d914be697db510e5dfa7513cad362d76b1c86c9d3b",
+          "translationSha256": "9bac25686c53aa859d6179d914be697db510e5dfa7513cad362d76b1c86c9d3b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.RliKw170F26yfIXb.biography",
+          "sourceSha256": "005ea83779c9757f66198e442b3974d1b9644098f09fe20d516e44b7b0697302",
+          "translationSha256": "13449ca5b377e53eed4ec882e9de4fdadb921a78a531289fbf79e3a63a220ce5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.RliKw170F26yfIXb.items.R7DpgLP3aFNmAgOc.name",
+          "sourceSha256": "6e5597953e98e07b763c9f7c837239daf41a26a239b0616631539b9a04b559ad",
+          "translationSha256": "0f5627d69976efecdf83d744d6ec28905da742f1533855b78aad823b0bcbcd97",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.RliKw170F26yfIXb.items.R7DpgLP3aFNmAgOc.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.RliKw170F26yfIXb.items.R7DpgLP3aFNmAgOc.descriptionChat",
+          "sourceSha256": "a9e3033d7dfeef300484bdfee0636cbe1d51437f44074269b530b37e9edcd691",
+          "translationSha256": "aa90b3add78975efc173f5b9cfd9dfef26a67d56606b442ee214f8d29458c320",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.RliKw170F26yfIXb.items.ahGwFmyt6nItUOAK.name",
+          "sourceSha256": "587cfbbbcd42a71ba7f33f8051d5c354707fa1ff227cab11452c3ba2147a8682",
+          "translationSha256": "47402ddef99b381dae7cd7bb290df7f7c233a999a8f0690e34819a441f9cf42a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.RliKw170F26yfIXb.items.ahGwFmyt6nItUOAK.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.RliKw170F26yfIXb.items.ahGwFmyt6nItUOAK.descriptionChat",
+          "sourceSha256": "21a8bd6f3b21bcf2d3974ff9b829bb508bccb2e25bb18806ee8983d98f66b093",
+          "translationSha256": "c58ae4c9a27bed47caaae6bec48673699d4b21bea70db251db117c842ea73c37",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.RliKw170F26yfIXb.items.N3vrbUmlL4FEARJ8.name",
+          "sourceSha256": "635e76a75c5f7c1b7637210d94c4494eef66d1359cf2c9d654474c4c15baf362",
+          "translationSha256": "0a9d02b2912f997bddecae33cebb13c9b7f9c83d3490584eaa5f22a120fec000",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.RliKw170F26yfIXb.items.N3vrbUmlL4FEARJ8.description",
+          "sourceSha256": "0314d53eae03597fefa22d7cc543b23d99524714639ff9d7fd65f77f047675a1",
+          "translationSha256": "1a030ea2f3290fcaae91276ada8013589e502e11e9296c53d006fa2cba08d684",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.RliKw170F26yfIXb.items.BA9WmovILanbvacP.name",
+          "sourceSha256": "ed2fe6ee4108fdd7aa2adc5e1e0b272881becc9d47f1b91289237da2411ddc11",
+          "translationSha256": "0a39b8f3bdfe279a18ef7e5bea3f6239da0932a302f113bb61df2e0b3f3abaad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.RliKw170F26yfIXb.items.BA9WmovILanbvacP.description",
+          "sourceSha256": "433b3b53214f54f4fc3e469bd25cbbb1eb70c0742d9cb513a0fd7cb43e8eb624",
+          "translationSha256": "9b4febdcf50893ced488208e756f86e2339e29ce326283d0b842d0f9b9446915",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.RliKw170F26yfIXb.items.yWYB2iyRA61AjcVJ.name",
+          "sourceSha256": "35de2da495048b4f43abec7981955ec21ffae67cedbac28944e5f00278ab06b2",
+          "translationSha256": "d93a5609674234ea219973361375ec6a9d5ad0e719d059719463bfe58e7231c6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.RliKw170F26yfIXb.items.yWYB2iyRA61AjcVJ.description",
+          "sourceSha256": "c38f713f428805cbfda61131b427e0e7cf34eae21032e6777e686244a4adfff1",
+          "translationSha256": "250541532165dc5c47549b8f95b6e1f722870a67a57b3bf7563e376e91be909b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.RliKw170F26yfIXb.items.yWYB2iyRA61AjcVJ.descriptionChat",
+          "sourceSha256": "fab02ab7f73509a91b7f139eb5c5a2141fa70c111ff30d84692ba1c55071adfb",
+          "translationSha256": "b466c87d01a3a71ab4696366d8902c261ef269fd3de8c92b2ae7d5534472af26",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.RliKw170F26yfIXb.items.yWYB2iyRA61AjcVJ.activities.dnd5eactivity000.name",
+          "sourceSha256": "29670fae6b30ff3a63776420154e8b4ea84fcfaa7c00a09e15d2dc058eaf0280",
+          "translationSha256": "a01e129108863c2330f426a99f52489859fedc20664dc009744894baab52e9ae",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.9UdTW5NNAdC3yQoB.name",
+          "sourceSha256": "9bac25686c53aa859d6179d914be697db510e5dfa7513cad362d76b1c86c9d3b",
+          "translationSha256": "9bac25686c53aa859d6179d914be697db510e5dfa7513cad362d76b1c86c9d3b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.9UdTW5NNAdC3yQoB.alignment",
+          "sourceSha256": "6d88eb730ffb57bef8302e6318f6f3cb0f3ed84d74ce1df9d21bbba898681889",
+          "translationSha256": "2c3a7f5ba46a94c575747d50710414b1b715adfe58fb87b375d96842b5df4eea",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.9UdTW5NNAdC3yQoB.tokenName",
+          "sourceSha256": "9bac25686c53aa859d6179d914be697db510e5dfa7513cad362d76b1c86c9d3b",
+          "translationSha256": "9bac25686c53aa859d6179d914be697db510e5dfa7513cad362d76b1c86c9d3b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.9UdTW5NNAdC3yQoB.biography",
+          "sourceSha256": "005ea83779c9757f66198e442b3974d1b9644098f09fe20d516e44b7b0697302",
+          "translationSha256": "13449ca5b377e53eed4ec882e9de4fdadb921a78a531289fbf79e3a63a220ce5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.9UdTW5NNAdC3yQoB.items.R7DpgLP3aFNmAgOc.name",
+          "sourceSha256": "6e5597953e98e07b763c9f7c837239daf41a26a239b0616631539b9a04b559ad",
+          "translationSha256": "0f5627d69976efecdf83d744d6ec28905da742f1533855b78aad823b0bcbcd97",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.9UdTW5NNAdC3yQoB.items.R7DpgLP3aFNmAgOc.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.9UdTW5NNAdC3yQoB.items.R7DpgLP3aFNmAgOc.descriptionChat",
+          "sourceSha256": "a9e3033d7dfeef300484bdfee0636cbe1d51437f44074269b530b37e9edcd691",
+          "translationSha256": "aa90b3add78975efc173f5b9cfd9dfef26a67d56606b442ee214f8d29458c320",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.9UdTW5NNAdC3yQoB.items.ahGwFmyt6nItUOAK.name",
+          "sourceSha256": "587cfbbbcd42a71ba7f33f8051d5c354707fa1ff227cab11452c3ba2147a8682",
+          "translationSha256": "47402ddef99b381dae7cd7bb290df7f7c233a999a8f0690e34819a441f9cf42a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.9UdTW5NNAdC3yQoB.items.ahGwFmyt6nItUOAK.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.9UdTW5NNAdC3yQoB.items.ahGwFmyt6nItUOAK.descriptionChat",
+          "sourceSha256": "21a8bd6f3b21bcf2d3974ff9b829bb508bccb2e25bb18806ee8983d98f66b093",
+          "translationSha256": "c58ae4c9a27bed47caaae6bec48673699d4b21bea70db251db117c842ea73c37",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.9UdTW5NNAdC3yQoB.items.N3vrbUmlL4FEARJ8.name",
+          "sourceSha256": "635e76a75c5f7c1b7637210d94c4494eef66d1359cf2c9d654474c4c15baf362",
+          "translationSha256": "0a9d02b2912f997bddecae33cebb13c9b7f9c83d3490584eaa5f22a120fec000",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.9UdTW5NNAdC3yQoB.items.N3vrbUmlL4FEARJ8.description",
+          "sourceSha256": "0314d53eae03597fefa22d7cc543b23d99524714639ff9d7fd65f77f047675a1",
+          "translationSha256": "1a030ea2f3290fcaae91276ada8013589e502e11e9296c53d006fa2cba08d684",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.9UdTW5NNAdC3yQoB.items.BA9WmovILanbvacP.name",
+          "sourceSha256": "ed2fe6ee4108fdd7aa2adc5e1e0b272881becc9d47f1b91289237da2411ddc11",
+          "translationSha256": "0a39b8f3bdfe279a18ef7e5bea3f6239da0932a302f113bb61df2e0b3f3abaad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.9UdTW5NNAdC3yQoB.items.BA9WmovILanbvacP.description",
+          "sourceSha256": "433b3b53214f54f4fc3e469bd25cbbb1eb70c0742d9cb513a0fd7cb43e8eb624",
+          "translationSha256": "9b4febdcf50893ced488208e756f86e2339e29ce326283d0b842d0f9b9446915",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.9UdTW5NNAdC3yQoB.items.yWYB2iyRA61AjcVJ.name",
+          "sourceSha256": "35de2da495048b4f43abec7981955ec21ffae67cedbac28944e5f00278ab06b2",
+          "translationSha256": "d93a5609674234ea219973361375ec6a9d5ad0e719d059719463bfe58e7231c6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.9UdTW5NNAdC3yQoB.items.yWYB2iyRA61AjcVJ.description",
+          "sourceSha256": "c38f713f428805cbfda61131b427e0e7cf34eae21032e6777e686244a4adfff1",
+          "translationSha256": "250541532165dc5c47549b8f95b6e1f722870a67a57b3bf7563e376e91be909b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.9UdTW5NNAdC3yQoB.items.yWYB2iyRA61AjcVJ.descriptionChat",
+          "sourceSha256": "fab02ab7f73509a91b7f139eb5c5a2141fa70c111ff30d84692ba1c55071adfb",
+          "translationSha256": "b466c87d01a3a71ab4696366d8902c261ef269fd3de8c92b2ae7d5534472af26",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.9UdTW5NNAdC3yQoB.items.yWYB2iyRA61AjcVJ.activities.dnd5eactivity000.name",
+          "sourceSha256": "29670fae6b30ff3a63776420154e8b4ea84fcfaa7c00a09e15d2dc058eaf0280",
+          "translationSha256": "a01e129108863c2330f426a99f52489859fedc20664dc009744894baab52e9ae",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        }
+      ]
+    },
+    {
+      "id": "additional-monsters-one-i0N7EzT53ojsvSua",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.actors.i0N7EzT53ojsvSua.name",
+          "sourceSha256": "0815efe9d8ce8046c3845f72b910f153581f25a399849df8c228b939847618d7",
+          "translationSha256": "b61a12a4cd2519c5fb5077c5e200f26a5d3fb259943ce9d989de653847598cec",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.i0N7EzT53ojsvSua.alignment",
+          "sourceSha256": "041b0ecfb7faefa98d4836bc442ffa1ab341621b8b622b1b1968fd507c36051b",
+          "translationSha256": "6d0b9367ac639a2a6f103e485911fae243e3c2ab772f3f711284a9559d780f78",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.i0N7EzT53ojsvSua.tokenName",
+          "sourceSha256": "0815efe9d8ce8046c3845f72b910f153581f25a399849df8c228b939847618d7",
+          "translationSha256": "b61a12a4cd2519c5fb5077c5e200f26a5d3fb259943ce9d989de653847598cec",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.i0N7EzT53ojsvSua.biography",
+          "sourceSha256": "005ea83779c9757f66198e442b3974d1b9644098f09fe20d516e44b7b0697302",
+          "translationSha256": "13449ca5b377e53eed4ec882e9de4fdadb921a78a531289fbf79e3a63a220ce5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.i0N7EzT53ojsvSua.items.xr59rWl3oCOLdQBQ.name",
+          "sourceSha256": "d8e854f7c40de16514190301675479c1a415fca02e7e818f90c8f4272466eefe",
+          "translationSha256": "e8916f4d50d7a2158fb0ef2b26d6ce8b76a7452c18180a049a3418082787e3bb",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.i0N7EzT53ojsvSua.items.xr59rWl3oCOLdQBQ.description",
+          "sourceSha256": "9bc3a25686f3f7fa0bd34b7c3479c22ec7b9b51636af60280b3fdee072e6ce7e",
+          "translationSha256": "6482b455caefe649d25a990896e60fe3fba4473a278c85b0dd12caead1cf4c32",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.i0N7EzT53ojsvSua.items.fsAeJDaI0a6sBeFk.name",
+          "sourceSha256": "18c982139840809140efe17c2d3e245b294c62876849d81e69f3ef3f698dbe6a",
+          "translationSha256": "65445802676618a5970c5e7a5d849e59aed9a0ec52f19345cbe05fde950ab143",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.i0N7EzT53ojsvSua.items.fsAeJDaI0a6sBeFk.description",
+          "sourceSha256": "20992708f0909742d212bceb9378ea227a7c1c3e9b22b0980a32360e93fd3f38",
+          "translationSha256": "1a0b7302a671522ac8f4155e4c7794c49b1bd9b4015d5538d08295ff19b23b5f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.i0N7EzT53ojsvSua.items.fsAeJDaI0a6sBeFk.descriptionChat",
+          "sourceSha256": "4c6902d3d69e460d1140ced94e3b74338e4d00b2c54e8934e768be4fafeac960",
+          "translationSha256": "2ba9049470db919c0f515f2dd495527705e73f194a6d2c9bc81563e3570143a3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.i0N7EzT53ojsvSua.items.bE965DuMt1ReAulm.name",
+          "sourceSha256": "9c5e0192c6efc7412bb1cbc4d30b522d448075633a78f9a13b7db2af02580132",
+          "translationSha256": "b68e25b59fa68fb3a85dd22fa8085298ab17de92390a7170bf20da19657da8f1",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.i0N7EzT53ojsvSua.items.bE965DuMt1ReAulm.description",
+          "sourceSha256": "06430892943e19ae0e603792e8647dd8c44e042b87ff1adc2209e8dd9a431414",
+          "translationSha256": "e119b19a5548257c2629bcb33c62c35d9ecd534cf023697d0ecc1a3fc906f8b5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.i0N7EzT53ojsvSua.items.cLcVpNuZOHIxLfPP.name",
+          "sourceSha256": "6968c2145646e11c6fe0b55c103b330b418238822a627091e0c4e8b299892ebc",
+          "translationSha256": "eb8ea7b7ba6d89ba72636a3d62e0cb5cc5b00c7dc80cb5870b2dd1964bf9eb26",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.i0N7EzT53ojsvSua.items.cLcVpNuZOHIxLfPP.description",
+          "sourceSha256": "908787189471dbd8f617d5970ad3955ebf02fb20ded1703df7cc1459aae5a5e2",
+          "translationSha256": "d3b810b6f6483944027c803adfa591d2bf740f6cac3ca846edd702973fa0b4c1",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.i0N7EzT53ojsvSua.items.USl5HDilKxVI4BHh.name",
+          "sourceSha256": "ed2fe6ee4108fdd7aa2adc5e1e0b272881becc9d47f1b91289237da2411ddc11",
+          "translationSha256": "0a39b8f3bdfe279a18ef7e5bea3f6239da0932a302f113bb61df2e0b3f3abaad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.i0N7EzT53ojsvSua.items.USl5HDilKxVI4BHh.description",
+          "sourceSha256": "aefc21a63e38fbac725fcc7e7e1776c84da507976956f5f6e859b6e5c9e63407",
+          "translationSha256": "13822402307aaeec59cc819491304aa4ee6cb8aa4ee0a271b585d35bcd6c8fc9",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.i0N7EzT53ojsvSua.items.fYE4f0Oa2I0MetId.name",
+          "sourceSha256": "6e5597953e98e07b763c9f7c837239daf41a26a239b0616631539b9a04b559ad",
+          "translationSha256": "0f5627d69976efecdf83d744d6ec28905da742f1533855b78aad823b0bcbcd97",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.i0N7EzT53ojsvSua.items.fYE4f0Oa2I0MetId.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.i0N7EzT53ojsvSua.items.fYE4f0Oa2I0MetId.descriptionChat",
+          "sourceSha256": "828afcd12a9cd9c915b21a866f3d0615d981098ff5cba01ddc9cf42b1ae74f87",
+          "translationSha256": "c6d79e2a65ca09abd45c04daecf55f050eefd076be7b903dd1c7d781b96df0ea",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.i0N7EzT53ojsvSua.name",
+          "sourceSha256": "0815efe9d8ce8046c3845f72b910f153581f25a399849df8c228b939847618d7",
+          "translationSha256": "b61a12a4cd2519c5fb5077c5e200f26a5d3fb259943ce9d989de653847598cec",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.i0N7EzT53ojsvSua.alignment",
+          "sourceSha256": "041b0ecfb7faefa98d4836bc442ffa1ab341621b8b622b1b1968fd507c36051b",
+          "translationSha256": "6d0b9367ac639a2a6f103e485911fae243e3c2ab772f3f711284a9559d780f78",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.i0N7EzT53ojsvSua.tokenName",
+          "sourceSha256": "0815efe9d8ce8046c3845f72b910f153581f25a399849df8c228b939847618d7",
+          "translationSha256": "b61a12a4cd2519c5fb5077c5e200f26a5d3fb259943ce9d989de653847598cec",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.i0N7EzT53ojsvSua.biography",
+          "sourceSha256": "005ea83779c9757f66198e442b3974d1b9644098f09fe20d516e44b7b0697302",
+          "translationSha256": "13449ca5b377e53eed4ec882e9de4fdadb921a78a531289fbf79e3a63a220ce5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.i0N7EzT53ojsvSua.items.xr59rWl3oCOLdQBQ.name",
+          "sourceSha256": "d8e854f7c40de16514190301675479c1a415fca02e7e818f90c8f4272466eefe",
+          "translationSha256": "e8916f4d50d7a2158fb0ef2b26d6ce8b76a7452c18180a049a3418082787e3bb",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.i0N7EzT53ojsvSua.items.xr59rWl3oCOLdQBQ.description",
+          "sourceSha256": "9bc3a25686f3f7fa0bd34b7c3479c22ec7b9b51636af60280b3fdee072e6ce7e",
+          "translationSha256": "6482b455caefe649d25a990896e60fe3fba4473a278c85b0dd12caead1cf4c32",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.i0N7EzT53ojsvSua.items.fsAeJDaI0a6sBeFk.name",
+          "sourceSha256": "18c982139840809140efe17c2d3e245b294c62876849d81e69f3ef3f698dbe6a",
+          "translationSha256": "65445802676618a5970c5e7a5d849e59aed9a0ec52f19345cbe05fde950ab143",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.i0N7EzT53ojsvSua.items.fsAeJDaI0a6sBeFk.description",
+          "sourceSha256": "20992708f0909742d212bceb9378ea227a7c1c3e9b22b0980a32360e93fd3f38",
+          "translationSha256": "1a0b7302a671522ac8f4155e4c7794c49b1bd9b4015d5538d08295ff19b23b5f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.i0N7EzT53ojsvSua.items.fsAeJDaI0a6sBeFk.descriptionChat",
+          "sourceSha256": "4c6902d3d69e460d1140ced94e3b74338e4d00b2c54e8934e768be4fafeac960",
+          "translationSha256": "2ba9049470db919c0f515f2dd495527705e73f194a6d2c9bc81563e3570143a3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.i0N7EzT53ojsvSua.items.bE965DuMt1ReAulm.name",
+          "sourceSha256": "9c5e0192c6efc7412bb1cbc4d30b522d448075633a78f9a13b7db2af02580132",
+          "translationSha256": "b68e25b59fa68fb3a85dd22fa8085298ab17de92390a7170bf20da19657da8f1",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.i0N7EzT53ojsvSua.items.bE965DuMt1ReAulm.description",
+          "sourceSha256": "06430892943e19ae0e603792e8647dd8c44e042b87ff1adc2209e8dd9a431414",
+          "translationSha256": "e119b19a5548257c2629bcb33c62c35d9ecd534cf023697d0ecc1a3fc906f8b5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.i0N7EzT53ojsvSua.items.cLcVpNuZOHIxLfPP.name",
+          "sourceSha256": "6968c2145646e11c6fe0b55c103b330b418238822a627091e0c4e8b299892ebc",
+          "translationSha256": "eb8ea7b7ba6d89ba72636a3d62e0cb5cc5b00c7dc80cb5870b2dd1964bf9eb26",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.i0N7EzT53ojsvSua.items.cLcVpNuZOHIxLfPP.description",
+          "sourceSha256": "908787189471dbd8f617d5970ad3955ebf02fb20ded1703df7cc1459aae5a5e2",
+          "translationSha256": "d3b810b6f6483944027c803adfa591d2bf740f6cac3ca846edd702973fa0b4c1",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.i0N7EzT53ojsvSua.items.USl5HDilKxVI4BHh.name",
+          "sourceSha256": "ed2fe6ee4108fdd7aa2adc5e1e0b272881becc9d47f1b91289237da2411ddc11",
+          "translationSha256": "0a39b8f3bdfe279a18ef7e5bea3f6239da0932a302f113bb61df2e0b3f3abaad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.i0N7EzT53ojsvSua.items.USl5HDilKxVI4BHh.description",
+          "sourceSha256": "aefc21a63e38fbac725fcc7e7e1776c84da507976956f5f6e859b6e5c9e63407",
+          "translationSha256": "13822402307aaeec59cc819491304aa4ee6cb8aa4ee0a271b585d35bcd6c8fc9",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.i0N7EzT53ojsvSua.items.fYE4f0Oa2I0MetId.name",
+          "sourceSha256": "6e5597953e98e07b763c9f7c837239daf41a26a239b0616631539b9a04b559ad",
+          "translationSha256": "0f5627d69976efecdf83d744d6ec28905da742f1533855b78aad823b0bcbcd97",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.i0N7EzT53ojsvSua.items.fYE4f0Oa2I0MetId.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.i0N7EzT53ojsvSua.items.fYE4f0Oa2I0MetId.descriptionChat",
+          "sourceSha256": "828afcd12a9cd9c915b21a866f3d0615d981098ff5cba01ddc9cf42b1ae74f87",
+          "translationSha256": "c6d79e2a65ca09abd45c04daecf55f050eefd076be7b903dd1c7d781b96df0ea",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        }
+      ]
+    },
+    {
+      "id": "additional-monsters-one-zevpIV6LUOnE4Spl",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.actors.zevpIV6LUOnE4Spl.name",
+          "sourceSha256": "0930cb67e9bdc65f310d205a64fc37ca77a12c288440fad82f5ec4be370d24b0",
+          "translationSha256": "d6d4c76e2869350cebac29baede9ee0fec806cba2f90237fa06a758e7d52876c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.zevpIV6LUOnE4Spl.alignment",
+          "sourceSha256": "59e74f11c96a77d972cd8ee0520cd97da4055b5a2e859b1c4dd2cfb7ea32f7b3",
+          "translationSha256": "ce158da3dc2aa560ccc970a693b2ad2f8b5b8e6b16edddf5209d728954da7ba8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.zevpIV6LUOnE4Spl.languages",
+          "sourceSha256": "0930cb67e9bdc65f310d205a64fc37ca77a12c288440fad82f5ec4be370d24b0",
+          "translationSha256": "d6d4c76e2869350cebac29baede9ee0fec806cba2f90237fa06a758e7d52876c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.zevpIV6LUOnE4Spl.tokenName",
+          "sourceSha256": "0930cb67e9bdc65f310d205a64fc37ca77a12c288440fad82f5ec4be370d24b0",
+          "translationSha256": "d6d4c76e2869350cebac29baede9ee0fec806cba2f90237fa06a758e7d52876c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.zevpIV6LUOnE4Spl.biography",
+          "sourceSha256": "e0e06052d7c76ba552de5d970292852004b9ed2a1e98c7bea12bae8a8cc1dfd5",
+          "translationSha256": "bb4c5f92717143bbd77728afea20f0e47ad579cc94e7383f4ad58f14fb26e656",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.zevpIV6LUOnE4Spl.items.gbqFx1sEQUYQlDpJ.name",
+          "sourceSha256": "fc24a7eececde275ed9fd44745588f873a4df2790e58ad3bed06ed771c7ae1ac",
+          "translationSha256": "beb07236b6fcc4d6f5a9a4f17babb744c6ad1ba9319b2c3ab72ecc28a1bb815a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.zevpIV6LUOnE4Spl.items.gbqFx1sEQUYQlDpJ.description",
+          "sourceSha256": "02afc12702aaa3ece912e92959b08ac2e0ec9adbf8f436525f8773e62d612d4c",
+          "translationSha256": "eea31391697b17c17e04eeb78e760f1262ff3067ad6bbb64be25a5d83b2b4bc8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.zevpIV6LUOnE4Spl.items.axhIBG9zM7Z9AHxL.name",
+          "sourceSha256": "957e784baf5c50c5ec5eb09fe3c3d4d7a1699566a025e4261ab4a1b9447f132b",
+          "translationSha256": "a071cbf4441963b551f76dbda65c96572acf9eead813318ea9978d75e1a50e20",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.zevpIV6LUOnE4Spl.items.axhIBG9zM7Z9AHxL.description",
+          "sourceSha256": "927d39407e1ef3b377a2df5147445d19e0e0d68806d387c88125e053f2eb0e97",
+          "translationSha256": "dd9ea613103e8ef29b77bcad2fe867708da212e7b66170e5268cdebdad501236",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.zevpIV6LUOnE4Spl.items.pu8fxDuua6ObNqtg.name",
+          "sourceSha256": "af50bba4bbddad42b404850fbf798fe55f0250c44f53e06d632d9e0817f30870",
+          "translationSha256": "e882b52b7c74476d756ab2eb6aadded9fad4edffbd07e5461f5d8da06b3dad29",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.zevpIV6LUOnE4Spl.items.pu8fxDuua6ObNqtg.description",
+          "sourceSha256": "178961659f5cb92fac456a9663e54e9b13ab5e3e372febbcb30dcc230f3d9615",
+          "translationSha256": "266e53a559c5a9a1708229bacbd98ad396c1b0ee279553fa557fe04a0703921b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.zevpIV6LUOnE4Spl.items.5PmQuifZGbPWxAYz.name",
+          "sourceSha256": "6e5597953e98e07b763c9f7c837239daf41a26a239b0616631539b9a04b559ad",
+          "translationSha256": "0f5627d69976efecdf83d744d6ec28905da742f1533855b78aad823b0bcbcd97",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.zevpIV6LUOnE4Spl.items.5PmQuifZGbPWxAYz.description",
+          "sourceSha256": "5de2dcfcdfa62489a2dbb57a073a409dcade6462c180081715490f4542720b1a",
+          "translationSha256": "18392d34cca791fb3f376081c4d3e800dc061639e3834036d2f2768fc521586b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.zevpIV6LUOnE4Spl.items.5PmQuifZGbPWxAYz.descriptionChat",
+          "sourceSha256": "e644d721d3b38e1d23953c8ccaa4a3fccf416fe1af775c5d1376db75bd27b5ed",
+          "translationSha256": "c18b60bed83670c0de8e9e6d3a4a9fe55141b35e5ff5bbecd4197d1f14b1e569",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.zevpIV6LUOnE4Spl.items.5PmQuifZGbPWxAYz.effects.uxzNjKqIRHRcC5Pr.name",
+          "sourceSha256": "4d99dff1fb964110812ea0fbf1dbb836fec22cd3148c5f304feec35c969e88f4",
+          "translationSha256": "57a0476b623a625adddbb16d55bd8aad17dbc18ea4c10388b005588da4fe9143",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.zevpIV6LUOnE4Spl.items.5PmQuifZGbPWxAYz.effects.uxzNjKqIRHRcC5Pr.description",
+          "sourceSha256": "c5afd86d93ae5ece53adae7ee602059d97b7b86506c05bd1f51428183e22a376",
+          "translationSha256": "f194fd72b840f5aeb7fcb4a1d3ff76ec916b7d559515a999344ca72d07135108",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.zevpIV6LUOnE4Spl.items.Rj3oSInoQMIfHrPc.name",
+          "sourceSha256": "14491e17ba09496d61f043bb2105d6fe9bbb31ed54ec80171d7a771ff2056ead",
+          "translationSha256": "a64e5e96dcd14974bff77f9f320a88c6ec46d15e0dcf32a024a4b79333f14b75",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.zevpIV6LUOnE4Spl.items.Rj3oSInoQMIfHrPc.description",
+          "sourceSha256": "d2fd0e6ac12c1c79411f2ea7189658cf480134be0bb23de51a3c518f2d4e6a05",
+          "translationSha256": "d5cbf00b7ff4469724ed94fb3cb83cd1a8e87ccd9ce13a2e75972325ff78df34",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.zevpIV6LUOnE4Spl.items.Rj3oSInoQMIfHrPc.descriptionChat",
+          "sourceSha256": "a41cf94d3bc736500d11957db6dc0fe10a24cf9c09be20ed79e6f2e3cfe074ee",
+          "translationSha256": "313aa629ed412ee5313604111c93042ebf813ba10bf87d4073ae0044e9fcfcb6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.zevpIV6LUOnE4Spl.name",
+          "sourceSha256": "0930cb67e9bdc65f310d205a64fc37ca77a12c288440fad82f5ec4be370d24b0",
+          "translationSha256": "d6d4c76e2869350cebac29baede9ee0fec806cba2f90237fa06a758e7d52876c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.zevpIV6LUOnE4Spl.alignment",
+          "sourceSha256": "59e74f11c96a77d972cd8ee0520cd97da4055b5a2e859b1c4dd2cfb7ea32f7b3",
+          "translationSha256": "ce158da3dc2aa560ccc970a693b2ad2f8b5b8e6b16edddf5209d728954da7ba8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.zevpIV6LUOnE4Spl.languages",
+          "sourceSha256": "0930cb67e9bdc65f310d205a64fc37ca77a12c288440fad82f5ec4be370d24b0",
+          "translationSha256": "d6d4c76e2869350cebac29baede9ee0fec806cba2f90237fa06a758e7d52876c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.zevpIV6LUOnE4Spl.tokenName",
+          "sourceSha256": "0930cb67e9bdc65f310d205a64fc37ca77a12c288440fad82f5ec4be370d24b0",
+          "translationSha256": "d6d4c76e2869350cebac29baede9ee0fec806cba2f90237fa06a758e7d52876c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.zevpIV6LUOnE4Spl.biography",
+          "sourceSha256": "e0e06052d7c76ba552de5d970292852004b9ed2a1e98c7bea12bae8a8cc1dfd5",
+          "translationSha256": "bb4c5f92717143bbd77728afea20f0e47ad579cc94e7383f4ad58f14fb26e656",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.zevpIV6LUOnE4Spl.items.gbqFx1sEQUYQlDpJ.name",
+          "sourceSha256": "fc24a7eececde275ed9fd44745588f873a4df2790e58ad3bed06ed771c7ae1ac",
+          "translationSha256": "beb07236b6fcc4d6f5a9a4f17babb744c6ad1ba9319b2c3ab72ecc28a1bb815a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.zevpIV6LUOnE4Spl.items.gbqFx1sEQUYQlDpJ.description",
+          "sourceSha256": "02afc12702aaa3ece912e92959b08ac2e0ec9adbf8f436525f8773e62d612d4c",
+          "translationSha256": "eea31391697b17c17e04eeb78e760f1262ff3067ad6bbb64be25a5d83b2b4bc8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.zevpIV6LUOnE4Spl.items.axhIBG9zM7Z9AHxL.name",
+          "sourceSha256": "957e784baf5c50c5ec5eb09fe3c3d4d7a1699566a025e4261ab4a1b9447f132b",
+          "translationSha256": "a071cbf4441963b551f76dbda65c96572acf9eead813318ea9978d75e1a50e20",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.zevpIV6LUOnE4Spl.items.axhIBG9zM7Z9AHxL.description",
+          "sourceSha256": "927d39407e1ef3b377a2df5147445d19e0e0d68806d387c88125e053f2eb0e97",
+          "translationSha256": "dd9ea613103e8ef29b77bcad2fe867708da212e7b66170e5268cdebdad501236",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.zevpIV6LUOnE4Spl.items.pu8fxDuua6ObNqtg.name",
+          "sourceSha256": "af50bba4bbddad42b404850fbf798fe55f0250c44f53e06d632d9e0817f30870",
+          "translationSha256": "e882b52b7c74476d756ab2eb6aadded9fad4edffbd07e5461f5d8da06b3dad29",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.zevpIV6LUOnE4Spl.items.pu8fxDuua6ObNqtg.description",
+          "sourceSha256": "178961659f5cb92fac456a9663e54e9b13ab5e3e372febbcb30dcc230f3d9615",
+          "translationSha256": "266e53a559c5a9a1708229bacbd98ad396c1b0ee279553fa557fe04a0703921b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.zevpIV6LUOnE4Spl.items.5PmQuifZGbPWxAYz.name",
+          "sourceSha256": "6e5597953e98e07b763c9f7c837239daf41a26a239b0616631539b9a04b559ad",
+          "translationSha256": "0f5627d69976efecdf83d744d6ec28905da742f1533855b78aad823b0bcbcd97",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.zevpIV6LUOnE4Spl.items.5PmQuifZGbPWxAYz.description",
+          "sourceSha256": "5de2dcfcdfa62489a2dbb57a073a409dcade6462c180081715490f4542720b1a",
+          "translationSha256": "18392d34cca791fb3f376081c4d3e800dc061639e3834036d2f2768fc521586b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.zevpIV6LUOnE4Spl.items.5PmQuifZGbPWxAYz.descriptionChat",
+          "sourceSha256": "e644d721d3b38e1d23953c8ccaa4a3fccf416fe1af775c5d1376db75bd27b5ed",
+          "translationSha256": "c18b60bed83670c0de8e9e6d3a4a9fe55141b35e5ff5bbecd4197d1f14b1e569",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.zevpIV6LUOnE4Spl.items.5PmQuifZGbPWxAYz.effects.uxzNjKqIRHRcC5Pr.name",
+          "sourceSha256": "4d99dff1fb964110812ea0fbf1dbb836fec22cd3148c5f304feec35c969e88f4",
+          "translationSha256": "57a0476b623a625adddbb16d55bd8aad17dbc18ea4c10388b005588da4fe9143",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.zevpIV6LUOnE4Spl.items.5PmQuifZGbPWxAYz.effects.uxzNjKqIRHRcC5Pr.description",
+          "sourceSha256": "c5afd86d93ae5ece53adae7ee602059d97b7b86506c05bd1f51428183e22a376",
+          "translationSha256": "f194fd72b840f5aeb7fcb4a1d3ff76ec916b7d559515a999344ca72d07135108",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.zevpIV6LUOnE4Spl.items.Rj3oSInoQMIfHrPc.name",
+          "sourceSha256": "14491e17ba09496d61f043bb2105d6fe9bbb31ed54ec80171d7a771ff2056ead",
+          "translationSha256": "a64e5e96dcd14974bff77f9f320a88c6ec46d15e0dcf32a024a4b79333f14b75",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.zevpIV6LUOnE4Spl.items.Rj3oSInoQMIfHrPc.description",
+          "sourceSha256": "d2fd0e6ac12c1c79411f2ea7189658cf480134be0bb23de51a3c518f2d4e6a05",
+          "translationSha256": "d5cbf00b7ff4469724ed94fb3cb83cd1a8e87ccd9ce13a2e75972325ff78df34",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.zevpIV6LUOnE4Spl.items.Rj3oSInoQMIfHrPc.descriptionChat",
+          "sourceSha256": "a41cf94d3bc736500d11957db6dc0fe10a24cf9c09be20ed79e6f2e3cfe074ee",
+          "translationSha256": "313aa629ed412ee5313604111c93042ebf813ba10bf87d4073ae0044e9fcfcb6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Monster profile reviewed against English export. Petrification stages, regeneration exceptions, hydra heads and winter wolf saves checked."
+        }
+      ]
     }
   ]
 }

@@ -1908,17 +1908,17 @@
         "atyoFYgU32nJ9kPK": {
           "name": "Mordisco",
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-          "descriptionChat": "<p>El Basilisco ataca con su mordida.</p>"
+          "descriptionChat": "<p>El basilisco ataca con su mordisco.</p>"
         },
         "bKBPawscKpixPeO0": {
-          "name": "Mirada petrificante",
-          "description": "<p>Si una criatura comienza su turno dentro <strong>30 pies.</strong> del basilisk y los dos de ellos pueden verse entre sí, el basilisk puede forzar a la criatura a hacer un <strong>CD 12 Lanzamiento de ahorro de la Constitución</strong> Si el basilisk no está incapacitado. En una salvada fallida, la criatura mágicamente comienza a convertirse en piedra y se restringe. Debe repetir el lanzamiento de ahorro al final de su siguiente turno. En un éxito, el efecto termina. En un fracaso, la criatura está petrificada hasta ser liberada por el conjuro de restauración mayor u otra magia.</p><p>Una criatura que no se sorprende puede evitar sus ojos para evitar el lanzamiento de ahorro al principio de su turno. Si lo hace, no puede ver el basilisk hasta el comienzo de su siguiente turno, cuando puede evitar sus ojos de nuevo. Si mira el basilisk mientras tanto, debe hacer inmediatamente el ahorro<strong>. I</strong>f el basilisk ve su reflejo dentro <strong>30 pies.</strong> de ella en la luz brillante, se confunde a sí mismo para un rival y se apunta a sí mismo con su mirada.</p>",
-          "descriptionChat": "<p>El basilisk puede forzar a la criatura a hacer un <strong>Constitución</strong> El lanzamiento de ahorro. Debe repetir el lanzamiento de ahorro al final de su siguiente turno. Una criatura que no se sorprende puede evitar sus ojos para evitar el lanzamiento de ahorro al principio de su turno. Si lo hace, no puede ver el basilisk hasta el comienzo de su siguiente turno, cuando puede evitar sus ojos de nuevo. Si mira el basilisk mientras tanto, debe hacer inmediatamente el salvoconducto.</p>"
+          "name": "Mirada Petrificadora",
+          "description": "<p>Si una criatura comienza su turno a <strong>30 pies</strong> o menos del basilisco y ambos pueden verse, el basilisco puede obligarla a realizar una <strong>tirada de salvación de Constitución CD 12</strong> si no está incapacitado. Si falla, la criatura empieza a convertirse mágicamente en piedra y está apresada. Debe repetir la salvación al final de su siguiente turno. Si tiene éxito, el efecto termina. Si falla, queda petrificada hasta que la libere el conjuro restablecimiento mayor u otra magia.</p><p>Una criatura que no esté sorprendida puede apartar la mirada para evitar la tirada de salvación al comienzo de su turno. Si lo hace, no puede ver al basilisco hasta el comienzo de su siguiente turno, cuando puede volver a apartar la mirada. Si mira al basilisco durante ese tiempo, debe realizar inmediatamente la salvación<strong>.</strong> Si el basilisco ve su reflejo a <strong>30 pies</strong> o menos bajo luz brillante, lo confunde con un rival y usa su mirada contra sí mismo.</p>",
+          "descriptionChat": "<p>El basilisco puede obligar a la criatura a realizar una tirada de salvación de <strong>Constitución</strong>. Esta debe repetir la salvación al final de su siguiente turno. Una criatura que no esté sorprendida puede apartar la mirada para evitar la tirada de salvación al comienzo de su turno. Si lo hace, no puede ver al basilisco hasta el comienzo de su siguiente turno, cuando puede volver a apartar la mirada. Si mira al basilisco durante ese tiempo, debe realizar inmediatamente la salvación.</p>"
         }
       },
       "name": "Basilisco",
       "tokenName": "Basilisco",
-      "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+      "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
     },
     "H6ajGPL3X6lzsQlc": {
       "items": {
@@ -3328,35 +3328,35 @@
         "R7DpgLP3aFNmAgOc": {
           "name": "Mordisco",
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-          "descriptionChat": "<p>El Troll ataca con su mordida.</p>"
+          "descriptionChat": "<p>El troll ataca con su mordisco.</p>"
         },
         "ahGwFmyt6nItUOAK": {
           "name": "Garra",
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-          "descriptionChat": "<p>El Troll ataca con su garra.</p>"
+          "descriptionChat": "<p>El troll ataca con su garra.</p>"
         },
         "BA9WmovILanbvacP": {
           "name": "Ataque múltiple",
-          "description": "<p>El troll hace tres ataques: uno con su [[/item .R7DpgLP3aFNmAgOc]]{mordedura} y dos con su [[/item .ahGwFmyt6nItUOAK]]{garras}.</p>"
+          "description": "<p>El troll realiza tres ataques: uno con su [[/item .R7DpgLP3aFNmAgOc]]{mordisco} y dos con sus [[/item .ahGwFmyt6nItUOAK]]{garras}.</p>"
         },
         "N3vrbUmlL4FEARJ8": {
-          "name": "Olor a queso",
-          "description": "<p>El troll tiene<strong> ventaja </strong>en la Sabiduría (percepción) cheques que dependen del olor.</p>"
+          "name": "Olfato Agudo",
+          "description": "<p>El troll tiene<strong> ventaja </strong>en las pruebas de Sabiduría (Percepción) que dependan del olfato.</p>"
         },
         "yWYB2iyRA61AjcVJ": {
           "name": "Regeneración",
-          "description": "<p>El troll recupera [[/heal]] al comienzo de su turno. Si el troll toma <strong>ácido</strong> o <strong>Daño por incendio</strong>, este rasgo no funciona al principio del siguiente turno del troll. El troll muere sólo si comienza su turno con 0 puntos de impacto y no se regenera.</p>",
-          "descriptionChat": "<p>El troll recupera <strong>10 puntos de impacto</strong> al comienzo de su turno.</p>",
+          "description": "<p>El troll recupera [[/heal]] al comienzo de su turno. Si sufre <strong>daño de ácido</strong> o <strong>de fuego</strong>, este atributo no funciona al comienzo de su siguiente turno. El troll solo muere si comienza su turno con 0 puntos de golpe y no se regenera.</p>",
+          "descriptionChat": "<p>El troll recupera <strong>10 puntos de golpe</strong> al comienzo de su turno.</p>",
           "activities": {
             "dnd5eactivity000": {
-              "name": "Curación: Inicio de la vuelta"
+              "name": "Curación: comienzo del turno"
             }
           }
         }
       },
-      "name": "Trol",
-      "tokenName": "Trol",
-      "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+      "name": "Troll",
+      "tokenName": "Troll",
+      "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
     },
     "ScPUoHQys35roiVD": {
       "alignment": "Sin alineamiento",
@@ -5524,34 +5524,34 @@
       "items": {
         "USl5HDilKxVI4BHh": {
           "name": "Ataque múltiple",
-          "description": "<p>La hidra hace tantos [[/item .fYE4f0Oa2I0MetId]]{mordedura} ataques como si tuviera cabezas.</p>"
+          "description": "<p>La hidra realiza tantos ataques de [[/item .fYE4f0Oa2I0MetId]]{mordisco} como cabezas tenga.</p>"
         },
         "fYE4f0Oa2I0MetId": {
           "name": "Mordisco",
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-          "descriptionChat": "<p>El Hydra ataca con su mordida.</p>"
+          "descriptionChat": "<p>La hidra ataca con su mordisco.</p>"
         },
         "xr59rWl3oCOLdQBQ": {
-          "name": "Sostenga la respiración",
-          "description": "<p>La hidra puede contener la respiración durante 1 hora.</p>"
+          "name": "Aguantar la Respiración",
+          "description": "<p>La hidra puede aguantar la respiración durante 1 hora.</p>"
         },
         "fsAeJDaI0a6sBeFk": {
-          "name": "Cabezas múltiples",
-          "description": "<p>La hidra tiene cinco cabezas. Mientras que tiene más de una cabeza, la hidra tiene<strong> ventaja </strong>en los lanzamientos de ahorro <strong>contra ser cegado, encantado, ensordecido, asustado, aturdido y noqueado inconsciente</strong><strong>. </strong></p><p>Cada vez que la hidra recibe 25 o más daños en un solo giro, una de sus cabezas muere. Si todas sus cabezas mueren, la hidra muere.</p><p>Al final de su turno, crece dos cabezas por cada una de sus cabezas que murieron desde su último giro, a menos que haya tomado <em>Daño por incendio</em> Desde su última vuelta. La hidra recupera <strong>10 puntos de impacto</strong> por cada cabeza reengrosada de esta manera.</p>",
-          "descriptionChat": "<p>La hidra tiene cinco cabezas. Mientras que tiene más de una cabeza, la hidra tiene<strong> ventaja </strong>en los lanzamientos de ahorro <strong>contra ser cegado, encantado, ensordecido, asustado, aturdido y noqueado inconsciente</strong>.</p>"
+          "name": "Múltiples Cabezas",
+          "description": "<p>La hidra tiene cinco cabezas. Mientras tenga más de una, tiene<strong> ventaja </strong>en las tiradas de salvación <strong>para evitar quedar cegada, hechizada, ensordecida, asustada, aturdida o inconsciente</strong><strong>.</strong></p><p>Siempre que la hidra sufra 25 de daño o más en un solo turno, una de sus cabezas muere. Si todas sus cabezas mueren, la hidra muere.</p><p>Al final de su turno le crecen dos cabezas por cada una que haya muerto desde su último turno, salvo que haya sufrido <em>daño de fuego</em> desde entonces. La hidra recupera <strong>10 puntos de golpe</strong> por cada cabeza que le crezca de esta forma.</p>",
+          "descriptionChat": "<p>La hidra tiene cinco cabezas. Mientras tenga más de una, tiene<strong> ventaja </strong>en las tiradas de salvación <strong>para evitar quedar cegada, hechizada, ensordecida, asustada, aturdida o inconsciente</strong>.</p>"
         },
         "bE965DuMt1ReAulm": {
-          "name": "Cabezas reactivas",
-          "description": "<p>Para cada cabeza que la hidra tiene más allá de uno, obtiene una reacción adicional que puede ser utilizado sólo para ataques de oportunidad.</p>"
+          "name": "Cabezas Reactivas",
+          "description": "<p>Por cada cabeza que tenga la hidra además de la primera, obtiene una reacción adicional que solo puede usar para realizar ataques de oportunidad.</p>"
         },
         "cLcVpNuZOHIxLfPP": {
-          "name": "Despierta.",
-          "description": "<p>Mientras la hidra duerme, al menos una de sus cabezas está despierta.</p>"
+          "name": "Vigilia",
+          "description": "<p>Mientras la hidra duerme, al menos una de sus cabezas permanece despierta.</p>"
         }
       },
       "name": "Hidra",
       "tokenName": "Hidra",
-      "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+      "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
     },
     "iBJnOTASkSnOejyf": {
       "alignment": "Sin alineamiento",
@@ -15412,37 +15412,37 @@
       "items": {
         "5PmQuifZGbPWxAYz": {
           "name": "Mordisco",
-          "description": "<p>[[/attack extended]]. [[/damage extended average]]. Si el objetivo es una criatura, debe tener éxito en un [[/save 14 format=long]] o ser llamado &amp;Reference[prone apply=false]{propenso}.</p>",
-          "descriptionChat": "<p>El Lobo de Invierno ataca con su mordida. Si el objetivo es una criatura, debe hacer un <strong>Fuerza</strong> ahorro tirar o ser golpeado propenso.</p>",
+          "description": "<p>[[/attack extended]]. [[/damage extended average]]. Si el objetivo es una criatura, debe superar una [[/save 14 format=long]] o quedar &amp;Reference[prone apply=false]{derribado}.</p>",
+          "descriptionChat": "<p>El lobo invernal ataca con su mordisco. Si el objetivo es una criatura, debe realizar una tirada de salvación de <strong>Fuerza</strong> o quedar derribado.</p>",
           "effects": {
             "uxzNjKqIRHRcC5Pr": {
-              "name": "Prona",
-              "description": "<p>El objetivo está golpeado. &amp;Reference[prone apply=false]{propenso}.</p>"
+              "name": "Derribado",
+              "description": "<p>El objetivo queda &amp;Reference[prone apply=false]{derribado}.</p>"
             }
           }
         },
         "gbqFx1sEQUYQlDpJ": {
-          "name": "Oído y olfato de Keen",
-          "description": "<p>Los [[lookup @name lowercase]] ha<strong> </strong>ventaja<strong> </strong>en la Sabiduría (percepción) cheques que dependen de la audición u olfato.</p>"
+          "name": "Oído y Olfato Agudos",
+          "description": "<p>El [[lookup @name lowercase]] tiene<strong> </strong>ventaja<strong> </strong>en las pruebas de Sabiduría (Percepción) que dependan del oído o del olfato.</p>"
         },
         "axhIBG9zM7Z9AHxL": {
-          "name": "Tácticas de empaquetado",
-          "description": "<p>Los [[lookup @name lowercase]] tiene ventaja en un ataque rodar contra una criatura si al menos uno de los aliados del lobo está a menos de 5 pies de la criatura y el aliado no está incapacitado.</p>"
+          "name": "Atacar en Manada",
+          "description": "<p>El [[lookup @name lowercase]] tiene ventaja en una tirada de ataque contra una criatura si al menos uno de los aliados del lobo está a 5 pies o menos de ella y no está incapacitado.</p>"
         },
         "pu8fxDuua6ObNqtg": {
-          "name": "Camuflaje de nieve",
-          "description": "<p>Los [[lookup @name lowercase]] tiene ventaja en los controles de Dexterity (Stealth) realizados para esconderse en terrenos nevados.</p>"
+          "name": "Camuflaje en la Nieve",
+          "description": "<p>El [[lookup @name lowercase]] tiene ventaja en las pruebas de Destreza (Sigilo) para esconderse en terreno nevado.</p>"
         },
         "Rj3oSInoQMIfHrPc": {
-          "name": "Respiración en frío",
-          "description": "<p>Los [[lookup @name lowercase]] exhala una ráfaga de viento helado en un cono de 15 pies. Cada criatura en esa área debe hacer un [[/save dex 12 format=long]], tomando [[/damage average]] en un error de ahorro, o la mitad de daño en uno exitoso.</p>",
-          "descriptionChat": "<p>El lobo exhala una ráfaga de viento helado en un cono de 15 pies. Cada criatura en esa área debe hacer un <strong>Destreza</strong> El lanzamiento de ahorro.</p>"
+          "name": "Aliento Gélido",
+          "description": "<p>El [[lookup @name lowercase]] exhala una ráfaga de viento helado en un cono de 15 pies. Cada criatura en esa área debe realizar una [[/save dex 12 format=long]]. Sufre [[/damage average]] si falla o la mitad del daño si tiene éxito.</p>",
+          "descriptionChat": "<p>El lobo exhala una ráfaga de viento helado en un cono de 15 pies. Cada criatura en esa área debe realizar una tirada de salvación de <strong>Destreza</strong>.</p>"
         }
       },
       "name": "Lobo invernal",
       "languages": "Lobo invernal",
       "tokenName": "Lobo invernal",
-      "biography": "<p><em>Token artwork by </em><a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\"><em>Aventuras olvidadas</em></a><em>.</em></p>"
+      "biography": "<p><em>Ilustración de la ficha por </em><a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\"><em>Forgotten Adventures</em></a><em>.</em></p>"
     },
     "zpSfiJlmWemS9GNh": {
       "alignment": "Legal malvado",
