@@ -17655,6 +17655,108 @@
           "status": "reviewed-against-es-extraction-and-en-export"
         }
       ]
+    },
+    {
+      "id": "appendix-c-magic-lantern",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.items.toamgcGhostLante.name",
+          "sourceSha256": "5488f22270981c90f7b1fced9cde06312291d7688ccd584721ea9f290a0e76c8",
+          "translationSha256": "6491a23ed736be00b27118eaa52063dbc04b3170b491033166af8c0e116fbf3e",
+          "pdfEsPages": [
+            209
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.toamgcGhostLante.description",
+          "sourceSha256": "4e90a5ac62ed142ffd0a4b66f633cfcb57b1e10075a7090e90db32343c73ed5d",
+          "translationSha256": "d8632112a125ebaefdcd94fea325457a94e36dd7e91f9e9f4a45b57f7d6b3342",
+          "pdfEsPages": [
+            209
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.toamgcGhostLante.activities.LQP2wbP26jAybQg1.name",
+          "sourceSha256": "7295c0dc632f088e5b3839c4e4aa9112ab56ab3877b487070af9a60cae01f24d",
+          "translationSha256": "327a89d1b5d81724ed00972c76fc3760293d4d34c8532a1ec2a5912c582c524f",
+          "pdfEsPages": [
+            209
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.toamgcGhostLante.activities.LQP2wbP26jAybQg1.target.affects.special",
+          "sourceSha256": "ae4b3815f24664b81cbfcaeabcd697dc514012fc83b444c3be9d5239f27d3796",
+          "translationSha256": "4a4a57ddbd7d83e0e2f819b9967e81ad69b203cc9bcb643ae7ff96f3d6908934",
+          "pdfEsPages": [
+            209
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.toamgcGhostLante.effects.oxs8Sx2VqEJtzRhi.name",
+          "sourceSha256": "5488f22270981c90f7b1fced9cde06312291d7688ccd584721ea9f290a0e76c8",
+          "translationSha256": "6491a23ed736be00b27118eaa52063dbc04b3170b491033166af8c0e116fbf3e",
+          "pdfEsPages": [
+            209
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "appendix-c-magic-scorpion",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.items.toamgcScorpionAr.name",
+          "sourceSha256": "6ecd7e9606a01bb7d316cfeace8d408657078bc5b356b3c882aaee99c864b8a7",
+          "translationSha256": "42e71f47805b89a5ac08f45f58849ff36ae1e7a5f50de9f2cd1a78f867b6fa07",
+          "pdfEsPages": [
+            208
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.toamgcScorpionAr.description",
+          "sourceSha256": "db03a98fcbe795c6580e9c4a41e65cb47a2fc49b434253985b311654605df7d8",
+          "translationSha256": "f5597c9ee6da82e04e7d47e58d2dde42d2d647271a03ffba8d23dd81d3f3502f",
+          "pdfEsPages": [
+            208
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.toamgcScorpionAr.activities.N3hRF9utuszXHAYb.name",
+          "sourceSha256": "88b3d8eed54f6ff0f810aacca7226460fdb72ab34c99e5c4d002192a463a2e72",
+          "translationSha256": "b7e53f73edc023b3f5595a0d9fce383b1dfc24aafc4274e29cb213acd34e028a",
+          "pdfEsPages": [
+            208
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.toamgcScorpionAr.effects.hKDwyjxnQHTOZKwD.name",
+          "sourceSha256": "5dc42ee08ed3467ed1a558c323c54bd923d41f07020708d689dacabf7a39a5ff",
+          "translationSha256": "9748ade3ce0d65fc39d779e23dea821da6d7edeb19eef197a74af19de5b881a2",
+          "pdfEsPages": [
+            208
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.items.toamgcScorpionAr.effects.hKDwyjxnQHTOZKwD.description",
+          "sourceSha256": "51de3f97f8628df5edb282071c974294c01e1e479d67ddcd6830e8dbad383976",
+          "translationSha256": "6b22658675d2c5054146c9e416f6d7e11636dca725cde04b712017f929d8acba",
+          "pdfEsPages": [
+            208
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
     }
   ]
 }

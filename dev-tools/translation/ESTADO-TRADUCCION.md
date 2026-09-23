@@ -1283,6 +1283,16 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Revisados también nombres de actividades y efectos de la daga.
 - Auditorías técnica y editorial sin errores.
 
+### appendix-c-magic — Linterna y armadura del escorpión
+
+- Revisados diez campos de dos objetos con referencias físicas 208-209.
+- La linterna estabiliza a su portador inconsciente dentro del alcance;
+  liberar el espíritu elimina la magia del objeto. No puede dañarse ni expulsarse.
+- La armadura elimina sus propias desventajas, sin conceder una ventaja general.
+  Conservadas la condición del bonificador de iniciativa y la maldición al
+  ponerse o quitarse la armadura. Su bloque secreto mantiene la visibilidad.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
 - 626 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -1290,8 +1300,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
   del capítulo 4, 126 del capítulo 5 y 21 de los apéndices A y C.
   No equivale a 626 páginas del PDF.
-- 1445 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1445 campos distintos.
+- 1455 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1455 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz

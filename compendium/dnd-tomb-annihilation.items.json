@@ -1511,7 +1511,7 @@
     },
     "toamgcGhostLante": {
       "name": "Linterna fantasma",
-      "description": "<p>Un espíritu inquieto está atrapado dentro de esta linterna. Mientras sostiene la linterna, puede ordenar el espíritu como una acción adicional para arrojar luz brillante en un radio de 30 pies y tenue luz por 30 pies adicionales.</p><p>Mientras sostiene la linterna, puede utilizar una acción para ordenar que el espíritu deje la linterna y duplicar el efecto de la @UUID[Compendium.dnd5e.spells.Item.Utk1OQRwYkMkFRD3]{mano de mago} Deletrear. El espíritu vuelve a la linterna cuando el conjuro termina.</p><p>Si te caes &amp;Reference[unconscious apply=false] a menos de 10 pies de la linterna, el espíritu emerge de ella, mágicamente te estabiliza con un toque, y luego rápidamente vuelve a la linterna.</p><p>El espíritu está atado a la linterna y no puede ser dañado, convertido, o levantado de entre los muertos. Casting a @UUID[Compendium.dnd5e.spells.Item.TkJ8Wtg1L7TZtspm]{disipar el mal y el bien} conjuro en la linterna libera el espíritu a la vida después de la muerte y hace que la linterna no mágico.</p><p></p>",
+      "description": "<p>Un espíritu inquieto está atrapado en esta linterna. Mientras la sostengas, puedes usar una acción adicional para ordenarle que emita luz brillante en un radio de 30 pies y tenue otros 30 pies.</p><p>Mientras la sostengas, puedes usar una acción para ordenarle salir y reproducir los efectos de @UUID[Compendium.dnd5e.spells.Item.Utk1OQRwYkMkFRD3]{mano de mago}. Vuelve a la linterna cuando termina el conjuro.</p><p>Si quedas &amp;Reference[unconscious apply=false] a un máximo de 10 pies de la linterna, el espíritu sale, te estabiliza mágicamente con un toque y regresa enseguida.</p><p>Está ligado a la linterna y no puede recibir daño, ser expulsado ni resucitado. Lanzar @UUID[Compendium.dnd5e.spells.Item.TkJ8Wtg1L7TZtspm]{disipar el bien y el mal} sobre ella lo libera hacia el más allá y convierte la linterna en un objeto no mágico.</p><p></p>",
       "activities": {
         "LQP2wbP26jAybQg1": {
           "name": "Iluminar",
@@ -1598,8 +1598,8 @@
       }
     },
     "toamgcScorpionAr": {
-      "name": "Armadura Escorpión",
-      "description": "<p>Este traje de armadura de placa está hecho de escorpión gigante chitina. Mientras usas esta armadura, obtienes los siguientes beneficios:</p><ul><li>La armadura mejora su preparación para el combate, concediéndole un bono de +5 a la iniciativa siempre y cuando no lo sea &amp;Reference[incapacitated apply=false].</li><li>La armadura no impone desventaja en su Dexterity (&amp;Reference[skill=stealth]) cheques.</li><li>La armadura no impone desventaja en los lanzamientos de ahorro hechos para resistir los efectos del calor extremo (véase el capítulo 5 de la <em>Guía del Dungeon Master</em>).</li></ul><section class=\"secret\" id=\"secret-hnHhXZVy9pFhGkfO\"><p><em><strong>Maldición.</strong></em> Esta armadura está maldita. Siempre que lo hagas o lo hagas, debes hacer un [[/save ability=con dc=15 format=long]], tomando [[/damage 10d10+45 type=poison average]] daño en un error de guardar, o la mitad de daño en un éxito. Sólo un @UUID[Compendium.dnd5e.spells.Item.3okM6Gn63zzEULkz]{deseo} el conjuro puede quitar la maldición de la armadura.</p></section>",
+      "name": "Armadura del escorpión",
+      "description": "<p>Esta armadura de placas está hecha de quitina de escorpión gigante. Mientras la lleves puesta, obtienes estos beneficios:</p><ul><li>Mejora tu preparación para el combate: tienes un bonificador de +5 a la iniciativa mientras no estés &amp;Reference[incapacitated apply=false].</li><li>No impone desventaja en tus pruebas de Destreza (&amp;Reference[skill=stealth]).</li><li>No impone desventaja en salvaciones para resistir el calor extremo (consulta el capítulo 5 de la <em>Guía del Dungeon Master</em>).</li></ul><section class=\"secret\" id=\"secret-hnHhXZVy9pFhGkfO\"><p><em><strong>Maldición.</strong></em> La armadura está maldita. Cada vez que te la pongas o quites, debes hacer una [[/save ability=con dc=15 format=long]]: recibes [[/damage 10d10+45 type=poison average]] de daño si fallas o la mitad si la superas. Solo @UUID[Compendium.dnd5e.spells.Item.3okM6Gn63zzEULkz]{deseo} puede eliminar su maldición.</p></section>",
       "activities": {
         "N3hRF9utuszXHAYb": {
           "name": "Maldición"
@@ -1607,8 +1607,8 @@
       },
       "effects": {
         "hKDwyjxnQHTOZKwD": {
-          "name": "Combate la preparación y la resistencia al calor",
-          "description": "<p>La armadura mejora su preparación para el combate, concediéndole un bono de +5 a la iniciativa siempre y cuando no lo sea &amp;Reference[incapacitated apply=false].</p><p>La armadura no impone desventaja en los lanzamientos de ahorro hechos para resistir los efectos del calor extremo (véase el capítulo 5 de la <em>Guía del Dungeon Master</em>).</p>"
+          "name": "Preparación para el combate y resistencia al calor",
+          "description": "<p>La armadura mejora tu preparación para el combate: tienes un bonificador de +5 a la iniciativa mientras no estés &amp;Reference[incapacitated apply=false].</p><p>No impone desventaja en salvaciones para resistir el calor extremo (consulta el capítulo 5 de la <em>Guía del Dungeon Master</em>).</p>"
         }
       }
     },
