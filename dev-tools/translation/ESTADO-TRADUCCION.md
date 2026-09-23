@@ -1962,18 +1962,28 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - La ficha solo incluye un resumen biográfico. La Danza de los Siete Vientos
   permanece en el diario de Kir Sabal ya revisado, sin acción propia en la ficha.
 
+### appendix-d-bag-drufi — Saco de Clavos y Drufi
+
+- Revisados 70 campos entre páginas y dos copias de cada actor. Referencias
+  físicas 103 y 70, respectivamente; rasgos básicos contrastados con el exportado.
+- Conservadas las condiciones de Asesinar, Ataque Furtivo, Evasión y
+  recuperación de Agilidad Felina, así como la organización de la expedición
+  del Hvalspyd y su desconocimiento de la maldición de muerte.
+- Permanecen pendientes de la revisión funcional los enlaces de ataque por
+  nombre inglés `Shortsword` y `Greataxe`, como en las fichas anteriores.
+
 ## Balance de revisión editorial
 
-- 803 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 805 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 198 de los apéndices A, B, C, D y F.
-  No equivale a 803 páginas del PDF.
-- 5547 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 5547 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 200 de los apéndices A, B, C, D y F.
+  No equivale a 805 páginas del PDF.
+- 5617 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 5617 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas cincuenta y seis biografías en ambas copias de actores: siete
-  príncipes y cuarenta y nueve criaturas o PNJ del apéndice D. Siguen pendientes las demás
+  insertado. Revisadas cincuenta y ocho biografías en ambas copias de actores: siete
+  príncipes y cincuenta y una criaturas o PNJ del apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las

@@ -7629,7 +7629,7 @@
       "items": {
         "ohxYe7FO84suZnCA": {
           "name": "Arco largo",
-          "description": "<p>[[/attack extended]]. [[/damage extended average]], y el objetivo debe hacer un [[/save format=long]] tomando [[/damage average activity=qzS3MIjos4LAm0cu]] daño en un error de guardar, o la mitad de daño en un éxito.</p>"
+          "description": "<p>[[/attack extended]]. [[/damage extended average]], y el objetivo debe realizar una [[/save format=long]]. Sufre [[/damage average activity=qzS3MIjos4LAm0cu]] de daño si falla, o la mitad si tiene éxito.</p>"
         },
         "UYfC23uvgGAtBoHL": {
           "name": "Garras",
@@ -7637,37 +7637,37 @@
         },
         "WjPN4Vu3BzXa0VD4": {
           "name": "Ataque múltiple",
-          "description": "<p>[[lookup @name]] Hace dos. [[/item Shortsword]] ataques.</p>"
+          "description": "<p>[[lookup @name]] realiza dos ataques con [[/item Shortsword]]{espada corta}.</p>"
         },
         "8Ujag7LxgFvaoUAV": {
           "name": "Armadura de cuero tachonado",
-          "description": "<p>Hecho de cuero resistente pero flexible, el cuero tachonado está reforzado con remaches o pinchos de cierre.</p>"
+          "description": "<p>Esta armadura está hecha de cuero resistente pero flexible, reforzado con remaches o púas muy juntos.</p>"
         },
         "icf7tidAWnY0XMGE": {
           "name": "Asesinar",
-          "description": "<p>Durante su primer turno, [[lookup @name]] tiene ventaja en los rollos de ataque contra cualquier criatura que no haya tomado un giro. Cualquier golpe al asesino contra una criatura sorprendida es un golpe crítico.</p>"
+          "description": "<p>Durante su primer turno, [[lookup @name]] tiene ventaja en las tiradas de ataque contra cualquier criatura que aún no haya tenido un turno. Cualquier impacto del asesino contra una criatura sorprendida es un golpe crítico.</p>"
         },
         "DLxy3qGaQQvkSxMG": {
           "name": "Evasión",
-          "description": "<p>Si [[lookup @name]] está sometido a un efecto que le permite hacer un lanzamiento de ahorro de Dexterity para recibir sólo la mitad de daño, [[lookup @name]] en su lugar no se daña si tiene éxito en el lanzamiento de ahorro, y sólo la mitad de daño si falla.</p>"
+          "description": "<p>Si [[lookup @name]] se ve sometido a un efecto que le permita realizar una tirada de salvación de Destreza para recibir solo la mitad del daño, [[lookup @name]] no recibe daño si tiene éxito y solo recibe la mitad si falla.</p>"
         },
         "MhXlqTgFXmc3iCZs": {
-          "name": "Ataque furtivo",
-          "description": "<p>Una vez por turno, [[lookup @name]] reparte un extra [[/damage average]] daño cuando golpea un objetivo con un ataque de arma y tiene ventaja en el rollo de ataque, o cuando el objetivo está a menos de 5 pies de un aliado de [[lookup @name]] Eso no es &amp;Reference[Incapacitated apply=false] y [[lookup @name]] no tiene desventaja en el ataque.</p>"
+          "name": "Ataque Furtivo",
+          "description": "<p>Una vez por turno, [[lookup @name]] causa [[/damage average]] de daño adicional cuando impacta a un objetivo con un ataque con arma y tiene ventaja en la tirada de ataque, o cuando el objetivo está a 5 pies o menos de un aliado de [[lookup @name]] que no esté &amp;Reference[Incapacitated apply=false]{incapacitado} y [[lookup @name]] no tenga desventaja en la tirada de ataque.</p>"
         },
         "mV03jPpFXIXSlz75": {
-          "name": "Agilidad felina",
-          "description": "<p>Cuando [[lookup @name]] se mueve en su turno en combate, puede duplicar su velocidad hasta el final de la vuelta. Una vez que usa este rasgo, [[lookup @name]] no puede volver a usarlo hasta que se mueva 0 pies en una de sus vueltas.</p>"
+          "name": "Agilidad Felina",
+          "description": "<p>Cuando [[lookup @name]] se mueve durante su turno en combate, puede duplicar su velocidad hasta el final del turno. Una vez usado este rasgo, [[lookup @name]] no puede volver a usarlo hasta que se mueva 0 pies en uno de sus turnos.</p>"
         },
         "nY7OoantCcfviGJX": {
           "name": "Espada corta",
-          "description": "<p>[[/attack extended]]. [[/damage extended average]], y el objetivo debe hacer un [[/save format=long]], tomando [[/damage average activity=FrrTqfIAH2FGvPhG]] daño en un error de guardar, o la mitad de daño en un éxito.</p>"
+          "description": "<p>[[/attack extended]]. [[/damage extended average]], y el objetivo debe realizar una [[/save format=long]]. Sufre [[/damage average activity=FrrTqfIAH2FGvPhG]] de daño si falla, o la mitad si tiene éxito.</p>"
         }
       },
-      "name": "Bolsa de uñas",
+      "name": "Saco de Clavos",
       "creatureSubtype": "Tabaxi",
-      "tokenName": "Bolsa de uñas",
-      "biography": "<p>Bolsa de uñas anhela la muerte de un cazador. La senilidad se ha apoderado, y ahora ve a todas las criaturas como su presa.</p>"
+      "tokenName": "Saco de Clavos",
+      "biography": "<p>Saco de Clavos anhela morir como un cazador. La senilidad se ha adueñado de él y ahora considera presas a todas las criaturas.</p>"
     },
     "toaBatiriBattleS": {
       "items": {
@@ -8374,7 +8374,7 @@
       "items": {
         "kXMmoixY0s8ZPtJ2": {
           "name": "Ataque múltiple",
-          "description": "<p>[[lookup @name]] Hace dos. [[/item Greataxe]] ataques.</p>"
+          "description": "<p>[[lookup @name]] realiza dos ataques con [[/item Greataxe]]{hacha a dos manos}.</p>"
         },
         "ojpZM75xfVVkYIIL": {
           "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
@@ -8387,7 +8387,7 @@
       },
       "name": "Drufi",
       "tokenName": "Drufi",
-      "biography": "<p>Los <em>Hvalspyd</em> (el nombre significa “lanza de ballena”) es un buque de tamaño largo para gigantes de heladas: 250 pies de largo, con velas hechas de alas blancas de dragón. Está anclado a 100 metros de una playa a lo largo de la costa noreste de Chult, a 70 millas al norte de Kitcher’s Inlet. Es imposible que los gigantes oculten el barco; nadie que navegue por la costa puede perderlo.</p><p>Los <em>Hvalspyd</em> navegó hacia el sur desde el Mar de Hielo en Movimiento con una tripulación de veinte @UUID[Actor.toaEncFrostGiant]{Gigantes de heladas}. Tres gigantes de heladas permanecen a bordo del barco... dos de guardia mientras que el tercero descansa. Dos gigantes más de heladas ven el mar desde la playa. Los otros quince gigantes se han dividido en cinco grupos de búsqueda de tres gigantes cada uno, y están buscando la selva para Artus Cimber y el <em><strong>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toamgcRingofWint]{Anillo de invierno}</strong></em>. Uno de los cazadores gigantes de heladas es el <em>Hvalspyd’s</em> Capitán Drufi (NE hembra gigante de las heladas).</p><p>A petición de su señor, Jarl Storvald, Drufi dirigió esta expedición para recuperar el anillo. Storvald lo quiere por las razones explicadas en la aventura Storm King’s Thunder. Él cree que con el <em><strong>Anillo de invierno</strong></em>, él puede congelar el mundo y traer la Era del Hielo Eterna — un sueño maravilloso que mantiene a Drufi enfocado en la tarea a la mano. Los gigantes no saben nada de Acererak, el Almero, o la maldición de la muerte.</p><p>Los gigantes de las heladas están fuera de su elemento en la selva tropical. Lo ven como el peor infierno imaginable. Sin embargo, no tienen la intención de fallar en su jarl y dejar que la <em><strong>Anillo de invierno</strong></em> escabullirse a través de sus garras.</p>"
+      "biography": "<p>El <em>Hvalspyd</em> (cuyo nombre significa «lanza de ballena») es un drakkar del tamaño adecuado para gigantes de escarcha: mide 250 pies de largo y sus velas están hechas con alas de dragón blanco. Está anclado a 100 yardas de una playa de la costa noreste de Chult, a 70 millas al norte de la Ensenada de Kitcher. Los gigantes no pueden ocultarlo; cualquiera que navegue por la costa lo verá.</p><p>El <em>Hvalspyd</em> navegó hacia el sur desde el Mar de Hielo en Movimiento con una tripulación de veinte @UUID[Actor.toaEncFrostGiant]{gigantes de escarcha}. Tres permanecen a bordo: dos hacen guardia mientras el tercero descansa. Otros dos vigilan el mar desde la playa. Los quince restantes se han dividido en cinco grupos de búsqueda de tres gigantes cada uno y recorren la selva en busca de Artus Cimber y del <em><strong>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toamgcRingofWint]{Anillo del Invierno}</strong></em>. Entre los cazadores se encuentra la capitana del <em>Hvalspyd</em>, Drufi, una gigante de escarcha NM.</p><p>Por orden de su señor, el jarl Storvald, Drufi encabezó esta expedición para recuperar el anillo. Storvald lo desea por los motivos explicados en la aventura Trueno del Rey de la Tormenta. Cree que con el <em><strong>Anillo del Invierno</strong></em> puede congelar el mundo y traer la Era del Hielo Perpetuo, un sueño maravilloso que mantiene a Drufi centrada en su misión. Los gigantes no saben nada de Acererak, del Almero ni de la maldición de muerte.</p><p>Los gigantes de escarcha están fuera de su elemento en la selva tropical, que consideran el peor infierno imaginable. Aun así, no piensan fallar a su jarl ni dejar escapar el <em><strong>Anillo del Invierno</strong></em>.</p>"
     },
     "toaDyrax00000000": {
       "alignment": "Legal malvado",
