@@ -2334,15 +2334,27 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y 61–65 para suelo que se derrumba; el PDF español indica 56–65 y 51–55,
   respectivamente. La traducción conserva los rangos del original exportado.
 
+### additional-rules — Reglas adicionales
+
+- Revisadas seis páginas, 12 campos: frío y calor extremos, lealtad,
+  puntuación y seguimiento de lealtad, y licantropía. Son textos adicionales
+  del exportado inglés, sin atribuirlos al PDF de la aventura.
+- Conservadas las temperaturas en Fahrenheit para no alterar los umbrales.
+  El texto de lealtad incluye 10 tanto en «10 o más» como en «entre 1 y 10»;
+  se conserva y documenta este solapamiento del original.
+- Comprobadas las condiciones de contagio y eliminación de la licantropía,
+  la diferencia entre aceptarla o resistirse, y los cambios de perfil de los
+  cinco tipos. Conservadas las tiradas secretas de lealtad.
+
 ## Balance de revisión editorial
 
-- 893 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 899 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 288 de los apéndices A, B, C, D y F.
-  No equivale a 893 páginas del PDF.
-- 10563 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 10563 campos distintos.
+  del capítulo 4, 126 del capítulo 5, 288 de los apéndices A, B, C, D y F
+  y seis de reglas adicionales. No equivale a 899 páginas del PDF.
+- 10575 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 10575 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento treinta y cuatro biografías en ambas copias de actores: siete
   príncipes y ciento veintisiete criaturas o PNJ vinculados al apéndice D. Siguen pendientes las demás

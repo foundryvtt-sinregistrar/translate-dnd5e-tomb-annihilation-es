@@ -107624,6 +107624,138 @@
           "status": "reviewed-against-es-extraction-and-en-export"
         }
       ]
+    },
+    {
+      "id": "additional-rules-z3kEKGnocGv15Nht",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaAdditionalRul.pages.z3kEKGnocGv15Nht.text",
+          "sourceSha256": "7eec0f27eba315db0b70c56a58c754c10a571d14b5e5cb556849353c97e1a8a7",
+          "translationSha256": "aa8a6a141f18f88e2ff5f3492c2293212e1e96c483b7e4e2fc8e4e1fdb9440b1",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Supplementary rules reviewed against the supplied English export; not part of the adventure PDF."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaAdditionalRul.pages.z3kEKGnocGv15Nht.name",
+          "sourceSha256": "c07d26ae56b1681e55b6e89ab7744b25983ae1142ed2b8ac591bdc9beb2da7e6",
+          "translationSha256": "bbd43c6b686a3fd3f4a14ca828f62dbd306d865a3ccc6ff91d338b6e803a1801",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Supplementary rules reviewed against the supplied English export; not part of the adventure PDF."
+        }
+      ]
+    },
+    {
+      "id": "additional-rules-ePltaBYNbsncabYd",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaAdditionalRul.pages.ePltaBYNbsncabYd.text",
+          "sourceSha256": "b598352c266ae40f3904266de1afbdbb9a34948540fa4f2393fc5d3852a94b0b",
+          "translationSha256": "a74a56f282e53bf5fd7602df2327377878c9bf45c1f0460dd62af24c180ac938",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Supplementary rules reviewed against the supplied English export; not part of the adventure PDF."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaAdditionalRul.pages.ePltaBYNbsncabYd.name",
+          "sourceSha256": "86a70ac3a947893c212b9d1aa64e1163871268034fbc8b8e0d57d7e24760ab01",
+          "translationSha256": "d4f6c87fb5a26f9e1ed31d41fbb150b0f019040897a5182edd595b6dfeb80a43",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Supplementary rules reviewed against the supplied English export; not part of the adventure PDF."
+        }
+      ]
+    },
+    {
+      "id": "additional-rules-cOcWjHWZxFY140yB",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaAdditionalRul.pages.cOcWjHWZxFY140yB.text",
+          "sourceSha256": "61ac8b9bb6f7dddec6f2d5d816a05108dd290b7035e2eca81d228dae47f9d452",
+          "translationSha256": "1cce5c81d60efec65819fb9fe0e98f3d7133d581fc573dd1d86bdb9e0947f7f9",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Supplementary rules reviewed against the supplied English export; not part of the adventure PDF."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaAdditionalRul.pages.cOcWjHWZxFY140yB.name",
+          "sourceSha256": "cfa3d938c034534e07bbe485e8a7eb6cc4a7f50251a44532bbd82c2f4c1585b1",
+          "translationSha256": "247f77c8b92d5bdc3af21a2025109acfdf8714dd5fa169c56f8e8e915dc9e3a1",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Supplementary rules reviewed against the supplied English export; not part of the adventure PDF."
+        }
+      ]
+    },
+    {
+      "id": "additional-rules-rrkrOnV5QzlCf2Jx",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaAdditionalRul.pages.rrkrOnV5QzlCf2Jx.text",
+          "sourceSha256": "a8b9d3008d21979d5aab4ffc896ebb6a062bd9eac5eeebedce0875c7b3820775",
+          "translationSha256": "b44bd2dcd803facb7137778665a01fa01b600f95e8dac0de2abe99fd4feeb244",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Supplementary rules reviewed against the supplied English export; not part of the adventure PDF."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaAdditionalRul.pages.rrkrOnV5QzlCf2Jx.name",
+          "sourceSha256": "0728f0a423e62a7376ab9b67365290de3792c67efe9bfb875ae8142dc524bce5",
+          "translationSha256": "8bb3bd16ee9b1c4c131e1c218e47b97073f1c031d8c7d44b79cf3bde31461c7e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Supplementary rules reviewed against the supplied English export; not part of the adventure PDF."
+        }
+      ]
+    },
+    {
+      "id": "additional-rules-MzldC4j2k3bl6lGE",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaAdditionalRul.pages.MzldC4j2k3bl6lGE.text",
+          "sourceSha256": "db04a8902520d372d4bcaad3d26e637ee17d57dd47aba616a733d941471c8e38",
+          "translationSha256": "33385849953a39c17fdb0a1dd9b2132abf190381b2dbf66764ea017b1abc9497",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Supplementary rules reviewed against the supplied English export; not part of the adventure PDF."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaAdditionalRul.pages.MzldC4j2k3bl6lGE.name",
+          "sourceSha256": "4329dedfad89cd6bff545eee14a19fac43d3a0ee0af72841d1fe2f6aa69ef671",
+          "translationSha256": "e9f296b5932af982209ebc111f39c4e885d1accb5a69a12dc45d8a8b7f88a4ed",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Supplementary rules reviewed against the supplied English export; not part of the adventure PDF."
+        }
+      ]
+    },
+    {
+      "id": "additional-rules-NZwwqeRJ3PnTCupQ",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaAdditionalRul.pages.NZwwqeRJ3PnTCupQ.text",
+          "sourceSha256": "bb6b95fb3df605149d58dd43137ab418a8b09974d12400ee31458a83e09a5b66",
+          "translationSha256": "2fcc65cf4b2cbe8b3f1a1a72dd0316eb8a2a25833471e15642879bb21e89861d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Supplementary rules reviewed against the supplied English export; not part of the adventure PDF."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaAdditionalRul.pages.NZwwqeRJ3PnTCupQ.name",
+          "sourceSha256": "10d42b842aedbaa8c438f3e740885e077941fe32243affaad3f5f34bc32af99b",
+          "translationSha256": "55401693f59be6eba11240879d5b0f748478b1d8668d0bfd57b85d8ee1abf957",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Supplementary rules reviewed against the supplied English export; not part of the adventure PDF."
+        }
+      ]
     }
   ]
 }
