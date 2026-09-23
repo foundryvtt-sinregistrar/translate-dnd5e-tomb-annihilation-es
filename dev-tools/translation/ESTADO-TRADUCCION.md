@@ -2321,6 +2321,19 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Cerradas las páginas de texto del apéndice D; continúa la revisión de los
   demás documentos y de las incidencias funcionales registradas.
 
+### remaining-tables — Nangalore y ruinas de Omu
+
+- Revisados los 32 campos pendientes de cuatro tablas: Descubrimientos en
+  el jardín, Ocupantes del nido, Plantas raras e Interior de las ruinas.
+  Referencias físicas 82 y 96. Cerrados los campos del compendio de tablas.
+- Conservadas las tiradas, cantidades, repetición de resultados y el carácter
+  único del hallazgo del mago muerto en el jardín.
+- «Plantas raras» enlaza erróneamente a la página de «Nido», pendiente de
+  reparación funcional. Las referencias generales al apéndice D sí apuntan
+  a su página de presentación. Los rangos exportados son 51–60 para niebla
+  y 61–65 para suelo que se derrumba; el PDF español indica 56–65 y 51–55,
+  respectivamente. La traducción conserva los rangos del original exportado.
+
 ## Balance de revisión editorial
 
 - 893 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2328,8 +2341,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
   del capítulo 4, 126 del capítulo 5 y 288 de los apéndices A, B, C, D y F.
   No equivale a 893 páginas del PDF.
-- 10531 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 10531 campos distintos.
+- 10563 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 10563 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento treinta y cuatro biografías en ambas copias de actores: siete
   príncipes y ciento veintisiete criaturas o PNJ vinculados al apéndice D. Siguen pendientes las demás
