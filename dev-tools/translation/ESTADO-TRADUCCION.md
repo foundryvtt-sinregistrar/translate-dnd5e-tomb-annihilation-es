@@ -1054,14 +1054,27 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Unificado Ombligo de la Luna con las referencias narrativas anteriores.
 - Auditorías técnica y editorial sin errores.
 
+### ch5-level4-unkh-01 a ch5-level4-unkh-02 — Unkh y pozo del olvido
+
+- Revisados dos textos y títulos con referencias físicas 167-169.
+  Completados los 24 textos del cuarto nivel.
+- El don corresponde a quien recuperó la llave, no necesariamente a quien
+  la introduzca. La eliminación de la marca no se presenta como eliminación del don.
+- Conservadas separación, visibilidad y expulsión del laberinto. La tabla
+  insertada y los objetos de encantamiento siguen pendientes de revisión propia.
+- El original del módulo omite la inversión de las funciones de las palancas
+  al regresar al pozo, presente en el PDF. No se ha añadido una regla que la
+  macro podría no implementar: requiere contrastar texto y automatización.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 573 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 575 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4 y noventa y cuatro del capítulo 5. No equivale a 573 páginas del PDF.
-- 1256 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1256 campos distintos.
+  del capítulo 4 y noventa y seis del capítulo 5. No equivale a 575 páginas del PDF.
+- 1260 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1260 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz

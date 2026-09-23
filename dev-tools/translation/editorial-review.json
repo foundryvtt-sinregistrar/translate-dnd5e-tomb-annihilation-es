@@ -15449,6 +15449,60 @@
           "status": "reviewed-against-es-extraction-and-en-export"
         }
       ]
+    },
+    {
+      "id": "ch5-level4-unkh-01",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level4Cham.pages.Bk2b33WKR4CkUc6t.text",
+          "sourceSha256": "1b34434bf741fb95eab1a11e59d18e957f7fc24ff428f4349175502f4e2d7a8d",
+          "translationSha256": "fd2e32e986f3c228cde0f671242938632b17d1dea036ebb335b4143e40eeddf4",
+          "pdfEsPages": [
+            167,
+            168,
+            169
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level4Cham.pages.Bk2b33WKR4CkUc6t.name",
+          "sourceSha256": "7c7c17d0bdf39ecd43e32452e0414bf7daf2f58d90a63720ce36a92254f92ce2",
+          "translationSha256": "d102a9669d922a7cc65f32fb264d7f57a31b879ed17ddab10537b69b66730792",
+          "pdfEsPages": [
+            167,
+            168,
+            169
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch5-level4-unkh-02",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level4Cham.pages.qsWGw5uIdrTYBblW.text",
+          "sourceSha256": "2448f5a9122ad016c5e8c8837dbc1a296bf39bb251141d18b1d77816e0aa6b15",
+          "translationSha256": "28d18f3292565fa841dea3d6c6d4405a40b8087ac342bd7b1b253dcaf1e5b706",
+          "pdfEsPages": [
+            169
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level4Cham.pages.qsWGw5uIdrTYBblW.name",
+          "sourceSha256": "dcfa7f4d8322573078f3757b21b6158f9c8b37e960bc81d2874b26c050b52c1e",
+          "translationSha256": "f7c966923f822f34cc97a6740ab4120740e36ce743dd4cda3d70b4a5b644c502",
+          "pdfEsPages": [
+            169
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
     }
   ]
 }
