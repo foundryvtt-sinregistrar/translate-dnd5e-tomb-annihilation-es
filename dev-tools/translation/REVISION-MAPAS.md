@@ -50,5 +50,5 @@ una traducción integral de todos los píxeles del módulo.
 47 imágenes españolas en total: 19 ayudas y 28 recursos del atlas. Sus huellas
 y correspondencias se comprueban con `audit_review_completion.py`. Las
 expectativas de la siguiente importación contienen 11.377 comprobaciones,
-incluida la carga de esas 47 imágenes. La carga del atlas nuevo en Foundry
-queda pendiente de reanudar el navegador y completar la importación limpia.
+incluida la carga de esas 47 imágenes. Todas cargaron correctamente en la
+importación limpia del 23 de septiembre: véase `IMPORTACION-LIMPIA.md`.

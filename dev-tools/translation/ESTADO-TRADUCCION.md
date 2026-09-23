@@ -20,16 +20,13 @@ No se considera una versión final lista para publicar.
   Incorporados 28 mapas/diagramas españoles: 47 imágenes españolas en total.
   Quedan rótulos ingleses en 14 fondos y la escala del mapa de Puerto Nyanzaru
   para jugadores. Inventario preciso en [REVISION-MAPAS.md](REVISION-MAPAS.md).
-- Iniciada la creación de `DnD5e-6.0.3-Testing-Clean` desde un mundo vacío.
-  Chrome interrumpió el control porque había abierta la interfaz de otra
-  extensión. La creación final, activación de módulos e importación aún no
-  están verificadas. Se solicitó al usuario cerrar ese panel para continuar.
-- Preparadas 11.377 comprobaciones para la siguiente importación. No se ha
-  ejecutado esa nueva validación y no sustituye el resultado anterior de
-  11.349 comprobaciones tras reparar los nombres de las fichas.
-- El informe v2 final sigue pendiente de esta importación y del cierre de los
-  límites funcionales/gráficos documentados. No se acredita una finalización
-  completa mientras esos puntos permanezcan abiertos.
+- Completada la importación en `DnD5e-6.0.3-Testing-Clean`, inicialmente vacío,
+  con la sincronización de nombres de Babele desactivada: 11.377 comprobaciones
+  sin diferencias, 47 imágenes cargadas y ocho destinos UUID corregidos
+  resueltos. No fue necesario reparar nombres después de importar. Evidencia
+  en [IMPORTACION-LIMPIA.md](IMPORTACION-LIMPIA.md).
+- El informe v2 sigue en preparación. Los límites funcionales/gráficos
+  documentados no se consideran corregidos por superar la importación.
 
 Los apartados de lotes posteriores conservan el historial de resultados; las
 cifras anteriores de enlaces e imágenes quedan sustituidas por este bloque.
