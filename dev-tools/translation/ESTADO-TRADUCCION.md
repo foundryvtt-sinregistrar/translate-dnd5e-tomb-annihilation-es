@@ -2198,18 +2198,29 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Cambiaformas mantiene las diferencias de marcado entre Indar e Ixis;
   el equipo no cambia y la velocidad volando depende de conservar las alas.
 
+### appendix-d-tinder-aremag — Yesca y Aremag
+
+- Revisados 82 campos: dos páginas y ambas copias de los actores.
+  Referencias físicas 43, 80 y 89; ataques y rasgos contra el exportado inglés.
+- Confirmada la discrepancia de Yesca: su biografía exportada dice «adulta»,
+  pero el perfil tiene VD 10, 178 PG y acciones de dragón rojo joven, coherentes
+  con el PDF. Se conserva la traducción del original y se registra la corrección
+  de contenido pendiente; no se convierte el perfil en un dragón adulto.
+- Conservados el ataque de cola de Aremag como alternativa a dos garras y
+  la excepción a la resistencia al daño de su aliento al estar bajo el agua.
+
 ## Balance de revisión editorial
 
-- 874 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 876 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 269 de los apéndices A, B, C, D y F.
-  No equivale a 874 páginas del PDF.
-- 9075 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 9075 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 271 de los apéndices A, B, C, D y F.
+  No equivale a 876 páginas del PDF.
+- 9157 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 9157 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas ciento dieciocho biografías en ambas copias de actores: siete
-  príncipes y ciento once criaturas o PNJ vinculados al apéndice D. Siguen pendientes las demás
+  insertado. Revisadas ciento veinte biografías en ambas copias de actores: siete
+  príncipes y ciento trece criaturas o PNJ vinculados al apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las

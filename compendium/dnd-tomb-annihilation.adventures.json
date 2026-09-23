@@ -637,26 +637,26 @@
           "items": {
             "2m2mkUSBJi2QOZje": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] hace tres ataques: uno con su [[/item Bite]] y dos con su [[/item Claw]]{Garras}. Puede hacer uno. [[/item Tail]] ataque en lugar de sus dos garras ataques.</p>"
+              "description": "<p>[[lookup @name]] realiza tres ataques: uno de [[/item Bite]]{mordisco} y dos de [[/item Claw]]{garra}. Puede realizar un ataque con la [[/item Tail]]{cola} en lugar de los dos ataques de garra.</p>"
             },
             "7QJr0VCtVk2wtZ78": {
               "name": "Mordisco",
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-              "descriptionChat": "<p>La Tortuga Dragón ataca con su mordida.</p>"
+              "descriptionChat": "<p>El dragón tortuga ataca con su mordisco.</p>"
             },
             "P4joxK4BwyYsPfJv": {
               "name": "Garra",
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-              "descriptionChat": "<p>La tortuga Dragón ataca con su Garra.</p>"
+              "descriptionChat": "<p>El dragón tortuga ataca con su garra.</p>"
             },
             "zNDI1LvLKZ9Hi2Ew": {
               "name": "Cola",
-              "description": "<p>[[/attack extended]]. [[/damage extended average]]. Si el objetivo es una criatura, debe tener éxito en un [[/save str 20 format=long]] o ser empujado hasta 10 pies de distancia de [[lookup @name]] y llamó. &amp;Reference[prone apply=false]{propenso}.</p>",
-              "descriptionChat": "<p>La Tortuga Dragón ataca con su cola. Si el objetivo es una criatura, debe hacer un <strong>Fuerza</strong> El lanzamiento de ahorro.</p>",
+              "description": "<p>[[/attack extended]]. [[/damage extended average]]. Si el objetivo es una criatura, debe superar una tirada de salvación [[/save str 20 format=long]] o ser empujado hasta 10 pies en dirección contraria a [[lookup @name]] y quedar &amp;Reference[prone apply=false]{derribado}.</p>",
+              "descriptionChat": "<p>El dragón tortuga ataca con su cola. Si el objetivo es una criatura, debe realizar una tirada de salvación de <strong>Fuerza</strong>.</p>",
               "effects": {
                 "Sfxw2QYrDhWvYwJn": {
-                  "name": "Prona",
-                  "description": "<p>El objetivo está golpeado. &amp;Reference[prone apply=false]{propenso}.</p>"
+                  "name": "Derribado",
+                  "description": "<p>El objetivo queda &amp;Reference[prone apply=false]{derribado}.</p>"
                 }
               }
             },
@@ -665,15 +665,15 @@
               "description": "<p>[[lookup @name]] puede respirar aire y agua.</p>"
             },
             "UjT93YD55B87gMqZ": {
-              "name": "Aliento de vapor",
-              "description": "<p>[[lookup @name]] exhala vapor hirviendo en un cono de 60 pies. Cada criatura en esa área debe hacer un [[/save format=long]], tomando [[/damage average]] en un error de ahorro, o la mitad de daño en uno exitoso.</p><p>Estar bajo el agua no garantiza resistencia contra este daño.</p>",
-              "descriptionChat": "<p>La tortuga dragón exhala vapor hirviendo en un cono de 60 pies. Cada criatura en esa área debe hacer un <strong>Constitución</strong> El lanzamiento de ahorro.</p>"
+              "name": "Aliento de Vapor",
+              "description": "<p>[[lookup @name]] exhala vapor abrasador en un cono de 60 pies. Cada criatura en el área debe realizar una tirada de salvación [[/save format=long]]. Si falla, sufre [[/damage average]]; si tiene éxito, sufre la mitad del daño.</p><p>Estar bajo el agua no otorga resistencia a este daño.</p>",
+              "descriptionChat": "<p>El dragón tortuga exhala vapor abrasador en un cono de 60 pies. Cada criatura en el área debe realizar una tirada de salvación de <strong>Constitución</strong>.</p>"
             }
           },
           "name": "Aremag",
           "creatureSubtype": "Tortuga",
           "tokenName": "Aremag",
-          "biography": "<p>La boca de la bahía está vigilada por Aremag, una tortuga dragón con un ojo izquierdo ciego y lechoso y un pedazo de su caparazón que falta. Aremag exige que los barcos tiren tesoros a la bahía para apaciguarlo. Aremag entonces recoge el botín y lo esconde en su guarida, que nadie ha encontrado todavía.</p>"
+          "biography": "<p>Aremag vigila la bocana de la bahía. Es un dragón tortuga con el ojo izquierdo lechoso y ciego, al que le falta un trozo de caparazón. Exige que los barcos arrojen tesoros a la bahía para apaciguarlo. Después recoge el botín y lo esconde en su guarida, que nadie ha encontrado todavía.</p>"
         },
         "xg5JXIFmcUkJY5qt": {
           "items": {
@@ -12944,11 +12944,11 @@
             "KuuOPjJ1YeTtjGbN": {
               "name": "Mordisco",
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-              "descriptionChat": "<p>El Joven Dragón Rojo ataca con su mordida.</p>",
+              "descriptionChat": "<p>La dragona roja joven ataca con su mordisco.</p>",
               "activities": {
                 "dnd5eactivity000": {
                   "description": {
-                    "chatFlavor": "¡El dragón rompe sus poderosas mandíbulas!"
+                    "chatFlavor": "¡La dragona cierra de golpe sus poderosas mandíbulas!"
                   }
                 }
               }
@@ -12956,21 +12956,21 @@
             "3UHmbpT3v3FTlplI": {
               "name": "Garra",
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-              "descriptionChat": "<p>El Joven Dragón Rojo ataca con su Garra.</p>"
+              "descriptionChat": "<p>La dragona roja joven ataca con su garra.</p>"
             },
             "uwDyoGhbCR8NoRmc": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] hace tres ataques: uno con su [[/item Bite]] y dos con su [[/item Claw]]{Garras}.</p>"
+              "description": "<p>[[lookup @name]] realiza tres ataques: uno de [[/item Bite]]{mordisco} y dos de [[/item Claw]]{garra}.</p>"
             },
             "nWjLJm6ErLvCUvun": {
-              "name": "Respiración de fuego",
-              "description": "<p>[[lookup @name]] exhala fuego en un cono de 30 pies. Cada criatura en esa área debe hacer un [[/save format=long]], tomando [[/damage average]] daño en un error de guardar, o la mitad de daño en un éxito.</p>",
-              "descriptionChat": "<p>El dragón exhala fuego en un cono de 30 pies. Cada criatura en esa área debe hacer un <strong>Destreza</strong> El lanzamiento de ahorro.</p>"
+              "name": "Aliento de fuego",
+              "description": "<p>[[lookup @name]] exhala fuego en un cono de 30 pies. Cada criatura en el área debe realizar una tirada de salvación [[/save format=long]]. Si falla, sufre [[/damage average]] de daño; si tiene éxito, sufre la mitad.</p>",
+              "descriptionChat": "<p>La dragona exhala fuego en un cono de 30 pies. Cada criatura en el área debe realizar una tirada de salvación de <strong>Destreza</strong>.</p>"
             }
           },
-          "name": "Tzindelor (Tinder)",
-          "tokenName": "Tinder",
-          "biography": "<p>Tinder es un dragón rojo adulto que gobierna sobre el Valle del Honor Perdido en Chul. Ella tiene un temperamento rápido y es implacable en el más mínimo indicio de falta de respeto. Su guarida está ubicada en la mina Wyrmheart, pero ella desea reclamar la antigua fragua enana conocida como Hrakhamar.</p>"
+          "name": "Tzindelor (Yesca)",
+          "tokenName": "Yesca",
+          "biography": "<p>Yesca es una dragona roja adulta que domina el Valle del Honor Perdido, en Chult. Tiene mal genio y no perdona la menor falta de respeto. Su guarida está en la Mina Wyrmheart, pero desea apoderarse de la antigua forja enana de Hrakhamar.</p>"
         },
         "toaUndrilSilvert": {
           "alignment": "Legal bueno",
@@ -17609,7 +17609,7 @@
             },
             "5hAevn0DdgMvihr8": {
               "text": "<p>@Embed[Actor.toaTinder0000000 caption=false cite=false]</p><p class=\"p1\">@Embed[Actor.toaTinder0000000 caption=false cite=true statblock]</p>",
-              "name": "Tinder"
+              "name": "Yesca"
             },
             "CI9bF7OlguU9w2ZC": {
               "text": "<p>@Embed[Actor.toaOrdFirebeard0 caption=false cite=false]</p><p class=\"p1\">@Embed[Actor.toaOrdFirebeard0 caption=false cite=true statblock]</p>",
