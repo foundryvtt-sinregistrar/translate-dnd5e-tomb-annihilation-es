@@ -119273,6 +119273,2430 @@
           "note": "Generic NPC profile reviewed against the English export; names and chat gender adapted to each actor, equipment descriptions checked in context."
         }
       ]
+    },
+    {
+      "id": "additional-generic-casters-CAus3CAUasfgWpRz",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.actors.CAus3CAUasfgWpRz.name",
+          "sourceSha256": "909a4523837aae515905ec70c82bfb91472f47fc9e1ffe9df3de2453e1b4532a",
+          "translationSha256": "221a259c81d2a5d3e218c0898bff9f4fb89ee90b7f3397c280684ef11bec63e6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.CAus3CAUasfgWpRz.alignment",
+          "sourceSha256": "822eb0a0cbd5cd86025088adf793ce135e2511797da2424a5f216b571aaa121a",
+          "translationSha256": "cc19b467acb4924d15a9f82dadfc16f9b049df9cfc5090646d303cf94af4b3e3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.CAus3CAUasfgWpRz.creatureSubtype",
+          "sourceSha256": "004c59916b2591d4e68a6f5fe56596ce41f2ad87af913006c32fe026bda474ec",
+          "translationSha256": "ddf3f4a260178c09ce499d24da29060ee3b0f64d80164e393a333c7db854dc55",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.CAus3CAUasfgWpRz.languages",
+          "sourceSha256": "1057e498af7bfeab8a995768749ecdb65edb05159782f4be7255e42e236ff656",
+          "translationSha256": "8717b63c11c4982277376013686c6c41ca1f0cb18822d3a01038be92ca3beacb",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.CAus3CAUasfgWpRz.tokenName",
+          "sourceSha256": "909a4523837aae515905ec70c82bfb91472f47fc9e1ffe9df3de2453e1b4532a",
+          "translationSha256": "221a259c81d2a5d3e218c0898bff9f4fb89ee90b7f3397c280684ef11bec63e6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.CAus3CAUasfgWpRz.biography",
+          "sourceSha256": "005ea83779c9757f66198e442b3974d1b9644098f09fe20d516e44b7b0697302",
+          "translationSha256": "13449ca5b377e53eed4ec882e9de4fdadb921a78a531289fbf79e3a63a220ce5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.CAus3CAUasfgWpRz.items.J12x6xIwx1aCEm1e.name",
+          "sourceSha256": "0ce3a662d11283354858fe3750d3f72949f5863f4dbed31d00005eece8e14a02",
+          "translationSha256": "e1589d94051584af717abd37f905541c9ec9a6a380dffd0e89ba52771faddcb3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.CAus3CAUasfgWpRz.items.J12x6xIwx1aCEm1e.description",
+          "sourceSha256": "9f93e8926dd9b50251e41d169a6a37e79acce21edb8292df454d63411a7f93f5",
+          "translationSha256": "e22dbfb727ed2f775b5e45be312309bec78863315c8b8fcc6c23b7e966f2c536",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.CAus3CAUasfgWpRz.items.9LzZrzdWIZpjFIGV.name",
+          "sourceSha256": "f8b504a809261065fcf369c2257188d7833012c6ad73079bd7d0d7e548798272",
+          "translationSha256": "e6a2d3ef9d1a22e05157ad787836ea8d3b2e1967ea0165efebd9a3e69cd704ca",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.CAus3CAUasfgWpRz.items.9LzZrzdWIZpjFIGV.description",
+          "sourceSha256": "86aea1275743a1f7c4105684d65061dd1a05ff0cd4f8fc57095c99663675470e",
+          "translationSha256": "fd63080d976853f0839a87b8c2bf74bf116d2fe1e2c61cbc90942ee0d545d874",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.CAus3CAUasfgWpRz.items.9LzZrzdWIZpjFIGV.descriptionChat",
+          "sourceSha256": "ff49f258ac4d73cfea766cf9e2b5f406fc1d2acd1dd33bdd923f65d50f4c8fa8",
+          "translationSha256": "e47dbc2bf57fe86a8899b8095e10c5b8624e0586fa78c6bf300d5815d9dab420",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.CAus3CAUasfgWpRz.items.B0jROhxuoqvfmz2B.name",
+          "sourceSha256": "6659c4ca642045f49ac22d26f1e05d8bdbc2fd6e7698d1f5ee631c2df58b3221",
+          "translationSha256": "9a595db7a96926168baa04636337776b7ada8c83d48da0e90c3d7eb69630ee28",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.CAus3CAUasfgWpRz.items.B0jROhxuoqvfmz2B.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.CAus3CAUasfgWpRz.items.B0jROhxuoqvfmz2B.descriptionChat",
+          "sourceSha256": "72a01f2ea87cda0dccb6ded237731702d257117d29b62edd5e2185b8c0c7eaa9",
+          "translationSha256": "0d43e626795cfea43c8882ecac36e9e902b385de79a30a3a93b679bb513394f8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.CAus3CAUasfgWpRz.items.n9pJzTDsAwQxJVRl.name",
+          "sourceSha256": "560d616c7de628af880ba548d55f960587465fe5e4dd8e825d59511d69172365",
+          "translationSha256": "4f3060de6751626ae2067332fbc91fb5021b0e873a8410294bf2d826143a9100",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.CAus3CAUasfgWpRz.items.n9pJzTDsAwQxJVRl.description",
+          "sourceSha256": "7faaf8409056df0be21249141c3c00d480b9a141ce0c59257205c981a72f8306",
+          "translationSha256": "d4c0b6d2941e181a6d6861f98f4669e190bef1e24490dc74362801e76cda3bfd",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.CAus3CAUasfgWpRz.items.MUO1uYN7JR1hm4dR.name",
+          "sourceSha256": "1118dde764109023f1e1bcefa9cbb7302366d80414adcc0e53b014a6329ed244",
+          "translationSha256": "61860da1fa92587ff0cc2d10890d24d8c00ea52bccb9fde2e66a28b6b93d7e38",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.CAus3CAUasfgWpRz.items.MUO1uYN7JR1hm4dR.description",
+          "sourceSha256": "b593b4820577a94078e293b71c529549720cd161d726041ebcdf3dde3ed36aca",
+          "translationSha256": "2df14cc757096ed97c469ed4e1428c116988cc47a6d609da6f1fb40f05f3d71c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.CAus3CAUasfgWpRz.items.7buEm5KhI5lP8m1z.name",
+          "sourceSha256": "3396532a27a470776705b756eb6374679f17b8afbc70b65eadabd4b700360046",
+          "translationSha256": "b7cc16d75d90e440ff60b448889ef856590fdb23eac2aaa0c218ec7bfa6aa822",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.CAus3CAUasfgWpRz.items.7buEm5KhI5lP8m1z.description",
+          "sourceSha256": "e802d268d2d38cf68ba72844ce5f1f484c2ce744a47c87fec31c2f16da5929eb",
+          "translationSha256": "c223cd63e86564269c21eda1d8e43a62dcf9344753cb191be9785d82b5090a48",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.CAus3CAUasfgWpRz.items.gvdA9nPuWLck4tBl.name",
+          "sourceSha256": "275a77faac4972ade3db35d5c72fa0581046da22f90764887ae6c38e8c142606",
+          "translationSha256": "7921ce20f8a70765f155da087ce394f98721915890d253d86679097ada53f496",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.CAus3CAUasfgWpRz.items.gvdA9nPuWLck4tBl.description",
+          "sourceSha256": "0a9f68e1d85ad707cc1b10f449a3e3fe1ae347e9fc357f93433f4bed03695b00",
+          "translationSha256": "e05e88f8a704e61d2fcbbd99541aac40198fed78b9926ef8f8bcc90cbe70661b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.CAus3CAUasfgWpRz.items.F0GsG0SJzsIOacwV.name",
+          "sourceSha256": "3a902d824623a7c4bf434820867767cc706d3916a5d751299e37e179e6f980e6",
+          "translationSha256": "c99cd1c89cb8a535c09a85d0ce91dcb643eace08d9e2a5d83c41d721f02e9042",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.CAus3CAUasfgWpRz.items.F0GsG0SJzsIOacwV.description",
+          "sourceSha256": "dea039d35dc2c8a34cf715f7a5d1e220b587c153b1cbfffc9fac8d730f4ab1de",
+          "translationSha256": "ba15786aa200d21ffe1015a98e9057be6ceabc896fb073ecfe9fe830b5a40a6b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.CAus3CAUasfgWpRz.items.JbxsYXxSOTZbf9I0.name",
+          "sourceSha256": "cc8d76ff5378ae112dbe7bcb5816cebcd394030ffcac0e6e7927bb54f7ca4458",
+          "translationSha256": "2e2861ad3f8ab506550c2c8b2979506c05f5b0bc10e59382d697dc637d8f0e76",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.CAus3CAUasfgWpRz.items.JbxsYXxSOTZbf9I0.description",
+          "sourceSha256": "99f725dc6db86c9ecc756a2d25eda7ddc471a952552c238c04421242017a6143",
+          "translationSha256": "5c4c2106e08e4a6cd570a720c2b506dfcad3c4b4fcddb77e0c1ba3141b0aa00d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.CAus3CAUasfgWpRz.items.15Fa6q1nH27XfbR8.name",
+          "sourceSha256": "d004ff3c3b43ebf8cc6ab81177bf0173675ace0c3869297d73b3d15ba3488ef5",
+          "translationSha256": "5a5985d95e8df5a1d2fcebcc65264fade5426a3b87be48b72c743631fe7596fe",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.CAus3CAUasfgWpRz.items.15Fa6q1nH27XfbR8.description",
+          "sourceSha256": "a0ad180e0f88f879f31ccc8a5044e120015cae52bdedf306075fe6af370db639",
+          "translationSha256": "028ef0760b4025d2ad941d9c2dfddd87f0a319d3689a133a30cfe77af2f94acb",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.CAus3CAUasfgWpRz.items.uCud2s4TjMfjiXUb.name",
+          "sourceSha256": "05306c92743bad2593feaf48092f1fdf7db998393f3c8a246d6a1d570943c1d4",
+          "translationSha256": "161a7f744b0976bbc315184bd8d0f17a20667b7039ed4f8f9c9b8c5f013c32f1",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.CAus3CAUasfgWpRz.items.uCud2s4TjMfjiXUb.description",
+          "sourceSha256": "ed538bfaacfb8cc29eec6b0ac492153339151900541cde5200b9f79f03e7d2fe",
+          "translationSha256": "a7ae91be8864b186d4f87efa255f4ce70bcdc662a13020fdb942fde2adc13f2a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.CAus3CAUasfgWpRz.items.Bnn9Nzajixvow9xi.name",
+          "sourceSha256": "dbcd5e7bb7a0f538810de44c3efbd813037ee3fa358747bb71fa58e157af45f7",
+          "translationSha256": "10ee0862a25f22b9fa72fe548fb258a4a6b025618fe45f026ad97356deb9757f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.CAus3CAUasfgWpRz.items.Bnn9Nzajixvow9xi.description",
+          "sourceSha256": "a6915b64e17b9dee585647a17f8dd3f2959eca3852412607562f3169e5e64ddd",
+          "translationSha256": "01fec2dea114b96e93688f01468e78d3247855f4232d802b46620e58f97e548f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.CAus3CAUasfgWpRz.items.uUWb1wZgtMou0TVP.name",
+          "sourceSha256": "37e7b242876dfe75755d06c104a3cca7a2c0af0f90bb8d66a68d4d4d76fd9c5a",
+          "translationSha256": "0fb65b1cc67b6e0788f275aefa454310801eea34837e8fd17cb1ca630cf85d78",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.CAus3CAUasfgWpRz.items.uUWb1wZgtMou0TVP.description",
+          "sourceSha256": "eeb3ecc5e4ea7ae64a5b9598be44b97252cd1f999b2fcc767d43c5a7622778cd",
+          "translationSha256": "516139f9500e41b85a0c0366292309973066ba8902d970958fb8e42296cf6186",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.CAus3CAUasfgWpRz.items.pC1QJ005t6xVU8ZT.name",
+          "sourceSha256": "4d6e150d62634e8d9d6be94b137d2a0d72eb8e95fb24977f3df9be9c92065a96",
+          "translationSha256": "9abbd4a531c46cd1b323495681d24b42a46f4407a58233bbc05951c09355bf39",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.CAus3CAUasfgWpRz.items.pC1QJ005t6xVU8ZT.description",
+          "sourceSha256": "c9b4d00156d604a8d2d6c5676e913a0045d7e2575d6ad3c2ea80e4438ce9f3d7",
+          "translationSha256": "d9d03638968ad6f433d9f6b41b4d06640fc06110d15bd33fb00cf4a62fe05254",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.CAus3CAUasfgWpRz.name",
+          "sourceSha256": "909a4523837aae515905ec70c82bfb91472f47fc9e1ffe9df3de2453e1b4532a",
+          "translationSha256": "221a259c81d2a5d3e218c0898bff9f4fb89ee90b7f3397c280684ef11bec63e6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.CAus3CAUasfgWpRz.alignment",
+          "sourceSha256": "822eb0a0cbd5cd86025088adf793ce135e2511797da2424a5f216b571aaa121a",
+          "translationSha256": "cc19b467acb4924d15a9f82dadfc16f9b049df9cfc5090646d303cf94af4b3e3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.CAus3CAUasfgWpRz.creatureSubtype",
+          "sourceSha256": "004c59916b2591d4e68a6f5fe56596ce41f2ad87af913006c32fe026bda474ec",
+          "translationSha256": "ddf3f4a260178c09ce499d24da29060ee3b0f64d80164e393a333c7db854dc55",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.CAus3CAUasfgWpRz.languages",
+          "sourceSha256": "1057e498af7bfeab8a995768749ecdb65edb05159782f4be7255e42e236ff656",
+          "translationSha256": "8717b63c11c4982277376013686c6c41ca1f0cb18822d3a01038be92ca3beacb",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.CAus3CAUasfgWpRz.tokenName",
+          "sourceSha256": "909a4523837aae515905ec70c82bfb91472f47fc9e1ffe9df3de2453e1b4532a",
+          "translationSha256": "221a259c81d2a5d3e218c0898bff9f4fb89ee90b7f3397c280684ef11bec63e6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.CAus3CAUasfgWpRz.biography",
+          "sourceSha256": "005ea83779c9757f66198e442b3974d1b9644098f09fe20d516e44b7b0697302",
+          "translationSha256": "13449ca5b377e53eed4ec882e9de4fdadb921a78a531289fbf79e3a63a220ce5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.CAus3CAUasfgWpRz.items.J12x6xIwx1aCEm1e.name",
+          "sourceSha256": "0ce3a662d11283354858fe3750d3f72949f5863f4dbed31d00005eece8e14a02",
+          "translationSha256": "e1589d94051584af717abd37f905541c9ec9a6a380dffd0e89ba52771faddcb3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.CAus3CAUasfgWpRz.items.J12x6xIwx1aCEm1e.description",
+          "sourceSha256": "9f93e8926dd9b50251e41d169a6a37e79acce21edb8292df454d63411a7f93f5",
+          "translationSha256": "e22dbfb727ed2f775b5e45be312309bec78863315c8b8fcc6c23b7e966f2c536",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.CAus3CAUasfgWpRz.items.9LzZrzdWIZpjFIGV.name",
+          "sourceSha256": "f8b504a809261065fcf369c2257188d7833012c6ad73079bd7d0d7e548798272",
+          "translationSha256": "e6a2d3ef9d1a22e05157ad787836ea8d3b2e1967ea0165efebd9a3e69cd704ca",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.CAus3CAUasfgWpRz.items.9LzZrzdWIZpjFIGV.description",
+          "sourceSha256": "86aea1275743a1f7c4105684d65061dd1a05ff0cd4f8fc57095c99663675470e",
+          "translationSha256": "fd63080d976853f0839a87b8c2bf74bf116d2fe1e2c61cbc90942ee0d545d874",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.CAus3CAUasfgWpRz.items.9LzZrzdWIZpjFIGV.descriptionChat",
+          "sourceSha256": "ff49f258ac4d73cfea766cf9e2b5f406fc1d2acd1dd33bdd923f65d50f4c8fa8",
+          "translationSha256": "e47dbc2bf57fe86a8899b8095e10c5b8624e0586fa78c6bf300d5815d9dab420",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.CAus3CAUasfgWpRz.items.B0jROhxuoqvfmz2B.name",
+          "sourceSha256": "6659c4ca642045f49ac22d26f1e05d8bdbc2fd6e7698d1f5ee631c2df58b3221",
+          "translationSha256": "9a595db7a96926168baa04636337776b7ada8c83d48da0e90c3d7eb69630ee28",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.CAus3CAUasfgWpRz.items.B0jROhxuoqvfmz2B.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.CAus3CAUasfgWpRz.items.B0jROhxuoqvfmz2B.descriptionChat",
+          "sourceSha256": "72a01f2ea87cda0dccb6ded237731702d257117d29b62edd5e2185b8c0c7eaa9",
+          "translationSha256": "0d43e626795cfea43c8882ecac36e9e902b385de79a30a3a93b679bb513394f8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.CAus3CAUasfgWpRz.items.n9pJzTDsAwQxJVRl.name",
+          "sourceSha256": "560d616c7de628af880ba548d55f960587465fe5e4dd8e825d59511d69172365",
+          "translationSha256": "4f3060de6751626ae2067332fbc91fb5021b0e873a8410294bf2d826143a9100",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.CAus3CAUasfgWpRz.items.n9pJzTDsAwQxJVRl.description",
+          "sourceSha256": "7faaf8409056df0be21249141c3c00d480b9a141ce0c59257205c981a72f8306",
+          "translationSha256": "d4c0b6d2941e181a6d6861f98f4669e190bef1e24490dc74362801e76cda3bfd",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.CAus3CAUasfgWpRz.items.MUO1uYN7JR1hm4dR.name",
+          "sourceSha256": "1118dde764109023f1e1bcefa9cbb7302366d80414adcc0e53b014a6329ed244",
+          "translationSha256": "61860da1fa92587ff0cc2d10890d24d8c00ea52bccb9fde2e66a28b6b93d7e38",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.CAus3CAUasfgWpRz.items.MUO1uYN7JR1hm4dR.description",
+          "sourceSha256": "b593b4820577a94078e293b71c529549720cd161d726041ebcdf3dde3ed36aca",
+          "translationSha256": "2df14cc757096ed97c469ed4e1428c116988cc47a6d609da6f1fb40f05f3d71c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.CAus3CAUasfgWpRz.items.7buEm5KhI5lP8m1z.name",
+          "sourceSha256": "3396532a27a470776705b756eb6374679f17b8afbc70b65eadabd4b700360046",
+          "translationSha256": "b7cc16d75d90e440ff60b448889ef856590fdb23eac2aaa0c218ec7bfa6aa822",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.CAus3CAUasfgWpRz.items.7buEm5KhI5lP8m1z.description",
+          "sourceSha256": "e802d268d2d38cf68ba72844ce5f1f484c2ce744a47c87fec31c2f16da5929eb",
+          "translationSha256": "c223cd63e86564269c21eda1d8e43a62dcf9344753cb191be9785d82b5090a48",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.CAus3CAUasfgWpRz.items.gvdA9nPuWLck4tBl.name",
+          "sourceSha256": "275a77faac4972ade3db35d5c72fa0581046da22f90764887ae6c38e8c142606",
+          "translationSha256": "7921ce20f8a70765f155da087ce394f98721915890d253d86679097ada53f496",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.CAus3CAUasfgWpRz.items.gvdA9nPuWLck4tBl.description",
+          "sourceSha256": "0a9f68e1d85ad707cc1b10f449a3e3fe1ae347e9fc357f93433f4bed03695b00",
+          "translationSha256": "e05e88f8a704e61d2fcbbd99541aac40198fed78b9926ef8f8bcc90cbe70661b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.CAus3CAUasfgWpRz.items.F0GsG0SJzsIOacwV.name",
+          "sourceSha256": "3a902d824623a7c4bf434820867767cc706d3916a5d751299e37e179e6f980e6",
+          "translationSha256": "c99cd1c89cb8a535c09a85d0ce91dcb643eace08d9e2a5d83c41d721f02e9042",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.CAus3CAUasfgWpRz.items.F0GsG0SJzsIOacwV.description",
+          "sourceSha256": "dea039d35dc2c8a34cf715f7a5d1e220b587c153b1cbfffc9fac8d730f4ab1de",
+          "translationSha256": "ba15786aa200d21ffe1015a98e9057be6ceabc896fb073ecfe9fe830b5a40a6b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.CAus3CAUasfgWpRz.items.JbxsYXxSOTZbf9I0.name",
+          "sourceSha256": "cc8d76ff5378ae112dbe7bcb5816cebcd394030ffcac0e6e7927bb54f7ca4458",
+          "translationSha256": "2e2861ad3f8ab506550c2c8b2979506c05f5b0bc10e59382d697dc637d8f0e76",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.CAus3CAUasfgWpRz.items.JbxsYXxSOTZbf9I0.description",
+          "sourceSha256": "99f725dc6db86c9ecc756a2d25eda7ddc471a952552c238c04421242017a6143",
+          "translationSha256": "5c4c2106e08e4a6cd570a720c2b506dfcad3c4b4fcddb77e0c1ba3141b0aa00d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.CAus3CAUasfgWpRz.items.15Fa6q1nH27XfbR8.name",
+          "sourceSha256": "d004ff3c3b43ebf8cc6ab81177bf0173675ace0c3869297d73b3d15ba3488ef5",
+          "translationSha256": "5a5985d95e8df5a1d2fcebcc65264fade5426a3b87be48b72c743631fe7596fe",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.CAus3CAUasfgWpRz.items.15Fa6q1nH27XfbR8.description",
+          "sourceSha256": "a0ad180e0f88f879f31ccc8a5044e120015cae52bdedf306075fe6af370db639",
+          "translationSha256": "028ef0760b4025d2ad941d9c2dfddd87f0a319d3689a133a30cfe77af2f94acb",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.CAus3CAUasfgWpRz.items.uCud2s4TjMfjiXUb.name",
+          "sourceSha256": "05306c92743bad2593feaf48092f1fdf7db998393f3c8a246d6a1d570943c1d4",
+          "translationSha256": "161a7f744b0976bbc315184bd8d0f17a20667b7039ed4f8f9c9b8c5f013c32f1",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.CAus3CAUasfgWpRz.items.uCud2s4TjMfjiXUb.description",
+          "sourceSha256": "ed538bfaacfb8cc29eec6b0ac492153339151900541cde5200b9f79f03e7d2fe",
+          "translationSha256": "a7ae91be8864b186d4f87efa255f4ce70bcdc662a13020fdb942fde2adc13f2a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.CAus3CAUasfgWpRz.items.Bnn9Nzajixvow9xi.name",
+          "sourceSha256": "dbcd5e7bb7a0f538810de44c3efbd813037ee3fa358747bb71fa58e157af45f7",
+          "translationSha256": "10ee0862a25f22b9fa72fe548fb258a4a6b025618fe45f026ad97356deb9757f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.CAus3CAUasfgWpRz.items.Bnn9Nzajixvow9xi.description",
+          "sourceSha256": "a6915b64e17b9dee585647a17f8dd3f2959eca3852412607562f3169e5e64ddd",
+          "translationSha256": "01fec2dea114b96e93688f01468e78d3247855f4232d802b46620e58f97e548f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.CAus3CAUasfgWpRz.items.uUWb1wZgtMou0TVP.name",
+          "sourceSha256": "37e7b242876dfe75755d06c104a3cca7a2c0af0f90bb8d66a68d4d4d76fd9c5a",
+          "translationSha256": "0fb65b1cc67b6e0788f275aefa454310801eea34837e8fd17cb1ca630cf85d78",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.CAus3CAUasfgWpRz.items.uUWb1wZgtMou0TVP.description",
+          "sourceSha256": "eeb3ecc5e4ea7ae64a5b9598be44b97252cd1f999b2fcc767d43c5a7622778cd",
+          "translationSha256": "516139f9500e41b85a0c0366292309973066ba8902d970958fb8e42296cf6186",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.CAus3CAUasfgWpRz.items.pC1QJ005t6xVU8ZT.name",
+          "sourceSha256": "4d6e150d62634e8d9d6be94b137d2a0d72eb8e95fb24977f3df9be9c92065a96",
+          "translationSha256": "9abbd4a531c46cd1b323495681d24b42a46f4407a58233bbc05951c09355bf39",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.CAus3CAUasfgWpRz.items.pC1QJ005t6xVU8ZT.description",
+          "sourceSha256": "c9b4d00156d604a8d2d6c5676e913a0045d7e2575d6ad3c2ea80e4438ce9f3d7",
+          "translationSha256": "d9d03638968ad6f433d9f6b41b4d06640fc06110d15bd33fb00cf4a62fe05254",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        }
+      ]
+    },
+    {
+      "id": "additional-generic-casters-I8EEIVEGbZ6pZbf1",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.actors.I8EEIVEGbZ6pZbf1.name",
+          "sourceSha256": "86a7946a420561db48c91ae42e7324b1d56fd51ecaf419dd2d642fddda7da619",
+          "translationSha256": "c07917b32a880acc8a6e54f64b45756ad6cd213065116773bf578328def506b8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.I8EEIVEGbZ6pZbf1.alignment",
+          "sourceSha256": "2b505597daa736f13c2910c260e8deb1af3b20ffe375eb5e01a003e92f541db9",
+          "translationSha256": "cc19b467acb4924d15a9f82dadfc16f9b049df9cfc5090646d303cf94af4b3e3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.I8EEIVEGbZ6pZbf1.languages",
+          "sourceSha256": "b570c05855eac430b8009873597b2cfae491fec66e9f641030dcd3d257a31538",
+          "translationSha256": "d9493622837282dc3d922f5720a06d5dbbe969a7c104d1b22db7e49d2fb8a6e6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.I8EEIVEGbZ6pZbf1.tokenName",
+          "sourceSha256": "86a7946a420561db48c91ae42e7324b1d56fd51ecaf419dd2d642fddda7da619",
+          "translationSha256": "c07917b32a880acc8a6e54f64b45756ad6cd213065116773bf578328def506b8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.I8EEIVEGbZ6pZbf1.biography",
+          "sourceSha256": "005ea83779c9757f66198e442b3974d1b9644098f09fe20d516e44b7b0697302",
+          "translationSha256": "13449ca5b377e53eed4ec882e9de4fdadb921a78a531289fbf79e3a63a220ce5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.I8EEIVEGbZ6pZbf1.items.38I6bGoguRRefN6W.name",
+          "sourceSha256": "0ce3a662d11283354858fe3750d3f72949f5863f4dbed31d00005eece8e14a02",
+          "translationSha256": "e1589d94051584af717abd37f905541c9ec9a6a380dffd0e89ba52771faddcb3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.I8EEIVEGbZ6pZbf1.items.38I6bGoguRRefN6W.description",
+          "sourceSha256": "0530174fbaa3349e58d0d0035f234d64786c908cf35fdfd4db16a3bdb728668f",
+          "translationSha256": "8157ff4c02f6232f9947676b099cb7c756b0f932d65b39f10ad4973193cabdf2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.I8EEIVEGbZ6pZbf1.items.38I6bGoguRRefN6W.descriptionChat",
+          "sourceSha256": "2e5f6e77ca440712c4188069c3d1660e1a244bbec93d023817949452b585c596",
+          "translationSha256": "e69bebc3819c9ea0eb054888ecb7ec4af130fa354faff343a6a7ab913c9923c1",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.I8EEIVEGbZ6pZbf1.items.swpThURVHnaQRjfY.name",
+          "sourceSha256": "72e81feaa8a14fac7f1fbdfb56503256cd3d8b6c1a2eb3142853cc6262570e35",
+          "translationSha256": "d90110b424037f664cffdd47d36e69cb3f71bff3c69e20ba1f517b9ec383555a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.I8EEIVEGbZ6pZbf1.items.swpThURVHnaQRjfY.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.I8EEIVEGbZ6pZbf1.items.swpThURVHnaQRjfY.descriptionChat",
+          "sourceSha256": "a47415620c05d57d85f5a61c730a88c055ea81eda44db47d77a63fce8bbb2bc5",
+          "translationSha256": "a56b4a8474d283398b50a727c4e3bd5320e5af41fba626107ccbac768b375855",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.I8EEIVEGbZ6pZbf1.items.Bnn9Nzajixvow9xi.name",
+          "sourceSha256": "dbcd5e7bb7a0f538810de44c3efbd813037ee3fa358747bb71fa58e157af45f7",
+          "translationSha256": "10ee0862a25f22b9fa72fe548fb258a4a6b025618fe45f026ad97356deb9757f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.I8EEIVEGbZ6pZbf1.items.Bnn9Nzajixvow9xi.description",
+          "sourceSha256": "a6915b64e17b9dee585647a17f8dd3f2959eca3852412607562f3169e5e64ddd",
+          "translationSha256": "01fec2dea114b96e93688f01468e78d3247855f4232d802b46620e58f97e548f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.I8EEIVEGbZ6pZbf1.items.n9pJzTDsAwQxJVRl.name",
+          "sourceSha256": "560d616c7de628af880ba548d55f960587465fe5e4dd8e825d59511d69172365",
+          "translationSha256": "4f3060de6751626ae2067332fbc91fb5021b0e873a8410294bf2d826143a9100",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.I8EEIVEGbZ6pZbf1.items.n9pJzTDsAwQxJVRl.description",
+          "sourceSha256": "7faaf8409056df0be21249141c3c00d480b9a141ce0c59257205c981a72f8306",
+          "translationSha256": "d4c0b6d2941e181a6d6861f98f4669e190bef1e24490dc74362801e76cda3bfd",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.I8EEIVEGbZ6pZbf1.items.MUO1uYN7JR1hm4dR.name",
+          "sourceSha256": "1118dde764109023f1e1bcefa9cbb7302366d80414adcc0e53b014a6329ed244",
+          "translationSha256": "61860da1fa92587ff0cc2d10890d24d8c00ea52bccb9fde2e66a28b6b93d7e38",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.I8EEIVEGbZ6pZbf1.items.MUO1uYN7JR1hm4dR.description",
+          "sourceSha256": "b593b4820577a94078e293b71c529549720cd161d726041ebcdf3dde3ed36aca",
+          "translationSha256": "2df14cc757096ed97c469ed4e1428c116988cc47a6d609da6f1fb40f05f3d71c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.I8EEIVEGbZ6pZbf1.items.8dzaICjGy6mTUaUr.name",
+          "sourceSha256": "3abbd69ed48b2d67b7163fd4283e293f7c8248d7a225dc42896fc84baf98b9b1",
+          "translationSha256": "cff911d38ad345d488f98ae54ded694594718aa33815c30cbbf02b712368dd22",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.I8EEIVEGbZ6pZbf1.items.8dzaICjGy6mTUaUr.description",
+          "sourceSha256": "12374d780ed66ddcf0c51b02ae36af7d0c3be8f85853466389378eafc6f49e08",
+          "translationSha256": "6da28000d2fa09ef9d11195950b0d777d8824b93e42a6534f7804af4594e9daa",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.I8EEIVEGbZ6pZbf1.items.8dzaICjGy6mTUaUr.effects.8rP3gwmXVTgZqYZE.name",
+          "sourceSha256": "3abbd69ed48b2d67b7163fd4283e293f7c8248d7a225dc42896fc84baf98b9b1",
+          "translationSha256": "cff911d38ad345d488f98ae54ded694594718aa33815c30cbbf02b712368dd22",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.I8EEIVEGbZ6pZbf1.items.gvdA9nPuWLck4tBl.name",
+          "sourceSha256": "275a77faac4972ade3db35d5c72fa0581046da22f90764887ae6c38e8c142606",
+          "translationSha256": "7921ce20f8a70765f155da087ce394f98721915890d253d86679097ada53f496",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.I8EEIVEGbZ6pZbf1.items.gvdA9nPuWLck4tBl.description",
+          "sourceSha256": "0a9f68e1d85ad707cc1b10f449a3e3fe1ae347e9fc357f93433f4bed03695b00",
+          "translationSha256": "e05e88f8a704e61d2fcbbd99541aac40198fed78b9926ef8f8bcc90cbe70661b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.I8EEIVEGbZ6pZbf1.items.uUWb1wZgtMou0TVP.name",
+          "sourceSha256": "37e7b242876dfe75755d06c104a3cca7a2c0af0f90bb8d66a68d4d4d76fd9c5a",
+          "translationSha256": "0fb65b1cc67b6e0788f275aefa454310801eea34837e8fd17cb1ca630cf85d78",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.I8EEIVEGbZ6pZbf1.items.uUWb1wZgtMou0TVP.description",
+          "sourceSha256": "eeb3ecc5e4ea7ae64a5b9598be44b97252cd1f999b2fcc767d43c5a7622778cd",
+          "translationSha256": "516139f9500e41b85a0c0366292309973066ba8902d970958fb8e42296cf6186",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.I8EEIVEGbZ6pZbf1.name",
+          "sourceSha256": "86a7946a420561db48c91ae42e7324b1d56fd51ecaf419dd2d642fddda7da619",
+          "translationSha256": "c07917b32a880acc8a6e54f64b45756ad6cd213065116773bf578328def506b8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.I8EEIVEGbZ6pZbf1.alignment",
+          "sourceSha256": "2b505597daa736f13c2910c260e8deb1af3b20ffe375eb5e01a003e92f541db9",
+          "translationSha256": "cc19b467acb4924d15a9f82dadfc16f9b049df9cfc5090646d303cf94af4b3e3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.I8EEIVEGbZ6pZbf1.languages",
+          "sourceSha256": "b570c05855eac430b8009873597b2cfae491fec66e9f641030dcd3d257a31538",
+          "translationSha256": "d9493622837282dc3d922f5720a06d5dbbe969a7c104d1b22db7e49d2fb8a6e6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.I8EEIVEGbZ6pZbf1.tokenName",
+          "sourceSha256": "86a7946a420561db48c91ae42e7324b1d56fd51ecaf419dd2d642fddda7da619",
+          "translationSha256": "c07917b32a880acc8a6e54f64b45756ad6cd213065116773bf578328def506b8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.I8EEIVEGbZ6pZbf1.biography",
+          "sourceSha256": "005ea83779c9757f66198e442b3974d1b9644098f09fe20d516e44b7b0697302",
+          "translationSha256": "13449ca5b377e53eed4ec882e9de4fdadb921a78a531289fbf79e3a63a220ce5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.I8EEIVEGbZ6pZbf1.items.38I6bGoguRRefN6W.name",
+          "sourceSha256": "0ce3a662d11283354858fe3750d3f72949f5863f4dbed31d00005eece8e14a02",
+          "translationSha256": "e1589d94051584af717abd37f905541c9ec9a6a380dffd0e89ba52771faddcb3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.I8EEIVEGbZ6pZbf1.items.38I6bGoguRRefN6W.description",
+          "sourceSha256": "0530174fbaa3349e58d0d0035f234d64786c908cf35fdfd4db16a3bdb728668f",
+          "translationSha256": "8157ff4c02f6232f9947676b099cb7c756b0f932d65b39f10ad4973193cabdf2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.I8EEIVEGbZ6pZbf1.items.38I6bGoguRRefN6W.descriptionChat",
+          "sourceSha256": "2e5f6e77ca440712c4188069c3d1660e1a244bbec93d023817949452b585c596",
+          "translationSha256": "e69bebc3819c9ea0eb054888ecb7ec4af130fa354faff343a6a7ab913c9923c1",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.I8EEIVEGbZ6pZbf1.items.swpThURVHnaQRjfY.name",
+          "sourceSha256": "72e81feaa8a14fac7f1fbdfb56503256cd3d8b6c1a2eb3142853cc6262570e35",
+          "translationSha256": "d90110b424037f664cffdd47d36e69cb3f71bff3c69e20ba1f517b9ec383555a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.I8EEIVEGbZ6pZbf1.items.swpThURVHnaQRjfY.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.I8EEIVEGbZ6pZbf1.items.swpThURVHnaQRjfY.descriptionChat",
+          "sourceSha256": "a47415620c05d57d85f5a61c730a88c055ea81eda44db47d77a63fce8bbb2bc5",
+          "translationSha256": "a56b4a8474d283398b50a727c4e3bd5320e5af41fba626107ccbac768b375855",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.I8EEIVEGbZ6pZbf1.items.Bnn9Nzajixvow9xi.name",
+          "sourceSha256": "dbcd5e7bb7a0f538810de44c3efbd813037ee3fa358747bb71fa58e157af45f7",
+          "translationSha256": "10ee0862a25f22b9fa72fe548fb258a4a6b025618fe45f026ad97356deb9757f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.I8EEIVEGbZ6pZbf1.items.Bnn9Nzajixvow9xi.description",
+          "sourceSha256": "a6915b64e17b9dee585647a17f8dd3f2959eca3852412607562f3169e5e64ddd",
+          "translationSha256": "01fec2dea114b96e93688f01468e78d3247855f4232d802b46620e58f97e548f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.I8EEIVEGbZ6pZbf1.items.n9pJzTDsAwQxJVRl.name",
+          "sourceSha256": "560d616c7de628af880ba548d55f960587465fe5e4dd8e825d59511d69172365",
+          "translationSha256": "4f3060de6751626ae2067332fbc91fb5021b0e873a8410294bf2d826143a9100",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.I8EEIVEGbZ6pZbf1.items.n9pJzTDsAwQxJVRl.description",
+          "sourceSha256": "7faaf8409056df0be21249141c3c00d480b9a141ce0c59257205c981a72f8306",
+          "translationSha256": "d4c0b6d2941e181a6d6861f98f4669e190bef1e24490dc74362801e76cda3bfd",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.I8EEIVEGbZ6pZbf1.items.MUO1uYN7JR1hm4dR.name",
+          "sourceSha256": "1118dde764109023f1e1bcefa9cbb7302366d80414adcc0e53b014a6329ed244",
+          "translationSha256": "61860da1fa92587ff0cc2d10890d24d8c00ea52bccb9fde2e66a28b6b93d7e38",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.I8EEIVEGbZ6pZbf1.items.MUO1uYN7JR1hm4dR.description",
+          "sourceSha256": "b593b4820577a94078e293b71c529549720cd161d726041ebcdf3dde3ed36aca",
+          "translationSha256": "2df14cc757096ed97c469ed4e1428c116988cc47a6d609da6f1fb40f05f3d71c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.I8EEIVEGbZ6pZbf1.items.8dzaICjGy6mTUaUr.name",
+          "sourceSha256": "3abbd69ed48b2d67b7163fd4283e293f7c8248d7a225dc42896fc84baf98b9b1",
+          "translationSha256": "cff911d38ad345d488f98ae54ded694594718aa33815c30cbbf02b712368dd22",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.I8EEIVEGbZ6pZbf1.items.8dzaICjGy6mTUaUr.description",
+          "sourceSha256": "12374d780ed66ddcf0c51b02ae36af7d0c3be8f85853466389378eafc6f49e08",
+          "translationSha256": "6da28000d2fa09ef9d11195950b0d777d8824b93e42a6534f7804af4594e9daa",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.I8EEIVEGbZ6pZbf1.items.8dzaICjGy6mTUaUr.effects.8rP3gwmXVTgZqYZE.name",
+          "sourceSha256": "3abbd69ed48b2d67b7163fd4283e293f7c8248d7a225dc42896fc84baf98b9b1",
+          "translationSha256": "cff911d38ad345d488f98ae54ded694594718aa33815c30cbbf02b712368dd22",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.I8EEIVEGbZ6pZbf1.items.gvdA9nPuWLck4tBl.name",
+          "sourceSha256": "275a77faac4972ade3db35d5c72fa0581046da22f90764887ae6c38e8c142606",
+          "translationSha256": "7921ce20f8a70765f155da087ce394f98721915890d253d86679097ada53f496",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.I8EEIVEGbZ6pZbf1.items.gvdA9nPuWLck4tBl.description",
+          "sourceSha256": "0a9f68e1d85ad707cc1b10f449a3e3fe1ae347e9fc357f93433f4bed03695b00",
+          "translationSha256": "e05e88f8a704e61d2fcbbd99541aac40198fed78b9926ef8f8bcc90cbe70661b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.I8EEIVEGbZ6pZbf1.items.uUWb1wZgtMou0TVP.name",
+          "sourceSha256": "37e7b242876dfe75755d06c104a3cca7a2c0af0f90bb8d66a68d4d4d76fd9c5a",
+          "translationSha256": "0fb65b1cc67b6e0788f275aefa454310801eea34837e8fd17cb1ca630cf85d78",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.I8EEIVEGbZ6pZbf1.items.uUWb1wZgtMou0TVP.description",
+          "sourceSha256": "eeb3ecc5e4ea7ae64a5b9598be44b97252cd1f999b2fcc767d43c5a7622778cd",
+          "translationSha256": "516139f9500e41b85a0c0366292309973066ba8902d970958fb8e42296cf6186",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        }
+      ]
+    },
+    {
+      "id": "additional-generic-casters-JPXNJAjWamgfXc7G",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.name",
+          "sourceSha256": "e181bc015be0fe01de62a0e9898c690c3a2bb48fa90e4e5cb9aab481ea3fe004",
+          "translationSha256": "444f3659eb147024873e335fe72cad909ac866afec2ac3d6a8c9f9739ca42324",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.alignment",
+          "sourceSha256": "822eb0a0cbd5cd86025088adf793ce135e2511797da2424a5f216b571aaa121a",
+          "translationSha256": "cc19b467acb4924d15a9f82dadfc16f9b049df9cfc5090646d303cf94af4b3e3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.creatureSubtype",
+          "sourceSha256": "9ffa865f2bc6e850157bb454ef3e00fa789e3f8cc631552941a99ba3fcddde51",
+          "translationSha256": "5d78db6ff88f4b03b414ab57fc9b639b95958d3492cd83949f3d917e57313a1c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.languages",
+          "sourceSha256": "babfda0b9268842fa614ee826979b9f0c29df39c93c7c0d584b1e5efdfa5ed4f",
+          "translationSha256": "72930c4795adaac8fe185cc082b008035f24236a34d0abea826f0b0b0a844508",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.tokenName",
+          "sourceSha256": "e181bc015be0fe01de62a0e9898c690c3a2bb48fa90e4e5cb9aab481ea3fe004",
+          "translationSha256": "444f3659eb147024873e335fe72cad909ac866afec2ac3d6a8c9f9739ca42324",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.biography",
+          "sourceSha256": "005ea83779c9757f66198e442b3974d1b9644098f09fe20d516e44b7b0697302",
+          "translationSha256": "13449ca5b377e53eed4ec882e9de4fdadb921a78a531289fbf79e3a63a220ce5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.tbKbwgcprUBciliF.name",
+          "sourceSha256": "0ce3a662d11283354858fe3750d3f72949f5863f4dbed31d00005eece8e14a02",
+          "translationSha256": "e1589d94051584af717abd37f905541c9ec9a6a380dffd0e89ba52771faddcb3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.tbKbwgcprUBciliF.description",
+          "sourceSha256": "0c241a453045bb86dce6f7f91e4375e3b8cda972bfb9adc830a610a9d86b996c",
+          "translationSha256": "156b65b4be28e751a36b1f0ad470cbe2d0e195bb0fe3998a8d762f4cb7d0607b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.tbKbwgcprUBciliF.descriptionChat",
+          "sourceSha256": "c65c731c99241ba1eccca3c94a8f03cd1f2e5b30c187ed2b18378319efdd0cb6",
+          "translationSha256": "bba87b7e37e8ab984655a1136e7f231e40ea4d99557fafa5c21b33be4a6a8ce2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.EOmsUcFQJTfG2oio.name",
+          "sourceSha256": "0d69f451df3d8317e5ed77f5b2a4cda07c08d4e6e6f00df11f49ff7a6e18bae2",
+          "translationSha256": "2971af313b4b579a534b34c9730f63ac356244f371a1ae89f6be4c4ef6c2730f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.EOmsUcFQJTfG2oio.description",
+          "sourceSha256": "c0762a9408a6dfe4a8afc16b9877f999d64ebe03f8ee782845b4520b03e2bb70",
+          "translationSha256": "52ab827b718f0f7a9a803444de43caef845d542139b2352b4441130bfed3889b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.Bnn9Nzajixvow9xi.name",
+          "sourceSha256": "dbcd5e7bb7a0f538810de44c3efbd813037ee3fa358747bb71fa58e157af45f7",
+          "translationSha256": "10ee0862a25f22b9fa72fe548fb258a4a6b025618fe45f026ad97356deb9757f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.Bnn9Nzajixvow9xi.description",
+          "sourceSha256": "a6915b64e17b9dee585647a17f8dd3f2959eca3852412607562f3169e5e64ddd",
+          "translationSha256": "01fec2dea114b96e93688f01468e78d3247855f4232d802b46620e58f97e548f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.Utk1OQRwYkMkFRD3.name",
+          "sourceSha256": "cb0d3238583c0fb02745016ee38365aeb218deb64731eceea42c18d24290ed95",
+          "translationSha256": "168cc32ccdb2f6c4736a39c2a1d3052e411648602362ae09c5590a76482a7774",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.Utk1OQRwYkMkFRD3.description",
+          "sourceSha256": "e9f106d2cca002174fa5486d25387cd0ea5a36bf17a4cf0e3cf7bf1dd27502c2",
+          "translationSha256": "f1ae9e0167f4ea7feb171ec33e0938a0118f32fb7c0e4cc8ef03ad39a66c2474",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.udsLtG0BugXHR2JQ.name",
+          "sourceSha256": "136dc1705ed3496efd6a5ced02d623b4767730ddfe2c9e04629518099c40614b",
+          "translationSha256": "33c850a18f5e242953ebd809d05ff573b882582240c1296d0cda6355c89fb4ec",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.udsLtG0BugXHR2JQ.description",
+          "sourceSha256": "0cf1430b315e586d9233b9602944f6e30cb995fd6c9110caba3bc3f232d95193",
+          "translationSha256": "70c154b92a0b5e18a9b8ade02cbfabd2cbeb80f442c0768413aa762717cd7c3c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.ghXTfe7sgCbgf1Q8.name",
+          "sourceSha256": "d69eecab2f767f0d282d036abcf2ffce962762fafc91151c5f84d262991d2179",
+          "translationSha256": "cc34393132191af618b4437bab4066776b106e5d8d45264d3c263ef88f11f063",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.ghXTfe7sgCbgf1Q8.description",
+          "sourceSha256": "6909404538f84b03702c7d17e4c595ba3a2be079058c4d63b72402e9b5c67443",
+          "translationSha256": "5cd31166944342c8b405016d63a5dbde27e041e703863e3f3fa0ae328499a499",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.CKZTpZlxj7hjjo2H.name",
+          "sourceSha256": "41b7590882c44f25ba88ccb7bf6f329d26b3eb75af4860cbe03f0467adc07e5e",
+          "translationSha256": "296486218ce9ac4eecfe30bdd7b4af9dc0927d5422afbf289182bf728b846a4c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.CKZTpZlxj7hjjo2H.description",
+          "sourceSha256": "4cffee8fbd1656d7b13ce968972b3e6c60e21138141044819b1d5814c28555fe",
+          "translationSha256": "8b95de6ab8ae5102b095eb4f6d74dabaa9a3c51db1559d5f41222d71f0327baa",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.CKZTpZlxj7hjjo2H.effects.cfwMU7LuOJ619Lny.name",
+          "sourceSha256": "41b7590882c44f25ba88ccb7bf6f329d26b3eb75af4860cbe03f0467adc07e5e",
+          "translationSha256": "296486218ce9ac4eecfe30bdd7b4af9dc0927d5422afbf289182bf728b846a4c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.41JIhpDyM9Anm7cs.name",
+          "sourceSha256": "111a74afc067f116ddf6a2e8339eada16814eceb7cfcded7a8e6e44c9fd87e6c",
+          "translationSha256": "a3d1085228fb09a325e256fb7323cedfdfbd20b9fde9a30562012459a417780e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.41JIhpDyM9Anm7cs.description",
+          "sourceSha256": "cc22d4529b8b41ff3c1aaab8486adbb984691a7bcbfd9ee23ae78c10233cef21",
+          "translationSha256": "a17d489fb2b72fa9be4f5b7ecf7249f97efb0c1c5f3d7a914300f6db080777f0",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.z1mx84ONwkXKUZd7.name",
+          "sourceSha256": "480d4be7d61fe52bc31768ffaaffea7ad5db66ba8b699d30623c4726704cc646",
+          "translationSha256": "fcb66c4d741ae4bb8149a195e0df7c3f3f84c30d30d1d4b30514e0cb97f28e45",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.z1mx84ONwkXKUZd7.description",
+          "sourceSha256": "20efd236bb84f6324e70008ffd154aec476c49324bd117c155d6d0b30f3ace3e",
+          "translationSha256": "347c5d719f09f9c2e9128195088e1eeb92683008f115de24e8635e81aa3b9c70",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.z1mx84ONwkXKUZd7.effects.6pbotGIvqQkraPva.name",
+          "sourceSha256": "480d4be7d61fe52bc31768ffaaffea7ad5db66ba8b699d30623c4726704cc646",
+          "translationSha256": "fcb66c4d741ae4bb8149a195e0df7c3f3f84c30d30d1d4b30514e0cb97f28e45",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.wqfAVANuQonNBgnL.name",
+          "sourceSha256": "0e976d89fc0d00c404ed7f2dec0fc72a46a6279d8bf64c316c8f8cc9ed767537",
+          "translationSha256": "99c7aadd8251b3b5613d7dc0226e95b54d8bf65f89b727df9bc14dfb7f886bb2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.wqfAVANuQonNBgnL.description",
+          "sourceSha256": "6086ec9797817c78322ac59c9ffcdf3f2a04a94af76b27ef98ea4e5cc528c7bf",
+          "translationSha256": "5244eed7b87126bd36b9e75fd4b95a5d6eba95b408e2b8b21f005fcd6b172a77",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.zMAWdyc8UVb37BK4.name",
+          "sourceSha256": "527f6bc857ad184e17849e11be6524113ac7b77003dd2acfb67fba9f0b829848",
+          "translationSha256": "9395bb6ed59a6c8fd26b4085bce2d8aa52b6836487ef0d6ebf117fcc8fc654db",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.zMAWdyc8UVb37BK4.description",
+          "sourceSha256": "382006818f2288c07d254395ed121f3c605d0b1aeb9ea34aa8e39f7a6e122b90",
+          "translationSha256": "b7a28650b2205a571c54f08e65f6d47a798b0221ce0659473fc16787b21f4da9",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.Ek45cBpVXvJdv1Qy.name",
+          "sourceSha256": "8cf3154ed50fbd29480b6d4b23bbbfe28d31df78e98beb4108bccb997a9ca392",
+          "translationSha256": "e8d13a5d372eb5e31b6edb87fb0a6044ec5c989067ee8fd8149f6b7561d55874",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.Ek45cBpVXvJdv1Qy.description",
+          "sourceSha256": "a3ef92d0d4ab588162e599a24db0ae6b366db4fd9fac0b61f2fdcc9ff9de68e8",
+          "translationSha256": "2709a8dbfe76ca7a28550681f585ac8b89c56ce5fd423aebb2de3e57982f3085",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.ztgcdrWPshKRpFd0.name",
+          "sourceSha256": "cc173df6702cba90cfae123f149085dc44e3f6c660816c528f063c75083e5a9e",
+          "translationSha256": "0f176de02085eb3dc5a86fee0df59bef37743fab432820a1a36160fea169c8ff",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.ztgcdrWPshKRpFd0.description",
+          "sourceSha256": "60853c313193b1821572ff9ddf08e9ef060fe7313fd17053cccc4c16e1205262",
+          "translationSha256": "dc60c214a2e96bd7746206fda6acec485798026507db3a34c7e10b5f9c8364dd",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.yfbK8gZqESlaoY5t.name",
+          "sourceSha256": "31bbe05d43158cd2f6cec70821ac4571c76d77eda3cfe8889f81cd785150b1c0",
+          "translationSha256": "367d60a7ade7db4c5d9cac9da897534bb9167208a79d68150161c8c6420cc7fc",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.yfbK8gZqESlaoY5t.description",
+          "sourceSha256": "746372f1286018562cc1ae5e01ffe507915de59830003c1d5648d8db707d2cbd",
+          "translationSha256": "d1e29c82bc49ac661955b5d12804261d91e257048273d0d77509d239921022cb",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.tEpDmYZNGc9f5OhJ.name",
+          "sourceSha256": "8df8ce7362ec7df3e42d6e2c0f4bc632df58fc7343a3095d78b143a25d6088e3",
+          "translationSha256": "37f58f85e9cc209d40003cc1fdadd317e3efba5dd7cea8688382996abc7456b3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.tEpDmYZNGc9f5OhJ.description",
+          "sourceSha256": "a686cb891a2ac93458abbda783260fa15e2b5f915e2a813b81ce33638987fda4",
+          "translationSha256": "8d401101904b07a63192717119d8e1407d5a8999b53924536fde3ffe2c0a38ca",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.WN2LWEljYU6QqnRH.name",
+          "sourceSha256": "dfccfbed6a527e367b7f932a2a98558a61f95030860a0dc27892355cd2a84e74",
+          "translationSha256": "d970dce0fc98a4efcc10206aa5d877be1f01c6221c43aadc9cdfb3189f290523",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.WN2LWEljYU6QqnRH.description",
+          "sourceSha256": "e5fbaf9e40290630bbf977932761f1234d9eb5310b2514e097ed55ba1872434e",
+          "translationSha256": "fca889979d93e967fb54885b96706731055c577e2ec1d1c5d558a008ed7dee0a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.RpKjTlYASrfqUPVA.name",
+          "sourceSha256": "9d6a11309ab760c7adf7f789a304644a566fb6ddaa894ad8939c0d7126afe4fe",
+          "translationSha256": "fc1737fbc34b33ece1ebe4b9ce744c1af2b4f8977f3d024f603badc0904d82c0",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.RpKjTlYASrfqUPVA.description",
+          "sourceSha256": "885c18122e4e5278e4828bd5cc6925feb34f6bb690fac5b0ca22fa71b07a26e4",
+          "translationSha256": "5e0389229236842f935a2e11f714521602f68aac2051bfb6a38ee0ed216ddc89",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.rG6fb3lkjuxqEaDd.name",
+          "sourceSha256": "5679daa7c55dde153a0e3f2e5d7c5318f149fa10716a7d874fa97e46639426a3",
+          "translationSha256": "0d81d65266d727278d155afd599cef4f20a288399d923cb7d5d145a310d781de",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JPXNJAjWamgfXc7G.items.rG6fb3lkjuxqEaDd.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.name",
+          "sourceSha256": "e181bc015be0fe01de62a0e9898c690c3a2bb48fa90e4e5cb9aab481ea3fe004",
+          "translationSha256": "444f3659eb147024873e335fe72cad909ac866afec2ac3d6a8c9f9739ca42324",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.alignment",
+          "sourceSha256": "822eb0a0cbd5cd86025088adf793ce135e2511797da2424a5f216b571aaa121a",
+          "translationSha256": "cc19b467acb4924d15a9f82dadfc16f9b049df9cfc5090646d303cf94af4b3e3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.creatureSubtype",
+          "sourceSha256": "9ffa865f2bc6e850157bb454ef3e00fa789e3f8cc631552941a99ba3fcddde51",
+          "translationSha256": "5d78db6ff88f4b03b414ab57fc9b639b95958d3492cd83949f3d917e57313a1c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.languages",
+          "sourceSha256": "babfda0b9268842fa614ee826979b9f0c29df39c93c7c0d584b1e5efdfa5ed4f",
+          "translationSha256": "72930c4795adaac8fe185cc082b008035f24236a34d0abea826f0b0b0a844508",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.tokenName",
+          "sourceSha256": "e181bc015be0fe01de62a0e9898c690c3a2bb48fa90e4e5cb9aab481ea3fe004",
+          "translationSha256": "444f3659eb147024873e335fe72cad909ac866afec2ac3d6a8c9f9739ca42324",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.biography",
+          "sourceSha256": "005ea83779c9757f66198e442b3974d1b9644098f09fe20d516e44b7b0697302",
+          "translationSha256": "13449ca5b377e53eed4ec882e9de4fdadb921a78a531289fbf79e3a63a220ce5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.tbKbwgcprUBciliF.name",
+          "sourceSha256": "0ce3a662d11283354858fe3750d3f72949f5863f4dbed31d00005eece8e14a02",
+          "translationSha256": "e1589d94051584af717abd37f905541c9ec9a6a380dffd0e89ba52771faddcb3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.tbKbwgcprUBciliF.description",
+          "sourceSha256": "0c241a453045bb86dce6f7f91e4375e3b8cda972bfb9adc830a610a9d86b996c",
+          "translationSha256": "156b65b4be28e751a36b1f0ad470cbe2d0e195bb0fe3998a8d762f4cb7d0607b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.tbKbwgcprUBciliF.descriptionChat",
+          "sourceSha256": "c65c731c99241ba1eccca3c94a8f03cd1f2e5b30c187ed2b18378319efdd0cb6",
+          "translationSha256": "bba87b7e37e8ab984655a1136e7f231e40ea4d99557fafa5c21b33be4a6a8ce2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.EOmsUcFQJTfG2oio.name",
+          "sourceSha256": "0d69f451df3d8317e5ed77f5b2a4cda07c08d4e6e6f00df11f49ff7a6e18bae2",
+          "translationSha256": "2971af313b4b579a534b34c9730f63ac356244f371a1ae89f6be4c4ef6c2730f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.EOmsUcFQJTfG2oio.description",
+          "sourceSha256": "c0762a9408a6dfe4a8afc16b9877f999d64ebe03f8ee782845b4520b03e2bb70",
+          "translationSha256": "52ab827b718f0f7a9a803444de43caef845d542139b2352b4441130bfed3889b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.Bnn9Nzajixvow9xi.name",
+          "sourceSha256": "dbcd5e7bb7a0f538810de44c3efbd813037ee3fa358747bb71fa58e157af45f7",
+          "translationSha256": "10ee0862a25f22b9fa72fe548fb258a4a6b025618fe45f026ad97356deb9757f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.Bnn9Nzajixvow9xi.description",
+          "sourceSha256": "a6915b64e17b9dee585647a17f8dd3f2959eca3852412607562f3169e5e64ddd",
+          "translationSha256": "01fec2dea114b96e93688f01468e78d3247855f4232d802b46620e58f97e548f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.Utk1OQRwYkMkFRD3.name",
+          "sourceSha256": "cb0d3238583c0fb02745016ee38365aeb218deb64731eceea42c18d24290ed95",
+          "translationSha256": "168cc32ccdb2f6c4736a39c2a1d3052e411648602362ae09c5590a76482a7774",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.Utk1OQRwYkMkFRD3.description",
+          "sourceSha256": "e9f106d2cca002174fa5486d25387cd0ea5a36bf17a4cf0e3cf7bf1dd27502c2",
+          "translationSha256": "f1ae9e0167f4ea7feb171ec33e0938a0118f32fb7c0e4cc8ef03ad39a66c2474",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.udsLtG0BugXHR2JQ.name",
+          "sourceSha256": "136dc1705ed3496efd6a5ced02d623b4767730ddfe2c9e04629518099c40614b",
+          "translationSha256": "33c850a18f5e242953ebd809d05ff573b882582240c1296d0cda6355c89fb4ec",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.udsLtG0BugXHR2JQ.description",
+          "sourceSha256": "0cf1430b315e586d9233b9602944f6e30cb995fd6c9110caba3bc3f232d95193",
+          "translationSha256": "70c154b92a0b5e18a9b8ade02cbfabd2cbeb80f442c0768413aa762717cd7c3c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.ghXTfe7sgCbgf1Q8.name",
+          "sourceSha256": "d69eecab2f767f0d282d036abcf2ffce962762fafc91151c5f84d262991d2179",
+          "translationSha256": "cc34393132191af618b4437bab4066776b106e5d8d45264d3c263ef88f11f063",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.ghXTfe7sgCbgf1Q8.description",
+          "sourceSha256": "6909404538f84b03702c7d17e4c595ba3a2be079058c4d63b72402e9b5c67443",
+          "translationSha256": "5cd31166944342c8b405016d63a5dbde27e041e703863e3f3fa0ae328499a499",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.CKZTpZlxj7hjjo2H.name",
+          "sourceSha256": "41b7590882c44f25ba88ccb7bf6f329d26b3eb75af4860cbe03f0467adc07e5e",
+          "translationSha256": "296486218ce9ac4eecfe30bdd7b4af9dc0927d5422afbf289182bf728b846a4c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.CKZTpZlxj7hjjo2H.description",
+          "sourceSha256": "4cffee8fbd1656d7b13ce968972b3e6c60e21138141044819b1d5814c28555fe",
+          "translationSha256": "8b95de6ab8ae5102b095eb4f6d74dabaa9a3c51db1559d5f41222d71f0327baa",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.CKZTpZlxj7hjjo2H.effects.cfwMU7LuOJ619Lny.name",
+          "sourceSha256": "41b7590882c44f25ba88ccb7bf6f329d26b3eb75af4860cbe03f0467adc07e5e",
+          "translationSha256": "296486218ce9ac4eecfe30bdd7b4af9dc0927d5422afbf289182bf728b846a4c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.41JIhpDyM9Anm7cs.name",
+          "sourceSha256": "111a74afc067f116ddf6a2e8339eada16814eceb7cfcded7a8e6e44c9fd87e6c",
+          "translationSha256": "a3d1085228fb09a325e256fb7323cedfdfbd20b9fde9a30562012459a417780e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.41JIhpDyM9Anm7cs.description",
+          "sourceSha256": "cc22d4529b8b41ff3c1aaab8486adbb984691a7bcbfd9ee23ae78c10233cef21",
+          "translationSha256": "a17d489fb2b72fa9be4f5b7ecf7249f97efb0c1c5f3d7a914300f6db080777f0",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.z1mx84ONwkXKUZd7.name",
+          "sourceSha256": "480d4be7d61fe52bc31768ffaaffea7ad5db66ba8b699d30623c4726704cc646",
+          "translationSha256": "fcb66c4d741ae4bb8149a195e0df7c3f3f84c30d30d1d4b30514e0cb97f28e45",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.z1mx84ONwkXKUZd7.description",
+          "sourceSha256": "20efd236bb84f6324e70008ffd154aec476c49324bd117c155d6d0b30f3ace3e",
+          "translationSha256": "347c5d719f09f9c2e9128195088e1eeb92683008f115de24e8635e81aa3b9c70",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.z1mx84ONwkXKUZd7.effects.6pbotGIvqQkraPva.name",
+          "sourceSha256": "480d4be7d61fe52bc31768ffaaffea7ad5db66ba8b699d30623c4726704cc646",
+          "translationSha256": "fcb66c4d741ae4bb8149a195e0df7c3f3f84c30d30d1d4b30514e0cb97f28e45",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.wqfAVANuQonNBgnL.name",
+          "sourceSha256": "0e976d89fc0d00c404ed7f2dec0fc72a46a6279d8bf64c316c8f8cc9ed767537",
+          "translationSha256": "99c7aadd8251b3b5613d7dc0226e95b54d8bf65f89b727df9bc14dfb7f886bb2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.wqfAVANuQonNBgnL.description",
+          "sourceSha256": "6086ec9797817c78322ac59c9ffcdf3f2a04a94af76b27ef98ea4e5cc528c7bf",
+          "translationSha256": "5244eed7b87126bd36b9e75fd4b95a5d6eba95b408e2b8b21f005fcd6b172a77",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.zMAWdyc8UVb37BK4.name",
+          "sourceSha256": "527f6bc857ad184e17849e11be6524113ac7b77003dd2acfb67fba9f0b829848",
+          "translationSha256": "9395bb6ed59a6c8fd26b4085bce2d8aa52b6836487ef0d6ebf117fcc8fc654db",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.zMAWdyc8UVb37BK4.description",
+          "sourceSha256": "382006818f2288c07d254395ed121f3c605d0b1aeb9ea34aa8e39f7a6e122b90",
+          "translationSha256": "b7a28650b2205a571c54f08e65f6d47a798b0221ce0659473fc16787b21f4da9",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.Ek45cBpVXvJdv1Qy.name",
+          "sourceSha256": "8cf3154ed50fbd29480b6d4b23bbbfe28d31df78e98beb4108bccb997a9ca392",
+          "translationSha256": "e8d13a5d372eb5e31b6edb87fb0a6044ec5c989067ee8fd8149f6b7561d55874",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.Ek45cBpVXvJdv1Qy.description",
+          "sourceSha256": "a3ef92d0d4ab588162e599a24db0ae6b366db4fd9fac0b61f2fdcc9ff9de68e8",
+          "translationSha256": "2709a8dbfe76ca7a28550681f585ac8b89c56ce5fd423aebb2de3e57982f3085",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.ztgcdrWPshKRpFd0.name",
+          "sourceSha256": "cc173df6702cba90cfae123f149085dc44e3f6c660816c528f063c75083e5a9e",
+          "translationSha256": "0f176de02085eb3dc5a86fee0df59bef37743fab432820a1a36160fea169c8ff",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.ztgcdrWPshKRpFd0.description",
+          "sourceSha256": "60853c313193b1821572ff9ddf08e9ef060fe7313fd17053cccc4c16e1205262",
+          "translationSha256": "dc60c214a2e96bd7746206fda6acec485798026507db3a34c7e10b5f9c8364dd",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.yfbK8gZqESlaoY5t.name",
+          "sourceSha256": "31bbe05d43158cd2f6cec70821ac4571c76d77eda3cfe8889f81cd785150b1c0",
+          "translationSha256": "367d60a7ade7db4c5d9cac9da897534bb9167208a79d68150161c8c6420cc7fc",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.yfbK8gZqESlaoY5t.description",
+          "sourceSha256": "746372f1286018562cc1ae5e01ffe507915de59830003c1d5648d8db707d2cbd",
+          "translationSha256": "d1e29c82bc49ac661955b5d12804261d91e257048273d0d77509d239921022cb",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.tEpDmYZNGc9f5OhJ.name",
+          "sourceSha256": "8df8ce7362ec7df3e42d6e2c0f4bc632df58fc7343a3095d78b143a25d6088e3",
+          "translationSha256": "37f58f85e9cc209d40003cc1fdadd317e3efba5dd7cea8688382996abc7456b3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.tEpDmYZNGc9f5OhJ.description",
+          "sourceSha256": "a686cb891a2ac93458abbda783260fa15e2b5f915e2a813b81ce33638987fda4",
+          "translationSha256": "8d401101904b07a63192717119d8e1407d5a8999b53924536fde3ffe2c0a38ca",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.WN2LWEljYU6QqnRH.name",
+          "sourceSha256": "dfccfbed6a527e367b7f932a2a98558a61f95030860a0dc27892355cd2a84e74",
+          "translationSha256": "d970dce0fc98a4efcc10206aa5d877be1f01c6221c43aadc9cdfb3189f290523",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.WN2LWEljYU6QqnRH.description",
+          "sourceSha256": "e5fbaf9e40290630bbf977932761f1234d9eb5310b2514e097ed55ba1872434e",
+          "translationSha256": "fca889979d93e967fb54885b96706731055c577e2ec1d1c5d558a008ed7dee0a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.RpKjTlYASrfqUPVA.name",
+          "sourceSha256": "9d6a11309ab760c7adf7f789a304644a566fb6ddaa894ad8939c0d7126afe4fe",
+          "translationSha256": "fc1737fbc34b33ece1ebe4b9ce744c1af2b4f8977f3d024f603badc0904d82c0",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.RpKjTlYASrfqUPVA.description",
+          "sourceSha256": "885c18122e4e5278e4828bd5cc6925feb34f6bb690fac5b0ca22fa71b07a26e4",
+          "translationSha256": "5e0389229236842f935a2e11f714521602f68aac2051bfb6a38ee0ed216ddc89",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.rG6fb3lkjuxqEaDd.name",
+          "sourceSha256": "5679daa7c55dde153a0e3f2e5d7c5318f149fa10716a7d874fa97e46639426a3",
+          "translationSha256": "0d81d65266d727278d155afd599cef4f20a288399d923cb7d5d145a310d781de",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JPXNJAjWamgfXc7G.items.rG6fb3lkjuxqEaDd.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        }
+      ]
+    },
+    {
+      "id": "additional-generic-casters-tahw0aIs9ApRQJRJ",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.name",
+          "sourceSha256": "fe6f090aa34eff304986aa5e90599f2ee41514cd9c3f5f36389652f5888ae7d1",
+          "translationSha256": "cf14667d7dea1cb3bf8a1d2fd2351fb005c9a5407760ece13509775a1ab0110a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.alignment",
+          "sourceSha256": "822eb0a0cbd5cd86025088adf793ce135e2511797da2424a5f216b571aaa121a",
+          "translationSha256": "cc19b467acb4924d15a9f82dadfc16f9b049df9cfc5090646d303cf94af4b3e3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.creatureSubtype",
+          "sourceSha256": "004c59916b2591d4e68a6f5fe56596ce41f2ad87af913006c32fe026bda474ec",
+          "translationSha256": "ddf3f4a260178c09ce499d24da29060ee3b0f64d80164e393a333c7db854dc55",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.languages",
+          "sourceSha256": "babfda0b9268842fa614ee826979b9f0c29df39c93c7c0d584b1e5efdfa5ed4f",
+          "translationSha256": "72930c4795adaac8fe185cc082b008035f24236a34d0abea826f0b0b0a844508",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.tokenName",
+          "sourceSha256": "fe6f090aa34eff304986aa5e90599f2ee41514cd9c3f5f36389652f5888ae7d1",
+          "translationSha256": "cf14667d7dea1cb3bf8a1d2fd2351fb005c9a5407760ece13509775a1ab0110a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.biography",
+          "sourceSha256": "005ea83779c9757f66198e442b3974d1b9644098f09fe20d516e44b7b0697302",
+          "translationSha256": "13449ca5b377e53eed4ec882e9de4fdadb921a78a531289fbf79e3a63a220ce5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.tbKbwgcprUBciliF.name",
+          "sourceSha256": "0ce3a662d11283354858fe3750d3f72949f5863f4dbed31d00005eece8e14a02",
+          "translationSha256": "e1589d94051584af717abd37f905541c9ec9a6a380dffd0e89ba52771faddcb3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.tbKbwgcprUBciliF.description",
+          "sourceSha256": "0c241a453045bb86dce6f7f91e4375e3b8cda972bfb9adc830a610a9d86b996c",
+          "translationSha256": "156b65b4be28e751a36b1f0ad470cbe2d0e195bb0fe3998a8d762f4cb7d0607b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.tbKbwgcprUBciliF.descriptionChat",
+          "sourceSha256": "c65c731c99241ba1eccca3c94a8f03cd1f2e5b30c187ed2b18378319efdd0cb6",
+          "translationSha256": "bba87b7e37e8ab984655a1136e7f231e40ea4d99557fafa5c21b33be4a6a8ce2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.EOmsUcFQJTfG2oio.name",
+          "sourceSha256": "0d69f451df3d8317e5ed77f5b2a4cda07c08d4e6e6f00df11f49ff7a6e18bae2",
+          "translationSha256": "2971af313b4b579a534b34c9730f63ac356244f371a1ae89f6be4c4ef6c2730f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.EOmsUcFQJTfG2oio.description",
+          "sourceSha256": "c0762a9408a6dfe4a8afc16b9877f999d64ebe03f8ee782845b4520b03e2bb70",
+          "translationSha256": "52ab827b718f0f7a9a803444de43caef845d542139b2352b4441130bfed3889b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.Bnn9Nzajixvow9xi.name",
+          "sourceSha256": "dbcd5e7bb7a0f538810de44c3efbd813037ee3fa358747bb71fa58e157af45f7",
+          "translationSha256": "10ee0862a25f22b9fa72fe548fb258a4a6b025618fe45f026ad97356deb9757f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.Bnn9Nzajixvow9xi.description",
+          "sourceSha256": "a6915b64e17b9dee585647a17f8dd3f2959eca3852412607562f3169e5e64ddd",
+          "translationSha256": "01fec2dea114b96e93688f01468e78d3247855f4232d802b46620e58f97e548f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.Utk1OQRwYkMkFRD3.name",
+          "sourceSha256": "cb0d3238583c0fb02745016ee38365aeb218deb64731eceea42c18d24290ed95",
+          "translationSha256": "168cc32ccdb2f6c4736a39c2a1d3052e411648602362ae09c5590a76482a7774",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.Utk1OQRwYkMkFRD3.description",
+          "sourceSha256": "e9f106d2cca002174fa5486d25387cd0ea5a36bf17a4cf0e3cf7bf1dd27502c2",
+          "translationSha256": "f1ae9e0167f4ea7feb171ec33e0938a0118f32fb7c0e4cc8ef03ad39a66c2474",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.udsLtG0BugXHR2JQ.name",
+          "sourceSha256": "136dc1705ed3496efd6a5ced02d623b4767730ddfe2c9e04629518099c40614b",
+          "translationSha256": "33c850a18f5e242953ebd809d05ff573b882582240c1296d0cda6355c89fb4ec",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.udsLtG0BugXHR2JQ.description",
+          "sourceSha256": "0cf1430b315e586d9233b9602944f6e30cb995fd6c9110caba3bc3f232d95193",
+          "translationSha256": "70c154b92a0b5e18a9b8ade02cbfabd2cbeb80f442c0768413aa762717cd7c3c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.ghXTfe7sgCbgf1Q8.name",
+          "sourceSha256": "d69eecab2f767f0d282d036abcf2ffce962762fafc91151c5f84d262991d2179",
+          "translationSha256": "cc34393132191af618b4437bab4066776b106e5d8d45264d3c263ef88f11f063",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.ghXTfe7sgCbgf1Q8.description",
+          "sourceSha256": "6909404538f84b03702c7d17e4c595ba3a2be079058c4d63b72402e9b5c67443",
+          "translationSha256": "5cd31166944342c8b405016d63a5dbde27e041e703863e3f3fa0ae328499a499",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.CKZTpZlxj7hjjo2H.name",
+          "sourceSha256": "41b7590882c44f25ba88ccb7bf6f329d26b3eb75af4860cbe03f0467adc07e5e",
+          "translationSha256": "296486218ce9ac4eecfe30bdd7b4af9dc0927d5422afbf289182bf728b846a4c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.CKZTpZlxj7hjjo2H.description",
+          "sourceSha256": "4cffee8fbd1656d7b13ce968972b3e6c60e21138141044819b1d5814c28555fe",
+          "translationSha256": "8b95de6ab8ae5102b095eb4f6d74dabaa9a3c51db1559d5f41222d71f0327baa",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.CKZTpZlxj7hjjo2H.effects.cfwMU7LuOJ619Lny.name",
+          "sourceSha256": "41b7590882c44f25ba88ccb7bf6f329d26b3eb75af4860cbe03f0467adc07e5e",
+          "translationSha256": "296486218ce9ac4eecfe30bdd7b4af9dc0927d5422afbf289182bf728b846a4c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.41JIhpDyM9Anm7cs.name",
+          "sourceSha256": "111a74afc067f116ddf6a2e8339eada16814eceb7cfcded7a8e6e44c9fd87e6c",
+          "translationSha256": "a3d1085228fb09a325e256fb7323cedfdfbd20b9fde9a30562012459a417780e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.41JIhpDyM9Anm7cs.description",
+          "sourceSha256": "cc22d4529b8b41ff3c1aaab8486adbb984691a7bcbfd9ee23ae78c10233cef21",
+          "translationSha256": "a17d489fb2b72fa9be4f5b7ecf7249f97efb0c1c5f3d7a914300f6db080777f0",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.z1mx84ONwkXKUZd7.name",
+          "sourceSha256": "480d4be7d61fe52bc31768ffaaffea7ad5db66ba8b699d30623c4726704cc646",
+          "translationSha256": "fcb66c4d741ae4bb8149a195e0df7c3f3f84c30d30d1d4b30514e0cb97f28e45",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.z1mx84ONwkXKUZd7.description",
+          "sourceSha256": "20efd236bb84f6324e70008ffd154aec476c49324bd117c155d6d0b30f3ace3e",
+          "translationSha256": "347c5d719f09f9c2e9128195088e1eeb92683008f115de24e8635e81aa3b9c70",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.z1mx84ONwkXKUZd7.effects.6pbotGIvqQkraPva.name",
+          "sourceSha256": "480d4be7d61fe52bc31768ffaaffea7ad5db66ba8b699d30623c4726704cc646",
+          "translationSha256": "fcb66c4d741ae4bb8149a195e0df7c3f3f84c30d30d1d4b30514e0cb97f28e45",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.wqfAVANuQonNBgnL.name",
+          "sourceSha256": "0e976d89fc0d00c404ed7f2dec0fc72a46a6279d8bf64c316c8f8cc9ed767537",
+          "translationSha256": "99c7aadd8251b3b5613d7dc0226e95b54d8bf65f89b727df9bc14dfb7f886bb2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.wqfAVANuQonNBgnL.description",
+          "sourceSha256": "6086ec9797817c78322ac59c9ffcdf3f2a04a94af76b27ef98ea4e5cc528c7bf",
+          "translationSha256": "5244eed7b87126bd36b9e75fd4b95a5d6eba95b408e2b8b21f005fcd6b172a77",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.zMAWdyc8UVb37BK4.name",
+          "sourceSha256": "527f6bc857ad184e17849e11be6524113ac7b77003dd2acfb67fba9f0b829848",
+          "translationSha256": "9395bb6ed59a6c8fd26b4085bce2d8aa52b6836487ef0d6ebf117fcc8fc654db",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.zMAWdyc8UVb37BK4.description",
+          "sourceSha256": "382006818f2288c07d254395ed121f3c605d0b1aeb9ea34aa8e39f7a6e122b90",
+          "translationSha256": "b7a28650b2205a571c54f08e65f6d47a798b0221ce0659473fc16787b21f4da9",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.Ek45cBpVXvJdv1Qy.name",
+          "sourceSha256": "8cf3154ed50fbd29480b6d4b23bbbfe28d31df78e98beb4108bccb997a9ca392",
+          "translationSha256": "e8d13a5d372eb5e31b6edb87fb0a6044ec5c989067ee8fd8149f6b7561d55874",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.Ek45cBpVXvJdv1Qy.description",
+          "sourceSha256": "a3ef92d0d4ab588162e599a24db0ae6b366db4fd9fac0b61f2fdcc9ff9de68e8",
+          "translationSha256": "2709a8dbfe76ca7a28550681f585ac8b89c56ce5fd423aebb2de3e57982f3085",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.ztgcdrWPshKRpFd0.name",
+          "sourceSha256": "cc173df6702cba90cfae123f149085dc44e3f6c660816c528f063c75083e5a9e",
+          "translationSha256": "0f176de02085eb3dc5a86fee0df59bef37743fab432820a1a36160fea169c8ff",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.ztgcdrWPshKRpFd0.description",
+          "sourceSha256": "60853c313193b1821572ff9ddf08e9ef060fe7313fd17053cccc4c16e1205262",
+          "translationSha256": "dc60c214a2e96bd7746206fda6acec485798026507db3a34c7e10b5f9c8364dd",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.yfbK8gZqESlaoY5t.name",
+          "sourceSha256": "31bbe05d43158cd2f6cec70821ac4571c76d77eda3cfe8889f81cd785150b1c0",
+          "translationSha256": "367d60a7ade7db4c5d9cac9da897534bb9167208a79d68150161c8c6420cc7fc",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.yfbK8gZqESlaoY5t.description",
+          "sourceSha256": "746372f1286018562cc1ae5e01ffe507915de59830003c1d5648d8db707d2cbd",
+          "translationSha256": "d1e29c82bc49ac661955b5d12804261d91e257048273d0d77509d239921022cb",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.tEpDmYZNGc9f5OhJ.name",
+          "sourceSha256": "8df8ce7362ec7df3e42d6e2c0f4bc632df58fc7343a3095d78b143a25d6088e3",
+          "translationSha256": "37f58f85e9cc209d40003cc1fdadd317e3efba5dd7cea8688382996abc7456b3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.tEpDmYZNGc9f5OhJ.description",
+          "sourceSha256": "a686cb891a2ac93458abbda783260fa15e2b5f915e2a813b81ce33638987fda4",
+          "translationSha256": "8d401101904b07a63192717119d8e1407d5a8999b53924536fde3ffe2c0a38ca",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.WN2LWEljYU6QqnRH.name",
+          "sourceSha256": "dfccfbed6a527e367b7f932a2a98558a61f95030860a0dc27892355cd2a84e74",
+          "translationSha256": "d970dce0fc98a4efcc10206aa5d877be1f01c6221c43aadc9cdfb3189f290523",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.WN2LWEljYU6QqnRH.description",
+          "sourceSha256": "e5fbaf9e40290630bbf977932761f1234d9eb5310b2514e097ed55ba1872434e",
+          "translationSha256": "fca889979d93e967fb54885b96706731055c577e2ec1d1c5d558a008ed7dee0a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.RpKjTlYASrfqUPVA.name",
+          "sourceSha256": "9d6a11309ab760c7adf7f789a304644a566fb6ddaa894ad8939c0d7126afe4fe",
+          "translationSha256": "fc1737fbc34b33ece1ebe4b9ce744c1af2b4f8977f3d024f603badc0904d82c0",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.RpKjTlYASrfqUPVA.description",
+          "sourceSha256": "885c18122e4e5278e4828bd5cc6925feb34f6bb690fac5b0ca22fa71b07a26e4",
+          "translationSha256": "5e0389229236842f935a2e11f714521602f68aac2051bfb6a38ee0ed216ddc89",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.rG6fb3lkjuxqEaDd.name",
+          "sourceSha256": "5679daa7c55dde153a0e3f2e5d7c5318f149fa10716a7d874fa97e46639426a3",
+          "translationSha256": "0d81d65266d727278d155afd599cef4f20a288399d923cb7d5d145a310d781de",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.tahw0aIs9ApRQJRJ.items.rG6fb3lkjuxqEaDd.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.name",
+          "sourceSha256": "fe6f090aa34eff304986aa5e90599f2ee41514cd9c3f5f36389652f5888ae7d1",
+          "translationSha256": "cf14667d7dea1cb3bf8a1d2fd2351fb005c9a5407760ece13509775a1ab0110a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.alignment",
+          "sourceSha256": "822eb0a0cbd5cd86025088adf793ce135e2511797da2424a5f216b571aaa121a",
+          "translationSha256": "cc19b467acb4924d15a9f82dadfc16f9b049df9cfc5090646d303cf94af4b3e3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.creatureSubtype",
+          "sourceSha256": "004c59916b2591d4e68a6f5fe56596ce41f2ad87af913006c32fe026bda474ec",
+          "translationSha256": "ddf3f4a260178c09ce499d24da29060ee3b0f64d80164e393a333c7db854dc55",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.languages",
+          "sourceSha256": "babfda0b9268842fa614ee826979b9f0c29df39c93c7c0d584b1e5efdfa5ed4f",
+          "translationSha256": "72930c4795adaac8fe185cc082b008035f24236a34d0abea826f0b0b0a844508",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.tokenName",
+          "sourceSha256": "fe6f090aa34eff304986aa5e90599f2ee41514cd9c3f5f36389652f5888ae7d1",
+          "translationSha256": "cf14667d7dea1cb3bf8a1d2fd2351fb005c9a5407760ece13509775a1ab0110a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.biography",
+          "sourceSha256": "005ea83779c9757f66198e442b3974d1b9644098f09fe20d516e44b7b0697302",
+          "translationSha256": "13449ca5b377e53eed4ec882e9de4fdadb921a78a531289fbf79e3a63a220ce5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.tbKbwgcprUBciliF.name",
+          "sourceSha256": "0ce3a662d11283354858fe3750d3f72949f5863f4dbed31d00005eece8e14a02",
+          "translationSha256": "e1589d94051584af717abd37f905541c9ec9a6a380dffd0e89ba52771faddcb3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.tbKbwgcprUBciliF.description",
+          "sourceSha256": "0c241a453045bb86dce6f7f91e4375e3b8cda972bfb9adc830a610a9d86b996c",
+          "translationSha256": "156b65b4be28e751a36b1f0ad470cbe2d0e195bb0fe3998a8d762f4cb7d0607b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.tbKbwgcprUBciliF.descriptionChat",
+          "sourceSha256": "c65c731c99241ba1eccca3c94a8f03cd1f2e5b30c187ed2b18378319efdd0cb6",
+          "translationSha256": "bba87b7e37e8ab984655a1136e7f231e40ea4d99557fafa5c21b33be4a6a8ce2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.EOmsUcFQJTfG2oio.name",
+          "sourceSha256": "0d69f451df3d8317e5ed77f5b2a4cda07c08d4e6e6f00df11f49ff7a6e18bae2",
+          "translationSha256": "2971af313b4b579a534b34c9730f63ac356244f371a1ae89f6be4c4ef6c2730f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.EOmsUcFQJTfG2oio.description",
+          "sourceSha256": "c0762a9408a6dfe4a8afc16b9877f999d64ebe03f8ee782845b4520b03e2bb70",
+          "translationSha256": "52ab827b718f0f7a9a803444de43caef845d542139b2352b4441130bfed3889b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.Bnn9Nzajixvow9xi.name",
+          "sourceSha256": "dbcd5e7bb7a0f538810de44c3efbd813037ee3fa358747bb71fa58e157af45f7",
+          "translationSha256": "10ee0862a25f22b9fa72fe548fb258a4a6b025618fe45f026ad97356deb9757f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.Bnn9Nzajixvow9xi.description",
+          "sourceSha256": "a6915b64e17b9dee585647a17f8dd3f2959eca3852412607562f3169e5e64ddd",
+          "translationSha256": "01fec2dea114b96e93688f01468e78d3247855f4232d802b46620e58f97e548f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.Utk1OQRwYkMkFRD3.name",
+          "sourceSha256": "cb0d3238583c0fb02745016ee38365aeb218deb64731eceea42c18d24290ed95",
+          "translationSha256": "168cc32ccdb2f6c4736a39c2a1d3052e411648602362ae09c5590a76482a7774",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.Utk1OQRwYkMkFRD3.description",
+          "sourceSha256": "e9f106d2cca002174fa5486d25387cd0ea5a36bf17a4cf0e3cf7bf1dd27502c2",
+          "translationSha256": "f1ae9e0167f4ea7feb171ec33e0938a0118f32fb7c0e4cc8ef03ad39a66c2474",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.udsLtG0BugXHR2JQ.name",
+          "sourceSha256": "136dc1705ed3496efd6a5ced02d623b4767730ddfe2c9e04629518099c40614b",
+          "translationSha256": "33c850a18f5e242953ebd809d05ff573b882582240c1296d0cda6355c89fb4ec",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.udsLtG0BugXHR2JQ.description",
+          "sourceSha256": "0cf1430b315e586d9233b9602944f6e30cb995fd6c9110caba3bc3f232d95193",
+          "translationSha256": "70c154b92a0b5e18a9b8ade02cbfabd2cbeb80f442c0768413aa762717cd7c3c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.ghXTfe7sgCbgf1Q8.name",
+          "sourceSha256": "d69eecab2f767f0d282d036abcf2ffce962762fafc91151c5f84d262991d2179",
+          "translationSha256": "cc34393132191af618b4437bab4066776b106e5d8d45264d3c263ef88f11f063",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.ghXTfe7sgCbgf1Q8.description",
+          "sourceSha256": "6909404538f84b03702c7d17e4c595ba3a2be079058c4d63b72402e9b5c67443",
+          "translationSha256": "5cd31166944342c8b405016d63a5dbde27e041e703863e3f3fa0ae328499a499",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.CKZTpZlxj7hjjo2H.name",
+          "sourceSha256": "41b7590882c44f25ba88ccb7bf6f329d26b3eb75af4860cbe03f0467adc07e5e",
+          "translationSha256": "296486218ce9ac4eecfe30bdd7b4af9dc0927d5422afbf289182bf728b846a4c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.CKZTpZlxj7hjjo2H.description",
+          "sourceSha256": "4cffee8fbd1656d7b13ce968972b3e6c60e21138141044819b1d5814c28555fe",
+          "translationSha256": "8b95de6ab8ae5102b095eb4f6d74dabaa9a3c51db1559d5f41222d71f0327baa",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.CKZTpZlxj7hjjo2H.effects.cfwMU7LuOJ619Lny.name",
+          "sourceSha256": "41b7590882c44f25ba88ccb7bf6f329d26b3eb75af4860cbe03f0467adc07e5e",
+          "translationSha256": "296486218ce9ac4eecfe30bdd7b4af9dc0927d5422afbf289182bf728b846a4c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.41JIhpDyM9Anm7cs.name",
+          "sourceSha256": "111a74afc067f116ddf6a2e8339eada16814eceb7cfcded7a8e6e44c9fd87e6c",
+          "translationSha256": "a3d1085228fb09a325e256fb7323cedfdfbd20b9fde9a30562012459a417780e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.41JIhpDyM9Anm7cs.description",
+          "sourceSha256": "cc22d4529b8b41ff3c1aaab8486adbb984691a7bcbfd9ee23ae78c10233cef21",
+          "translationSha256": "a17d489fb2b72fa9be4f5b7ecf7249f97efb0c1c5f3d7a914300f6db080777f0",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.z1mx84ONwkXKUZd7.name",
+          "sourceSha256": "480d4be7d61fe52bc31768ffaaffea7ad5db66ba8b699d30623c4726704cc646",
+          "translationSha256": "fcb66c4d741ae4bb8149a195e0df7c3f3f84c30d30d1d4b30514e0cb97f28e45",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.z1mx84ONwkXKUZd7.description",
+          "sourceSha256": "20efd236bb84f6324e70008ffd154aec476c49324bd117c155d6d0b30f3ace3e",
+          "translationSha256": "347c5d719f09f9c2e9128195088e1eeb92683008f115de24e8635e81aa3b9c70",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.z1mx84ONwkXKUZd7.effects.6pbotGIvqQkraPva.name",
+          "sourceSha256": "480d4be7d61fe52bc31768ffaaffea7ad5db66ba8b699d30623c4726704cc646",
+          "translationSha256": "fcb66c4d741ae4bb8149a195e0df7c3f3f84c30d30d1d4b30514e0cb97f28e45",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.wqfAVANuQonNBgnL.name",
+          "sourceSha256": "0e976d89fc0d00c404ed7f2dec0fc72a46a6279d8bf64c316c8f8cc9ed767537",
+          "translationSha256": "99c7aadd8251b3b5613d7dc0226e95b54d8bf65f89b727df9bc14dfb7f886bb2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.wqfAVANuQonNBgnL.description",
+          "sourceSha256": "6086ec9797817c78322ac59c9ffcdf3f2a04a94af76b27ef98ea4e5cc528c7bf",
+          "translationSha256": "5244eed7b87126bd36b9e75fd4b95a5d6eba95b408e2b8b21f005fcd6b172a77",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.zMAWdyc8UVb37BK4.name",
+          "sourceSha256": "527f6bc857ad184e17849e11be6524113ac7b77003dd2acfb67fba9f0b829848",
+          "translationSha256": "9395bb6ed59a6c8fd26b4085bce2d8aa52b6836487ef0d6ebf117fcc8fc654db",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.zMAWdyc8UVb37BK4.description",
+          "sourceSha256": "382006818f2288c07d254395ed121f3c605d0b1aeb9ea34aa8e39f7a6e122b90",
+          "translationSha256": "b7a28650b2205a571c54f08e65f6d47a798b0221ce0659473fc16787b21f4da9",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.Ek45cBpVXvJdv1Qy.name",
+          "sourceSha256": "8cf3154ed50fbd29480b6d4b23bbbfe28d31df78e98beb4108bccb997a9ca392",
+          "translationSha256": "e8d13a5d372eb5e31b6edb87fb0a6044ec5c989067ee8fd8149f6b7561d55874",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.Ek45cBpVXvJdv1Qy.description",
+          "sourceSha256": "a3ef92d0d4ab588162e599a24db0ae6b366db4fd9fac0b61f2fdcc9ff9de68e8",
+          "translationSha256": "2709a8dbfe76ca7a28550681f585ac8b89c56ce5fd423aebb2de3e57982f3085",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.ztgcdrWPshKRpFd0.name",
+          "sourceSha256": "cc173df6702cba90cfae123f149085dc44e3f6c660816c528f063c75083e5a9e",
+          "translationSha256": "0f176de02085eb3dc5a86fee0df59bef37743fab432820a1a36160fea169c8ff",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.ztgcdrWPshKRpFd0.description",
+          "sourceSha256": "60853c313193b1821572ff9ddf08e9ef060fe7313fd17053cccc4c16e1205262",
+          "translationSha256": "dc60c214a2e96bd7746206fda6acec485798026507db3a34c7e10b5f9c8364dd",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.yfbK8gZqESlaoY5t.name",
+          "sourceSha256": "31bbe05d43158cd2f6cec70821ac4571c76d77eda3cfe8889f81cd785150b1c0",
+          "translationSha256": "367d60a7ade7db4c5d9cac9da897534bb9167208a79d68150161c8c6420cc7fc",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.yfbK8gZqESlaoY5t.description",
+          "sourceSha256": "746372f1286018562cc1ae5e01ffe507915de59830003c1d5648d8db707d2cbd",
+          "translationSha256": "d1e29c82bc49ac661955b5d12804261d91e257048273d0d77509d239921022cb",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.tEpDmYZNGc9f5OhJ.name",
+          "sourceSha256": "8df8ce7362ec7df3e42d6e2c0f4bc632df58fc7343a3095d78b143a25d6088e3",
+          "translationSha256": "37f58f85e9cc209d40003cc1fdadd317e3efba5dd7cea8688382996abc7456b3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.tEpDmYZNGc9f5OhJ.description",
+          "sourceSha256": "a686cb891a2ac93458abbda783260fa15e2b5f915e2a813b81ce33638987fda4",
+          "translationSha256": "8d401101904b07a63192717119d8e1407d5a8999b53924536fde3ffe2c0a38ca",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.WN2LWEljYU6QqnRH.name",
+          "sourceSha256": "dfccfbed6a527e367b7f932a2a98558a61f95030860a0dc27892355cd2a84e74",
+          "translationSha256": "d970dce0fc98a4efcc10206aa5d877be1f01c6221c43aadc9cdfb3189f290523",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.WN2LWEljYU6QqnRH.description",
+          "sourceSha256": "e5fbaf9e40290630bbf977932761f1234d9eb5310b2514e097ed55ba1872434e",
+          "translationSha256": "fca889979d93e967fb54885b96706731055c577e2ec1d1c5d558a008ed7dee0a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.RpKjTlYASrfqUPVA.name",
+          "sourceSha256": "9d6a11309ab760c7adf7f789a304644a566fb6ddaa894ad8939c0d7126afe4fe",
+          "translationSha256": "fc1737fbc34b33ece1ebe4b9ce744c1af2b4f8977f3d024f603badc0904d82c0",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.RpKjTlYASrfqUPVA.description",
+          "sourceSha256": "885c18122e4e5278e4828bd5cc6925feb34f6bb690fac5b0ca22fa71b07a26e4",
+          "translationSha256": "5e0389229236842f935a2e11f714521602f68aac2051bfb6a38ee0ed216ddc89",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.rG6fb3lkjuxqEaDd.name",
+          "sourceSha256": "5679daa7c55dde153a0e3f2e5d7c5318f149fa10716a7d874fa97e46639426a3",
+          "translationSha256": "0d81d65266d727278d155afd599cef4f20a288399d923cb7d5d145a310d781de",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.tahw0aIs9ApRQJRJ.items.rG6fb3lkjuxqEaDd.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
+        }
+      ]
     }
   ]
 }

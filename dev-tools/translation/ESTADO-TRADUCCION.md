@@ -2470,6 +2470,17 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   otras variantes ya registradas. Se conserva la descripción y se anota la
   limitación pendiente de contrastar durante la reparación funcional.
 
+### additional-generic-casters — Lanzadores genéricos
+
+- Revisados 300 campos de acólito, sacerdote, mago y Mago Rojo en ambas copias.
+  Listas contrastadas con el exportado inglés y con los identificadores y
+  nombres de los conjuros incluidos en cada actor.
+- Reutilizadas las descripciones de conjuros idénticas a segmentos revisados,
+  comprobando referencias, cantidades y HTML. Ajustados los textos de chat al
+  género del perfil genérico y conservados sus espacios, niveles y CD.
+- Comprobados la duración de Eminencia Divina hasta el final del turno y su
+  aumento de daño por nivel del espacio. Las biografías solo incluyen créditos.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2479,8 +2490,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
   de Foundry, tres de créditos y cuatro de historial.
   No equivale a 931 páginas del PDF.
-- 11943 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 11943 campos distintos.
+- 12243 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 12243 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento treinta y cuatro biografías en ambas copias de actores: siete
   príncipes y ciento veintisiete criaturas o PNJ vinculados al apéndice D. Siguen pendientes las demás
