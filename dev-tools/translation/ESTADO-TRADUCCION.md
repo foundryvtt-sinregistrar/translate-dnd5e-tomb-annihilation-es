@@ -1655,18 +1655,29 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y las condiciones de sus conjuros. El enlace por nombre `Beak` queda incluido
   en el pendiente de resolución por identificador.
 
+### appendix-d-firenewts — Salamandras flamígeras
+
+- Revisados 122 campos: ambas copias de la guerrera y la bruja de Imix,
+  incluidos sus textos de equipo y conjuros, y la página del diario.
+  Referencias físicas 232 y 233; descripciones completas de conjuros y equipo
+  contrastadas con el exportado inglés.
+- Conservados descanso corto o largo para recuperar espacios, armadura de
+  mago solo sobre sí misma y condiciones de daño de los conjuros. Las dos
+  entradas originales de armadura de mago permanecen traducidas.
+- El enlace por nombre `Scimitar` sigue pendiente de resolución por identificador.
+
 ## Balance de revisión editorial
 
-- 772 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 773 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 167 de los apéndices A, B, C, D y F.
-  No equivale a 772 páginas del PDF.
-- 2929 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 2929 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 168 de los apéndices A, B, C, D y F.
+  No equivale a 773 páginas del PDF.
+- 3051 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 3051 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas veinte biografías en ambas copias de actores: siete
-  príncipes y trece criaturas o PNJ del apéndice D. Siguen pendientes las demás
+  insertado. Revisadas veintidós biografías en ambas copias de actores: siete
+  príncipes y quince criaturas o PNJ del apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las

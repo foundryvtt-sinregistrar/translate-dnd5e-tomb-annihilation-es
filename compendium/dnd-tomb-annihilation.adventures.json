@@ -2151,97 +2151,97 @@
           "alignment": "Neutral malvado",
           "items": {
             "AeEsZBWLHTwCq9ds": {
-              "name": "Lanzamiento de conjuros",
-              "description": "<p>La salamandra flamígera es una lanzadora de conjuros de nivel 3. Su habilidad de conjuros es Carisma (salva CD 12, +4 para golpear con ataques de conjuros). Recupera sus espacios de conjuro gastadas cuando termina un descanso corto o largo. Conoce los siguientes conjuros de hechicero:</p><p>Cantrip (a voluntad): <em>[[/item .7NqcPzAjIEr1ZR8Z]]{perno de fuego}, [[/item .niM851M1lk3flAYj]]{orientación}, [[/item .hlmH2BaRXn2TXUqN]]{luz}, [[/item .6VuuTErCIlV52d4n]]{mano de mago}, [[/item .CLwzFrlZmmXIuhgV]]{prestidigitación}</em></p><p>1er–2o nivel (2 2o nivel): <em>[[/item .aAXfDKtOh0Ibyzwk]]{manos ardientes}, [[/item .LGSXIqfm9XSPKZZ2]]{Reprendeción infernal}, [[/item .XadhS5HR7sA12KCH]]{esfera en llamas}, [[/item .CvSuwIXzMICE0vEd]]{Rayo abrasador}</em></p>"
+              "name": "Lanzamiento de Conjuros",
+              "description": "<p>La salamandra flamígera es una lanzadora de conjuros de nivel 3. Su aptitud mágica es Carisma (salvación de conjuros CD 12, +4 a impactar con ataques de conjuro). Recupera los espacios de conjuro gastados al terminar un descanso corto o largo. Conoce los siguientes conjuros de brujo:</p><p>Trucos (a voluntad): <em>[[/item .7NqcPzAjIEr1ZR8Z]]{descarga de fuego}, [[/item .niM851M1lk3flAYj]]{guía}, [[/item .hlmH2BaRXn2TXUqN]]{luz}, [[/item .6VuuTErCIlV52d4n]]{mano de mago}, [[/item .CLwzFrlZmmXIuhgV]]{prestidigitación}</em></p><p>Niveles 1–2 (2 espacios de nivel 2): <em>[[/item .aAXfDKtOh0Ibyzwk]]{manos ardientes}, [[/item .LGSXIqfm9XSPKZZ2]]{reprensión infernal}, [[/item .XadhS5HR7sA12KCH]]{esfera de llamas}, [[/item .CvSuwIXzMICE0vEd]]{rayo abrasador}</em></p>"
             },
             "13ouVszWiph0TFFi": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
               "name": "Lucero del alba"
             },
             "8AFrdpIu8XOl5Him": {
-              "name": "Anfibio",
-              "description": "<p>El firenett puede respirar aire y agua.</p>"
+              "name": "Anfibia",
+              "description": "<p>La salamandra flamígera puede respirar aire y agua.</p>"
             },
             "c6K0d4byD5yFpB7D": {
-              "name": "La bendición de Imix",
-              "description": "<p>Cuando el firenett reduce un enemigo a 0 puntos de impacto, el firenett gana [[/healing temp]].</p>"
+              "name": "Bendición de Imix",
+              "description": "<p>Cuando la salamandra flamígera reduce a un enemigo a 0 puntos de golpe, obtiene [[/healing temp]].</p>"
             },
             "7NqcPzAjIEr1ZR8Z": {
-              "name": "Perno de fuego",
-              "description": "<p>Lanzas una mota de fuego a una criatura u objeto dentro del alcance. Hacer un ataque de conjuros de alcance contra el objetivo. En un golpe, el objetivo recibe 1d10 daños por incendio. Un objeto inflamable golpeado por este conjuro se enciende si no está siendo usado o transportado.</p><p>El daño de este conjuro aumenta en 1d10 cuando alcanzas el 5o nivel (2d10), 11o nivel (3d10) y 17o nivel (4d10).</p>"
+              "name": "Descarga de fuego",
+              "description": "<p>Lanzas una mota de fuego a una criatura u objeto dentro del alcance. Realiza un ataque de conjuro a distancia contra el objetivo. Si impactas, el objetivo sufre 1d10 de daño de fuego. Un objeto inflamable alcanzado por este conjuro arde si nadie lo lleva puesto ni lo transporta.</p><p>El daño de este conjuro aumenta en 1d10 cuando alcanzas el nivel 5 (2d10), el nivel 11 (3d10) y el nivel 17 (4d10).</p>"
             },
             "niM851M1lk3flAYj": {
               "name": "Guía",
-              "description": "<p>Tocas a una criatura dispuesta. Una vez antes de que el conjuro termine, el objetivo puede rodar un d4 y añadir el número rodado a una comprobación de capacidad de su elección. Puede rodar el dado antes o después de hacer la comprobación de la capacidad. El conjuro entonces termina.</p>"
+              "description": "<p>Tocas a una criatura voluntaria. Una vez antes de que termine el conjuro, el objetivo puede tirar un d4 y sumar el resultado a una prueba de característica de su elección. Puede tirar el dado antes o después de realizar la prueba. Después, el conjuro termina.</p>"
             },
             "hlmH2BaRXn2TXUqN": {
               "name": "Luz",
-              "description": "<p>Tocas un objeto que no mide más de 10 pies en cualquier dimensión. Hasta que el conjuro termina, el objeto arroja luz brillante en un radio de 20 pies y luz tenue por otros 20 pies. La luz puede ser coloreada como quieras. Cubrir completamente el objeto con algo opaco bloquea la luz. El conjuro termina si lo lanzas de nuevo o lo descartas como una acción.</p><p>Si usted apunta a un objeto sostenido o usado por una criatura hostil, esa criatura debe tener éxito en un lanzamiento de ahorro de Dexterity para evitar el conjuro.</p>"
+              "description": "<p>Tocas un objeto que no mida más de 10 pies en ninguna dimensión. Hasta que termine el conjuro, el objeto emite luz brillante en un radio de 20 pies y luz tenue 20 pies más allá. La luz puede ser del color que elijas. Cubrir por completo el objeto con algo opaco bloquea la luz. El conjuro termina si vuelves a lanzarlo o lo disipas como acción.</p><p>Si eliges un objeto que una criatura hostil lleve puesto o sostenga, esa criatura debe superar una tirada de salvación de Destreza para evitar el conjuro.</p>"
             },
             "6VuuTErCIlV52d4n": {
-              "name": "Mano Maga",
-              "description": "<p>Una mano espectral y flotante aparece en un punto que usted elige dentro del rango. La mano dura por la duración o hasta que la desestime como una acción. La mano se desvanece si está a más de 30 pies de ti o si vuelves a lanzar este conjuro.</p><p>Puedes usar tu acción para controlar la mano. Puede usar la mano para manipular un objeto, abrir una puerta o contenedor desbloqueado, guardar o recuperar un objeto de un contenedor abierto o verter el contenido de un vial. Puedes mover la mano hasta 30 pies cada vez que la uses.</p><p>La mano no puede atacar, activar objetos mágicos ni llevar más de 10 libras.</p>"
+              "name": "Mano de mago",
+              "description": "<p>Una mano espectral flotante aparece en un punto que elijas dentro del alcance. Permanece durante el conjuro o hasta que la disipes como acción. La mano desaparece si se aleja más de 30 pies de ti o si vuelves a lanzar este conjuro.</p><p>Puedes usar tu acción para controlar la mano. Puedes utilizarla para manipular un objeto, abrir una puerta o recipiente sin cerrar con llave, guardar o sacar un objeto de un recipiente abierto o verter el contenido de un vial. Puedes mover la mano hasta 30 pies cada vez que la uses.</p><p>La mano no puede atacar, activar objetos mágicos ni transportar más de 10 libras.</p>"
             },
             "CLwzFrlZmmXIuhgV": {
               "name": "Prestidigitación",
-              "description": "<p>Este conjuro es un truco mágico menor que los hechiceros novatos usan para practicar. Usted crea uno de los siguientes efectos mágicos dentro del rango:</p>\n<ul>\n<li>Se crea un efecto sensorial instantáneo e inofensivo, como una lluvia de chispas, un soplo de viento, notas musicales débiles o un olor extraño.</li>\n<li>Enciende o apaga instantáneamente una vela, una antorcha o una pequeña fogata.</li>\n<li>Usted limpia instantáneamente o ensucia un objeto no mayor de 1 pie cúbico.</li>\n<li>Se enfría, se calienta o se saborea hasta 1 pie cúbico de material no vivo durante 1 hora.</li>\n<li>Usted hace un color, una pequeña marca, o un símbolo aparecen en un objeto o una superficie durante 1 hora.</li>\n<li>Creas una baratija no mágica o una imagen ilusoria que puede caber en tu mano y que dura hasta el final de tu siguiente turno.</li>\n</ul>\n<p>Si lanzas este conjuro varias veces, puedes tener hasta tres de sus efectos no instantáneos activos a la vez, y puedes descartar tal efecto como una acción.</p>"
+              "description": "<p>Este conjuro es un truco mágico menor que los lanzadores de conjuros novatos utilizan para practicar. Creas uno de los siguientes efectos mágicos dentro del alcance:</p><ul><li>Creas un efecto sensorial instantáneo e inofensivo, como una lluvia de chispas, una ráfaga de viento, unas tenues notas musicales o un olor extraño.</li><li>Enciendes o apagas instantáneamente una vela, una antorcha o una pequeña hoguera.</li><li>Limpias o ensucias instantáneamente un objeto de no más de 1 pie cúbico.</li><li>Enfrías, calientas o das sabor a hasta 1 pie cúbico de materia inerte durante 1 hora.</li><li>Haces que aparezca un color, una pequeña marca o un símbolo en un objeto o superficie durante 1 hora.</li><li>Creas una baratija no mágica o una imagen ilusoria que quepa en tu mano y dure hasta el final de tu siguiente turno.</li></ul><p>Si lanzas este conjuro varias veces, puedes tener activos hasta tres de sus efectos no instantáneos a la vez, y puedes disipar uno de ellos como acción.</p>"
             },
             "aAXfDKtOh0Ibyzwk": {
               "name": "Manos ardientes",
-              "description": "<p>Mientras sostienes tus manos con los pulgares tocando y los dedos extendidos, una delgada hoja de llamas sale de tus dedos extendidos. Cada criatura en un cono de 15 pies debe hacer un lanzamiento de ahorro de Dexterity. Una criatura recibe 3d6 daños por incendio en un ahorro fallido, o la mitad de los daños en uno exitoso.</p><p>El fuego enciende cualquier objeto inflamable en la zona que no se lleva ni lleva.</p><p><strong>En los niveles superiores.</strong> Cuando lanzas este conjuro usando una espacio de conjuro de 2o nivel o superior, el daño aumenta en 1d6 por cada nivel de ranura por encima de 1o.</p>"
+              "description": "<p>Juntas los pulgares de ambas manos y extiendes los dedos; una fina lámina de llamas brota de sus puntas. Cada criatura en un cono de 15 pies debe realizar una tirada de salvación de Destreza. Sufre 3d6 de daño de fuego si falla, o la mitad si tiene éxito.</p><p>El fuego prende los objetos inflamables del área que nadie lleve puestos ni transporte.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro usando un espacio de nivel 2 o superior, el daño aumenta en 1d6 por cada nivel del espacio por encima de 1.</p>"
             },
             "XadhS5HR7sA12KCH": {
-              "name": "Esfera flamígera",
-              "description": "<p>Una esfera de fuego de 5 pies aparece en un espacio desocupado de su elección dentro del rango y dura durante la Duración. Cualquier criatura que termina su turno a menos de 5 pies de la esfera debe hacer un lanzamiento de ahorro de Dexterity. La criatura recibe 2d6 daños por incendio en una salvada fallida, o la mitad de daño en una exitosa.</p><p>Como una acción adicional, usted puede mover la Esfera hasta 30 pies. Si atas la esfera en una criatura, esa criatura debe hacer el lanzamiento de salvación contra el daño de la esfera, y la esfera deja de mover este giro.</p><p>Cuando se mueve la Esfera, se puede dirigir sobre barreras de hasta 5 pies de altura y saltar a través de pozos de hasta 10 pies de ancho. La esfera enciende objetos inflamables que no se llevan ni llevan, y arroja luz brillante en un radio de 20 pies y luz tenue por otros 20 pies.</p><p><strong>En los niveles superiores.</strong> Cuando lanzas este conjuro usando una espacio de conjuro de 3er nivel o superior, el daño aumenta en 1d6 para cada nivel de ranura por encima de 2do.</p>"
+              "name": "Esfera de llamas",
+              "description": "<p>Una esfera de fuego de 5 pies de diámetro aparece en un espacio desocupado que elijas dentro del alcance y permanece durante el conjuro. Una criatura que termine su turno a 5 pies o menos de la esfera debe realizar una tirada de salvación de Destreza. Sufre 2d6 de daño de fuego si falla, o la mitad si tiene éxito.</p><p>Como acción adicional, puedes mover la esfera hasta 30 pies. Si la haces chocar contra una criatura, esta debe realizar la tirada de salvación contra el daño de la esfera, que deja de moverse durante ese turno.</p><p>Cuando mueves la esfera, puedes hacer que supere barreras de hasta 5 pies de altura y que salte fosos de hasta 10 pies de anchura. La esfera prende los objetos inflamables que nadie lleve puestos ni transporte, y emite luz brillante en un radio de 20 pies y luz tenue 20 pies más allá.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro usando un espacio de nivel 3 o superior, el daño aumenta en 1d6 por cada nivel del espacio por encima de 2.</p>"
             },
             "LGSXIqfm9XSPKZZ2": {
               "name": "Reprensión infernal",
-              "description": "<p>Cuando eres dañado por una criatura a menos de 60 pies de ti que puedes ver, señalas tu dedo, y la criatura que te dañó está momentáneamente rodeada por llamas infernales. La criatura debe hacer un lanzamiento de ahorro de Dexterity. Se necesita 2d10 daños por incendio en un ahorro fallido, o la mitad del daño en uno exitoso.</p><p><strong>En los niveles superiores.</strong> Al lanzar este conjuro usando una espacio de conjuro de 2o nivel o superior, el daño aumenta en 1d10 por cada nivel de ranura por encima de 1o.</p>"
+              "description": "<p>Cuando una criatura que puedas ver a 60 pies o menos de ti te causa daño, la señalas con el dedo y unas llamas infernales la envuelven momentáneamente. La criatura debe realizar una tirada de salvación de Destreza. Sufre 2d10 de daño de fuego si falla, o la mitad si tiene éxito.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro usando un espacio de nivel 2 o superior, el daño aumenta en 1d10 por cada nivel del espacio por encima de 1.</p>"
             },
             "CvSuwIXzMICE0vEd": {
               "name": "Rayo abrasador",
-              "description": "<p>Creas tres rayos de fuego y los lanzas a objetivos a un alcance. Puedes lanzarlos a un blanco o varios.</p><p>Haga un ataque ortográfico de rango para cada rayo. En un golpe, el objetivo recibe 2d6 daños por incendio.</p><p><strong>Niveles superiores.</strong> Cuando usted lanza este conjuro usando una espacio de conjuro de 3er nivel o superior, usted crea un rayo adicional para cada nivel de ranura por encima de 2do.</p>"
+              "description": "<p>Creas tres rayos de fuego y los lanzas contra objetivos dentro del alcance. Puedes dirigirlos contra un solo objetivo o varios.</p><p>Realiza un ataque de conjuro a distancia por cada rayo. Si impactas, el objetivo sufre 2d6 de daño de fuego.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro usando un espacio de nivel 3 o superior, creas un rayo adicional por cada nivel del espacio por encima de 2.</p>"
             },
             "NHUTQvJN1c26xodr": {
-              "name": "Armadura de Mago",
-              "description": "<p>Tocas a una criatura dispuesta que no lleva armadura, y una fuerza mágica protectora la rodea hasta que el conjuro termina. La base AC del objetivo se convierte en 13 + su modificador de Dexterity. El conjuro termina si el objetivo usa armadura o si descartas el conjuro como una acción.</p>",
+              "name": "Armadura de mago",
+              "description": "<p>Tocas a una criatura voluntaria que no lleve armadura y una fuerza mágica protectora la envuelve hasta que termine el conjuro. La CA base del objetivo pasa a ser 13 + su modificador por Destreza. El conjuro termina si el objetivo se pone una armadura o si lo disipas como acción.</p>",
               "effects": {
                 "cfwMU7LuOJ619Lny": {
-                  "name": "Armadura de Mago",
-                  "description": "<p>La base AC del objetivo se convierte en 13 + su modificador de Dexterity.</p>"
+                  "name": "Armadura de mago",
+                  "description": "<p>La CA base del objetivo pasa a ser 13 + su modificador por Destreza.</p>"
                 }
               }
             },
             "xSnlyD0tsnZCLTGl": {
-              "name": "Difusión de conjuros innatos",
-              "description": "<p>La habilidad innata de la firenett para deletrear es Carisma. Puede fundir innatamente. <em>@UUID[.NHUTQvJN1c26xodr]{armadura de magos}</em> (solo por sí mismo) a voluntad, sin necesidad de componentes materiales.</p>"
+              "name": "Lanzamiento de Conjuros Innato",
+              "description": "<p>La aptitud mágica innata de la salamandra flamígera es Carisma. Puede lanzar de forma innata <em>@UUID[.NHUTQvJN1c26xodr]{armadura de mago}</em> a voluntad (solo sobre sí misma), sin componentes materiales.</p>"
             },
             "bg2uxad0zLzLfKmG": {
-              "name": "Armadura de Mago",
-              "description": "<p>Tocas a una criatura dispuesta que no lleva armadura, y una fuerza mágica protectora la rodea hasta que el conjuro termina. La base AC del objetivo se convierte en 13 + su modificador de Dexterity. El conjuro termina si el objetivo usa armadura o si descartas el conjuro como una acción.</p>",
+              "name": "Armadura de mago",
+              "description": "<p>Tocas a una criatura voluntaria que no lleve armadura y una fuerza mágica protectora la envuelve hasta que termine el conjuro. La CA base del objetivo pasa a ser 13 + su modificador por Destreza. El conjuro termina si el objetivo se pone una armadura o si lo disipas como acción.</p>",
               "effects": {
                 "cfwMU7LuOJ619Lny": {
-                  "name": "Armadura de Mago",
-                  "description": "<p>La base AC del objetivo se convierte en 13 + su modificador de Dexterity.</p>"
+                  "name": "Armadura de mago",
+                  "description": "<p>La CA base del objetivo pasa a ser 13 + su modificador por Destreza.</p>"
                 },
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             }
           },
-          "name": "Warlock de Imix de Firenett",
+          "name": "Salamandra flamígera bruja de Imix",
           "creatureSubtype": "Salamandra flamígera",
-          "senses": "penetra la oscuridad mágica",
-          "tokenName": "Warlock de Imix de Firenett",
-          "biography": "<p>En regiones que contienen fuentes termales, actividad volcánica, o condiciones similares de calor y humedad, se pueden encontrar fogatas. Algunos de estos anfibios humanoides viven en una teocracia militarista que venera a Imix, el Príncipe del Fuego Malvado. Los firenewts que adoran a los mix son agresivos, iracundos y crueles.</p><p>Los hechiceros de Firenewt de Imix ordenan a los guerreros de Firenewt que demuestren su valía yendo en redadas para traer de vuelta tesoros y cautivos. Los hechiceros toman el botín más selecto como diezmo a Imix, y luego los que participaron en la redada dividen el resto según el mérito. Prisioneros que no tienen utilidad aparente son sacrificados a Imix y luego comidos. Aquellos que son considerados capaces de minería y realizar otras tareas alrededor de la guarida de firenett se ven obligados a trabajar por un tiempo antes de enfrentar el mismo destino.</p>"
+          "senses": "Penetra en la oscuridad mágica",
+          "tokenName": "Salamandra flamígera bruja de Imix",
+          "biography": "<p>Las salamandras flamígeras habitan regiones con aguas termales, actividad volcánica u otras condiciones similares de calor y humedad. Algunos de estos anfibios humanoides viven en una teocracia militar que venera a Imix, el Príncipe del Fuego Malvado. Las salamandras flamígeras que adoran a Imix son agresivas, iracundas y crueles.</p><p>Las salamandras flamígeras brujas de Imix ordenan a las guerreras que demuestren su valía en incursiones para conseguir tesoros y cautivos. Las brujas se quedan con lo mejor del botín como diezmo para Imix; después, quienes participaron en la incursión se reparten el resto según sus méritos. Los prisioneros que no parecen tener ninguna utilidad son sacrificados a Imix y devorados. A quienes consideran capaces de trabajar en las minas o realizar otras tareas en la guarida los obligan a trabajar durante un tiempo antes de correr la misma suerte.</p>"
         },
         "x8SjVcKK8Cjzb5pK": {
           "alignment": "Neutral malvado",
           "items": {
             "QWjQnUWNoLWgmKGO": {
               "name": "Ataque múltiple",
-              "description": "<p>El firenett hace dos ataques con su [[/item Scimitar]].</p>"
+              "description": "<p>La salamandra flamígera realiza dos ataques con su [[/item Scimitar]]{Cimitarra}.</p>"
             },
             "fmqFZ6m3yuvRpZ8o": {
               "name": "Cimitarra",
@@ -2249,25 +2249,25 @@
             },
             "BDf7gctGYpMwqKjU": {
               "name": "Escudo",
-              "description": "<p>Un escudo está hecho de madera o metal y se lleva en una mano. Wieling un escudo aumenta su clase de armadura en 2. Sólo puedes beneficiarte de un escudo a la vez.</p>"
+              "description": "<p>Un escudo está hecho de madera o metal y se lleva en una mano. Empuñar un escudo aumenta tu Clase de Armadura en 2. Solo puedes beneficiarte de un escudo a la vez.</p>"
             },
             "2G9EiszoRzxwCscA": {
-              "name": "Escupe fuego.",
-              "description": "<p>El firenett escupe fuego a una criatura a menos de 10 pies de ella. La criatura debe hacer un [[/save format=long]], tomando [[/damage average]] daño en un error de guardar, o la mitad de daño en un éxito.</p>"
+              "name": "Escupir fuego",
+              "description": "<p>La salamandra flamígera escupe fuego a una criatura situada a 10 pies o menos de ella. La criatura debe realizar una [[/save format=long]]; sufre [[/damage average]] de daño si falla, o la mitad si tiene éxito.</p>"
             },
             "osUO2fDQavQ64pnH": {
-              "name": "Camisa de cadena",
-              "description": "<p>Hecho de anillos metálicos entrelazados, una camisa de cadena se usa entre capas de ropa o cuero. Esta armadura ofrece una protección modesta a la parte superior del cuerpo del usuario y permite que el sonido de los anillos frotarse unos contra otros para ser amortiguado por capas externas.</p>"
+              "name": "Camisa de malla",
+              "description": "<p>Una camisa de malla está hecha de anillas de metal entrelazadas y se lleva entre capas de ropa o cuero. Esta armadura ofrece una protección modesta al torso y permite amortiguar el ruido del roce de las anillas con las capas exteriores.</p>"
             },
             "g3YxElGUsrFWkGQ6": {
-              "name": "Anfibio",
-              "description": "<p>El firenett puede respirar aire y agua.</p>"
+              "name": "Anfibia",
+              "description": "<p>La salamandra flamígera puede respirar aire y agua.</p>"
             }
           },
-          "name": "Guerrero de Firenett",
+          "name": "Salamandra flamígera guerrera",
           "creatureSubtype": "Salamandra flamígera",
-          "tokenName": "Guerrero de Firenett",
-          "biography": "<p>En regiones que contienen fuentes termales, actividad volcánica, o condiciones similares de calor y humedad, se pueden encontrar fogatas. Algunos de estos anfibios humanoides viven en una teocracia militarista que venera a Imix, el Príncipe del Fuego Malvado. Los firenewts que adoran a los mix son agresivos, iracundos y crueles.</p>"
+          "tokenName": "Salamandra flamígera guerrera",
+          "biography": "<p>Las salamandras flamígeras habitan regiones con aguas termales, actividad volcánica u otras condiciones similares de calor y humedad. Algunos de estos anfibios humanoides viven en una teocracia militar que venera a Imix, el Príncipe del Fuego Malvado. Las salamandras flamígeras que adoran a Imix son agresivas, iracundas y crueles.</p>"
         },
         "9FfkXQxbWedZXLJE": {
           "name": "Caracol flagelo",
@@ -17737,7 +17737,7 @@
             },
             "KlveRM8vtlv2vY9P": {
               "name": "Salamandras flamígeras",
-              "text": "<p>En regiones que contienen fuentes termales, actividad volcánica, o condiciones similares de calor y humedad, se pueden encontrar fogatas. Algunos de estos anfibios humanoides viven en una teocracia militarista que venera a Imix, el Príncipe del Fuego Malvado. Los firenewts que adoran a los mix son agresivos, iracundos y crueles.</p><div><h2>Guerrero de Firenett</h2><p>@Embed[Actor.x8SjVcKK8Cjzb5pK caption=false cite=true statblock]</p></div><h2>Warlock de Imix de Firenett</h2><p>Los hechiceros de Firenewt de Imix ordenan a los guerreros de Firenewt que demuestren su valía yendo en redadas para traer de vuelta tesoros y cautivos. Los hechiceros toman el botín más selecto como diezmo a Imix, y luego los que participaron en la redada dividen el resto según el mérito. Prisioneros que no tienen utilidad aparente son sacrificados a Imix y luego comidos. Aquellos que son considerados capaces de minería y realizar otras tareas alrededor de la guarida de firenett se ven obligados a trabajar por un tiempo antes de enfrentar el mismo destino.</p><p>@Embed[Actor.Liyu5seJY0WL3Sf8 caption=false cite=true statblock]</p>"
+              "text": "<p>Las salamandras flamígeras habitan regiones con aguas termales, actividad volcánica u otras condiciones similares de calor y humedad. Algunos de estos anfibios humanoides viven en una teocracia militar que venera a Imix, el Príncipe del Fuego Malvado. Las salamandras flamígeras que adoran a Imix son agresivas, iracundas y crueles.</p><div><h2>Salamandra flamígera guerrera</h2><p>@Embed[Actor.x8SjVcKK8Cjzb5pK caption=false cite=true statblock]</p></div><h2>Salamandra flamígera bruja de Imix</h2><p>Las salamandras flamígeras brujas de Imix ordenan a las guerreras que demuestren su valía en incursiones para conseguir tesoros y cautivos. Las brujas se quedan con lo mejor del botín como diezmo para Imix; después, quienes participaron en la incursión se reparten el resto según sus méritos. Los prisioneros que no parecen tener ninguna utilidad son sacrificados a Imix y devorados. A quienes consideran capaces de trabajar en las minas o realizar otras tareas en la guarida los obligan a trabajar durante un tiempo antes de correr la misma suerte.</p><p>@Embed[Actor.Liyu5seJY0WL3Sf8 caption=false cite=true statblock]</p>"
             },
             "07OcWSNklHd1H0oT": {
               "name": "Grungs",
