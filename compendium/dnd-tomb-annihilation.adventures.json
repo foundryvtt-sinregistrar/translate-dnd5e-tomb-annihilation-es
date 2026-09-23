@@ -1728,36 +1728,36 @@
           "items": {
             "Sr7ZTAYd1TQ6Nfto": {
               "name": "Ataque múltiple",
-              "description": "<p>El doble hace dos ataques cuerpo a cuerpo.</p>"
+              "description": "<p>El doppelganger realiza dos ataques cuerpo a cuerpo.</p>"
             },
             "scZU8bs551DZRvgC": {
               "name": "Golpetazo",
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "descriptionChat": "<p>El Doppelganger ataca con su golpe.</p>"
+              "descriptionChat": "<p>El doppelganger ataca con su golpetazo.</p>"
             },
             "Cp2MgsVDDSRiF2aj": {
               "name": "Emboscador",
-              "description": "<p>En la primera ronda de un combate, el doble ha<strong> ventaja </strong>en los rollos de ataque contra cualquier criatura que ha sorprendido.</p>"
+              "description": "<p>Durante el primer asalto de un combate, el doppelganger tiene<strong> ventaja </strong>en las tiradas de ataque contra cualquier criatura a la que haya sorprendido.</p>"
             },
             "yfN4gklLV7zqhzxo": {
-              "name": "Ataque sorpresa",
-              "description": "<p>Si el doppelganger sorprende a una criatura y la golpea con un ataque durante la primera ronda de combate, el objetivo recibe un daño adicional de 10 (3d6) del ataque.</p>"
+              "name": "Ataque por Sorpresa",
+              "description": "<p>Si el doppelganger sorprende a una criatura y la impacta con un ataque durante el primer asalto del combate, el objetivo sufre 10 (3d6) de daño adicional por ese ataque.</p>"
             },
             "YIoB9xCKEcrrPRt9": {
-              "name": "Leer pensamientos",
-              "description": "<p>El doble lee mágicamente los pensamientos superficiales de una criatura a menos de 60 pies de distancia. El efecto puede penetrar barreras, pero 3 pies de madera o suciedad, 2 pies de piedra, 2 pulgadas de metal, o una delgada hoja de plomo lo bloquea.</p><p>Mientras el objetivo está en el rango, el doppelganger puede seguir leyendo sus pensamientos, siempre y cuando la concentración del doppelganger no esté rota (como si se concentrara en un conjuro). Mientras lee la mente del objetivo, el doppelganger tiene ventaja en Sabiduría (Insight) y Carisma (Decepción, Intimidación y Persuasión) comprueba contra el objetivo.</p>",
-              "descriptionChat": "<p>El doble lee mágicamente los pensamientos superficiales de una criatura a menos de 60 pies de distancia.</p>"
+              "name": "Leer Pensamientos",
+              "description": "<p>El doppelganger lee mágicamente los pensamientos superficiales de una criatura a 60 pies o menos. El efecto puede atravesar barreras, pero lo bloquean 3 pies de madera o tierra, 2 pies de piedra, 2 pulgadas de metal o una fina lámina de plomo.</p><p>Mientras el objetivo esté dentro del alcance, el doppelganger puede seguir leyendo sus pensamientos si no pierde la concentración (como si se concentrara en un conjuro). Mientras lee su mente, tiene ventaja en las pruebas de Sabiduría (Perspicacia) y Carisma (Engaño, Intimidación y Persuasión) contra ese objetivo.</p>",
+              "descriptionChat": "<p>El doppelganger lee mágicamente los pensamientos superficiales de una criatura a 60 pies o menos.</p>"
             },
             "cG4WdhcrTZt6rxUi": {
-              "name": "Cambio de forma",
-              "description": "<p>El doppelganger puede utilizar su acción para <strong>polimorf</strong> en un humanoide pequeño o medio que ha visto, o de vuelta en su forma verdadera.</p><p>Sus estadísticas, aparte de su tamaño, son las mismas en cada forma. Cualquier equipo que lleva o lleva no se transforma. Revierte a su verdadera forma si muere.</p>",
-              "descriptionChat": "<p>El doppelganger puede utilizar su acción para <strong>polimorf</strong> en un humanoide pequeño o medio que ha visto, o de vuelta en su forma verdadera.</p>"
+              "name": "Cambiaformas",
+              "description": "<p>El doppelganger puede usar su acción para <strong>transformarse</strong> en un humanoide Pequeño o Mediano que haya visto o volver a su verdadera forma.</p><p>Sus estadísticas, salvo su tamaño, son las mismas en ambas formas. El equipo que vista o lleve consigo no se transforma. Si muere, vuelve a su forma verdadera.</p>",
+              "descriptionChat": "<p>El doppelganger puede usar su acción para <strong>transformarse</strong> en un humanoide Pequeño o Mediano que haya visto o volver a su verdadera forma.</p>"
             }
           },
-          "name": "Doppelgänger",
-          "creatureSubtype": "Cambio de forma",
-          "tokenName": "Doppelgänger",
-          "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+          "name": "Doppelganger",
+          "creatureSubtype": "Cambiaformas",
+          "tokenName": "Doppelganger",
+          "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
         },
         "1Gp38SRQcEPAsgSG": {
           "name": "Dragonbait",
@@ -10328,36 +10328,36 @@
           "items": {
             "Sr7ZTAYd1TQ6Nfto": {
               "name": "Ataque múltiple",
-              "description": "<p>El doble hace dos ataques cuerpo a cuerpo.</p>"
+              "description": "<p>El doppelganger realiza dos ataques cuerpo a cuerpo.</p>"
             },
             "scZU8bs551DZRvgC": {
               "name": "Golpetazo",
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "descriptionChat": "<p>El Doppelganger ataca con su golpe.</p>"
+              "descriptionChat": "<p>El doppelganger ataca con su golpetazo.</p>"
             },
             "Cp2MgsVDDSRiF2aj": {
               "name": "Emboscador",
-              "description": "<p>En la primera ronda de un combate, el doble ha<strong> ventaja </strong>en los rollos de ataque contra cualquier criatura que ha sorprendido.</p>"
+              "description": "<p>Durante el primer asalto de un combate, el doppelganger tiene<strong> ventaja </strong>en las tiradas de ataque contra cualquier criatura a la que haya sorprendido.</p>"
             },
             "yfN4gklLV7zqhzxo": {
-              "name": "Ataque sorpresa",
-              "description": "<p>Si el doppelganger sorprende a una criatura y la golpea con un ataque durante la primera ronda de combate, el objetivo recibe un daño adicional de 10 (3d6) del ataque.</p>"
+              "name": "Ataque por Sorpresa",
+              "description": "<p>Si el doppelganger sorprende a una criatura y la impacta con un ataque durante el primer asalto del combate, el objetivo sufre 10 (3d6) de daño adicional por ese ataque.</p>"
             },
             "YIoB9xCKEcrrPRt9": {
-              "name": "Leer pensamientos",
-              "description": "<p>El doble lee mágicamente los pensamientos superficiales de una criatura a menos de 60 pies de distancia. El efecto puede penetrar barreras, pero 3 pies de madera o suciedad, 2 pies de piedra, 2 pulgadas de metal, o una delgada hoja de plomo lo bloquea.</p><p>Mientras el objetivo está en el rango, el doppelganger puede seguir leyendo sus pensamientos, siempre y cuando la concentración del doppelganger no esté rota (como si se concentrara en un conjuro). Mientras lee la mente del objetivo, el doppelganger tiene ventaja en Sabiduría (Insight) y Carisma (Decepción, Intimidación y Persuasión) comprueba contra el objetivo.</p>",
-              "descriptionChat": "<p>El doble lee mágicamente los pensamientos superficiales de una criatura a menos de 60 pies de distancia.</p>"
+              "name": "Leer Pensamientos",
+              "description": "<p>El doppelganger lee mágicamente los pensamientos superficiales de una criatura a 60 pies o menos. El efecto puede atravesar barreras, pero lo bloquean 3 pies de madera o tierra, 2 pies de piedra, 2 pulgadas de metal o una fina lámina de plomo.</p><p>Mientras el objetivo esté dentro del alcance, el doppelganger puede seguir leyendo sus pensamientos si no pierde la concentración (como si se concentrara en un conjuro). Mientras lee su mente, tiene ventaja en las pruebas de Sabiduría (Perspicacia) y Carisma (Engaño, Intimidación y Persuasión) contra ese objetivo.</p>",
+              "descriptionChat": "<p>El doppelganger lee mágicamente los pensamientos superficiales de una criatura a 60 pies o menos.</p>"
             },
             "cG4WdhcrTZt6rxUi": {
-              "name": "Cambio de forma",
-              "description": "<p>El doppelganger puede utilizar su acción para <strong>polimorf</strong> en un humanoide pequeño o medio que ha visto, o de vuelta en su forma verdadera.</p><p>Sus estadísticas, aparte de su tamaño, son las mismas en cada forma. Cualquier equipo que lleva o lleva no se transforma. Revierte a su verdadera forma si muere.</p>",
-              "descriptionChat": "<p>El doppelganger puede utilizar su acción para <strong>polimorf</strong> en un humanoide pequeño o medio que ha visto, o de vuelta en su forma verdadera.</p>"
+              "name": "Cambiaformas",
+              "description": "<p>El doppelganger puede usar su acción para <strong>transformarse</strong> en un humanoide Pequeño o Mediano que haya visto o volver a su verdadera forma.</p><p>Sus estadísticas, salvo su tamaño, son las mismas en ambas formas. El equipo que vista o lleve consigo no se transforma. Si muere, vuelve a su forma verdadera.</p>",
+              "descriptionChat": "<p>El doppelganger puede usar su acción para <strong>transformarse</strong> en un humanoide Pequeño o Mediano que haya visto o volver a su verdadera forma.</p>"
             }
           },
           "name": "Ishmakahl (doppelganger)",
-          "creatureSubtype": "Cambio de forma, Yuan-ti",
+          "creatureSubtype": "Cambiaformas, yuan-ti",
           "tokenName": "Ishmakahl",
-          "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+          "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
         },
         "toaJaro000000000": {
           "alignment": "Neutral bueno",
@@ -11037,76 +11037,76 @@
           "items": {
             "oqPGb8nUk9PzOgZl": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] Hace dos. [[/item Claw]] ataques.</p>"
+              "description": "<p>[[lookup @name]] realiza dos ataques de [[/item Claw]].</p>"
             },
             "lTrQZMOVP7JQn0EB": {
               "name": "Garra",
-              "description": "<p>[[/attack extended]]. [[/damage extended average]]. Si el objetivo es una criatura, debe tener éxito en un [[/save format=long]] o ser &amp;Reference[Frightened apply=false]{asustado.} hasta el final de [[lookup @name]]El próximo turno.</p>",
+              "description": "<p>[[/attack extended]]. [[/damage extended average]]. Si el objetivo es una criatura, debe superar una [[/save format=long]] o quedar &amp;Reference[Frightened apply=false]{asustado} hasta el final del siguiente turno de [[lookup @name]].</p>",
               "effects": {
                 "TVVq7HY49UQr5f6D": {
                   "name": "Asustado",
-                  "description": "<p>El objetivo es &amp;Reference[Frightened apply=false]{asustado.} hasta el final del siguiente turno del espantapájaros.</p>"
+                  "description": "<p>El objetivo está &amp;Reference[Frightened apply=false]{asustado} hasta el final del siguiente turno del espantapájaros.</p>"
                 }
               }
             },
             "jXN8C4o0UXHodwGU": {
-              "name": "Terrible resplandor",
-              "description": "<p>[[lookup @name]] apunta a una criatura que puede ver a menos de 30 pies de ella. Si el objetivo puede ver el espantapájaros, el objetivo debe tener éxito en un [[/save format=long]] o ser mágicamente &amp;Reference[Frightened apply=false]{asustado.} hasta el final de [[lookup @name]]El próximo turno. El objetivo asustado es &amp;Reference[Paralyzed apply=false]{paralizado}.</p>",
+              "name": "Mirada Aterradora",
+              "description": "<p>[[lookup @name]] elige como objetivo a una criatura que pueda ver a 30 pies o menos. Si el objetivo puede ver al espantapájaros, debe superar una [[/save format=long]] o quedar mágicamente &amp;Reference[Frightened apply=false]{asustado} hasta el final del siguiente turno de [[lookup @name]]. El objetivo asustado está &amp;Reference[Paralyzed apply=false]{paralizado}.</p>",
               "effects": {
                 "Nizs8cUCRmKdDRW8": {
                   "name": "Asustado y paralizado",
-                  "description": "<p>El objetivo es mágico. &amp;Reference[Frightened apply=false]{asustado.} hasta el final del siguiente turno del espantapájaros. El objetivo asustado es &amp;Reference[Paralyzed apply=false]{paralizado}.</p>"
+                  "description": "<p>El objetivo está mágicamente &amp;Reference[Frightened apply=false]{asustado} hasta el final del siguiente turno del espantapájaros. El objetivo asustado está &amp;Reference[Paralyzed apply=false]{paralizado}.</p>"
                 }
               }
             },
             "Fkj2iCJKW3fErqih": {
-              "name": "Apariencia falsa",
-              "description": "<p>Mientras [[lookup @name]] permanece inmóvil, es indistinguible de un espantapájaros común e inanimado.</p>"
+              "name": "Apariencia Falsa",
+              "description": "<p>Mientras [[lookup @name]] permanezca inmóvil, es indistinguible de un espantapájaros normal e inanimado.</p>"
             }
           },
-          "name": "Señor Threadneedle",
+          "name": "Don Remiendos",
           "creatureSubtype": "Espantapájaros",
-          "languages": "Comprende las lenguas de su creador pero no puede hablar",
-          "tokenName": "Señor Threadneedle",
-          "biography": "<p>El señor Threadneedle es un espantapájaros disfrazado de magia para parecer humano. En un bolsillo, lleva el ojo de bruja de las Hermanas Sewn y un mármol negro lustroso. El señor Threadneedle entiende Common pero no puede hablar. Se comunica asintiendo y agitando la cabeza, o con gestos y expresiones faciales.</p>"
+          "languages": "Entiende los idiomas de su creador, pero no puede hablar",
+          "tokenName": "Don Remiendos",
+          "biography": "<p>Don Remiendos es un espantapájaros disfrazado mediante magia para parecer humano. Lleva en un bolsillo el ojo de bruja de las Hermanas Cosidas y una canica negra lustrosa. Don Remiendos entiende común, pero no puede hablar. Se comunica asintiendo o negando con la cabeza, o mediante gestos y expresiones faciales.</p>"
         },
         "2meN7ftuFnNi1Sqh": {
           "alignment": "Caótico malvado",
           "items": {
             "oqPGb8nUk9PzOgZl": {
               "name": "Ataque múltiple",
-              "description": "<p>El espantapájaros hace dos [[/item Claw]] ataques.</p>"
+              "description": "<p>El espantapájaros realiza dos ataques de [[/item Claw]].</p>"
             },
             "lTrQZMOVP7JQn0EB": {
               "name": "Garra",
-              "description": "<p>[[/attack extended]]. [[/damage extended average]]. Si el objetivo es una criatura, debe tener éxito en un [[/save format=long]] o ser &amp;Reference[Frightened apply=false]{asustado.} hasta el final del siguiente turno del espantapájaros.</p>",
+              "description": "<p>[[/attack extended]]. [[/damage extended average]]. Si el objetivo es una criatura, debe superar una [[/save format=long]] o quedar &amp;Reference[Frightened apply=false]{asustado} hasta el final del siguiente turno del espantapájaros.</p>",
               "effects": {
                 "TVVq7HY49UQr5f6D": {
                   "name": "Asustado",
-                  "description": "<p>El objetivo es &amp;Reference[Frightened apply=false]{asustado.} hasta el final del siguiente turno del espantapájaros.</p>"
+                  "description": "<p>El objetivo está &amp;Reference[Frightened apply=false]{asustado} hasta el final del siguiente turno del espantapájaros.</p>"
                 }
               }
             },
             "jXN8C4o0UXHodwGU": {
-              "name": "Terrible resplandor",
-              "description": "<p>El espantapájaros apunta a una criatura que puede ver a menos de 30 pies de distancia. Si el objetivo puede ver el espantapájaros, el objetivo debe tener éxito en un [[/save format=long]] o ser mágicamente &amp;Reference[Frightened apply=false]{asustado.} hasta el final del siguiente turno del espantapájaros. El objetivo asustado es &amp;Reference[Paralyzed apply=false]{paralizado}.</p>",
+              "name": "Mirada Aterradora",
+              "description": "<p>El espantapájaros elige como objetivo a una criatura que pueda ver a 30 pies o menos. Si el objetivo puede ver al espantapájaros, debe superar una [[/save format=long]] o quedar mágicamente &amp;Reference[Frightened apply=false]{asustado} hasta el final del siguiente turno del espantapájaros. El objetivo asustado está &amp;Reference[Paralyzed apply=false]{paralizado}.</p>",
               "effects": {
                 "Nizs8cUCRmKdDRW8": {
                   "name": "Asustado y paralizado",
-                  "description": "<p>El objetivo es mágico. &amp;Reference[Frightened apply=false]{asustado.} hasta el final del siguiente turno del espantapájaros. El objetivo asustado es &amp;Reference[Paralyzed apply=false]{paralizado}.</p>"
+                  "description": "<p>El objetivo está mágicamente &amp;Reference[Frightened apply=false]{asustado} hasta el final del siguiente turno del espantapájaros. El objetivo asustado está &amp;Reference[Paralyzed apply=false]{paralizado}.</p>"
                 }
               }
             },
             "Fkj2iCJKW3fErqih": {
-              "name": "Apariencia falsa",
-              "description": "<p>Mientras que el espantapájaros permanece inmóvil, es indistinguible de un espantapájaros común e inanimado.</p>"
+              "name": "Apariencia Falsa",
+              "description": "<p>Mientras el espantapájaros permanezca inmóvil, es indistinguible de un espantapájaros normal e inanimado.</p>"
             }
           },
-          "name": "Sr. Threadneedle (Formulario de atención)",
+          "name": "Don Remiendos (forma de espantapájaros)",
           "creatureSubtype": "Espantapájaros",
-          "languages": "Comprende las lenguas de su creador pero no puede hablar",
-          "tokenName": "Señor Threadneedle",
-          "biography": "<p>El señor Threadneedle es un espantapájaros disfrazado de magia para parecer humano. En un bolsillo, lleva el ojo de bruja de las Hermanas Sewn y un mármol negro lustroso. El señor Threadneedle entiende Common pero no puede hablar. Se comunica asintiendo y agitando la cabeza, o con gestos y expresiones faciales.</p>"
+          "languages": "Entiende los idiomas de su creador, pero no puede hablar",
+          "tokenName": "Don Remiendos",
+          "biography": "<p>Don Remiendos es un espantapájaros disfrazado mediante magia para parecer humano. Lleva en un bolsillo el ojo de bruja de las Hermanas Cosidas y una canica negra lustrosa. Don Remiendos entiende común, pero no puede hablar. Se comunica asintiendo o negando con la cabeza, o mediante gestos y expresiones faciales.</p>"
         },
         "toaMotherSibonse": {
           "alignment": "Legal neutral",

@@ -2620,6 +2620,17 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Conservado el enlace por nombre `Tentacles` del carroñero para la revisión
   funcional general.
 
+### additional-disguises — Doppelgangers y Don Remiendos
+
+- Revisados doppelganger, Ishmakahl y las dos formas de Don Remiendos en ambas
+  copias: 152 registros. Las dos fichas de Don Remiendos comparten biografía,
+  contrastada con la página física 184 española; se mantiene «ojo de bruja».
+- Comprobados sorpresa, transformación, lectura de pensamientos y las
+  condiciones de miedo y parálisis del espantapájaros. Conservados los nombres
+  dinámicos de su forma humana y el enlace por nombre `Claw` para revisión
+  funcional. El campo de idiomas del espantapájaros conserva el genérico
+  «idiomas de su creador»; su biografía especifica que entiende común.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2629,11 +2640,11 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
   de Foundry, tres de créditos y cuatro de historial.
   No equivale a 931 páginas del PDF.
-- 14559 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 14559 campos distintos.
+- 14711 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 14711 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas ciento treinta y ocho biografías en ambas copias de actores: siete
-  príncipes, ciento veintisiete criaturas o PNJ vinculados al apéndice D y cuatro perfiles
+  insertado. Revisadas ciento cuarenta biografías en ambas copias de actores: siete
+  príncipes, ciento veintisiete criaturas o PNJ vinculados al apéndice D y seis perfiles
   adicionales. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
