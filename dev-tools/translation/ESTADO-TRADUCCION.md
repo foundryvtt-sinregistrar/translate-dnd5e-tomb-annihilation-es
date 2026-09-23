@@ -1939,6 +1939,18 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - El efecto del bastón conserva la referencia de estado mal formada ya
   detectada en el objeto raíz. Los conjuros se revisan en el bloque siguiente.
 
+### appendix-d-acererak-spells — Acererak: conjuros
+
+- Revisados los 112 campos restantes de ambas copias: lista de lanzamiento,
+  conjuros y efectos. Referencia física 210 para la selección y los nombres;
+  textos completos contrastados con el exportado inglés.
+- Conservadas las probabilidades de Teletransportarse, los requisitos de
+  Desplazamiento entre planos y los desencadenantes que terminan Parar el tiempo.
+  Rayo nauseabundo aparece como referencia al manual, sin objeto de conjuro.
+- Quedan revisados los textos no vacíos de Acererak. Junto con Artus y los
+  enanos albinos se cierran las fichas parciales de las páginas principales
+  del apéndice D; faltan sus páginas adicionales, variantes y copias de encuentros.
+
 ## Balance de revisión editorial
 
 - 802 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -1946,8 +1958,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
   del capítulo 4, 126 del capítulo 5 y 197 de los apéndices A, B, C, D y F.
   No equivale a 802 páginas del PDF.
-- 5359 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 5359 campos distintos.
+- 5471 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 5471 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas cincuenta y cinco biografías en ambas copias de actores: siete
   príncipes y cuarenta y ocho criaturas o PNJ del apéndice D. Siguen pendientes las demás
