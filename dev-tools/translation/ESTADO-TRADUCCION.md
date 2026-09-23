@@ -817,14 +817,26 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Conservadas las dos salvaciones distintas de la cascada: evitar caer y
   evitar el daño tras la caída. Auditorías técnica y editorial sin errores.
 
+### ch5-level1-hazards-01 a ch5-level1-hazards-06 — Fuente y trampas interiores
+
+- Revisados seis textos y títulos con referencias físicas 135-139.
+- Conservadas la atracción de todo tipo de metal, la protección del cuero,
+  el fallo por cinco del cofre y sus cinco asaltos de aire incluso fuera del agua.
+- Diferenciados los daños de la hélice según su velocidad y el atasco corporal.
+- Añadidos rótulos españoles a Asfixia y al estado apresado.
+- La atracción mágica repite el enlace incorrecto del original de «disipar
+  magia» a detectar magia. Pendiente técnico, igual que la cara de diablo.
+- La tabla insertada de efectos de la fuente queda pendiente de revisión propia.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 503 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 509 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4 y veinticuatro del capítulo 5. No equivale a 503 páginas del PDF.
-- 1116 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1116 campos distintos.
+  del capítulo 4 y treinta del capítulo 5. No equivale a 509 páginas del PDF.
+- 1128 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1128 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
