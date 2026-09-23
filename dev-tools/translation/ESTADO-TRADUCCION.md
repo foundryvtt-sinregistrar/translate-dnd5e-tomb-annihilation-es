@@ -2808,6 +2808,14 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Añadidas etiquetas españolas a los enlaces UUID de la lista innata,
   conservando sus destinos. Los enlaces por nombre de ataques siguen pendientes.
 
+### final-arcanaloth — Arcanaloth
+
+- Revisados 170 registros en ambas copias contra el exportado inglés,
+  incluidos los conjuros preparados e innatos y las restricciones de
+  Alterar el propio aspecto. Conservadas las cifras y los enlaces técnicos.
+- Disco flotante de Tenser y Fuerza fantasmal carecen de descripción en el
+  original exportado. Se revisan sus nombres sin inventar el contenido ausente.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2817,8 +2825,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
   de Foundry, tres de créditos y cuatro de historial.
   No equivale a 931 páginas del PDF.
-- 17187 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 17187 campos distintos.
+- 17357 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 17357 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento cuarenta y dos biografías en ambas copias de actores: siete
   príncipes, ciento veintisiete criaturas o PNJ vinculados al apéndice D y ocho perfiles
