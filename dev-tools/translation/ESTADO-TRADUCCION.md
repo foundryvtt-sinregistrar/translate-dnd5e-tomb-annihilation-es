@@ -2346,15 +2346,27 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   la diferencia entre aceptarla o resistirse, y los cambios de perfil de los
   cinco tipos. Conservadas las tiradas secretas de lealtad.
 
+### welcome-one — Entorno, clima y primeros pueblos de Chult
+
+- Revisadas cinco páginas, 10 campos, de Bienvenido a Chult: presentación,
+  clima, razas, chultanos y aarakocras. Referencias físicas 12–13.
+- Kir Sabal queda en la ribera oriental del Olung según el exportado inglés;
+  el PDF español dice occidental. Se conserva la orientación inglesa.
+- Conservadas las temperaturas y las medidas del exportado, las listas de
+  nombres chultanos y las condiciones de viaje durante tormentas. El comentario
+  técnico de la tirada de tormenta dice «resultado de 1», aunque la probabilidad
+  es 25 %; queda registrado para reparación y traducción del propio comentario.
+
 ## Balance de revisión editorial
 
-- 899 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 904 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
   del capítulo 4, 126 del capítulo 5, 288 de los apéndices A, B, C, D y F
-  y seis de reglas adicionales. No equivale a 899 páginas del PDF.
-- 10575 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 10575 campos distintos.
+  y seis de reglas adicionales, más cinco de Bienvenido a Chult.
+  No equivale a 904 páginas del PDF.
+- 10585 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 10585 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento treinta y cuatro biografías en ambas copias de actores: siete
   príncipes y ciento veintisiete criaturas o PNJ vinculados al apéndice D. Siguen pendientes las demás
