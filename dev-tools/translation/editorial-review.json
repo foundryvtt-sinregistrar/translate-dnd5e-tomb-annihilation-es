@@ -16150,6 +16150,35 @@
           "status": "reviewed-against-es-extraction-and-en-export"
         }
       ]
+    },
+    {
+      "id": "ch5-level6-nursery-01",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level6Crad.pages.PzFdAiKV7ySB1BOE.text",
+          "sourceSha256": "ad3874be673d2471624dc384e45a7dec45bfc65ebdc0fff7d666da4182c0b3a6",
+          "translationSha256": "e90c5b1798655a1aa3d90d3bb0870d7f5e3881b28fc31fe2980fcadfb40fda2d",
+          "pdfEsPages": [
+            185,
+            186,
+            187
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level6Crad.pages.PzFdAiKV7ySB1BOE.name",
+          "sourceSha256": "58dc6b1ba68e474ca7153c655855de877fc6d819334e5da34da067e95e2ffbe8",
+          "translationSha256": "c77194721ab5a53cca5522e36a565bb360a2b595812e8c22c639bdf68e94681f",
+          "pdfEsPages": [
+            185,
+            186,
+            187
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
     }
   ]
 }

@@ -1189,14 +1189,29 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Conservados el falso foso, la altura real, el daño recurrente y el único uso.
 - Auditorías técnica y editorial sin errores.
 
+### ch5-level6-nursery-01 — Almero, atropal y Acererak
+
+- Revisado texto y título con referencias físicas 185-187.
+- Separadas la liberación de almas al destruir el Almero y la llegada de
+  Acererak al morir el atropal. La rotura de un puntal derriba los otros dos.
+- Conservados respuesta de tentáculos por turno, límites de peso y alcance,
+  caídas, vulnerabilidades y beneficios mientras se ve a Acererak.
+- La huida ocurre en el siguiente turno al bajar de 100 PG; destruir el cuerpo
+  no destruye la filacteria remota. La esfera no atraviesa el portal por sí sola.
+- El comentario del dado de filacterias dice «resultado 1» aunque el umbral
+  implementa el 10 % correcto. Se conserva el comando; pendiente de ajuste técnico.
+- Los enlaces del atropal y Acererak al apéndice D repiten el destino genérico
+  ya anotado; el enlace de introducción y el fragmento `#mist-gate` requieren revisión.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 600 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 601 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4 y 121 del capítulo 5. No equivale a 600 páginas del PDF.
-- 1310 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1310 campos distintos.
+  del capítulo 4 y 122 del capítulo 5. No equivale a 601 páginas del PDF.
+- 1312 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1312 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
