@@ -1414,15 +1414,28 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   aunque la fórmula implementa correctamente la probabilidad del 20 %.
 - Auditorías técnica y editorial sin errores.
 
+### appendix-b-ambushes — Emboscadas y encuentros mágicos
+
+- Revisadas doce páginas (24 registros), con referencias físicas 197 y 201–204:
+  goblins, grungs, jaculis, kamadans, hombres lagarto, bruma mágica, magmins,
+  atrapahombres, mephits, saga de la noche, hombres pterodáctilo y plantas raras.
+- Conservados avisos nocturnos con desventaja, recompensas y condiciones de
+  retirada. La bruma usa la fiebre de la bruma azul del módulo actualizado.
+- Añadido el comentario de probabilidad de crías de kamadan a los pendientes:
+  fórmula del 25 % correcta, comentario inglés «result of 1» incorrecto.
+  La etiqueta interna `Plant Type` del Embed queda para comprobar presentación.
+- Auditorías técnica y editorial sin errores. La página de plantas raras
+  contiene un Embed; su tabla se revisará como documento independiente.
+
 ## Balance de revisión editorial
 
-- 686 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 698 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 81 de los apéndices A, B, C y F.
-  No equivale a 686 páginas del PDF.
-- 1726 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1726 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 93 de los apéndices A, B, C y F.
+  No equivale a 698 páginas del PDF.
+- 1750 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1750 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
