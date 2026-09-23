@@ -16023,6 +16023,81 @@
           "status": "reviewed-against-es-extraction-and-en-export"
         }
       ]
+    },
+    {
+      "id": "ch5-level6-trials1-01",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level6Crad.pages.NpgeBXiR1JvHMZmR.text",
+          "sourceSha256": "1277b8e3ac111398b5f2bc6edf8817a697cec444333aaf32a41786c835b7e03a",
+          "translationSha256": "25761806860e758134c7756ce532c576f78dd42e578d1c784ae872dbe4532157",
+          "pdfEsPages": [
+            182
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level6Crad.pages.NpgeBXiR1JvHMZmR.name",
+          "sourceSha256": "854aecd0ebd8da0814c64979fbbbd59786f95e34f5ad5e6401c08288a9cab089",
+          "translationSha256": "6c3eee8e6193e56022dfbff5455be520795fdaa1d738caaf827656e48c84555f",
+          "pdfEsPages": [
+            182
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch5-level6-trials1-02",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level6Crad.pages.1C6vpKsrJyuYWxzx.text",
+          "sourceSha256": "36aa9eeb54e01e5488fb5f1d10e1866639fb3ba8c2e841732e4df0b8f95f2e95",
+          "translationSha256": "a39c8432eaee70fe23471ca7501012a6ee5e1058a490c34ee4afe8647bcb93c9",
+          "pdfEsPages": [
+            183
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level6Crad.pages.1C6vpKsrJyuYWxzx.name",
+          "sourceSha256": "c3c229253770a7b24ca476bdccdd5c6808cc28b789883056ce19b3c36159480c",
+          "translationSha256": "e5244f2984aa08916db665cf16bc7f9ff88523f6a4e0dfb46232e8a510926988",
+          "pdfEsPages": [
+            183
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch5-level6-trials1-03",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level6Crad.pages.Hf49VaTDGA9k3jtl.text",
+          "sourceSha256": "d5b55ae2f030b85043c7b01fd32044329770e41a295d3e4bbe3b416bafa86b65",
+          "translationSha256": "a652600f7fe9416bef725ef90a2f1bce154052d2a9a31bd9c9d522160be9e31f",
+          "pdfEsPages": [
+            184
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level6Crad.pages.Hf49VaTDGA9k3jtl.name",
+          "sourceSha256": "ef08e9ae29803c0ab010b781b03479474c8989b5a22038aea6d8ea68af43f361",
+          "translationSha256": "f55e1c00b0936564a67b42f4442c7d9bc4c51377d641d70d752d27aaf602b97f",
+          "pdfEsPages": [
+            184
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
     }
   ]
 }

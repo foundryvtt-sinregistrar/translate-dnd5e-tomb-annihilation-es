@@ -1164,14 +1164,27 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   se conserva y queda pendiente de corrección en la revisión funcional.
 - Auditorías técnica y editorial sin errores.
 
+### ch5-level6-trials1-01 a ch5-level6-trials1-03 — Primeras pruebas
+
+- Revisados tres textos y títulos con referencias físicas 182-184.
+- Conservadas las alternativas mágicas y geométricas del cilindro y la palanca.
+- Torbellino daña a todas las criaturas empatadas con el resultado más bajo,
+  conforme al original plural. Las órdenes Bicharraco, Escupitajo y Torbellino
+  deberán coincidir con las actividades del mephit al revisar sus fichas.
+- Diferenciados beneficios, perjuicios ocultos y automatización del banquete.
+  La maldición por hambre afecta a quien sale sin haber comido ni bebido.
+- Sustituida la etiqueta errónea «Revert Transformoration» por una descripción
+  de la opción. Su ubicación y «Illusory» requieren comprobación de interfaz.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 595 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 598 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4 y 116 del capítulo 5. No equivale a 595 páginas del PDF.
-- 1300 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1300 campos distintos.
+  del capítulo 4 y 119 del capítulo 5. No equivale a 598 páginas del PDF.
+- 1306 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1306 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
