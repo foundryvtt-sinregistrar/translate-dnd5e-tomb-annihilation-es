@@ -2505,6 +2505,18 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Conservadas las causas que terminan Invisibilidad, incluida la concentración,
   y el radio variable de iluminación de 5 a 20 pies.
 
+### additional-named-one — PNJ de Puerto Nyanzaru, piratas y Omu
+
+- Revisados 482 campos de Belym, Draza, Artista ciego, Caldos Hellingskorn,
+  Dyrax, Thazma, Yamoch y Zagmira, en ambas copias. Referencias físicas 18,
+  60, 94–95 y 165; perfiles contra el inglés y conjuros idénticos reutilizados
+  de las versiones ya revisadas. Comprobados los enlaces de las listas mágicas.
+- Revisadas dos biografías narrativas, las de Belym y Draza, con sus enlaces
+  cruzados y recompensa de 25 pp. El alineamiento de Draza figura como «Any»
+  en el perfil, frente a LB en la biografía y el PDF; se conserva y registra.
+- Los cuatro Magos Rojos carecen de biografía exportada. No se añade texto
+  narrativo ni se confunde el crédito artístico de los otros PNJ con biografía.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2514,11 +2526,12 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
   de Foundry, tres de créditos y cuatro de historial.
   No equivale a 931 páginas del PDF.
-- 12545 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 12545 campos distintos.
+- 13027 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 13027 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas ciento treinta y cuatro biografías en ambas copias de actores: siete
-  príncipes y ciento veintisiete criaturas o PNJ vinculados al apéndice D. Siguen pendientes las demás
+  insertado. Revisadas ciento treinta y seis biografías en ambas copias de actores: siete
+  príncipes, ciento veintisiete criaturas o PNJ vinculados al apéndice D y dos PNJ
+  adicionales. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las
