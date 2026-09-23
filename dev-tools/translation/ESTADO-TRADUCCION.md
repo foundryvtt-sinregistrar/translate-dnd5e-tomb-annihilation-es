@@ -2609,6 +2609,17 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Conservados los enlaces por nombre a armas y ataques para su comprobación
   funcional, así como las referencias automáticas a condiciones y conjuros.
 
+### additional-monsters-two — Broza, mimeto, otyugh y carroñero
+
+- Revisadas las cuatro fichas en ambas copias: 148 registros contrastados con
+  el exportado inglés. «Mimeto» sustituye a «Mímico», conforme a la página
+  física 140 de la extracción española.
+- Comprobados los límites de tamaño de agarres, la absorción de una sola
+  criatura por la broza y sus salvaciones al comienzo del turno de esta, así
+  como la progresión de la enfermedad del otyugh cada 24 horas y su curación.
+- Conservado el enlace por nombre `Tentacles` del carroñero para la revisión
+  funcional general.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2618,8 +2629,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
   de Foundry, tres de créditos y cuatro de historial.
   No equivale a 931 páginas del PDF.
-- 14411 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 14411 campos distintos.
+- 14559 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 14559 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento treinta y ocho biografías en ambas copias de actores: siete
   príncipes, ciento veintisiete criaturas o PNJ vinculados al apéndice D y cuatro perfiles

@@ -280,43 +280,43 @@
       "items": {
         "2aGoBVVEF54VcC9d": {
           "name": "Ataque múltiple",
-          "description": "<p>El montículo vergonzoso hace dos [[/item .lOIA9YKQU8xSx7Lj]]{slam} ataques. Si ambos ataques alcanzaron un objetivo medio o menor, el objetivo es &amp;Reference[grappled apply=false]{forcejeado} (escape CD 14), y el montículo desvergonzado utiliza su [[/item .N42BQALoCmeYphD1]]{Engulf} en él.</p>",
+          "description": "<p>La broza movediza realiza dos ataques de [[/item .lOIA9YKQU8xSx7Lj]]{golpetazo}. Si ambos impactan a un objetivo Mediano o más pequeño, este está &amp;Reference[grappled apply=false]{agarrado} (CD 14 para escapar) y la broza usa [[/item .N42BQALoCmeYphD1]]{Absorber} sobre él.</p>",
           "activities": {
             "YnbUPNx5josqhF06": {
-              "name": "Comprobación de escape"
+              "name": "Prueba para escapar"
             }
           },
           "effects": {
             "11uoe4YRp5xy1krG": {
               "name": "Agarrado",
-              "description": "<p>El objetivo es &amp;Reference[grappled apply=false]{forcejeado} (escape CD 14)</p>"
+              "description": "<p>El objetivo está &amp;Reference[grappled apply=false]{agarrado} (CD 14 para escapar)</p>"
             }
           }
         },
         "lOIA9YKQU8xSx7Lj": {
           "name": "Golpetazo",
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-          "descriptionChat": "<p>El Mound Shambling ataca con su Slam.</p>"
+          "descriptionChat": "<p>La broza movediza ataca con su golpetazo.</p>"
         },
         "gyAyLX9CJBbawmr3": {
-          "name": "Absorción de rayos",
-          "description": "<p>Cada vez que el montículo desvergonzado es sometido a daños por rayos, no se necesita daño y recupera una serie de puntos de impacto igual a los daños por rayos repartidos.</p>"
+          "name": "Absorción de Relámpagos",
+          "description": "<p>Cuando la broza movediza se ve sometida a daño de relámpago, no sufre daño y recupera tantos puntos de golpe como el daño de relámpago que habría recibido.</p>"
         },
         "N42BQALoCmeYphD1": {
-          "name": "Engullir",
-          "description": "<p>El montículo desvergonzado envuelve a una criatura Mediana o pequeña que se enfrenta a ella. El objetivo envuelto es &amp;Reference[blinded apply=false]{cegado}, &amp;Reference[restrained apply=false]{restringidos}, e incapaz de respirar, y debe tener éxito en un [[/save con 14 format=long]] al comienzo de cada uno de los turnos del montículo o tomar [[/damage 2d8 + 4 bludgeoning]] daño.</p><p>Si el montículo se mueve, el objetivo envuelto se mueve con él. El montículo sólo puede tener una criatura envuelta a la vez.</p>",
-          "descriptionChat": "<p>El montículo desvergonzado envuelve a una criatura Mediana o pequeña que se enfrenta a ella. El objetivo envuelto es cegado, restringido, y no puede respirar, y debe hacer un <strong>Constitución</strong> ahorro lanzamiento en el comienzo de cada uno de los turnos del montículo. Si el montículo se mueve, el objetivo envuelto se mueve con él.</p>",
+          "name": "Absorber",
+          "description": "<p>La broza movediza absorbe a una criatura Mediana o más pequeña que tenga agarrada. El objetivo absorbido está &amp;Reference[blinded apply=false]{cegado} y &amp;Reference[restrained apply=false]{apresado}, no puede respirar y debe superar una [[/save con 14 format=long]] al comienzo de cada turno de la broza o sufrir [[/damage 2d8 + 4 bludgeoning]] de daño.</p><p>Si la broza se mueve, el objetivo absorbido se mueve con ella. La broza solo puede tener una criatura absorbida a la vez.</p>",
+          "descriptionChat": "<p>La broza movediza absorbe a una criatura Mediana o más pequeña que tenga agarrada. El objetivo absorbido está cegado y apresado, no puede respirar y debe realizar una tirada de salvación de <strong>Constitución</strong> al comienzo de cada turno de la broza. Si esta se mueve, el objetivo absorbido se mueve con ella.</p>",
           "activities": {
             "dnd5eactivity000": {
-              "name": "Guardar: Inicio de la vuelta"
+              "name": "Salvación: comienzo del turno"
             }
           }
         }
       },
-      "name": "Mondo de Shambling",
-      "senses": "Ciego más allá de este radio",
-      "tokenName": "Mondo de Shambling",
-      "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+      "name": "Broza movediza",
+      "senses": "Ciega más allá de este radio",
+      "tokenName": "Broza movediza",
+      "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
     },
     "2meN7ftuFnNi1Sqh": {
       "alignment": "Caótico malvado",
@@ -4767,36 +4767,36 @@
         "HgNW3DcqMvGVXO7s": {
           "name": "Mordisco",
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-          "descriptionChat": "<p>El Mimic ataca con su mordida.</p>"
+          "descriptionChat": "<p>El mimeto ataca con su mordisco.</p>"
         },
         "DOyBdRdgMxLm9BIh": {
-          "name": "Cambio de forma",
-          "description": "<p>La imitación puede utilizar su acción para <strong>polimorf</strong> en un objeto o volver a su verdadera forma amorfa. Sus estadísticas son las mismas en cada forma. </p><p>Cualquier equipo que lleva o lleva no se transforma. Revierte a su verdadera forma si muere.</p>",
-          "descriptionChat": "<p>La imitación puede utilizar su acción para <strong>polimorf</strong> en un objeto o volver a su verdadera forma amorfa. </p>"
+          "name": "Cambiaformas",
+          "description": "<p>El mimeto puede usar su acción para <strong>transformarse</strong> en un objeto o volver a su verdadera forma amorfa. Sus estadísticas son las mismas en ambas formas.</p><p>El equipo que vista o lleve consigo no se transforma. Si muere, vuelve a su forma verdadera.</p>",
+          "descriptionChat": "<p>El mimeto puede usar su acción para <strong>transformarse</strong> en un objeto o volver a su verdadera forma amorfa.</p>"
         },
         "aPL8wE2ARwh9JFeX": {
           "name": "Adhesivo (solo en forma de objeto)",
-          "description": "<p>La imitación se adhiere a cualquier cosa que la toque. Una criatura enorme o más pequeña adherida a la imitación también es luchada por ella <strong>escapar CD 13</strong>. Los controles de habilidad realizados para escapar de este garfio tienen desventajas.</p>",
-          "descriptionChat": "<p>La imitación se adhiere a cualquier cosa que la toque. Una criatura enorme o más pequeña adherida a la imitación también es luchada por ella. Haga un chequeo de escape, con desventaja.</p>"
+          "description": "<p>El mimeto se adhiere a cualquier cosa que lo toque. Una criatura Enorme o más pequeña adherida al mimeto también está agarrada por él (<strong>CD 13 para escapar</strong>). Las pruebas de característica para escapar de este agarre tienen desventaja.</p>",
+          "descriptionChat": "<p>El mimeto se adhiere a cualquier cosa que lo toque. Una criatura Enorme o más pequeña adherida al mimeto también está agarrada por él. Realiza una prueba para escapar con desventaja.</p>"
         },
         "7g1LwEync57GwqV0": {
-          "name": "Apariencia falsa (solo forma objeto)",
-          "description": "<p>Mientras que la imitación permanece inmóvil, es indistinguible de un objeto ordinario.</p>"
+          "name": "Apariencia Falsa (solo en forma de objeto)",
+          "description": "<p>Mientras el mimeto permanezca inmóvil, es indistinguible de un objeto normal.</p>"
         },
         "sGiOJWWFPPQ6J5Zm": {
           "name": "Luchador",
-          "description": "<p>La imitación tiene<strong> ventaja </strong>en los rollos de ataque contra cualquier criatura luchada por ella.</p>"
+          "description": "<p>El mimeto tiene<strong> ventaja </strong>en las tiradas de ataque contra cualquier criatura que tenga agarrada.</p>"
         },
         "qHJyEXRC7oExTjES": {
           "name": "Pseudópodo",
-          "description": "<p>[[/attack extended]]. [[/damage extended]]. </p><p>Si la imitación está en forma de objeto, el objetivo está sujeto a su rasgo adhesivo.</p>",
-          "descriptionChat": "<p>El Mimic ataca con su Pseudopod.</p>"
+          "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>Si el mimeto está en forma de objeto, el objetivo queda sometido a su atributo Adhesivo.</p>",
+          "descriptionChat": "<p>El mimeto ataca con su pseudópodo.</p>"
         }
       },
-      "name": "Mímico",
-      "creatureSubtype": "Cambio de forma",
-      "tokenName": "Mímico",
-      "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+      "name": "Mimeto",
+      "creatureSubtype": "Cambiaformas",
+      "tokenName": "Mimeto",
+      "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
     },
     "dbM4sT1yZLbnZR2a": {
       "alignment": "Neutral malvado",
@@ -5776,37 +5776,37 @@
       "items": {
         "CCawltKiVU4Mup9i": {
           "name": "Mordisco",
-          "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>Si el objetivo es una criatura, debe tener éxito en un [[/save]] ahorro lanzamiento contra la enfermedad o convertirse en &amp;Reference[poisoned apply=false] hasta que la enfermedad se cure. Cada 24 horas que transcurra, el objetivo debe repetir el lanzamiento de ahorro, reduciendo su punto de impacto máximo en 5 ([[/r 1d10]]) en un fracaso. La enfermedad se cura con un éxito. El objetivo muere si la enfermedad reduce su punto de impacto máximo a 0. Esta reducción al punto de impacto máximo del objetivo dura hasta que la enfermedad se cura.</p>",
-          "descriptionChat": "<p>El Otyugh ataca con su mordida. Si el objetivo es una criatura, debe hacer un <strong>Constitución</strong> El lanzamiento de ahorro. Cada 24 horas que transcurra, el objetivo debe repetir el lanzamiento de ahorro.</p>"
+          "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>Si el objetivo es una criatura, debe superar una tirada de salvación [[/save]] contra enfermedad o quedar &amp;Reference[poisoned apply=false] hasta que se cure la enfermedad. Cada 24 horas debe repetir la salvación; si falla, sus puntos de golpe máximos se reducen en 5 ([[/r 1d10]]). Si tiene éxito, se cura la enfermedad. El objetivo muere si la enfermedad reduce sus puntos de golpe máximos a 0. Esta reducción dura hasta que se cure la enfermedad.</p>",
+          "descriptionChat": "<p>El otyugh ataca con su mordisco. Si el objetivo es una criatura, debe realizar una tirada de salvación de <strong>Constitución</strong>. Debe repetir la salvación cada 24 horas.</p>"
         },
         "O9otNESvCCUdwYhc": {
           "name": "Ataque múltiple",
-          "description": "<p>El otyugh hace tres ataques: uno con su [[/item .CCawltKiVU4Mup9i]]{mordedura} y dos con su [[/item .BPYsBEkmZMcGYZDh]]{tentáculos}.</p>"
+          "description": "<p>El otyugh realiza tres ataques: uno con su [[/item .CCawltKiVU4Mup9i]]{mordisco} y dos con sus [[/item .BPYsBEkmZMcGYZDh]]{tentáculos}.</p>"
         },
         "z8zfieQSSbMtBNQz": {
-          "name": "Telepatía limitada",
-          "description": "<p>El otyugh puede transmitir mágicamente mensajes e imágenes simples a cualquier criatura a menos de 120 pies de distancia que pueda entender un lenguaje. Esta forma de telepatía no permite que la criatura receptora responda telepáticamente.</p>"
+          "name": "Telepatía Limitada",
+          "description": "<p>El otyugh puede transmitir mágicamente mensajes e imágenes sencillos a cualquier criatura a 120 pies o menos que pueda entender un idioma. Esta forma de telepatía no permite que la criatura receptora responda telepáticamente.</p>"
         },
         "BPYsBEkmZMcGYZDh": {
           "name": "Tentáculo",
-          "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>Si el objetivo es mediano o más pequeño, es &amp;Reference[grappled apply=false] (escape CD 13) y &amp;Reference[restrained apply=false] hasta que termine el garfio. El Otyugh tiene dos tentáculos, cada uno de los cuales puede alcanzar un objetivo.</p>",
-          "descriptionChat": "<p>El Otyugh ataca con su Tentacle. Si el objetivo es mediano o más pequeño, se lucha, y se sujeta hasta que termina la garra. El Otyugh tiene dos tentáculos, cada uno de los cuales puede alcanzar un objetivo.</p>",
+          "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>Si el objetivo es Mediano o más pequeño, está &amp;Reference[grappled apply=false] (CD 13 para escapar) y &amp;Reference[restrained apply=false] hasta que termine el agarre. El otyugh tiene dos tentáculos, cada uno de los cuales puede agarrar a un objetivo.</p>",
+          "descriptionChat": "<p>El otyugh ataca con su tentáculo. Si el objetivo es Mediano o más pequeño, está agarrado y apresado hasta que termine el agarre. El otyugh tiene dos tentáculos, cada uno de los cuales puede agarrar a un objetivo.</p>",
           "activities": {
             "0FnsYhnPmAYDSTOg": {
-              "name": "Comprobación de escape"
+              "name": "Prueba para escapar"
             }
           }
         },
         "9d1ZhvT1vIJsNnN1": {
-          "name": "Golpe de tentáculo",
-          "description": "<p>Las otyugh slams criaturas forcejeadas por ella en el otro o una superficie sólida. Cada criatura debe tener éxito en un [[/save format=long]] o tomar [[/damage average]] daños y ser &amp;Reference[stunned apply=false] hasta el final de la próxima vuelta del Otyugh.</p><p>En una salvada exitosa, el objetivo recibe la mitad del daño por apaleamiento y no está aturdido.</p>",
-          "descriptionChat": "<p>Las otyugh slams criaturas forcejeadas por ella en el otro o una superficie sólida. Cada criatura debe hacer un <strong>Constitución</strong> El lanzamiento de ahorro.</p>"
+          "name": "Golpetazo de Tentáculos",
+          "description": "<p>El otyugh golpea a las criaturas que tiene agarradas entre sí o contra una superficie sólida. Cada criatura debe superar una [[/save format=long]] o sufrir [[/damage average]] de daño y quedar &amp;Reference[stunned apply=false] hasta el final del siguiente turno del otyugh.</p><p>Si tiene éxito en la salvación, el objetivo sufre la mitad del daño contundente y no queda aturdido.</p>",
+          "descriptionChat": "<p>El otyugh golpea a las criaturas que tiene agarradas entre sí o contra una superficie sólida. Cada criatura debe realizar una tirada de salvación de <strong>Constitución</strong>.</p>"
         }
       },
       "name": "Otyugh",
       "languages": "Otyugh",
       "tokenName": "Otyugh",
-      "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+      "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
     },
     "kdBm5PRKK01jogvR": {
       "alignment": "Legal bueno",
@@ -8000,7 +8000,7 @@
       "items": {
         "asEIZLAQkt4oQHdM": {
           "name": "Ataque múltiple",
-          "description": "<p>El rastreador de carroña hace dos ataques: uno con su [[/item Tentacles]] y uno con su mordida.</p>"
+          "description": "<p>El carroñero reptante realiza dos ataques: uno con sus [[/item Tentacles]] y otro con su mordisco.</p>"
         },
         "33MayKSEUuJ6Jril": {
           "name": "Mordisco",
@@ -8008,21 +8008,21 @@
         },
         "BM7hVQi2jKDEQnZ3": {
           "name": "Tentáculos",
-          "description": "<p>[[/attack extended]]. [[/damage extended average]], y el objetivo debe tener éxito en un [[/save con 13 format=long]]o ser &amp;Reference[Poisoned apply=false]{envenenado} durante 1 minuto. </p><p>Hasta que este veneno termine, el objetivo es &amp;Reference[Paralyzed apply=false]{paralizado}. El objetivo puede repetir el lanzamiento de ahorro al final de cada uno de sus turnos, poniendo fin al veneno en sí mismo en un éxito.</p>",
+          "description": "<p>[[/attack extended]]. [[/damage extended average]], y el objetivo debe superar una [[/save con 13 format=long]] o quedar &amp;Reference[Poisoned apply=false]{envenenado} durante 1 minuto.</p><p>Hasta que termine este envenenamiento, el objetivo está &amp;Reference[Paralyzed apply=false]{paralizado}. Puede repetir la salvación al final de cada uno de sus turnos y terminar el envenenamiento sobre sí mismo si tiene éxito.</p>",
           "effects": {
             "I7PVuvbwBrHS85Fq": {
-              "name": "Envenenado y Paralizado",
-              "description": "<p>El objetivo es &amp;Reference[Poisoned apply=false]{envenenado} durante 1 minuto. </p><p>Hasta que este veneno termine, el objetivo es &amp;Reference[Paralyzed apply=false]{paralizado}. El objetivo puede repetir el lanzamiento de ahorro al final de cada uno de sus turnos, poniendo fin al veneno en sí mismo en un éxito.</p>"
+              "name": "Envenenado y paralizado",
+              "description": "<p>El objetivo está &amp;Reference[Poisoned apply=false]{envenenado} durante 1 minuto.</p><p>Hasta que termine este envenenamiento, el objetivo está &amp;Reference[Paralyzed apply=false]{paralizado}. Puede repetir la salvación al final de cada uno de sus turnos y terminar el envenenamiento sobre sí mismo si tiene éxito.</p>"
             }
           }
         },
         "ErUP99o0G8ybTRbp": {
-          "name": "Olor a queso",
-          "description": "<p>Los [[lookup @name lowercase]] tiene ventaja en la Sabiduría (percepción) controles que dependen del olor.</p>"
+          "name": "Olfato Agudo",
+          "description": "<p>El [[lookup @name lowercase]] tiene ventaja en las pruebas de Sabiduría (Percepción) que dependan del olfato.</p>"
         },
         "DkLgVEUfWZj2EgE6": {
-          "name": "Escalada de arañas",
-          "description": "<p>Los [[lookup @name lowercase]] puede subir superficies difíciles, incluso boca abajo en los techos, sin necesidad de hacer una comprobación de capacidad.</p>"
+          "name": "Trepar cual Arácnido",
+          "description": "<p>El [[lookup @name lowercase]] puede trepar por superficies difíciles, incluidos los techos boca abajo, sin necesidad de realizar una prueba de característica.</p>"
         }
       },
       "name": "Carroñero reptante",
