@@ -13580,14 +13580,14 @@
     "toaYellMuskCreep": {
       "alignment": "Sin alineamiento",
       "languages": "—",
-      "name": "Creper almizclero amarillo",
-      "biographyPublic": "<p><em>Véase también: @UUID[Compendium.dnd-tomb-annihilation.actors.Actor.toaYellMuskZombi]{Almizcle amarillo Zombie}</em></p>",
-      "tokenName": "Creper almizclero amarillo",
-      "biography": "<p>Una enredadera amarilla de almizcle es una vid impía cuyas flores se asemejan a las de una orquídea. Amarillo brillante con salpicaduras de púrpura, estas flores expulsan un almizcle que atrae presas. Una enredadera de almizcle amarilla se adhiere a paredes, pilares, lápidas, marcos de puertas o estatuas en lugares sombríos, permaneciendo inmóvil hasta que golpea.</p><p><em><strong>Huéspedes humanoides</strong></em>. Una enredadera amarilla destruye la mente de los humanoides, luego implanta bombillas en los que mata. Veinticuatro horas después de ser implantado, un bulbo brota una enredadera que mágicamente anima el cadáver anfitrión, convirtiéndolo en un zombi amarillo almizcle bajo el control de la joven vid. Además de proteger a la planta indefensa, el zombi actúa como fertilizante para la joven enredadera, que crece a tamaño completo en siete días. Una vez que está completamente crecido, la nueva enredadera amarilla almizcle se vuelve móvil y estalla desde su anfitrión zombi, con lo que el zombi se derrumba en un montón de despojos muertos. Si el zombi es destruido antes de que la enredadera emerge, la enredadera se marchita y muere.</p><p><em><strong>Zombies amarillos pequeños almizcleros</strong></em>. Un humanoide medio transformado en un zombi almizcle amarillo utiliza el bloque estadístico presentado en esta sección. Un pequeño humanoide transformado en un zombi amarillo almizcle se convierte en un pequeño no-muerto con 27 (6d6 + 6) puntos de impacto, pero de lo contrario tiene las mismas estadísticas.</p>",
+      "name": "Trepadora amarilla almizclada",
+      "biographyPublic": "<p><em>Consulta también: @UUID[Compendium.dnd-tomb-annihilation.actors.Actor.toaYellMuskZombi]{Zombi amarillo almizclado}</em></p>",
+      "tokenName": "Trepadora amarilla almizclada",
+      "biography": "<p>Una trepadora amarilla almizclada es una enredadera impía cuyas flores se parecen a las orquídeas. Son de un amarillo brillante con manchas púrpuras y desprenden un almizcle que atrae a las presas. La trepadora se aferra a paredes, pilares, lápidas, marcos de puertas o estatuas en lugares sombríos y permanece inmóvil hasta que ataca.</p><p><em><strong>Huéspedes humanoides</strong></em>. Una trepadora amarilla almizclada destruye la mente de los humanoides e implanta bulbos en aquellos a los que mata. Veinticuatro horas después de la implantación, del bulbo brota una enredadera que anima mágicamente el cadáver del huésped y lo convierte en un zombi amarillo almizclado bajo su control. Además de proteger a la indefensa planta, el zombi sirve de abono al brote, que alcanza su tamaño adulto en siete días. Entonces, la nueva trepadora puede moverse y emerge del zombi, que se desploma convertido en un montón de restos muertos. Si el zombi es destruido antes de que la trepadora emerja, esta se marchita y muere.</p><p><em><strong>Zombis amarillos almizclados Pequeños</strong></em>. Un humanoide Mediano transformado en zombi amarillo almizclado usa el perfil de esta sección. Un humanoide Pequeño se convierte en un muerto viviente Pequeño con 27 (6d6 + 6) puntos de golpe, pero sus demás estadísticas son las mismas.</p>",
       "items": {
         "u4w0xusnfNIXiTAN": {
           "name": "Toque",
-          "description": "<p>[[/attack extended]]. [[/damage extended average]].</p><p>Si el objetivo es un humanoide que cae a 0 puntos de impacto como resultado de este daño, muere y se implanta con un bulbo de almizcle amarillo. A menos que la bombilla sea destruida, el cadáver anima como un @UUID[Compendium.dnd-tomb-annihilation.actors.Actor.toaYellMuskZombi]{zombi amarillo almizcle} después de estar muerto durante 24 horas. </p><p>La bombilla se destruye si la criatura se levanta de entre los muertos antes de que pueda transformarse en un zombi amarillo almizcle, o si el cadáver es blanco de un <em>@UUID[Compendium.dnd5e.spells.Item.XZhdgVK3cLoxNCQl]{eliminar la maldición}</em> conjuro o magia similar antes de que anime.</p>",
+          "description": "<p>[[/attack extended]]. [[/damage extended average]].</p><p>Si el objetivo es un humanoide que llega a 0 puntos de golpe debido a este daño, muere y se le implanta un bulbo de trepadora amarilla almizclada. A menos que se destruya el bulbo, el cadáver se anima como un @UUID[Compendium.dnd-tomb-annihilation.actors.Actor.toaYellMuskZombi]{zombi amarillo almizclado} cuando lleva 24 horas muerto.</p><p>El bulbo se destruye si la criatura vuelve de entre los muertos antes de transformarse en zombi amarillo almizclado, o si el cadáver es objetivo de un conjuro <em>@UUID[Compendium.dnd5e.spells.Item.XZhdgVK3cLoxNCQl]{levantar maldición}</em> o de magia similar antes de animarse.</p>",
           "activities": {
             "RvWJgChzC57KHKLc": {
               "name": "Animar zombi"
@@ -13596,41 +13596,41 @@
         },
         "EWbal14MSRb9i6g2": {
           "name": "Almizcle amarillo",
-          "description": "<p>Las flores de la enredadera liberan un fuerte almizcle que apunta a todos los humanoides a menos de 30 pies de distancia. Cada objetivo debe tener éxito en un [[/save format=long]] o ser &amp;Reference[Charmed apply=false]{encanto} junto a la enredadera durante 1 minuto.</p><p>Una criatura encantada de esta manera no hace nada en su turno excepto moverse lo más cerca posible de la enredadera. Una criatura encantada] por la enredadera puede repetir el lanzamiento de ahorro al final de cada uno de sus giros, terminando con el efecto en sí misma en un éxito.</p>",
+          "description": "<p>Las flores de la trepadora liberan un fuerte almizcle que afecta a todos los humanoides a 30 pies o menos de ella. Cada objetivo debe superar una [[/save format=long]] o quedar &amp;Reference[Charmed apply=false]{hechizado} por la trepadora durante 1 minuto.</p><p>Una criatura hechizada de este modo no hace nada en su turno salvo acercarse a la trepadora tanto como pueda. Puede repetir la tirada de salvación al final de cada uno de sus turnos y librarse del efecto si tiene éxito.</p>",
           "effects": {
             "22HL5Fxrd6RLRQQW": {
               "name": "Hechizado",
-              "description": "<p>El objetivo es &amp;Reference[Charmed apply=false]{encanto} junto a la enredadera durante 1 minuto.</p>"
+              "description": "<p>El objetivo está &amp;Reference[Charmed apply=false]{hechizado} por la trepadora durante 1 minuto.</p>"
             }
           }
         },
         "Yc8FlRa5Gh61BClQ": {
-          "name": "Apariencia falsa",
-          "description": "<p>Mientras que la enredadera permanece inmóvil, es indistinguible de una vid con floración ordinaria.</p>"
+          "name": "Apariencia Falsa",
+          "description": "<p>Mientras permanece inmóvil, la trepadora es indistinguible de una enredadera con flores corriente.</p>"
         },
         "eggEh59yUqTNJSji": {
           "name": "Regeneración",
-          "description": "<p>La enredadera recupera [[/heal]]  al comienzo de su turno. Si la enredadera recibe daños de fuego, necróticos o radiantes, este rasgo no funciona al inicio de su siguiente giro. La enredadera muere sólo si comienza su turno con 0 puntos de impacto y no se regenera.</p>"
+          "description": "<p>La trepadora recupera [[/heal]] al comienzo de su turno. Si recibe daño de fuego, necrótico o radiante, este rasgo no funciona al comienzo de su siguiente turno. La trepadora solo muere si comienza su turno con 0 puntos de golpe y no se regenera.</p>"
         }
       }
     },
     "toaYellMuskZombi": {
       "alignment": "Sin alineamiento",
-      "languages": "--",
+      "languages": "—",
       "items": {
         "31ey8rRelJI83L2Y": {
           "name": "Golpetazo",
           "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>"
         },
         "vQFo4iRQwsetLICB": {
-          "name": "Fortaleza de muertos vivientes",
-          "description": "<p>Si el daño reduce el zombi a 0 puntos de impacto, debe hacer un lanzamiento de ahorro Constitución con un CD de 5 + el daño tomado, a menos que el daño sea de fuego o de un golpe crítico. En un éxito, el zombi cae a 1 punto de impacto en su lugar.</p>"
+          "name": "Fortaleza de Muerto Viviente",
+          "description": "<p>Si el daño reduce al zombi a 0 puntos de golpe, debe realizar una tirada de salvación de Constitución con una CD de 5 + el daño recibido, salvo que el daño sea de fuego o proceda de un golpe crítico. Si tiene éxito, queda con 1 punto de golpe en su lugar.</p>"
         }
       },
-      "name": "Almizcle amarillo Zombie",
-      "biographyPublic": "<p><em>Véase también: @UUID[Actor.toaYellMuskCreep]{Creper almizclero amarillo}</em></p>",
-      "tokenName": "Almizcle amarillo Zombie",
-      "biography": "<p>A @UUID[Actor.toaYellMuskCreep]{Rastrero amarillo de almizcle} es una vid impía cuyas flores se asemejan a una orquídea. Amarillo brillante con salpicaduras de púrpura, estas flores expulsan un almizcle que atrae presas. Una enredadera de almizcle amarilla se adhiere a paredes, pilares, lápidas, marcos de puertas o estatuas en lugares sombríos, permaneciendo inmóvil hasta que golpea.</p><p><em><strong>Huéspedes humanoides</strong></em>. Una enredadera amarilla destruye la mente de los humanoides, luego implanta bombillas en los que mata. Veinticuatro horas después de ser implantado, un bulbo brota una enredadera que mágicamente anima el cadáver anfitrión, convirtiéndolo en un zombi amarillo almizcle bajo el control de la joven vid. Además de proteger a la planta indefensa, el zombi actúa como fertilizante para la joven enredadera, que crece a tamaño completo en siete días. Una vez que está completamente crecido, la nueva enredadera amarilla almizcle se vuelve móvil y estalla desde su anfitrión zombi, con lo que el zombi se derrumba en un montón de despojos muertos. Si el zombi es destruido antes de que la enredadera emerge, la enredadera se marchita y muere.</p><p><em><strong>Zombies amarillos pequeños almizcleros</strong></em>. Un humanoide medio transformado en un zombi almizcle amarillo utiliza el bloque estadístico presentado en esta sección. Un pequeño humanoide transformado en un zombi amarillo almizcle se convierte en un pequeño no-muerto con 27 (6d6 + 6) puntos de impacto, pero de lo contrario tiene las mismas estadísticas.</p>"
+      "name": "Zombi amarillo almizclado",
+      "biographyPublic": "<p><em>Consulta también: @UUID[Actor.toaYellMuskCreep]{Trepadora amarilla almizclada}</em></p>",
+      "tokenName": "Zombi amarillo almizclado",
+      "biography": "<p>Una @UUID[Actor.toaYellMuskCreep]{trepadora amarilla almizclada} es una enredadera impía cuyas flores se parecen a las orquídeas. Son de un amarillo brillante con manchas púrpuras y desprenden un almizcle que atrae a las presas. La trepadora se aferra a paredes, pilares, lápidas, marcos de puertas o estatuas en lugares sombríos y permanece inmóvil hasta que ataca.</p><p><em><strong>Huéspedes humanoides</strong></em>. Una trepadora amarilla almizclada destruye la mente de los humanoides e implanta bulbos en aquellos a los que mata. Veinticuatro horas después de la implantación, del bulbo brota una enredadera que anima mágicamente el cadáver del huésped y lo convierte en un zombi amarillo almizclado bajo su control. Además de proteger a la indefensa planta, el zombi sirve de abono al brote, que alcanza su tamaño adulto en siete días. Entonces, la nueva trepadora puede moverse y emerge del zombi, que se desploma convertido en un montón de restos muertos. Si el zombi es destruido antes de que la trepadora emerja, esta se marchita y muere.</p><p><em><strong>Zombis amarillos almizclados Pequeños</strong></em>. Un humanoide Mediano transformado en zombi amarillo almizclado usa el perfil de esta sección. Un humanoide Pequeño se convierte en un muerto viviente Pequeño con 27 (6d6 + 6) puntos de golpe, pero sus demás estadísticas son las mismas.</p>"
     },
     "toaYokka00000000": {
       "alignment": "Neutral malvado",
