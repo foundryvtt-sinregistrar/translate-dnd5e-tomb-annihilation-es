@@ -158833,6 +158833,748 @@
           "note": "Drow mage profile and spell texts reviewed against English export. Generic mage fields retained; chat gender corrected in context. Missing drow traits require functional review."
         }
       ]
+    },
+    {
+      "id": "additional-guardian-naga",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.name",
+          "sourceSha256": "e641eb06a89b009eff173900c427209b8cdcd1def473b057308e3034017cc687",
+          "translationSha256": "a8c7ef7922131b808d5e589bd4d72359e3844b8bc498a0f7abf88059b0c75410",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.alignment",
+          "sourceSha256": "205c9cf6051628161e40bba28dd64d838908de569a8520b9074189ef3a558625",
+          "translationSha256": "c196863ef022105140a07cf495d822822aab8ba58649478e736638e044161817",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.tokenName",
+          "sourceSha256": "e641eb06a89b009eff173900c427209b8cdcd1def473b057308e3034017cc687",
+          "translationSha256": "a8c7ef7922131b808d5e589bd4d72359e3844b8bc498a0f7abf88059b0c75410",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.biography",
+          "sourceSha256": "005ea83779c9757f66198e442b3974d1b9644098f09fe20d516e44b7b0697302",
+          "translationSha256": "13449ca5b377e53eed4ec882e9de4fdadb921a78a531289fbf79e3a63a220ce5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.GkVxLIsamEXICEeT.name",
+          "sourceSha256": "f8a66e812c8c3d3fb50f5b7e7df3e0135a88b95349a9609526a8d94915d81d23",
+          "translationSha256": "920c1cd0f529e6c63597e3bfa27f4eb928ba98cb79b7501d5e99a42dafaff3af",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.GkVxLIsamEXICEeT.description",
+          "sourceSha256": "70487cda0adbb8edddf4e459408e10226d73b209086aa83746bc8f28729d9b15",
+          "translationSha256": "2a86544fb007086620aaf47d93fe002a5574ecfa6f9f58f286a54ae1d96904ae",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.GkVxLIsamEXICEeT.descriptionChat",
+          "sourceSha256": "1a818d4dae0e3f143f7984d69218b64882674867529dfbd8e9b0db9a1a99a1e7",
+          "translationSha256": "bc63a809aae6207d2f895ea3c6cf753648f193768d74e3011bf0d8f53b648eb0",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.wtPKdh22QAc93kgt.name",
+          "sourceSha256": "0ce3a662d11283354858fe3750d3f72949f5863f4dbed31d00005eece8e14a02",
+          "translationSha256": "e1589d94051584af717abd37f905541c9ec9a6a380dffd0e89ba52771faddcb3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.wtPKdh22QAc93kgt.description",
+          "sourceSha256": "e4c758238537ef37eb72405c1214f1fe050f3cd0764eaf63a4a1f9ef86a55ebd",
+          "translationSha256": "ecba7f8322f22501e08459304db4e5cf1a214e5ce680aad268e056752dacbbe2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.wtPKdh22QAc93kgt.descriptionChat",
+          "sourceSha256": "b9cee5854f9f0deedc6e7688fbe21e1dbc58b6889e55d200573f7cc4f4bd1aa9",
+          "translationSha256": "03fb8a559cf2b4512e21ee1c59b843d981eeb88811aef96a3b3ce80123e53d32",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.hQFQz2LiNGpxcRvw.name",
+          "sourceSha256": "6e5597953e98e07b763c9f7c837239daf41a26a239b0616631539b9a04b559ad",
+          "translationSha256": "0f5627d69976efecdf83d744d6ec28905da742f1533855b78aad823b0bcbcd97",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.hQFQz2LiNGpxcRvw.description",
+          "sourceSha256": "25da8b87450dfedc68eacdda680b9bdf6df95d610008c2d50a178f655761cba5",
+          "translationSha256": "9abbf38999f3b1556b69c86bea98e1b2c764369bc1849ad4b39f520dea0f27a2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.hQFQz2LiNGpxcRvw.descriptionChat",
+          "sourceSha256": "dd0be11ecb19e64b318e0f8370a6ec4d15071c2ae7402b6f4551d3da3d9977f7",
+          "translationSha256": "2a41db7dda66ad69f7acbae8d45a453db8e78944f3a12316ac6b555f46e9029d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.PtPZ5aBQPEfbbvla.name",
+          "sourceSha256": "18726d7672fa9b5e33ba99cd55966fa931efe558005daa04e929a5cafbe1d7b2",
+          "translationSha256": "5db8f44232ffa31f56b3691a6489a23d7f1b4261d7270ff3ca0a0edf0309306e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.PtPZ5aBQPEfbbvla.description",
+          "sourceSha256": "e4d7314bd4a855f42053f8a7073e12a0f3a2f01a3673456836ce90762fe4b0d0",
+          "translationSha256": "940bdf4b9d523c270fd9f6531d1731858979fb355677ea112d8a14014849bcf9",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.PtPZ5aBQPEfbbvla.descriptionChat",
+          "sourceSha256": "b09ca9a65dce9863b88bf0d0b755d69f2302041e3e3852a9a228dafd734cd0a8",
+          "translationSha256": "e65ce8033b52f62228f8c26e1d85c7dc423eaeb9ba3ad69d6bf18939a36d2cfa",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.kjmjY0zlE6IEiQVL.name",
+          "sourceSha256": "3376ef7bd9fa9477a5a2393b01b702969aaa842a2108f6983f182b0e8e4d6744",
+          "translationSha256": "dfd0079f0c5ce2d4145a8ec06fe3d9e9441189d61a113e2e33fbe39f64e16ff5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.kjmjY0zlE6IEiQVL.description",
+          "sourceSha256": "4abfb31ea58db831e1cb46c1f934fb62c9e16acb94581ab0233e23cbb6e64ee5",
+          "translationSha256": "84a435c0e22396ca6259fa9eb8a57df1f16af994246722730529fb64a22cedaa",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.n9pJzTDsAwQxJVRl.name",
+          "sourceSha256": "560d616c7de628af880ba548d55f960587465fe5e4dd8e825d59511d69172365",
+          "translationSha256": "4f3060de6751626ae2067332fbc91fb5021b0e873a8410294bf2d826143a9100",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.n9pJzTDsAwQxJVRl.description",
+          "sourceSha256": "7faaf8409056df0be21249141c3c00d480b9a141ce0c59257205c981a72f8306",
+          "translationSha256": "d4c0b6d2941e181a6d6861f98f4669e190bef1e24490dc74362801e76cda3bfd",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.MUO1uYN7JR1hm4dR.name",
+          "sourceSha256": "1118dde764109023f1e1bcefa9cbb7302366d80414adcc0e53b014a6329ed244",
+          "translationSha256": "61860da1fa92587ff0cc2d10890d24d8c00ea52bccb9fde2e66a28b6b93d7e38",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.MUO1uYN7JR1hm4dR.description",
+          "sourceSha256": "b593b4820577a94078e293b71c529549720cd161d726041ebcdf3dde3ed36aca",
+          "translationSha256": "2df14cc757096ed97c469ed4e1428c116988cc47a6d609da6f1fb40f05f3d71c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.arzCrMRgcNiQuh43.name",
+          "sourceSha256": "713166971d730f81fcf8b757f2ea239d1a0360d9f74e8f5afe60fba97105879c",
+          "translationSha256": "7c31a6251d57b4c1b3c548aa89796cc54374dbb6b4fe110a0113424094c30135",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.arzCrMRgcNiQuh43.description",
+          "sourceSha256": "15ead013b02a352bfbc10a2b9a6ab7160c3528a24cb810a8fd54fde351db69a7",
+          "translationSha256": "98b9b31128948ba59987f093cd7195a349968f8138bfe881b78fa74ca8a115bf",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.uUWb1wZgtMou0TVP.name",
+          "sourceSha256": "37e7b242876dfe75755d06c104a3cca7a2c0af0f90bb8d66a68d4d4d76fd9c5a",
+          "translationSha256": "0fb65b1cc67b6e0788f275aefa454310801eea34837e8fd17cb1ca630cf85d78",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.uUWb1wZgtMou0TVP.description",
+          "sourceSha256": "eeb3ecc5e4ea7ae64a5b9598be44b97252cd1f999b2fcc767d43c5a7622778cd",
+          "translationSha256": "516139f9500e41b85a0c0366292309973066ba8902d970958fb8e42296cf6186",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.jZ6JNykRtdQ90MOo.name",
+          "sourceSha256": "9e9577cd9fe55999cbdd9f2eb0dba3e76cb8f11eb9c9f99c7388081583cc51ca",
+          "translationSha256": "e67a47365f615b2119f9e57b52872f4e1a9bc2968f8626a8658a009432b5be27",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.jZ6JNykRtdQ90MOo.description",
+          "sourceSha256": "1b995ddd60eb3f04b4d091c547b9fac0ec4a65cd10fc4a3a9de5c4afc69a2d8b",
+          "translationSha256": "8a774ee85f5501b8041b2d7f547c03e6927d080664c693c89c119b1681c1efaf",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.3MYDjS6k9IYL0aTj.name",
+          "sourceSha256": "c07766ba966fc9bf8ecfbaa4ea1f780c54bad150582030890393909c717a65f7",
+          "translationSha256": "89ebe65d7da3e1bfb9621e2914ab1f110245f6dfc3663ea8083288f0c3ca1a95",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.3MYDjS6k9IYL0aTj.description",
+          "sourceSha256": "349024a789c879894a91f32cb5f4b444d6e349db95833ed66aff6bae32023a53",
+          "translationSha256": "92f0c3c884ace6d4f2d02103e254aaec4237116734cb43079fe4aa370c633938",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.3Lo9boi7P2ro6QV4.name",
+          "sourceSha256": "f0d35390cb244d754b9a003c23f03488e643b3cda95ca58f20377576df1639ab",
+          "translationSha256": "5e70d1b01b71758be14dd8720d417295f28b5e1162c9f804b7b313ec3aeb8cb8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.3Lo9boi7P2ro6QV4.description",
+          "sourceSha256": "7d3ff7986235c5abe6eab609ccfb89c399438a4b561fe191daa7ff5bfa6fb786",
+          "translationSha256": "9aecc6b160104aa27bbb989d78d96050e1f3593446326ae332e384eccad1fdd2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.pO4zGe5LmFIYqJiL.name",
+          "sourceSha256": "a824f34f6cbec9e941d2b4a906e6b3d0fb39cd758e4b495b19ed409a6308a21f",
+          "translationSha256": "445945ef5ef35e15b7cb349ae3ceb74ae764b380d898b597d590bfbc544f59f3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.pO4zGe5LmFIYqJiL.description",
+          "sourceSha256": "cd03d5ee4f0b9fb9789fb7816c32ff14d05d9da7da98f0de07a0c14fa230d176",
+          "translationSha256": "e4c49a8fbe9b2b0dabfe428af388f4b2e500fcaa1b3fb55f1f20b360fd38bd9f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.cg50KpBkBdPK6vPL.name",
+          "sourceSha256": "932322ea9e594610dbc296c7b27a00cf97a5637134ab5407c3535c195d48e658",
+          "translationSha256": "08af692b056ae5569ef9e7b0f45c1f0e07f5950717853f0b647edb0330705eff",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.cg50KpBkBdPK6vPL.description",
+          "sourceSha256": "2bcb02f6926c25369c47b9558c84c5af6769cf8697b954109ceb4cb5389fe2f8",
+          "translationSha256": "5f30f8673ffbd307581aa3650ccdab6af9998f77aa8838bc05d73c266ee61ee7",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.pxpb2eOB6bv4phAf.name",
+          "sourceSha256": "5354553b11bbdd3ab73cd29fd3ed8ec65c47d15ee093fbfb7b9d114ffdf709c2",
+          "translationSha256": "ce68255b58d9314706bba71d168ed53acb2c2782335831dc996887c0dd78a9d9",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.pxpb2eOB6bv4phAf.description",
+          "sourceSha256": "da9aa6c573fc5aac6f74b0000ace35c1751c0109a205cadd3edba20546fa91ec",
+          "translationSha256": "a61a19a6a7ac1efa8461b81032750aa07332c650523561a38b8704889d81f271",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.da0a1t2FqaTjRZGT.name",
+          "sourceSha256": "3c2d6a2ae46e07751f13ef38943f52f818cd6939d1a431dc8f8f963eaf452cc4",
+          "translationSha256": "44a5b2c13d1e09da19dc51b5f72923a47de3bd546dbeb53ef786323ab7a30c1d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.da0a1t2FqaTjRZGT.description",
+          "sourceSha256": "2a0b0e89ba0b607c9240f14248dba8883c9379b5d9153b03ea3fc19f4f268d6e",
+          "translationSha256": "962688b3a21a12e37145e8c61432d399a4103a06fb9f39764ed452735f807e14",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.5e1xTohkzqFqbYH4.name",
+          "sourceSha256": "5a00094785687f0258a0624d2725165daa71f267fc0605ad10b0c33dc657f168",
+          "translationSha256": "be93312899fb7f97996628f94e524f8417442f19295a51a63fc6a6f63965c79f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.5e1xTohkzqFqbYH4.description",
+          "sourceSha256": "7dba31a745a2bbab07749f4a222a7e1b91e59cce121c1281312d0a508e8f7d8b",
+          "translationSha256": "93cc8d7cacb273836efe9b26bffae6f99cee0296aa76350891bd680452815277",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.JQyigMNPiDnGI18b.name",
+          "sourceSha256": "aea4e2a8ac6976f22351d9151628f998ce86c7eb889550809061fe27adb2f535",
+          "translationSha256": "aea4e2a8ac6976f22351d9151628f998ce86c7eb889550809061fe27adb2f535",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.JQyigMNPiDnGI18b.description",
+          "sourceSha256": "db4cbb78ad1434c38d7977fff36534ab6908aabf3cbafcdebe78e6f8c4980e82",
+          "translationSha256": "ca5f13f426da717cfe52e1e0d5275c8c3cb412513aeed309e3ed42d10a9b8954",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.XzkJpE6XpZfKjODD.name",
+          "sourceSha256": "62aff9f2836d72a59edb66309da0ef17dfef4ba54240f904445dffec940e76dd",
+          "translationSha256": "849c95260c98a675a96ce95617aa58cd49f9672251ea0ab694889cf1a55db467",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.Ob0Hl5nOhHum6gb0.items.XzkJpE6XpZfKjODD.description",
+          "sourceSha256": "fbfafedfd3028f56dc27e9c07bc2d90f0d38abd386e8e90f2c2289599fef677b",
+          "translationSha256": "ead94e42bbe5e875f1320ecf9e8c02ba630a25b61412da0022a729b763d23d46",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.name",
+          "sourceSha256": "e641eb06a89b009eff173900c427209b8cdcd1def473b057308e3034017cc687",
+          "translationSha256": "a8c7ef7922131b808d5e589bd4d72359e3844b8bc498a0f7abf88059b0c75410",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.alignment",
+          "sourceSha256": "205c9cf6051628161e40bba28dd64d838908de569a8520b9074189ef3a558625",
+          "translationSha256": "c196863ef022105140a07cf495d822822aab8ba58649478e736638e044161817",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.tokenName",
+          "sourceSha256": "e641eb06a89b009eff173900c427209b8cdcd1def473b057308e3034017cc687",
+          "translationSha256": "a8c7ef7922131b808d5e589bd4d72359e3844b8bc498a0f7abf88059b0c75410",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.biography",
+          "sourceSha256": "005ea83779c9757f66198e442b3974d1b9644098f09fe20d516e44b7b0697302",
+          "translationSha256": "13449ca5b377e53eed4ec882e9de4fdadb921a78a531289fbf79e3a63a220ce5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.GkVxLIsamEXICEeT.name",
+          "sourceSha256": "f8a66e812c8c3d3fb50f5b7e7df3e0135a88b95349a9609526a8d94915d81d23",
+          "translationSha256": "920c1cd0f529e6c63597e3bfa27f4eb928ba98cb79b7501d5e99a42dafaff3af",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.GkVxLIsamEXICEeT.description",
+          "sourceSha256": "70487cda0adbb8edddf4e459408e10226d73b209086aa83746bc8f28729d9b15",
+          "translationSha256": "2a86544fb007086620aaf47d93fe002a5574ecfa6f9f58f286a54ae1d96904ae",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.GkVxLIsamEXICEeT.descriptionChat",
+          "sourceSha256": "1a818d4dae0e3f143f7984d69218b64882674867529dfbd8e9b0db9a1a99a1e7",
+          "translationSha256": "bc63a809aae6207d2f895ea3c6cf753648f193768d74e3011bf0d8f53b648eb0",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.wtPKdh22QAc93kgt.name",
+          "sourceSha256": "0ce3a662d11283354858fe3750d3f72949f5863f4dbed31d00005eece8e14a02",
+          "translationSha256": "e1589d94051584af717abd37f905541c9ec9a6a380dffd0e89ba52771faddcb3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.wtPKdh22QAc93kgt.description",
+          "sourceSha256": "e4c758238537ef37eb72405c1214f1fe050f3cd0764eaf63a4a1f9ef86a55ebd",
+          "translationSha256": "ecba7f8322f22501e08459304db4e5cf1a214e5ce680aad268e056752dacbbe2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.wtPKdh22QAc93kgt.descriptionChat",
+          "sourceSha256": "b9cee5854f9f0deedc6e7688fbe21e1dbc58b6889e55d200573f7cc4f4bd1aa9",
+          "translationSha256": "03fb8a559cf2b4512e21ee1c59b843d981eeb88811aef96a3b3ce80123e53d32",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.hQFQz2LiNGpxcRvw.name",
+          "sourceSha256": "6e5597953e98e07b763c9f7c837239daf41a26a239b0616631539b9a04b559ad",
+          "translationSha256": "0f5627d69976efecdf83d744d6ec28905da742f1533855b78aad823b0bcbcd97",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.hQFQz2LiNGpxcRvw.description",
+          "sourceSha256": "25da8b87450dfedc68eacdda680b9bdf6df95d610008c2d50a178f655761cba5",
+          "translationSha256": "9abbf38999f3b1556b69c86bea98e1b2c764369bc1849ad4b39f520dea0f27a2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.hQFQz2LiNGpxcRvw.descriptionChat",
+          "sourceSha256": "dd0be11ecb19e64b318e0f8370a6ec4d15071c2ae7402b6f4551d3da3d9977f7",
+          "translationSha256": "2a41db7dda66ad69f7acbae8d45a453db8e78944f3a12316ac6b555f46e9029d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.PtPZ5aBQPEfbbvla.name",
+          "sourceSha256": "18726d7672fa9b5e33ba99cd55966fa931efe558005daa04e929a5cafbe1d7b2",
+          "translationSha256": "5db8f44232ffa31f56b3691a6489a23d7f1b4261d7270ff3ca0a0edf0309306e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.PtPZ5aBQPEfbbvla.description",
+          "sourceSha256": "e4d7314bd4a855f42053f8a7073e12a0f3a2f01a3673456836ce90762fe4b0d0",
+          "translationSha256": "940bdf4b9d523c270fd9f6531d1731858979fb355677ea112d8a14014849bcf9",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.PtPZ5aBQPEfbbvla.descriptionChat",
+          "sourceSha256": "b09ca9a65dce9863b88bf0d0b755d69f2302041e3e3852a9a228dafd734cd0a8",
+          "translationSha256": "e65ce8033b52f62228f8c26e1d85c7dc423eaeb9ba3ad69d6bf18939a36d2cfa",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.kjmjY0zlE6IEiQVL.name",
+          "sourceSha256": "3376ef7bd9fa9477a5a2393b01b702969aaa842a2108f6983f182b0e8e4d6744",
+          "translationSha256": "dfd0079f0c5ce2d4145a8ec06fe3d9e9441189d61a113e2e33fbe39f64e16ff5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.kjmjY0zlE6IEiQVL.description",
+          "sourceSha256": "4abfb31ea58db831e1cb46c1f934fb62c9e16acb94581ab0233e23cbb6e64ee5",
+          "translationSha256": "84a435c0e22396ca6259fa9eb8a57df1f16af994246722730529fb64a22cedaa",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.n9pJzTDsAwQxJVRl.name",
+          "sourceSha256": "560d616c7de628af880ba548d55f960587465fe5e4dd8e825d59511d69172365",
+          "translationSha256": "4f3060de6751626ae2067332fbc91fb5021b0e873a8410294bf2d826143a9100",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.n9pJzTDsAwQxJVRl.description",
+          "sourceSha256": "7faaf8409056df0be21249141c3c00d480b9a141ce0c59257205c981a72f8306",
+          "translationSha256": "d4c0b6d2941e181a6d6861f98f4669e190bef1e24490dc74362801e76cda3bfd",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.MUO1uYN7JR1hm4dR.name",
+          "sourceSha256": "1118dde764109023f1e1bcefa9cbb7302366d80414adcc0e53b014a6329ed244",
+          "translationSha256": "61860da1fa92587ff0cc2d10890d24d8c00ea52bccb9fde2e66a28b6b93d7e38",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.MUO1uYN7JR1hm4dR.description",
+          "sourceSha256": "b593b4820577a94078e293b71c529549720cd161d726041ebcdf3dde3ed36aca",
+          "translationSha256": "2df14cc757096ed97c469ed4e1428c116988cc47a6d609da6f1fb40f05f3d71c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.arzCrMRgcNiQuh43.name",
+          "sourceSha256": "713166971d730f81fcf8b757f2ea239d1a0360d9f74e8f5afe60fba97105879c",
+          "translationSha256": "7c31a6251d57b4c1b3c548aa89796cc54374dbb6b4fe110a0113424094c30135",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.arzCrMRgcNiQuh43.description",
+          "sourceSha256": "15ead013b02a352bfbc10a2b9a6ab7160c3528a24cb810a8fd54fde351db69a7",
+          "translationSha256": "98b9b31128948ba59987f093cd7195a349968f8138bfe881b78fa74ca8a115bf",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.uUWb1wZgtMou0TVP.name",
+          "sourceSha256": "37e7b242876dfe75755d06c104a3cca7a2c0af0f90bb8d66a68d4d4d76fd9c5a",
+          "translationSha256": "0fb65b1cc67b6e0788f275aefa454310801eea34837e8fd17cb1ca630cf85d78",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.uUWb1wZgtMou0TVP.description",
+          "sourceSha256": "eeb3ecc5e4ea7ae64a5b9598be44b97252cd1f999b2fcc767d43c5a7622778cd",
+          "translationSha256": "516139f9500e41b85a0c0366292309973066ba8902d970958fb8e42296cf6186",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.jZ6JNykRtdQ90MOo.name",
+          "sourceSha256": "9e9577cd9fe55999cbdd9f2eb0dba3e76cb8f11eb9c9f99c7388081583cc51ca",
+          "translationSha256": "e67a47365f615b2119f9e57b52872f4e1a9bc2968f8626a8658a009432b5be27",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.jZ6JNykRtdQ90MOo.description",
+          "sourceSha256": "1b995ddd60eb3f04b4d091c547b9fac0ec4a65cd10fc4a3a9de5c4afc69a2d8b",
+          "translationSha256": "8a774ee85f5501b8041b2d7f547c03e6927d080664c693c89c119b1681c1efaf",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.3MYDjS6k9IYL0aTj.name",
+          "sourceSha256": "c07766ba966fc9bf8ecfbaa4ea1f780c54bad150582030890393909c717a65f7",
+          "translationSha256": "89ebe65d7da3e1bfb9621e2914ab1f110245f6dfc3663ea8083288f0c3ca1a95",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.3MYDjS6k9IYL0aTj.description",
+          "sourceSha256": "349024a789c879894a91f32cb5f4b444d6e349db95833ed66aff6bae32023a53",
+          "translationSha256": "92f0c3c884ace6d4f2d02103e254aaec4237116734cb43079fe4aa370c633938",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.3Lo9boi7P2ro6QV4.name",
+          "sourceSha256": "f0d35390cb244d754b9a003c23f03488e643b3cda95ca58f20377576df1639ab",
+          "translationSha256": "5e70d1b01b71758be14dd8720d417295f28b5e1162c9f804b7b313ec3aeb8cb8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.3Lo9boi7P2ro6QV4.description",
+          "sourceSha256": "7d3ff7986235c5abe6eab609ccfb89c399438a4b561fe191daa7ff5bfa6fb786",
+          "translationSha256": "9aecc6b160104aa27bbb989d78d96050e1f3593446326ae332e384eccad1fdd2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.pO4zGe5LmFIYqJiL.name",
+          "sourceSha256": "a824f34f6cbec9e941d2b4a906e6b3d0fb39cd758e4b495b19ed409a6308a21f",
+          "translationSha256": "445945ef5ef35e15b7cb349ae3ceb74ae764b380d898b597d590bfbc544f59f3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.pO4zGe5LmFIYqJiL.description",
+          "sourceSha256": "cd03d5ee4f0b9fb9789fb7816c32ff14d05d9da7da98f0de07a0c14fa230d176",
+          "translationSha256": "e4c49a8fbe9b2b0dabfe428af388f4b2e500fcaa1b3fb55f1f20b360fd38bd9f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.cg50KpBkBdPK6vPL.name",
+          "sourceSha256": "932322ea9e594610dbc296c7b27a00cf97a5637134ab5407c3535c195d48e658",
+          "translationSha256": "08af692b056ae5569ef9e7b0f45c1f0e07f5950717853f0b647edb0330705eff",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.cg50KpBkBdPK6vPL.description",
+          "sourceSha256": "2bcb02f6926c25369c47b9558c84c5af6769cf8697b954109ceb4cb5389fe2f8",
+          "translationSha256": "5f30f8673ffbd307581aa3650ccdab6af9998f77aa8838bc05d73c266ee61ee7",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.pxpb2eOB6bv4phAf.name",
+          "sourceSha256": "5354553b11bbdd3ab73cd29fd3ed8ec65c47d15ee093fbfb7b9d114ffdf709c2",
+          "translationSha256": "ce68255b58d9314706bba71d168ed53acb2c2782335831dc996887c0dd78a9d9",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.pxpb2eOB6bv4phAf.description",
+          "sourceSha256": "da9aa6c573fc5aac6f74b0000ace35c1751c0109a205cadd3edba20546fa91ec",
+          "translationSha256": "a61a19a6a7ac1efa8461b81032750aa07332c650523561a38b8704889d81f271",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.da0a1t2FqaTjRZGT.name",
+          "sourceSha256": "3c2d6a2ae46e07751f13ef38943f52f818cd6939d1a431dc8f8f963eaf452cc4",
+          "translationSha256": "44a5b2c13d1e09da19dc51b5f72923a47de3bd546dbeb53ef786323ab7a30c1d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.da0a1t2FqaTjRZGT.description",
+          "sourceSha256": "2a0b0e89ba0b607c9240f14248dba8883c9379b5d9153b03ea3fc19f4f268d6e",
+          "translationSha256": "962688b3a21a12e37145e8c61432d399a4103a06fb9f39764ed452735f807e14",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.5e1xTohkzqFqbYH4.name",
+          "sourceSha256": "5a00094785687f0258a0624d2725165daa71f267fc0605ad10b0c33dc657f168",
+          "translationSha256": "be93312899fb7f97996628f94e524f8417442f19295a51a63fc6a6f63965c79f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.5e1xTohkzqFqbYH4.description",
+          "sourceSha256": "7dba31a745a2bbab07749f4a222a7e1b91e59cce121c1281312d0a508e8f7d8b",
+          "translationSha256": "93cc8d7cacb273836efe9b26bffae6f99cee0296aa76350891bd680452815277",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.JQyigMNPiDnGI18b.name",
+          "sourceSha256": "aea4e2a8ac6976f22351d9151628f998ce86c7eb889550809061fe27adb2f535",
+          "translationSha256": "aea4e2a8ac6976f22351d9151628f998ce86c7eb889550809061fe27adb2f535",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.JQyigMNPiDnGI18b.description",
+          "sourceSha256": "db4cbb78ad1434c38d7977fff36534ab6908aabf3cbafcdebe78e6f8c4980e82",
+          "translationSha256": "ca5f13f426da717cfe52e1e0d5275c8c3cb412513aeed309e3ed42d10a9b8954",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.XzkJpE6XpZfKjODD.name",
+          "sourceSha256": "62aff9f2836d72a59edb66309da0ef17dfef4ba54240f904445dffec940e76dd",
+          "translationSha256": "849c95260c98a675a96ce95617aa58cd49f9672251ea0ab694889cf1a55db467",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.Ob0Hl5nOhHum6gb0.items.XzkJpE6XpZfKjODD.description",
+          "sourceSha256": "fbfafedfd3028f56dc27e9c07bc2d90f0d38abd386e8e90f2c2289599fef677b",
+          "translationSha256": "ead94e42bbe5e875f1320ecf9e8c02ba630a25b61412da0022a729b763d23d46",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
+        }
+      ]
     }
   ]
 }
