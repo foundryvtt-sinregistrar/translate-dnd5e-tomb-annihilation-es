@@ -15293,27 +15293,27 @@
       "items": {
         "pk0rP0HMzld4rUY1": {
           "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-          "name": "Puño"
+          "name": "Puñetazo"
         },
         "CQgcWqLUWQqa4EpW": {
-          "name": "Contenedor marchito",
-          "description": "<p>Una criatura que el bodak puede ver a menos de 60 pies de ella debe hacer un [[/save format=long]], tomando [[/damage average]] daño en un error de guardar, o la mitad de daño en un éxito.</p>"
+          "name": "Mirada marchitadora",
+          "description": "<p>Una criatura que el bodak pueda ver a 60 pies o menos debe realizar una [[/save format=long]]; sufre [[/damage average]] de daño si falla, o la mitad si tiene éxito.</p>"
         },
         "ZivgbZhBgrM7Xt5e": {
-          "name": "Aura de aniquilación",
-          "description": "<p>El almacén puede activar o desactivar esta función como una acción adicional. Mientras está activo, el aura negocia [[/damage]] daño a cualquier criatura que termina su turno a menos de 30 pies del cuerpok. Los muertos vivientes y los demonios ignoran este efecto.</p>"
+          "name": "Aura de Aniquilación",
+          "description": "<p>El bodak puede activar o desactivar este rasgo como acción adicional. Mientras está activa, el aura inflige [[/damage]] de daño a cualquier criatura que termine su turno a 30 pies o menos del bodak. Los muertos vivientes y los infernales no se ven afectados.</p>"
         },
         "T0sMIUlTqIE5mPqn": {
-          "name": "La mirada de la muerte",
-          "description": "<p>Cuando una criatura que puede ver los ojos del cuerpok comienza a girar a menos de 30 pies del cuerpok, el cuerpok puede obligarlo a hacer un [[/save format=long]] si el bodak no está incapacitado y puede ver a la criatura.</p><p>Si el lanzamiento de ahorro falla 5 o más, la criatura se reduce a 0 puntos de impacto, a menos que sea inmune a la condición de miedo. De lo contrario, una criatura toma [[/damage average]] daño en un error de guardar.</p><p>A menos que se sorprenda, una criatura puede evitar sus ojos para evitar el lanzamiento de ahorro al comienzo de su turno. Si la criatura lo hace, tiene desventaja en los rollos de ataque contra el cuerpok hasta el comienzo de su siguiente turno. Si la criatura mira el cuerpo mientras tanto, debe hacer inmediatamente el lanzamiento de ahorro.</p>"
+          "name": "Mirada de la Muerte",
+          "description": "<p>Cuando una criatura que puede ver los ojos del bodak comienza su turno a 30 pies o menos de él, el bodak puede obligarla a realizar una [[/save format=long]], siempre que no esté incapacitado y pueda ver a la criatura.</p><p>Si la criatura falla por 5 o más, sus puntos de golpe se reducen a 0, a menos que sea inmune al estado asustado. En los demás casos, una salvación fallida hace que la criatura sufra [[/damage average]] de daño.</p><p>Una criatura que no esté sorprendida puede apartar la mirada para evitar la tirada de salvación al comienzo de su turno. Si lo hace, tiene desventaja en las tiradas de ataque contra el bodak hasta el comienzo de su siguiente turno. Si mira al bodak antes de ese momento, debe realizar inmediatamente la tirada de salvación.</p>"
         },
         "4CnzBTaMjCbMyu76": {
-          "name": "Hipersensibilidad a la luz solar",
-          "description": "<p>El bodak toma [[/damage]] daño cuando comienza su turno en la luz del sol. Mientras que en la luz del sol, tiene desventaja en rollos de ataque y controles de capacidad.</p>"
+          "name": "Hipersensibilidad a la Luz Solar",
+          "description": "<p>El bodak sufre [[/damage]] de daño cuando comienza su turno bajo la luz del sol. Mientras permanece bajo la luz solar, tiene desventaja en las tiradas de ataque y las pruebas de característica.</p>"
         }
       },
       "name": "Bodak",
-      "languages": "Los idiomas que conocía en la vida",
+      "languages": "Los idiomas que conocía en vida",
       "tokenName": "Bodak"
     },
     "xg5JXIFmcUkJY5qt": {

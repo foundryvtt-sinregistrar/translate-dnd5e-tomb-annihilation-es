@@ -1585,6 +1585,17 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   resolución por identificador para no depender del nombre traducido.
 - Auditorías técnica y editorial sin errores.
 
+### appendix-d-bodak — Rasgos y ataques del bodak
+
+- Revisados los 28 campos de texto no vacíos de sus dos copias, con
+  referencia física 215. El original no contiene biografía.
+- Diferenciadas las dos miradas: una causa daño con salvación para mitad;
+  la otra puede reducir a cero PG si se falla por cinco o más y no existe
+  inmunidad a asustado. Conservados apartar la mirada y los efectos de la luz.
+- El aura afecta al final del turno, se activa como acción adicional y
+  excluye a muertos vivientes e infernales.
+- Auditorías técnica y editorial sin errores. Pendiente ejecución en Foundry.
+
 ## Balance de revisión editorial
 
 - 760 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -1592,8 +1603,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
   del capítulo 4, 126 del capítulo 5 y 155 de los apéndices A, B, C, D y F.
   No equivale a 760 páginas del PDF.
-- 2553 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 2553 campos distintos.
+- 2581 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 2581 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas quince biografías en ambas copias de actores: siete
   príncipes y ocho criaturas o PNJ del apéndice D. Siguen pendientes las demás
