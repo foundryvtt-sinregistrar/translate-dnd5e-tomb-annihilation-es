@@ -807,14 +807,24 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   el rótulo según la regla descrita; requiere corrección funcional posterior.
 - Auditorías técnica y editorial sin errores.
 
+### ch5-level1-warnings-01 a ch5-level1-warnings-06 — Escalinata y advertencias
+
+- Revisados seis textos y títulos con referencias físicas 135 y 140.
+- Contrastada «Right the gods» con el foso del gólem: se giran las estatuas
+  a la derecha. «Orienta a los dioses a la derecha» conserva esa dirección,
+  ausente del «Reorienta» del PDF. «Sacia» conserva la pista de beber la sopa.
+- Las ayudas 18-20 siguen pendientes de armonización con estas advertencias.
+- Conservadas las dos salvaciones distintas de la cascada: evitar caer y
+  evitar el daño tras la caída. Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 497 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 503 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4 y dieciocho del capítulo 5. No equivale a 497 páginas del PDF.
-- 1104 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1104 campos distintos.
+  del capítulo 4 y veinticuatro del capítulo 5. No equivale a 503 páginas del PDF.
+- 1116 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1116 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
