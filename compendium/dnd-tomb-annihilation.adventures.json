@@ -771,57 +771,57 @@
               "effects": {
                 "6vCaV9qgMwlQLssL": {
                   "name": "Cansancio",
-                  "description": "<p>El objetivo gana 1 nivel de &amp;Reference[Exhaustion apply=false]{agotamiento}.</p>"
+                  "description": "<p>El objetivo gana 1 nivel de &amp;Reference[Exhaustion apply=false]{cansancio}.</p>"
                 }
               },
-              "name": "Perturbar vida",
-              "description": "<p>El atropal deja salir un lamento marchito. Cualquier criatura dentro de 120 pies del atropal que pueda oír el lamento debe tener éxito en un [[/save format=long]] 1 nivel de &amp;Reference[Exhaustion apply=false]{agotamiento}.</p>"
+              "name": "Lamento",
+              "description": "<p>El atropal emite un lamento que marchita la vida. Cualquier criatura a 120 pies o menos que pueda oírlo debe superar una [[/save format=long]] o gana 1 nivel de &amp;Reference[Exhaustion apply=false]{cansancio}.</p>"
             },
             "TNJHpVV2D4hRwnBN": {
               "name": "Rayo de frío",
-              "description": "<p><em>Ataque ortográfico a distancia:</em> [[/attack]] para golpear, rango de 120 pies, un objetivo. Pulse: [[/damage average]] daño.</p>"
+              "description": "<p><em>Ataque de conjuro a distancia:</em> [[/attack]] a impactar, alcance 120 pies, un objetivo. Impacto: [[/damage average]] de daño.</p>"
             },
             "SoZwE0Cm8aqHjDoa": {
-              "name": "Drenaje de vida",
-              "description": "<p>El atropal apunta a una criatura que puede ver a menos de 120 pies de distancia. El objetivo debe tener éxito en un [[/save format=long]], tomando [[/damage average]] daño en un error de guardar, o la mitad de daño en un éxito. El atropal recupera un número de puntos de impacto igual a la mitad de la cantidad de daño repartida.</p>"
+              "name": "Consumir vida",
+              "description": "<p>El atropal elige como objetivo a una criatura que pueda ver a 120 pies o menos. El objetivo debe realizar una [[/save format=long]]; sufre [[/damage average]] de daño si falla, o la mitad si tiene éxito. El atropal recupera tantos puntos de golpe como la mitad del daño infligido.</p>"
             },
             "ZJoAeSPdapux8i0t": {
-              "name": "Convocar a los Espectros",
-              "description": "<p>El atropal convoca a @UUID[Compendium.dnd5e.monsters.Actor.ET4PEVEiNJLU4f7c]{espectro}, que se materializa a menos de 30 pies de distancia en un espacio desocupado que puede ver. Los espectros obedecen las órdenes de su invocador y no pueden ser controlados por ninguna otra criatura. El espectro desaparece cuando cae a 0 puntos de impacto o cuando su invocador muere.</p>",
+              "name": "Invocar aparición",
+              "description": "<p>El atropal invoca una @UUID[Compendium.dnd5e.monsters.Actor.ET4PEVEiNJLU4f7c]{aparición}, que se materializa a 30 pies o menos de él en un espacio desocupado que pueda ver. La aparición obedece sus órdenes y ninguna otra criatura puede controlarla. Se desvanece cuando llega a 0 puntos de golpe o cuando muere quien la invocó.</p>",
               "activities": {
                 "1IyAp3jpmxjPd1ki": {
-                  "name": "Convocar a los Espectros"
+                  "name": "Invocar aparición"
                 }
               }
             },
             "dTKmMKGqV2znTijh": {
               "name": "Acciones legendarias",
-              "description": "<p>El atropal puede tomar 3 acciones legendarias, eligiendo entre las opciones de abajo. Sólo una opción legendaria de acción puede ser utilizada a la vez y sólo al final del turno de otra criatura. El atropal recupera las acciones legendarias gastadas al comienzo de su turno.</p>"
+              "description": "<p>El atropal puede realizar 3 acciones legendarias, eligiendo entre las opciones que se presentan a continuación. Solo puede usar una opción a la vez y únicamente al final del turno de otra criatura. Recupera las acciones legendarias gastadas al comienzo de su turno.</p>"
             },
             "FRnAjNB3QiDLVTFK": {
               "name": "Toque",
-              "description": "<p>El atropal hace un [[/item Touch]] ataque.</p>"
+              "description": "<p>El atropal realiza un ataque de [[/item Touch]]{Toque}.</p>"
             },
             "Fto9AMV5e4oLAMRt": {
               "name": "Rayo de frío",
-              "description": "<p>El atropal utiliza su [[/item Ray of Cold]].</p>"
+              "description": "<p>El atropal utiliza su [[/item Ray of Cold]]{Rayo de frío}.</p>"
             },
             "J7gsFGAX9E6ZzKvC": {
-              "name": "Resistencia mágica",
-              "description": "<p>El atropal tiene ventaja en el ahorro de lanzamientos contra conjuros y otros efectos mágicos.</p>"
+              "name": "Resistencia Mágica",
+              "description": "<p>El atropal tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.</p>"
             },
             "sht4JeHW4fYbdfNC": {
-              "name": "Energía negativa Aura",
-              "description": "<p>Criaturas a menos de 30 pies del atropal no pueden recuperar puntos de impacto, y cualquier criatura que comienza su turno a menos de 30 pies del atropal toma [[/damage average]] promedio. Si el atropal es golpeado por un <em><strong>espada vorpal</strong></em>, el empuñador puede cortar el cordón umbilical del atropal en lugar de hacer daño. Si se corta el cordón umbilical, el atropal pierde esta característica.</p>"
+              "name": "Aura de Energía Negativa",
+              "description": "<p>Las criaturas a 30 pies o menos del atropal no pueden recuperar puntos de golpe. Además, cualquier criatura que comience su turno a 30 pies o menos de él sufre [[/damage average]] de daño. Si una <em><strong>espada vorpal</strong></em> impacta al atropal, quien la empuña puede cortar su cordón umbilical en lugar de infligir daño. Si se corta el cordón, el atropal pierde este rasgo.</p>"
             },
             "QnVaE5SjqY2NGfeQ": {
-              "name": "Girar la resistencia Aura",
-              "description": "<p>El atropal y cualquier otra criatura no-muerta a menos de 30 pies de distancia tiene ventaja en los lanzamientos de ahorro contra cualquier efecto que se convierte en no-muerto.</p>",
+              "name": "Aura de Resistencia a Expulsión",
+              "description": "<p>El atropal y cualquier otro muerto viviente a 30 pies o menos de él tienen ventaja en las tiradas de salvación contra efectos que expulsan muertos vivientes.</p>",
               "activities": {
                 "lUcgfJ0LU4ZxYGZI": {
                   "target": {
                     "affects": {
-                      "special": "Criaturas no muertas"
+                      "special": "Criaturas muertas vivientes"
                     }
                   }
                 }
@@ -830,7 +830,7 @@
           },
           "name": "Atropal",
           "creatureSubtype": "Titán",
-          "languages": "Entiende, pero sólo pronuncia obscenos disparates",
+          "languages": "Entiende celestial, pero solo profiere obscenidades sin sentido",
           "tokenName": "Atropal",
           "biography": "<p>Un atropal es una creación espantosa e inacabada de un dios malvado, abandonada a la deriva hace mucho tiempo. Como nunca estuvo verdaderamente vivo, no puede ser alzado de entre los muertos ni resucitado por ningún medio. Ni siquiera la intervención divina puede dar vida auténtica a este horror miserable y aborrecible.</p><p>Su cuerpo está deforme e incompleto. Es húmedo, arrugado e hinchado, con una cabeza desmesurada y sin pelo y unos ojos vidriosos e inexpresivos. Babea constantemente un icor hediondo mientras profiere obscenidades. Tiene brazos demasiado delgados y manos diminutas rematadas por uñas de formas crueles. Nunca camina: flota siempre, con las piernas muertas y atrofiadas colgando inútilmente bajo él.</p><p><em><strong>Conexión con la energía negativa</strong></em>. El cordón umbilical reseco del atropal parece perderse en la nada, pero en realidad lo une al Plano Negativo. Este vínculo le otorga poder sobre la muerte y la no muerte. Una <em><strong>espada vorpal</strong></em> u otra arma vorpal puede cortar el cordón, debilitando su conexión con ese plano.</p><p>El atropal puede invocar vestigios de criaturas que murieron en el Plano Negativo, que se manifiestan como @UUID[Compendium.dnd5e.monsters.Actor.ET4PEVEiNJLU4f7c]{apariciones}. Estos sirvientes solo pueden existir fuera de ese plano gracias a la fuerza de voluntad del atropal, y se disipan rápidamente cuando este es destruido.</p><p><em><strong>Naturaleza de muerto viviente</strong></em>. Un atropal no necesita respirar, comer, beber ni dormir.</p>"
         },

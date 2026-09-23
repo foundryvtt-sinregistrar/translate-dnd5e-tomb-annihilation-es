@@ -1569,6 +1569,22 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   planta o usar de nuevo el rasgo; no se describe como un conjuro.
 - Auditorías técnica y editorial sin errores. Pendiente ejecución en Foundry.
 
+### appendix-d-atropal-traits — Acciones y auras del atropal
+
+- Revisados 58 campos de ambas copias, con referencia física 214.
+- Restaurado «celestial» en la nota de idiomas, respaldado por el PDF y por
+  `languages.value` del actor. Corregido el título erróneo «Disrupt Life» a
+  «Lamento»: descripción, salvación y coste de tres acciones lo identifican.
+- Conservados recuperación de la mitad del daño, control exclusivo de las
+  apariciones y pérdida del aura al cortar el cordón. Corregido «average»
+  sobrante en la prosa del aura de energía negativa.
+- Pendientes funcionales del original: Rayo de frío tiene alcance narrativo
+  120 pies pero actividad con alcance `self` y tipo de ataque sin completar;
+  Lamento también carece del alcance de 120 pies en su actividad. Los enlaces
+  `[[/item Touch]]` y `[[/item Ray of Cold]]` usan nombres ingleses y requieren
+  resolución por identificador para no depender del nombre traducido.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
 - 760 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -1576,8 +1592,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
   del capítulo 4, 126 del capítulo 5 y 155 de los apéndices A, B, C, D y F.
   No equivale a 760 páginas del PDF.
-- 2495 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 2495 campos distintos.
+- 2553 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 2553 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas quince biografías en ambas copias de actores: siete
   príncipes y ocho criaturas o PNJ del apéndice D. Siguen pendientes las demás
