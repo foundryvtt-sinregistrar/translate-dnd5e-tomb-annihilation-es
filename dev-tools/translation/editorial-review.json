@@ -14369,6 +14369,135 @@
           "status": "reviewed-against-es-extraction-and-en-export"
         }
       ]
+    },
+    {
+      "id": "ch5-level3-puzzles-01",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level3Vaul.pages.aWy1Tasm9PJePLCK.text",
+          "sourceSha256": "93203231dabfd27d988bd32088ece0c1ad996267369ccc5293260324d65cb5b8",
+          "translationSha256": "b1a0dd53d02cd436d4ed4260317c2e561b898c060d0d09a39330f3e6d87e89cd",
+          "pdfEsPages": [
+            148,
+            149
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level3Vaul.pages.aWy1Tasm9PJePLCK.name",
+          "sourceSha256": "6d1d4340545ea82404976cd254dd37699e80a3b2cb622499c711d398dfd531e2",
+          "translationSha256": "47028831159f75028b9e7c6b1780c0c738fac6a0f751fe820639d65cef215196",
+          "pdfEsPages": [
+            148,
+            149
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch5-level3-puzzles-02",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level3Vaul.pages.THpvzBI8rlIcqR90.text",
+          "sourceSha256": "708e21f5a3ca45ae3561aa6c887938559b73c80f4dfb882e142710ddd8693e8d",
+          "translationSha256": "54785a76710066ec8dc9cd7b16685c8b8893e82f9fce6bc190e29747b5fbea31",
+          "pdfEsPages": [
+            149
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level3Vaul.pages.THpvzBI8rlIcqR90.name",
+          "sourceSha256": "7eaa610b0ae7a2a23185fc7823032e204641d2a35ebe3325788f0bdd0ff201ee",
+          "translationSha256": "71e981a9ca12ba2ad21081e23ecd77e86da308c26b02767165f14d1673960410",
+          "pdfEsPages": [
+            149
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch5-level3-puzzles-03",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level3Vaul.pages.66a6mYEvoNLyAX7d.text",
+          "sourceSha256": "443e76ab489bafffd89e0cb74159b2a4bcbefdb6bbf57e2a7af27dc45948ffcc",
+          "translationSha256": "6ae3362320ab9c29d65c08bb564659d457cd43c63d543c57c8527d568c194636",
+          "pdfEsPages": [
+            150
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level3Vaul.pages.66a6mYEvoNLyAX7d.name",
+          "sourceSha256": "1c8abee2fb24d01467edf156a396c1f2b3afcc725d386a7c8d47345d1526eb7f",
+          "translationSha256": "fb0d3871ad60f259a9d33adc069c29b88f2e5abefeafd8687c16c64f4245568a",
+          "pdfEsPages": [
+            150
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch5-level3-puzzles-04",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level3Vaul.pages.kFaHifbbANasEFqN.text",
+          "sourceSha256": "fa9a1141cba4312788ef67aa18e2c3e5748a6ab149b4184c4d81df271ccda03c",
+          "translationSha256": "ec012fffa4743ab3a4bcc093e4117baafba74a1bd7d8b8dd7b769c2fa441e0c1",
+          "pdfEsPages": [
+            150
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level3Vaul.pages.kFaHifbbANasEFqN.name",
+          "sourceSha256": "9d24a5360b64770e08e8a071d139376b499ce0d5709b812e656ac90b5e5c85ed",
+          "translationSha256": "373c97cd7eeecc293a662a373083d1b443c7a09fc83dfa93785120eba4d1a1c2",
+          "pdfEsPages": [
+            150
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "ch5-level3-puzzles-05",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level3Vaul.pages.M2cR6M2WMJMBAJYw.text",
+          "sourceSha256": "e64aabeaa597c3dafe3c9a721caee338f5a69f71ddd414ccd3b267ca94fe078b",
+          "translationSha256": "76a226f8fbdafb20330b1ce481436e4e79050dddbd19fa18f90eeeb46f082a7b",
+          "pdfEsPages": [
+            150,
+            151
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level3Vaul.pages.M2cR6M2WMJMBAJYw.name",
+          "sourceSha256": "df8fefb6944b20a0f3d8f46f5708e755dfd467253a9f70070906f03f0dc02d2a",
+          "translationSha256": "d08d23be9e4ca3e2f68c54ada2d6bff390659cb70c03828eded5378315a29d8d",
+          "pdfEsPages": [
+            150,
+            151
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
     }
   ]
 }

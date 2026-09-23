@@ -905,14 +905,27 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   según el export, no ante cualquier daño como sugiere el PDF.
 - Auditorías técnica y editorial sin errores.
 
+### ch5-level3-puzzles-01 a ch5-level3-puzzles-05 — Túneles, sombra y jeroglíficos
+
+- Revisados cinco textos y títulos con referencias físicas 148-151.
+- Conservados los sentidos de giro, descenso y ascenso de los túneles y
+  el reparto del aire según el número de ocupantes. Traducida la limitación
+  original de los muros norte-sur de la escena; pendiente de validación en juego.
+- El duplicado debe beber la sopa para revelar el tesoro; disiparla no basta.
+  Conservada la excepción de inmunidad al miedo ante su rostro.
+- Revisada la secuencia buitre-serpiente-puerta-junco-escarabajo-cetro-pie-urna,
+  la mirilla telepática y la diferencia entre retirar el medallón y retirar el disco.
+- Corregidos rótulos con paréntesis mal colocados en dos enlaces de zona 44.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 531 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 536 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4 y cincuenta y dos del capítulo 5. No equivale a 531 páginas del PDF.
-- 1172 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1172 campos distintos.
+  del capítulo 4 y cincuenta y siete del capítulo 5. No equivale a 536 páginas del PDF.
+- 1182 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1182 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
