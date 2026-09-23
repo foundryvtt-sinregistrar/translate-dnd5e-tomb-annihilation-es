@@ -1633,18 +1633,31 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Los enlaces por nombre `Bite`, `Claw` y `Claws` se incorporan al pendiente
   de resolución por identificador. Auditorías técnica y editorial sin errores.
 
+### appendix-d-dragonbait — Dragonbait
+
+- Revisados 46 campos de las dos copias del actor y su página, con referencias
+  físicas 218 y 219. Incluye biografía, armas, armadura, escudo y rasgos.
+- Conservados los nueve aromas y sus significados, amistad con Artus, estado
+  Shen y límites de Sentir alineamiento. Restaurado «común» en la nota truncada
+  de idiomas. Las descripciones de equipo se traducen del exportado inglés.
+- Pendiente funcional comprobado: el enlace público a Artus usa el identificador
+  `PDrrOhj8llUHrZ8e`, ausente del compendio exportado; el actor revisado de Artus
+  tiene identificador `hNq59kIhDGqZBGXl`. El bloque de ideales, vínculos y defectos
+  del PDF tampoco figura en la biografía ni en esta página del original.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 770 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 771 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 165 de los apéndices A, B, C, D y F.
-  No equivale a 770 páginas del PDF.
-- 2833 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 2833 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 166 de los apéndices A, B, C, D y F.
+  No equivale a 771 páginas del PDF.
+- 2879 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 2879 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas dieciocho biografías en ambas copias de actores: siete
-  príncipes y once criaturas o PNJ del apéndice D. Siguen pendientes las demás
+  insertado. Revisadas diecinueve biografías en ambas copias de actores: siete
+  príncipes y doce criaturas o PNJ del apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las

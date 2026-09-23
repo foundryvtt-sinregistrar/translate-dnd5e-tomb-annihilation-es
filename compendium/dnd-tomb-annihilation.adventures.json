@@ -1766,42 +1766,42 @@
           "items": {
             "giCFke8LiXofyJVd": {
               "name": "Ataque múltiple",
-              "description": "<p>Dragonbait hace dos ataques de arma cuerpo a cuerpo con [[/item .wDBnkTa6sPDi2FdS]].</p>"
+              "description": "<p>Dragonbait realiza dos ataques con arma cuerpo a cuerpo con su [[/item .wDBnkTa6sPDi2FdS]]{Vengadora sagrada}.</p>"
             },
             "b0SNvYdI962Trlsw": {
               "name": "Escudo",
-              "description": "<p>Un escudo está hecho de madera o metal y se lleva en una mano. Wieling un escudo aumenta su clase de armadura en 2. Sólo puedes beneficiarte de un escudo a la vez.</p>"
+              "description": "<p>Un escudo es de madera o metal y se lleva en una mano. Empuñarlo aumenta tu Clase de Armadura en 2. Solo puedes beneficiarte de un escudo a la vez.</p>"
             },
             "wDBnkTa6sPDi2FdS": {
               "name": "Vengadora sagrada",
-              "description": "<p>[[/attack extended]]. [[/damage extended average]] o [[/damage twoHanded average]]. Si el objetivo es un demonio o un no-muerto, se necesita un extra [[/damage average activity=aj1fbl5S58b8M2k0]] daño.</p>",
+              "description": "<p>[[/attack extended]]. [[/damage extended average]] o [[/damage twoHanded average]]. Si el objetivo es un infernal o un muerto viviente, sufre [[/damage average activity=aj1fbl5S58b8M2k0]] de daño adicional.</p>",
               "activities": {
                 "aj1fbl5S58b8M2k0": {
-                  "name": "Daño adicional: Fiend/Undead"
+                  "name": "Daño adicional a infernales y muertos vivientes"
                 }
               }
             },
             "hWfFWcMix2B9lEip": {
-              "name": "Alineación sensorial",
-              "description": "<p>Dragonbait elige a una criatura que puede ver a menos de 60 pies de él y determina su alineación, siempre y cuando la criatura no esté oculta de la adivinación mágica por un conjuro u otro efecto mágico.</p>"
+              "name": "Sentir alineamiento",
+              "description": "<p>Dragonbait elige a una criatura que pueda ver a 60 pies o menos y determina su alineamiento, siempre que un conjuro u otro efecto mágico no la oculte de la magia de adivinación.</p>"
             },
             "elUl47EbjA7MAnuM": {
               "name": "Coraza",
-              "description": "<p>Esta armadura consta de una pieza metálica de pecho que se usa con cuero flexible. Aunque deja las piernas y los brazos relativamente desprotegidos, esta armadura proporciona una buena protección para los órganos vitales del usuario mientras que deja al portador relativamente sin compromiso.</p>"
+              "description": "<p>Esta armadura consta de una pieza de metal ajustada al torso que se lleva sobre cuero flexible. Aunque deja los brazos y las piernas relativamente desprotegidos, protege bien los órganos vitales sin entorpecer demasiado los movimientos.</p>"
             },
             "46EUjcR6fb9nzF4K": {
               "name": "Salud Divina",
               "description": "<p>Dragonbait es inmune a las enfermedades.</p>"
             },
             "Hvt44X3EyDFUEuno": {
-              "name": "Resistencia mágica Aura",
-              "description": "<p>Mientras sostiene a su santo vengador, Dragonbait crea un aura en un radio de 10 pies a su alrededor. Mientras que este aura es activa, Dragonbait y todas las criaturas amigables con él en el aura tienen ventaja en el ahorro de lanzamientos contra conjuros y otros efectos mágicos.</p>"
+              "name": "Aura de Resistencia Mágica",
+              "description": "<p>Mientras sostiene su vengadora sagrada, Dragonbait crea un aura de 10 pies de radio a su alrededor. Mientras está activa, él y todas las criaturas amistosas hacia él que se encuentren en el aura tienen ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.</p>"
             }
           },
           "creatureSubtype": "Saurial",
-          "languages": "Entiende, pero no puede hablar",
-          "biographyPublic": "<p><em>Véase también: @UUID[Compendium.dnd-tomb-annihilation.actors.Actor.PDrrOhj8llUHrZ8e]{Artus Cimber}</em></p>",
-          "biography": "<p>Dragonbait es un campeón del bien y un saurial... una raza que se originó en un mundo distante y cuyos miembros tienen largas vidas. Muy pocos sauriales habitan en los Reinos Olvidados, y no se cree que existan comunidades sauriales en ningún lugar del mundo.</p><p>El lenguaje del saurial es una combinación de clics y silbatos más allá del alcance humano de la audición, por lo que Dragonbait tiende a depender de los olores para comunicar emociones. Para ser entendido por la mayoría de las criaturas que hablan, él debe \"gritar\" un olor. Los aromas conocidos de Dragonbait incluyen: azufre (confusión), rosas (tristeza), limón (placer o alegría), pan horneado (enojo), violetas (peligro o miedo), madreselva (sensibilidad o preocupación), humo de madera (devoción o piedad), alquitrán (victoria o celebración), y jamón (nervudez o preocupación).</p><p>Dragonbait mide 4 pies 10 pulgadas de alto, pesa 150 libras, y tiene una piel seca y arrugada. Tiene una espada de venganza y lleva un escudo azul, rojo y blanco. Aunque tiene rasgos en común con paladines, Dragonbait no es miembro de ninguna clase. Usando una habilidad conocida como el estado Shen, puede determinar la alineación de cualquier criatura a menos de 60 pies de él.</p><p><em><strong>Una amistad inesperada</strong></em>. Dragonbait conoció a Artus Cimber en Port Nyanzaru, y los dos se convirtieron en amigos rápidos. Mientras Artus hablaba de su búsqueda para reunirse con su esposa, Alisanda, se sintió consolado por la manera tranquila de Dragonbait y los métodos inusuales de comunicación. Con una sonrisa y un guiño, Dragonbait accedió a ayudar a Artus. Visitante frecuente de Chul, el saurial comprendió demasiado bien los peligros de la selva.</p><p><em><strong>Usando Dragonbait</strong></em>. Dragonbait nunca ha estado en Omu y no sabe dónde se encuentra la ciudad. Si los personajes convencen a Artus Cimber para ayudarles a destruir el Almero, Dragonbait también quiere ayudar.</p>"
+          "languages": "Entiende común, pero no puede hablar",
+          "biographyPublic": "<p><em>Consulta también: @UUID[Compendium.dnd-tomb-annihilation.actors.Actor.PDrrOhj8llUHrZ8e]{Artus Cimber}</em></p>",
+          "biography": "<p>Dragonbait es un campeón del bien y un saurial, una raza originaria de un mundo lejano cuyos miembros son longevos. Muy pocos sauriales viven en los Reinos Olvidados, y se cree que no existe ninguna comunidad de ellos en todo el mundo.</p><p>Su idioma combina chasquidos y silbidos que los humanos no pueden oír, por lo que Dragonbait suele recurrir a los olores para comunicar sus emociones. Para que la mayoría de las criaturas parlantes lo entiendan, debe «gritar» un aroma. Entre sus olores conocidos figuran el azufre (confusión), las rosas (tristeza), el limón (placer o alegría), el pan recién horneado (ira), las violetas (peligro o miedo), la madreselva (ternura o preocupación), el humo de leña (devoción o piedad), la brea (victoria o celebración) y el jamón (nerviosismo o inquietud).</p><p>Dragonbait mide 4 pies y 10 pulgadas, pesa 150 libras y tiene la piel seca y arrugada. Empuña una espada larga vengadora sagrada y lleva un escudo azul, rojo y blanco. Aunque comparte rasgos con los paladines, no pertenece a ninguna clase. Mediante una capacidad conocida como estado Shen, puede determinar el alineamiento de cualquier criatura a 60 pies o menos.</p><p><em><strong>Una amistad inesperada</strong></em>. Dragonbait conoció a Artus Cimber en Puerto Nyanzaru y pronto se hicieron amigos. Mientras Artus le hablaba de su búsqueda para reunirse con su esposa, Alisanda, la actitud tranquila del saurial y su peculiar forma de comunicarse lo reconfortaron. Dragonbait sonrió, asintió y accedió a ayudarlo. Como visitante habitual de Chult, conocía muy bien los peligros de la selva.</p><p><em><strong>Usar a Dragonbait</strong></em>. Dragonbait nunca ha estado en Omu y no sabe dónde se encuentra. Si los personajes convencen a Artus Cimber de que los ayude a destruir el Almero, Dragonbait también desea ayudarlos.</p>"
         },
         "M7dS6F408T5O9muw": {
           "items": {
