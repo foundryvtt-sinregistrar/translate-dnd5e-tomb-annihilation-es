@@ -711,8 +711,8 @@
           "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>"
         },
         "vMTFy2QWOQSqJWlp": {
-          "name": "Roca caída",
-          "description": "<p><em>Ataque con arma de alcance:</em> [[/attack]] para golpear, un blanco directamente debajo del kobold. Pulse: [[/damage average]] daño.</p>",
+          "name": "Soltar Roca",
+          "description": "<p><em>Ataque con arma a distancia:</em> [[/attack]] a impactar, un objetivo directamente debajo del kobold. Impacto: [[/damage average]] de daño.</p>",
           "activities": {
             "AHW7kqyzkLoOcTQO": {
               "target": {
@@ -724,12 +724,12 @@
           }
         },
         "ufCF0tledRVxDUKO": {
-          "name": "Sensibilidad a la luz solar",
-          "description": "<p>Mientras que en la luz del sol, el kobold tiene desventaja en los rollos de ataque, así como en la sabiduría (percepción) controles que dependen de la vista.</p>"
+          "name": "Sensibilidad a la Luz Solar",
+          "description": "<p>Bajo la luz del sol, el kobold tiene desventaja en las tiradas de ataque y en las pruebas de Sabiduría (Percepción) que dependan de la vista.</p>"
         },
         "s1HcNnwpTHaREfyz": {
-          "name": "Tácticas de empaquetado",
-          "description": "<p>El kobold tiene ventaja en un ataque rodando contra una criatura si al menos uno de los aliados del kobold está a menos de 5 pies de la criatura y el aliado no está &amp;Reference[Incapacitated apply=false].</p>"
+          "name": "Atacar en Manada",
+          "description": "<p>El kobold tiene ventaja en una tirada de ataque contra una criatura si al menos uno de sus aliados está a 5 pies o menos de ella y no está &amp;Reference[Incapacitated apply=false]{incapacitado}.</p>"
         }
       },
       "name": "Kobold alado",
@@ -1010,7 +1010,7 @@
       "items": {
         "VW6DZPtQ5vtLhyC5": {
           "name": "Ataque múltiple",
-          "description": "<p>El orco hace dos ataques con su [[/item Greataxe]] o su lanza.</p>"
+          "description": "<p>El orco realiza dos ataques con su [[/item Greataxe]]{Hacha a dos manos} o con su lanza.</p>"
         },
         "PJJK4Zp9Ge5wU2MH": {
           "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
@@ -1018,40 +1018,40 @@
         },
         "E21adMvOMYRjp5eR": {
           "name": "Lanza",
-          "description": "<p>[[/attack extended]]. [[/damage extended average]] o [[/damage average activity=xCDB21ybYScW5tzl]] si se usa con dos manos para hacer un ataque cuerpo a cuerpo.</p>",
+          "description": "<p>[[/attack extended]]. [[/damage extended average]] o [[/damage average activity=xCDB21ybYScW5tzl]] si se empuña a dos manos para realizar un ataque cuerpo a cuerpo.</p>",
           "activities": {
             "dnd5eactivity000": {
-              "name": "Ataque: Un solo mando"
+              "name": "Ataque: a una mano"
             },
             "xCDB21ybYScW5tzl": {
-              "name": "Ataque: Dos manos"
+              "name": "Ataque: a dos manos"
             }
           }
         },
         "rLMflzmxpe8JGTOA": {
-          "name": "Cadena de correo",
-          "description": "<p>Hecho de anillos de metal entrelazados, la cadena de correo incluye una capa de tela acolchada que se usa debajo del correo para evitar roces y amortiguar el impacto de los golpes. El traje incluye guantes.</p>"
+          "name": "Cota de malla",
+          "description": "<p>La cota de malla está hecha de anillas metálicas entrelazadas e incluye una capa de tejido acolchado bajo la malla para evitar rozaduras y amortiguar los golpes. La armadura incluye guanteletes.</p>"
         },
         "B6In5zZwSyKSYVvm": {
           "name": "Agresivo",
-          "description": "<p>Como acción extra, el orco puede subir a su velocidad hacia una criatura hostil que puede ver.</p>"
+          "description": "<p>Como acción adicional, el orco puede moverse hasta su velocidad hacia una criatura hostil que pueda ver.</p>"
         },
         "7E7ZiH1qsGtsazR7": {
           "name": "Furia de Gruumsh",
-          "description": "<p>El orco ofrece un extra [[/damage 1d8 average]] daño cuando golpea con un ataque de arma (incluido en los ataques).</p>"
+          "description": "<p>El orco causa [[/damage 1d8 average]] de daño adicional cuando impacta con un ataque con arma (incluido en los ataques).</p>"
         },
         "Q41vJb9n5H5i7EuJ": {
-          "name": "Llorón de batalla (1/día)",
-          "description": "<p>Cada criatura de la elección del jefe de guerra que está a menos de 30 pies de distancia, puede escucharlo, y no ya afectada por el grito de batalla ganar ventaja en los rollos de ataque hasta el comienzo del próximo turno del jefe de guerra. El jefe de guerra puede entonces hacer un ataque como una acción extra.</p>",
+          "name": "Grito de Guerra (1/día)",
+          "description": "<p>Cada criatura que el caudillo elija a 30 pies o menos de él, que pueda oírlo y que no esté ya afectada por Grito de Guerra obtiene ventaja en las tiradas de ataque hasta el comienzo del siguiente turno del caudillo. Después, el caudillo puede realizar un ataque como acción adicional.</p>",
           "activities": {
             "GxLMq4p0X3aYh8vl": {
-              "name": "Gasto"
+              "name": "Gastar un uso"
             }
           }
         }
       },
-      "name": "Jefe de Guerra Orca",
-      "tokenName": "Jefe de Guerra Orca"
+      "name": "Caudillo orco",
+      "tokenName": "Caudillo orco"
     },
     "82uFMqFQR1Y71Ex9": {
       "name": "Mano de Bigby (hielo)",
@@ -3304,23 +3304,23 @@
         "bGmBlXrvTBQgPMBJ": {
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
           "name": "Hacha a dos manos",
-          "descriptionChat": "<p>El Orco ataca con su Gran Eje.</p>"
+          "descriptionChat": "<p>El orco ataca con su hacha a dos manos.</p>"
         },
         "SrRZ2hBUcaXZiRab": {
           "name": "Jabalina",
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-          "descriptionChat": "<p>El Orco ataca con su Jabalina.</p>"
+          "descriptionChat": "<p>El orco ataca con su jabalina.</p>"
         },
         "MY9hQkOnh2onjZEh": {
           "name": "Armadura de pieles",
-          "description": "<p>Esta armadura cruda consta de pieles gruesas y pieles. Es comúnmente usado por tribus bárbaras, humanoides malvados, y otras personas que carecen de acceso a las herramientas y materiales necesarios para crear una mejor armadura.</p>"
+          "description": "<p>Esta rudimentaria armadura está hecha de pieles gruesas. Suelen llevarla tribus bárbaras, humanoides malvados y otros pueblos sin acceso a las herramientas y materiales necesarios para fabricar armaduras mejores.</p>"
         },
         "Go8ESMzuWcYaFcqE": {
           "name": "Agresivo",
-          "description": "<p>Como acción extra, el orco puede subir a su velocidad hacia una criatura hostil que puede ver.</p>"
+          "description": "<p>Como acción adicional, el orco puede moverse hasta su velocidad hacia una criatura hostil que pueda ver.</p>"
         }
       },
-      "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+      "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
     },
     "RliKw170F26yfIXb": {
       "alignment": "Caótico malvado",
@@ -4740,26 +4740,26 @@
         "io78wguVwNy9VfZ4": {
           "name": "Daga",
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-          "descriptionChat": "<p>El Kobold ataca con su Daga.</p>"
+          "descriptionChat": "<p>El kobold ataca con su daga.</p>"
         },
         "0yHcZm2TzgOyt3fI": {
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
           "name": "Honda",
-          "descriptionChat": "<p>El Kobold ataca con su honda.</p>"
+          "descriptionChat": "<p>El kobold ataca con su honda.</p>"
         },
         "HlRML24gXEmuamg9": {
-          "name": "Sensibilidad a la luz solar",
-          "description": "<p>Mientras que en la luz del sol, el kobold tiene<strong> desventaja </strong>en los rollos de ataque, así como en la Sabiduría (percepción) controles que dependen de la vista.</p>"
+          "name": "Sensibilidad a la Luz Solar",
+          "description": "<p>Mientras esté bajo la luz solar, el kobold tiene<strong> desventaja </strong>en las tiradas de ataque y en las pruebas de Sabiduría (Percepción) que dependan de la vista.</p>"
         },
         "pZLDhUyfsObRKMpP": {
-          "name": "Tácticas de empaquetado",
-          "description": "<p>El kobold tiene<strong> ventaja </strong>en un ataque rodar contra una criatura si al menos uno de los aliados del kobold está dentro <strong>5 pies.</strong> de la criatura y el aliado no está incapacitado.</p>"
+          "name": "Atacar en Manada",
+          "description": "<p>El kobold tiene<strong> ventaja </strong>en una tirada de ataque contra una criatura si al menos uno de sus aliados está a <strong>5 pies</strong> o menos de ella y no está incapacitado.</p>"
         }
       },
       "name": "Kobold",
       "creatureSubtype": "Kobold",
       "tokenName": "Kobold",
-      "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+      "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
     },
     "dXx23gdjUucsqHqW": {
       "alignment": "Neutral",
@@ -4877,11 +4877,11 @@
       "items": {
         "ZQRXxpwNzfQSKAIU": {
           "name": "Ataque múltiple",
-          "description": "<p>El duende hace dos ataques con su [[/item Scimitar]]. El segundo ataque tiene desventajas.</p>"
+          "description": "<p>El goblin realiza dos ataques con su [[/item Scimitar]]{Cimitarra}. El segundo ataque tiene desventaja.</p>"
         },
         "sSs3hSzkKBMNBgTs": {
           "name": "Escudo",
-          "description": "<p>Un escudo está hecho de madera o metal y se lleva en una mano. Wieling un escudo aumenta su clase de armadura en 2. Sólo puedes beneficiarte de un escudo a la vez.</p>"
+          "description": "<p>Un escudo está hecho de madera o metal y se lleva en una mano. Empuñar un escudo aumenta tu Clase de Armadura en 2. Solo puedes beneficiarte de un escudo a la vez.</p>"
         },
         "JmCJ5b1QFqu91tD4": {
           "name": "Cimitarra",
@@ -4892,21 +4892,21 @@
           "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>"
         },
         "xnWviKpM9xy0DWor": {
-          "name": "Redirigir ataque",
-          "description": "<p>Cuando una criatura el goblin puede ver los objetivos con un ataque, el goblin elige otro goblin dentro de 5 pies de él. Los dos goblins intercambian lugares, y el goblin elegido se convierte en el objetivo.</p>"
+          "name": "Redirigir Ataque",
+          "description": "<p>Cuando una criatura que el goblin pueda ver lo elige como objetivo de un ataque, el goblin elige a otro goblin a 5 pies o menos. Ambos intercambian posiciones y el goblin elegido pasa a ser el objetivo del ataque.</p>"
         },
         "p2zChy24ZJdVqMSH": {
-          "name": "Camisa de cadena",
-          "description": "<p>Hecho de anillos metálicos entrelazados, una camisa de cadena se usa entre capas de ropa o cuero. Esta armadura ofrece una protección modesta a la parte superior del cuerpo del usuario y permite que el sonido de los anillos frotarse unos contra otros para ser amortiguado por capas externas.</p>"
+          "name": "Camisa de malla",
+          "description": "<p>Una camisa de malla está hecha de anillas de metal entrelazadas y se lleva entre capas de ropa o cuero. Esta armadura ofrece una protección modesta al torso y permite amortiguar el ruido del roce de las anillas con las capas exteriores.</p>"
         },
         "ouBYyrH7zhmYEu0T": {
-          "name": "Escape ágil",
-          "description": "<p>El duende puede tomar el &amp;Reference[Disengage] o &amp;Reference[Hide] acción como una acción adicional en cada uno de sus turnos.</p>"
+          "name": "Huida Ágil",
+          "description": "<p>El goblin puede realizar la acción de &amp;Reference[Disengage]{Destrabarse} o &amp;Reference[Hide]{Esconderse} como acción adicional en cada uno de sus turnos.</p>"
         }
       },
-      "name": "Duende Jefe",
+      "name": "Jefe goblin",
       "creatureSubtype": "Goblinoide",
-      "tokenName": "Duende Jefe"
+      "tokenName": "Jefe goblin"
     },
     "eAeqHt83xvl3X0Rb": {
       "alignment": "Neutral malvado",
@@ -6103,30 +6103,30 @@
         "lZ5YdCcXmEDR6vhb": {
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
           "name": "Hacha a dos manos",
-          "descriptionChat": "<p>El Minotauro ataca con su Greataxe.</p>"
+          "descriptionChat": "<p>El minotauro ataca con su hacha a dos manos.</p>"
         },
         "zTqVT0QztTuMOv0e": {
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
           "name": "Cornada",
-          "descriptionChat": "<p>El Minotauro ataca con su Gore.</p>"
+          "descriptionChat": "<p>El minotauro ataca con su cornada.</p>"
         },
         "Z1aFAtAP0JJ02tPV": {
           "name": "Carga",
-          "description": "<p>Si el minotauro se mueve por lo menos 10 pies rectos hacia un objetivo y luego lo golpea con un ataque de gore en el mismo giro, el objetivo toma un extra <strong>9 (2d8) <em>daño por perforación</em></strong>. </p><p>Si el objetivo es una criatura, debe tener éxito en un  <strong>CD 14 Fuerza</strong> ahorro tirar o ser empujado hasta 10 pies de distancia y noqueado propenso.</p>",
-          "descriptionChat": "<p>Si el minotauro se mueve al menos 10 pies rectos hacia un objetivo y luego lo golpea con un ataque de gore en el mismo giro, el objetivo toma extra <em>daño por perforación</em>. Si el objetivo es una criatura, debe hacer un <strong>Fuerza</strong> ahorro tirar o ser empujado hasta 10 pies de distancia y noqueado propenso.</p>"
+          "description": "<p>Si el minotauro se mueve al menos 10 pies en línea recta hacia un objetivo y después lo impacta con una cornada en el mismo turno, el objetivo sufre <strong>9 (2d8) de <em>daño perforante</em></strong> adicional.</p><p>Si el objetivo es una criatura, debe superar una tirada de salvación de <strong>Fuerza CD 14</strong> o ser empujado hasta 10 pies y caer derribado.</p>",
+          "descriptionChat": "<p>Si el minotauro se mueve al menos 10 pies en línea recta hacia un objetivo y después lo impacta con una cornada en el mismo turno, el objetivo sufre <em>daño perforante</em> adicional. Si es una criatura, debe superar una tirada de salvación de <strong>Fuerza</strong> o ser empujado hasta 10 pies y caer derribado.</p>"
         },
         "Fybno0bT1qZO1sSj": {
-          "name": "Labirintina recuerda",
-          "description": "<p>El minotauro puede recordar perfectamente cualquier camino que haya recorrido.</p>"
+          "name": "Memoria de Laberinto",
+          "description": "<p>El minotauro puede recordar a la perfección cualquier camino que haya recorrido.</p>"
         },
         "i1CyGkejt1lDCHEu": {
           "name": "Temerario",
-          "descriptionChat": "<section class=\"secret\"><p></p></section><p>Al comienzo de su turno, el minotauro puede ganar ventaja en todos los rodillos de ataque de armas cuerpo a cuerpo que hace durante ese turno, pero los rodillos de ataque contra él tienen ventaja hasta el inicio de su siguiente turno.</p>"
+          "descriptionChat": "<section class=\"secret\"><p></p></section><p>Al comienzo de su turno, el minotauro puede obtener ventaja en todas las tiradas de ataque con armas cuerpo a cuerpo que realice durante ese turno, pero las tiradas de ataque contra él tienen ventaja hasta el comienzo de su siguiente turno.</p>"
         }
       },
       "name": "Minotauro",
       "tokenName": "Minotauro",
-      "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+      "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
     },
     "mqt9J4A1jweBx6P1": {
       "items": {
@@ -6448,23 +6448,23 @@
       "items": {
         "KO6Ez3XWFM4iH4zB": {
           "name": "Lanza",
-          "description": "<p>[[/attack extended]]. [[/damage extended average]] o [[/damage twoHanded average]] si se usa con dos manos para hacer un ataque cuerpo a cuerpo.</p>",
+          "description": "<p>[[/attack extended]]. [[/damage extended average]] o [[/damage twoHanded average]] si se empuña a dos manos para realizar un ataque cuerpo a cuerpo.</p>",
           "descriptionChat": "<p>El guerrero tribal ataca con su lanza.</p>"
         },
         "hbpux5uhl63ObLBg": {
           "name": "Armadura de pieles",
-          "description": "<p>Esta armadura cruda consta de pieles gruesas y pieles. Es comúnmente usado por tribus bárbaras, humanoides malvados, y otras personas que carecen de acceso a las herramientas y materiales necesarios para crear una mejor armadura.</p>"
+          "description": "<p>Esta rudimentaria armadura está hecha de pieles gruesas. Suelen llevarla tribus bárbaras, humanoides malvados y otros pueblos sin acceso a las herramientas y materiales necesarios para fabricar armaduras mejores.</p>"
         },
         "d0AIrKneA8GKmDE1": {
-          "name": "Tácticas de empaquetado",
-          "description": "<p>Los [[lookup @name lowercase]] tiene ventaja en un ataque rodando contra una criatura si al menos uno de los aliados del guerrero está a menos de 5 pies de la criatura y el aliado no está incapacitado.</p>"
+          "name": "Atacar en Manada",
+          "description": "<p>El [[lookup @name lowercase]] tiene ventaja en una tirada de ataque contra una criatura si al menos uno de los aliados del guerrero está a 5 pies o menos de ella y no está incapacitado.</p>"
         }
       },
       "name": "Guerrero tribal",
-      "alignment": "cualquier alineación",
-      "languages": "cualquier idioma",
+      "alignment": "Cualquier alineamiento",
+      "languages": "Un idioma cualquiera",
       "tokenName": "Guerrero tribal",
-      "biography": "<p><em>Token artwork by </em><a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\"><em>Aventuras olvidadas</em></a><em>.</em></p>"
+      "biography": "<p><em>Ilustración de la ficha por </em><a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\"><em>Forgotten Adventures</em></a><em>.</em></p>"
     },
     "otXvjcwMBSEUJPH3": {
       "alignment": "Sin alineamiento",

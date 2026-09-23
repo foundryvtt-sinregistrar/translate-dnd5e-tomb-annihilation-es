@@ -2528,6 +2528,17 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   posiciones con otro goblin y la duración de Temerario hasta el comienzo
   del siguiente turno de Voltan. No se añaden biografías ausentes del original.
 
+### additional-humanoids — Kobolds, goblins, orcos y minotauro
+
+- Revisados 222 campos de kobold, kobold alado, jefe goblin, orco, caudillo
+  orco, guerrero tribal y minotauro, en ambas copias, contra el exportado inglés.
+- Comprobados el objetivo situado bajo el kobold alado, las condiciones de
+  Atacar en Manada, la duración y los beneficiarios de Grito de Guerra y el
+  ataque adicional que permite al caudillo.
+- Conservados la carga y el desplazamiento del minotauro, su memoria de
+  caminos y la duración de Temerario. Revisadas las etiquetas de ataques a
+  una o dos manos y las descripciones del equipo.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2537,8 +2548,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
   de Foundry, tres de créditos y cuatro de historial.
   No equivale a 931 páginas del PDF.
-- 13261 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 13261 campos distintos.
+- 13483 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 13483 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento treinta y siete biografías en ambas copias de actores: siete
   príncipes, ciento veintisiete criaturas o PNJ vinculados al apéndice D y tres PNJ
