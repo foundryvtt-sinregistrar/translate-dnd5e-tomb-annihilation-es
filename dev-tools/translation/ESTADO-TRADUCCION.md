@@ -1676,18 +1676,30 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   5.000 po frente a las 2.500 po del PDF. Se conserva y traduce el exportado.
 - Corregida la etiqueta errónea «+4 AC Bonud» del efecto de Defensa con concha.
 
+### appendix-d-four-creatures — Mono, gárgola, tortuga y girallon
+
+- Revisados 106 campos: cuatro páginas y ambas copias del mono volador,
+  la gárgola gigante de cuatro brazos, la tortuga mordedora gigante y el girallon.
+  Referencias físicas 221, 222, 228 y 234.
+- Corregidos el enlace de encontrar familiar partido por el texto inglés y la
+  etiqueta copiada «Baboon» del mono. Conservados los UUID y las tiradas.
+- La tortuga se levanta mediante una prueba en el exportado; el PDF español
+  indica una salvación. Se conserva la prueba original y se registra la diferencia.
+- La biografía del girallon está vacía en el exportado. Los enlaces por nombre
+  `Bite` y `Claw` siguen pendientes de resolución por identificador.
+
 ## Balance de revisión editorial
 
-- 774 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 778 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 169 de los apéndices A, B, C, D y F.
-  No equivale a 774 páginas del PDF.
-- 3099 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 3099 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 173 de los apéndices A, B, C, D y F.
+  No equivale a 778 páginas del PDF.
+- 3205 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 3205 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas veintitrés biografías en ambas copias de actores: siete
-  príncipes y dieciséis criaturas o PNJ del apéndice D. Siguen pendientes las demás
+  insertado. Revisadas veintiséis biografías en ambas copias de actores: siete
+  príncipes y diecinueve criaturas o PNJ del apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las

@@ -2371,7 +2371,7 @@
         "J9d9hKPQkl5L8nSN": {
           "name": "Mono volador",
           "alignment": "Sin alineamiento",
-          "languages": "--",
+          "languages": "—",
           "tokenName": "Mono volador",
           "items": {
             "QSJS6Jt1OS2yfwl3": {
@@ -2379,12 +2379,12 @@
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>"
             },
             "Si5R1QvZZaub4EnJ": {
-              "name": "Tácticas de empaquetado",
-              "requirements": "Babuino",
-              "description": "<p>El mono volador tiene ventaja en un rollito de ataque contra una criatura si al menos uno de los aliados del mono está a menos de 5 pies de la criatura y el aliado no está incapacitado.</p>"
+              "name": "Atacar en Manada",
+              "requirements": "Mono volador",
+              "description": "<p>El mono volador tiene ventaja en las tiradas de ataque contra una criatura si al menos uno de sus aliados está a 5 pies o menos de ella y no está incapacitado.</p>"
             }
           },
-          "biography": "<p>Los monos voladores son ligeramente más inteligentes y curiosos que los monos comunes, y pueden ser domesticados y enseñados a obedecer órdenes simples. Vienen en muchos colores y variedades, con alas emplumadas que tienen un lapso de alrededor de 5 pies. Con el permiso del DM, el hallazgo <em>@UUID[Compendium.dnd5e.spells.Item.JGT5bNqu9REL7Fuz]{conjuro familiar}</em> puede convocar a un mono volador.</p>"
+          "biography": "<p>Los monos voladores son algo más listos y curiosos que los monos comunes, y se los puede domesticar y enseñar a obedecer órdenes sencillas. Existen en muchos colores y variedades, con alas emplumadas de unos 5 pies de envergadura. Con permiso del DM, el conjuro <em>@UUID[Compendium.dnd5e.spells.Item.JGT5bNqu9REL7Fuz]{encontrar familiar}</em> puede invocar a un mono volador.</p>"
         },
         "aGsedxuRgn7dsQOV": {
           "alignment": "Sin alineamiento",
@@ -2727,7 +2727,7 @@
           "items": {
             "MFu1FoVAGsSOo6Oe": {
               "name": "Ataque múltiple",
-              "description": "<p>La gárgola hace cinco ataques: uno con su [[/item Bite]] y cuatro con su [[/item Claw]].</p>"
+              "description": "<p>La gárgola realiza cinco ataques: uno con su [[/item Bite]]{Mordisco} y cuatro con su [[/item Claw]]{Garra}.</p>"
             },
             "FoteCILKE0TDmw9x": {
               "name": "Mordisco",
@@ -2738,12 +2738,12 @@
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>"
             },
             "PqYpPii43lVxbWud": {
-              "name": "Apariencia falsa",
-              "description": "<p>Mientras que la gárgola permanece inmóvil, es indistinguible de una estatua inanimada.</p>"
+              "name": "Apariencia Falsa",
+              "description": "<p>Mientras permanece inmóvil, la gárgola es indistinguible de una estatua inanimada.</p>"
             }
           },
-          "biographyPublic": "<p><em>Véase también: @UUID[Actor.toaAcererak00000]{Acererak}</em></p>",
-          "biography": "<p>Sólo @UUID[Actor.toaAcererak00000]{Acererak} conoce el secreto de crear estas criaturas. Una gárgola gigante de cuatro brazos mide entre 8 y 9 pies de altura y pesa unas cinco mil libras. Típicamente se emplea como guardián de tumbas, intrusos con colmillos y garras mortales. Para obtener más información sobre las gárgolas, consulte el apartado <em>Manual de monstruos</em>.</p>"
+          "biographyPublic": "<p><em>Consulta también: @UUID[Actor.toaAcererak00000]{Acererak}</em></p>",
+          "biography": "<p>Solo @UUID[Actor.toaAcererak00000]{Acererak} conoce el secreto para crear estas criaturas. Una gárgola gigante de cuatro brazos mide entre 8 y 9 pies de altura y pesa unas cinco mil libras. Suele emplearse como guardiana de tumbas y desgarra a los intrusos con sus colmillos y mortales garras. Consulta el <em>Manual de monstruos</em> para obtener más información sobre las gárgolas.</p>"
         },
         "hSNacI3hTXqV4QNM": {
           "alignment": "Sin alineamiento",
@@ -2830,20 +2830,20 @@
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>"
             },
             "85nswnke19N9k1Mr": {
-              "name": "Anfibio",
+              "name": "Anfibia",
               "description": "<p>La tortuga puede respirar aire y agua.</p>"
             },
             "Zu4S0gNXIAfafGHU": {
               "name": "Estable",
-              "description": "<p>Cada vez que un efecto golpea a la tortuga propensa, puede hacer un [[/save format=long]] para evitar ser golpeado propenso. Una tortuga propensa está boca abajo. Para ponerse de pie, debe tener éxito en un [[/check format=long]] en su turno y luego utilizar todo su movimiento para ese turno.</p>",
+              "description": "<p>Cuando un efecto vaya a derribar a la tortuga, esta puede realizar una [[/save format=long]] para evitarlo. Una tortuga derribada está patas arriba. Para levantarse, debe superar una [[/check format=long]] en su turno y después gastar todo su movimiento de ese turno.</p>",
               "effects": {
                 "o5U6UzajW7vYAT0j": {
-                  "name": "Prona"
+                  "name": "Derribado"
                 }
               }
             }
           },
-          "biography": "<p>Las tortugas gigantes pueden crecer hasta alcanzar los 12 pies de diámetro. Aunque parezcan lentos y ponderantes, son capaces de sobresaltar ráfagas de velocidad y atacarán agresivamente a las criaturas más pequeñas que se les acercan. Un golpe de mandíbula de una tortuga gigante puede cortar a un humano por la mitad, y estas criaturas no son quisquillosas acerca de lo que comen.</p>"
+          "biography": "<p>Las tortugas mordedoras gigantes pueden alcanzar los 12 pies de diámetro. Aunque parecen lentas y pesadas, son capaces de sorprendentes arranques de velocidad y atacan con agresividad a las criaturas más pequeñas que se les acercan. Un solo mordisco de sus mandíbulas puede partir a un humano por la mitad, y estas criaturas no son exigentes con la comida.</p>"
         },
         "viOLi15SxjK0qEKT": {
           "alignment": "Sin alineamiento",
@@ -2951,7 +2951,7 @@
           "items": {
             "f22Qpl4jZe3bSXNM": {
               "name": "Ataque múltiple",
-              "description": "<p>El girallon hace cinco ataques: uno con su [[/item Bite]] y cuatro con su [[/item Claw]].</p>"
+              "description": "<p>El girallon realiza cinco ataques: uno con su [[/item Bite]]{Mordisco} y cuatro con su [[/item Claw]]{Garra}.</p>"
             },
             "eBVsZQsojky7k40Z": {
               "name": "Mordisco",
@@ -2963,15 +2963,15 @@
             },
             "yFvj1MjRMqCLc6Gt": {
               "name": "Agresivo",
-              "description": "<p>Como una acción extra, el girallon puede subir a su velocidad hacia una criatura hostil que puede ver.</p>"
+              "description": "<p>Como acción adicional, el girallon puede moverse hasta su velocidad hacia una criatura hostil que pueda ver.</p>"
             },
             "Ogtw83mM572P7fsM": {
-              "name": "Olor a queso",
-              "description": "<p>El girallon tiene ventaja en la Sabiduría (percepción) controles que dependen del olor.</p>"
+              "name": "Olfato Agudo",
+              "description": "<p>El girallon tiene ventaja en las pruebas de Sabiduría (Percepción) que dependan del olfato.</p>"
             }
           },
-          "name": "Girallón",
-          "tokenName": "Girallón"
+          "name": "Girallon",
+          "tokenName": "Girallon"
         },
         "toaGirallonZombi": {
           "alignment": "Caótico malvado",
@@ -17305,7 +17305,7 @@
             },
             "JsvC0PhGWk7ChEpy": {
               "text": "<p class=\"p1\">@Embed[Actor.gmqng7FHqZ70k11l caption=false cite=false]</p><p class=\"p1\">@Embed[Actor.gmqng7FHqZ70k11l caption=false cite=true statblock]</p>",
-              "name": "Girallón"
+              "name": "Girallon"
             },
             "vdcADx00a04KyGZZ": {
               "text": "<p class=\"p1\">@Embed[Actor.I4sDrM2ZDMHb1p9W caption=false cite=false]</p><p class=\"p1\">@Embed[Actor.I4sDrM2ZDMHb1p9W caption=false cite=true statblock]</p>",
