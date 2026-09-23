@@ -2067,18 +2067,28 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   el orden del PDF español. Salysa conserva las piedras mensajeras en plural
   del original inglés, aunque la edición española menciona una sola en su bolsa.
 
+### appendix-d-azaka — Azaka Stormfang
+
+- Revisados 74 campos: página de presentación y ambas copias del actor.
+  Biografía contrastada con las páginas físicas 34–35 y habilidades con el
+  exportado inglés. La biografía de Adventure inserta la página del capítulo 1.
+- Conservadas las restricciones de cada forma, la transmisión de licantropía,
+  las condiciones de Abalanzarse y la excepción del daño de caída.
+- El enlace de la máscara conserva el identificador del exportado
+  `toamgcMaskoftheB`; queda pendiente comprobar su resolución en Foundry.
+
 ## Balance de revisión editorial
 
-- 829 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 830 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 224 de los apéndices A, B, C, D y F.
-  No equivale a 829 páginas del PDF.
-- 6885 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 6885 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 225 de los apéndices A, B, C, D y F.
+  No equivale a 830 páginas del PDF.
+- 6959 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 6959 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas ochenta y dos biografías en ambas copias de actores: siete
-  príncipes y setenta y cinco criaturas o PNJ del apéndice D. Siguen pendientes las demás
+  insertado. Revisadas ochenta y tres biografías en ambas copias de actores: siete
+  príncipes y setenta y seis criaturas o PNJ del apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las

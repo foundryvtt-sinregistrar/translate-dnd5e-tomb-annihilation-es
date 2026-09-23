@@ -14694,70 +14694,70 @@
       "items": {
         "SmUCt79LtakgTJoa": {
           "name": "Ataque múltiple",
-          "requirements": "Forma Humanoide o Híbrida",
-          "description": "<p>En forma humanoides, [[lookup @name]] Hace dos. [[/item .vtnEGCOptmp2bcqG]]{cimitarra} ataques o dos [[/item .onmNGMiE4AyvYxDQ]]{longbow} ataques.</p><p>En forma híbrida, puede atacar como un humanoide o hacer dos [[/item .HPmjVRKpG08bgohb]]{garra} ataques.</p>"
+          "requirements": "Forma humanoide o híbrida",
+          "description": "<p>En forma humanoide, [[lookup @name]] realiza dos ataques con [[/item .vtnEGCOptmp2bcqG]]{cimitarra} o dos ataques con [[/item .onmNGMiE4AyvYxDQ]]{arco largo}.</p><p>En forma híbrida, puede atacar como un humanoide o realizar dos ataques de [[/item .HPmjVRKpG08bgohb]]{garra}.</p>"
         },
         "HPmjVRKpG08bgohb": {
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-          "name": "Garra (solo en forma de tigre o híbrido)",
-          "descriptionChat": "<p>Los ataques del Weretiger con su garra.</p>"
+          "name": "Garra (solo en forma de tigre o híbrida)",
+          "descriptionChat": "<p>La mujer tigre ataca con su garra.</p>"
         },
         "vtnEGCOptmp2bcqG": {
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-          "name": "Scimitar (solo en forma humana o híbrida)",
-          "descriptionChat": "<p>El Weretiger ataca con su Scimitar.</p>"
+          "name": "Cimitarra (solo en forma humanoide o híbrida)",
+          "descriptionChat": "<p>La mujer tigre ataca con su cimitarra.</p>"
         },
         "onmNGMiE4AyvYxDQ": {
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-          "name": "Longbow (solo en forma humana o híbrida)",
-          "descriptionChat": "<p>El Weretiger ataca con su Longbow.</p>"
+          "name": "Arco largo (solo en forma humanoide o híbrida)",
+          "descriptionChat": "<p>La mujer tigre ataca con su arco largo.</p>"
         },
         "EjU9p4Wh1U2wsnFK": {
-          "name": "Cambio de forma",
-          "description": "<p>[[lookup @name]] puede utilizar su acción para polimorfo en un híbrido tigre-humanoide o en un tigre, o de vuelta en su forma verdadera, que es humanoide.</p><p>Sus estadísticas, aparte de su tamaño, son las mismas en cada forma. Cualquier equipo que lleva o lleva no se transforma. Revierte a su verdadera forma si muere.</p>",
-          "descriptionChat": "<p>El retiger puede utilizar su acción para <strong>polimorf</strong>, o volver a su forma verdadera.</p>"
+          "name": "Cambiaformas",
+          "description": "<p>[[lookup @name]] puede usar su acción para polimorfarse en un híbrido de tigre y humanoide o en un tigre, o para recuperar su verdadera forma humanoide.</p><p>Sus estadísticas, salvo el tamaño, son las mismas en todas sus formas. El equipo que vista o lleve no se transforma. Si muere, recupera su verdadera forma.</p>",
+          "descriptionChat": "<p>La mujer tigre puede usar su acción para <strong>polimorfarse</strong> o recuperar su verdadera forma.</p>"
         },
         "2iPYXoxM2ZReuhSL": {
-          "name": "Oído y olfato de Keen",
-          "description": "<p>[[lookup @name]] tiene ventaja en la Sabiduría (percepción) controles que dependen de la audición o el olor.</p>"
+          "name": "Oído y Olfato Agudos",
+          "description": "<p>[[lookup @name]] tiene ventaja en las pruebas de Sabiduría (Percepción) que dependan del oído o del olfato.</p>"
         },
         "jW4qHQ761qRLeWM8": {
-          "name": "Salto",
-          "requirements": "Tiger o forma híbrida",
-          "description": "<p>Si [[lookup @name]] se mueve en <strong>menos de 15 pies</strong> derecho hacia una criatura y luego golpea con un [[/item .HPmjVRKpG08bgohb]]{garra} ataque en el mismo turno, que el objetivo debe tener éxito en un [[/save]] ahorro tirar o ser golpeado &amp;Reference[prone apply=false]{propenso}. Si el objetivo es propenso, el wantiger puede hacer uno [[/item .FOkSL18gU0Sli5ZA]]{mordedura} atacarlo como una acción extra.</p>",
-          "descriptionChat": "<p>Si el guerrero se mueve en <strong>menos de 15 pies</strong> derecho hacia una criatura y luego le golpea con una garra de ataque en el mismo giro, que el objetivo debe hacer un <strong>Fuerza</strong> ahorro tirar o ser golpeado propenso.</p>",
+          "name": "Abalanzarse",
+          "requirements": "Forma de tigre o híbrida",
+          "description": "<p>Si [[lookup @name]] se mueve <strong>al menos 15 pies</strong> en línea recta hacia una criatura y después la impacta con un ataque de [[/item .HPmjVRKpG08bgohb]]{garra} en ese mismo turno, el objetivo debe superar una tirada de salvación [[/save]] o quedar &amp;Reference[prone apply=false]{derribado}. Si el objetivo está derribado, la mujer tigre puede realizar un ataque de [[/item .FOkSL18gU0Sli5ZA]]{mordisco} contra él como acción adicional.</p>",
+          "descriptionChat": "<p>Si la mujer tigre se mueve <strong>al menos 15 pies</strong> en línea recta hacia una criatura y después la impacta con un ataque de garra en ese mismo turno, el objetivo debe realizar una tirada de salvación de <strong>Fuerza</strong> o quedar derribado.</p>",
           "activities": {
             "dnd5eactivity100": {
               "activation": {
-                "condition": "se mueve 15 pies y golpea con un ataque de garra"
+                "condition": "Se mueve 15 pies e impacta con un ataque de garra"
               }
             }
           },
           "effects": {
             "xx5oDVvttzxBUXpQ": {
-              "name": "Prona",
-              "description": "<p>El objetivo está golpeado. &amp;Reference[prone apply=false]{propenso}.</p>"
+              "name": "Derribado",
+              "description": "<p>El objetivo queda &amp;Reference[prone apply=false]{derribado}.</p>"
             }
           }
         },
         "FOkSL18gU0Sli5ZA": {
-          "name": "Mordida (solo en forma de tigre o híbrida)",
-          "description": "<p>[[/attack extended]]. [[/damage extended]]. Si el objetivo es un humanoide, debe tener éxito en un [[/save format=long]] o ser maldecido con la licantropía de los hombres.</p>",
-          "descriptionChat": "<p>El Weretiger ataca con su mordida. Si el objetivo es un humanoide, debe hacer un <strong>Constitución</strong> El lanzamiento de ahorro.</p>",
+          "name": "Mordisco (solo en forma de tigre o híbrida)",
+          "description": "<p>[[/attack extended]]. [[/damage extended]]. Si el objetivo es un humanoide, debe superar una tirada de salvación [[/save format=long]] o sufrir la maldición de la licantropía de un hombre tigre.</p>",
+          "descriptionChat": "<p>La mujer tigre ataca con su mordisco. Si el objetivo es un humanoide, debe realizar una tirada de salvación de <strong>Constitución</strong>.</p>",
           "effects": {
             "Fvif219GTH7fCDlB": {
               "name": "Maldito",
-              "description": "<p>El objetivo está maldito por la licantropía de los beretíger.</p>"
+              "description": "<p>El objetivo sufre la maldición de la licantropía de un hombre tigre.</p>"
             }
           }
         }
       },
       "name": "Azaka Stormfang",
-      "creatureSubtype": "Chultán, cambiador de formas",
-      "languages": "(no puedo hablar en forma de tigre)",
-      "biographyPublic": "<p><em>Véase también: @UUID[Compendium.dnd-tomb-annihilation.actors.Actor.toaSajaNbaza0000]{Saja N’baza}</em></p>",
+      "creatureSubtype": "Chultano, cambiaformas",
+      "languages": "(no puede hablar en forma de tigre)",
+      "biographyPublic": "<p><em>Consulta también: @UUID[Compendium.dnd-tomb-annihilation.actors.Actor.toaSajaNbaza0000]{Saja N’baza}</em></p>",
       "tokenName": "Azaka Stormfang",
-      "biography": "<p>Cuando los personajes se encuentran @UUID[Actor.uG8agwRIUdI9X1QO]{Azaka}, dar a los jugadores una copia de @UUID[JournalEntry.toaAppEPlayerHan.JournalEntryPage.73pfOhi0uI8ImMlm]{folleto 2} en @UUID[JournalEntry.toaAppEPlayerHan]{apéndice E}.</p><p>Azaka (NG mujer Chultan humana <strong>aretiger</strong>) obras en Port Nyanzaru. Ella oculta su licantropía de los personajes durante el mayor tiempo posible y guiará a los aventureros de forma gratuita si aceptan ayudarla a recuperar un artículo que fue robado por los pterafolk de Firefinger. Si se le pregunta sobre el objeto robado, Azaka responde sólo que es una reliquia familiar: una máscara de madera tallada para parecerse a la cara de un tigre. En realidad es un @UUID[Compendium.dnd-tomb-annihilation.items.Item.toamgcMaskoftheB]{máscara de la bestia} (ver @UUID[JournalEntry.toaAppCDiscoveri]{apéndice C}).</p><p>Azaka ha vagado por toda la selva en forma de tigre. Ella está familiarizada con @UUID[Actor.toaSajaNbaza0000]{Saja N’baza}, el poderoso y sabio guardián naga de Orolunga, y con mucho gusto lleva a los personajes a la naga si están buscando orientación.</p><p>Azaka mide 6 pies de alto y pesa alrededor de 150 libras. No difundirá voluntariamente su maldición licantrópica. También tiene miedo de las alturas y no se pondrá de buena gana en una situación en la que está en peligro de caer más de 60 pies. Las inmunidades por daños de Azaka no la protegen de que caigan daños.</p>"
+      "biography": "<p>Cuando los personajes conozcan a @UUID[Actor.uG8agwRIUdI9X1QO]{Azaka}, entrega a los jugadores una copia del @UUID[JournalEntry.toaAppEPlayerHan.JournalEntryPage.73pfOhi0uI8ImMlm]{documento 2} del @UUID[JournalEntry.toaAppEPlayerHan]{apéndice E}.</p><p>Azaka es una <strong>mujer tigre</strong> humana chultana NB que trabaja desde Puerto Nyanzaru. Oculta su licantropía a los personajes tanto tiempo como puede y guiará gratis a los aventureros si aceptan ayudarla a recuperar un objeto que le robaron los hombres pterodáctilo del Dedo de Fuego. Si le preguntan por el objeto robado, solo responde que es una reliquia familiar: una máscara de madera tallada con forma de rostro de tigre. En realidad, es una @UUID[Compendium.dnd-tomb-annihilation.items.Item.toamgcMaskoftheB]{máscara de la bestia} (consulta el @UUID[JournalEntry.toaAppCDiscoveri]{apéndice C}).</p><p>Azaka ha recorrido la selva de punta a punta en forma de tigre. Conoce a @UUID[Actor.toaSajaNbaza0000]{Saja N’baza}, la sabia y poderosa naga guardiana de Orolunga, y conduce de buen grado a los personajes hasta ella si buscan consejo.</p><p>Azaka mide 6 pies y pesa unas 150 libras. No propagará voluntariamente su maldición licantrópica. También teme las alturas y no se pondrá voluntariamente en una situación en la que corra el riesgo de caer desde más de 60 pies. Sus inmunidades al daño no la protegen del daño de caída.</p>"
     },
     "uPBjr5fHo9ZhXasa": {
       "alignment": "Neutral malvado",
