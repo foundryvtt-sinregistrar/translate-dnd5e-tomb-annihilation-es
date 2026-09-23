@@ -2419,6 +2419,17 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   Implacable: 7 para el jabalí y 10 para el gigante. Sus resúmenes de chat
   omiten esos umbrales en el original; las descripciones completas sí los dan.
 
+### additional-aquatic — Animales acuáticos
+
+- Revisados 146 campos de tiburón de arrecife, tiburón cazador, cocodrilo,
+  cocodrilo gigante, rana gigante y mordedor, en ambas copias. Contraste con
+  el exportado inglés; no se añaden biografías narrativas.
+- Comprobados los límites de agarre, las CD para escapar, la respiración,
+  el frenesí contra criaturas heridas y las condiciones de Tragar y escapar
+  del cadáver de la rana. Corregida la puntuación del mordisco del tiburón.
+- Usado «Mordedor» para Quipper. Conservado el crédito de ilustración
+  duplicado del tiburón de arrecife, tal como figura en el original.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2428,8 +2439,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
   de Foundry, tres de créditos y cuatro de historial.
   No equivale a 931 páginas del PDF.
-- 11111 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 11111 campos distintos.
+- 11257 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 11257 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento treinta y cuatro biografías en ambas copias de actores: siete
   príncipes y ciento veintisiete criaturas o PNJ vinculados al apéndice D. Siguen pendientes las demás

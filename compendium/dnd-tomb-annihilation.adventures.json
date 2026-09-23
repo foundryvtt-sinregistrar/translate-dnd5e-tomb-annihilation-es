@@ -1637,28 +1637,28 @@
           "items": {
             "L0k8pFgKxxEEMEOY": {
               "name": "Mordisco",
-              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo es &amp;Reference[grappled apply=false] (escape CD 12). Hasta que termine esta pelea, el objetivo es &amp;Reference[restrained apply=false], y el cocodrilo no puede morder otro objetivo.</p>",
-              "descriptionChat": "<p>El cocodrilo ataca con su mordida. Si tiene éxito, el objetivo se enfrenta. Hasta que termine esta pelea, el objetivo está restringido, y el cocodrilo no puede morder otro objetivo.</p>",
+              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo queda &amp;Reference[grappled apply=false]{agarrado} (CD 12 para escapar). Hasta que termine este agarre, está &amp;Reference[restrained apply=false]{apresado} y el cocodrilo no puede morder a otro objetivo.</p>",
+              "descriptionChat": "<p>El cocodrilo ataca con su mordisco. Si impacta, el objetivo queda agarrado. Hasta que termine este agarre, el objetivo está apresado y el cocodrilo no puede morder a otro objetivo.</p>",
               "activities": {
                 "2mtdebolyXVx6tsO": {
-                  "name": "Comprobación de escape"
+                  "name": "Prueba para escapar"
                 }
               },
               "effects": {
                 "Y2DJjmrqd1u4ToJO": {
-                  "name": "Agarrado y Restringido",
-                  "description": "<p>El objetivo es &amp;Reference[grappled] (escape CD 12). Hasta que termine esta pelea, el objetivo es &amp;Reference[restrained apply=false].</p>"
+                  "name": "Agarrado y apresado",
+                  "description": "<p>El objetivo queda &amp;Reference[grappled]{agarrado} (CD 12 para escapar). Hasta que termine este agarre, está &amp;Reference[restrained apply=false]{apresado}.</p>"
                 }
               }
             },
             "vuDMChx74s6CMCab": {
-              "name": "Sostenga la respiración",
-              "description": "<p>El cocodrilo puede contener la respiración por <strong>15 minutos</strong>.</p>"
+              "name": "Aguantar la Respiración",
+              "description": "<p>El cocodrilo puede aguantar la respiración durante <strong>15 minutos</strong>.</p>"
             }
           },
           "name": "Cocodrilo",
           "tokenName": "Cocodrilo",
-          "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+          "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
         },
         "toaCyclops000000": {
           "alignment": "Caótico neutral",
@@ -2699,26 +2699,26 @@
           "items": {
             "YSeYSzU3P0FooGIw": {
               "name": "Ataque múltiple",
-              "description": "<p>El cocodrilo hace dos ataques: uno con su [[/item .u7eurp95tuW3tYGl]]{mordedura} y uno con su [[/item .VkCVMF2SvsuYWWYg]]{cola}.</p>"
+              "description": "<p>El cocodrilo realiza dos ataques: uno de [[/item .u7eurp95tuW3tYGl]]{mordisco} y otro con la [[/item .VkCVMF2SvsuYWWYg]]{cola}.</p>"
             },
             "u7eurp95tuW3tYGl": {
               "name": "Mordisco",
-              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo es &amp;Reference[grappled] (escape CD 16). Hasta que termine esta pelea, el objetivo está restringido, y el cocodrilo no puede morder otro objetivo.</p>",
-              "descriptionChat": "<p>El Cocodrilo Gigante ataca con su mordida. Si tiene éxito, el objetivo se enfrenta. Hasta que termine esta pelea, el objetivo está restringido, y el cocodrilo no puede morder otro objetivo.</p>"
+              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo queda &amp;Reference[grappled]{agarrado} (CD 16 para escapar). Hasta que termine este agarre, el objetivo está apresado y el cocodrilo no puede morder a otro objetivo.</p>",
+              "descriptionChat": "<p>El cocodrilo gigante ataca con su mordisco. Si impacta, el objetivo queda agarrado. Hasta que termine este agarre, el objetivo está apresado y el cocodrilo no puede morder a otro objetivo.</p>"
             },
             "VkCVMF2SvsuYWWYg": {
               "name": "Cola",
-              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>Si el objetivo es una criatura, debe tener éxito en un [[/save]] ahorro tirar o ser golpeado &amp;Reference[prone].</p>",
-              "descriptionChat": "<p>El Cocodrilo Gigante ataca con su cola. Si el objetivo es una criatura, debe hacer un <strong>Fuerza</strong> El lanzamiento de ahorro.</p>"
+              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>Si el objetivo es una criatura, debe superar una tirada de salvación [[/save]] o caer &amp;Reference[prone]{derribado}.</p>",
+              "descriptionChat": "<p>El cocodrilo gigante ataca con la cola. Si el objetivo es una criatura, debe realizar una tirada de salvación de <strong>Fuerza</strong>.</p>"
             },
             "Mgvz3Hm49kujtR0M": {
-              "name": "Sostenga la respiración",
-              "description": "<p>El cocodrilo puede contener la respiración por <strong>30 minutos</strong>.</p>"
+              "name": "Aguantar la Respiración",
+              "description": "<p>El cocodrilo puede aguantar la respiración durante <strong>30 minutos</strong>.</p>"
             }
           },
           "name": "Cocodrilo gigante",
           "tokenName": "Cocodrilo gigante",
-          "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+          "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
         },
         "7BhE46pzPDJt96bk": {
           "name": "Gárgola gigante de cuatro brazos",
@@ -2750,26 +2750,26 @@
           "items": {
             "2y826IUSIAgmYf2c": {
               "name": "Mordisco",
-              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo es &amp;Reference[grappled] (escape CD 11). Hasta que termine esta pelea, el objetivo está restringido, y la rana no puede morder a otro objetivo.</p>",
-              "descriptionChat": "<p>La Rana Gigante ataca con su mordida. Si tiene éxito, el objetivo se enfrenta. Hasta que termine esta pelea, el objetivo está restringido, y la rana no puede morder a otro objetivo.</p>"
+              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo queda &amp;Reference[grappled]{agarrado} (CD 11 para escapar). Hasta que termine este agarre, está apresado y la rana no puede morder a otro objetivo.</p>",
+              "descriptionChat": "<p>La rana gigante ataca con su mordisco. Si impacta, el objetivo queda agarrado. Hasta que termine este agarre, el objetivo está apresado y la rana no puede morder a otro objetivo.</p>"
             },
             "ERYnD50Ibrrag5s6": {
               "name": "Anfibio",
               "description": "<p>La rana puede respirar aire y agua.</p>"
             },
             "SE3xtItC4V2Eckjk": {
-              "name": "Salto en parado",
-              "description": "<p>El salto largo de la rana es hasta <strong>20 pies.</strong> y su salto alto es hasta <strong>10 pies.</strong>, con o sin arranque.</p>"
+              "name": "Saltar sin Carrera",
+              "description": "<p>La rana puede saltar hasta <strong>20 pies</strong> de longitud y <strong>10 pies</strong> de altura, con o sin carrera previa.</p>"
             },
             "37M4eUyS3kovXqdr": {
               "name": "Tragar",
-              "description": "<p>La rana hace un ataque de mordedura contra un blanco pequeño o más pequeño que está luchando. Si el ataque golpea, el objetivo se traga, y la garra termina.</p><p>El objetivo tragado es &amp;Reference[blinded] y &amp;Reference[restrained], tiene cobertura total contra ataques y otros efectos fuera de la rana, y se necesita [[/damage average]] daño al comienzo de cada uno de los giros de la rana. La rana sólo puede tener un blanco tragado a la vez.</p><p>Si la rana muere, una criatura tragada ya no está sujetada por ella y puede escapar del cadáver usando 5 pies de movimiento, saliendo propenso.</p>",
-              "descriptionChat": "<p>La Rana Gigante ataca con su Golondrina.</p>"
+              "description": "<p>La rana realiza un ataque de mordisco contra un objetivo Pequeño o menor al que tenga agarrado. Si impacta, se traga al objetivo y el agarre termina.</p><p>El objetivo tragado está &amp;Reference[blinded]{cegado} y &amp;Reference[restrained]{apresado}, tiene cobertura completa contra ataques y otros efectos del exterior de la rana y sufre [[/damage average]] de daño al comienzo de cada turno de esta. La rana solo puede tener un objetivo tragado a la vez.</p><p>Si la rana muere, la criatura que tenga dentro deja de estar apresada por ella y puede salir del cadáver gastando 5 pies de movimiento, tras lo que queda derribada.</p>",
+              "descriptionChat": "<p>La rana gigante usa Tragar.</p>"
             }
           },
           "name": "Rana gigante",
           "tokenName": "Rana gigante",
-          "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+          "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
         },
         "uXq4y7Pe1nIIw2x7": {
           "alignment": "Sin alineamiento",
@@ -3951,20 +3951,20 @@
             "KcQolnG6732GPN3o": {
               "name": "Mordisco",
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "descriptionChat": "<p>El tiburón cazador ataca con su mordida.</p>"
+              "descriptionChat": "<p>El tiburón cazador ataca con su mordisco.</p>"
             },
             "nobk1ka9lHYyoww0": {
-              "name": "Frenesí de sangre",
-              "description": "<p>El tiburón tiene<strong> ventaja </strong>en el ataque cuerpo a cuerpo rueda contra cualquier criatura que no tiene todo su<strong> puntos de impacto</strong>.</p>"
+              "name": "Frenesí Sangriento",
+              "description": "<p>El tiburón tiene<strong> ventaja </strong>en las tiradas de ataque cuerpo a cuerpo contra cualquier criatura que no tenga todos sus<strong> puntos de golpe</strong>.</p>"
             },
             "QX33CsCo431JxQxy": {
-              "name": "Respiración de agua",
-              "description": "<p>El tiburón sólo puede respirar bajo el agua.</p>"
+              "name": "Respirar bajo el Agua",
+              "description": "<p>El tiburón solo puede respirar bajo el agua.</p>"
             }
           },
           "name": "Tiburón cazador",
           "tokenName": "Tiburón cazador",
-          "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+          "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
         },
         "i0N7EzT53ojsvSua": {
           "alignment": "Sin alineamiento",
@@ -5661,20 +5661,20 @@
             "0SJofXpPrHJsVXOy": {
               "name": "Mordisco",
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "descriptionChat": "<p>El Quipper ataca con su mordida.</p>"
+              "descriptionChat": "<p>El mordedor ataca con su mordisco.</p>"
             },
             "jFoGi81ljGK27zpX": {
-              "name": "Frenesí de sangre",
-              "description": "<p>El chismoso tiene<strong> ventaja </strong>en el ataque cuerpo a cuerpo rueda contra cualquier criatura que no tiene todo su<strong> puntos de impacto</strong>.</p>"
+              "name": "Frenesí Sangriento",
+              "description": "<p>El mordedor tiene<strong> ventaja </strong>en las tiradas de ataque cuerpo a cuerpo contra cualquier criatura que no tenga todos sus<strong> puntos de golpe</strong>.</p>"
             },
             "fTUKEAcQ4JT7xieY": {
-              "name": "Respiración de agua",
-              "description": "<p>El chismoso puede respirar sólo bajo el agua.</p>"
+              "name": "Respirar bajo el Agua",
+              "description": "<p>El mordedor solo puede respirar bajo el agua.</p>"
             }
           },
-          "name": "Piraña",
-          "tokenName": "Piraña",
-          "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+          "name": "Mordedor",
+          "tokenName": "Mordedor",
+          "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
         },
         "tahw0aIs9ApRQJRJ": {
           "items": {
@@ -5774,21 +5774,21 @@
           "items": {
             "9xaHEynEl0adgcJ4": {
               "name": "Mordisco",
-              "description": "<p><em>Ataque de arma de cuerpo entero:</em><strong>+4 a golpear,</strong>, <strong>5 pies,</strong> Un objetivo. Pulse: <strong>6 (1d8 + 2) <em>daño por perforación</em></strong>.</p>",
-              "descriptionChat": "<p>El Tiburón del Arrecife ataca con su mordida.</p>"
+              "description": "<p><em>Ataque con arma cuerpo a cuerpo:</em><strong>+4 a impactar</strong>, alcance <strong>5 pies</strong>, un objetivo. Impacto: <strong>6 (1d8 + 2) de <em>daño perforante</em></strong>.</p>",
+              "descriptionChat": "<p>El tiburón de arrecife ataca con su mordisco.</p>"
             },
             "vFBjTLrkdsB0llcn": {
-              "name": "Tácticas de empaquetado",
-              "description": "<p>El tiburón tiene<strong> ventaja </strong>en un ataque rodar contra una criatura si al menos uno de los aliados del tiburón está dentro <strong>5 pies.</strong> de la criatura y el aliado no está incapacitado.</p>"
+              "name": "Atacar en Manada",
+              "description": "<p>El tiburón tiene<strong> ventaja </strong>en una tirada de ataque contra una criatura si al menos uno de sus aliados está a <strong>5 pies</strong> o menos de ella y no está incapacitado.</p>"
             },
             "nA5rxVuopudrZgZB": {
-              "name": "Respiración de agua",
-              "description": "<p>El tiburón sólo puede respirar bajo el agua.</p>"
+              "name": "Respirar bajo el Agua",
+              "description": "<p>El tiburón solo puede respirar bajo el agua.</p>"
             }
           },
           "name": "Tiburón de arrecife",
           "tokenName": "Tiburón de arrecife",
-          "biography": "<p>\n        <em>\n          Token artwork by\n          <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Aventuras olvidadas</a>.\n        </em>\n      </p><p>\n        <em>\n          Token artwork by\n          <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Aventuras olvidadas</a>.\n        </em>\n      </p>"
+          "biography": "<p>\n        <em>\n          Ilustración de la ficha por\n          <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.\n        </em>\n      </p><p>\n        <em>\n          Ilustración de la ficha por\n          <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.\n        </em>\n      </p>"
         },
         "P9Haqr1G7VSKSEtG": {
           "alignment": "Neutral malvado",
