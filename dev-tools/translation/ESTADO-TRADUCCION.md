@@ -1067,14 +1067,27 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   macro podría no implementar: requiere contrastar texto y automatización.
 - Auditorías técnica y editorial sin errores.
 
+### ch5-level5-gears-01 a ch5-level5-gears-05 — Engranajes del odio
+
+- Revisados cinco textos y títulos con referencias físicas 170-171 y 175.
+- El légamo daña en el primer contacto de cualquier turno, no solo el propio.
+  Los techos y el conducto no giran con las cámaras.
+- Los armarios solo pueden abrirse sucesivamente; el rastrillo exige matar
+  a sus criaturas en esta sala. Conservados el reinicio y las limitaciones
+  de los portales de sentido único.
+- El original describe luces visibles al abrir Shadowfell y, a continuación,
+  fuegos fatuos invisibles hasta atacar. Se conserva esa discrepancia narrativa
+  para decidir su presentación durante la comprobación de la escena.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 575 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 580 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4 y noventa y seis del capítulo 5. No equivale a 575 páginas del PDF.
-- 1260 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1260 campos distintos.
+  del capítulo 4 y 101 del capítulo 5. No equivale a 580 páginas del PDF.
+- 1270 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1270 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
