@@ -8708,7 +8708,7 @@
       "items": {
         "YO57HtdvpuGxJANB": {
           "name": "Ataque múltiple",
-          "description": "<p>[[lookup @name]] Hace dos. [[/item .YDoOa6D6QDoR2Htu]] ataques o dos [[/item .E2fYrhLigMeVH09l]] ataques.</p>"
+          "description": "<p>[[lookup @name]] realiza dos ataques con [[/item .YDoOa6D6QDoR2Htu]]{espada corta} o dos con [[/item .E2fYrhLigMeVH09l]]{arco largo}.</p>"
         },
         "YDoOa6D6QDoR2Htu": {
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
@@ -8720,19 +8720,19 @@
         },
         "qnFVVlRzucX7BNga": {
           "name": "Armadura de cuero",
-          "description": "<p>La coraza y los protectores de hombro de esta armadura están hechos de cuero que ha sido endurecido por ser hervido en aceite. El resto de la armadura está hecha de materiales más suaves y flexibles.</p>"
+          "description": "<p>El peto y las hombreras de esta armadura están hechos de cuero endurecido al hervirlo en aceite. El resto de la armadura se fabrica con materiales más blandos y flexibles.</p>"
         },
         "PQGwUNCJ7EkJAE8V": {
-          "name": "Audición y vista de Keen",
-          "description": "<p>[[lookup @name]] tiene ventaja en la Sabiduría (percepción) controles que dependen de la audición o la vista.</p>"
+          "name": "Oído y Vista Agudos",
+          "description": "<p>[[lookup @name]] tiene ventaja en las pruebas de Sabiduría (Percepción) que dependan del oído o la vista.</p>"
         }
       },
       "name": "Faroul",
       "creatureSubtype": "Calishita",
-      "languages": "cualquier idioma (generalmente común)",
-      "biographyPublic": "<p><em>Véase también: @UUID[Compendium.dnd-tomb-annihilation.actors.Actor.toaGondolo000000]{Gondolo}</em></p>",
+      "languages": "Un idioma cualquiera (normalmente común)",
+      "biographyPublic": "<p><em>Consulta también: @UUID[Compendium.dnd-tomb-annihilation.actors.Actor.toaGondolo000000]{Gondolo}</em></p>",
       "tokenName": "Faroul",
-      "biography": "<p>Cuando los personajes se encuentran @UUID[Actor.toaFaroul0000000]{Faroul} y @UUID[Actor.toaGondolo000000]{Gondolo}, dar a los jugadores una copia de @UUID[JournalEntry.toaAppEPlayerHan.JournalEntryPage.HqIM8px13pWr0aLv]{folleto 4} en @UUID[JournalEntry.toaAppEPlayerHan]{apéndice E}.</p><p>Faroul (NG macho calishita humano) <strong>explorador</strong>) y Gondolo (CG macho de pie ligero medio <strong>explorador</strong> con 13 puntos de éxito) son dos dandies abajo en su suerte en Port Nyanzaru. Estropeado y pomposo, Faroul fue enviado por sus exasperados padres a Port Nyanzaru y le dijo que hiciera su fortuna allí. Con monedas y listo para la aventura, Faroul trajo a su compañero de carousing, Gondolo. Juntos, pensaban que pronto vivirían la vida en las costas distantes. En pocos meses, habían malgastado la mayor parte del dinero en efectivo de Faroul en las razas de dinosaurios y estaban en deuda con numerosos corredores de apuestas y varios príncipes mercaderes. Lo único que tienen que mostrar durante sus meses de libertinaje es una carrera flatulente @UUID[Actor.toaTriceratops00]{triceratops} llamado Zongo. Lo compraron para las carreras, pero fue irremediablemente lento; ahora utilizan Zongo como un animal de manada.</p><p>En desesperación, Gondolo compró un mapa del tesoro a un explorador con fiebre que necesitaba dinero para comprar el pasaje de vuelta a la Puerta de Baldur. Milagrosamente, el mapa indica con precisión la ubicación de los huesos de la aguja. Este desafortunado par espera ser contratado por aventureros en una base de partes iguales para que puedan llevar al grupo a lo que creen que será un fácilmente reclamado tesoro de dragón.</p><p>Faroul mide 5 pies 10 pulgadas de alto y 175 libras. Cuenta grandes historias de su destreza de batalla, pero usa su espada corta sólo en emergencias.</p>"
+      "biography": "<p>Cuando los personajes conozcan a @UUID[Actor.toaFaroul0000000]{Faroul} y @UUID[Actor.toaGondolo000000]{Gondolo}, entrega a los jugadores una copia del @UUID[JournalEntry.toaAppEPlayerHan.JournalEntryPage.HqIM8px13pWr0aLv]{documento 4} del @UUID[JournalEntry.toaAppEPlayerHan]{apéndice E}.</p><p>Faroul, un <strong>batidor</strong> humano calishita NB, y Gondolo, un <strong>batidor</strong> mediano piesligeros CB con 13 puntos de golpe, son dos dandis que atraviesan una mala racha en Puerto Nyanzaru. Los exasperados padres de Faroul, mimado y pomposo, lo enviaron allí para que hiciera fortuna. Rebosante de dinero y dispuesto a vivir aventuras, se llevó a su compañero de juergas, Gondolo. Ambos pensaban que pronto se darían la gran vida en aquellas costas lejanas. En unos meses habían dilapidado casi todo el dinero de Faroul en las carreras de dinosaurios y debían dinero a numerosos corredores de apuestas y a varios príncipes mercantes. Lo único que conservan de sus meses de desenfreno es un @UUID[Actor.toaTriceratops00]{triceratops} de carreras flatulento llamado Zongo. Lo compraron para competir, pero era desesperantemente lento; ahora lo usan como animal de carga.</p><p>Desesperado, Gondolo compró un mapa del tesoro a un explorador consumido por la fiebre que necesitaba dinero para regresar en barco a Puerta de Baldur. Milagrosamente, el mapa indica con precisión dónde están los Huesos de Aguja. Esta desventurada pareja espera que unos aventureros los contraten a cambio de una parte igual del botín, para conducirlos hasta lo que creen que será un tesoro de dragón fácil de conseguir.</p><p>Faroul mide 5 pies y 10 pulgadas y pesa 175 libras. Cuenta grandes historias sobre su destreza en combate, pero solo usa la espada corta en caso de emergencia.</p>"
     },
     "toaFenthaza00000": {
       "items": {
@@ -8896,7 +8896,7 @@
       "items": {
         "en9DatqvfOPQYI6J": {
           "name": "Ataque múltiple",
-          "description": "<p>[[lookup @name]] hace dos ataques con su [[/item .K6XZYlc8FOaQCx1N]]{garras}, su [[/item .umOdAVnlsipygrl3]]{breve}, o su [[/item .xm3urVLORmwUE3YR]]{shortbow}.</p>"
+          "description": "<p>[[lookup @name]] realiza dos ataques con sus [[/item .K6XZYlc8FOaQCx1N]]{garras}, su [[/item .umOdAVnlsipygrl3]]{espada corta} o su [[/item .xm3urVLORmwUE3YR]]{arco corto}.</p>"
         },
         "K6XZYlc8FOaQCx1N": {
           "name": "Garras",
@@ -8912,35 +8912,35 @@
         },
         "08jKkqWPfiHzfYEw": {
           "name": "Armadura de cuero",
-          "description": "<p>La coraza y los protectores de hombro de esta armadura están hechos de cuero que ha sido endurecido por ser hervido en aceite. El resto de la armadura está hecha de materiales más suaves y flexibles.</p>"
+          "description": "<p>El peto y las hombreras de esta armadura están hechos de cuero endurecido al hervirlo en aceite. El resto de la armadura se fabrica con materiales más blandos y flexibles.</p>"
         },
         "XWE5E4l8eMtsOouI": {
-          "name": "Agilidad felina",
-          "description": "<p>Cuando [[lookup @name]] se mueve en su turno en combate, puede duplicar su velocidad hasta el final de la vuelta. Una vez que use esta habilidad, [[lookup @name]] no puede volver a usarlo hasta que se mueva 0 pies en una de sus vueltas.</p>",
+          "name": "Agilidad Felina",
+          "description": "<p>Cuando [[lookup @name]] se mueve durante su turno en combate, puede duplicar su velocidad hasta el final del turno. Una vez usada esta aptitud, [[lookup @name]] no puede volver a usarla hasta que se mueva 0 pies en uno de sus turnos.</p>",
           "activities": {
             "AWMHEnnbT55jkeOn": {
-              "name": "Gasto"
+              "name": "Gastar un uso"
             },
             "t5f6Yp8jd9jTtivT": {
-              "name": "Restaurar uso",
+              "name": "Recuperar uso",
               "activation": {
-                "condition": "movió 0 pies en este giro"
+                "condition": "Se ha movido 0 pies este turno"
               }
             }
           },
           "effects": {
             "w4hhgx4cyCtQvBIe": {
-              "name": "Movimiento doblado",
-              "description": "<p>La velocidad del tabaxi se duplica hasta el final de la vuelta. Una vez que utiliza esta habilidad, el tabaxi no puede volver a usarlo hasta que se mueve 0 pies en una de sus vueltas.</p>"
+              "name": "Velocidad duplicada",
+              "description": "<p>La velocidad del tabaxi se duplica hasta el final del turno. Una vez que usa esta aptitud, no puede volver a usarla hasta que se mueva 0 pies en uno de sus turnos.</p>"
             }
           }
         }
       },
-      "name": "Espumoso de vino",
+      "name": "Jarro de Vino",
       "creatureSubtype": "Tabaxi",
-      "languages": "más cualquier idioma",
-      "biographyPublic": "<p><em>Véase también: @UUID[Compendium.dnd-tomb-annihilation.actors.Actor.toaRiverMist0000]{Neblina del río}</em></p>",
-      "tokenName": "Espumoso de vino"
+      "languages": "y otro idioma cualquiera",
+      "biographyPublic": "<p><em>Consulta también: @UUID[Compendium.dnd-tomb-annihilation.actors.Actor.toaRiverMist0000]{Bruma del Río}</em></p>",
+      "tokenName": "Jarro de Vino"
     },
     "toaGargoyle00000": {
       "alignment": "Caótico malvado",
@@ -9001,7 +9001,7 @@
       "items": {
         "YO57HtdvpuGxJANB": {
           "name": "Ataque múltiple",
-          "description": "<p>Gondolo hace dos [[/item .YDoOa6D6QDoR2Htu]] o dos [[/item .E2fYrhLigMeVH09l]] ataques.</p>"
+          "description": "<p>Gondolo realiza dos ataques con [[/item .YDoOa6D6QDoR2Htu]]{espada corta} o dos con [[/item .E2fYrhLigMeVH09l]]{arco largo}.</p>"
         },
         "YDoOa6D6QDoR2Htu": {
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
@@ -9013,29 +9013,29 @@
         },
         "qnFVVlRzucX7BNga": {
           "name": "Armadura de cuero",
-          "description": "<p>La coraza y los protectores de hombro de esta armadura están hechos de cuero que ha sido endurecido por ser hervido en aceite. El resto de la armadura está hecha de materiales más suaves y flexibles.</p>"
+          "description": "<p>El peto y las hombreras de esta armadura están hechos de cuero endurecido al hervirlo en aceite. El resto de la armadura se fabrica con materiales más blandos y flexibles.</p>"
         },
         "PQGwUNCJ7EkJAE8V": {
-          "name": "Audición y vista de Keen",
-          "description": "<p>Gondolo tiene ventaja en controles de Sabiduría (Percepción) que dependen de la audición o la vista.</p>"
+          "name": "Oído y Vista Agudos",
+          "description": "<p>Gondolo tiene ventaja en las pruebas de Sabiduría (Percepción) que dependan del oído o la vista.</p>"
         },
         "fJ0KlZDD1mbnoIB2": {
-          "name": "Suerte.",
+          "name": "Afortunado",
           "requirements": "Mediano",
-          "description": "<p>Cuando Gondolo rueda un 1 en el d20 para un rollo de ataque, verificación de capacidad, o ahorro de tiro, puede volver a rodar el dado y debe utilizar el nuevo rollo.</p><section class=\"secret foundry-note\" id=\"secret-S04TPyvUh05Dz0Ng\"><p><strong>Nota de Foundry</strong></p><p>Esta propiedad está activada en su hoja de caracteres por defecto en la pestaña Efectos.</p></section>",
+          "description": "<p>Cuando Gondolo obtiene un 1 en el d20 de una tirada de ataque, prueba de característica o tirada de salvación, puede volver a tirar el dado y debe usar el nuevo resultado.</p><section class=\"secret foundry-note\" id=\"secret-S04TPyvUh05Dz0Ng\"><p><strong>Nota de Foundry</strong></p><p>Esta propiedad está activada por defecto en la pestaña Efectos de la ficha del personaje.</p></section>",
           "effects": {
             "RZMzPegzsLubjBsC": {
-              "name": "Suerte."
+              "name": "Afortunado"
             }
           }
         }
       },
       "name": "Gondolo",
-      "creatureSubtype": "Mediano pie ligero",
-      "languages": "cualquier idioma (generalmente común)",
-      "biographyPublic": "<p><em>Véase también: @UUID[Compendium.dnd-tomb-annihilation.actors.Actor.toaFaroul0000000]{Faroul}</em></p>",
+      "creatureSubtype": "Mediano piesligeros",
+      "languages": "Un idioma cualquiera (normalmente común)",
+      "biographyPublic": "<p><em>Consulta también: @UUID[Compendium.dnd-tomb-annihilation.actors.Actor.toaFaroul0000000]{Faroul}</em></p>",
       "tokenName": "Gondolo",
-      "biography": "<p>Cuando los personajes se encuentran @UUID[Actor.toaFaroul0000000]{Faroul} y @UUID[Actor.toaGondolo000000]{Gondolo}, dar a los jugadores una copia de @UUID[JournalEntry.toaAppEPlayerHan.JournalEntryPage.HqIM8px13pWr0aLv]{folleto 4} en @UUID[JournalEntry.toaAppEPlayerHan]{apéndice E}.</p><p>Faroul (NG macho calishita humano) <strong>explorador</strong>) y Gondolo (CG macho de pie ligero medio <strong>explorador</strong> con 13 puntos de éxito) son dos dandies abajo en su suerte en Port Nyanzaru. Estropeado y pomposo, Faroul fue enviado por sus exasperados padres a Port Nyanzaru y le dijo que hiciera su fortuna allí. Con monedas y listo para la aventura, Faroul trajo a su compañero de carousing, Gondolo. Juntos, pensaban que pronto vivirían la vida en las costas distantes. En pocos meses, habían malgastado la mayor parte del dinero en efectivo de Faroul en las razas de dinosaurios y estaban en deuda con numerosos corredores de apuestas y varios príncipes mercaderes. Lo único que tienen que mostrar durante sus meses de libertinaje es una carrera flatulente @UUID[Actor.toaTriceratops00]{triceratops} llamado Zongo. Lo compraron para las carreras, pero fue irremediablemente lento; ahora utilizan Zongo como un animal de manada.</p><p>En desesperación, Gondolo compró un mapa del tesoro a un explorador con fiebre que necesitaba dinero para comprar el pasaje de vuelta a la Puerta de Baldur. Milagrosamente, el mapa indica con precisión la ubicación de los huesos de la aguja. Este desafortunado par espera ser contratado por aventureros en una base de partes iguales para que puedan llevar al grupo a lo que creen que será un fácilmente reclamado tesoro de dragón.</p><p>Faroul mide 5 pies 10 pulgadas de alto y 175 libras. Cuenta grandes historias de su destreza de batalla, pero usa su espada corta sólo en emergencias.</p>"
+      "biography": "<p>Cuando los personajes conozcan a @UUID[Actor.toaFaroul0000000]{Faroul} y @UUID[Actor.toaGondolo000000]{Gondolo}, entrega a los jugadores una copia del @UUID[JournalEntry.toaAppEPlayerHan.JournalEntryPage.HqIM8px13pWr0aLv]{documento 4} del @UUID[JournalEntry.toaAppEPlayerHan]{apéndice E}.</p><p>Faroul, un <strong>batidor</strong> humano calishita NB, y Gondolo, un <strong>batidor</strong> mediano piesligeros CB con 13 puntos de golpe, son dos dandis que atraviesan una mala racha en Puerto Nyanzaru. Los exasperados padres de Faroul, mimado y pomposo, lo enviaron allí para que hiciera fortuna. Rebosante de dinero y dispuesto a vivir aventuras, se llevó a su compañero de juergas, Gondolo. Ambos pensaban que pronto se darían la gran vida en aquellas costas lejanas. En unos meses habían dilapidado casi todo el dinero de Faroul en las carreras de dinosaurios y debían dinero a numerosos corredores de apuestas y a varios príncipes mercantes. Lo único que conservan de sus meses de desenfreno es un @UUID[Actor.toaTriceratops00]{triceratops} de carreras flatulento llamado Zongo. Lo compraron para competir, pero era desesperantemente lento; ahora lo usan como animal de carga.</p><p>Desesperado, Gondolo compró un mapa del tesoro a un explorador consumido por la fiebre que necesitaba dinero para regresar en barco a Puerta de Baldur. Milagrosamente, el mapa indica con precisión dónde están los Huesos de Aguja. Esta desventurada pareja espera que unos aventureros los contraten a cambio de una parte igual del botín, para conducirlos hasta lo que creen que será un tesoro de dragón fácil de conseguir.</p><p>Faroul mide 5 pies y 10 pulgadas y pesa 175 libras. Cuenta grandes historias sobre su destreza en combate, pero solo usa la espada corta en caso de emergencia.</p>"
     },
     "toaGrabstab00000": {
       "alignment": "Neutral malvado",
@@ -11286,7 +11286,7 @@
       "items": {
         "en9DatqvfOPQYI6J": {
           "name": "Ataque múltiple",
-          "description": "<p>[[lookup @name]] hace dos ataques con su [[/item .K6XZYlc8FOaQCx1N]]{garras}, su [[/item .umOdAVnlsipygrl3]]{breve}, o su [[/item .xm3urVLORmwUE3YR]]{shortbow}.</p>"
+          "description": "<p>[[lookup @name]] realiza dos ataques con sus [[/item .K6XZYlc8FOaQCx1N]]{garras}, su [[/item .umOdAVnlsipygrl3]]{espada corta} o su [[/item .xm3urVLORmwUE3YR]]{arco corto}.</p>"
         },
         "K6XZYlc8FOaQCx1N": {
           "name": "Garras",
@@ -11302,36 +11302,36 @@
         },
         "08jKkqWPfiHzfYEw": {
           "name": "Armadura de cuero",
-          "description": "<p>La coraza y los protectores de hombro de esta armadura están hechos de cuero que ha sido endurecido por ser hervido en aceite. El resto de la armadura está hecha de materiales más suaves y flexibles.</p>"
+          "description": "<p>El peto y las hombreras de esta armadura están hechos de cuero endurecido al hervirlo en aceite. El resto de la armadura se fabrica con materiales más blandos y flexibles.</p>"
         },
         "XWE5E4l8eMtsOouI": {
-          "name": "Agilidad felina",
-          "description": "<p>Cuando [[lookup @name]] se mueve en su turno en combate, ella puede duplicar su velocidad hasta el final de la vuelta. Una vez que ella usa esta habilidad, [[lookup @name]] no puede volver a usarlo hasta que se mueva 0 pies en una de sus vueltas.</p>",
+          "name": "Agilidad Felina",
+          "description": "<p>Cuando [[lookup @name]] se mueve durante su turno en combate, puede duplicar su velocidad hasta el final del turno. Una vez usada esta aptitud, [[lookup @name]] no puede volver a usarla hasta que se mueva 0 pies en uno de sus turnos.</p>",
           "activities": {
             "AWMHEnnbT55jkeOn": {
-              "name": "Gasto"
+              "name": "Gastar un uso"
             },
             "t5f6Yp8jd9jTtivT": {
-              "name": "Restaurar uso",
+              "name": "Recuperar uso",
               "activation": {
-                "condition": "movió 0 pies en este giro"
+                "condition": "Se ha movido 0 pies este turno"
               }
             }
           },
           "effects": {
             "w4hhgx4cyCtQvBIe": {
-              "name": "Movimiento doblado",
-              "description": "<p>La velocidad del tabaxi se duplica hasta el final de la vuelta. Una vez que utiliza esta habilidad, el tabaxi no puede volver a usarlo hasta que se mueve 0 pies en una de sus vueltas.</p>"
+              "name": "Velocidad duplicada",
+              "description": "<p>La velocidad del tabaxi se duplica hasta el final del turno. Una vez que usa esta aptitud, no puede volver a usarla hasta que se mueva 0 pies en uno de sus turnos.</p>"
             }
           }
         }
       },
-      "name": "Neblina del río",
+      "name": "Bruma del Río",
       "creatureSubtype": "Tabaxi",
-      "languages": "más cualquier idioma",
-      "biographyPublic": "<p><em>Véase también: @UUID[Compendium.dnd-tomb-annihilation.actors.Actor.toaFlaskofWine00]{Espumoso de vino}</em></p>",
-      "tokenName": "Neblina del río",
-      "biography": "<p>Cuando los personajes se encuentran @UUID[Actor.toaRiverMist0000]{Neblina del río} y @UUID[Actor.toaFlaskofWine00]{Espumoso de vino}, dar a los jugadores una copia de @UUID[JournalEntry.toaAppEPlayerHan.JournalEntryPage.Q2rWfVReK0dKbyPb]{DIVULGACIÓN 8} en @UUID[JournalEntry.toaAppEPlayerHan]{apéndice E}.</p><p>Neblina y Flask de Vino (CG hembra y macho) <strong>Cazadores de tabaxi</strong>;ver @UUID[JournalEntry.toaAppDMonstersA]{Apéndice D}) son hermanos en alianza con el Zhentarim. En consecuencia, no pagan honorarios ni lealtad a ningún príncipe mercante; mantienen su negocio en silencio, reuniendo clientes potenciales sólo en la Garganta de Malar o casas más semilleros en Tiryki Anchorage. Se refieren unos a otros como Río y Flask.</p><p>Flask rara vez habla excepto para estar de acuerdo con River, a menudo repitiendo las últimas palabras de la expresión de River (con un ligero lisp) mientras asiente en asentimiento. A pesar de esta naturaleza lacónica, le gusta estar entre las personas y podría incluso ser considerado gregario, por un tabaxi. Es alto y larguirucho (5 pies 8 pulgadas y 140 libras).</p><p>Río y Flask pueden guiar a los personajes a Firefinger y Dungunglung. También han escuchado historias sobre una anciana en Mbala que puede animar a los muertos de tal manera que los zombis conservan las habilidades y recuerdos que tenían en la vida.</p><p>Agentes de Zhentarim en Port Nyanzaru han dado instrucciones a River y Flask para vigilar a Artus Cimber. Si se encuentran con Artus, los tabaxi tratan de aprender tanto como pueden sobre él. La próxima vez que regresen a Port Nyanzaru, los tabaxi reportan lo que han visto y aprendido a sus maestros Zhent a menos que sean incentivados a no hacerlo.</p>"
+      "languages": "y otro idioma cualquiera",
+      "biographyPublic": "<p><em>Consulta también: @UUID[Compendium.dnd-tomb-annihilation.actors.Actor.toaFlaskofWine00]{Jarro de Vino}</em></p>",
+      "tokenName": "Bruma del Río",
+      "biography": "<p>Cuando los personajes conozcan a @UUID[Actor.toaRiverMist0000]{Bruma del Río} y @UUID[Actor.toaFlaskofWine00]{Jarro de Vino}, entrega a los jugadores una copia del @UUID[JournalEntry.toaAppEPlayerHan.JournalEntryPage.Q2rWfVReK0dKbyPb]{documento 8} del @UUID[JournalEntry.toaAppEPlayerHan]{apéndice E}.</p><p>Bruma del Río y Jarro de Vino son dos hermanos <strong>cazadores tabaxis</strong> CB, mujer y hombre respectivamente (consulta el @UUID[JournalEntry.toaAppDMonstersA]{apéndice D}), aliados con los Zhentarim. Por ello no pagan tasas ni rinden lealtad a ningún príncipe mercante. Mantienen sus negocios en secreto y solo se reúnen con posibles clientes en la Garganta de Malar o en las casas más sórdidas del Fondeadero del Tiryki. Se llaman entre sí Bruma y Jarro.</p><p>Jarro apenas habla salvo para dar la razón a Bruma, a menudo repitiendo sus últimas palabras con un ligero ceceo mientras asiente. Pese a su carácter lacónico, disfruta de la compañía y hasta podría considerarse sociable para ser un tabaxi. Es alto y desgarbado: mide 5 pies y 8 pulgadas y pesa 140 libras.</p><p>Bruma y Jarro pueden guiar a los personajes hasta el Dedo de Fuego y Dungrunglung. También han oído historias sobre una anciana de Mbala capaz de animar a los muertos de modo que los zombis conserven las habilidades y recuerdos que tenían en vida.</p><p>Los agentes Zhentarim de Puerto Nyanzaru han ordenado a Bruma y Jarro que estén atentos a Artus Cimber. Si lo encuentran, los tabaxis intentan averiguar todo lo posible sobre él. La próxima vez que regresen a Puerto Nyanzaru, informarán a sus superiores Zhents de cuanto hayan visto y averiguado, salvo que tengan algún incentivo para no hacerlo.</p>"
     },
     "toaRoark00000000": {
       "alignment": "Legal malvado",

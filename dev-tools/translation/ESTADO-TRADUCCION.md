@@ -1972,18 +1972,31 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Permanecen pendientes de la revisión funcional los enlaces de ataque por
   nombre inglés `Shortsword` y `Greataxe`, como en las fichas anteriores.
 
+### appendix-d-four-guides — Faroul, Gondolo, Bruma y Jarro
+
+- Revisados 180 campos: cuatro páginas y ambas copias de cada guía.
+  Referencia física 35; equipo y rasgos básicos contrastados con el exportado.
+- En Adventure las cuatro biografías insertan las páginas de guías del
+  capítulo 1, ya revisadas. El compendio contiene resúmenes; Jarro inserta
+  la biografía de Bruma. Se conserva esta estructura y se comprueban los destinos.
+- Los resúmenes exportados omiten la descripción personal de Gondolo y la
+  de Bruma; ambos personajes conservan sus descripciones completas en el
+  capítulo 1. No se atribuyen al compendio esos párrafos ausentes.
+- Conservada la numeración de documentos del exportado (Faroul y Gondolo 4;
+  Bruma y Jarro 8), que difiere del orden de la edición española impresa.
+
 ## Balance de revisión editorial
 
-- 805 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 809 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 200 de los apéndices A, B, C, D y F.
-  No equivale a 805 páginas del PDF.
-- 5617 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 5617 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 204 de los apéndices A, B, C, D y F.
+  No equivale a 809 páginas del PDF.
+- 5797 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 5797 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas cincuenta y ocho biografías en ambas copias de actores: siete
-  príncipes y cincuenta y una criaturas o PNJ del apéndice D. Siguen pendientes las demás
+  insertado. Revisadas sesenta y dos biografías en ambas copias de actores: siete
+  príncipes y cincuenta y cinco criaturas o PNJ del apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las

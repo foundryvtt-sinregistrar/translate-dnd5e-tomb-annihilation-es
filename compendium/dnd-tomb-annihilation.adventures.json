@@ -14600,7 +14600,7 @@
           "items": {
             "YO57HtdvpuGxJANB": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] Hace dos. [[/item .YDoOa6D6QDoR2Htu]] ataques o dos [[/item .E2fYrhLigMeVH09l]] ataques.</p>"
+              "description": "<p>[[lookup @name]] realiza dos ataques con [[/item .YDoOa6D6QDoR2Htu]]{espada corta} o dos con [[/item .E2fYrhLigMeVH09l]]{arco largo}.</p>"
             },
             "YDoOa6D6QDoR2Htu": {
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
@@ -14612,17 +14612,17 @@
             },
             "qnFVVlRzucX7BNga": {
               "name": "Armadura de cuero",
-              "description": "<p>La coraza y los protectores de hombro de esta armadura están hechos de cuero que ha sido endurecido por ser hervido en aceite. El resto de la armadura está hecha de materiales más suaves y flexibles.</p>"
+              "description": "<p>El peto y las hombreras de esta armadura están hechos de cuero endurecido al hervirlo en aceite. El resto de la armadura se fabrica con materiales más blandos y flexibles.</p>"
             },
             "PQGwUNCJ7EkJAE8V": {
-              "name": "Audición y vista de Keen",
-              "description": "<p>[[lookup @name]] tiene ventaja en la Sabiduría (percepción) controles que dependen de la audición o la vista.</p>"
+              "name": "Oído y Vista Agudos",
+              "description": "<p>[[lookup @name]] tiene ventaja en las pruebas de Sabiduría (Percepción) que dependan del oído o la vista.</p>"
             }
           },
           "name": "Faroul",
           "creatureSubtype": "Calishita",
-          "languages": "cualquier idioma (generalmente común)",
-          "biographyPublic": "<p><em>Véase también: @UUID[Compendium.dnd-tomb-annihilation.actors.Actor.toaGondolo000000]{Gondolo}</em></p>",
+          "languages": "Un idioma cualquiera (normalmente común)",
+          "biographyPublic": "<p><em>Consulta también: @UUID[Compendium.dnd-tomb-annihilation.actors.Actor.toaGondolo000000]{Gondolo}</em></p>",
           "tokenName": "Faroul"
         },
         "toaFlaskofWine00": {
@@ -14631,7 +14631,7 @@
           "items": {
             "en9DatqvfOPQYI6J": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] hace dos ataques con su [[/item .K6XZYlc8FOaQCx1N]]{garras}, su [[/item .umOdAVnlsipygrl3]]{breve}, o su [[/item .xm3urVLORmwUE3YR]]{shortbow}.</p>"
+              "description": "<p>[[lookup @name]] realiza dos ataques con sus [[/item .K6XZYlc8FOaQCx1N]]{garras}, su [[/item .umOdAVnlsipygrl3]]{espada corta} o su [[/item .xm3urVLORmwUE3YR]]{arco corto}.</p>"
             },
             "K6XZYlc8FOaQCx1N": {
               "name": "Garras",
@@ -14647,35 +14647,35 @@
             },
             "08jKkqWPfiHzfYEw": {
               "name": "Armadura de cuero",
-              "description": "<p>La coraza y los protectores de hombro de esta armadura están hechos de cuero que ha sido endurecido por ser hervido en aceite. El resto de la armadura está hecha de materiales más suaves y flexibles.</p>"
+              "description": "<p>El peto y las hombreras de esta armadura están hechos de cuero endurecido al hervirlo en aceite. El resto de la armadura se fabrica con materiales más blandos y flexibles.</p>"
             },
             "XWE5E4l8eMtsOouI": {
-              "name": "Agilidad felina",
-              "description": "<p>Cuando [[lookup @name]] se mueve en su turno en combate, puede duplicar su velocidad hasta el final de la vuelta. Una vez que use esta habilidad, [[lookup @name]] no puede volver a usarlo hasta que se mueva 0 pies en una de sus vueltas.</p>",
+              "name": "Agilidad Felina",
+              "description": "<p>Cuando [[lookup @name]] se mueve durante su turno en combate, puede duplicar su velocidad hasta el final del turno. Una vez usada esta aptitud, [[lookup @name]] no puede volver a usarla hasta que se mueva 0 pies en uno de sus turnos.</p>",
               "activities": {
                 "AWMHEnnbT55jkeOn": {
-                  "name": "Gasto"
+                  "name": "Gastar un uso"
                 },
                 "t5f6Yp8jd9jTtivT": {
-                  "name": "Restaurar uso",
+                  "name": "Recuperar uso",
                   "activation": {
-                    "condition": "movió 0 pies en este giro"
+                    "condition": "Se ha movido 0 pies este turno"
                   }
                 }
               },
               "effects": {
                 "w4hhgx4cyCtQvBIe": {
-                  "name": "Movimiento doblado",
-                  "description": "<p>La velocidad del tabaxi se duplica hasta el final de la vuelta. Una vez que utiliza esta habilidad, el tabaxi no puede volver a usarlo hasta que se mueve 0 pies en una de sus vueltas.</p>"
+                  "name": "Velocidad duplicada",
+                  "description": "<p>La velocidad del tabaxi se duplica hasta el final del turno. Una vez que usa esta aptitud, no puede volver a usarla hasta que se mueva 0 pies en uno de sus turnos.</p>"
                 }
               }
             }
           },
-          "name": "Espumoso de vino",
+          "name": "Jarro de Vino",
           "creatureSubtype": "Tabaxi",
-          "languages": "más cualquier idioma",
-          "biographyPublic": "<p><em>Véase también: @UUID[Compendium.dnd-tomb-annihilation.actors.Actor.toaRiverMist0000]{Neblina del río}</em></p>",
-          "tokenName": "Espumoso de vino"
+          "languages": "y otro idioma cualquiera",
+          "biographyPublic": "<p><em>Consulta también: @UUID[Compendium.dnd-tomb-annihilation.actors.Actor.toaRiverMist0000]{Bruma del Río}</em></p>",
+          "tokenName": "Jarro de Vino"
         },
         "toaGondolo000000": {
           "alignment": "Caótico bueno",
@@ -14683,7 +14683,7 @@
           "items": {
             "YO57HtdvpuGxJANB": {
               "name": "Ataque múltiple",
-              "description": "<p>Gondolo hace dos [[/item .YDoOa6D6QDoR2Htu]] o dos [[/item .E2fYrhLigMeVH09l]] ataques.</p>"
+              "description": "<p>Gondolo realiza dos ataques con [[/item .YDoOa6D6QDoR2Htu]]{espada corta} o dos con [[/item .E2fYrhLigMeVH09l]]{arco largo}.</p>"
             },
             "YDoOa6D6QDoR2Htu": {
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
@@ -14695,27 +14695,27 @@
             },
             "qnFVVlRzucX7BNga": {
               "name": "Armadura de cuero",
-              "description": "<p>La coraza y los protectores de hombro de esta armadura están hechos de cuero que ha sido endurecido por ser hervido en aceite. El resto de la armadura está hecha de materiales más suaves y flexibles.</p>"
+              "description": "<p>El peto y las hombreras de esta armadura están hechos de cuero endurecido al hervirlo en aceite. El resto de la armadura se fabrica con materiales más blandos y flexibles.</p>"
             },
             "PQGwUNCJ7EkJAE8V": {
-              "name": "Audición y vista de Keen",
-              "description": "<p>Gondolo tiene ventaja en controles de Sabiduría (Percepción) que dependen de la audición o la vista.</p>"
+              "name": "Oído y Vista Agudos",
+              "description": "<p>Gondolo tiene ventaja en las pruebas de Sabiduría (Percepción) que dependan del oído o la vista.</p>"
             },
             "fJ0KlZDD1mbnoIB2": {
-              "name": "Suerte.",
+              "name": "Afortunado",
               "requirements": "Mediano",
-              "description": "<p>Cuando Gondolo rueda un 1 en el d20 para un rollo de ataque, verificación de capacidad, o ahorro de tiro, puede volver a rodar el dado y debe utilizar el nuevo rollo.</p><section class=\"secret foundry-note\" id=\"secret-S04TPyvUh05Dz0Ng\"><p><strong>Nota de Foundry</strong></p><p>Esta propiedad está activada en su hoja de caracteres por defecto en la pestaña Efectos.</p></section>",
+              "description": "<p>Cuando Gondolo obtiene un 1 en el d20 de una tirada de ataque, prueba de característica o tirada de salvación, puede volver a tirar el dado y debe usar el nuevo resultado.</p><section class=\"secret foundry-note\" id=\"secret-S04TPyvUh05Dz0Ng\"><p><strong>Nota de Foundry</strong></p><p>Esta propiedad está activada por defecto en la pestaña Efectos de la ficha del personaje.</p></section>",
               "effects": {
                 "RZMzPegzsLubjBsC": {
-                  "name": "Suerte."
+                  "name": "Afortunado"
                 }
               }
             }
           },
           "name": "Gondolo",
-          "creatureSubtype": "Mediano pie ligero",
-          "languages": "cualquier idioma (generalmente común)",
-          "biographyPublic": "<p><em>Véase también: @UUID[Compendium.dnd-tomb-annihilation.actors.Actor.toaFaroul0000000]{Faroul}</em></p>",
+          "creatureSubtype": "Mediano piesligeros",
+          "languages": "Un idioma cualquiera (normalmente común)",
+          "biographyPublic": "<p><em>Consulta también: @UUID[Compendium.dnd-tomb-annihilation.actors.Actor.toaFaroul0000000]{Faroul}</em></p>",
           "tokenName": "Gondolo"
         },
         "toaHewHackinston": {
@@ -14946,7 +14946,7 @@
           "items": {
             "en9DatqvfOPQYI6J": {
               "name": "Ataque múltiple",
-              "description": "<p>[[lookup @name]] hace dos ataques con su [[/item .K6XZYlc8FOaQCx1N]]{garras}, su [[/item .umOdAVnlsipygrl3]]{breve}, o su [[/item .xm3urVLORmwUE3YR]]{shortbow}.</p>"
+              "description": "<p>[[lookup @name]] realiza dos ataques con sus [[/item .K6XZYlc8FOaQCx1N]]{garras}, su [[/item .umOdAVnlsipygrl3]]{espada corta} o su [[/item .xm3urVLORmwUE3YR]]{arco corto}.</p>"
             },
             "K6XZYlc8FOaQCx1N": {
               "name": "Garras",
@@ -14962,35 +14962,35 @@
             },
             "08jKkqWPfiHzfYEw": {
               "name": "Armadura de cuero",
-              "description": "<p>La coraza y los protectores de hombro de esta armadura están hechos de cuero que ha sido endurecido por ser hervido en aceite. El resto de la armadura está hecha de materiales más suaves y flexibles.</p>"
+              "description": "<p>El peto y las hombreras de esta armadura están hechos de cuero endurecido al hervirlo en aceite. El resto de la armadura se fabrica con materiales más blandos y flexibles.</p>"
             },
             "XWE5E4l8eMtsOouI": {
-              "name": "Agilidad felina",
-              "description": "<p>Cuando [[lookup @name]] se mueve en su turno en combate, ella puede duplicar su velocidad hasta el final de la vuelta. Una vez que ella usa esta habilidad, [[lookup @name]] no puede volver a usarlo hasta que se mueva 0 pies en una de sus vueltas.</p>",
+              "name": "Agilidad Felina",
+              "description": "<p>Cuando [[lookup @name]] se mueve durante su turno en combate, puede duplicar su velocidad hasta el final del turno. Una vez usada esta aptitud, [[lookup @name]] no puede volver a usarla hasta que se mueva 0 pies en uno de sus turnos.</p>",
               "activities": {
                 "AWMHEnnbT55jkeOn": {
-                  "name": "Gasto"
+                  "name": "Gastar un uso"
                 },
                 "t5f6Yp8jd9jTtivT": {
-                  "name": "Restaurar uso",
+                  "name": "Recuperar uso",
                   "activation": {
-                    "condition": "movió 0 pies en este giro"
+                    "condition": "Se ha movido 0 pies este turno"
                   }
                 }
               },
               "effects": {
                 "w4hhgx4cyCtQvBIe": {
-                  "name": "Movimiento doblado",
-                  "description": "<p>La velocidad del tabaxi se duplica hasta el final de la vuelta. Una vez que utiliza esta habilidad, el tabaxi no puede volver a usarlo hasta que se mueve 0 pies en una de sus vueltas.</p>"
+                  "name": "Velocidad duplicada",
+                  "description": "<p>La velocidad del tabaxi se duplica hasta el final del turno. Una vez que usa esta aptitud, no puede volver a usarla hasta que se mueva 0 pies en uno de sus turnos.</p>"
                 }
               }
             }
           },
-          "name": "Neblina del río",
+          "name": "Bruma del Río",
           "creatureSubtype": "Tabaxi",
-          "languages": "más cualquier idioma",
-          "biographyPublic": "<p><em>Véase también: @UUID[Compendium.dnd-tomb-annihilation.actors.Actor.toaFlaskofWine00]{Espumoso de vino}</em></p>",
-          "tokenName": "Neblina del río"
+          "languages": "y otro idioma cualquiera",
+          "biographyPublic": "<p><em>Consulta también: @UUID[Compendium.dnd-tomb-annihilation.actors.Actor.toaFlaskofWine00]{Jarro de Vino}</em></p>",
+          "tokenName": "Bruma del Río"
         },
         "pdgBJ32F0fSDA4IZ": {
           "alignment": "Neutral malvado",
@@ -17405,11 +17405,11 @@
             },
             "LB7ddplZCbERppO9": {
               "text": "<p>@Embed[Compendium.dnd-tomb-annihilation.actors.Actor.toaFlaskofWine00 caption=false cite=false]</p><img class=\"size-four centered\" src=\"modules/dnd-tomb-annihilation/assets/portraits/flask-of-wine.webp\"><p>@Embed[Compendium.dnd-tomb-annihilation.actors.Actor.toaFlaskofWine00 caption=false cite=true statblock classes=\"double-column\"]</p>",
-              "name": "Espumoso de vino"
+              "name": "Jarro de Vino"
             },
             "dYavJw1WpuYesxYg": {
               "text": "<p>@Embed[Actor.toaRiverMist0000 caption=false cite=false]</p><img class=\"size-four centered\" src=\"modules/dnd-tomb-annihilation/assets/portraits/river-mist.webp\"><p>@Embed[Actor.toaRiverMist0000 caption=false cite=true statblock classes=\"double-column\"]</p>",
-              "name": "Neblina del río"
+              "name": "Bruma del Río"
             },
             "2ksXBLyTv8FTr5fp": {
               "text": "<p>@Embed[Actor.toaGrabstab00000 caption=false cite=false]</p><img class=\"size-four centered\" src=\"modules/dnd-tomb-annihilation/assets/portraits/queen-grabstab.webp\"><p>@Embed[Actor.toaGrabstab00000 caption=false cite=true statblock classes=\"double-column\"]</p>",
