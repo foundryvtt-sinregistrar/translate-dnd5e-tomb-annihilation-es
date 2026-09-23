@@ -2233,18 +2233,30 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   solo contiene `ffuBjS4HfROv05fk` y `Gp56t5S2YILsDaM9`. Se conserva la clave
   en esta revisión lingüística y se anota para reparación funcional.
 
+### appendix-d-tomb-servants — Guardianes y sirvientes de la tumba
+
+- Revisados 134 campos: cuatro páginas y ambas copias del guardián,
+  enano de la tumba, garra reptante y llave-esqueleto. Referencias físicas
+  127–128 y 146; perfiles contra el exportado inglés.
+- Solo el guardián tiene biografía exportada. Comprobados su frenesí,
+  absorción de relámpagos, aversión al fuego y ataques mágicos; también
+  el regreso como zombi por Consumir vida y el límite de doce zombis.
+- El perfil de la llave-esqueleto no incluye el rasgo de trepar por paredes
+  y techos que menciona el diario. Se conserva el contenido exportado y se
+  registra la omisión para comprobar la configuración en Foundry.
+
 ## Balance de revisión editorial
 
-- 883 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 887 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 278 de los apéndices A, B, C, D y F.
-  No equivale a 883 páginas del PDF.
-- 9595 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 9595 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 282 de los apéndices A, B, C, D y F.
+  No equivale a 887 páginas del PDF.
+- 9729 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 9729 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas ciento veintiséis biografías en ambas copias de actores: siete
-  príncipes y ciento diecinueve criaturas o PNJ vinculados al apéndice D. Siguen pendientes las demás
+  insertado. Revisadas ciento veintisiete biografías en ambas copias de actores: siete
+  príncipes y ciento veinte criaturas o PNJ vinculados al apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las

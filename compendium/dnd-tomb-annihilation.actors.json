@@ -8321,15 +8321,15 @@
       "items": {
         "fQoi8oQayBAGSa9Q": {
           "name": "Garra",
-          "description": "<p>[[/attack extended]]. [[/damage extended average]] (elección de garra).</p>"
+          "description": "<p>[[/attack extended]]. [[/damage extended average]] (a elección de la garra).</p>"
         },
         "tawo3jxCl1FW580G": {
-          "name": "Cambiar la inmunidad",
-          "description": "<p>La garra es inmune a los efectos que se vuelven no muertos.</p>"
+          "name": "Inmunidad a la Expulsión",
+          "description": "<p>La garra es inmune a los efectos que expulsan muertos vivientes.</p>"
         }
       },
       "name": "Garra reptante",
-      "languages": "entiende pero no puede hablar",
+      "languages": "Entiende, pero no puede hablar",
       "tokenName": "Garra reptante"
     },
     "toaCyclops000000": {
@@ -11855,20 +11855,20 @@
       "items": {
         "4nf69mYztMiC4S7M": {
           "name": "Ataque múltiple",
-          "description": "<p>La Llave de Esqueleto puede hacer dos ataques de arma cuerpo a cuerpo como una acción.</p>"
+          "description": "<p>La llave-esqueleto puede realizar dos ataques con arma cuerpo a cuerpo como acción.</p>"
         },
         "1qNxtivA6rKwNOOH": {
           "name": "Daga",
           "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>"
         },
         "6IL85mtEY7lyGdv0": {
-          "name": "Calavera y huesos",
-          "description": "<p>Cuando se reduce a 0 puntos de impacto, una llave esqueleto se desmorona, aunque su cráneo y huesos permanecen intactos.</p><p>Una llave esqueleto no dispara ninguna trampa colocada en una habitación o en una puerta de la tumba.</p>"
+          "name": "Cráneo y Huesos",
+          "description": "<p>Cuando sus puntos de golpe se reducen a 0, la llave-esqueleto se desarma, pero su cráneo y sus huesos permanecen intactos.</p><p>No activa ninguna trampa situada en una sala o puerta de la tumba.</p>"
         }
       },
-      "name": "Tecla de esqueleto",
-      "languages": "Comprende todos los idiomas que conocía en la vida pero no puede hablar",
-      "tokenName": "Tecla de esqueleto"
+      "name": "Llave-esqueleto",
+      "languages": "Entiende todos los idiomas que conocía en vida, pero no puede hablar",
+      "tokenName": "Llave-esqueleto"
     },
     "toaSmokeMephit00": {
       "alignment": "Neutral malvado",
@@ -12491,87 +12491,87 @@
       "items": {
         "fKIUImfcNk0pU2HN": {
           "name": "Ataque múltiple",
-          "description": "<p>El torbellino hace dos [[/item .WZ3XGh48UoyAvBhS]]{espadalong} ataques o dos [[/item .PUYwkzEiKopyM6YL]]{longbow} ataques. Puede usar su [[/item .NX8cqG6aZMns8wvY]]{Drenaje vital} en lugar de un ataque de espada larga.</p>"
+          "description": "<p>El tumulario realiza dos ataques con [[/item .WZ3XGh48UoyAvBhS]]{espada larga} o dos ataques con [[/item .PUYwkzEiKopyM6YL]]{arco largo}. Puede usar [[/item .NX8cqG6aZMns8wvY]]{Consumir vida} en lugar de uno de los ataques con espada larga.</p>"
         },
         "PUYwkzEiKopyM6YL": {
           "name": "Arco largo",
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-          "descriptionChat": "<p>El Wight ataca con su Longbow.</p>"
+          "descriptionChat": "<p>El tumulario ataca con su arco largo.</p>"
         },
         "WZ3XGh48UoyAvBhS": {
           "name": "Espada larga",
-          "description": "<p>[[/attack extended]]. [[/damage extended]]o bien [[/damage average attackMode=twoHanded]] daño si se utiliza con dos manos.</p>",
-          "descriptionChat": "<p>El Wight ataca con su Longsword.</p>"
+          "description": "<p>[[/attack extended]]. [[/damage extended]], o [[/damage average attackMode=twoHanded]] de daño si se empuña a dos manos.</p>",
+          "descriptionChat": "<p>El tumulario ataca con su espada larga.</p>"
         },
         "nkPIb1htkHIdbJ97": {
           "name": "Armadura de cuero tachonado",
-          "description": "<p>Hecho de cuero resistente pero flexible, el cuero tachonado está reforzado con remaches o pinchos de cierre.</p>"
+          "description": "<p>Esta armadura está hecha de cuero resistente pero flexible, reforzado con remaches o púas muy juntos.</p>"
         },
         "qodTzcDY37TCj4GN": {
-          "name": "Sensibilidad a la luz solar",
-          "description": "<p>Mientras que en la luz del sol, el torbellino tiene<strong> </strong>desventaja<strong> </strong>en los rollos de ataque, así como en la Sabiduría (percepción) controles que dependen de la vista.</p>"
+          "name": "Sensibilidad a la Luz Solar",
+          "description": "<p>Bajo la luz del sol, el tumulario tiene<strong> </strong>desventaja<strong> </strong>en las tiradas de ataque y en las pruebas de Sabiduría (Percepción) que dependan de la vista.</p>"
         },
         "NX8cqG6aZMns8wvY": {
-          "name": "Drenaje de vida",
-          "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo debe tener éxito en un [[/save format=long]] o su punto de impacto máximo se reduce en una cantidad igual al daño tomado. Esta reducción dura hasta que el objetivo termine un largo descanso. El objetivo muere si este efecto reduce su punto de impacto máximo a 0.</p><p>Un humanoide muerto por este ataque se levanta 24 horas más tarde como un @UUID[Compendium.dnd5e.monsters.Actor.NAISFPoNNgUCsEyW]{zombie} bajo el control del torbellino, a menos que el humanoide sea restaurado a la vida o su cuerpo sea destruido. El wight no puede tener más de doce zombies bajo su control a la vez.</p>",
-          "descriptionChat": "<p>El Wight ataca con su drenaje de vida. El objetivo debe hacer un <strong>Constitución</strong> El lanzamiento de ahorro.</p>",
+          "name": "Consumir vida",
+          "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo debe superar una tirada de salvación [[/save format=long]] o sus puntos de golpe máximos se reducen en una cantidad igual al daño sufrido. Esta reducción dura hasta que termine un descanso largo. Si este efecto reduce sus puntos de golpe máximos a 0, el objetivo muere.</p><p>Un humanoide muerto por este ataque se alza 24 horas después como un @UUID[Compendium.dnd5e.monsters.Actor.NAISFPoNNgUCsEyW]{zombi} bajo el control del tumulario, salvo que vuelva a la vida o su cuerpo sea destruido. El tumulario no puede controlar más de doce zombis a la vez.</p>",
+          "descriptionChat": "<p>El tumulario ataca con Consumir vida. El objetivo debe realizar una tirada de salvación de <strong>Constitución</strong>.</p>",
           "activities": {
             "KMdv830gfOssbiG4": {
-              "name": "Zombie se levanta"
+              "name": "Se alza un zombi"
             }
           }
         }
       },
-      "name": "Tomb enano",
+      "name": "Enano de la tumba",
       "creatureSubtype": "Tumulario",
-      "languages": "los idiomas que conocía en la vida",
-      "tokenName": "Tomb enano"
+      "languages": "Los idiomas que conocía en vida",
+      "tokenName": "Enano de la tumba"
     },
     "toaTombGuardian0": {
       "alignment": "Neutral",
       "items": {
         "QfjW0c3vhMYUDlmD": {
           "name": "Ataque múltiple",
-          "description": "<p>El golem hace dos ataques cuerpo a cuerpo.</p>"
+          "description": "<p>El gólem realiza dos ataques cuerpo a cuerpo.</p>"
         },
         "vPyfOSDTZStGYRxj": {
           "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-          "name": "Guanteletes especiados"
+          "name": "Guanteletes con pinchos"
         },
         "OjkIqlW2UpgFcjZa": {
-          "name": "Armadura de placa",
-          "description": "<p>La placa consiste en placas metálicas en forma, entrelazadas para cubrir todo el cuerpo. Un traje de placa incluye guanteletes, botas de cuero pesado, un casco visera, y capas gruesas de relleno debajo de la armadura. Hebillas y correas distribuyen el peso sobre el cuerpo.</p>"
+          "name": "Armadura de placas",
+          "description": "<p>Esta armadura cubre todo el cuerpo con placas metálicas moldeadas y encajadas entre sí. Incluye guanteletes, botas de cuero grueso, un yelmo con visera y gruesas capas de acolchado bajo las placas. Las hebillas y correas distribuyen el peso por todo el cuerpo.</p>"
         },
         "Oh6zgXRULiWHU5QJ": {
-          "name": "Frenesí",
-          "description": "<p>Cada vez que el golem comienza su turno con 40 puntos de golpe o menos, rodar un [[/r d6]]. En un 6, el golem se vuelve loco. </p><p>En cada uno de sus giros mientras se enloquece, el golem ataca a la criatura más cercana que puede ver. Si ninguna criatura está lo suficientemente cerca para moverse y atacar, el golem ataca un objeto, con preferencia por un objeto más pequeño que él mismo. Una vez que el golem se vuelve loco, sigue haciéndolo hasta que es destruido o recupera todos sus puntos de impacto. </p><p>El creador del golem, si está a menos de 60 pies del golem de Berserk, puede tratar de calmarlo hablando firme y persuasivamente. El golem debe ser capaz de escuchar a su creador, que debe tomar una acción para hacer un [[/check format=long]]. Si el cheque tiene éxito, el golem deja de estar loco. </p><p>Si toma daño mientras todavía en 40 puntos de impacto o menos, el golem podría volverse loco de nuevo.</p>"
+          "name": "Furia Berserker",
+          "description": "<p>Cuando el gólem comienza su turno con 40 puntos de golpe o menos, tira [[/r d6]]. Con un 6, entra en furia berserker.</p><p>En cada uno de sus turnos mientras esté en este estado, ataca a la criatura más cercana que pueda ver. Si ninguna está lo bastante cerca como para moverse hasta ella y atacarla, ataca a un objeto, preferiblemente uno más pequeño que él. Una vez entra en furia berserker, sigue en ese estado hasta que lo destruyan o recupere todos sus puntos de golpe.</p><p>Si su creador está a 60 pies o menos, puede intentar calmarlo hablándole con firmeza y de forma persuasiva. El gólem debe poder oírlo y su creador debe usar una acción para realizar una prueba [[/check format=long]]. Si tiene éxito, el gólem deja de estar en furia berserker.</p><p>Si sufre daño mientras aún tiene 40 puntos de golpe o menos, puede volver a entrar en furia berserker.</p>"
         },
         "fKOj7vcp8k3tB4oY": {
-          "name": "Aversión al fuego",
-          "description": "<p>Si el golem recibe daños por incendio, tiene desventajas en los rollos de ataque y controles de capacidad hasta el final de su siguiente turno.</p>"
+          "name": "Aversión al Fuego",
+          "description": "<p>Si el gólem sufre daño de fuego, tiene desventaja en las tiradas de ataque y pruebas de característica hasta el final de su siguiente turno.</p>"
         },
         "BUxEkrYQNvDs8WZP": {
-          "name": "Forma inmutable",
-          "description": "<p>El golem es inmune a cualquier conjuro o efecto que pueda alterar su forma.</p>"
+          "name": "Forma Inmutable",
+          "description": "<p>El gólem es inmune a cualquier conjuro o efecto que altere su forma.</p>"
         },
         "5shQWIM4h9mITbG5": {
-          "name": "Absorción de rayos",
-          "description": "<p>Cada vez que el golem es sometido a daños por rayos, no se necesita ningún daño y en su lugar recupera un número de puntos de impacto igual a los daños por rayos repartidos.</p>"
+          "name": "Absorción de Relámpagos",
+          "description": "<p>Cuando el gólem se ve sometido a daño de relámpago, no sufre daño y, en su lugar, recupera tantos puntos de golpe como el daño de relámpago que habría recibido.</p>"
         },
         "BXhdCuUw6W7IZsGP": {
-          "name": "Resistencia mágica",
-          "description": "<p>El golem tiene ventaja en los lanzamientos de ahorro contra conjuros y otros efectos mágicos.</p>"
+          "name": "Resistencia Mágica",
+          "description": "<p>El gólem tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.</p>"
         },
         "tmXCc0M4mooVOaN7": {
-          "name": "Armas mágicas",
-          "description": "<p>Los ataques con armas del golem son mágicos.</p>"
+          "name": "Armas Mágicas",
+          "description": "<p>Los ataques con arma del gólem son mágicos.</p>"
         }
       },
       "name": "Guardián de la tumba",
       "creatureSubtype": "Gólem de carne",
-      "languages": "Entiende los idiomas de su creador pero no puede hablar",
+      "languages": "Entiende los idiomas de su creador, pero no puede hablar",
       "tokenName": "Guardián de la tumba",
-      "biography": "<p>Un golem de carne es un horripilante surtido de partes del cuerpo humanoide cosidas y atornilladas en un músculo bruto imbuido de una fuerza formidable. Poderosos encantamientos la protegen, desviando conjuros y todas las armas menos las más potentes.</p><p>Los aventureros que han perecido dentro de la tumba son cosidos por enanos de tumba y atornillados en trajes de armadura. Una vez terminados, estos golems desvergonzados son liberados en la tumba para cazar intrusos.</p>"
+      "biography": "<p>Un gólem de carne es una macabra combinación de partes de cuerpos humanoides cosidas y atornilladas para formar un ser musculoso dotado de una fuerza formidable. Poderosos encantamientos lo protegen, desviando conjuros y todas las armas salvo las más potentes.</p><p>Los enanos de la tumba cosen los restos de los aventureros que han muerto en su interior y los fijan dentro de armaduras. Una vez terminados, estos gólems de andar torpe son liberados por la tumba para dar caza a los intrusos.</p>"
     },
     "toaTriceratops00": {
       "alignment": "Sin alineamiento",
