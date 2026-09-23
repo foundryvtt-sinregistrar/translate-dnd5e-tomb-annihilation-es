@@ -2895,6 +2895,15 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Esto no acredita las etiquetas dibujadas dentro de imágenes ni la ejecución
   de cada trampa o teletransporte durante el juego.
 
+### treasures-* — Tesoros, recipientes y objetos de las localizaciones
+
+- Revisados 132 objetos contra el exportado inglés, incluidas procedencias,
+  contenido de recipientes, valores y nombres de los personajes relacionados.
+- Corregidas traducciones de hoard/horde como tesoro cuando corresponde,
+  nombres de objetos y errores tipográficos del original en contexto.
+- Se conservan las discrepancias mecánicas del original para su comprobación
+  funcional; no se añaden descripciones a recipientes que no las tienen.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
