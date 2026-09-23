@@ -939,14 +939,27 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - La tabla insertada de efectos del tambor requiere su propia revisión.
 - Auditorías técnica y editorial sin errores.
 
+### ch5-level3-guardians-01 a ch5-level3-guardians-03 — Gólem, Yaka y guardianes
+
+- Revisados tres textos y títulos con referencias físicas 154-155.
+- Conservado el giro a la derecha de ambas estatuas, coherente con la advertencia,
+  y la protección del metal encerrado en recipientes sellados frente al gas.
+- Yaka es un bufón, no simplemente un necio; su silencio mágico evita la
+  desventaja sin levantar por ello la maldición.
+- Pendiente de contenido enlazado: el texto exportado de los guardianes omite
+  el apartado del PDF sobre la cadena de pinchos (distancia, daño compartido,
+  resistencia y rotura). Revisar su ficha antes de decidir si falta en el módulo.
+- Conservada «Selected» como rótulo de interfaz del original hasta comprobar
+  la versión de Foundry empleada. Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 543 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 546 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4 y sesenta y cuatro del capítulo 5. No equivale a 543 páginas del PDF.
-- 1196 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1196 campos distintos.
+  del capítulo 4 y sesenta y siete del capítulo 5. No equivale a 546 páginas del PDF.
+- 1202 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1202 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
