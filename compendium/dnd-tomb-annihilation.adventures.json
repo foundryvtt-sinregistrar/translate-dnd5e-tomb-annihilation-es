@@ -12542,42 +12542,42 @@
             "GJgN3Qy49XCaKmTc": {
               "name": "Mordisco",
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-              "descriptionChat": "<p>El Pseudodragon ataca con su mordida.</p>"
+              "descriptionChat": "<p>El pseudodragón ataca con su mordisco.</p>"
             },
             "heZCHSZEeLLiweK7": {
-              "name": "Sentidos de Keen",
-              "description": "<p>[[lookup @name]] tiene ventaja en controles de Sabiduría (percepción) que dependen de la vista, el oído u olfato.</p>"
+              "name": "Sentidos Agudos",
+              "description": "<p>[[lookup @name]] tiene ventaja en las pruebas de Sabiduría (Percepción) que dependan de la vista, el oído o el olfato.</p>"
             },
             "GAzi14ICaeeOAO8J": {
-              "name": "Resistencia mágica",
-              "description": "<p>[[lookup @name]] ha<strong> </strong>ventaja<strong> </strong>en los lanzamientos de ahorro contra conjuros y otros efectos mágicos.</p>"
+              "name": "Resistencia Mágica",
+              "description": "<p>[[lookup @name]] tiene<strong> </strong>ventaja<strong> </strong>en las tiradas de salvación contra conjuros y otros efectos mágicos.</p>"
             },
             "aIqOpP93mUsy9yD1": {
-              "name": "Telepatía limitada",
-              "description": "<p>[[lookup @name]] puede comunicar mágicamente ideas simples, emociones e imágenes telepáticamente con cualquier criatura a menos de 100 pies de distancia que pueda entender un idioma.</p>"
+              "name": "Telepatía Limitada",
+              "description": "<p>[[lookup @name]] puede comunicar mágicamente ideas, emociones e imágenes sencillas por telepatía a cualquier criatura a 100 pies o menos de él que entienda algún idioma.</p>"
             },
             "MKFXRWP55I1bVlyD": {
               "name": "Aguijón",
-              "description": "<p>[[/attack extended]]. [[/damage extended average]].</p><p>El objetivo debe tener éxito en un [[/save format=long]] o convertirse en &amp;Reference[poisoned apply=false]{envenenado} durante 1 hora. Si el lanzamiento de ahorro falla por 5 o más, el objetivo cae &amp;Reference[unconscious apply=false]{inconsciente} durante la misma duración, o hasta que se dañe u otra criatura utiliza una acción para sacudirlo despierto.</p>",
-              "descriptionChat": "<p>El Pseudodragon ataca con su Sting. El objetivo debe hacer un <strong>Constitución</strong> El lanzamiento de ahorro.</p>",
+              "description": "<p>[[/attack extended]]. [[/damage extended average]].</p><p>El objetivo debe superar una [[/save format=long]] o quedar &amp;Reference[poisoned apply=false]{envenenado} durante 1 hora. Si falla por 5 o más, cae &amp;Reference[unconscious apply=false]{inconsciente} durante el mismo tiempo, hasta que reciba daño o hasta que otra criatura use una acción para despertarlo sacudiéndolo.</p>",
+              "descriptionChat": "<p>El pseudodragón ataca con su aguijón. El objetivo debe realizar una tirada de salvación de <strong>Constitución</strong>.</p>",
               "effects": {
                 "BreqNDPiFWHtOfw1": {
                   "name": "Envenenado",
-                  "description": "<p>El objetivo es &amp;Reference[poisoned apply=false]{envenenado} durante 1 hora.</p>"
+                  "description": "<p>El objetivo está &amp;Reference[poisoned apply=false]{envenenado} durante 1 hora.</p>"
                 },
                 "76vdpLPe7f82oDTe": {
                   "name": "Inconsciente",
-                  "description": "<p>Si el lanzamiento de ahorro falla por 5 o más, el objetivo cae &amp;Reference[unconscious apply=false]{inconsciente}.</p>"
+                  "description": "<p>Si falla la tirada de salvación por 5 o más, el objetivo cae &amp;Reference[unconscious apply=false]{inconsciente}.</p>"
                 }
               }
             }
           },
-          "name": "Summerwise",
+          "name": "Estival",
           "creatureSubtype": "Pseudodragón",
-          "languages": "No puedo hablar.",
-          "biographyPublic": "<p><em>Véase también: @UUID[Actor.VuDXEqP3oRgnyIIC]{Xandala}</em></p>",
-          "tokenName": "Summerwise",
-          "biography": "<p>@UUID[Actor.VuDXEqP3oRgnyIIC]{Xandala} se ha hecho amigo de un @UUID[Compendium.dnd5e.monsters.Actor.fkCNtbvPOMd7mipF]{pseudodragon} llamado Summerwise, que piensa que la búsqueda de Xandala <em>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toamgcRingofWint]{Anillo de invierno}</em> Es peligroso, pero ha renunciado a tratar de convencer al hechicero. Summerwise se puede volver contra Xandala por personajes bien alineados.</p>"
+          "languages": "No puede hablar",
+          "biographyPublic": "<p><em>Consulta también: @UUID[Actor.VuDXEqP3oRgnyIIC]{Xandala}</em></p>",
+          "tokenName": "Estival",
+          "biography": "<p>@UUID[Actor.VuDXEqP3oRgnyIIC]{Xandala} se ha hecho amiga de un @UUID[Compendium.dnd5e.monsters.Actor.fkCNtbvPOMd7mipF]{pseudodragón} llamado Estival, que considera peligrosa su búsqueda del <em>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toamgcRingofWint]{Anillo del Invierno}</em>, aunque ha renunciado a intentar disuadirla. Los personajes de alineamiento bueno pueden poner a Estival en contra de Xandala.</p>"
         },
         "toaSyndraSilvane": {
           "alignment": "Legal neutral",
@@ -13670,104 +13670,104 @@
               "effects": {
                 "6pbotGIvqQkraPva": {
                   "name": "Escudo",
-                  "description": "<p>Hasta el comienzo de su próximo turno, usted tiene un bono de +5 a AC, incluyendo contra el ataque de activación, y usted no recibe ningún daño de misiles mágicos.</p>"
+                  "description": "<p>Hasta el comienzo de tu siguiente turno, obtienes un bonificador de +5 a la CA, también contra el ataque que desencadenó el conjuro, y no recibes daño de proyectil mágico.</p>"
                 }
               },
-              "description": "<p>Una barrera invisible de fuerza mágica aparece y te protege. Hasta el comienzo de su próximo turno, usted tiene un bono de +5 a AC, incluyendo contra el ataque de activación, y usted no recibe ningún daño de misiles mágicos.</p>"
+              "description": "<p>Una barrera invisible de fuerza mágica aparece para protegerte. Hasta el comienzo de tu siguiente turno, obtienes un bonificador de +5 a la CA, también contra el ataque que desencadenó el conjuro, y no recibes daño de proyectil mágico.</p>"
             },
             "gN07Gmcuvq3t1Zkg": {
               "name": "Volar",
-              "description": "<p>Tocas a una criatura dispuesta. El objetivo gana una velocidad de vuelo de 60 pies para la Duración. Cuando el conjuro termina, el objetivo cae si todavía está en alto, a menos que pueda detener la caída.</p><p><strong>En los niveles superiores.</strong> Cuando usted lanza este conjuro usando una espacio de conjuro de 4o nivel o superior, usted puede apuntar a una criatura adicional por cada nivel de ranura por encima de 3o.</p>"
+              "description": "<p>Tocas a una criatura voluntaria. El objetivo obtiene una velocidad volando de 60 pies durante el conjuro. Cuando este termina, el objetivo cae si sigue en el aire, a menos que pueda detener la caída.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro usando un espacio de nivel 4 o superior, puedes elegir una criatura adicional por cada nivel del espacio por encima de 3.</p>"
             },
             "PUyixYO61cML5P4s": {
-              "name": "Lanzamiento de conjuros",
-              "description": "<p>Xandala es un hechicero de nivel 9. Su habilidad de conjuros es Carisma (salva CD 15, +7 para golpear con ataques de conjuros). Xandala tiene los siguientes conjuros de hechicero preparados:</p><p>Cantrip (a voluntad): <em>[[/item .YekJgJ143FRmCmp8]]{Salpullido ácido}, [[/item .2ysb55FQDMVxybmA]]{perno de fuego}, [[/item .jNmw1J40pN5uFrcr]]{luz}, [[/item .snsk4DgvOL53cSqu]]{mano de mago}, [[/item .NUEKaudRRDSiccO8]]{rayo de heladas}</em></p><p>1er nivel (4 franjas horarias): <em>orbe cromático</em> (Manual del jugador 2014), <em>[[/item .LAfDwMFU5mswyHxy]]{caída de plumas}, [[/item .KFSMXa6Q9ZUaY4Nu]]{escudo}</em></p><p>2o nivel (4 franjas horarias): <em>[[/item .S3Jkj2PrCTJlClxE]]{invisibilidad}, [[/item .HkJek5vrnOnN3TLp]]{Paso de niebla}</em></p><p>3er nivel (3 franjas horarias): <em>[[/item .T3dnpKBQ4bV9UMJu]]{bola de fuego}, [[/item .gN07Gmcuvq3t1Zkg]]{volar}</em></p><p>4o nivel (3 franjas horarias): <em>[[/item .QX1tivjhJcuHi4Xi]]{tormenta de hielo}, [[/item .FDAkirqJvaLMVgf8]]{polimorf}</em></p><p>5o nivel (1 franja): <em>[[/item .oh5YT0B2cOLzOjWN]]{dominar a la persona}</em></p>"
+              "name": "Lanzamiento de Conjuros",
+              "description": "<p>Xandala es una lanzadora de conjuros de nivel 9. Su aptitud mágica es Carisma (salvación de conjuros CD 15, +7 a impactar con ataques de conjuro). Tiene preparados los siguientes conjuros de hechicero:</p><p>Trucos (a voluntad): <em>[[/item .YekJgJ143FRmCmp8]]{salpicadura ácida}, [[/item .2ysb55FQDMVxybmA]]{descarga de fuego}, [[/item .jNmw1J40pN5uFrcr]]{luz}, [[/item .snsk4DgvOL53cSqu]]{mano de mago}, [[/item .NUEKaudRRDSiccO8]]{rayo de escarcha}</em></p><p>Nivel 1 (4 espacios): <em>orbe cromático</em> (Manual del jugador de 2014), <em>[[/item .LAfDwMFU5mswyHxy]]{caída de pluma}, [[/item .KFSMXa6Q9ZUaY4Nu]]{escudo}</em></p><p>Nivel 2 (4 espacios): <em>[[/item .S3Jkj2PrCTJlClxE]]{invisibilidad}, [[/item .HkJek5vrnOnN3TLp]]{paso brumoso}</em></p><p>Nivel 3 (3 espacios): <em>[[/item .T3dnpKBQ4bV9UMJu]]{bola de fuego}, [[/item .gN07Gmcuvq3t1Zkg]]{volar}</em></p><p>Nivel 4 (3 espacios): <em>[[/item .QX1tivjhJcuHi4Xi]]{tormenta de hielo}, [[/item .FDAkirqJvaLMVgf8]]{polimorfar}</em></p><p>Nivel 5 (1 espacio): <em>[[/item .oh5YT0B2cOLzOjWN]]{dominar persona}</em></p>"
             },
             "YekJgJ143FRmCmp8": {
               "name": "Salpicadura ácida",
-              "description": "<p>Lanzas una burbuja de ácido. Elija una criatura que pueda ver dentro del rango, o elija dos criaturas que puedan ver dentro del rango que estén a menos de 5 pies de distancia entre sí. Un objetivo debe tener éxito en un lanzamiento de ahorro de Dexterity o tomar 1d6ácido daño.</p><p>El daño de este conjuro aumenta en 1d6 cuando alcanzas el 5o nivel (2d6), 11o nivel (3d6) y 17o nivel (4d6).</p>"
+              "description": "<p>Lanzas una burbuja de ácido. Elige una criatura que puedas ver dentro del alcance, o dos que puedas ver dentro del alcance y estén a 5 pies o menos una de otra. Un objetivo debe superar una tirada de salvación de Destreza o sufrir 1d6 de daño de ácido.</p><p>El daño de este conjuro aumenta en 1d6 cuando alcanzas el nivel 5 (2d6), el nivel 11 (3d6) y el nivel 17 (4d6).</p>"
             },
             "2ysb55FQDMVxybmA": {
-              "name": "Perno de fuego",
-              "description": "<p>Lanzas una mota de fuego a una criatura u objeto dentro del alcance. Hacer un ataque de conjuros de alcance contra el objetivo. En un golpe, el objetivo recibe 1d10 daños por incendio. Un objeto inflamable golpeado por este conjuro se enciende si no está siendo usado o transportado.</p><p>El daño de este conjuro aumenta en 1d10 cuando alcanzas el 5o nivel (2d10), 11o nivel (3d10) y 17o nivel (4d10).</p>"
+              "name": "Descarga de fuego",
+              "description": "<p>Lanzas una mota de fuego a una criatura u objeto dentro del alcance. Realiza un ataque de conjuro a distancia contra el objetivo. Si impactas, el objetivo sufre 1d10 de daño de fuego. Un objeto inflamable alcanzado por este conjuro arde si nadie lo lleva puesto ni lo transporta.</p><p>El daño de este conjuro aumenta en 1d10 cuando alcanzas el nivel 5 (2d10), el nivel 11 (3d10) y el nivel 17 (4d10).</p>"
             },
             "jNmw1J40pN5uFrcr": {
               "name": "Luz",
-              "description": "<p>Tocas un objeto que no mide más de 10 pies en cualquier dimensión. Hasta que el conjuro termina, el objeto arroja luz brillante en un radio de 20 pies y luz tenue por otros 20 pies. La luz puede ser coloreada como quieras. Cubrir completamente el objeto con algo opaco bloquea la luz. El conjuro termina si lo lanzas de nuevo o lo descartas como una acción.</p><p>Si usted apunta a un objeto sostenido o usado por una criatura hostil, esa criatura debe tener éxito en un lanzamiento de ahorro de Dexterity para evitar el conjuro.</p>"
+              "description": "<p>Tocas un objeto que no mida más de 10 pies en ninguna dimensión. Hasta que termine el conjuro, el objeto emite luz brillante en un radio de 20 pies y luz tenue 20 pies más allá. La luz puede ser del color que elijas. Cubrir por completo el objeto con algo opaco bloquea la luz. El conjuro termina si vuelves a lanzarlo o lo disipas como acción.</p><p>Si eliges un objeto que una criatura hostil lleve puesto o sostenga, esa criatura debe superar una tirada de salvación de Destreza para evitar el conjuro.</p>"
             },
             "snsk4DgvOL53cSqu": {
-              "name": "Mano Maga",
-              "description": "<p>Una mano espectral y flotante aparece en un punto que usted elige dentro del rango. La mano dura por la duración o hasta que la desestime como una acción. La mano se desvanece si está a más de 30 pies de ti o si vuelves a lanzar este conjuro.</p><p>Puedes usar tu acción para controlar la mano. Puede usar la mano para manipular un objeto, abrir una puerta o contenedor desbloqueado, guardar o recuperar un objeto de un contenedor abierto o verter el contenido de un vial. Puedes mover la mano hasta 30 pies cada vez que la uses.</p><p>La mano no puede atacar, activar objetos mágicos ni llevar más de 10 libras.</p>"
+              "name": "Mano de mago",
+              "description": "<p>Una mano espectral flotante aparece en un punto que elijas dentro del alcance. Permanece durante el conjuro o hasta que la disipes como acción. La mano desaparece si se aleja más de 30 pies de ti o si vuelves a lanzar este conjuro.</p><p>Puedes usar tu acción para controlar la mano. Puedes utilizarla para manipular un objeto, abrir una puerta o recipiente sin cerrar con llave, guardar o sacar un objeto de un recipiente abierto o verter el contenido de un vial. Puedes mover la mano hasta 30 pies cada vez que la uses.</p><p>La mano no puede atacar, activar objetos mágicos ni transportar más de 10 libras.</p>"
             },
             "NUEKaudRRDSiccO8": {
               "name": "Rayo de escarcha",
-              "description": "<p>Un rayo frígido de luz azul-blanca se dirige hacia una criatura dentro de su alcance. Hacer un ataque de conjuros de alcance contra el objetivo. En un golpe, toma 1d8 daño frío, y su velocidad se reduce en 10 pies hasta el inicio de su siguiente giro.</p><p>El daño del conjuro aumenta en 1d8 cuando alcanzas el 5o nivel (2d8), 11o nivel (3d8), y 17o nivel (4d8).</p>"
+              "description": "<p>Un haz gélido de luz blanca azulada se dirige hacia una criatura dentro del alcance. Realiza un ataque de conjuro a distancia contra el objetivo. Si impactas, sufre 1d8 de daño de frío y su velocidad se reduce en 10 pies hasta el comienzo de tu siguiente turno.</p><p>El daño de este conjuro aumenta en 1d8 cuando alcanzas el nivel 5 (2d8), el nivel 11 (3d8) y el nivel 17 (4d8).</p>"
             },
             "LAfDwMFU5mswyHxy": {
               "name": "Caída de pluma",
-              "description": "<p>Elija hasta cinco criaturas que caen dentro del rango. La velocidad de descenso de una criatura que cae se reduce a 60 pies por vuelta hasta que el conjuro termina. Si la criatura aterriza antes de que el conjuro termine, no necesita ningún daño y puede aterrizar en sus pies, y el conjuro termina para esa criatura.</p>"
+              "description": "<p>Elige hasta cinco criaturas que estén cayendo dentro del alcance. Su velocidad de caída se reduce a 60 pies por asalto hasta que termine el conjuro. Si una criatura aterriza antes de que termine, no recibe daño por la caída y puede caer de pie; el conjuro termina para ella.</p>"
             },
             "S3Jkj2PrCTJlClxE": {
               "name": "Invisibilidad",
-              "description": "<p>Una criatura que tocas se vuelve invisible hasta que el conjuro termina. Todo lo que el objetivo lleva o lleva es invisible mientras esté en la persona del objetivo. El conjuro termina para un objetivo que ataca o lanza un conjuro.</p><p><strong>En los niveles superiores.</strong> Al lanzar este conjuro usando una espacio de conjuros de 3er nivel o superior, puedes apuntar a una criatura adicional por cada nivel de ranura por encima de 2do.</p>",
+              "description": "<p>Una criatura que toques se vuelve invisible hasta que termine el conjuro. Todo lo que lleve puesto o transporte también es invisible mientras lo lleve encima. El conjuro termina para un objetivo que ataque o lance un conjuro.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro usando un espacio de nivel 3 o superior, puedes elegir una criatura adicional por cada nivel del espacio por encima de 2.</p>",
               "effects": {
                 "TeFxBRKYKIXtg6pS": {
                   "name": "Invisibilidad",
-                  "description": "<p>El objetivo se vuelve invisible hasta que el conjuro termina. Todo lo que el objetivo lleva o lleva es invisible mientras esté en la persona del objetivo. El conjuro termina para un objetivo que ataca o lanza un conjuro.</p>"
+                  "description": "<p>El objetivo se vuelve invisible hasta que termine el conjuro. Todo lo que lleve puesto o transporte también es invisible mientras lo lleve encima. El conjuro termina para un objetivo que ataque o lance un conjuro.</p>"
                 }
               }
             },
             "HkJek5vrnOnN3TLp": {
               "name": "Paso brumoso",
-              "description": "<p>Brevemente rodeado de niebla plateada, te teletransportas hasta 30 pies a un espacio desocupado que puedes ver.</p>"
+              "description": "<p>Una bruma plateada te envuelve brevemente y te teletransportas hasta 30 pies a un espacio desocupado que puedas ver.</p>"
             },
             "T3dnpKBQ4bV9UMJu": {
               "name": "Bola de fuego",
-              "description": "<p>Una racha brillante parpadea desde tu dedo apuntando a un punto que eliges dentro del rango y luego florece con un rugido bajo en una explosión de llama. Cada criatura en una esfera de 20 pies de radio centrada en ese punto debe hacer un lanzamiento de ahorro de Dexterity. Un objetivo tiene 8d6 daños por incendio en un error de guardar, o la mitad de daño en un éxito.</p><p>El fuego se extiende por las esquinas. Enciende objetos inflamables en el área que no se llevan ni llevan.</p><p><strong>Niveles superiores.</strong> Cuando se lanza este conjuro usando una espacio de conjuro de 4o nivel o superior, el daño aumenta en 1d6 para cada nivel de ranura por encima de 3o.</p>"
+              "description": "<p>Un destello brillante sale de tu dedo extendido hacia un punto que elijas dentro del alcance y estalla con un rugido sordo en una explosión de llamas. Cada criatura en una esfera de 20 pies de radio centrada en ese punto debe realizar una tirada de salvación de Destreza. Un objetivo sufre 8d6 de daño de fuego si falla, o la mitad si tiene éxito.</p><p>El fuego se propaga por las esquinas y prende los objetos inflamables del área que nadie lleve puestos ni transporte.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro usando un espacio de nivel 4 o superior, el daño aumenta en 1d6 por cada nivel del espacio por encima de 3.</p>"
             },
             "QX1tivjhJcuHi4Xi": {
               "name": "Tormenta de hielo",
-              "description": "<p>Una granada de hielo duro de roca al suelo en un cilindro de 20 pies de radio, 40 pies de altura centrado en un punto dentro del alcance. Cada criatura en el cilindro debe hacer un lanzamiento de ahorro de Dexterity. Una criatura recibe 2d8 daños por apaleamiento y 4d6 daños por frío en un ahorro fallido, o la mitad del daño en uno exitoso.</p><p>Las piedras de pedrisco convierten el área de efecto de la tormenta en terreno difícil hasta el final de su próximo giro.</p><p><strong>En los niveles superiores.</strong> Cuando lanzas este conjuro usando una ranura para conjuros de 5o nivel o superior, el daño por apaleamiento aumenta en 1d8 por cada nivel de ranura por encima de 4o.</p>"
+              "description": "<p>Una granizada de hielo duro como la roca golpea el suelo en un cilindro de 20 pies de radio y 40 pies de altura centrado en un punto dentro del alcance. Cada criatura en el cilindro debe realizar una tirada de salvación de Destreza. Sufre 2d8 de daño contundente y 4d6 de daño de frío si falla, o la mitad si tiene éxito.</p><p>El granizo convierte el área de la tormenta en terreno difícil hasta el final de tu siguiente turno.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro usando un espacio de nivel 5 o superior, el daño contundente aumenta en 1d8 por cada nivel del espacio por encima de 4.</p>"
             },
             "FDAkirqJvaLMVgf8": {
-              "name": "Polimorfo",
-              "description": "<p>Este conjuro transforma a una criatura que puedes ver dentro del rango en una nueva forma. Una criatura renuente debe hacer un lanzamiento salvífico de Sabiduría para evitar el efecto. El conjuro no tiene ningún efecto en un Shapechanger o una criatura con 0 puntos de impacto.</p><p>La transformación dura para la Duración, o hasta que el objetivo baje a 0 puntos de impacto o muera. La nueva forma puede ser cualquier bestia cuya calificación de desafío es igual o menor que la del objetivo (o el nivel del objetivo, si no tiene una calificación de desafío). Las estadísticas del juego del objetivo, incluyendo las puntuaciones de habilidad mental, son reemplazadas por las estadísticas de la bestia elegida. Conserva su Alineación y personalidad.</p><p>El objetivo asume los Puntos de Hit de su nueva forma. Cuando vuelve a su forma normal, la criatura vuelve al número de puntos de impacto que tenía antes de transformarse. Si se revierte como resultado de caer a 0 puntos de impacto, cualquier daño excesivo se traslada a su forma normal. Mientras el exceso de daño no reduzca la forma normal de la criatura a 0 puntos de impacto, no será derribado Inconsciente.</p><p>La criatura está limitada en las Acciones que puede realizar por la Naturaleza de su nueva forma, y no puede hablar, lanzar conjuros, o tomar cualquier otra acción que requiera manos o habla.</p><p>El engranaje del objetivo se funde en la nueva forma. La criatura no puede activar, usar, empuñar ni beneficiarse de ningún otro modo de su Equipo.</p>",
+              "name": "Polimorfar",
+              "description": "<p>Este conjuro transforma a una criatura que puedas ver dentro del alcance en una nueva forma. Una criatura no voluntaria debe realizar una tirada de salvación de Sabiduría para evitar el efecto. El conjuro no afecta a cambiaformas ni a criaturas con 0 puntos de golpe.</p><p>La transformación dura hasta que termine el conjuro, el objetivo llegue a 0 puntos de golpe o muera. La nueva forma puede ser la de cualquier bestia cuyo valor de desafío sea igual o inferior al del objetivo, o a su nivel si no tiene valor de desafío. Las estadísticas del objetivo, incluidas sus puntuaciones de características mentales, se sustituyen por las de la bestia elegida. Conserva su alineamiento y personalidad.</p><p>El objetivo adopta los puntos de golpe de su nueva forma. Al recuperar su forma normal, vuelve a tener los puntos de golpe que tenía antes de transformarse. Si recupera su forma por haber llegado a 0 puntos de golpe, el daño sobrante se aplica a su forma normal. Mientras ese daño no reduzca a 0 los puntos de golpe de su forma normal, no queda inconsciente.</p><p>Las acciones que puede realizar están limitadas por la naturaleza de su nueva forma. No puede hablar, lanzar conjuros ni realizar ninguna otra acción que requiera manos o habla.</p><p>El equipo del objetivo se fusiona con la nueva forma. La criatura no puede activarlo, usarlo, empuñarlo ni beneficiarse de él de ningún otro modo.</p>",
               "effects": {
                 "tM8Yj0dw52paxVc4": {
-                  "name": "Polimorfo"
+                  "name": "Polimorfar"
                 }
               }
             },
             "oh5YT0B2cOLzOjWN": {
               "name": "Dominar persona",
-              "description": "<p>Intentas engañar a un humanoide que puedes ver dentro del alcance. Debe tener éxito en un lanzamiento de ahorro de sabiduría o ser &amp;Reference[charmed] por usted durante todo el tiempo. Si usted o las criaturas que son amigables con usted están luchando contra ella, tiene ventaja en el lanzamiento de ahorro.</p><p>Mientras que el objetivo está encantado, tienes un enlace telepático con él siempre y cuando los dos de ustedes están en el mismo plano de existencia. Puedes usar este enlace telepático para emitir órdenes a la criatura mientras estás consciente (no se requiere acción), que hace todo lo posible para obedecer. Puedes especificar un curso de acción simple y general, como \"Atacar a esa criatura\", \"Correr por allí\", o \"Traer ese objeto\". Si la criatura completa la orden y no recibe más dirección de ti, se defiende y se conserva a sí misma a lo mejor de su capacidad.</p><p>Puede utilizar su acción para tomar el control total y preciso del objetivo. Hasta el final de tu próximo turno, la criatura toma sólo las acciones que eliges, y no hace nada que no permitas que haga. Durante este tiempo también puedes hacer que la criatura use una reacción, pero esto requiere que uses tu propia reacción también.</p><p>Cada vez que el objetivo recibe daños, hace un nuevo lanzamiento de ahorro de sabiduría contra el conjuro. Si el lanzamiento de ahorro tiene éxito, el conjuro termina.</p><p><strong>En los niveles superiores.</strong> Cuando lanzas este conjuro usando un conjuro de 6o nivel, la duración es concentración, hasta 10 minutos. Cuando se utiliza una espacio de conjuros de 7o nivel, la duración es la concentración, hasta 1 hora. Cuando se utiliza una espacio de conjuro de 8o nivel o superior, la duración es la concentración, hasta 8 horas.</p>",
+              "description": "<p>Intentas someter a un humanoide que puedas ver dentro del alcance. Debe superar una tirada de salvación de Sabiduría o quedar &amp;Reference[charmed]{hechizado} por ti durante el conjuro. Si tú o criaturas amistosas contigo estáis luchando contra él, tiene ventaja en la tirada de salvación.</p><p>Mientras el objetivo esté hechizado, mantienes un vínculo telepático con él siempre que ambos estéis en el mismo plano de existencia. Mientras estés consciente, puedes usarlo para darle órdenes sin gastar ninguna acción, y la criatura intentará obedecerlas lo mejor que pueda. Puedes indicar una conducta sencilla y general, como «ataca a esa criatura», «corre hasta allí» o «trae ese objeto». Si cumple la orden y no recibe nuevas instrucciones, se defiende y protege lo mejor que puede.</p><p>Puedes usar tu acción para controlar al objetivo de forma total y precisa. Hasta el final de tu siguiente turno, la criatura solo realiza las acciones que elijas y no hace nada que no le permitas. Durante ese tiempo también puedes hacer que use una reacción, pero debes gastar tu propia reacción para ello.</p><p>Cada vez que el objetivo recibe daño, realiza una nueva tirada de salvación de Sabiduría contra el conjuro. Si tiene éxito, el conjuro termina.</p><p><strong>A niveles superiores.</strong> Si lanzas este conjuro con un espacio de nivel 6, su duración es concentración, hasta 10 minutos. Con uno de nivel 7, es concentración, hasta 1 hora. Con uno de nivel 8 o superior, es concentración, hasta 8 horas.</p>",
               "effects": {
                 "t7q0nA3ojHoNF0A8": {
                   "name": "Dominar persona",
-                  "description": "<p>El objetivo está encantado y debe hacer todo lo posible para obedecer cualquier orden enviada por el lanzador.</p>"
+                  "description": "<p>El objetivo está hechizado y debe intentar obedecer lo mejor que pueda las órdenes del lanzador.</p>"
                 }
               }
             },
             "FX2uka52Nnc3vSU2": {
-              "name": "Personal de trimestre",
-              "description": "<p>[[/attack extended]]. [[/damage extended average]] o [[/damage twoHanded average]] daño cuando se utiliza con dos manos.</p>"
+              "name": "Bastón",
+              "description": "<p>[[/attack extended]]. [[/damage extended average]] o [[/damage twoHanded average]] de daño cuando se usa a dos manos.</p>"
             },
             "O22T1bPU7hyJb9bb": {
-              "name": "Conjuro acelerado",
+              "name": "Conjuro Acelerado",
               "requirements": "Hechicero 3",
-              "description": "<p>Cuando lanza un conjuro que tiene un tiempo de lanzamiento de 1 acción, Xandala cambia el tiempo de lanzamiento a 1 acción adicional para ese casting.</p>",
+              "description": "<p>Cuando lanza un conjuro cuyo tiempo de lanzamiento es 1 acción, Xandala lo cambia a 1 acción adicional para ese lanzamiento.</p>",
               "activities": {
                 "dnd5eactivity000": {
-                  "name": "Gasto"
+                  "name": "Gastar un uso"
                 }
               }
             }
           },
           "name": "Xandala",
-          "creatureSubtype": "Mitad Elf",
-          "biographyPublic": "<p><em>Véase también: @UUID[Actor.toaSummerwise000]{Summerwise}</em></p>",
+          "creatureSubtype": "Semielfo",
+          "biographyPublic": "<p><em>Consulta también: @UUID[Actor.toaSummerwise000]{Estival}</em></p>",
           "tokenName": "Xandala",
-          "biography": "<p>El hechicero Xandala ha venido a Chul en busca de la <em>Anillo de invierno</em>, un artefacto en posesión de Artus Cimber. Xandala sabe que el anillo ha mantenido vivo a Artus por más de un siglo, y ella anhela su poder. Si conoce a los personajes, Xandala pretende ser la hija de Artus e intenta convencerlos para que la ayuden a encontrarlo. Su plan es lanzar <em>@UUID[Compendium.dnd5e.spells.Item.91Sw6vOIaO7U8DvM]{dominar a la persona}</em> en Artus y obligarlo a darle el anillo, luego escapar usando su conjuro de mosca.</p><p>La magia de Xandala se remonta a un linaje dracónico, y partes de su piel están cubiertas por un brillo delgado de escamas protectoras. Se ha hecho amiga de un pseudodragon llamado @UUID[Actor.toaSummerwise000]{Summerwise}, que piensa que la búsqueda de Xandala para el anillo es peligroso, pero ha renunciado a tratar de convencer al brujo de que no lo haga. Summerwise se puede volver contra Xandala por personajes bien alineados.</p>"
+          "biography": "<p>La hechicera semielfa Xandala ha llegado a Chult en busca del <em>Anillo del Invierno</em>, un artefacto que posee Artus Cimber. Sabe que el anillo lo ha mantenido con vida durante más de un siglo y ansía su poder. Si se encuentra con los personajes, finge ser la hija de Artus e intenta convencerlos de que la ayuden a encontrarlo. Su plan consiste en lanzar <em>@UUID[Compendium.dnd5e.spells.Item.91Sw6vOIaO7U8DvM]{dominar persona}</em> sobre Artus, obligarlo a entregarle el anillo y escapar usando su conjuro volar.</p><p>La magia de Xandala procede de un linaje dracónico, y parte de su piel está cubierta por una fina capa de escamas protectoras. Se ha hecho amiga de un pseudodragón llamado @UUID[Actor.toaSummerwise000]{Estival}, que considera peligrosa su búsqueda del anillo, aunque ha renunciado a intentar disuadirla. Los personajes de alineamiento bueno pueden poner a Estival en contra de Xandala.</p>"
         },
         "toaXopal00000000": {
           "alignment": "Neutral malvado",
@@ -17545,7 +17545,7 @@
             },
             "mhnR7GTgpjMunxfl": {
               "text": "<p>@Embed[Actor.toaSummerwise000 caption=false cite=false]</p><img class=\"size-four centered\" src=\"modules/dnd-tomb-annihilation/assets/portraits/pseudodragon.webp\"><p class=\"p1\">@Embed[Actor.toaSummerwise000 caption=false cite=true statblock classes=\"double-column\"]</p>",
-              "name": "Summerwise"
+              "name": "Estival"
             },
             "t10RYYCSxYMm2T5u": {
               "text": "<p>@Embed[Actor.toaAllosaurus000 caption=false cite=false]</p><p class=\"p1\">@Embed[Actor.toaAllosaurus000 caption=false cite=true statblock]</p>",

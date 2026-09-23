@@ -1829,18 +1829,31 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   el inglés exportado. La nota del aliento debilitador aclara que su efecto
   activo es un recordatorio y no automatiza las desventajas.
 
+### appendix-d-xandala-summerwise — Xandala y Estival
+
+- Revisados 148 campos de ambas copias de los dos actores y sus páginas.
+  Referencia física 238 para historia y ficha de Xandala; conjuros completos
+  y rasgos del pseudodragón contrastados con el inglés exportado.
+- Unificado Summerwise como Estival, según el PDF, en la ficha, su página y
+  las referencias de Xandala. Conservados engaño sobre su parentesco con Artus,
+  plan para robar el anillo y posibilidad de volver a Estival contra ella.
+- Revisados Polimorfar, Dominar persona y los demás conjuros, además del
+  umbral de fallo por 5 para la inconsciencia del aguijón de Estival.
+- El exportado omite los atributos de interpretación de Xandala del PDF y
+  el objeto de conjuro orbe cromático, aunque lo menciona en su lista.
+
 ## Balance de revisión editorial
 
-- 798 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 800 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 193 de los apéndices A, B, C, D y F.
-  No equivale a 798 páginas del PDF.
-- 4581 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 4581 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 195 de los apéndices A, B, C, D y F.
+  No equivale a 800 páginas del PDF.
+- 4729 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 4729 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas cincuenta y dos biografías en ambas copias de actores: siete
-  príncipes y cuarenta y cinco criaturas o PNJ del apéndice D. Siguen pendientes las demás
+  insertado. Revisadas cincuenta y cuatro biografías en ambas copias de actores: siete
+  príncipes y cuarenta y siete criaturas o PNJ del apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las
