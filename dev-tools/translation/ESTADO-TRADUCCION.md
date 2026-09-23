@@ -1759,18 +1759,31 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   en el exportado y a distancia en el PDF. Se registra la diferencia, conservando
   el exportado. Los enlaces por nombre de las armas siguen pendientes.
 
+### appendix-d-fungal-plants — Espinoso, palma triflor y vegepigmeos
+
+- Revisados 134 campos: ambas copias de cuatro actores y tres páginas.
+  Referencias físicas 221, 229, 230 y 236. Incluye regeneración, esporas y
+  las tres flores con sus diferentes tiempos y condiciones.
+- Conservada la repetición de salvación por minuto de Flor naranja y la
+  pinta del original en Flor amarilla. Flor roja no incluye el estado apresado
+  del PDF en el exportado; se registra la diferencia sin añadirlo a los datos.
+- El párrafo del PDF sobre fabricación de herramientas de los vegepigmeos no
+  figura en el diario ni en las biografías exportadas. Ambas biografías contienen
+  el mismo texto sobre maduración y jefes, que se conserva traducido.
+- Los enlaces por nombre de flores, garras y lanza siguen pendientes.
+
 ## Balance de revisión editorial
 
-- 788 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 791 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 183 de los apéndices A, B, C, D y F.
-  No equivale a 788 páginas del PDF.
-- 3951 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 3951 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 186 de los apéndices A, B, C, D y F.
+  No equivale a 791 páginas del PDF.
+- 4085 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 4085 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas treinta y ocho biografías en ambas copias de actores: siete
-  príncipes y treinta y una criaturas o PNJ del apéndice D. Siguen pendientes las demás
+  insertado. Revisadas cuarenta y dos biografías en ambas copias de actores: siete
+  príncipes y treinta y cinco criaturas o PNJ del apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las

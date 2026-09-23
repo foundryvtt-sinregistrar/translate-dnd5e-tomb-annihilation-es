@@ -2029,19 +2029,19 @@
           "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>"
         },
         "YlhpBdobw7MNz3Xh": {
-          "name": "Camuflaje de plantas",
-          "description": "<p>El espinoso tiene ventaja en los controles de Dexterity (Stealth) que hace en cualquier terreno con una amplia vida vegetal oscura.</p>"
+          "name": "Camuflaje Vegetal",
+          "description": "<p>El espinoso tiene ventaja en las pruebas de Destreza (Sigilo) que realice en terrenos con abundante vegetación que lo oculte.</p>"
         },
         "6caGwKT66yqfvKYP": {
           "name": "Regeneración",
-          "description": "<p>El espinoso recupera [[/healing]] al comienzo de su turno. Si se necesita frío, fuego o daño necrótico, este rasgo no funciona al inicio del siguiente giro espinoso. El espinoso muere sólo si comienza su turno con 0 puntos de impacto y no se regenera.</p>"
+          "description": "<p>El espinoso recupera [[/healing]] al comienzo de su turno. Si recibe daño de frío, fuego o necrótico, este rasgo no funciona al comienzo de su siguiente turno. El espinoso solo muere si comienza su turno con 0 puntos de golpe y no se regenera.</p>"
         },
         "BPwaPx8VlLz6nyen": {
-          "name": "Cuerpo espinoso",
-          "description": "<p>Al comienzo de su turno, los espinosos tratos [[/damage average]] daño a cualquier criatura que lo lidia.</p>"
+          "name": "Cuerpo Espinoso",
+          "description": "<p>Al comienzo de su turno, el espinoso causa [[/damage average]] de daño a cualquier criatura que lo esté agarrando.</p>"
         }
       },
-      "biography": "<p>Una criatura espinosa es un hongo cuádruple que vive entre las vegepygmias, sirviéndoles como perro guardián o montura.</p>"
+      "biography": "<p>Un espinoso es una criatura fúngica cuadrúpeda que vive entre los vegepigmeos y les sirve de guardián o montura.</p>"
     },
     "Ht9WtMbNYF77X2ry": {
       "name": "Atrapahombres",
@@ -5559,44 +5559,44 @@
       "items": {
         "zAOR7fx2KnhYDaNQ": {
           "name": "Ataque múltiple",
-          "description": "<p>La flor de tres flores utiliza su [[/item Orange Blossom]], entonces su [[/item Yellow Blossom]], y luego su [[/item Red Blossom]].</p>"
+          "description": "<p>La palma triflor usa su [[/item Orange Blossom]]{Flor naranja}, después su [[/item Yellow Blossom]]{Flor amarilla} y por último su [[/item Red Blossom]]{Flor roja}.</p>"
         },
         "xe9tVtJLCkvlLAMX": {
-          "name": "Flor de Naranja",
-          "description": "<p>La fronda triflor elige a una criatura que puede ver a menos de 5 pies de distancia. El objetivo debe tener éxito en un [[/save format=long]] o ser &amp;Reference[Poisoned apply=false]{envenenado} durante 1 hora. Mientras que envenenado de esta manera, el objetivo es &amp;Reference[Unconscious apply=false]{inconsciente}. Al final de cada minuto, el objetivo envenenado puede repetir el lanzamiento de ahorro, poniendo fin al efecto en sí mismo en un éxito.</p>",
+          "name": "Flor naranja",
+          "description": "<p>La palma triflor elige a una criatura que pueda ver a 5 pies o menos de ella. El objetivo debe superar una [[/save format=long]] o quedar &amp;Reference[Poisoned apply=false]{envenenado} durante 1 hora. Mientras esté envenenado de este modo, está &amp;Reference[Unconscious apply=false]{inconsciente}. Al final de cada minuto, el objetivo envenenado puede repetir la tirada de salvación y librarse del efecto si tiene éxito.</p>",
           "effects": {
             "Bt2RHqhtTkxhVg3V": {
               "name": "Envenenado e inconsciente",
-              "description": "<p>El objetivo es &amp;Reference[Poisoned apply=false]{envenenado} durante 1 hora. Mientras que envenenado de esta manera, el objetivo es &amp;Reference[Unconscious apply=false]{inconsciente}. Al final de cada minuto, el objetivo envenenado puede repetir el lanzamiento de ahorro, poniendo fin al efecto en sí mismo en un éxito.</p>"
+              "description": "<p>El objetivo está &amp;Reference[Poisoned apply=false]{envenenado} durante 1 hora. Mientras esté envenenado de este modo, está &amp;Reference[Unconscious apply=false]{inconsciente}. Al final de cada minuto, el objetivo envenenado puede repetir la tirada de salvación y librarse del efecto si tiene éxito.</p>"
             }
           }
         },
         "xUCfTFnWLORYrtOr": {
           "name": "Flor amarilla",
-          "description": "<p>La fronda triflor elige a una criatura que puede ver a menos de 5 pies de distancia. El objetivo debe tener éxito en un [[/save format=long]], o está cubierto de savia corrosiva y toma [[/damage]] daños al inicio de cada uno de sus giros. Duplicar el objetivo con agua reduce el daño ácido por [[/heal]] por pinta o matraz de agua utilizado.</p>"
+          "description": "<p>La palma triflor elige a una criatura que pueda ver a 5 pies o menos de ella. El objetivo debe superar una [[/save format=long]] o quedar cubierto de savia corrosiva y sufrir [[/damage]] de daño al comienzo de cada uno de sus turnos. Empapar al objetivo con agua reduce el daño de ácido en [[/heal]] por cada pinta o frasco de agua utilizado.</p>"
         },
         "9hlMb8ldXjxPgs6V": {
-          "name": "Flor Roja",
-          "description": "<p>[[/attack extended]]. [[/damage extended average]], y el objetivo es &amp;Reference[Grappled apply=false]{forcejeado} (escape CD 11). Hasta que termine esta pelea, el objetivo toma [[/damage average activity=ll0r77pmg6ktBxOE]] daños al inicio de cada uno de sus giros. La flor roja sólo puede alcanzar un objetivo a la vez. Otra criatura al alcance de la fronda triflor puede usar su acción para acabar con la garra en el objetivo.</p>",
+          "name": "Flor roja",
+          "description": "<p>[[/attack extended]]. [[/damage extended average]], y el objetivo queda &amp;Reference[Grappled apply=false]{agarrado} (CD 11 para escapar). Hasta que termine el agarre, el objetivo sufre [[/damage average activity=ll0r77pmg6ktBxOE]] de daño al comienzo de cada uno de sus turnos. La flor roja solo puede agarrar a un objetivo a la vez. Otra criatura al alcance de la palma triflor puede usar su acción para liberar al objetivo del agarre.</p>",
           "activities": {
             "pBXxfIqwCNhL4g3N": {
-              "name": "Comprobación de escape"
+              "name": "Prueba para escapar"
             },
             "ll0r77pmg6ktBxOE": {
-              "name": "Daños mientras se atrapan"
+              "name": "Daño durante el agarre"
             }
           },
           "effects": {
             "aQjOSiDuhlLg0wrx": {
               "name": "Agarrado",
-              "description": "<p>El objetivo es &amp;Reference[grappled apply=false]{forcejeado} (escape CD 11). Hasta que este garfio termina, el objetivo recibe daños al inicio de cada uno de sus giros. </p>"
+              "description": "<p>El objetivo está &amp;Reference[grappled apply=false]{agarrado} (CD 11 para escapar). Hasta que termine el agarre, sufre daño al comienzo de cada uno de sus turnos.</p>"
             }
           }
         }
       },
-      "name": "Frond triflor",
-      "tokenName": "Frond triflor",
-      "biography": "<p>Cuando está completamente crecido, una fronda de tres flores mide de 6 a 7 pies de altura. Tiene tres flores brillantes en forma de trompeta, cada una tan grande como una cabeza humana y cada una de un color diferente: rojo intenso, naranja vívido y amarillo brillante. Cada flor puede dañar a una criatura de una manera terrible diferente.</p>"
+      "name": "Palma triflor",
+      "tokenName": "Palma triflor",
+      "biography": "<p>Una palma triflor adulta mide entre 6 y 7 pies de altura. Tiene tres flores brillantes con forma de trompeta, cada una tan grande como una cabeza humana y de un color distinto: rojo intenso, naranja vivo y amarillo radiante. Cada flor puede dañar a una criatura de una manera terrible y diferente.</p>"
     },
     "iFXjzcyFi14cpnRs": {
       "alignment": "Caótico malvado",
@@ -5984,7 +5984,7 @@
       "items": {
         "AHvA38KBR29IoD2h": {
           "name": "Ataque múltiple",
-          "description": "<p>La vegepygmy hace dos ataques con su [[/item Claws]] o dos ataques cuerpo a cuerpo con su [[/item Spear]].</p>"
+          "description": "<p>El vegepigmeo realiza dos ataques con sus [[/item Claws]]{Garras} o dos ataques cuerpo a cuerpo con su [[/item Spear]]{Lanza}.</p>"
         },
         "nmEX5Qy9K1T6b1ac": {
           "name": "Garras",
@@ -5992,31 +5992,31 @@
         },
         "BcZ9gbmndXyE8MrB": {
           "name": "Lanza",
-          "description": "<p>[[/attack extended]]. [[/damage extended average]] o [[/damage twoHanded average]] daño si se utiliza con dos manos para hacer un ataque cuerpo a cuerpo.</p>"
+          "description": "<p>[[/attack extended]]. [[/damage extended average]] o [[/damage twoHanded average]] de daño si se usa a dos manos para realizar un ataque cuerpo a cuerpo.</p>"
         },
         "klv8fuaYVtgMmzZq": {
           "name": "Esporas",
-          "description": "<p>Una nube de 15 pies de radio de esporas tóxicas se extiende desde la vegepygmy. Las esporas se extienden por las esquinas. Cada criatura en esa área que no es una planta debe tener éxito en un [[/save format=long]] o ser &amp;Reference[Poisoned apply=false]{envenenado}. Mientras que envenenado de esta manera, un objetivo toma [[/damage average]] daños al inicio de cada uno de sus giros. Un objetivo puede repetir el lanzamiento de ahorro al final de cada uno de sus turnos, terminando con el efecto en sí mismo en un éxito.</p>",
+          "description": "<p>Una nube de esporas tóxicas de 15 pies de radio se extiende desde el vegepigmeo y se propaga por las esquinas. Cada criatura en el área que no sea una planta debe superar una [[/save format=long]] o quedar &amp;Reference[Poisoned apply=false]{envenenada}. Mientras esté envenenado de este modo, un objetivo sufre [[/damage average]] de daño al comienzo de cada uno de sus turnos. Puede repetir la tirada de salvación al final de cada uno de sus turnos y librarse del efecto si tiene éxito.</p>",
           "effects": {
             "XdhqEL4CuZFnHy1n": {
               "name": "Envenenado",
-              "description": "<p>El objetivo es &amp;Reference[poisoned apply=false]{envenenado}. Mientras que envenenado de esta manera, un objetivo recibe daños al comienzo de cada uno de sus giros. </p>"
+              "description": "<p>El objetivo está &amp;Reference[poisoned apply=false]{envenenado}. Mientras esté envenenado de este modo, sufre daño al comienzo de cada uno de sus turnos.</p>"
             }
           }
         },
         "aZ5RGf0SlgRiFQvE": {
-          "name": "Camuflaje de plantas",
-          "description": "<p>El vegepygmy tiene ventaja en Dexterity (Stealth) controles que hace en cualquier terreno con una amplia vida vegetal oscura.</p>"
+          "name": "Camuflaje Vegetal",
+          "description": "<p>El vegepigmeo tiene ventaja en las pruebas de Destreza (Sigilo) que realice en terrenos con abundante vegetación que lo oculte.</p>"
         },
         "ZICCP1xTPx5IzVWU": {
           "name": "Regeneración",
-          "description": "<p>La vegepygmy recupera [[/heal]] al comienzo de su turno. Si se necesita frío, fuego o daño necrótico, este rasgo no funciona al inicio del próximo turno de la vegepygmy. El vegepygmy muere sólo si comienza su turno con 0 puntos de golpe y no se regenera.</p>"
+          "description": "<p>El vegepigmeo recupera [[/heal]] al comienzo de su turno. Si recibe daño de frío, fuego o necrótico, este rasgo no funciona al comienzo de su siguiente turno. El vegepigmeo solo muere si comienza su turno con 0 puntos de golpe y no se regenera.</p>"
         }
       },
-      "name": "Vegepygmy Jefe",
+      "name": "Jefe vegepigmeo",
       "languages": "Vegepigmeo",
-      "tokenName": "Vegepygmy Jefe",
-      "biography": "<p>A medida que un vegepygmy edades, se vuelve más duro y desarrolla cúmulos de esporas en su cuerpo. Las vegepygmias portadoras de esporas se convierten en jefes. Un jefe vegepygmy puede expulsar sus esporas en un estallido, infectando criaturas cercanas.</p>"
+      "tokenName": "Jefe vegepigmeo",
+      "biography": "<p>Al envejecer, un vegepigmeo se vuelve más resistente y desarrolla cúmulos de esporas en su cuerpo. Los vegepigmeos que producen esporas se convierten en jefes. Un jefe vegepigmeo puede expulsarlas de golpe e infectar a las criaturas cercanas.</p>"
     },
     "lf03TUwzHqJhRnH4": {
       "alignment": "Sin alineamiento",
@@ -6850,18 +6850,18 @@
           "name": "Honda"
         },
         "CdbRcZHEm8JlBOCs": {
-          "name": "Camuflaje de plantas",
-          "description": "<p>El vegepygmy tiene ventaja en Dexterity (Stealth) controles que hace en cualquier terreno con una amplia vida vegetal oscura.</p>"
+          "name": "Camuflaje Vegetal",
+          "description": "<p>El vegepigmeo tiene ventaja en las pruebas de Destreza (Sigilo) que realice en terrenos con abundante vegetación que lo oculte.</p>"
         },
         "nWT5aSoGzzJo5H8b": {
           "name": "Regeneración",
-          "description": "<p>La vegepygmy recupera [[/heal]] al comienzo de su turno. Si se necesita frío, fuego o daño necrótico, este rasgo no funciona al inicio del próximo turno de la vegepygmy. El vegepygmy muere sólo si comienza su turno con 0 puntos de golpe y no se regenera.</p>"
+          "description": "<p>El vegepigmeo recupera [[/heal]] al comienzo de su turno. Si recibe daño de frío, fuego o necrótico, este rasgo no funciona al comienzo de su siguiente turno. El vegepigmeo solo muere si comienza su turno con 0 puntos de golpe y no se regenera.</p>"
         }
       },
       "name": "Vegepigmeo",
       "languages": "Vegepigmeo",
       "tokenName": "Vegepigmeo",
-      "biography": "<p>A medida que un vegepygmy edades, se vuelve más duro y desarrolla cúmulos de esporas en su cuerpo. Las vegepygmias portadoras de esporas se convierten en jefes. Un jefe vegepygmy puede expulsar sus esporas en un estallido, infectando criaturas cercanas.</p>"
+      "biography": "<p>Al envejecer, un vegepigmeo se vuelve más resistente y desarrolla cúmulos de esporas en su cuerpo. Los vegepigmeos que producen esporas se convierten en jefes. Un jefe vegepigmeo puede expulsarlas de golpe e infectar a las criaturas cercanas.</p>"
     },
     "tPP0kMKDW7E1Km5z": {
       "alignment": "Legal neutral",
