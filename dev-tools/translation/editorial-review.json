@@ -67000,6 +67000,649 @@
           "status": "reviewed-against-es-extraction-and-en-export"
         }
       ]
+    },
+    {
+      "id": "appendix-d-zitembe",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGrandfatherZi.name",
+          "sourceSha256": "e7bf1392241016709c591ee7af2b9b363b4ba22385569c0f88da22ebf87e690b",
+          "translationSha256": "ee08403fc585b3ea4f04132d0635510f09e1c43569676b8971c615c9f8a029be",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGrandfatherZi.alignment",
+          "sourceSha256": "205c9cf6051628161e40bba28dd64d838908de569a8520b9074189ef3a558625",
+          "translationSha256": "c196863ef022105140a07cf495d822822aab8ba58649478e736638e044161817",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGrandfatherZi.creatureSubtype",
+          "sourceSha256": "9ffa865f2bc6e850157bb454ef3e00fa789e3f8cc631552941a99ba3fcddde51",
+          "translationSha256": "5d78db6ff88f4b03b414ab57fc9b639b95958d3492cd83949f3d917e57313a1c",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGrandfatherZi.languages",
+          "sourceSha256": "301b770068d8da91e03c1c50e12ff0b14585b165270bcfab3758aa4d0d09a021",
+          "translationSha256": "8717b63c11c4982277376013686c6c41ca1f0cb18822d3a01038be92ca3beacb",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGrandfatherZi.tokenName",
+          "sourceSha256": "e7bf1392241016709c591ee7af2b9b363b4ba22385569c0f88da22ebf87e690b",
+          "translationSha256": "ee08403fc585b3ea4f04132d0635510f09e1c43569676b8971c615c9f8a029be",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGrandfatherZi.biography",
+          "sourceSha256": "43a95e02d5a0f0c934ee045f7551d59490dbb2fba4da9c12cd7c4484cb63cff7",
+          "translationSha256": "737e9bbb7a75c5604a1be6dc963ee0e483593308125c1545a1bedffe6ec0471a",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGrandfatherZi.items.DAfjJwczDq2TX2wJ.name",
+          "sourceSha256": "0ce3a662d11283354858fe3750d3f72949f5863f4dbed31d00005eece8e14a02",
+          "translationSha256": "e1589d94051584af717abd37f905541c9ec9a6a380dffd0e89ba52771faddcb3",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGrandfatherZi.items.DAfjJwczDq2TX2wJ.description",
+          "sourceSha256": "265b42900e9f6f0ff063b78e12274fe087361d712a87bade8a4ca70ec38f8e40",
+          "translationSha256": "654456728632ab94ffb700d27bbd1ba0222103ee8ac89d79c515c9b2cf7beaf3",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGrandfatherZi.items.p2zChy24ZJdVqMSH.name",
+          "sourceSha256": "4d6e150d62634e8d9d6be94b137d2a0d72eb8e95fb24977f3df9be9c92065a96",
+          "translationSha256": "9abbd4a531c46cd1b323495681d24b42a46f4407a58233bbc05951c09355bf39",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGrandfatherZi.items.p2zChy24ZJdVqMSH.description",
+          "sourceSha256": "c9b4d00156d604a8d2d6c5676e913a0045d7e2575d6ad3c2ea80e4438ce9f3d7",
+          "translationSha256": "d9d03638968ad6f433d9f6b41b4d06640fc06110d15bd33fb00cf4a62fe05254",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGrandfatherZi.items.skpg0DYuVVKtoX6l.name",
+          "sourceSha256": "f8b504a809261065fcf369c2257188d7833012c6ad73079bd7d0d7e548798272",
+          "translationSha256": "e6a2d3ef9d1a22e05157ad787836ea8d3b2e1967ea0165efebd9a3e69cd704ca",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGrandfatherZi.items.skpg0DYuVVKtoX6l.description",
+          "sourceSha256": "7c51c77512103f8371ee92a9a2a9706091c54297d409b4600811d1d7a3b392aa",
+          "translationSha256": "83610e46f7b7d01712583085d8a385b2e1002d360aebff8bec9a32d983215934",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGrandfatherZi.items.a8dAOSfRarQ065ry.name",
+          "sourceSha256": "dbcd5e7bb7a0f538810de44c3efbd813037ee3fa358747bb71fa58e157af45f7",
+          "translationSha256": "10ee0862a25f22b9fa72fe548fb258a4a6b025618fe45f026ad97356deb9757f",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGrandfatherZi.items.a8dAOSfRarQ065ry.description",
+          "sourceSha256": "a6915b64e17b9dee585647a17f8dd3f2959eca3852412607562f3169e5e64ddd",
+          "translationSha256": "01fec2dea114b96e93688f01468e78d3247855f4232d802b46620e58f97e548f",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGrandfatherZi.items.bAFD7sRVlwa8zSXS.name",
+          "sourceSha256": "560d616c7de628af880ba548d55f960587465fe5e4dd8e825d59511d69172365",
+          "translationSha256": "4f3060de6751626ae2067332fbc91fb5021b0e873a8410294bf2d826143a9100",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGrandfatherZi.items.bAFD7sRVlwa8zSXS.description",
+          "sourceSha256": "7faaf8409056df0be21249141c3c00d480b9a141ce0c59257205c981a72f8306",
+          "translationSha256": "d4c0b6d2941e181a6d6861f98f4669e190bef1e24490dc74362801e76cda3bfd",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGrandfatherZi.items.comRqfHm6D3vMxkI.name",
+          "sourceSha256": "1118dde764109023f1e1bcefa9cbb7302366d80414adcc0e53b014a6329ed244",
+          "translationSha256": "61860da1fa92587ff0cc2d10890d24d8c00ea52bccb9fde2e66a28b6b93d7e38",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGrandfatherZi.items.comRqfHm6D3vMxkI.description",
+          "sourceSha256": "b593b4820577a94078e293b71c529549720cd161d726041ebcdf3dde3ed36aca",
+          "translationSha256": "2df14cc757096ed97c469ed4e1428c116988cc47a6d609da6f1fb40f05f3d71c",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGrandfatherZi.items.WWbQsagz8jTwmoox.name",
+          "sourceSha256": "37e7b242876dfe75755d06c104a3cca7a2c0af0f90bb8d66a68d4d4d76fd9c5a",
+          "translationSha256": "0fb65b1cc67b6e0788f275aefa454310801eea34837e8fd17cb1ca630cf85d78",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGrandfatherZi.items.WWbQsagz8jTwmoox.description",
+          "sourceSha256": "eeb3ecc5e4ea7ae64a5b9598be44b97252cd1f999b2fcc767d43c5a7622778cd",
+          "translationSha256": "516139f9500e41b85a0c0366292309973066ba8902d970958fb8e42296cf6186",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGrandfatherZi.items.Ak84AH1U5akIYUQl.name",
+          "sourceSha256": "3396532a27a470776705b756eb6374679f17b8afbc70b65eadabd4b700360046",
+          "translationSha256": "b7cc16d75d90e440ff60b448889ef856590fdb23eac2aaa0c218ec7bfa6aa822",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGrandfatherZi.items.Ak84AH1U5akIYUQl.description",
+          "sourceSha256": "e802d268d2d38cf68ba72844ce5f1f484c2ce744a47c87fec31c2f16da5929eb",
+          "translationSha256": "c223cd63e86564269c21eda1d8e43a62dcf9344753cb191be9785d82b5090a48",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGrandfatherZi.items.Z3wlBVLpHLCRHvUo.name",
+          "sourceSha256": "275a77faac4972ade3db35d5c72fa0581046da22f90764887ae6c38e8c142606",
+          "translationSha256": "7921ce20f8a70765f155da087ce394f98721915890d253d86679097ada53f496",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGrandfatherZi.items.Z3wlBVLpHLCRHvUo.description",
+          "sourceSha256": "0a9f68e1d85ad707cc1b10f449a3e3fe1ae347e9fc357f93433f4bed03695b00",
+          "translationSha256": "e05e88f8a704e61d2fcbbd99541aac40198fed78b9926ef8f8bcc90cbe70661b",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGrandfatherZi.items.lpFZeAnGs0FSsnVx.name",
+          "sourceSha256": "3a902d824623a7c4bf434820867767cc706d3916a5d751299e37e179e6f980e6",
+          "translationSha256": "c99cd1c89cb8a535c09a85d0ce91dcb643eace08d9e2a5d83c41d721f02e9042",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGrandfatherZi.items.lpFZeAnGs0FSsnVx.description",
+          "sourceSha256": "dea039d35dc2c8a34cf715f7a5d1e220b587c153b1cbfffc9fac8d730f4ab1de",
+          "translationSha256": "ba15786aa200d21ffe1015a98e9057be6ceabc896fb073ecfe9fe830b5a40a6b",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGrandfatherZi.items.TsMzOg7y8RgxTEUS.name",
+          "sourceSha256": "cc8d76ff5378ae112dbe7bcb5816cebcd394030ffcac0e6e7927bb54f7ca4458",
+          "translationSha256": "2e2861ad3f8ab506550c2c8b2979506c05f5b0bc10e59382d697dc637d8f0e76",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGrandfatherZi.items.TsMzOg7y8RgxTEUS.description",
+          "sourceSha256": "99f725dc6db86c9ecc756a2d25eda7ddc471a952552c238c04421242017a6143",
+          "translationSha256": "5c4c2106e08e4a6cd570a720c2b506dfcad3c4b4fcddb77e0c1ba3141b0aa00d",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGrandfatherZi.items.S6la8L5uqciI8hBi.name",
+          "sourceSha256": "d004ff3c3b43ebf8cc6ab81177bf0173675ace0c3869297d73b3d15ba3488ef5",
+          "translationSha256": "5a5985d95e8df5a1d2fcebcc65264fade5426a3b87be48b72c743631fe7596fe",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGrandfatherZi.items.S6la8L5uqciI8hBi.description",
+          "sourceSha256": "a0ad180e0f88f879f31ccc8a5044e120015cae52bdedf306075fe6af370db639",
+          "translationSha256": "028ef0760b4025d2ad941d9c2dfddd87f0a319d3689a133a30cfe77af2f94acb",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGrandfatherZi.items.NarLxMZTr1nX8oNW.name",
+          "sourceSha256": "05306c92743bad2593feaf48092f1fdf7db998393f3c8a246d6a1d570943c1d4",
+          "translationSha256": "161a7f744b0976bbc315184bd8d0f17a20667b7039ed4f8f9c9b8c5f013c32f1",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGrandfatherZi.items.NarLxMZTr1nX8oNW.description",
+          "sourceSha256": "ed538bfaacfb8cc29eec6b0ac492153339151900541cde5200b9f79f03e7d2fe",
+          "translationSha256": "a7ae91be8864b186d4f87efa255f4ce70bcdc662a13020fdb942fde2adc13f2a",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGrandfatherZi.items.crdvVsPcFIzqRBz4.name",
+          "sourceSha256": "6659c4ca642045f49ac22d26f1e05d8bdbc2fd6e7698d1f5ee631c2df58b3221",
+          "translationSha256": "9a595db7a96926168baa04636337776b7ada8c83d48da0e90c3d7eb69630ee28",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGrandfatherZi.items.crdvVsPcFIzqRBz4.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGrandfatherZi.name",
+          "sourceSha256": "e7bf1392241016709c591ee7af2b9b363b4ba22385569c0f88da22ebf87e690b",
+          "translationSha256": "ee08403fc585b3ea4f04132d0635510f09e1c43569676b8971c615c9f8a029be",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGrandfatherZi.alignment",
+          "sourceSha256": "205c9cf6051628161e40bba28dd64d838908de569a8520b9074189ef3a558625",
+          "translationSha256": "c196863ef022105140a07cf495d822822aab8ba58649478e736638e044161817",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGrandfatherZi.creatureSubtype",
+          "sourceSha256": "9ffa865f2bc6e850157bb454ef3e00fa789e3f8cc631552941a99ba3fcddde51",
+          "translationSha256": "5d78db6ff88f4b03b414ab57fc9b639b95958d3492cd83949f3d917e57313a1c",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGrandfatherZi.languages",
+          "sourceSha256": "301b770068d8da91e03c1c50e12ff0b14585b165270bcfab3758aa4d0d09a021",
+          "translationSha256": "8717b63c11c4982277376013686c6c41ca1f0cb18822d3a01038be92ca3beacb",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGrandfatherZi.tokenName",
+          "sourceSha256": "e7bf1392241016709c591ee7af2b9b363b4ba22385569c0f88da22ebf87e690b",
+          "translationSha256": "ee08403fc585b3ea4f04132d0635510f09e1c43569676b8971c615c9f8a029be",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGrandfatherZi.biography",
+          "sourceSha256": "43a95e02d5a0f0c934ee045f7551d59490dbb2fba4da9c12cd7c4484cb63cff7",
+          "translationSha256": "737e9bbb7a75c5604a1be6dc963ee0e483593308125c1545a1bedffe6ec0471a",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGrandfatherZi.items.DAfjJwczDq2TX2wJ.name",
+          "sourceSha256": "0ce3a662d11283354858fe3750d3f72949f5863f4dbed31d00005eece8e14a02",
+          "translationSha256": "e1589d94051584af717abd37f905541c9ec9a6a380dffd0e89ba52771faddcb3",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGrandfatherZi.items.DAfjJwczDq2TX2wJ.description",
+          "sourceSha256": "265b42900e9f6f0ff063b78e12274fe087361d712a87bade8a4ca70ec38f8e40",
+          "translationSha256": "654456728632ab94ffb700d27bbd1ba0222103ee8ac89d79c515c9b2cf7beaf3",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGrandfatherZi.items.p2zChy24ZJdVqMSH.name",
+          "sourceSha256": "4d6e150d62634e8d9d6be94b137d2a0d72eb8e95fb24977f3df9be9c92065a96",
+          "translationSha256": "9abbd4a531c46cd1b323495681d24b42a46f4407a58233bbc05951c09355bf39",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGrandfatherZi.items.p2zChy24ZJdVqMSH.description",
+          "sourceSha256": "c9b4d00156d604a8d2d6c5676e913a0045d7e2575d6ad3c2ea80e4438ce9f3d7",
+          "translationSha256": "d9d03638968ad6f433d9f6b41b4d06640fc06110d15bd33fb00cf4a62fe05254",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGrandfatherZi.items.skpg0DYuVVKtoX6l.name",
+          "sourceSha256": "f8b504a809261065fcf369c2257188d7833012c6ad73079bd7d0d7e548798272",
+          "translationSha256": "e6a2d3ef9d1a22e05157ad787836ea8d3b2e1967ea0165efebd9a3e69cd704ca",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGrandfatherZi.items.skpg0DYuVVKtoX6l.description",
+          "sourceSha256": "7c51c77512103f8371ee92a9a2a9706091c54297d409b4600811d1d7a3b392aa",
+          "translationSha256": "83610e46f7b7d01712583085d8a385b2e1002d360aebff8bec9a32d983215934",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGrandfatherZi.items.a8dAOSfRarQ065ry.name",
+          "sourceSha256": "dbcd5e7bb7a0f538810de44c3efbd813037ee3fa358747bb71fa58e157af45f7",
+          "translationSha256": "10ee0862a25f22b9fa72fe548fb258a4a6b025618fe45f026ad97356deb9757f",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGrandfatherZi.items.a8dAOSfRarQ065ry.description",
+          "sourceSha256": "a6915b64e17b9dee585647a17f8dd3f2959eca3852412607562f3169e5e64ddd",
+          "translationSha256": "01fec2dea114b96e93688f01468e78d3247855f4232d802b46620e58f97e548f",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGrandfatherZi.items.bAFD7sRVlwa8zSXS.name",
+          "sourceSha256": "560d616c7de628af880ba548d55f960587465fe5e4dd8e825d59511d69172365",
+          "translationSha256": "4f3060de6751626ae2067332fbc91fb5021b0e873a8410294bf2d826143a9100",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGrandfatherZi.items.bAFD7sRVlwa8zSXS.description",
+          "sourceSha256": "7faaf8409056df0be21249141c3c00d480b9a141ce0c59257205c981a72f8306",
+          "translationSha256": "d4c0b6d2941e181a6d6861f98f4669e190bef1e24490dc74362801e76cda3bfd",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGrandfatherZi.items.comRqfHm6D3vMxkI.name",
+          "sourceSha256": "1118dde764109023f1e1bcefa9cbb7302366d80414adcc0e53b014a6329ed244",
+          "translationSha256": "61860da1fa92587ff0cc2d10890d24d8c00ea52bccb9fde2e66a28b6b93d7e38",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGrandfatherZi.items.comRqfHm6D3vMxkI.description",
+          "sourceSha256": "b593b4820577a94078e293b71c529549720cd161d726041ebcdf3dde3ed36aca",
+          "translationSha256": "2df14cc757096ed97c469ed4e1428c116988cc47a6d609da6f1fb40f05f3d71c",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGrandfatherZi.items.WWbQsagz8jTwmoox.name",
+          "sourceSha256": "37e7b242876dfe75755d06c104a3cca7a2c0af0f90bb8d66a68d4d4d76fd9c5a",
+          "translationSha256": "0fb65b1cc67b6e0788f275aefa454310801eea34837e8fd17cb1ca630cf85d78",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGrandfatherZi.items.WWbQsagz8jTwmoox.description",
+          "sourceSha256": "eeb3ecc5e4ea7ae64a5b9598be44b97252cd1f999b2fcc767d43c5a7622778cd",
+          "translationSha256": "516139f9500e41b85a0c0366292309973066ba8902d970958fb8e42296cf6186",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGrandfatherZi.items.Ak84AH1U5akIYUQl.name",
+          "sourceSha256": "3396532a27a470776705b756eb6374679f17b8afbc70b65eadabd4b700360046",
+          "translationSha256": "b7cc16d75d90e440ff60b448889ef856590fdb23eac2aaa0c218ec7bfa6aa822",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGrandfatherZi.items.Ak84AH1U5akIYUQl.description",
+          "sourceSha256": "e802d268d2d38cf68ba72844ce5f1f484c2ce744a47c87fec31c2f16da5929eb",
+          "translationSha256": "c223cd63e86564269c21eda1d8e43a62dcf9344753cb191be9785d82b5090a48",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGrandfatherZi.items.Z3wlBVLpHLCRHvUo.name",
+          "sourceSha256": "275a77faac4972ade3db35d5c72fa0581046da22f90764887ae6c38e8c142606",
+          "translationSha256": "7921ce20f8a70765f155da087ce394f98721915890d253d86679097ada53f496",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGrandfatherZi.items.Z3wlBVLpHLCRHvUo.description",
+          "sourceSha256": "0a9f68e1d85ad707cc1b10f449a3e3fe1ae347e9fc357f93433f4bed03695b00",
+          "translationSha256": "e05e88f8a704e61d2fcbbd99541aac40198fed78b9926ef8f8bcc90cbe70661b",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGrandfatherZi.items.lpFZeAnGs0FSsnVx.name",
+          "sourceSha256": "3a902d824623a7c4bf434820867767cc706d3916a5d751299e37e179e6f980e6",
+          "translationSha256": "c99cd1c89cb8a535c09a85d0ce91dcb643eace08d9e2a5d83c41d721f02e9042",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGrandfatherZi.items.lpFZeAnGs0FSsnVx.description",
+          "sourceSha256": "dea039d35dc2c8a34cf715f7a5d1e220b587c153b1cbfffc9fac8d730f4ab1de",
+          "translationSha256": "ba15786aa200d21ffe1015a98e9057be6ceabc896fb073ecfe9fe830b5a40a6b",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGrandfatherZi.items.TsMzOg7y8RgxTEUS.name",
+          "sourceSha256": "cc8d76ff5378ae112dbe7bcb5816cebcd394030ffcac0e6e7927bb54f7ca4458",
+          "translationSha256": "2e2861ad3f8ab506550c2c8b2979506c05f5b0bc10e59382d697dc637d8f0e76",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGrandfatherZi.items.TsMzOg7y8RgxTEUS.description",
+          "sourceSha256": "99f725dc6db86c9ecc756a2d25eda7ddc471a952552c238c04421242017a6143",
+          "translationSha256": "5c4c2106e08e4a6cd570a720c2b506dfcad3c4b4fcddb77e0c1ba3141b0aa00d",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGrandfatherZi.items.S6la8L5uqciI8hBi.name",
+          "sourceSha256": "d004ff3c3b43ebf8cc6ab81177bf0173675ace0c3869297d73b3d15ba3488ef5",
+          "translationSha256": "5a5985d95e8df5a1d2fcebcc65264fade5426a3b87be48b72c743631fe7596fe",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGrandfatherZi.items.S6la8L5uqciI8hBi.description",
+          "sourceSha256": "a0ad180e0f88f879f31ccc8a5044e120015cae52bdedf306075fe6af370db639",
+          "translationSha256": "028ef0760b4025d2ad941d9c2dfddd87f0a319d3689a133a30cfe77af2f94acb",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGrandfatherZi.items.NarLxMZTr1nX8oNW.name",
+          "sourceSha256": "05306c92743bad2593feaf48092f1fdf7db998393f3c8a246d6a1d570943c1d4",
+          "translationSha256": "161a7f744b0976bbc315184bd8d0f17a20667b7039ed4f8f9c9b8c5f013c32f1",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGrandfatherZi.items.NarLxMZTr1nX8oNW.description",
+          "sourceSha256": "ed538bfaacfb8cc29eec6b0ac492153339151900541cde5200b9f79f03e7d2fe",
+          "translationSha256": "a7ae91be8864b186d4f87efa255f4ce70bcdc662a13020fdb942fde2adc13f2a",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGrandfatherZi.items.crdvVsPcFIzqRBz4.name",
+          "sourceSha256": "6659c4ca642045f49ac22d26f1e05d8bdbc2fd6e7698d1f5ee631c2df58b3221",
+          "translationSha256": "9a595db7a96926168baa04636337776b7ada8c83d48da0e90c3d7eb69630ee28",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGrandfatherZi.items.crdvVsPcFIzqRBz4.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
+    },
+    {
+      "id": "appendix-d-zitembe-page",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaAppDMonstersA.pages.Mg4nvXN3xs7oZdJr.text",
+          "sourceSha256": "0b777b83cd83c977fd10329dfb5583c90974df6f14ccae60bc17227b60bbea7a",
+          "translationSha256": "0b777b83cd83c977fd10329dfb5583c90974df6f14ccae60bc17227b60bbea7a",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaAppDMonstersA.pages.Mg4nvXN3xs7oZdJr.name",
+          "sourceSha256": "e7bf1392241016709c591ee7af2b9b363b4ba22385569c0f88da22ebf87e690b",
+          "translationSha256": "ee08403fc585b3ea4f04132d0635510f09e1c43569676b8971c615c9f8a029be",
+          "pdfEsPages": [
+            22
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
     }
   ]
 }

@@ -2028,18 +2028,28 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   pendientes de revisión funcional. El documento de Hew conserva el número
   5 del exportado, frente al 6 de la edición española impresa.
 
+### appendix-d-zitembe — Abuelo Zitembe
+
+- Revisados 70 campos: página y ambas copias completas. Referencia física
+  22 para la biografía; rasgos y conjuros contrastados con el exportado inglés.
+- Conservadas las condiciones para obtener su ayuda y las visiones de Omu.
+  Revisados la progresión de Eminencia Divina y Arma espiritual, las
+  exclusiones de Guardianes espirituales y las condiciones de Santuario.
+- Santuario conserva la formulación del exportado: termina con un ataque
+  o un conjuro que afecte a un enemigo. No se sustituye por reglas de otra edición.
+
 ## Balance de revisión editorial
 
-- 819 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 820 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 214 de los apéndices A, B, C, D y F.
-  No equivale a 819 páginas del PDF.
-- 6345 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 6345 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 215 de los apéndices A, B, C, D y F.
+  No equivale a 820 páginas del PDF.
+- 6415 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 6415 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas setenta y dos biografías en ambas copias de actores: siete
-  príncipes y sesenta y cinco criaturas o PNJ del apéndice D. Siguen pendientes las demás
+  insertado. Revisadas setenta y tres biografías en ambas copias de actores: siete
+  príncipes y sesenta y seis criaturas o PNJ del apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las
