@@ -1011,14 +1011,24 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   que vuelve a usar el destino del grung.
 - Auditorías técnica y editorial sin errores.
 
+### ch5-level4-maze-01 a ch5-level4-maze-04 — Laberinto de la muerte
+
+- Revisados cuatro textos y títulos con referencias físicas 162-164.
+- Diferenciados los gestos de entrada y salida, el brazo derecho amputado
+  y la imposibilidad de mover o controlar la esfera de aniquilación.
+- Conservados los dos efectos simultáneos al retirar la corona y el valor
+  multiplicado en subasta. El enlace de bodak al apéndice D y el fragmento
+  `#fabled-treasures` requieren la revisión técnica ya prevista.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 560 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 564 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4 y ochenta y una del capítulo 5. No equivale a 560 páginas del PDF.
-- 1230 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1230 campos distintos.
+  del capítulo 4 y ochenta y cinco del capítulo 5. No equivale a 564 páginas del PDF.
+- 1238 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1238 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
