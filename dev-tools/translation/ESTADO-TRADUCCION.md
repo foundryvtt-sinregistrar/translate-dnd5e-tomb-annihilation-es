@@ -1,6 +1,6 @@
 # Estado de la traducción
 
-Actualizado: 22 de septiembre de 2026.
+Actualizado: 23 de septiembre de 2026.
 
 ## Estado actual
 
@@ -2904,6 +2904,15 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Se conservan las discrepancias mecánicas del original para su comprobación
   funcional; no se añaden descripciones a recipientes que no las tienen.
 
+### items-final y metadata-final — Objetos y metadatos restantes
+
+- Revisados los 48 objetos restantes y sus 134 registros, incluidas armas,
+  objetos mágicos, libros de conjuros, efectos y descripciones especiales.
+- Revisados los 299 campos restantes de títulos, pies de imagen, carpetas,
+  Adventure y nombres de macros. Se conservan todos los identificadores.
+- Los errores funcionales heredados del original no se consideran corregidos
+  por traducir sus descripciones; se comprobarán por separado.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2913,14 +2922,14 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
   de Foundry, tres de créditos y cuatro de historial.
   No equivale a 931 páginas del PDF.
-- 19492 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 19492 campos distintos.
+- 20158 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 20158 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento cuarenta y dos biografías en ambas copias de actores: siete
   príncipes, ciento veintisiete criaturas o PNJ vinculados al apéndice D y ocho perfiles
   adicionales. Cerrada también la revisión de los campos de todos los perfiles
   de actor del compendio y Adventure, incluidos sus objetos incorporados.
-  Siguen pendientes los objetos independientes, ayudas y el cierre de interfaz
+  Revisados los 301 objetos independientes. Siguen pendientes las ayudas y el cierre de interfaz
   y la comprobación transversal de nombres y terminología.
 - Auditorías estáticas y editorial sin errores. Comprobados en Foundry los
   esquemas de 698 documentos con los JSON actuales, sin errores. Las instantáneas
@@ -2934,9 +2943,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 
 ## Trabajo que sigue pendiente
 
-- Revisar los 180 objetos independientes restantes (366 campos), 235 campos
-  de títulos y metadatos de diarios, 41 carpetas, tres campos generales de
-  Adventure y 20 nombres de macros. Cerrar ayudas e interfaz.
+- Cerrada la revisión de los objetos independientes y los metadatos textuales.
+  Cerrar ayudas e interfaz.
   La generación automática todavía puede contener errores de sentido que
   las comprobaciones técnicas no detectan.
 - Revisar nombres, terminología en contexto y etiquetas dentro de imágenes.

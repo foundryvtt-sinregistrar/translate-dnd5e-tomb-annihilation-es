@@ -75,8 +75,8 @@
       "description": "<p>Un zafiro encontrado en el cadáver de un templario, en las letrinas del Campamento Justicia.</p>"
     },
     "2NQledzkhigVyUoX": {
-      "name": "Varita de miedo",
-      "description": "<p><em>(Requiere sintonía)</em></p>\n<p>Esta varita tiene 7 cargos por las siguientes propiedades. Se recupera 1d6 + 1 gastos gastados diariamente al amanecer. Si gastas la última carga de la varita, lanza un d20. En un 1, la varita se desmorona en cenizas y es destruida.</p>\n<p><strong>Comando</strong>. Mientras sostienes la varita, puedes usar una acción para gastar 1 carga y ordenar a otra criatura que huya o se agache, como con el @UUID[Compendium.dnd5e.spells.Item.arzCrMRgcNiQuh43]{Comando} conjuro (salvo CD 15).</p>\n<p><strong>Cono de miedo</strong>. Mientras sostienes la varita, puedes usar una acción para gastar 2 cargas, haciendo que la punta de la varita emita un cono de 60 pies de luz ámbar. Cada criatura en el cono debe tener éxito en un lanzamiento de ahorro de la sabiduría CD 15 o tener miedo de usted durante 1 minuto. Mientras está asustado de esta manera, una criatura debe pasar sus turnos tratando de moverse lo más lejos posible de ti, y no puede moverse voluntariamente a un espacio a menos de 30 pies de ti. Tampoco puede tomar reacciones. Para su acción, puede utilizar sólo la acción Dash o tratar de escapar de un efecto que impide que se mueva. Si no tiene ningún lugar donde se pueda mover, la criatura puede usar la acción Dodge. Al final de cada uno de sus giros, una criatura puede repetir el lanzamiento de ahorro, terminando el efecto en sí misma en un éxito.</p>",
+      "name": "Varita del miedo",
+      "description": "<p><em>(Requiere sintonización)</em></p>\n<p>Esta varita tiene 7 cargas para las siguientes propiedades. Recupera 1d6 + 1 cargas gastadas cada día al amanecer. Si gastas su última carga, tira un d20. Si sacas un 1, la varita se convierte en cenizas y queda destruida.</p>\n<p><strong>Orden imperiosa</strong>. Mientras sostengas la varita, puedes usar una acción y gastar 1 carga para ordenar a otra criatura que huya o se postre, como con el conjuro @UUID[Compendium.dnd5e.spells.Item.arzCrMRgcNiQuh43]{orden imperiosa} (CD 15 para la salvación).</p>\n<p><strong>Cono de miedo</strong>. Mientras sostengas la varita, puedes usar una acción y gastar 2 cargas para que su punta emita un cono de luz ámbar de 60 pies. Cada criatura en el cono debe superar una tirada de salvación de Sabiduría CD 15 o quedar asustada de ti durante 1 minuto. Mientras esté asustada de este modo, debe emplear sus turnos en intentar alejarse de ti todo lo posible y no puede acercarse voluntariamente a 30 pies o menos de ti. Tampoco puede realizar reacciones. Solo puede usar su acción para Correr o intentar escapar de un efecto que le impida moverse. Si no tiene adónde moverse, puede realizar la acción de Esquivar. Al final de cada uno de sus turnos, puede repetir la salvación; si tiene éxito, el efecto termina para ella.</p>",
       "activities": {
         "dnd5eactivity000": {
           "name": "Cono de miedo"
@@ -93,7 +93,7 @@
     },
     "3Nh6mj37LuW20IZS": {
       "name": "Flecha +1",
-      "description": "<p>Munición utilizada para arcos de todas las variedades. Ha sido imbuido de magia.</p>\n<p>Tienes un bono para atacar y dañar rollos hechos con esta pieza de munición mágica. Una vez que alcanza un objetivo, la munición ya no es mágica.</p>"
+      "description": "<p>Munición para arcos de todo tipo, imbuida de magia.</p>\n<p>Obtienes un bonificador a las tiradas de ataque y daño realizadas con esta munición mágica. En cuanto impacta a un objetivo, deja de ser mágica.</p>"
     },
     "3PGcU29sfZky5ckm": {
       "name": "Bolsa de Sephirius",
@@ -134,8 +134,8 @@
       "description": "<p>Munición corriente para arcos de todo tipo. Estas flechas no mágicas tienen astiles de madera lisa, plumas de ganso y puntas de metal forjado.</p>"
     },
     "5IiQnltlB6iUtmf3": {
-      "name": "Battleaxe enano +1",
-      "description": "<p>[[/attack extended]]. [[/damage extended average]] o [[/damage twoHanded average]] si se utiliza con dos manos.</p><p>Esta arma flota en el agua y otros líquidos, otorgando su ventaja portadora en los controles de fuerza (atléticos) hechos para nadar. En el haft de la acorazada están las runas Dethek (Dwarvish) que deletrean el nombre del arma: Bob.</p>"
+      "name": "Hacha de batalla enana +1",
+      "description": "<p>[[/attack extended]]. [[/damage extended average]] o [[/damage twoHanded average]] de daño si se usa a dos manos.</p><p>Esta arma flota en el agua y otros líquidos, y otorga a su portador ventaja en las pruebas de Fuerza (Atletismo) para nadar. En el mango del hacha hay grabadas runas dethek, enanas, que forman el nombre del arma: Bob.</p>"
     },
     "5sZnsFNkKUVo3MaX": {
       "name": "Sarcófago de la Reina del Sol"
@@ -149,8 +149,8 @@
       "description": "<p><em>&amp;Reference[Spell Scroll]{Pergamino de conjuro} de nivel 4</em></p><p>Transformas materias primas en productos del mismo material. Por ejemplo, puedes fabricar un puente de madera a partir de un grupo de árboles, una cuerda a partir de unas plantas de cáñamo o ropa a partir de lino o lana.</p><p>Elige materias primas que puedas ver dentro del alcance. Si dispones de suficiente material, puedes fabricar un objeto Grande o más pequeño, que quepa en un cubo de 10 pies de lado o en ocho cubos conectados de 5 pies de lado. Sin embargo, si trabajas con metal, piedra u otra sustancia mineral, el objeto fabricado no puede superar el tamaño Mediano y debe caber en un único cubo de 5 pies de lado. La calidad de los objetos creados con el conjuro depende de la calidad de las materias primas.</p><p>Este conjuro no puede crear ni transformar criaturas u objetos mágicos. Tampoco puedes usarlo para crear objetos que normalmente requieran una gran destreza artesanal, como joyas, armas, vidrio o armaduras, salvo que tengas competencia con las herramientas de artesano necesarias para fabricarlos.</p>"
     },
     "7FXXC30bQYm6T0K8": {
-      "name": "Cimitarra de Zaroum Al-Sarya",
-      "description": "<p>[[/attack extended]]. [[/damage extended average]].</p><p>Esta hoja curva tiene piedras preciosas incrustadas en la empuñadura, estrechas cerca del mango envuelto pero que se ensanchan hacia una punta brillante.</p>"
+      "name": "Cimitarra de Zaroum Al-Saryak",
+      "description": "<p>[[/attack extended]]. [[/damage extended average]].</p><p>Esta hoja curva tiene gemas engastadas en la empuñadura. Es estrecha cerca del mango envuelto y se ensancha hacia su brillante punta.</p>"
     },
     "7n8APEuZvoRsKvGs": {
       "name": "Estuche de madera para mapas",
@@ -176,10 +176,10 @@
     },
     "DEHllCkN9GLW7cNF": {
       "name": "Mano de Bigby (hielo)",
-      "description": "<p>Creas una mano grande de fuerza brillante y translúcida en un espacio desocupado que puedes ver dentro del rango. La mano dura para la Duración del conjuro, y se mueve a tus órdenes, imitando los movimientos de tu propia mano.</p><p>La mano es un objeto que tiene AC 20 e Hit Points igual a su punto de impacto máximo. Si cae a 0 puntos de impacto, el conjuro termina. Tiene una Fuerza de 26 (+8) y una Dexteridad de 10 (+0). La mano no llena su espacio.</p><p>Cuando usted lanza el conjuro y como una acción adicional en sus vueltas posteriores, usted puede mover la mano hasta 60 pies y luego causar uno de los siguientes efectos con él.</p><p><strong>Puño cerrado</strong>. La mano golpea a una criatura u objeto a menos de 5 pies de ella. Hacer un conjuro cuerpo a cuerpo Ataque para la mano usando su juego Estadísticas. En un golpe, el objetivo recibe 4d8 daños por fuerza.</p><p><strong>Mano fuerte</strong>. La mano intenta empujar a una criatura dentro de 5 pies de ella en la dirección que elija. Haga un chequeo con la Fuerza de la mano disputada por la Fuerza (Atlética) de la comprobación del objetivo. Si el objetivo es mediano o más pequeño, usted tiene ventaja en el cheque. Si tienes éxito, la mano empuja el objetivo hasta 5 pies más un número de pies igual a cinco veces su modificador de capacidad de Spellcasting. La mano se mueve con el objetivo para permanecer a menos de 5 pies de él.</p><p><strong>Mano de agarre</strong>. La mano trata de bregar con una criatura enorme o más pequeña a menos de 5 pies de distancia. Usas la puntuación de fuerza de la mano para resolver el problema. Si el objetivo es mediano o más pequeño, usted tiene ventaja en el cheque. Mientras que la mano está agarrando el objetivo, usted puede utilizar una acción adicional para tener la mano aplastarlo. Cuando lo haces, el objetivo recibe un daño de apaleamiento igual a 2d6 + tu modificador de capacidad de Spellcasting.</p><p><strong>Mano interpuesta</strong>. La mano se interpone entre usted y una criatura que usted elija hasta que le da a la mano una orden diferente. La mano se mueve para permanecer entre usted y el objetivo, proporcionándole media cubierta contra el objetivo. El objetivo no puede moverse a través del espacio de la mano si su puntuación de fuerza es menor o igual a la puntuación de fuerza de la mano. Si su puntuación de fuerza es más alta que la puntuación de fuerza de la mano, el objetivo puede moverse hacia usted a través del espacio de la mano, pero ese espacio es terreno difícil para el objetivo.</p>",
+      "description": "<p>Creas una mano Grande de fuerza brillante y translúcida en un espacio desocupado que puedas ver dentro del alcance. La mano permanece mientras dure el conjuro y se mueve a tus órdenes, imitando los movimientos de tu propia mano.</p><p>La mano es un objeto con CA 20 y tantos puntos de golpe como tu máximo de puntos de golpe. Si llega a 0 puntos de golpe, el conjuro termina. Tiene Fuerza 26 (+8) y Destreza 10 (+0). La mano no ocupa por completo su espacio.</p><p>Cuando lanzas el conjuro y como acción adicional en tus turnos posteriores, puedes mover la mano hasta 60 pies y después producir uno de los siguientes efectos.</p><p><strong>Puño cerrado.</strong> La mano golpea a una criatura u objeto a 5 pies o menos de ella. Realiza un ataque de conjuro cuerpo a cuerpo con la mano usando tus estadísticas. Si impacta, el objetivo sufre 4d8 de daño de fuerza.</p><p><strong>Mano contundente.</strong> La mano intenta empujar a una criatura a 5 pies o menos de ella en una dirección que elijas. Realiza una prueba de Fuerza de la mano enfrentada a una prueba de Fuerza (Atletismo) del objetivo. Si este es Mediano o más pequeño, tienes ventaja en la prueba. Si tienes éxito, la mano empuja al objetivo hasta 5 pies más una distancia en pies igual a cinco veces tu modificador por aptitud mágica. La mano se mueve con el objetivo para permanecer a 5 pies o menos de él.</p><p><strong>Mano apresadora.</strong> La mano intenta agarrar a una criatura Enorme o más pequeña a 5 pies o menos de ella. Usa la puntuación de Fuerza de la mano para resolver el agarre. Si el objetivo es Mediano o más pequeño, tienes ventaja en la prueba. Mientras la mano lo tenga agarrado, puedes usar una acción adicional para aplastarlo. Cuando lo haces, el objetivo sufre daño contundente igual a 2d6 + tu modificador por aptitud mágica.</p><p><strong>Mano interpuesta.</strong> La mano se interpone entre tú y una criatura que elijas hasta que le des otra orden. Se mueve para permanecer entre ambos y te proporciona cobertura media contra el objetivo. Este no puede atravesar el espacio de la mano si su puntuación de Fuerza es igual o inferior a la de la mano. Si es superior, puede acercarse a ti atravesando su espacio, pero este se considera terreno difícil para él.</p>",
       "activities": {
         "gSwGZaO7FU2ENmVm": {
-          "name": "Convocatoria"
+          "name": "Convocar"
         }
       }
     },
@@ -229,17 +229,17 @@
     },
     "JBTfxHx8l2Ga5PAc": {
       "name": "Amuleto de salud",
-      "description": "<p><em>Artículo maravilloso (requiere sintonía)</em></p>\n<p>Tu puntuación constitucional es 19 mientras usas este amuleto. No tiene ningún efecto en ti si tu Constitución ya tiene 19 años o más sin ella.</p>",
+      "description": "<p><em>Objeto maravilloso (requiere sintonización)</em></p>\n<p>Tu puntuación de Constitución es 19 mientras lleves este amuleto. No tiene efecto sobre ti si tu Constitución ya es 19 o superior sin él.</p>",
       "effects": {
         "EDhQAxztAvrCtTMV": {
           "name": "Amuleto de salud",
-          "description": "<p>Tu puntuación constitucional es 19 mientras usas este amuleto. No tiene ningún efecto en ti si tu Constitución ya tiene 19 años o más sin ella.</p>"
+          "description": "<p>Tu puntuación de Constitución es 19 mientras lleves este amuleto. No tiene efecto sobre ti si tu Constitución ya es 19 o superior sin él.</p>"
         }
       }
     },
     "JKAcLyea9acOWPIn": {
       "name": "Collar de bolas de fuego",
-      "description": "<p><em>Objeto maravilloso</em></p><p>Este collar tiene 1d6 + 3 cuentas colgando de él. Puedes usar una acción para separar una cuenta y lanzarla hasta 60 pies de distancia. Cuando alcanza el final de su trayectoria, la cuenta detona como un conjuro de nivel 3 de @UUID[Compendium.dnd5e.spells.Item.ztgcdrWPshKRpFd0]{Bola de fuego} conjuro (salvo CD 15).</p><p>Puedes lanzar múltiples cuentas, o incluso todo el collar, como una sola acción. Cuando lo hagas, aumenta el nivel de la bola de fuego en 1 por cada cuenta más allá de la primera.</p><section class=\"secret foundry-note\" id=\"secret-BPYFYGO4aUSbDiBj\"><p><strong>Nota de Foundry</strong></p><p>Los 9 cargos representan el número máximo de cuentas posible de encontrar; por favor, ajuste según sea necesario. El botón Otra fórmula se puede utilizar para hacer rodar el daño adicional para las cuentas adicionales lanzadas.</p><p>Además, aquí hay una guía de precios dependiendo del número de cuentas que aún quedan. Estos precios son sólo una guía y deben ser ajustados en consecuencia para reflejar el mundo del Máster Dungeon:</p><table><thead><tr><td><strong>Número de cuentas</strong></td><td><strong>Precio (gp)</strong></td></tr></thead><tbody><tr><td>8</td><td>30,720</td></tr><tr><td>7</td><td>15,360</td></tr><tr><td>6</td><td>7680</td></tr><tr><td>5</td><td>3840</td></tr><tr><td>4</td><td>1600</td></tr><tr><td>3</td><td>960</td></tr><tr><td>2</td><td>480</td></tr><tr><td>1</td><td>300</td></tr></tbody></table></section>"
+      "description": "<p><em>Objeto maravilloso</em></p><p>De este collar cuelgan 1d6 + 3 cuentas. Puedes usar una acción para desprender una y lanzarla hasta 60 pies. Al llegar al final de su trayectoria, detona como un conjuro @UUID[Compendium.dnd5e.spells.Item.ztgcdrWPshKRpFd0]{bola de fuego} de nivel 3 (CD 15 para la salvación).</p><p>Puedes lanzar varias cuentas, o incluso todo el collar, con una sola acción. Si lo haces, aumenta el nivel de la bola de fuego en 1 por cada cuenta adicional a la primera.</p><section class=\"secret foundry-note\" id=\"secret-BPYFYGO4aUSbDiBj\"><p><strong>Nota de Foundry</strong></p><p>Las 9 cargas representan el máximo número de cuentas que puede tener el collar; ajústalas según corresponda. El botón Otra fórmula permite tirar el daño adicional de las cuentas extra que se lancen.</p><p>La siguiente tabla ofrece precios orientativos según el número de cuentas restantes. Deben ajustarse al mundo del DM:</p><table><thead><tr><td><strong>Número de cuentas</strong></td><td><strong>Precio (po)</strong></td></tr></thead><tbody><tr><td>8</td><td>30,720</td></tr><tr><td>7</td><td>15,360</td></tr><tr><td>6</td><td>7680</td></tr><tr><td>5</td><td>3840</td></tr><tr><td>4</td><td>1600</td></tr><tr><td>3</td><td>960</td></tr><tr><td>2</td><td>480</td></tr><tr><td>1</td><td>300</td></tr></tbody></table></section>"
     },
     "JSVjKtNyak5hcgqh": {
       "name": "Bolsa de cinturón de Bravus",
@@ -263,19 +263,19 @@
       }
     },
     "Jp13nR3OsV46e1Uw": {
-      "name": "Huevo petrificado de labranza",
-      "description": "<p><em>Artículo maravilloso, (requiere sintonía por un hechicero)</em></p><p>Mientras que este huevo grung petrificado (perla de poder) está en su persona, usted puede utilizar una acción para hablar su palabra de comando y recuperar una espacio de conjuro gastado. Si la ranura gastada era de 4o nivel o superior, la nueva ranura es 3o nivel. Una vez que usas la perla, no se puede volver a usar hasta el próximo amanecer.</p><section id=\"secret-L7ibXA9hHBoMAJvs\" class=\"secret\"><p><strong>Nota de Foundry</strong></p><p>Un efecto activo se ha configurado para añadir resistencia al daño por veneno a su hoja de caracteres.</p></section>",
+      "name": "Huevo de grung petrificado",
+      "description": "<p><em>Objeto maravilloso (requiere sintonización por parte de un lanzador de conjuros)</em></p><p>Mientras lleves encima este huevo de grung petrificado, que funciona como una perla de poder, puedes usar una acción para pronunciar su palabra de activación y recuperar un espacio de conjuro gastado. Si era de nivel 4 o superior, el espacio recuperado es de nivel 3. Una vez usada la perla, no puedes volver a usarla hasta el siguiente amanecer.</p><section id=\"secret-L7ibXA9hHBoMAJvs\" class=\"secret\"><p><strong>Nota de Foundry</strong></p><p>Se ha configurado un efecto activo para añadir resistencia al daño de veneno a tu ficha de personaje.</p></section>",
       "activities": {
         "dnd5eactivity000": {
           "activation": {
-            "condition": "Palabra de comando."
+            "condition": "Palabra de activación."
           }
         }
       },
       "effects": {
         "0SJMWHDWT5SD4JFA": {
-          "name": "Resistencia al daño por veneno",
-          "description": "<p>Un hechicero que se adapta al huevo grañon petrificado también gana resistencia al daño venenoso. </p>"
+          "name": "Resistencia al daño de veneno",
+          "description": "<p>Un lanzador de conjuros que se sintonice con el huevo de grung petrificado también obtiene resistencia al daño de veneno.</p>"
         }
       }
     },
@@ -308,7 +308,7 @@
     },
     "MG7DogWG3wfNFyVC": {
       "name": "Estofado de calabaza",
-      "description": "<p>El personaje se siente más saludable y gana ventaja en los lanzamientos de ahorro de la Constitución.</p><section class=\"secret\" id=\"secret-IQSFtQ1upA27INjA\"><p><strong>Nota de Foundry</strong></p><p><span style=\"margin:0px;padding:0px\">Esta característica incluye un <strong>Efecto activo (AE)</strong> que sirve como recordatorio, pero no automatiza los beneficios antes mencionados.</span></p></section>",
+      "description": "<p>El personaje se siente más sano y tiene ventaja en las tiradas de salvación de Constitución.</p><section class=\"secret\" id=\"secret-IQSFtQ1upA27INjA\"><p><strong>Nota de Foundry</strong></p><p><span style=\"margin:0px;padding:0px\">Este rasgo incluye un <strong>efecto activo (EA)</strong> que sirve como recordatorio, pero no automatiza los beneficios anteriores.</span></p></section>",
       "effects": {
         "mtCXHGkwNDvqWnnn": {
           "name": "Estofado de calabaza"
@@ -324,24 +324,24 @@
       "description": "<p>Un libro que contiene relatos históricos o información sobre un campo concreto del saber, un mito o una leyenda.</p>"
     },
     "O4u4AEhnjNMrcMfr": {
-      "name": "Bote plegable",
-      "description": "<p><em>Objeto maravilloso</em></p>\n<p>Este objeto aparece como una caja de madera que mide 12 pulgadas de largo, 6 pulgadas de ancho y 6 pulgadas de profundidad. Pesa 4 libras y flota. Se puede abrir para almacenar los artículos en el interior. Este ítem también tiene tres palabras de comando, cada una requiriendo que usted use una acción para hablarlo.</p>\n<p>Una palabra de comando hace que la caja se desplegue en un barco de 10 pies de largo, 4 pies de ancho y 2 pies de profundidad. El barco tiene un par de remos, un ancla, un mástil, y una vela tardía. El barco puede soportar hasta cuatro criaturas medianas cómodamente.</p>\n<p>La segunda palabra de comando hace que la caja se desplegue en un barco de 24 pies de largo, 8 pies de ancho y 6 pies de profundidad. El barco tiene una cubierta, asientos de remo, cinco juegos de remos, un remo de dirección, un ancla, una cabina de cubierta, y un mástil con una vela cuadrada. La nave puede albergar cómodamente a quince criaturas medianas.</p>\n<p>Cuando la caja se convierte en un recipiente, su peso se convierte en el de un recipiente normal de su tamaño, y cualquier cosa que se almacena en la caja permanece en el barco.</p>\n<p>La tercera palabra de comando hace que el barco plegable se doble de nuevo en una caja, siempre que no haya criaturas a bordo. Cualquier objeto en el recipiente que no pueda caber dentro de la caja permanecerá fuera de la caja mientras se dobla. Cualquier objeto en el recipiente que pueda caber dentro de la caja lo hace.</p>"
+      "name": "Barca plegable",
+      "description": "<p><em>Objeto maravilloso</em></p>\n<p>Este objeto parece una caja de madera de 12 pulgadas de largo, 6 de ancho y 6 de profundidad. Pesa 4 libras y flota. Puede abrirse para guardar objetos dentro. Además, tiene tres palabras de activación; pronunciar cada una requiere una acción.</p>\n<p>Una palabra de activación hace que la caja se despliegue en una barca de 10 pies de largo, 4 de ancho y 2 de profundidad. La barca tiene un par de remos, un ancla, un mástil y una vela latina. Puede transportar cómodamente hasta cuatro criaturas Medianas.</p>\n<p>La segunda palabra de activación hace que la caja se despliegue en un barco de 24 pies de largo, 8 de ancho y 6 de profundidad. Tiene cubierta, bancos para remar, cinco pares de remos, un remo de gobierno, un ancla, una cabina sobre la cubierta y un mástil con una vela cuadrada. Puede transportar cómodamente a quince criaturas Medianas.</p>\n<p>Cuando la caja se transforma en una embarcación, adquiere el peso de una embarcación normal de ese tamaño, y todo lo que estaba guardado dentro permanece a bordo.</p>\n<p>La tercera palabra de activación hace que la barca plegable vuelva a convertirse en una caja, siempre que no haya criaturas a bordo. Los objetos que no quepan en la caja quedan fuera al plegarse; los que quepan quedan dentro.</p>"
     },
     "OCLoYH00QB3gRg0V": {
       "name": "Esmeralda",
       "description": "<p>Una esmeralda encontrada en un cofre en Dedo de Fuego.</p>"
     },
     "OEk2R4ePgY3otyMr": {
-      "name": "Libro de ortografía (1-3)",
-      "description": "<p>Esencial para los magos, un libro de conjuros es un tomo encuadernado en cuero con 100 páginas de terciopelo en blanco adecuado para grabar conjuros.</p><p>Este libro de conjuros contiene  [[/r 1d6]] deletrea cada uno de 1 a 3er nivel.</p><p></p>"
+      "name": "Libro de conjuros (1-3)",
+      "description": "<p>Un libro de conjuros, imprescindible para los magos, es un tomo encuadernado en cuero con 100 páginas de vitela en blanco adecuadas para anotar conjuros.</p><p>Este libro contiene [[/r 1d6]] conjuros de cada nivel, del 1 al 3.</p><p></p>"
     },
     "OwY6ON0Gfhos4Ok0": {
       "name": "Amatista",
       "description": "<p>Una amatista encontrada en un cofre en Dedo de Fuego.</p>"
     },
     "P0BFf371Js53Icto": {
-      "name": "Cetro de Acerrak",
-      "description": "<p>[[/attack extended]]. [[/damage extended average]].</p><p>El cetro está hecho de hierro sólido y tiene una cabeza adamantina.</p>"
+      "name": "Cetro de Acererak",
+      "description": "<p>[[/attack extended]]. [[/damage extended average]].</p><p>El cetro es de hierro macizo y tiene una cabeza de adamantina.</p>"
     },
     "Q3iwOhasZLjlYfhv": {
       "name": "Herramientas de cartógrafo",
@@ -372,65 +372,65 @@
       "description": "<p>Este objeto abarca una amplia variedad de naipes, tanto normales como marcados.</p>\n<p>Si tienes competencia con un juego, puedes sumar tu bonificador por competencia a las pruebas de característica que realices para jugar con él. Cada tipo de juego requiere una competencia distinta.</p>"
     },
     "WHxyUHFXLcSHmvWx": {
-      "name": "El libro de ortografía de Devlin",
-      "description": "<p>Este libro de conjuros es un tomo encuadernado con cuero que contiene los siguientes conjuros:</p><aside class=\"epigraph\"><p>1er nivel: @UUID[Compendium.dnd5e.spells.Item.7p9IuWrSWFgfyQo2]{alarma}, @UUID[Compendium.dnd5e.spells.Item.4dSvfvTy2ZIJ3K4k]{comprender idiomas}, @UUID[Compendium.dnd5e.spells.Item.ghXTfe7sgCbgf1Q8]{detectar magia}, @UUID[Compendium.dnd5e.spells.Item.zPGohqJRir6MyQ3U]{Retirada rápida}, @UUID[Compendium.dnd5e.spells.Item.3OZnNhunvRtPOQmH]{identificar}, @UUID[Compendium.dnd5e.spells.Item.82jM6qD9axLJsTrH]{Guión ilusorio}, dormir, @UUID[Compendium.dnd5e.spells.Item.bnjXlk13ZRJuf5d0]{disco flotante}</p><p>Nivel 2: @UUID[Compendium.dnd5e.spells.Item.8cse7rit0oswRPUP]{bloqueo arcano}, nube de dagas {Manual del jugador 2014), @UUID[Compendium.dnd5e.spells.Item.FjYE214HTERCRZNm]{esfera en llamas}, @UUID[Compendium.dnd5e.spells.Item.1nhIxh0DsJsntCfj]{golpeo}</p><p>3er nivel: @UUID[Compendium.dnd5e.spells.Item.15Fa6q1nH27XfbR8]{disipar la magia}, @UUID[Compendium.dnd5e.spells.Item.ztgcdrWPshKRpFd0]{bola de fuego}</p></aside><p></p>"
+      "name": "Libro de conjuros de Devlin",
+      "description": "<p>Este libro de conjuros encuadernado en cuero contiene los siguientes conjuros:</p><aside class=\"epigraph\"><p>Nivel 1: @UUID[Compendium.dnd5e.spells.Item.7p9IuWrSWFgfyQo2]{alarma}, @UUID[Compendium.dnd5e.spells.Item.4dSvfvTy2ZIJ3K4k]{comprensión idiomática}, @UUID[Compendium.dnd5e.spells.Item.ghXTfe7sgCbgf1Q8]{detectar magia}, @UUID[Compendium.dnd5e.spells.Item.zPGohqJRir6MyQ3U]{retirada expeditiva}, @UUID[Compendium.dnd5e.spells.Item.3OZnNhunvRtPOQmH]{identificar}, @UUID[Compendium.dnd5e.spells.Item.82jM6qD9axLJsTrH]{escritura ilusoria}, dormir, @UUID[Compendium.dnd5e.spells.Item.bnjXlk13ZRJuf5d0]{disco flotante}</p><p>Nivel 2: @UUID[Compendium.dnd5e.spells.Item.8cse7rit0oswRPUP]{cerradura arcana}, nube de dagas (Manual del Jugador 2014), @UUID[Compendium.dnd5e.spells.Item.FjYE214HTERCRZNm]{esfera de llamas}, @UUID[Compendium.dnd5e.spells.Item.1nhIxh0DsJsntCfj]{apertura}</p><p>Nivel 3: @UUID[Compendium.dnd5e.spells.Item.15Fa6q1nH27XfbR8]{disipar magia}, @UUID[Compendium.dnd5e.spells.Item.ztgcdrWPshKRpFd0]{bola de fuego}</p></aside><p></p>"
     },
     "XN9Le77w05zGDtWl": {
-      "name": "Libro de ortografía de Voj",
-      "description": "<p>Encontrado en el Santuario de Obo’laka, el libro de conjuros encuadernado en cuero del Voj del Asistente Rojo contiene los siguientes conjuros:</p><p>Cantrips: @UUID[Compendium.dnd5e.spells.Item.EOmsUcFQJTfG2oio]{perno de fuego}, @UUID[Compendium.dnd5e.spells.Item.Bnn9Nzajixvow9xi]{luz}, @UUID[Compendium.dnd5e.spells.Item.Utk1OQRwYkMkFRD3]{mano de mago}, @UUID[Compendium.dnd5e.spells.Item.udsLtG0BugXHR2JQ]{prestidigitación}</p><p>Conjuros de nivel 1: @UUID[Compendium.dnd5e.spells.Item.ghXTfe7sgCbgf1Q8]{detectar magia}, @UUID[Compendium.dnd5e.spells.Item.CKZTpZlxj7hjjo2H]{armadura de magos}, @UUID[Compendium.dnd5e.spells.Item.41JIhpDyM9Anm7cs]{misil mágico}, @UUID[Compendium.dnd5e.monsterfeatures.Item.yHcr3vlkmtInELj2]{escudo}</p><p>Conjuros de nivel 2: @UUID[Compendium.dnd5e.spells.Item.wqfAVANuQonNBgnL]{Paso de niebla}, @UUID[Compendium.dnd5e.spells.Item.zMAWdyc8UVb37BK4]{sugerencia}</p><p>Conjuros de nivel 3: @UUID[Compendium.dnd5e.spells.Item.Ek45cBpVXvJdv1Qy]{contraespelo}, @UUID[Compendium.dnd5e.spells.Item.ztgcdrWPshKRpFd0]{bola de fuego}, @UUID[Compendium.dnd5e.spells.Item.yfbK8gZqESlaoY5t]{volar}</p><p>Deletreos del 4o nivel: @UUID[Compendium.dnd5e.spells.Item.tEpDmYZNGc9f5OhJ]{mayor invisibilidad}, @UUID[Compendium.dnd5e.spells.Item.WN2LWEljYU6QqnRH]{tormenta de hielo}</p><p>Deletreos del 5o nivel: @UUID[Compendium.dnd5e.spells.Item.RpKjTlYASrfqUPVA]{cono de frío}</p>"
+      "name": "Libro de conjuros de Voj",
+      "description": "<p>El libro de conjuros encuadernado en cuero del Mago Rojo Voj, encontrado en el santuario de Obo’laka, contiene los siguientes conjuros:</p><p>Trucos: @UUID[Compendium.dnd5e.spells.Item.EOmsUcFQJTfG2oio]{descarga de fuego}, @UUID[Compendium.dnd5e.spells.Item.Bnn9Nzajixvow9xi]{luz}, @UUID[Compendium.dnd5e.spells.Item.Utk1OQRwYkMkFRD3]{mano de mago}, @UUID[Compendium.dnd5e.spells.Item.udsLtG0BugXHR2JQ]{prestidigitación}</p><p>Nivel 1: @UUID[Compendium.dnd5e.spells.Item.ghXTfe7sgCbgf1Q8]{detectar magia}, @UUID[Compendium.dnd5e.spells.Item.CKZTpZlxj7hjjo2H]{armadura de mago}, @UUID[Compendium.dnd5e.spells.Item.41JIhpDyM9Anm7cs]{proyectil mágico}, @UUID[Compendium.dnd5e.monsterfeatures.Item.yHcr3vlkmtInELj2]{escudo}</p><p>Nivel 2: @UUID[Compendium.dnd5e.spells.Item.wqfAVANuQonNBgnL]{paso brumoso}, @UUID[Compendium.dnd5e.spells.Item.zMAWdyc8UVb37BK4]{sugestión}</p><p>Nivel 3: @UUID[Compendium.dnd5e.spells.Item.Ek45cBpVXvJdv1Qy]{contrahechizo}, @UUID[Compendium.dnd5e.spells.Item.ztgcdrWPshKRpFd0]{bola de fuego}, @UUID[Compendium.dnd5e.spells.Item.yfbK8gZqESlaoY5t]{volar}</p><p>Nivel 4: @UUID[Compendium.dnd5e.spells.Item.tEpDmYZNGc9f5OhJ]{invisibilidad mejorada}, @UUID[Compendium.dnd5e.spells.Item.WN2LWEljYU6QqnRH]{tormenta de hielo}</p><p>Nivel 5: @UUID[Compendium.dnd5e.spells.Item.RpKjTlYASrfqUPVA]{cono de frío}</p>"
     },
     "XximxnD00i854l76": {
       "name": "Ojo de cristal blanco",
       "description": "<p>Has encontrado un ojo de cristal blanco en la Tumba de los Nueve Dioses.</p>"
     },
     "YqBh0Unc6At940yU": {
-      "name": "Mapa del arqueólogo",
-      "description": "<p><span style=\"font-family:'Roboto Condensed', sans-serif\">Un mapa de una ruina o mazmorra.</span></p>"
+      "name": "Mapa de arqueólogo",
+      "description": "<p><span style=\"font-family:'Roboto Condensed', sans-serif\">Un mapa de unas ruinas o una mazmorra.</span></p>"
     },
     "a7tMnG7nDXPuaLav": {
-      "name": "Horno espiral",
-      "description": "<p><em>Varita (requiere sintonía por un hechicero)</em></p><p>Este cuerno (una varita de maravilla) tiene 7 cargos. Mientras lo sostiene, puede utilizar una acción para gastar 1 de sus cargos y elegir un objetivo a menos de 120 pies de usted. El objetivo puede ser una criatura, un objeto o un punto en el espacio. Rodar en el @UUID[Compendium.dnd5e.tables.RollTable.X03rbSjVcNNJNqa8]{Varita de la Maravilla} mesa para descubrir lo que sucede.</p><p>Si el efecto hace que eches un conjuro de la varita, el conjuro de salvar CD es 15. Si el conjuro normalmente tiene un rango expresado en pies, su rango se convierte en 120 pies si no lo es ya. Si un efecto cubre un área, debe centrar el conjuro e incluir el objetivo. Si un efecto tiene múltiples posibles sujetos, el GM determina aleatoriamente cuáles son los afectados.</p><p>La varita recupera 1d6 + 1 cargas gastadas diariamente al amanecer. Si gastas la última carga de la varita, lanza un d20. En un 1, la varita se desmorona en polvo y es destruida.</p>",
+      "name": "Cuerno espiral",
+      "description": "<p><em>Varita (requiere sintonización por parte de un lanzador de conjuros)</em></p><p>Este cuerno, que funciona como una varita de las maravillas, tiene 7 cargas. Mientras lo sostengas, puedes usar una acción y gastar 1 carga para elegir un objetivo a 120 pies o menos de ti. Puede ser una criatura, un objeto o un punto del espacio. Tira en la tabla @UUID[Compendium.dnd5e.tables.RollTable.X03rbSjVcNNJNqa8]{Varita de las maravillas} para determinar qué ocurre.</p><p>Si el efecto hace que lances un conjuro desde la varita, su CD de salvación es 15. Si normalmente tiene un alcance expresado en pies, pasa a ser de 120 pies si no lo es ya. Si afecta a un área, debes centrarla en el objetivo e incluirlo. Si el efecto tiene varios objetivos posibles, el DM determina al azar cuáles resultan afectados.</p><p>La varita recupera 1d6 + 1 cargas gastadas cada día al amanecer. Si gastas su última carga, tira un d20. Si sacas un 1, se convierte en polvo y queda destruida.</p>",
       "activities": {
         "MQiFj6kmbG849P2I": {
-          "name": "Lento (1-5)"
+          "name": "Lentitud (1–5)"
         },
         "6DZzvyzd46LbnfIL": {
-          "name": "Fuego de Faerie (6-10)"
+          "name": "Fuego feérico (6–10)"
         },
         "CasBiIZXL54laOOx": {
-          "name": "Gusto de viento (16-20)"
+          "name": "Ráfaga de viento (16–20)"
         },
         "scEVZazoOleSrYw2": {
-          "name": "Detectar pensamientos (21-25)"
+          "name": "Detectar pensamientos (21–25)"
         },
         "4xPLz74G1GRXtSmB": {
-          "name": "Nube apestosa (26-30)"
+          "name": "Nube apestosa (26–30)"
         },
         "mfe676QinSfB6v8H": {
-          "name": "Relámpago Bolt (37–46)"
+          "name": "Relámpago (37–46)"
         },
         "V6TIchqdN8i6seVY": {
           "name": "Oscuridad (54–58)"
         },
         "3dSvQUQq9gxu0HSl": {
-          "name": "Bolas de fuego (70–79)"
+          "name": "Bola de fuego (70–79)"
         },
         "fcFugwiJmL6UEXvv": {
-          "name": "Invisibilidad (80-84)"
+          "name": "Invisibilidad (80–84)"
         }
       }
     },
     "aeWxC8qCWfkLAMHL": {
       "name": "Tesoro de la Biblioteca Roja",
-      "description": "<p>Los espectáculos de arconaloth no son mágicos, pero valen 250 gp. Los espectáculos son también una llave de puerta que abre un portal en la ciudad plana de Sigil. El portal es una puerta de dos vías al plano de Arcadia. A @UUID[Compendium.dnd5e.spells.Item.W4Qx5z0id6da0vqg]{tradición de la leyenda} conjuro lanzado en los espectáculos revela esta información y eleva su valor potencial a 2.500 gp si se venden a un mago o sabio.</p><p>El objeto sobre la mesa es una caja de música hecha de madera oscura con filigrana dorada. A @UUID[Compendium.dnd5e.spells.Item.ghXTfe7sgCbgf1Q8]{detectar magia} conjuro o efecto similar revela un aura de magia de conjuración a su alrededor. Cada uno de sus cinco lados está esculpido con la imagen de una mujer cornuda tocando un instrumento musical diferente: un dulcímero, una flauta, un arpa, una lira y una viola. Mientras toca la caja, una criatura puede usar una acción para hacerla tocar música con uno de los instrumentos mostrados, que se puede escuchar hasta 60 pies de distancia. El personaje también puede utilizar una acción para detener la música. La caja de música vale 750 gp.</p><p>La biblioteca contiene doscientos textos históricos (50 gp cada uno), sesenta tomos de lore arcano (100 gp cada uno), tres pergaminos de conjuro polvoriento (crear muertos vivientes, inventar y resurrección), y seis libros de conjuros. Los tres primeros libros de conjuros contienen 1d6 conjuros cada uno de 1er a 3er nivel. Los libros de conjuros cuarto y quinto contienen 1d4 conjuros cada uno de 4to a 6to nivel. El sexto libro de conjuros tiene un título (Grimorio arcano de X el Místico) grabado a fuego en el lomo y contiene 1d3 conjuros de cada nivel, del 7 al 9.</p>"
+      "description": "<p>Los anteojos de asta del arcanaloth no son mágicos, pero valen 250 po. También son una llave que abre un portal en la ciudad planar de Sigil. El portal es una puerta de doble sentido al plano de Arcadia. Un conjuro @UUID[Compendium.dnd5e.spells.Item.W4Qx5z0id6da0vqg]{conocer las leyendas} lanzado sobre los anteojos revela esta información y eleva su valor potencial a 2.500 po si se venden a un mago o un sabio.</p><p>El objeto de la mesa es una caja de música de madera oscura con filigranas de oro. Un conjuro @UUID[Compendium.dnd5e.spells.Item.ghXTfe7sgCbgf1Q8]{detectar magia} o un efecto similar revela un aura de magia de conjuración a su alrededor. En cada una de sus cinco caras está tallada una mujer con cuernos que toca un instrumento distinto: un salterio, una flauta, un arpa, una lira y una viola. Una criatura que toque la caja puede usar una acción para hacer que interprete música con uno de los instrumentos representados, audible hasta a 60 pies de distancia. También puede usar una acción para detenerla. La caja de música vale 750 po.</p><p>La biblioteca contiene doscientos textos históricos (50 po cada uno), sesenta tomos de conocimientos arcanos (100 po cada uno), tres pergaminos polvorientos (crear muerto viviente, fabricar y resurrección) y seis libros de conjuros. Los tres primeros contienen 1d6 conjuros de cada nivel, del 1 al 3. El cuarto y el quinto contienen 1d4 conjuros de cada nivel, del 4 al 6. El sexto tiene un título grabado a fuego en el lomo, Grimorio arcano de X el Místico, y contiene 1d3 conjuros de cada nivel, del 7 al 9.</p>"
     },
     "amiUJf9NHup3GtsE": {
       "name": "Túnica de colores centelleantes",
-      "description": "<p><em>Artículo maravilloso, (requiere sintonía)</em></p>\n<p>Esta bata tiene 3 cargos, y recupera 1d3 gastos diarios al amanecer. Mientras lo usas, puedes usar una acción y gastar 1 carga para hacer que la prenda muestre un patrón cambiante de tonos deslumbrantes hasta el final de tu siguiente turno. Durante este tiempo, la túnica arroja luz brillante en un radio de 30 pies y luz tenue por otros 30 pies. Criaturas que pueden ver que tienes desventaja en los rollos de ataque contra ti. Además, cualquier criatura en la luz brillante que pueda verte cuando el poder de la túnica esté activado debe tener éxito en un lanzamiento de ahorro de sabiduría CD 15 o quedar aturdido hasta que el efecto termine.</p>"
+      "description": "<p><em>Objeto maravilloso (requiere sintonización)</em></p>\n<p>Esta túnica tiene 3 cargas y recupera 1d3 cargas gastadas cada día al amanecer. Mientras la lleves puesta, puedes usar una acción y gastar 1 carga para que muestre un patrón cambiante de colores deslumbrantes hasta el final de tu siguiente turno. Durante ese tiempo, emite luz brillante en un radio de 30 pies y luz tenue otros 30 pies más allá. Las criaturas que puedan verte tienen desventaja en las tiradas de ataque contra ti. Además, cualquier criatura situada en la luz brillante que pueda verte cuando se active el poder de la túnica debe superar una tirada de salvación de Sabiduría CD 15 o quedar aturdida hasta que termine el efecto.</p>"
     },
     "bUKqA9jOp93Y4rUc": {
       "name": "Cetro de la reina Napaka",
-      "description": "<p>[[/attack extended]]. [[/damage extended average]].</p><p>El cetro está hecho de hierro sólido y tiene una cabeza adamantina.</p>"
+      "description": "<p>[[/attack extended]]. [[/damage extended average]].</p><p>El cetro es de hierro macizo y tiene una cabeza de adamantina.</p>"
     },
     "cQANzxCGDaWTl5Oc": {
       "name": "Útiles de herborista",
@@ -461,16 +461,16 @@
       "description": "<p><em>&amp;Reference[Spell Scroll]{Pergamino de conjuro} de nivel 1, requiere concentración</em></p><p>Hasta que termine el conjuro, una criatura voluntaria que toques queda protegida contra ciertos tipos de criaturas: <strong>solo muertos vivientes</strong>.</p><p>La protección otorga varios beneficios. Las criaturas de esos tipos tienen desventaja en las tiradas de ataque contra el objetivo. Además, no pueden hechizarlo, asustarlo ni poseerlo. Si el objetivo ya está hechizado, asustado o poseído por una de esas criaturas, tiene ventaja en cualquier nueva tirada de salvación contra el efecto correspondiente.</p>"
     },
     "fhPmiShc9KCq0bcJ": {
-      "name": "El libro de ortografía de Ras Nsi",
-      "description": "<p>Este libro de conjuros es un tomo de cuero, que contiene todos los conjuros que ha preparado</p><p>Cantrip (a voluntad): @UUID[Compendium.dnd5e.spells.Item.vrN18tbTw7io5MWd]{tacto frío}, @UUID[Compendium.dnd5e.spells.Item.EOmsUcFQJTfG2oio]{perno de fuego}, @UUID[Compendium.dnd5e.spells.Item.Utk1OQRwYkMkFRD3]{mano de mago}, @UUID[Compendium.dnd5e.spells.Item.kjmjY0zlE6IEiQVL]{remendando}, @UUID[Compendium.dnd5e.spells.Item.g2u9PYfqWQAyg9OI]{rociado con veneno}</p><p>1er nivel (4 franjas horarias): @UUID[Compendium.dnd5e.spells.Item.zPGohqJRir6MyQ3U]{Retirada rápida}, @UUID[Compendium.dnd5e.spells.Item.7e3QXF10hLNDEdr6]{vida falsa}, @UUID[Compendium.dnd5e.spells.Item.41JIhpDyM9Anm7cs]{misil mágico}, @UUID[Compendium.dnd5e.items.Item.sSs3hSzkKBMNBgTs]{escudo}</p><p>2o nivel (3 franjas horarias): @UUID[Compendium.dnd5e.spells.Item.zwGsAv6kmwzYGhh3]{ceguera/sordera}, @UUID[Compendium.dnd5e.spells.Item.3Lo9boi7P2ro6QV4]{persona de retención}, @UUID[Compendium.dnd5e.spells.Item.wqfAVANuQonNBgnL]{Paso de niebla}</p><p>3er nivel (3 franjas horarias): @UUID[Compendium.dnd5e.spells.Item.oyE5nVppa5mde5gT]{animan muertos}, @UUID[Compendium.dnd5e.spells.Item.Ek45cBpVXvJdv1Qy]{contraespelo}, @UUID[Compendium.dnd5e.spells.Item.ztgcdrWPshKRpFd0]{bola de fuego}</p><p>4o nivel (3 franjas horarias): @UUID[Compendium.dnd5e.spells.Item.pybg5MNc3lkerH4Y]{la plaga}, @UUID[Compendium.dnd5e.spells.Item.04nMsTWkIFvkbXlY]{polimorf}</p><p>5o nivel (2 franjas horarias): @UUID[Compendium.dnd5e.spells.Item.dSTu1MaPhBqPITwM]{contacto con otro plano}, @UUID[Compendium.dnd5e.spells.Item.JQyigMNPiDnGI18b]{geas}</p><p>6o nivel (1 franjas horarias): @UUID[Compendium.dnd5e.spells.Item.E4NXux0RHvME1XgP]{crear muertos vivientes}</p>"
+      "name": "Libro de conjuros de Ras Nsi",
+      "description": "<p>Este libro de conjuros encuadernado en cuero contiene todos los conjuros que tiene preparados.</p><p>Trucos (a voluntad): @UUID[Compendium.dnd5e.spells.Item.vrN18tbTw7io5MWd]{toque helado}, @UUID[Compendium.dnd5e.spells.Item.EOmsUcFQJTfG2oio]{descarga de fuego}, @UUID[Compendium.dnd5e.spells.Item.Utk1OQRwYkMkFRD3]{mano de mago}, @UUID[Compendium.dnd5e.spells.Item.kjmjY0zlE6IEiQVL]{reparar}, @UUID[Compendium.dnd5e.spells.Item.g2u9PYfqWQAyg9OI]{rociada venenosa}</p><p>Nivel 1 (4 espacios): @UUID[Compendium.dnd5e.spells.Item.zPGohqJRir6MyQ3U]{retirada expeditiva}, @UUID[Compendium.dnd5e.spells.Item.7e3QXF10hLNDEdr6]{falsa vida}, @UUID[Compendium.dnd5e.spells.Item.41JIhpDyM9Anm7cs]{proyectil mágico}, @UUID[Compendium.dnd5e.items.Item.sSs3hSzkKBMNBgTs]{escudo}</p><p>Nivel 2 (3 espacios): @UUID[Compendium.dnd5e.spells.Item.zwGsAv6kmwzYGhh3]{ceguera/sordera}, @UUID[Compendium.dnd5e.spells.Item.3Lo9boi7P2ro6QV4]{inmovilizar persona}, @UUID[Compendium.dnd5e.spells.Item.wqfAVANuQonNBgnL]{paso brumoso}</p><p>Nivel 3 (3 espacios): @UUID[Compendium.dnd5e.spells.Item.oyE5nVppa5mde5gT]{animar a los muertos}, @UUID[Compendium.dnd5e.spells.Item.Ek45cBpVXvJdv1Qy]{contrahechizo}, @UUID[Compendium.dnd5e.spells.Item.ztgcdrWPshKRpFd0]{bola de fuego}</p><p>Nivel 4 (3 espacios): @UUID[Compendium.dnd5e.spells.Item.pybg5MNc3lkerH4Y]{marchitar}, @UUID[Compendium.dnd5e.spells.Item.04nMsTWkIFvkbXlY]{polimorfar}</p><p>Nivel 5 (2 espacios): @UUID[Compendium.dnd5e.spells.Item.dSTu1MaPhBqPITwM]{contactar con otro plano}, @UUID[Compendium.dnd5e.spells.Item.JQyigMNPiDnGI18b]{geas}</p><p>Nivel 6 (1 espacio): @UUID[Compendium.dnd5e.spells.Item.E4NXux0RHvME1XgP]{crear muerto viviente}</p>"
     },
     "gHOXT94uFuSlacSZ": {
-      "name": "Cuenco de control de elementales de agua",
-      "description": "<p><em>Objeto maravilloso</em></p>\n<p>Mientras que este tazón está lleno de agua, usted puede utilizar una acción para hablar la palabra de comando del tazón y convocar a un <em>@UUID[Compendium.dnd5e.monsters.Actor.namJz755U1EhvEJa]{Elemental de agua}</em>, como si hubieras lanzado el <em>@UUID[Compendium.dnd5e.spells.Item.1LkZvINag7KqBmDR]{Conjure elemental}</em> Deletrear. El tazón no se puede usar de esta manera otra vez hasta el próximo amanecer.</p>\n<p>El cuenco tiene aproximadamente 1 pie de diámetro y la mitad de profundidad. Pesa 3 libras y tiene unos 3 galones.</p>",
+      "name": "Cuenco de controlar elementales de agua",
+      "description": "<p><em>Objeto maravilloso</em></p>\n<p>Mientras este cuenco esté lleno de agua, puedes usar una acción para pronunciar su palabra de activación y convocar a un <em>@UUID[Compendium.dnd5e.monsters.Actor.namJz755U1EhvEJa]{elemental de agua}</em>, como si hubieras lanzado <em>@UUID[Compendium.dnd5e.spells.Item.1LkZvINag7KqBmDR]{conjurar elemental}</em>. No puedes volver a usar el cuenco de este modo hasta el siguiente amanecer.</p>\n<p>El cuenco tiene aproximadamente 1 pie de diámetro y la mitad de profundidad. Pesa 3 libras y contiene unos 3 galones.</p>",
       "activities": {
         "dnd5eactivity000": {
           "activation": {
-            "condition": "Palabra de comando."
+            "condition": "Palabra de activación."
           }
         }
       }
@@ -514,25 +514,25 @@
       "description": "<p><em>&amp;Reference[Spell Scroll]{Pergamino de conjuro} de nivel 3</em></p><p>Al tocar a una criatura u objeto, terminas todas las maldiciones que le afecten. Si es un objeto mágico maldito, su maldición permanece, pero el conjuro rompe la sintonización de su dueño con él para que pueda quitárselo o deshacerse de él.</p>"
     },
     "ltVi9G03tsQkJLdu": {
-      "name": "Boar asado",
-      "description": "<p>[[lookup @name]] se siente más fuerte y tiene ventaja en los controles de fuerza.</p><section class=\"secret\" id=\"secret-EalMxi8bkmH2HYQX\"><p><strong>Nota de Foundry</strong></p><p><span style=\"margin:0px;padding:0px\">Esta característica incluye un <strong>Efecto activo (AE)</strong> que sirve como recordatorio, pero no automatiza los beneficios antes mencionados.</span></p></section>",
+      "name": "Jabalí asado",
+      "description": "<p>[[lookup @name]] se siente más fuerte y tiene ventaja en las pruebas de Fuerza.</p><section class=\"secret\" id=\"secret-EalMxi8bkmH2HYQX\"><p><strong>Nota de Foundry</strong></p><p><span style=\"margin:0px;padding:0px\">Este rasgo incluye un <strong>efecto activo (EA)</strong> que sirve como recordatorio, pero no automatiza los beneficios anteriores.</span></p></section>",
       "effects": {
         "jGo4muXAxcJetj9u": {
-          "name": "Boar asado"
+          "name": "Jabalí asado"
         }
       }
     },
     "lxoOpVaf2HKh4B3X": {
-      "name": "X El arcano Grimoire del místico",
-      "description": "<p>Esencial para los magos, un libro de conjuros es un tomo encuadernado en cuero con 100 páginas de terciopelo en blanco adecuado para grabar conjuros.</p><p>Este libro de conjuros contiene [[/r 1d3]] conjuros de cada nivel, del 7 al 9.</p>"
+      "name": "Grimorio arcano de X el Místico",
+      "description": "<p>Un libro de conjuros, imprescindible para los magos, es un tomo encuadernado en cuero con 100 páginas de vitela en blanco adecuadas para anotar conjuros.</p><p>Este libro contiene [[/r 1d3]] conjuros de cada nivel, del 7 al 9.</p>"
     },
     "mPZRoQDDDeURSFwL": {
       "name": "Zafiro",
       "description": "<p>Un zafiro encontrado en la pagoda de Nangalore.</p>"
     },
     "mlXEzX1KAELyUjuT": {
-      "name": "Libro de ortografía (4-6)",
-      "description": "<p>Esencial para los magos, un libro de conjuros es un tomo encuadernado en cuero con 100 páginas de terciopelo en blanco adecuado para grabar conjuros.</p><p>Este libro de conjuros contiene [[/r 1d4]] Deletrea cada uno de 4to a 6to nivel.</p><p></p>"
+      "name": "Libro de conjuros (4-6)",
+      "description": "<p>Un libro de conjuros, imprescindible para los magos, es un tomo encuadernado en cuero con 100 páginas de vitela en blanco adecuadas para anotar conjuros.</p><p>Este libro contiene [[/r 1d4]] conjuros de cada nivel, del 4 al 6.</p><p></p>"
     },
     "ntHuG3eXwgIrlRzW": {
       "name": "Paquete de erudito",
@@ -540,15 +540,15 @@
     },
     "o02Zu6XTnnKHMene": {
       "name": "Daga ceremonial",
-      "description": "<p>[[/attack extended]]. [[/damage extended average]].</p><p>Esta daga ceremonial está alojada en una vaina de oro en relieve con una escena de animales de la selva estampados. Fue descubierto en los barrios de Fenthaza en el templo dedicado a Dendar la Serpiente Nocturna.</p>"
+      "description": "<p>[[/attack extended]]. [[/damage extended average]].</p><p>Esta daga ceremonial tiene una vaina de oro con una escena de animales de la selva en estampida grabada en relieve. Se encontró en los aposentos de Fenthaza, en el templo dedicado a Dendar, la Serpiente de la Noche.</p>"
     },
     "oLJ9bSI4JBkdxVJB": {
       "name": "Raciones",
       "description": "<p>Las raciones consisten en alimentos secos adecuados para viajes largos, como carne seca, fruta desecada, galletas duras y frutos secos.</p>"
     },
     "odkjUeOyi8WQeAoZ": {
-      "name": "El Longbow de Malison",
-      "description": "<p>[[/attack extended]]. [[/damage extended average]].</p><p>El arco largo del Malison está intrincado y tallado para parecerse a una serpiente, con pequeñas piedras preciosas ámbar que sirven como sus ojos.</p>"
+      "name": "Arco largo del corrupto yuan-ti",
+      "description": "<p>[[/attack extended]]. [[/damage extended average]].</p><p>El arco largo del corrupto yuan-ti está pintado y tallado con detalle para asemejarse a una serpiente, con diminutas gemas de ámbar como ojos.</p>"
     },
     "old3sbqn6yjSN4m1": {
       "name": "Cristales del caparazón de tortuga"
@@ -562,19 +562,19 @@
       "description": "<p>Una gema de ónice encontrada en los restos del Narval.</p>"
     },
     "rF5xDzcWfnNbOpGb": {
-      "name": "Bala de eslinga +1",
-      "description": "<p>Una piedra endurecida de piedra, hueso o metal que se puede lanzar a alta velocidad usando una honda. Ha sido imbuido de magia.</p>\n<p>Tienes un bono para atacar y dañar rollos hechos con esta pieza de munición mágica. Una vez que alcanza un objetivo, la munición ya no es mágica.</p>"
+      "name": "Bala de honda +1",
+      "description": "<p>Una pequeña pieza dura de piedra, hueso o metal que puede lanzarse a gran velocidad con una honda. Está imbuida de magia.</p>\n<p>Obtienes un bonificador a las tiradas de ataque y daño realizadas con esta munición mágica. En cuanto impacta a un objetivo, deja de ser mágica.</p>"
     },
     "sIVs4gXKdVqczh9d": {
       "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-      "name": "Daga dorada"
+      "name": "Daga plateada"
     },
     "sItxwoEUelm7oy7O": {
-      "name": "Cerveza fresca",
-      "description": "<p>El personaje gana un dado especial: un d6. En cualquier momento en las próximas 24 horas, el personaje puede rodar este dado una vez y añadir el resultado a un d20 rollo que acaba de hacer.</p><section class=\"secret\" id=\"secret-YJyQYlyKPvr4R5Yx\"><p><strong>Nota de Foundry</strong></p><p><span style=\"margin:0px;padding:0px\">Esta característica otorga un <strong>Efecto activo (AE)</strong> que añade 1d6 a todos los rollos de d20 para la duración del beneficio, incluyendo ataques, ahorros y cheques.</span></p></section>",
+      "name": "Cerveza espumosa",
+      "description": "<p>El personaje obtiene un dado especial, un d6. En cualquier momento durante las próximas 24 horas, puede tirarlo una vez y sumar el resultado a una tirada de d20 que acabe de realizar.</p><section class=\"secret\" id=\"secret-YJyQYlyKPvr4R5Yx\"><p><strong>Nota de Foundry</strong></p><p><span style=\"margin:0px;padding:0px\">Este rasgo otorga un <strong>efecto activo (EA)</strong> que suma 1d6 a todas las tiradas de d20 mientras dure el beneficio, incluidos ataques, salvaciones y pruebas.</span></p></section>",
       "effects": {
         "N4wHhorLIJtuEPiH": {
-          "name": "Cerveza fresca"
+          "name": "Cerveza espumosa"
         }
       }
     },
@@ -731,11 +731,11 @@
     },
     "toaCh4BronzeSyri": {
       "name": "Jeringa de bronce",
-      "description": "<p>Xopal lleva una jeringa de bronce que contiene tres dosis de un cóctel envenenado.</p><p>Como una acción, puede hacer un ataque de arma cuerpo a cuerpo con la jeringa ([[/attack +3]]{+3 a golpear}), que trata [[/damage activity=FOO]] daño e inyecta una dosis de veneno en un golpe.</p><p>Cualquier criatura inyectada con una dosis de veneno debe hacer un [[/save format=long]], tomando [[/damage average activity=Gp56t5S2YILsDaM9]] daño en un error de guardar, o la mitad de daño en un éxito.</p><p>Además, la criatura es &amp;Reference[poisoned apply=false]{envenenado} durante 1 hora si su salvación tiene éxito o no.</p>",
+      "description": "<p>Xopal lleva una jeringa de bronce que contiene tres dosis de una mezcla venenosa.</p><p>Como acción, puede realizar un ataque con arma cuerpo a cuerpo con la jeringa ([[/attack +3]]{+3 a impactar}), que causa [[/damage activity=FOO]] de daño e inyecta una dosis de veneno si impacta.</p><p>Una criatura a la que se inyecte una dosis debe realizar una [[/save format=long]]; sufre [[/damage average activity=Gp56t5S2YILsDaM9]] de daño si falla, o la mitad si tiene éxito.</p><p>Además, queda &amp;Reference[poisoned apply=false]{envenenada} durante 1 hora, tanto si supera la salvación como si la falla.</p>",
       "effects": {
         "kSsSuDluCKWz3TuO": {
           "name": "Envenenado",
-          "description": "<p>La criatura es &amp;Reference[poisoned apply=false]{envenenado} durante 1 hora si su salvación tiene éxito o no.</p>"
+          "description": "<p>La criatura queda &amp;Reference[poisoned apply=false]{envenenada} durante 1 hora, tanto si supera la salvación como si la falla.</p>"
         }
       }
     },
@@ -806,12 +806,12 @@
       "description": "<p>Has encontrado un frasco de vino sembiano en la guarida de Ras Nsi, en el templo dedicado a Dendar, la Serpiente de la Noche.</p>"
     },
     "toaCh4TempleInce": {
-      "name": "Incienso mezquino",
-      "description": "<p>La iluminación de un bloque de incienso crea una nube nebulosa que llena una esfera de 20 pies de diámetro y se mueve con el bloque. </p><p>Cualquier criatura que comienza su turno en la nube y respira el aire debe tener éxito en un [[/save con 16 format=long]] o caer en un estupor de ensueño con visiones de pesadilla. Aunque permanece despierto, la criatura es &amp;Reference[poisoned apply=false]{envenenado}. </p><p>Incluso el yuan-ti son vulnerables a este efecto, que dura 1 hora después de que una criatura sale de la nube, o hasta que recibe un @UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{menor restauración} conjuro o magia similar.</p>",
+      "name": "Incienso hipnótico",
+      "description": "<p>Al encender un bloque de incienso se crea una nube brumosa que llena una esfera de 20 pies de diámetro y se mueve con el bloque.</p><p>Cualquier criatura que comience su turno en la nube y respire el aire debe superar una [[/save con 16 format=long]] o caer en un estupor onírico plagado de visiones de pesadilla. Aunque permanece despierta, está &amp;Reference[poisoned apply=false]{envenenada}.</p><p>Incluso los yuan-ti son vulnerables a este efecto, que dura 1 hora después de que la criatura salga de la nube, o hasta que reciba un conjuro @UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{restablecimiento menor} o una magia similar.</p>",
       "effects": {
         "DuDjAdCNjYlkLtJS": {
-          "name": "Stupor de ensueño",
-          "description": "<p>El objetivo cae en un estupor de ensueño con visiones de pesadilla. Aunque permanece despierto, la criatura está envenenada. Incluso el yuan-ti son vulnerables a este efecto, que dura 1 hora después de que una criatura sale de la nube, o hasta que recibe un @UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{menor restauración} conjuro o magia similar.</p>"
+          "name": "Estupor onírico",
+          "description": "<p>El objetivo cae en un estupor onírico plagado de visiones de pesadilla. Aunque permanece despierto, está envenenado. Incluso los yuan-ti son vulnerables a este efecto, que dura 1 hora después de que la criatura salga de la nube, o hasta que reciba un conjuro @UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{restablecimiento menor} o una magia similar.</p>"
         }
       }
     },
@@ -831,25 +831,25 @@
       "description": "<p>Has encontrado un símbolo sagrado de Bahamut en los restos óseos de un dracónido, en la Tumba de los Nueve Dioses.</p>"
     },
     "toaCh5BlackCryst": {
-      "name": "Tecla de cristal negro",
-      "description": "<p>El beneficiario gana un <em>encanto de nueve vidas</em>. Cuando usted cae a 0 puntos de golpe como resultado de tomar daño, usted puede elegir caer a 1 punto de golpe en su lugar. Una vez usado nueve veces, el encanto desaparece.</p>",
+      "name": "Llave de cristal negro",
+      "description": "<p>El receptor obtiene un <em>sortilegio de las nueve vidas</em>. Cuando tus puntos de golpe se reduzcan a 0 por sufrir daño, puedes elegir quedarte con 1 punto de golpe en su lugar. Tras usarlo nueve veces, el sortilegio desaparece.</p>",
       "activities": {
         "sCKTKX0XTPS6G3Qw": {
-          "name": "Gasto"
+          "name": "Gastar uso"
         }
       }
     },
     "toaCh5BlueCrysta": {
-      "name": "Tecla de cristal azul",
-      "description": "<p>El beneficiario gana un <em>encanto del corazón de cristal</em>. Este encanto le otorga inmunidad a perforar y cortar daños de ataques no mágicos, pero usted gana vulnerabilidad a golpes de daño. Estos efectos duran 10 días, después de lo cual el encanto se desvanece de ti.</p>",
+      "name": "Llave de cristal azul",
+      "description": "<p>El receptor obtiene un <em>sortilegio del corazón de cristal</em>. Te otorga inmunidad al daño perforante y cortante de ataques no mágicos, pero te hace vulnerable al daño contundente. Estos efectos duran 10 días, tras los cuales el sortilegio desaparece.</p>",
       "activities": {
         "9oaNwWbkJ6uyhyFr": {
-          "name": "Gasto"
+          "name": "Gastar uso"
         }
       },
       "effects": {
         "wVqdBec4Xqp31pJx": {
-          "name": "Efectos de la clave"
+          "name": "Efectos de la llave"
         }
       }
     },
@@ -870,8 +870,8 @@
       "description": "<p>Has encontrado una estatuilla de arcilla con forma de camaleón adornada con cuentas de cristal que cambian de color, en la Bóveda del Contemplador de la Tumba de los Nueve Dioses.</p>"
     },
     "toaCh5ClayGolems": {
-      "name": "Manual de Golems de arcilla",
-      "description": "<p><em>Objeto maravilloso</em></p><p>Este tomo contiene la información y los encantamientos necesarios para hacer un @UUID[Compendium.dnd5e.monsters.Actor.YOqhbf8WsX0jH9Fu]{arcilla golem}. Para descifrar y usar el manual, debes ser un hechicero con al menos dos espacios de conjuro de 5o nivel. Una criatura que no puede usar un manual de golems e intenta leerlo requiere daño psíquico 6d6.</p><p>Para crear un golem de arcilla, debe pasar 30 días, trabajando sin interrupción con el manual a mano y descansando no más de 8 horas al día. También debe pagar 65.000 gp para comprar suministros.</p><p>Una vez que termines de crear el golem, el libro se consume en llamas de eldritch. El golem se anima cuando las cenizas del manual son rociadas sobre él. Está bajo vuestro control, y comprende y obedece vuestros mandamientos hablados.</p>"
+      "name": "Manual de gólems de arcilla",
+      "description": "<p><em>Objeto maravilloso</em></p><p>Este tomo contiene la información y las fórmulas mágicas necesarias para crear un @UUID[Compendium.dnd5e.monsters.Actor.YOqhbf8WsX0jH9Fu]{gólem de arcilla}. Para descifrarlo y usarlo, debes ser un lanzador de conjuros con al menos dos espacios de conjuro de nivel 5. Una criatura incapaz de usar un manual de gólems que intente leerlo sufre 6d6 de daño psíquico.</p><p>Para crear un gólem de arcilla, debes dedicar 30 días a trabajar sin interrupción con el manual a mano, descansando como máximo 8 horas al día. También debes pagar 65.000 po para adquirir los materiales.</p><p>Cuando terminas de crear el gólem, unas llamas sobrenaturales consumen el libro. El gólem cobra vida cuando esparces sobre él las cenizas del manual. Queda bajo tu control y entiende y obedece tus órdenes verbales.</p>"
     },
     "toaCh5CloakPinGo": {
       "name": "Broche de oro para capa",
@@ -902,16 +902,16 @@
       "description": "<p>Has encontrado una corona de oro con forma de pulpo y ojos de nácar en la Bóveda del Contemplador de la Tumba de los Nueve Dioses.</p>"
     },
     "toaCh5GoldCrysta": {
-      "name": "Tecla de cristal de oro",
-      "description": "<p>El beneficiario gana un <em>encanto del sentido del tesoro</em>. Mientras que este encanto dura, usted puede utilizar una acción para determinar, por el olor, la ubicación de metales y piedras preciosas, tales como monedas y gemas, a menos de 30 pies de usted. El efecto dura 3 días, después de lo cual el encanto desaparece de ti.</p>",
+      "name": "Llave de cristal dorado",
+      "description": "<p>El receptor obtiene un <em>sortilegio de olfatear tesoros</em>. Mientras dure, puedes usar una acción para localizar con precisión, mediante el olfato, los metales y piedras preciosos, como monedas y gemas, que haya a 30 pies o menos de ti. El efecto dura 3 días, tras los cuales el sortilegio desaparece.</p>",
       "activities": {
         "nIZ6qihV3Xci7xzf": {
-          "name": "Gasto"
+          "name": "Gastar uso"
         }
       },
       "effects": {
         "IvFu0L0asedF10dt": {
-          "name": "Duración del encanto"
+          "name": "Duración del sortilegio"
         }
       }
     },
@@ -940,11 +940,11 @@
       "description": "<p>Has obtenido un torque de oro encontrado en la tumba de Papazotl, dentro de la Tumba de los Nueve Dioses.</p>"
     },
     "toaCh5GreenCryst": {
-      "name": "Tecla de cristal verde",
-      "description": "<p>El beneficiario gana un <em>encanto de la bruja hinchada</em>. Este encanto le permite escupir un @UUID[Compendium.dnd5e.monsters.Actor.EZgiprHXA2D7Uyb3]{rana} como una acción. La rana te entiende y obedece tus órdenes. Una vez usado tres veces, el encanto desaparece.</p>",
+      "name": "Llave de cristal verde",
+      "description": "<p>El receptor obtiene un <em>sortilegio de la saga hinchada</em>. Te permite regurgitar una @UUID[Compendium.dnd5e.monsters.Actor.EZgiprHXA2D7Uyb3]{rana} como acción. La rana te entiende y obedece tus órdenes. Tras usarlo tres veces, el sortilegio desaparece.</p>",
       "activities": {
         "rFWOmGZZrZx0HY7w": {
-          "name": "Gasto"
+          "name": "Gastar uso"
         }
       }
     },
@@ -993,20 +993,20 @@
       "description": "<p>Has obtenido una horquilla de platino en los Velos del Miedo de la Tumba de los Nueve Dioses.</p>"
     },
     "toaCh5PurpleCrys": {
-      "name": "Tecla de cristal púrpura",
-      "description": "<p>El beneficiario gana un <em>encanto de los mutilados</em>. Este encanto le permite volver a registrar un apéndice u órgano perdido, como un brazo, un pie o un ojo. Después de que se usa una vez, el encanto desaparece.</p>",
+      "name": "Llave de cristal morado",
+      "description": "<p>El receptor obtiene un <em>sortilegio del mutilado</em>. Te permite regenerar un apéndice u órgano perdido, como un brazo, un pie o un ojo. Tras usarlo una vez, el sortilegio desaparece.</p>",
       "activities": {
         "OKaC5FgRks1wNrwJ": {
-          "name": "Gasto"
+          "name": "Gastar uso"
         }
       }
     },
     "toaCh5RedCrystal": {
-      "name": "Tecla de cristal rojo",
-      "description": "<p>El beneficiario gana un <em>el encanto de la Ghoul</em>. Este encanto le permite utilizar una acción para comer una boca llena de carne de un humanoide que ha estado muerto no más de 1 día. Cuando lo haces, recuperas 3d8 + 3 puntos de golpe. Una vez usado tres veces, el encanto desaparece.</p>",
+      "name": "Llave de cristal rojo",
+      "description": "<p>El receptor obtiene un <em>sortilegio del gul</em>. Te permite usar una acción para comer un bocado de carne de un humanoide que lleve muerto como máximo 1 día. Al hacerlo, recuperas 3d8 + 3 puntos de golpe. Tras usarlo tres veces, el sortilegio desaparece.</p>",
       "activities": {
         "oE9gpq42BIX8d7a2": {
-          "name": "Uso de los gastos: Curar"
+          "name": "Gastar uso: curación"
         }
       }
     },
@@ -1027,12 +1027,12 @@
       "description": "<p>Has encontrado en el cadáver de Devlin Bashir un tintero que nunca se seca.</p>"
     },
     "toaCharmofRestor": {
-      "name": "Encanto de la restauración",
-      "description": "<p>Este encanto tiene 6 cargos. Puede usar una acción para gastar algunos de sus cargos para lanzar uno de los siguientes conjuros: @UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{Mayor restauración} (4 cargos) o @UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{Restauración menor} (2 cargos). Una vez que todos sus cargos han sido gastados, el encanto desaparece de ti.</p>"
+      "name": "Sortilegio de restablecimiento",
+      "description": "<p>Este sortilegio tiene 6 cargas. Puedes usar una acción y gastar algunas para lanzar uno de los siguientes conjuros: @UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{restablecimiento mayor} (4 cargas) o @UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{restablecimiento menor} (2 cargas). Cuando se gastan todas sus cargas, el sortilegio desaparece.</p>"
     },
     "toaClayNoFacesCh": {
-      "name": "El encanto de Clay No-Face",
-      "description": "<p>Mientras que usted tiene Clay No-Face en su posesión, usted no necesita comer, beber, o respirar. Estos beneficios duran 30 días mientras que la muñeca está en su posesión, después de lo cual el encanto desaparece de usted.</p>"
+      "name": "Sortilegio de Clay Sinrostro",
+      "description": "<p>Mientras tengas a Clay Sinrostro en tu poder, no necesitas comer, beber ni respirar. Estos beneficios duran 30 días mientras conserves el muñeco, tras los cuales el sortilegio desaparece.</p>"
     },
     "toaDiamond000000": {
       "name": "Ópalo",
@@ -1084,16 +1084,16 @@
       "description": "<p>Has encontrado una pequeña llave de jade con forma de cocodrilo en la Cripta de la Reina del Sol, en la Tumba de los Nueve Dioses.</p>"
     },
     "toaJohosCharm000": {
-      "name": "El encanto de Joho",
-      "description": "<p>Mientras tienes a Joho en tu posesión, te otorga el beneficio de un @UUID[Compendium.dnd5e.items.Item.rY9sRFQp5CFSfsat]{timón de comprensión de idiomas}. Este beneficio dura 7 días mientras la muñeca está en su posesión, después de lo cual el encanto se desvanece de usted.</p>"
+      "name": "Sortilegio de Joho",
+      "description": "<p>Mientras tengas a Joho en tu poder, te concede los beneficios de un @UUID[Compendium.dnd5e.items.Item.rY9sRFQp5CFSfsat]{yelmo de entender idiomas}. Este beneficio dura 7 días mientras conserves el muñeco, tras los cuales el sortilegio desaparece.</p>"
     },
     "toaMgcTalismanSp": {
       "name": "Talismán de la esfera",
-      "description": "<p>Cuando usted hace un control de inteligencia (Arcana) para controlar un @UUID[Compendium.dnd5e.items.Item.2YNqk5zm9jDTvd7q]{esfera de aniquilación} mientras sostienes este talismán, duplicas tu bono de habilidad en el cheque.</p><p>Además, cuando comiences tu turno con el control sobre una esfera de aniquilación, puedes usar una acción para levitarlo 10 pies más un número de pies adicionales igual a 10 × tu modificador de Inteligencia.</p><p><span style=\"text-decoration:underline\"><span style=\"text-decoration:underline\">Su modificador de inteligencia es </span><strong><span style=\"text-decoration:underline\">[[lookup @abilities.int.mod]]</span></strong></span></p>",
+      "description": "<p>Cuando realices una prueba de Inteligencia (Conocimiento Arcano) para controlar una @UUID[Compendium.dnd5e.items.Item.2YNqk5zm9jDTvd7q]{esfera de aniquilación} mientras sostienes este talismán, duplicas tu bonificador por competencia en la prueba.</p><p>Además, si comienzas tu turno controlando una esfera de aniquilación, puedes usar una acción para hacerla levitar 10 pies más una cantidad adicional de pies igual a 10 × tu modificador por Inteligencia.</p><p><span style=\"text-decoration:underline\"><span style=\"text-decoration:underline\">Tu modificador por Inteligencia es </span><strong><span style=\"text-decoration:underline\">[[lookup @abilities.int.mod]]</span></strong></span></p>",
       "effects": {
         "acKbLzGFpnJgNzEB": {
-          "name": "Bono: Arcana Check",
-          "description": "<p>Mientras mantienes este talismán, duplicas tu bono de habilidad en tu cheque de Inteligencia (Arcana).</p>"
+          "name": "Bonificador: prueba de Conocimiento Arcano",
+          "description": "<p>Mientras sostengas este talismán, duplicas tu bonificador por competencia en tu prueba de Inteligencia (Conocimiento Arcano).</p>"
         }
       }
     },
@@ -1153,8 +1153,8 @@
       "name": "Tesoro del almacén"
     },
     "toaStrawbundlesC": {
-      "name": "El encanto de Strawbundle",
-      "description": "<p>Mientras que usted tiene Strawbundle en su posesión, este encanto le permite lanzar el @UUID[Compendium.dnd5e.spells.Item.PQuEgKyCdovOvhqN]{etérea} como una acción, no se requieren componentes. Después de que se utiliza tres veces, el encanto desaparece.</p>"
+      "name": "Sortilegio de Briznas",
+      "description": "<p>Mientras tengas a Briznas en tu poder, este sortilegio te permite lanzar el conjuro @UUID[Compendium.dnd5e.spells.Item.PQuEgKyCdovOvhqN]{excursión etérea} como acción, sin necesidad de componentes. Tras usarlo tres veces, el sortilegio desaparece.</p>"
     },
     "toaTGIjin0000000": {
       "name": "I'jin",
@@ -1290,19 +1290,19 @@
       "description": "<p>Una yklwa (pronunciado [yíkelwa]) es un arma cuerpo a cuerpo sencilla que tradicionalmente usan los guerreros chultanos. Consta de un asta de madera de 3 pies de largo y una hoja de acero o piedra de hasta 18 pulgadas. Cuesta 1 po y al impactar inflige 1d8 de daño perforante. Aunque tiene la propiedad arrojadiza, la yklwa no está bien equilibrada para el lanzamiento (alcance 10/30 pies).</p>"
     },
     "toaYuanTiRacialF": {
-      "name": "Yuan Ti Rasgos Raciales",
-      "description": "<p><em><strong>Darkvision</strong></em>. Puedes ver en luz tenue a menos de 60 pies de ti como si fuera luz brillante, y en oscuridad como si fuera luz tenue. No se puede discernir el color en la oscuridad, sólo los tonos de gris.</p><p><em><strong>Difusión de conjuros innatos</strong></em>. Ya sabes que @UUID[Compendium.dnd5e.spells.Item.g2u9PYfqWQAyg9OI]{rociado con veneno} Cantrip. Usted puede lanzar @UUID[Compendium.dnd5e.spells.Item.hDOENzjuj5WpLq7B]{amistad animal} un número ilimitado de veces con este rasgo, pero sólo puedes apuntar serpientes con él. A partir del 3er nivel, también puedes lanzar @UUID[Compendium.dnd5e.spells.Item.zMAWdyc8UVb37BK4]{sugerencia} con este rasgo. Una vez que lo elijes, no puedes hacerlo de nuevo hasta que termines un largo descanso. Carisma es tu habilidad de conjuros para estos conjuros.</p><p><em><strong>Resistencia mágica</strong></em>. Usted tiene ventaja en los lanzamientos de ahorro contra conjuros y otros efectos mágicos.</p><p><em><strong>Inmunidad venenosa</strong></em>. Usted es inmune al daño por veneno y a la condición envenenada.</p>",
+      "name": "Rasgos raciales yuan-ti",
+      "description": "<p><em><strong>Visión en la Oscuridad</strong></em>. Puedes ver con luz tenue a 60 pies o menos de ti como si fuera luz brillante, y en la oscuridad como si fuera luz tenue. En la oscuridad no distingues colores, solo tonos de gris.</p><p><em><strong>Lanzamiento de Conjuros Innato</strong></em>. Conoces el truco @UUID[Compendium.dnd5e.spells.Item.g2u9PYfqWQAyg9OI]{rociada venenosa}. Puedes lanzar @UUID[Compendium.dnd5e.spells.Item.hDOENzjuj5WpLq7B]{encantar animal} un número ilimitado de veces con este rasgo, pero solo puedes elegir serpientes como objetivos. A partir del nivel 3, también puedes lanzar @UUID[Compendium.dnd5e.spells.Item.zMAWdyc8UVb37BK4]{sugestión} con este rasgo. Una vez que lo lances, no puedes volver a hacerlo hasta terminar un descanso largo. Carisma es tu aptitud mágica para estos conjuros.</p><p><em><strong>Resistencia Mágica</strong></em>. Tienes ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.</p><p><em><strong>Inmunidad al Veneno</strong></em>. Eres inmune al daño de veneno y al estado envenenado.</p>",
       "activities": {
         "BxoqoIZb3bAkViOZ": {
-          "name": "Amistad animal (solo serpientes)"
+          "name": "Encantar animal (solo serpientes)"
         },
         "DmFJiBHKuvksUrkm": {
-          "name": "Sugerencia (nivel 3 arriba)"
+          "name": "Sugestión (a partir de nivel 3)"
         }
       },
       "effects": {
         "p69v8svzOVhfXOzW": {
-          "name": "Yuan Ti Características Raciales"
+          "name": "Rasgos raciales yuan-ti"
         }
       }
     },
@@ -1530,7 +1530,7 @@
     },
     "toamgcMaskoftheB": {
       "name": "Máscara de la Bestia",
-      "description": "<p>Esta máscara de madera tiene la forma de un rostro de bestia y tiene 3 cargos. Mientras usa la máscara, puede gastar 1 carga y utilizar la máscara para lanzar el @UUID[Compendium.dnd5e.spells.Item.hDOENzjuj5WpLq7B]{amistad animal} deletrear como una acción. La máscara recupera todas las cargas gastadas al amanecer.</p>"
+      "description": "<p>Esta máscara de madera tiene forma de rostro de bestia y 3 cargas. Mientras la lleves puesta, puedes usar una acción y gastar 1 carga para lanzar @UUID[Compendium.dnd5e.spells.Item.hDOENzjuj5WpLq7B]{encantar animal}. Recupera todas las cargas al amanecer.</p>"
     },
     "toamgcRingofWint": {
       "name": "Anillo del Invierno",
@@ -1690,11 +1690,11 @@
       "name": "Tesorería de Hrakhamar"
     },
     "umN44n4oGRv4AxOQ": {
-      "name": "Pastel helado",
-      "description": "<p>El personaje se siente energizado y gana [[/heal temp]].</p><section class=\"secret\" id=\"secret-nYvSeTrh53NUba72\"><p><strong>Nota de Foundry</strong></p><p><span style=\"margin:0px;padding:0px\">Esta característica incluye un <strong>Efecto activo (AE)</strong> que sirve como recordatorio, pero no automatiza los beneficios antes mencionados.</span></p></section>",
+      "name": "Pasteles glaseados",
+      "description": "<p>El personaje se siente lleno de energía y obtiene [[/heal temp]].</p><section class=\"secret\" id=\"secret-nYvSeTrh53NUba72\"><p><strong>Nota de Foundry</strong></p><p><span style=\"margin:0px;padding:0px\">Este rasgo incluye un <strong>efecto activo (EA)</strong> que sirve como recordatorio, pero no automatiza los beneficios anteriores.</span></p></section>",
       "effects": {
         "N63zNWdNq4SOaXNS": {
-          "name": "Pastel helado"
+          "name": "Pasteles glaseados"
         }
       }
     },
@@ -1712,7 +1712,7 @@
     },
     "zvvRNh7A7rEDZPvb": {
       "name": "Flecha +1",
-      "description": "<p>Munición utilizada para arcos de todas las variedades. Ha sido imbuido de magia.</p>\n<p>Tienes un bono para atacar y dañar rollos hechos con esta pieza de munición mágica. Una vez que alcanza un objetivo, la munición ya no es mágica.</p>"
+      "description": "<p>Munición para arcos de todo tipo, imbuida de magia.</p>\n<p>Obtienes un bonificador a las tiradas de ataque y daño realizadas con esta munición mágica. En cuanto impacta a un objetivo, deja de ser mágica.</p>"
     }
   }
 }
