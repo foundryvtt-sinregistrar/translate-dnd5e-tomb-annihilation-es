@@ -829,14 +829,28 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - La tabla insertada de efectos de la fuente queda pendiente de revisión propia.
 - Auditorías técnica y editorial sin errores.
 
+### ch5-level1-tombs-01 a ch5-level1-tombs-03 — Tumbas de los embaucadores
+
+- Revisados tres textos y títulos con referencias físicas 136-140.
+- Conservados el alcance y las limitaciones del disco de ojos y la diferencia
+  entre abrir el sarcófago con máscara y sin ella. Corregido el rótulo partido
+  del espíritu de Obo’laka sin cambiar las etiquetas HTML.
+- Conservados los tres fallos de Engaño de Nepartak y la llegada de los
+  enjambres al comienzo del asalto siguiente, no al instante.
+- Aclarado que los botones desbloquean los cofres y activan sus trampas
+  simultáneamente; el de hierro afecta a cualquier metal no mágico.
+- Completadas las 28 páginas de texto del diario del nivel 1. Sus actores,
+  objetos, cartas y tabla insertada conservan sus revisiones independientes pendientes.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 509 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 512 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4 y treinta del capítulo 5. No equivale a 509 páginas del PDF.
-- 1128 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1128 campos distintos.
+  del capítulo 4 y treinta y tres del capítulo 5. No equivale a 512 páginas del PDF.
+- 1134 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1134 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
