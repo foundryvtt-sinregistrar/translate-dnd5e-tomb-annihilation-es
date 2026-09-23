@@ -224,13 +224,13 @@
           "description": "Sombrero"
         },
         "n1UPBT9s891yXdxS": {
-          "description": "Polo de 10 pies"
+          "description": "Vara de 10 pies"
         },
         "I5M8PDLdhY5LdbmP": {
-          "description": "Palanca"
+          "description": "Palanqueta"
         },
         "0tpaOR5BkRI5OyD9": {
-          "description": "Linterna con capucha"
+          "description": "Linterna sorda"
         },
         "2gjUl8TtzikFhCXS": {
           "description": "Medallón"
@@ -239,13 +239,13 @@
           "description": "Pala"
         },
         "1IcbjohsBbEUFsXS": {
-          "description": "Almádena"
+          "description": "Mazo"
         },
         "BbUhJxKD8f6qOxzb": {
           "description": "Látigo"
         }
       },
-      "name": "Elemento de firma"
+      "name": "Objetos distintivos"
     },
     "dmgTreasureDrops": {
       "results": {
@@ -438,25 +438,25 @@
       }
     },
     "toaBond100000000": {
-      "name": "Bond (Arqueólogo)",
+      "name": "Vínculos (arqueólogo)",
       "results": {
         "5z2GvnStcAtrD4Q6": {
-          "description": "Desde que era niño, he escuchado historias sobre una ciudad perdida. Mi objetivo es encontrarlo, aprender sus secretos, y ganar mi lugar en los libros de historia."
+          "description": "Desde niño oigo historias sobre una ciudad perdida. Quiero encontrarla, conocer sus secretos y ganarme un lugar en los libros de historia."
         },
         "0pm9stSCUT52A4LA": {
-          "description": "Quiero encontrar a mi mentor, que desapareció en una expedición hace algún tiempo."
+          "description": "Quiero encontrar a mi mentor, que desapareció en una expedición hace tiempo."
         },
         "9wFIWWGrMlcNcJ4p": {
-          "description": "Tengo un rival amistoso. Sólo uno de nosotros puede ser el mejor, y mi objetivo es demostrar que soy yo."
+          "description": "Tengo un rival con quien me llevo bien. Solo uno puede ser el mejor y demostraré que soy yo."
         },
         "chmE206uBluXTHnK": {
-          "description": "No venderé un objeto de arte u otro tesoro que tenga significado histórico o sea único en su género."
+          "description": "No venderé un objeto de arte o tesoro que tenga importancia histórica o sea único."
         },
         "TlgOzowJ0m5JSe1Q": {
-          "description": "Estoy secretamente enamorado del mecenas rico que patrocina mis hazañas arqueológicas."
+          "description": "Amo en secreto al acaudalado mecenas que financia mis aventuras arqueológicas."
         },
         "9TT94i9x9o5XEKCA": {
-          "description": "Espero dar prestigio a una biblioteca, un museo o una universidad."
+          "description": "Espero dar prestigio a una biblioteca, museo o universidad."
         }
       }
     },
@@ -759,25 +759,25 @@
       }
     },
     "toaFlaw100000000": {
-      "name": "Fallo (Arqueólogo)",
+      "name": "Defectos (arqueólogo)",
       "results": {
         "1eqVN6FfadSz03Cb": {
-          "description": "Tengo un miedo secreto a algún animal salvaje común... y en mi trabajo, los veo por todas partes."
+          "description": "Temo en secreto a un animal salvaje común, y en mi trabajo lo encuentro por todas partes."
         },
         "YvzFDUs9HWHRuOUY": {
-          "description": "No puedo salir de una habitación sin buscar puertas secretas."
+          "description": "No puedo salir de una sala sin buscar puertas secretas."
         },
         "QEkuZWaqgQXwYWZq": {
-          "description": "Cuando no estoy explorando mazmorras o ruinas, me pongo nervioso e impaciente."
+          "description": "Cuando no exploro ruinas o mazmorras, me pongo nervioso e impaciente."
         },
         "Unj1HWhLnNcBGCbg": {
-          "description": "No tengo tiempo para amigos o familiares. Paso cada momento despierto pensando y preparándome para mi próxima expedición."
+          "description": "No tengo tiempo para amigos ni familia. Dedico cada momento despierto a pensar en la próxima expedición y prepararla."
         },
         "qBz8VS0nhS7NirkF": {
-          "description": "Cuando se me da la opción de ir a la izquierda o a la derecha, siempre voy a la izquierda."
+          "description": "Si debo elegir entre izquierda y derecha, siempre voy a la izquierda."
         },
         "eQDpvDiWGmXzPb3y": {
-          "description": "No puedo dormir excepto en la oscuridad total."
+          "description": "Solo puedo dormir en completa oscuridad."
         }
       }
     },
@@ -805,25 +805,25 @@
       }
     },
     "toaIdeal10000000": {
-      "name": "Ideal (Arqueólogo)",
+      "name": "Ideales (arqueólogo)",
       "results": {
         "jJqWRHGalLSu3i9C": {
-          "description": "<strong>Conservación.</strong> Ese artefacto pertenece a un museo."
+          "description": "<strong>Preservación.</strong> Ese objeto debería estar en un museo. (Bueno)"
         },
         "YHZOpMIVBateTEcf": {
-          "description": "<strong>Codicia.</strong> No arriesgaré mi vida por nada. Espero algún tipo de pago."
+          "description": "<strong>Codicia.</strong> No arriesgaré la vida por nada. Espero alguna recompensa. (Cualquiera)"
         },
         "YKo5Ifz4rYTMc3Bw": {
-          "description": "<strong>Deseo de la Muerte.</strong> Nada es más estimulante que un escape estrecho de las mandíbulas de la muerte."
+          "description": "<strong>Deseo de morir.</strong> Nada es más emocionante que escapar por poco de las garras de la muerte. (Caótico)"
         },
         "zR5bSUF4RjgpKROU": {
-          "description": "<strong>Dignidad.</strong> Los muertos y sus pertenencias merecen ser tratados con respeto."
+          "description": "<strong>Dignidad.</strong> Los muertos y sus pertenencias merecen respeto. (Legal)"
         },
         "1Wtm2jnoyvA2P9G9": {
-          "description": "<strong>La inmortalidad.</strong> Toda mi exploración es parte de un plan para encontrar el secreto de la vida eterna. (Cualquiera)"
+          "description": "<strong>Inmortalidad.</strong> Todas mis exploraciones forman parte de un plan para descubrir el secreto de la vida eterna. (Cualquiera)"
         },
         "zxYisBONE3IgIfe9": {
-          "description": "<strong>Peligro.</strong> Con cada gran descubrimiento viene grave peligro. Los dos caminan de la mano."
+          "description": "<strong>Peligro.</strong> Cada gran descubrimiento trae un grave peligro. Ambos van de la mano. (Cualquiera)"
         }
       }
     },
@@ -1084,31 +1084,31 @@
       }
     },
     "toaTrait10000000": {
-      "name": "Rasgo de Personalidad (Arqueólogo)",
+      "name": "Rasgos de personalidad (arqueólogo)",
       "results": {
         "t4D0ykwqSvQ0WMQH": {
-          "description": "Me encanta un buen rompecabezas o misterio."
+          "description": "Me encantan los buenos rompecabezas y misterios."
         },
         "vlKeijxc9DNFyU4X": {
-          "description": "Soy una rata de manada que nunca tira nada."
+          "description": "Lo acumulo todo: nunca tiro nada."
         },
         "ryi0F66Xw6WkbgKE": {
-          "description": "La fama es más importante que el dinero."
+          "description": "La fama me importa más que el dinero."
         },
         "umkETB8QXB41nm32": {
-          "description": "No tengo reparos en robarles a los muertos."
+          "description": "No tengo escrúpulos a la hora de robar a los muertos."
         },
         "V17rOWaHWwciGgK7": {
-          "description": "Soy más feliz en una vieja tumba polvorienta que en los centros de la civilización."
+          "description": "Soy más feliz en una tumba antigua y polvorienta que en los centros de la civilización."
         },
         "YtaCWmPoAgwCvXzF": {
-          "description": "Las trampas no me ponen nervioso. Idiotas que disparan trampas me ponen nervioso."
+          "description": "Las trampas no me ponen nervioso. Los idiotas que las activan, sí."
         },
         "RErKvnEdMvv3plTe": {
-          "description": "Puede que falle, pero nunca me rendiré."
+          "description": "Puedo fracasar, pero nunca me rendiré."
         },
         "FqMEIXHOcSDC0qzZ": {
-          "description": "Puede que pienses que soy un erudito, pero me encanta una buena pelea. Estos puños fueron hechos para golpear."
+          "description": "Puede que parezca un erudito, pero me encanta una buena pelea. Estos puños están hechos para golpear."
         }
       }
     },

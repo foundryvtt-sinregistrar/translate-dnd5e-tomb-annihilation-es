@@ -1330,6 +1330,16 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   conservados resultados e indicaciones de alineamiento del original.
 - Auditorías técnica y editorial sin errores.
 
+### appendix-a-archaeologist — Arqueólogo y tablas
+
+- Revisados 43 campos: trasfondo, Conocimiento histórico y cinco tablas,
+  con referencia física 193. Cerrados ambos trasfondos principales y sus tablas.
+- Corregidos caudillos frente a brujos y aventuras arqueológicas frente a
+  explotación arqueológica. Conservadas competencias, equipo y elección de objeto.
+- El rasgo determina el propósito original y los constructores de ruinas,
+  y el valor de objetos de arte de más de un siglo; no añade una prueba.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
 - 626 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -1337,8 +1347,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
   del capítulo 4, 126 del capítulo 5 y 21 de los apéndices A y C.
   No equivale a 626 páginas del PDF.
-- 1530 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1530 campos distintos.
+- 1573 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1573 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
