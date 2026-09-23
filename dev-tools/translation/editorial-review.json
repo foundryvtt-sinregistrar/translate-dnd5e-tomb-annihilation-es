@@ -15089,6 +15089,33 @@
           "status": "reviewed-against-es-extraction-and-en-export"
         }
       ]
+    },
+    {
+      "id": "ch5-level4-shagambi-01",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level4Cham.pages.0irMuLycb80eNEJr.text",
+          "sourceSha256": "a50c730b20a20013149767c8714a6fe0065939ab6ff85a9540a80648c7712d9f",
+          "translationSha256": "03860352ca91f0c32a4d113ccc7fc0918454521059bd010de770934577949026",
+          "pdfEsPages": [
+            161,
+            162
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level4Cham.pages.0irMuLycb80eNEJr.name",
+          "sourceSha256": "ef65bfbade6748be46dff46f373f6e825226c07ca46eec9444d6f1af6f5b532a",
+          "translationSha256": "0a198752869f687842055500cc7466df6e6e7060d8e355784a97cffcad27ef03",
+          "pdfEsPages": [
+            161,
+            162
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
     }
   ]
 }

@@ -999,14 +999,26 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   Conservados el umbral de arena, los rodillos y el bloqueo del botón de salida.
 - Auditorías técnica y editorial sin errores.
 
+### ch5-level4-shagambi-01 — Tumba de Shagambi
+
+- Revisado texto completo y título con referencias físicas 161-162.
+- Diferenciadas llegada a una runa y entrada desde fuera: la norte daña al llegar;
+  la sur transforma al usarla para salir. Conservadas las cuatro formas animales.
+- Conservados el único aviso de los guerreros, su destrucción por crítico y
+  la caja de música que los activa incluso sin ruidos previos.
+- Mantenida la referencia a la mandolina de las reglas de 2014. Pendientes
+  técnicos: fragmento `#terracotta-warriors` y enlace de kamadan al apéndice D,
+  que vuelve a usar el destino del grung.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 559 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 560 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4 y ochenta del capítulo 5. No equivale a 559 páginas del PDF.
-- 1228 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1228 campos distintos.
+  del capítulo 4 y ochenta y una del capítulo 5. No equivale a 560 páginas del PDF.
+- 1230 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1230 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
