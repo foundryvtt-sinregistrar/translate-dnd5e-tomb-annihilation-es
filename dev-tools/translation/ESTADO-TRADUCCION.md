@@ -2721,6 +2721,15 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Conservados los nombres dinámicos de Nepartak y los enlaces por nombre
   `Fire Ray` y `Fist` para la revisión funcional general.
 
+### additional-yuanti-one — Nahth, Soakosh y purasangre
+
+- Revisados los tres perfiles en ambas copias: 166 registros contrastados
+  con el exportado inglés, incluida la biografía completa sobre los yuan-ti
+  que figura en Soakosh. No se atribuye este texto al PDF de la aventura.
+- Revalidadas las restricciones de forma, Encantar animal solo para serpientes
+  y las frecuencias de conjuros del original. Conservados los enlaces técnicos
+  para la comprobación funcional posterior.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2730,11 +2739,11 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
   de Foundry, tres de créditos y cuatro de historial.
   No equivale a 931 páginas del PDF.
-- 15827 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 15827 campos distintos.
+- 15993 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 15993 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas ciento cuarenta y una biografías en ambas copias de actores: siete
-  príncipes, ciento veintisiete criaturas o PNJ vinculados al apéndice D y siete perfiles
+  insertado. Revisadas ciento cuarenta y dos biografías en ambas copias de actores: siete
+  príncipes, ciento veintisiete criaturas o PNJ vinculados al apéndice D y ocho perfiles
   adicionales. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.

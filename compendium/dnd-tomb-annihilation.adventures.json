@@ -8419,7 +8419,7 @@
           "items": {
             "AG5IOj1ySaJrVtdx": {
               "name": "Ataque múltiple",
-              "description": "<p>El yuan-ti hace dos [[/item .wsHnC3KMwEYVdmQf]] ataques.</p>"
+              "description": "<p>El yuan-ti realiza dos ataques con [[/item .wsHnC3KMwEYVdmQf]]{cimitarra}.</p>"
             },
             "wsHnC3KMwEYVdmQf": {
               "name": "Cimitarra",
@@ -8430,54 +8430,54 @@
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>"
             },
             "LdNozNpDDi4xEbpa": {
-              "name": "Difusión de conjuros innatos",
-              "description": "<p>La habilidad de hechicería del yuan-ti es Carisma (salva CD 12). El yuan-ti puede lanzar innatamente los siguientes conjuros, sin necesidad de componentes materiales:</p><p>A discreción: <em>[[/item .hmObqoJ8nq1t58jU]]{amistad animal} </em>(serpientes solamente)</p><p>3/día cada uno: <em>[[/item .dew9nrCeLSbWBeqw]]{rociado con veneno}, [[/item .y0ifqt34V98ohmdj]]{sugerencia}</em></p>",
+              "name": "Lanzamiento de Conjuros Innato",
+              "description": "<p>La aptitud mágica del yuan-ti es Carisma (salvación de conjuros CD 12). Puede lanzar de forma innata los siguientes conjuros sin componentes materiales:</p><p>A voluntad: <em>[[/item .hmObqoJ8nq1t58jU]]{encantar animal} </em>(solo serpientes)</p><p>3/día cada uno: <em>[[/item .dew9nrCeLSbWBeqw]]{rociada venenosa}, [[/item .y0ifqt34V98ohmdj]]{sugestión}</em></p>",
               "activities": {
                 "WWD23H48PC9lsxYZ": {
-                  "name": "Amistad animal"
+                  "name": "Encantar animal"
                 },
                 "3ZBzwsSKshymMoYf": {
                   "name": "Rociada venenosa"
                 },
                 "yShp2HbCMF589DVK": {
-                  "name": "Sugerencias"
+                  "name": "Sugestión"
                 }
               }
             },
             "V6ksssEoJ2nKOt2b": {
-              "name": "Resistencia mágica",
-              "description": "<p>El yuan-ti tiene ventaja en los lanzamientos de ahorro contra conjuros y otros efectos mágicos.</p>"
+              "name": "Resistencia Mágica",
+              "description": "<p>El yuan-ti tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.</p>"
             },
             "hmObqoJ8nq1t58jU": {
-              "name": "Amistad animal",
-              "description": "<p>Este conjuro te permite convencer a una bestia de que no quieres hacerle daño. Elija una bestia que se puede ver dentro del rango. Debe verte y oírte. Si la Inteligencia de la bestia es 4 o superior, el conjuro falla. De lo contrario, la bestia debe tener éxito en un lanzamiento de la Sabiduría que salva o ser encantada por usted durante la duración del conjuro. Si usted o uno de sus compañeros dañan al objetivo, el conjuro termina.</p><p><strong>En los niveles superiores.</strong> Al lanzar este conjuro usando una espacio de conjuro de 2o nivel o superior, puede afectar a una bestia adicional por cada nivel de ranura por encima de 1o.</p>",
+              "name": "Encantar animal",
+              "description": "<p>Este conjuro te permite convencer a una bestia de que no pretendes dañarla. Elige una bestia que puedas ver dentro del alcance. Debe poder verte y oírte. Si su Inteligencia es 4 o superior, el conjuro falla. En caso contrario, debe superar una tirada de salvación de Sabiduría o quedar hechizada por ti durante el conjuro. Si tú o uno de tus compañeros dañáis al objetivo, el conjuro termina.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro usando un espacio de nivel 2 o superior, puedes afectar a una bestia adicional por cada nivel del espacio por encima de 1.</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             },
             "dew9nrCeLSbWBeqw": {
               "name": "Rociada venenosa",
-              "description": "<p>Extiendes tu mano hacia una criatura que puedes ver dentro de tu alcance y proyectar un soplo de gas nocivo desde tu palma. La criatura debe tener éxito en un lanzamiento de ahorro Constitución o tomar 1d12 daño venenoso.</p><p>El daño de este conjuro aumenta en 1d12 cuando alcanzas el 5o nivel (2d12), 11o nivel (3d12) y 17o nivel (4d12).</p>",
+              "description": "<p>Extiendes la mano hacia una criatura que puedas ver dentro del alcance y proyectas una nube de gas nocivo desde la palma. La criatura debe superar una tirada de salvación de Constitución o sufrir 1d12 de daño de veneno.</p><p>El daño de este conjuro aumenta en 1d12 cuando alcanzas el nivel 5 (2d12), el nivel 11 (3d12) y el nivel 17 (4d12).</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             },
             "y0ifqt34V98ohmdj": {
-              "name": "Sugerencias",
-              "description": "<p>Sugiere un curso de actividad (limitado a una o dos frases) e influencia mágicamente a una criatura que puede ver dentro del rango que puede oír y entender. Las criaturas que no pueden ser encantadas son inmunes a este efecto. La sugerencia debe redactarse de manera que el curso de acción sea razonable. Pedir a la criatura que se apuñale a sí misma, que se lance sobre una lanza, que se inmole a sí misma, o que haga algún otro acto obviamente dañino termina el conjuro.</p><p>El objetivo debe hacer un lanzamiento de ahorro de sabiduría. En una salvada fallida, persigue el curso de acción que usted describió a lo mejor de su capacidad. El curso de acción sugerido puede continuar durante todo el tiempo. Si la actividad sugerida se puede completar en un tiempo más corto, el conjuro termina cuando el sujeto termina lo que se le pidió que hiciera.</p><p>También puede especificar las condiciones que desencadenarán una actividad especial durante la duración. Por ejemplo, podrías sugerir que un caballero le dé su caballo de guerra al primer mendigo que conozca. Si la condición no se cumple antes de que expire el conjuro, la actividad no se realiza.</p><p>Si usted o alguno de sus compañeros dañan el objetivo, el conjuro termina.</p>",
+              "name": "Sugestión",
+              "description": "<p>Sugieres una conducta, expresada en una o dos frases, e influyes mágicamente en una criatura que puedas ver dentro del alcance y que pueda oírte y entenderte. Las criaturas que no pueden ser hechizadas son inmunes a este efecto. Debes formular la sugerencia de modo que la conducta parezca razonable. Pedirle que se apuñale, se arroje sobre una lanza, se prenda fuego o haga algo evidentemente perjudicial termina el conjuro.</p><p>El objetivo debe realizar una tirada de salvación de Sabiduría. Si falla, sigue la conducta que has descrito lo mejor que puede. Puede hacerlo durante todo el conjuro. Si la tarea puede completarse antes, el conjuro termina cuando el objetivo acaba lo que le has pedido.</p><p>También puedes establecer condiciones que desencadenen una conducta específica mientras dure el conjuro. Por ejemplo, puedes sugerir a una caballera que entregue su caballo de guerra al primer mendigo que encuentre. Si la condición no se cumple antes de que termine el conjuro, no realiza esa acción.</p><p>Si tú o cualquiera de tus compañeros causáis daño al objetivo, el conjuro termina.</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             }
           },
           "name": "Yuan-ti purasangre",
-          "creatureSubtype": "Yuan-Ti",
+          "creatureSubtype": "Yuan-ti",
           "tokenName": "Yuan-ti purasangre"
         },
         "J6yWqkj0lotaRnTh": {
@@ -11224,7 +11224,7 @@
           "items": {
             "WF5ku1NwNMJIbqAC": {
               "name": "Ataque múltiple",
-              "description": "<p>El yuan-ti hace dos ataques a distancia o dos ataques cuerpo a cuerpo, pero puede utilizar su [[/item Bite]] Sólo una vez.</p>"
+              "description": "<p>El yuan-ti realiza dos ataques a distancia o dos ataques cuerpo a cuerpo, pero solo puede usar su [[/item Bite]]{mordisco} una vez.</p>"
             },
             "tFjdyG76c2K6wRsw": {
               "name": "Mordisco",
@@ -11232,71 +11232,71 @@
             },
             "fybR0hBMWsKkK8aD": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-              "name": "Scimitar (forma Yuan-ti solamente)",
+              "name": "Cimitarra (solo en forma yuan-ti)",
               "activities": {
                 "dnd5eactivity000": {
                   "activation": {
-                    "condition": "Sólo el formulario Yuan-ti"
+                    "condition": "Solo en forma yuan-ti"
                   }
                 }
               }
             },
             "chRdSsL3qBYtemps": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-              "name": "Longbow (solo en forma de Yuan-ti)",
+              "name": "Arco largo (solo en forma yuan-ti)",
               "activities": {
                 "dnd5eactivity000": {
                   "activation": {
-                    "condition": "Sólo el formulario Yuan-ti"
+                    "condition": "Solo en forma yuan-ti"
                   }
                 }
               }
             },
             "VmFpSgmfhvSjrcAs": {
-              "name": "Hechicería innata (forma Yuan-ti solamente)",
-              "description": "<p>La habilidad innata de hechicería del yuan-ti es Carisma (salva CD 13). El yuan-ti puede lanzar innatamente los siguientes conjuros, sin necesidad de componentes materiales:</p><p>A discreción: <em>[[/item .wH3YQK3OW0q5vDAz]]{amistad animal}</em> (Sólo serpientes)</p><p>3/día: <em>[[/item .eSeOHIwTlHMlrJsA]]{sugerencia}</em></p>",
+              "name": "Lanzamiento de Conjuros Innato (solo forma de yuan-ti)",
+              "description": "<p>La aptitud mágica innata del yuan-ti es Carisma (salvación de conjuros CD 13). Puede lanzar de forma innata los siguientes conjuros sin componentes materiales:</p><p>A voluntad: <em>[[/item .wH3YQK3OW0q5vDAz]]{encantar animal}</em> (solo serpientes)</p><p>3/día: <em>[[/item .eSeOHIwTlHMlrJsA]]{sugestión}</em></p>",
               "activities": {
                 "GgQc9odVW9uhPOhQ": {
-                  "name": "Amistad animal"
+                  "name": "Encantar animal"
                 },
                 "bldTjikdmJ5YUvR0": {
-                  "name": "Sugerencias"
+                  "name": "Sugestión"
                 }
               }
             },
             "ro87S92Q1l1Tm8xo": {
-              "name": "Cambio de forma",
-              "description": "<p>El yuan-ti puede utilizar su acción para polimorfo en una serpiente Mediana, o de nuevo en su forma verdadera. Sus estadísticas son las mismas en cada forma. Cualquier equipo que lleva o lleva no se transforma. No cambia de forma si muere.</p>"
+              "name": "Cambiaformas",
+              "description": "<p>El yuan-ti puede usar su acción para transformarse en una serpiente Mediana o recuperar su verdadera forma. Sus estadísticas son las mismas en ambas formas. El equipo que vista o lleve no se transforma. No cambia de forma si muere.</p>"
             },
             "NSolAkTP3OL9CkSF": {
-              "name": "Resistencia mágica",
-              "description": "<p>El yuan-ti tiene ventaja en los lanzamientos de ahorro contra conjuros y otros efectos mágicos.</p>"
+              "name": "Resistencia Mágica",
+              "description": "<p>El yuan-ti tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.</p>"
             },
             "d3uIe2jcFeQ8Pcdm": {
-              "name": "Tipo Malison",
-              "description": "<p>El yuan-ti malison (tipo 1) tiene un cuerpo humano con cabeza de serpiente.</p>"
+              "name": "Tipo de corrupto",
+              "description": "<p>El corrupto yuan-ti de tipo 1 tiene cuerpo humano y cabeza de serpiente.</p>"
             },
             "wH3YQK3OW0q5vDAz": {
-              "name": "Amistad animal",
-              "description": "<p>Este conjuro te permite convencer a una bestia de que no quieres hacerle daño. Elija una bestia que se puede ver dentro del rango. Debe verte y oírte. Si la Inteligencia de la bestia es 4 o superior, el conjuro falla. De lo contrario, la bestia debe tener éxito en un lanzamiento de la Sabiduría que salva o ser encantada por usted durante la duración del conjuro. Si usted o uno de sus compañeros dañan al objetivo, el conjuro termina.</p><p><strong>En los niveles superiores.</strong> Al lanzar este conjuro usando una espacio de conjuro de 2o nivel o superior, puede afectar a una bestia adicional por cada nivel de ranura por encima de 1o.</p>",
+              "name": "Encantar animal",
+              "description": "<p>Este conjuro te permite convencer a una bestia de que no pretendes dañarla. Elige una bestia que puedas ver dentro del alcance. Debe poder verte y oírte. Si su Inteligencia es 4 o superior, el conjuro falla. En caso contrario, debe superar una tirada de salvación de Sabiduría o quedar hechizada por ti durante el conjuro. Si tú o uno de tus compañeros dañáis al objetivo, el conjuro termina.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro usando un espacio de nivel 2 o superior, puedes afectar a una bestia adicional por cada nivel del espacio por encima de 1.</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             },
             "eSeOHIwTlHMlrJsA": {
-              "name": "Sugerencias",
-              "description": "<p>Sugiere un curso de actividad (limitado a una o dos frases) e influencia mágicamente a una criatura que puede ver dentro del rango que puede oír y entender. Las criaturas que no pueden ser encantadas son inmunes a este efecto. La sugerencia debe redactarse de manera que el curso de acción sea razonable. Pedir a la criatura que se apuñale a sí misma, que se lance sobre una lanza, que se inmole a sí misma, o que haga algún otro acto obviamente dañino termina el conjuro.</p><p>El objetivo debe hacer un lanzamiento de ahorro de sabiduría. En una salvada fallida, persigue el curso de acción que usted describió a lo mejor de su capacidad. El curso de acción sugerido puede continuar durante todo el tiempo. Si la actividad sugerida se puede completar en un tiempo más corto, el conjuro termina cuando el sujeto termina lo que se le pidió que hiciera.</p><p>También puede especificar las condiciones que desencadenarán una actividad especial durante la duración. Por ejemplo, podrías sugerir que un caballero le dé su caballo de guerra al primer mendigo que conozca. Si la condición no se cumple antes de que expire el conjuro, la actividad no se realiza.</p><p>Si usted o alguno de sus compañeros dañan el objetivo, el conjuro termina.</p>",
+              "name": "Sugestión",
+              "description": "<p>Sugieres una conducta, expresada en una o dos frases, e influyes mágicamente en una criatura que puedas ver dentro del alcance y que pueda oírte y entenderte. Las criaturas que no pueden ser hechizadas son inmunes a este efecto. Debes formular la sugerencia de modo que la conducta parezca razonable. Pedirle que se apuñale, se arroje sobre una lanza, se prenda fuego o haga algo evidentemente perjudicial termina el conjuro.</p><p>El objetivo debe realizar una tirada de salvación de Sabiduría. Si falla, sigue la conducta que has descrito lo mejor que puede. Puede hacerlo durante todo el conjuro. Si la tarea puede completarse antes, el conjuro termina cuando el objetivo acaba lo que le has pedido.</p><p>También puedes establecer condiciones que desencadenen una conducta específica mientras dure el conjuro. Por ejemplo, puedes sugerir a una caballera que entregue su caballo de guerra al primer mendigo que encuentre. Si la condición no se cumple antes de que termine el conjuro, no realiza esa acción.</p><p>Si tú o cualquiera de tus compañeros causáis daño al objetivo, el conjuro termina.</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             }
           },
           "name": "Nahth",
-          "creatureSubtype": "Cambio de forma, Yuan-Ti",
+          "creatureSubtype": "Cambiaformas, yuan-ti",
           "tokenName": "Nahth"
         },
         "toaNannyPupu0000": {
@@ -12474,7 +12474,7 @@
           "items": {
             "AG5IOj1ySaJrVtdx": {
               "name": "Ataque múltiple",
-              "description": "<p>El yuan-ti hace dos [[/item .wsHnC3KMwEYVdmQf]] ataques.</p>"
+              "description": "<p>El yuan-ti realiza dos ataques con [[/item .wsHnC3KMwEYVdmQf]]{cimitarra}.</p>"
             },
             "wsHnC3KMwEYVdmQf": {
               "name": "Cimitarra",
@@ -12485,56 +12485,56 @@
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>"
             },
             "LdNozNpDDi4xEbpa": {
-              "name": "Difusión de conjuros innatos",
-              "description": "<p>La habilidad de hechicería del yuan-ti es Carisma (salva CD 12). El yuan-ti puede lanzar innatamente los siguientes conjuros, sin necesidad de componentes materiales:</p><p>A discreción: <em>[[/item .hmObqoJ8nq1t58jU]]{amistad animal} </em>(serpientes solamente)</p><p>3/día cada uno: <em>[[/item .dew9nrCeLSbWBeqw]]{rociado con veneno}, [[/item .y0ifqt34V98ohmdj]]{sugerencia}</em></p>",
+              "name": "Lanzamiento de Conjuros Innato",
+              "description": "<p>La aptitud mágica del yuan-ti es Carisma (salvación de conjuros CD 12). Puede lanzar de forma innata los siguientes conjuros sin componentes materiales:</p><p>A voluntad: <em>[[/item .hmObqoJ8nq1t58jU]]{encantar animal} </em>(solo serpientes)</p><p>3/día cada uno: <em>[[/item .dew9nrCeLSbWBeqw]]{rociada venenosa}, [[/item .y0ifqt34V98ohmdj]]{sugestión}</em></p>",
               "activities": {
                 "WWD23H48PC9lsxYZ": {
-                  "name": "Amistad animal"
+                  "name": "Encantar animal"
                 },
                 "3ZBzwsSKshymMoYf": {
                   "name": "Rociada venenosa"
                 },
                 "yShp2HbCMF589DVK": {
-                  "name": "Sugerencias"
+                  "name": "Sugestión"
                 }
               }
             },
             "V6ksssEoJ2nKOt2b": {
-              "name": "Resistencia mágica",
-              "description": "<p>El yuan-ti tiene ventaja en los lanzamientos de ahorro contra conjuros y otros efectos mágicos.</p>"
+              "name": "Resistencia Mágica",
+              "description": "<p>El yuan-ti tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.</p>"
             },
             "hmObqoJ8nq1t58jU": {
-              "name": "Amistad animal",
-              "description": "<p>Este conjuro te permite convencer a una bestia de que no quieres hacerle daño. Elija una bestia que se puede ver dentro del rango. Debe verte y oírte. Si la Inteligencia de la bestia es 4 o superior, el conjuro falla. De lo contrario, la bestia debe tener éxito en un lanzamiento de la Sabiduría que salva o ser encantada por usted durante la duración del conjuro. Si usted o uno de sus compañeros dañan al objetivo, el conjuro termina.</p><p><strong>En los niveles superiores.</strong> Al lanzar este conjuro usando una espacio de conjuro de 2o nivel o superior, puede afectar a una bestia adicional por cada nivel de ranura por encima de 1o.</p>",
+              "name": "Encantar animal",
+              "description": "<p>Este conjuro te permite convencer a una bestia de que no pretendes dañarla. Elige una bestia que puedas ver dentro del alcance. Debe poder verte y oírte. Si su Inteligencia es 4 o superior, el conjuro falla. En caso contrario, debe superar una tirada de salvación de Sabiduría o quedar hechizada por ti durante el conjuro. Si tú o uno de tus compañeros dañáis al objetivo, el conjuro termina.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro usando un espacio de nivel 2 o superior, puedes afectar a una bestia adicional por cada nivel del espacio por encima de 1.</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             },
             "dew9nrCeLSbWBeqw": {
               "name": "Rociada venenosa",
-              "description": "<p>Extiendes tu mano hacia una criatura que puedes ver dentro de tu alcance y proyectar un soplo de gas nocivo desde tu palma. La criatura debe tener éxito en un lanzamiento de ahorro Constitución o tomar 1d12 daño venenoso.</p><p>El daño de este conjuro aumenta en 1d12 cuando alcanzas el 5o nivel (2d12), 11o nivel (3d12) y 17o nivel (4d12).</p>",
+              "description": "<p>Extiendes la mano hacia una criatura que puedas ver dentro del alcance y proyectas una nube de gas nocivo desde la palma. La criatura debe superar una tirada de salvación de Constitución o sufrir 1d12 de daño de veneno.</p><p>El daño de este conjuro aumenta en 1d12 cuando alcanzas el nivel 5 (2d12), el nivel 11 (3d12) y el nivel 17 (4d12).</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             },
             "y0ifqt34V98ohmdj": {
-              "name": "Sugerencias",
-              "description": "<p>Sugiere un curso de actividad (limitado a una o dos frases) e influencia mágicamente a una criatura que puede ver dentro del rango que puede oír y entender. Las criaturas que no pueden ser encantadas son inmunes a este efecto. La sugerencia debe redactarse de manera que el curso de acción sea razonable. Pedir a la criatura que se apuñale a sí misma, que se lance sobre una lanza, que se inmole a sí misma, o que haga algún otro acto obviamente dañino termina el conjuro.</p><p>El objetivo debe hacer un lanzamiento de ahorro de sabiduría. En una salvada fallida, persigue el curso de acción que usted describió a lo mejor de su capacidad. El curso de acción sugerido puede continuar durante todo el tiempo. Si la actividad sugerida se puede completar en un tiempo más corto, el conjuro termina cuando el sujeto termina lo que se le pidió que hiciera.</p><p>También puede especificar las condiciones que desencadenarán una actividad especial durante la duración. Por ejemplo, podrías sugerir que un caballero le dé su caballo de guerra al primer mendigo que conozca. Si la condición no se cumple antes de que expire el conjuro, la actividad no se realiza.</p><p>Si usted o alguno de sus compañeros dañan el objetivo, el conjuro termina.</p>",
+              "name": "Sugestión",
+              "description": "<p>Sugieres una conducta, expresada en una o dos frases, e influyes mágicamente en una criatura que puedas ver dentro del alcance y que pueda oírte y entenderte. Las criaturas que no pueden ser hechizadas son inmunes a este efecto. Debes formular la sugerencia de modo que la conducta parezca razonable. Pedirle que se apuñale, se arroje sobre una lanza, se prenda fuego o haga algo evidentemente perjudicial termina el conjuro.</p><p>El objetivo debe realizar una tirada de salvación de Sabiduría. Si falla, sigue la conducta que has descrito lo mejor que puede. Puede hacerlo durante todo el conjuro. Si la tarea puede completarse antes, el conjuro termina cuando el objetivo acaba lo que le has pedido.</p><p>También puedes establecer condiciones que desencadenen una conducta específica mientras dure el conjuro. Por ejemplo, puedes sugerir a una caballera que entregue su caballo de guerra al primer mendigo que encuentre. Si la condición no se cumple antes de que termine el conjuro, no realiza esa acción.</p><p>Si tú o cualquiera de tus compañeros causáis daño al objetivo, el conjuro termina.</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             }
           },
           "name": "Soakosh",
-          "creatureSubtype": "Yuan-Ti",
+          "creatureSubtype": "Yuan-ti",
           "tokenName": "Soakosh",
-          "biography": "<p>Las sangres puras forman la casta más baja de la sociedad yuan-ti. Se asemejan mucho a los humanos, pero una sangre pura no puede pasar por el ser humano bajo escrutinio debido a que siempre hay algún indicio de su verdadera naturaleza, como manchas escamosas de piel, ojos serpentinos, dientes puntiagudos o una lengua bifurcada. Usando mantos y capuchas, se disfrazan de humanos e infiltran en tierras civilizadas para reunir información, secuestrar prisioneros para ser interrogados y sacrificados, y comercian con cualquiera que tenga algo que pueda hacer avanzar sus miles de complots.</p><p><em><strong>Abandonada la humanidad</strong></em>. Los yuan-ti fueron una vez humanos que prosperaron en los primeros días de la civilización y adoraron serpientes como animales tótem. Alababan la sinuosa flexibilidad de la serpiente, su equilibrio calculado y su golpe mortal. Su filosofía avanzada enseñaba la virtud del desapego de la emoción y del pensamiento claro y enfocado.</p><p>La cultura Yuan-ti estaba entre las más ricas del mundo mortal. Sus guerreros eran legendarios, sus imperios siempre expandiéndose. Los templos Yuan-ti estaban en los centros de las antiguas metrópolis, llegando cada vez más alto en oración a los dioses que deseaban emular. Con el tiempo, los dioses serpiente escucharon esas oraciones, sus voces sibilantes respondiendo de la oscuridad mientras decían al yuan-ti lo que debían hacer. La religión yuan-ti se volvió más fanática en su devoción. Los cultos se ataron a la adoración de los dioses de las serpientes e imitaron sus caminos, complaciendo en el canibalismo y el sacrificio humanoide. A través de la hechicería inmunda, los yuan-ti criados con serpientes, sacrifican totalmente su humanidad para convertirse en dioses de serpientes en forma, así como en pensamiento y emoción.</p><p><em><strong>Serpientes reyes de los imperios caídos</strong></em>. Los yuan-ti ven su transformación física como un momento trascendente para su raza, permitiéndoles despojarse de su frágil humanidad como piel muerta. Aquellos que no se transformaron finalmente se convirtieron en esclavos o alimento para los benditos de los dioses serpiente. Los imperios yuan-ti se marchitaron o fueron derrotados por aquellos que lucharon contra su canibalismo y esclavitud, y la gente de las serpientes quedaron en las ruinas de sus grandes capitales, lejos de otras razas.</p><p><em><strong>Frío de corazón</strong></em>. Las emociones humanoides son extrañas a la mayoría de los yuan-ti, que entienden el sentimiento sólo como una debilidad explotable. Un yuan-ti ve el mundo y los acontecimientos de su propia vida con un pragmatismo tan extremo que es casi imposible manipular, influir o controlar por medios no mágicos, incluso cuando busca controlar a otras criaturas a través del terror, el placer y el asombro.</p><p>Yuan-ti sabe que el mundo que esperan gobernar no puede ser atado por mucho tiempo por la fuerza bruta, y que muchas criaturas se negarán a servir. Como resultado, el yuan-ti primero influencia a otras criaturas con la promesa de riqueza y poder. Una y otra vez, las culturas humanoides cometen el error fatal de confiar en el yuan-ti. Olvidan que un yuan-ti que actúa honorablemente o presta ayuda en un momento de problemas lo hace sólo como parte de un diseño más grande.</p><p>Los líderes Yuan-ti son astutos y despiadados tácticos que fácilmente sacrifican el yuan-ti menor si la victoria potencial justifica tales pérdidas. No tienen sentido de combate honorable y atacar primero en una emboscada decisiva si pueden.</p><p><em><strong>Adoración falsa</strong></em>. La vida Yuan-ti gira alrededor de sus templos, pero yuan-ti no ama a los dioses que adoran. En cambio, ven la adoración como un medio para alcanzar el poder. Un yuan-ti cree que un individuo que alcanza suficiente poder puede devorar y reemplazar a uno de los dioses yuan-ti. Los yuan-ti se esfuerzan por la ascensión y están dispuestos a cometer las atrocidades más oscuras para lograrlo.</p>"
+          "biography": "<p>Los purasangre forman la casta más baja de la sociedad yuan-ti. Se parecen mucho a los humanos, pero no pueden hacerse pasar por ellos ante un examen minucioso: siempre hay algún indicio de su verdadera naturaleza, como zonas de piel escamosa, ojos de serpiente, dientes puntiagudos o una lengua bífida. Ocultos bajo capas y capuchas, se hacen pasar por humanos y se infiltran en tierras civilizadas para reunir información, secuestrar prisioneros a los que interrogar y sacrificar, y comerciar con cualquiera que posea algo útil para sus innumerables planes.</p><p><em><strong>Humanidad abandonada</strong></em>. Los yuan-ti fueron humanos que prosperaron en los albores de la civilización y adoraban a las serpientes como animales totémicos. Admiraban su flexibilidad sinuosa, su aplomo calculado y su ataque mortal. Su avanzada filosofía enseñaba las virtudes de desprenderse de las emociones y pensar con claridad y concentración.</p><p>La cultura yuan-ti era una de las más ricas del mundo mortal. Sus guerreros eran legendarios y sus imperios no dejaban de expandirse. Sus templos se alzaban en el centro de antiguas metrópolis, cada vez más altos, como plegarias a los dioses que ansiaban emular. Con el tiempo, los dioses serpiente escucharon esas plegarias y respondieron desde la oscuridad con voces sibilantes, diciéndoles lo que debían hacer. La devoción de la religión yuan-ti se volvió más fanática. Sus cultos se consagraron a los dioses serpiente e imitaron sus costumbres, practicando el canibalismo y los sacrificios de humanoides. Mediante hechicería abominable, los yuan-ti se cruzaron con serpientes y sacrificaron por completo su humanidad para parecerse a sus dioses tanto en su forma como en sus pensamientos y emociones.</p><p><em><strong>Reyes serpiente de imperios caídos</strong></em>. Los yuan-ti consideran su transformación física un momento trascendental para su raza, que les permitió desprenderse de su frágil humanidad como de una piel muerta. Quienes no se transformaron acabaron convertidos en esclavos o alimento de los bendecidos por los dioses serpiente. Los imperios yuan-ti se marchitaron o fueron derrotados por quienes combatían su canibalismo y esclavitud, y el pueblo serpiente quedó en las ruinas de sus grandes capitales, lejos de las demás razas.</p><p><em><strong>Corazón frío</strong></em>. Las emociones humanoides son ajenas a la mayoría de los yuan-ti, que solo las entienden como una debilidad que explotar. Un yuan-ti contempla el mundo y los acontecimientos de su vida con un pragmatismo tan extremo que resulta casi imposible manipularlo, influir en él o controlarlo por medios no mágicos, aunque él trate de controlar a otras criaturas mediante el terror, el placer y la reverencia.</p><p>Los yuan-ti saben que no pueden someter durante mucho tiempo por la fuerza bruta al mundo que desean gobernar, y que muchas criaturas se negarán a servirles. Por ello, primero influyen en ellas con promesas de riqueza y poder. Una y otra vez, las culturas humanoides cometen el error fatal de confiar en los yuan-ti. Olvidan que un yuan-ti que actúa con honor o presta ayuda en un momento difícil solo lo hace como parte de un plan mayor.</p><p>Los líderes yuan-ti son estrategas astutos y despiadados que sacrifican sin vacilar a yuan-ti de menor rango si una posible victoria justifica las pérdidas. No tienen ningún sentido del combate honorable y, si pueden, atacan primero con una emboscada decisiva.</p><p><em><strong>Adoración falsa</strong></em>. La vida yuan-ti gira en torno a sus templos, pero no aman a los dioses que adoran. Consideran el culto un medio para obtener poder. Un yuan-ti cree que quien alcance suficiente poder podrá devorar y reemplazar a uno de sus dioses. Aspiran a esa ascensión y están dispuestos a cometer las atrocidades más oscuras para conseguirla.</p>"
         },
         "toaSummerwise000": {
           "alignment": "Neutral bueno",
