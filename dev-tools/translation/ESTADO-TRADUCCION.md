@@ -1895,6 +1895,20 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Quedan revisados los textos no vacíos de ambas fichas. Sus biografías ya
   estaban revisadas y no se vuelven a contabilizar en este bloque.
 
+### appendix-d-artus-equipment — Artus Cimber: equipo y artefacto
+
+- Revisados 82 campos de las dos copias de Artus: equipo, ataques,
+  Marcapáginas y Anillo del Invierno. Referencias físicas 207–209 y 212–213.
+- Conservadas las temperaturas en Fahrenheit del exportado. La actividad
+  de creación de objetos se denomina «Objeto inanimado de hielo», de acuerdo
+  con su descripción; el nombre inglés del compendio decía «Animated».
+- Las dos copias tienen diferencias de referencias internas y HTML que se
+  han conservado. En el compendio, el rasgo Anillo del Invierno enlaza a
+  `tAb7LaJZ0sNC1J0r`, mientras que Adventure enlaza al objeto presente
+  `4eRoie5xcnKklzmK`. Equipo Especial apunta a `sL2AvID05bmeUbdH`, que no
+  figura entre los objetos de Artus. Quedan anotados para reparación funcional.
+- Los conjuros se revisan en un bloque separado; la biografía ya estaba revisada.
+
 ## Balance de revisión editorial
 
 - 802 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -1902,8 +1916,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
   del capítulo 4, 126 del capítulo 5 y 197 de los apéndices A, B, C, D y F.
   No equivale a 802 páginas del PDF.
-- 5119 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 5119 campos distintos.
+- 5201 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 5201 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas cincuenta y cinco biografías en ambas copias de actores: siete
   príncipes y cuarenta y ocho criaturas o PNJ del apéndice D. Siguen pendientes las demás
