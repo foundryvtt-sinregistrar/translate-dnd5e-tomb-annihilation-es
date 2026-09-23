@@ -1258,6 +1258,20 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   tablas que sincronizar en este exportado.
 - Auditorías técnica y editorial sin errores.
 
+### appendix-c-flora-01 a appendix-c-flora-08 — Fichas de flora y fauna
+
+- Revisados los 34 campos textuales de ocho objetos: descripciones, nombres,
+  actividades y efectos, contra la referencia física 206 y el exportado inglés.
+- Conservados dosis, caducidad, repetición de salvaciones y límites de uso.
+  La nota de sinda explica que las bayas se contabilizan mediante usos máximos.
+- Verificada la actividad de ryath: el comando contextual `[[/heal]]` usa
+  2d4 PG temporales. Su falta de cifra explícita no implica una curación ordinaria.
+- Yahcha trata fiebre de la bruma azul en el original actualizado; se mantiene
+  frente a fiebre del mono loco en el PDF, como en el capítulo 2 revisado.
+- `Adventure.items` está vacío: no contiene copias directas de estos objetos.
+  Los objetos dentro de actores o deltas de fichas requieren revisión separada.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
 - 626 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -1265,8 +1279,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
   del capítulo 4, 126 del capítulo 5 y 21 de los apéndices A y C.
   No equivale a 626 páginas del PDF.
-- 1392 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1392 campos distintos.
+- 1426 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1426 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz

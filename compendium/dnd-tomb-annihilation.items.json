@@ -1364,33 +1364,33 @@
     "toafafDancingMon": {
       "activities": {
         "jDxr1FjmYsGhuRdZ": {
-          "name": "Come."
+          "name": "Comer"
         }
       },
-      "name": "Fruta del mono de baile",
-      "description": "<p>Esta rara fruta mágica produce suficiente jugo para llenar un vial. Cualquier humanoide que coma una fruta de mono bailando o beba su jugo debe tener éxito en un lanzamiento de ahorro de la Constitución CD 14 o comenzar un baile cómico que dure 1 minuto. Los humanoides que no pueden ser envenenados son inmunes a este efecto mágico.</p><p>El bailarín debe utilizar todo su movimiento para bailar sin dejar su espacio y tiene desventaja en los rollos de ataque y lanzamientos de ahorro de Dexterity, y otras criaturas tienen ventaja en los rollos de ataque contra él. Cada vez que toma daño, el bailarín puede repetir el [[/save con dc=14]]{tirada de salvación}, poniendo fin al efecto en sí mismo en un éxito. Cuando el efecto de baile termina, el humanoide sufre el &amp;Reference[poisoned] condición durante 1 hora.</p>",
+      "name": "Fruta del mono bailongo",
+      "description": "<p>Esta rara fruta mágica produce zumo suficiente para llenar un vial. Un humanoide que la coma o beba su zumo debe superar una salvación de Constitución CD 14 o empezar un baile cómico durante 1 minuto. Los humanoides inmunes al estado envenenado no sufren este efecto.</p><p>El bailarín debe gastar todo su movimiento en bailar sin salir de su espacio. Tiene desventaja en ataques y salvaciones de Destreza, y los demás tienen ventaja al atacarlo. Cada vez que reciba daño puede repetir la [[/save con dc=14]]{salvación}; si la supera, el baile termina. Después sufre el estado &amp;Reference[poisoned] durante 1 hora.</p>",
       "effects": {
         "E7dJ1E24cdiKVcsZ": {
-          "name": "Bailar",
-          "description": "<p>El bailarín debe utilizar todo su movimiento para bailar sin dejar su espacio y tiene desventaja en los rollos de ataque y lanzamientos de ahorro de Dexterity, y otras criaturas tienen ventaja en los rollos de ataque contra él. </p><p>Cada vez que toma daño, el bailarín puede repetir el [[/save con dc=14]]{tirada de salvación}, poniendo fin al efecto en sí mismo en un éxito. </p><p>Cuando el efecto de baile termina, el humanoide sufre el &amp;Reference[poisoned] condición durante 1 hora.</p>"
+          "name": "Bailando",
+          "description": "<p>Debes gastar todo tu movimiento en bailar sin salir de tu espacio. Tienes desventaja en ataques y salvaciones de Destreza, y los demás tienen ventaja al atacarte.</p><p>Cada vez que recibas daño puedes repetir la [[/save con dc=14]]{salvación}; si la superas, el baile termina.</p><p>Después sufres el estado &amp;Reference[poisoned] durante 1 hora.</p>"
         }
       }
     },
     "toafafMengaLeave": {
-      "name": "Hojas de Menga (1 oz)",
-      "description": "<p>Las hojas secas de un arbusto de menga pueden ser molidas, disueltas en un líquido, calentadas e ingeridas. Una criatura que ingiere 1 onza de menga deja de esta manera recupera 1 punto de impacto. Una criatura que ingiere más de 5 onzas de menga deja en un período de 24 horas no gana ningún beneficio adicional y debe tener éxito en un [[/save con dc=11 format=long]] o caída &amp;Reference[unconscious] durante 1 hora. La criatura inconsciente se despierta si toma al menos 5 daños en un giro.</p><p>Un arbusto de menga saludable por lo general tiene [[/gmr 2d6#Ounces of Menga leaves]] onzas de hojas. Una vez recolectadas, las hojas requieren 1 día para secarse antes de que puedan conferir algún beneficio.</p>",
+      "name": "Hojas de menga (1 onza)",
+      "description": "<p>Las hojas secas de menga pueden molerse, disolverse en líquido, calentarse e ingerirse. Consumir 1 onza preparada así permite recuperar 1 punto de golpe. Consumir más de 5 onzas en 24 horas no aporta más beneficio y exige superar una [[/save con dc=11 format=long]] o quedar &amp;Reference[unconscious] durante 1 hora. La criatura despierta si recibe al menos 5 de daño en un solo turno.</p><p>Un arbusto sano suele tener [[/gmr 2d6#Ounces of Menga leaves]] onzas de hojas. Tras recogerlas, deben secarse durante 1 día antes de aportar beneficios.</p>",
       "activities": {
         "63kINMQ58FvYuw4R": {
-          "name": "Ingestión"
+          "name": "Ingerir"
         }
       }
     },
     "toafafRyathRoot0": {
-      "name": "Raíz de Ryath",
-      "description": "<p>Cualquier criatura que ingiere una raíz riath gana [[/heal]]. Una criatura que consume más de una raíz de ryath en un período de 24 horas debe tener éxito en un [[/save con dc=13 format=long]] o sufrir la &amp;Reference[poisoned] condición durante 1 hora.</p>",
+      "name": "Raíz de ryath",
+      "description": "<p>Una criatura que ingiera una raíz de ryath obtiene [[/heal]]. Si consume más de una en 24 horas, debe superar una [[/save con dc=13 format=long]] o sufrir el estado &amp;Reference[poisoned] durante 1 hora.</p>",
       "activities": {
         "tDivUUq8gFpOTeJQ": {
-          "name": "Ingestión"
+          "name": "Ingerir"
         }
       },
       "effects": {
@@ -1400,8 +1400,8 @@
       }
     },
     "toafafSindaBerri": {
-      "name": "Berries Sinda (Cluster)",
-      "description": "<p>Estas bayas son de color marrón oscuro y amargo. Un arbusto de bayas sinda madura tiene [[/gmr 4d6#Berries]] Crecen bayas en ella. Un arbusto arrancado de todas sus bayas crece nuevas bayas en [[/gmr 1d4#Regrowth time (Months)]] meses. Las bayas recogidas pierden su frescura y eficacia después de 24 horas.</p><p>Las bayas frescas de sinda se pueden comer crudas o machacadas y añadir a una bebida para embotar la amargura. Una criatura que consume por lo menos diez bayas frescas de sinda gana ventaja en el ahorro lanza contra la enfermedad y el veneno durante las próximas 24 horas.</p><section id=\"secret-AO3YCoLHzHcSxlJr\" class=\"secret\"><p><strong>Nota de Foundry</strong></p><p>El número máximo de usos de este artículo, en lugar de su cantidad, se utiliza para rastrear el número de bayas disponibles para cantidades de consumo variables. Ha sido preestablecido con el <em>mínimo</em> número de bayas encontradas en un arbusto.</p></section>",
+      "name": "Bayas de sinda (racimo)",
+      "description": "<p>Estas bayas son amargas y de color marrón oscuro. Un arbusto adulto tiene [[/gmr 4d6#Berries]] bayas. Si se recogen todas, vuelven a crecer en [[/gmr 1d4#Regrowth time (Months)]] meses. Las bayas recogidas pierden frescura y eficacia tras 24 horas.</p><p>Pueden comerse crudas o triturarse y añadirse a una bebida para suavizar su amargor. Consumir al menos diez bayas frescas concede ventaja en salvaciones contra enfermedades y veneno durante las siguientes 24 horas.</p><section id=\"secret-AO3YCoLHzHcSxlJr\" class=\"secret\"><p><strong>Nota de Foundry</strong></p><p>El número máximo de usos del objeto registra las bayas disponibles para consumir distintas cantidades. No se usa la cantidad de objetos del inventario. El valor inicial es el número <em>mínimo</em> de bayas de un arbusto.</p></section>",
       "activities": {
         "hQTvOU6yHISAMCyh": {
           "name": "Consumir"
@@ -1409,29 +1409,29 @@
       },
       "effects": {
         "VROr4nfSsaixVjGC": {
-          "name": "Enfermedad y Resiliencia Venenosa",
-          "description": "<p>Una criatura que consume por lo menos diez bayas frescas de sinda gana ventaja en el ahorro lanza contra la enfermedad y el veneno durante las próximas 24 horas.</p>"
+          "name": "Resistencia a enfermedades y veneno",
+          "description": "<p>Consumir al menos diez bayas de sinda frescas concede ventaja en salvaciones contra enfermedades y veneno durante las siguientes 24 horas.</p>"
         }
       }
     },
     "toafafWildroot00": {
       "name": "Raíz silvestre",
-      "description": "<p>Introducir el jugo de una raíz silvestre en el torrente sanguíneo de una criatura envenenada (por ejemplo, frotándolo en una herida abierta) libera a la criatura del &amp;Reference[poisoned] afección. Una vez utilizado de esta manera, una raíz salvaje pierde esta propiedad.</p>",
+      "description": "<p>Introducir el zumo de una raíz silvestre en el torrente sanguíneo de una criatura envenenada, por ejemplo frotando una herida abierta, elimina el estado &amp;Reference[poisoned]. La raíz pierde esta propiedad tras usarse una vez.</p>",
       "activities": {
         "pcRUz1uPw35aoR9d": {
-          "name": "Aplicar jugo"
+          "name": "Aplicar zumo"
         }
       }
     },
     "toafafWukkaNuts0": {
-      "name": "Nueces Wukka",
-      "description": "<p>Estas nueces de tamaño puño crecen en los árboles de wukka, que son lugares populares para jaculi, su-monstruos, y zorbos. Una nuez wukka vibra cuando se agita, haciendo que su caparazón derrame luz brillante en un radio de 10 pies y luz tenue por otros 10 pies. Esta luz mágica se desvanece después de 1 minuto, pero sacudiendo la nuez de nuevo hace que la luz reaparezca. Si la cáscara de la nuez se abre, pierde su magia.</p>",
+      "name": "Frutos secos wukka",
+      "description": "<p>Estos frutos del tamaño de un puño crecen en árboles wukka, frecuentados por jaculis, sucarates y zorbos. Al agitar uno, traquetea y su cáscara emite luz brillante en un radio de 10 pies y tenue otros 10 pies. La luz mágica desaparece tras 1 minuto, pero vuelve al agitarlo de nuevo. Si se rompe la cáscara, pierde su magia.</p>",
       "activities": {
         "w93fi5AAZ3TnlZrH": {
           "name": "Agitar",
           "target": {
             "affects": {
-              "special": "la nuez de wukka"
+              "special": "el fruto seco wukka"
             }
           }
         }
@@ -1439,13 +1439,13 @@
       "effects": {
         "exaZTi4l8D5fMA43": {
           "name": "Iluminado",
-          "description": "<p>La cáscara de nuez de wukka arroja luz brillante en un radio de 10 pies y luz tenue por otros 10 pies. Esta luz mágica se desvanece después de 1 minuto,</p>"
+          "description": "<p>La cáscara del fruto seco wukka emite luz brillante en un radio de 10 pies y tenue otros 10 pies. La luz mágica desaparece tras 1 minuto.</p>"
         }
       }
     },
     "toafafYahcha0000": {
       "name": "Yahcha",
-      "description": "<p>Un yahcha (pronunciado YAH-chah) es un inofensivo escarabajo carnoso del tamaño de una mano humana, que se alimenta de gusanos y gusanos. Se mueve lentamente (velocidad de marcha 10 pies) y es fácil de atrapar. Una criatura con @UUID[JournalEntry.toaCh2TheLandOfC.JournalEntryPage.cAVQlvTQ3y2Unkni]{fiebre de niebla azul} que come un yahcha crudo o cocido puede hacer inmediatamente un tiro ahorro con ventaja contra esa enfermedad (ver “@UUID[JournalEntry.toaCh2TheLandOfC.JournalEntryPage.q88gNSLatuxyV9Yg]{Enfermedades}”).</p>",
+      "description": "<p>Un yahcha (pronunciado «yacha») es un escarabajo carnoso e inofensivo del tamaño de una mano humana que come gusanos y larvas. Se mueve despacio, con velocidad caminando de 10 pies, y es fácil de atrapar. Una criatura con @UUID[JournalEntry.toaCh2TheLandOfC.JournalEntryPage.cAVQlvTQ3y2Unkni]{fiebre de la bruma azul} que coma uno crudo o cocinado puede hacer inmediatamente una salvación con ventaja contra esa enfermedad (consulta «@UUID[JournalEntry.toaCh2TheLandOfC.JournalEntryPage.q88gNSLatuxyV9Yg]{Enfermedades}»).</p>",
       "activities": {
         "MeaKF8lGJpEsRbv2": {
           "name": "Consumir"
@@ -1454,7 +1454,7 @@
     },
     "toafafZabou00000": {
       "name": "Zabou",
-      "description": "<p>Las setas zabúes se alimentan de despojos y la madera podrida de árboles muertos. Si se maneja con cuidado, un zabou puede ser recogido o desarraigado sin hacer que libere sus esporas. </p><p>Si se aplasta o golpea, un zabou libera sus esporas en una esfera de 10 pies de radio. Un zabou también se puede lanzar hasta 30 pies de distancia o caer como una granada, liberando su nube de esporas en el impacto. Cualquier criatura en esa área debe tener éxito en un lanzamiento de ahorro de la Constitución CD 10 o &amp;Reference[poisoned apply=false] durante 1 minuto. </p><p>La piel de la criatura envenenada pica durante todo el tiempo. La criatura puede repetir el lanzamiento de ahorro al final de cada uno de sus giros, terminando con el efecto en sí misma en un éxito.</p>",
+      "description": "<p>Los hongos zabou se alimentan de despojos y madera podrida. Si se manipulan con cuidado, pueden recogerse o arrancarse sin que liberen esporas.</p><p>Al aplastarse o recibir un golpe, liberan esporas en una esfera de 10 pies de radio. También pueden arrojarse hasta 30 pies o dejarse caer como granadas: la nube se libera al impactar. Toda criatura en la zona debe superar una salvación de Constitución CD 10 o quedar &amp;Reference[poisoned apply=false] durante 1 minuto.</p><p>Mientras dure el efecto, le pica la piel. Puede repetir la salvación al final de cada uno de sus turnos y terminar el efecto si la supera.</p>",
       "activities": {
         "0bRqHoSC3Q28McXo": {
           "name": "Lanzar"
@@ -1463,7 +1463,7 @@
       "effects": {
         "SgBBv2vqTUflQGsb": {
           "name": "Envenenado",
-          "description": "<p>Los &amp;Reference[poisoned apply=false] la piel de la criatura pica durante todo el tiempo. La criatura puede repetir el [[/save con dc=10]]{tirada de salvación} al final de cada uno de sus turnos, poniendo fin al efecto en sí mismo en un éxito.</p>"
+          "description": "<p>A la criatura &amp;Reference[poisoned apply=false] le pica la piel. Puede repetir la [[/save con dc=10]]{salvación} al final de cada uno de sus turnos y terminar el efecto si la supera.</p>"
         }
       }
     },
