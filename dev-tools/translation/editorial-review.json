@@ -121697,6 +121697,1648 @@
           "note": "Generic spellcaster profile reviewed against the English export. Spell lists checked against embedded item IDs and names; identical previously reviewed spell descriptions reused with token, number and HTML checks."
         }
       ]
+    },
+    {
+      "id": "additional-undead-corporeal-1JNpwd6CIk7lJyvv",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.actors.1JNpwd6CIk7lJyvv.name",
+          "sourceSha256": "fc4ee2bc3d9a8d0613bec814211a69d4823db3c465fc4899a78be6f132a1182b",
+          "translationSha256": "48db0c83160cdf38f3eaf930dda7db7897491c644997293dc6fced17c0be6395",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.1JNpwd6CIk7lJyvv.alignment",
+          "sourceSha256": "7b682d92b448b2a31cbabff84445a68defb470567fbdd7a03edbb06a398e2c2d",
+          "translationSha256": "a38c6bd2ae2507e8a8abbe1f1a6e6127ec287563485b53e60066990d09b68701",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.1JNpwd6CIk7lJyvv.languages",
+          "sourceSha256": "f5d7be7270a43e4246311cb60c82ec6b465cbbb3161ae3a0ae1b9baa8b898443",
+          "translationSha256": "e03c37f3df8b31c3ce52638b673c23c8835d6353f80d685470c2bfffd500ca72",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.1JNpwd6CIk7lJyvv.tokenName",
+          "sourceSha256": "fc4ee2bc3d9a8d0613bec814211a69d4823db3c465fc4899a78be6f132a1182b",
+          "translationSha256": "48db0c83160cdf38f3eaf930dda7db7897491c644997293dc6fced17c0be6395",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.1JNpwd6CIk7lJyvv.biography",
+          "sourceSha256": "005ea83779c9757f66198e442b3974d1b9644098f09fe20d516e44b7b0697302",
+          "translationSha256": "13449ca5b377e53eed4ec882e9de4fdadb921a78a531289fbf79e3a63a220ce5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.1JNpwd6CIk7lJyvv.items.p7R5kkqAVQFKClRm.name",
+          "sourceSha256": "ff9f88ce353a222860a9f826971a2b2ee3da6b06c696d67537285890506d4bda",
+          "translationSha256": "5f52e2cbc0557eb83a8bef36eb37f2976d669f0c9f8e1318a16dd5beab943318",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.1JNpwd6CIk7lJyvv.items.p7R5kkqAVQFKClRm.description",
+          "sourceSha256": "6cc200468a41f8fefccb79a21aea20bb772c15f96b9108d92e541ff10611ce3f",
+          "translationSha256": "e47e4c4a25126be33973d176932617d405cbb3973283fcffb9e2c0238148ed07",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.1JNpwd6CIk7lJyvv.items.p7R5kkqAVQFKClRm.descriptionChat",
+          "sourceSha256": "3520c37dc807a18ade4d8d2dc4ef278197636ff2754187029e84d46e05f12e9b",
+          "translationSha256": "8d5e4f837f14f54c818c4c562da5593dae181b312049dd193c434fca45ee3fc5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.1JNpwd6CIk7lJyvv.items.p7R5kkqAVQFKClRm.effects.QhbrrQZdkgTEynxO.name",
+          "sourceSha256": "4d99dff1fb964110812ea0fbf1dbb836fec22cd3148c5f304feec35c969e88f4",
+          "translationSha256": "57a0476b623a625adddbb16d55bd8aad17dbc18ea4c10388b005588da4fe9143",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.1JNpwd6CIk7lJyvv.items.p7R5kkqAVQFKClRm.effects.QhbrrQZdkgTEynxO.description",
+          "sourceSha256": "b7711ecb32d5c44b44298488af6e0a36463b459e92ed9a08a85faf2186da6f8c",
+          "translationSha256": "c0d1f2e8368a353c85a20f04e4bc65ac53f56e7e9d1498b080514191b6eb0fd7",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.1JNpwd6CIk7lJyvv.items.vJAkNKhTmRrz6Zoq.name",
+          "sourceSha256": "3aa43814074135e874dc707465bc80f21088f8eae03ac5d57b3375baf1d6ff63",
+          "translationSha256": "ac1e34b6bf423aed3d98febadf09be3cf077dbb7501690529da9e1ba489ad9e2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.1JNpwd6CIk7lJyvv.items.vJAkNKhTmRrz6Zoq.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.1JNpwd6CIk7lJyvv.items.vJAkNKhTmRrz6Zoq.descriptionChat",
+          "sourceSha256": "040067a7ce8159e3aeea76a87ff94bb925b6c2c7a10163e71d731da4359f20da",
+          "translationSha256": "7b9ced3e7bfcf7b9613e767e18a55c01a7a9a61a5128f80366b57c5896507e6f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.1JNpwd6CIk7lJyvv.items.3Fsct4zbAf7l47Lp.name",
+          "sourceSha256": "ed9b9b7668dfdab99b5b397971427466df7fb0e7f0bccb2f4bfdb143a75f813f",
+          "translationSha256": "6035453d55c44a8597e885d999c7aacea537df71eba43fde4fceb27e4f60c407",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.1JNpwd6CIk7lJyvv.items.3Fsct4zbAf7l47Lp.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.1JNpwd6CIk7lJyvv.items.3Fsct4zbAf7l47Lp.descriptionChat",
+          "sourceSha256": "0ae25e8f01ddd1847170c3c0eee04263280390e1f08964d138ad357ce1678f4c",
+          "translationSha256": "c44587627f36e935cb50a6001341503e4e64cf3459da142650a5bb8afd7492dc",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.1JNpwd6CIk7lJyvv.name",
+          "sourceSha256": "fc4ee2bc3d9a8d0613bec814211a69d4823db3c465fc4899a78be6f132a1182b",
+          "translationSha256": "48db0c83160cdf38f3eaf930dda7db7897491c644997293dc6fced17c0be6395",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.1JNpwd6CIk7lJyvv.alignment",
+          "sourceSha256": "7b682d92b448b2a31cbabff84445a68defb470567fbdd7a03edbb06a398e2c2d",
+          "translationSha256": "a38c6bd2ae2507e8a8abbe1f1a6e6127ec287563485b53e60066990d09b68701",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.1JNpwd6CIk7lJyvv.languages",
+          "sourceSha256": "f5d7be7270a43e4246311cb60c82ec6b465cbbb3161ae3a0ae1b9baa8b898443",
+          "translationSha256": "e03c37f3df8b31c3ce52638b673c23c8835d6353f80d685470c2bfffd500ca72",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.1JNpwd6CIk7lJyvv.tokenName",
+          "sourceSha256": "fc4ee2bc3d9a8d0613bec814211a69d4823db3c465fc4899a78be6f132a1182b",
+          "translationSha256": "48db0c83160cdf38f3eaf930dda7db7897491c644997293dc6fced17c0be6395",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.1JNpwd6CIk7lJyvv.biography",
+          "sourceSha256": "005ea83779c9757f66198e442b3974d1b9644098f09fe20d516e44b7b0697302",
+          "translationSha256": "13449ca5b377e53eed4ec882e9de4fdadb921a78a531289fbf79e3a63a220ce5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.1JNpwd6CIk7lJyvv.items.p7R5kkqAVQFKClRm.name",
+          "sourceSha256": "ff9f88ce353a222860a9f826971a2b2ee3da6b06c696d67537285890506d4bda",
+          "translationSha256": "5f52e2cbc0557eb83a8bef36eb37f2976d669f0c9f8e1318a16dd5beab943318",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.1JNpwd6CIk7lJyvv.items.p7R5kkqAVQFKClRm.description",
+          "sourceSha256": "6cc200468a41f8fefccb79a21aea20bb772c15f96b9108d92e541ff10611ce3f",
+          "translationSha256": "e47e4c4a25126be33973d176932617d405cbb3973283fcffb9e2c0238148ed07",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.1JNpwd6CIk7lJyvv.items.p7R5kkqAVQFKClRm.descriptionChat",
+          "sourceSha256": "3520c37dc807a18ade4d8d2dc4ef278197636ff2754187029e84d46e05f12e9b",
+          "translationSha256": "8d5e4f837f14f54c818c4c562da5593dae181b312049dd193c434fca45ee3fc5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.1JNpwd6CIk7lJyvv.items.p7R5kkqAVQFKClRm.effects.QhbrrQZdkgTEynxO.name",
+          "sourceSha256": "4d99dff1fb964110812ea0fbf1dbb836fec22cd3148c5f304feec35c969e88f4",
+          "translationSha256": "57a0476b623a625adddbb16d55bd8aad17dbc18ea4c10388b005588da4fe9143",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.1JNpwd6CIk7lJyvv.items.p7R5kkqAVQFKClRm.effects.QhbrrQZdkgTEynxO.description",
+          "sourceSha256": "b7711ecb32d5c44b44298488af6e0a36463b459e92ed9a08a85faf2186da6f8c",
+          "translationSha256": "c0d1f2e8368a353c85a20f04e4bc65ac53f56e7e9d1498b080514191b6eb0fd7",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.1JNpwd6CIk7lJyvv.items.vJAkNKhTmRrz6Zoq.name",
+          "sourceSha256": "3aa43814074135e874dc707465bc80f21088f8eae03ac5d57b3375baf1d6ff63",
+          "translationSha256": "ac1e34b6bf423aed3d98febadf09be3cf077dbb7501690529da9e1ba489ad9e2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.1JNpwd6CIk7lJyvv.items.vJAkNKhTmRrz6Zoq.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.1JNpwd6CIk7lJyvv.items.vJAkNKhTmRrz6Zoq.descriptionChat",
+          "sourceSha256": "040067a7ce8159e3aeea76a87ff94bb925b6c2c7a10163e71d731da4359f20da",
+          "translationSha256": "7b9ced3e7bfcf7b9613e767e18a55c01a7a9a61a5128f80366b57c5896507e6f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.1JNpwd6CIk7lJyvv.items.3Fsct4zbAf7l47Lp.name",
+          "sourceSha256": "ed9b9b7668dfdab99b5b397971427466df7fb0e7f0bccb2f4bfdb143a75f813f",
+          "translationSha256": "6035453d55c44a8597e885d999c7aacea537df71eba43fde4fceb27e4f60c407",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.1JNpwd6CIk7lJyvv.items.3Fsct4zbAf7l47Lp.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.1JNpwd6CIk7lJyvv.items.3Fsct4zbAf7l47Lp.descriptionChat",
+          "sourceSha256": "0ae25e8f01ddd1847170c3c0eee04263280390e1f08964d138ad357ce1678f4c",
+          "translationSha256": "c44587627f36e935cb50a6001341503e4e64cf3459da142650a5bb8afd7492dc",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        }
+      ]
+    },
+    {
+      "id": "additional-undead-corporeal-2Ml4lRMnJCyxb3yx",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.actors.2Ml4lRMnJCyxb3yx.name",
+          "sourceSha256": "4c876e938c74ff4d6ee0e587623abf3c4a399188742b9318a786b2dd108489ba",
+          "translationSha256": "50bb46620084decbcdc8e3210f1175afe136aaa01ffe90238508725219e08a76",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.2Ml4lRMnJCyxb3yx.alignment",
+          "sourceSha256": "59e74f11c96a77d972cd8ee0520cd97da4055b5a2e859b1c4dd2cfb7ea32f7b3",
+          "translationSha256": "ce158da3dc2aa560ccc970a693b2ad2f8b5b8e6b16edddf5209d728954da7ba8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.2Ml4lRMnJCyxb3yx.languages",
+          "sourceSha256": "7987c4571e9828f9a808641ec66144a482965a52337e5fbcf33ba640dc53b32e",
+          "translationSha256": "391335a45741e58df1cd7565d1cb00d29310e0aea3e2f8de97834d1f3a7bcfa1",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.2Ml4lRMnJCyxb3yx.tokenName",
+          "sourceSha256": "4c876e938c74ff4d6ee0e587623abf3c4a399188742b9318a786b2dd108489ba",
+          "translationSha256": "50bb46620084decbcdc8e3210f1175afe136aaa01ffe90238508725219e08a76",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.2Ml4lRMnJCyxb3yx.biography",
+          "sourceSha256": "b80885e7f4fed95f4c5265a3d6651d8a13a5bf016571ecc548ba1e27bdef8680",
+          "translationSha256": "265e26e71c131cc6729f7796a1b50c2a7a124c24a668ac24d507c1f09efaaabb",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.2Ml4lRMnJCyxb3yx.items.Ed7XgnZu9qRs3qdn.name",
+          "sourceSha256": "5b180dc7cc325d7f3f211dee9f4ea37de9427398fefe1e9eb22ffa313ae843db",
+          "translationSha256": "36c414b395d95481a85ac03b19a3a4d1a315df31a29109e956b55cacaa0db710",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.2Ml4lRMnJCyxb3yx.items.Ed7XgnZu9qRs3qdn.description",
+          "sourceSha256": "371effcec3d2fe21205ba062945ef9da227d4b698efe54f7a77a4717e1c31a3b",
+          "translationSha256": "aaa1b9bd82be77b373364abd623f440edd2b6144c21d86e5df6018e497ddf8ab",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.2Ml4lRMnJCyxb3yx.items.Ed7XgnZu9qRs3qdn.descriptionChat",
+          "sourceSha256": "de582ee80e34e493c97255e823ac66e8f3ef655783ef27ebfe537b386d8c453c",
+          "translationSha256": "ad9a49d697ed826cd240ea3327161614b58fed2d55275f6973a31bba5757b74e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.2Ml4lRMnJCyxb3yx.items.RDeCoZRniQBNq0rX.name",
+          "sourceSha256": "9358edf64fe9987a1d9ea9f73aa874c9c3a8d2c7d8755273f261002e3e952b00",
+          "translationSha256": "c47f6adc952ebb2dd0ec1fe03237ed5d5265ad8c12927352d5123c4b1e70042f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.2Ml4lRMnJCyxb3yx.items.RDeCoZRniQBNq0rX.description",
+          "sourceSha256": "707dcedfb8dac8deeeb389ba29ec8afed86c9678a1187538ba495779fb6c3683",
+          "translationSha256": "015bf182382583517b0628f866e4c862f06dd4857bd104573391edb75f216dda",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.2Ml4lRMnJCyxb3yx.items.RDeCoZRniQBNq0rX.descriptionChat",
+          "sourceSha256": "99ccd2db4b5fa42b47c55dd762b3357b191633fc32e60ec8caf15bddd8830ceb",
+          "translationSha256": "ef060e4462e0523a2b9d3c082e79f4909c83dbdd7c34d16249c459d543bd8e9d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.2Ml4lRMnJCyxb3yx.name",
+          "sourceSha256": "4c876e938c74ff4d6ee0e587623abf3c4a399188742b9318a786b2dd108489ba",
+          "translationSha256": "50bb46620084decbcdc8e3210f1175afe136aaa01ffe90238508725219e08a76",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.2Ml4lRMnJCyxb3yx.alignment",
+          "sourceSha256": "59e74f11c96a77d972cd8ee0520cd97da4055b5a2e859b1c4dd2cfb7ea32f7b3",
+          "translationSha256": "ce158da3dc2aa560ccc970a693b2ad2f8b5b8e6b16edddf5209d728954da7ba8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.2Ml4lRMnJCyxb3yx.languages",
+          "sourceSha256": "7987c4571e9828f9a808641ec66144a482965a52337e5fbcf33ba640dc53b32e",
+          "translationSha256": "391335a45741e58df1cd7565d1cb00d29310e0aea3e2f8de97834d1f3a7bcfa1",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.2Ml4lRMnJCyxb3yx.tokenName",
+          "sourceSha256": "4c876e938c74ff4d6ee0e587623abf3c4a399188742b9318a786b2dd108489ba",
+          "translationSha256": "50bb46620084decbcdc8e3210f1175afe136aaa01ffe90238508725219e08a76",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.2Ml4lRMnJCyxb3yx.biography",
+          "sourceSha256": "b80885e7f4fed95f4c5265a3d6651d8a13a5bf016571ecc548ba1e27bdef8680",
+          "translationSha256": "265e26e71c131cc6729f7796a1b50c2a7a124c24a668ac24d507c1f09efaaabb",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.2Ml4lRMnJCyxb3yx.items.Ed7XgnZu9qRs3qdn.name",
+          "sourceSha256": "5b180dc7cc325d7f3f211dee9f4ea37de9427398fefe1e9eb22ffa313ae843db",
+          "translationSha256": "36c414b395d95481a85ac03b19a3a4d1a315df31a29109e956b55cacaa0db710",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.2Ml4lRMnJCyxb3yx.items.Ed7XgnZu9qRs3qdn.description",
+          "sourceSha256": "371effcec3d2fe21205ba062945ef9da227d4b698efe54f7a77a4717e1c31a3b",
+          "translationSha256": "aaa1b9bd82be77b373364abd623f440edd2b6144c21d86e5df6018e497ddf8ab",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.2Ml4lRMnJCyxb3yx.items.Ed7XgnZu9qRs3qdn.descriptionChat",
+          "sourceSha256": "de582ee80e34e493c97255e823ac66e8f3ef655783ef27ebfe537b386d8c453c",
+          "translationSha256": "ad9a49d697ed826cd240ea3327161614b58fed2d55275f6973a31bba5757b74e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.2Ml4lRMnJCyxb3yx.items.RDeCoZRniQBNq0rX.name",
+          "sourceSha256": "9358edf64fe9987a1d9ea9f73aa874c9c3a8d2c7d8755273f261002e3e952b00",
+          "translationSha256": "c47f6adc952ebb2dd0ec1fe03237ed5d5265ad8c12927352d5123c4b1e70042f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.2Ml4lRMnJCyxb3yx.items.RDeCoZRniQBNq0rX.description",
+          "sourceSha256": "707dcedfb8dac8deeeb389ba29ec8afed86c9678a1187538ba495779fb6c3683",
+          "translationSha256": "015bf182382583517b0628f866e4c862f06dd4857bd104573391edb75f216dda",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.2Ml4lRMnJCyxb3yx.items.RDeCoZRniQBNq0rX.descriptionChat",
+          "sourceSha256": "99ccd2db4b5fa42b47c55dd762b3357b191633fc32e60ec8caf15bddd8830ceb",
+          "translationSha256": "ef060e4462e0523a2b9d3c082e79f4909c83dbdd7c34d16249c459d543bd8e9d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        }
+      ]
+    },
+    {
+      "id": "additional-undead-corporeal-J6yWqkj0lotaRnTh",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.actors.J6yWqkj0lotaRnTh.name",
+          "sourceSha256": "4c876e938c74ff4d6ee0e587623abf3c4a399188742b9318a786b2dd108489ba",
+          "translationSha256": "50bb46620084decbcdc8e3210f1175afe136aaa01ffe90238508725219e08a76",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.J6yWqkj0lotaRnTh.alignment",
+          "sourceSha256": "59e74f11c96a77d972cd8ee0520cd97da4055b5a2e859b1c4dd2cfb7ea32f7b3",
+          "translationSha256": "ce158da3dc2aa560ccc970a693b2ad2f8b5b8e6b16edddf5209d728954da7ba8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.J6yWqkj0lotaRnTh.languages",
+          "sourceSha256": "7987c4571e9828f9a808641ec66144a482965a52337e5fbcf33ba640dc53b32e",
+          "translationSha256": "391335a45741e58df1cd7565d1cb00d29310e0aea3e2f8de97834d1f3a7bcfa1",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.J6yWqkj0lotaRnTh.tokenName",
+          "sourceSha256": "4c876e938c74ff4d6ee0e587623abf3c4a399188742b9318a786b2dd108489ba",
+          "translationSha256": "50bb46620084decbcdc8e3210f1175afe136aaa01ffe90238508725219e08a76",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.J6yWqkj0lotaRnTh.biography",
+          "sourceSha256": "e0e06052d7c76ba552de5d970292852004b9ed2a1e98c7bea12bae8a8cc1dfd5",
+          "translationSha256": "bb4c5f92717143bbd77728afea20f0e47ad579cc94e7383f4ad58f14fb26e656",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.J6yWqkj0lotaRnTh.items.Ed7XgnZu9qRs3qdn.name",
+          "sourceSha256": "5b180dc7cc325d7f3f211dee9f4ea37de9427398fefe1e9eb22ffa313ae843db",
+          "translationSha256": "36c414b395d95481a85ac03b19a3a4d1a315df31a29109e956b55cacaa0db710",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.J6yWqkj0lotaRnTh.items.Ed7XgnZu9qRs3qdn.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.J6yWqkj0lotaRnTh.items.Ed7XgnZu9qRs3qdn.descriptionChat",
+          "sourceSha256": "de582ee80e34e493c97255e823ac66e8f3ef655783ef27ebfe537b386d8c453c",
+          "translationSha256": "ad9a49d697ed826cd240ea3327161614b58fed2d55275f6973a31bba5757b74e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.J6yWqkj0lotaRnTh.items.RDeCoZRniQBNq0rX.name",
+          "sourceSha256": "9358edf64fe9987a1d9ea9f73aa874c9c3a8d2c7d8755273f261002e3e952b00",
+          "translationSha256": "c47f6adc952ebb2dd0ec1fe03237ed5d5265ad8c12927352d5123c4b1e70042f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.J6yWqkj0lotaRnTh.items.RDeCoZRniQBNq0rX.description",
+          "sourceSha256": "0fea44fc6d7f6fdcb5499f828b25ec65b8b7624b8abb84e86b1ee4a163feebe8",
+          "translationSha256": "6d36b9a5872d5f5f77bcbf14347c866d8ccf521388bfcb0284cd28e24bef0be5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.J6yWqkj0lotaRnTh.items.RDeCoZRniQBNq0rX.descriptionChat",
+          "sourceSha256": "99ccd2db4b5fa42b47c55dd762b3357b191633fc32e60ec8caf15bddd8830ceb",
+          "translationSha256": "ef060e4462e0523a2b9d3c082e79f4909c83dbdd7c34d16249c459d543bd8e9d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.J6yWqkj0lotaRnTh.name",
+          "sourceSha256": "4c876e938c74ff4d6ee0e587623abf3c4a399188742b9318a786b2dd108489ba",
+          "translationSha256": "50bb46620084decbcdc8e3210f1175afe136aaa01ffe90238508725219e08a76",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.J6yWqkj0lotaRnTh.alignment",
+          "sourceSha256": "59e74f11c96a77d972cd8ee0520cd97da4055b5a2e859b1c4dd2cfb7ea32f7b3",
+          "translationSha256": "ce158da3dc2aa560ccc970a693b2ad2f8b5b8e6b16edddf5209d728954da7ba8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.J6yWqkj0lotaRnTh.languages",
+          "sourceSha256": "7987c4571e9828f9a808641ec66144a482965a52337e5fbcf33ba640dc53b32e",
+          "translationSha256": "391335a45741e58df1cd7565d1cb00d29310e0aea3e2f8de97834d1f3a7bcfa1",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.J6yWqkj0lotaRnTh.tokenName",
+          "sourceSha256": "4c876e938c74ff4d6ee0e587623abf3c4a399188742b9318a786b2dd108489ba",
+          "translationSha256": "50bb46620084decbcdc8e3210f1175afe136aaa01ffe90238508725219e08a76",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.J6yWqkj0lotaRnTh.biography",
+          "sourceSha256": "e0e06052d7c76ba552de5d970292852004b9ed2a1e98c7bea12bae8a8cc1dfd5",
+          "translationSha256": "bb4c5f92717143bbd77728afea20f0e47ad579cc94e7383f4ad58f14fb26e656",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.J6yWqkj0lotaRnTh.items.Ed7XgnZu9qRs3qdn.name",
+          "sourceSha256": "5b180dc7cc325d7f3f211dee9f4ea37de9427398fefe1e9eb22ffa313ae843db",
+          "translationSha256": "36c414b395d95481a85ac03b19a3a4d1a315df31a29109e956b55cacaa0db710",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.J6yWqkj0lotaRnTh.items.Ed7XgnZu9qRs3qdn.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.J6yWqkj0lotaRnTh.items.Ed7XgnZu9qRs3qdn.descriptionChat",
+          "sourceSha256": "de582ee80e34e493c97255e823ac66e8f3ef655783ef27ebfe537b386d8c453c",
+          "translationSha256": "ad9a49d697ed826cd240ea3327161614b58fed2d55275f6973a31bba5757b74e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.J6yWqkj0lotaRnTh.items.RDeCoZRniQBNq0rX.name",
+          "sourceSha256": "9358edf64fe9987a1d9ea9f73aa874c9c3a8d2c7d8755273f261002e3e952b00",
+          "translationSha256": "c47f6adc952ebb2dd0ec1fe03237ed5d5265ad8c12927352d5123c4b1e70042f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.J6yWqkj0lotaRnTh.items.RDeCoZRniQBNq0rX.description",
+          "sourceSha256": "0fea44fc6d7f6fdcb5499f828b25ec65b8b7624b8abb84e86b1ee4a163feebe8",
+          "translationSha256": "6d36b9a5872d5f5f77bcbf14347c866d8ccf521388bfcb0284cd28e24bef0be5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.J6yWqkj0lotaRnTh.items.RDeCoZRniQBNq0rX.descriptionChat",
+          "sourceSha256": "99ccd2db4b5fa42b47c55dd762b3357b191633fc32e60ec8caf15bddd8830ceb",
+          "translationSha256": "ef060e4462e0523a2b9d3c082e79f4909c83dbdd7c34d16249c459d543bd8e9d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        }
+      ]
+    },
+    {
+      "id": "additional-undead-corporeal-JS5HU46CO73xXk0n",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.actors.JS5HU46CO73xXk0n.name",
+          "sourceSha256": "ce1830d827d13036ebfaec768912a58d3ec8779e6215abd81751f96f4072e2fd",
+          "translationSha256": "3a25f07a08ec3ef76d90510ea02466e2a76101617ca068e379cbbc3b70d14b30",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JS5HU46CO73xXk0n.alignment",
+          "sourceSha256": "59e74f11c96a77d972cd8ee0520cd97da4055b5a2e859b1c4dd2cfb7ea32f7b3",
+          "translationSha256": "ce158da3dc2aa560ccc970a693b2ad2f8b5b8e6b16edddf5209d728954da7ba8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JS5HU46CO73xXk0n.languages",
+          "sourceSha256": "4555d6f83d1e8cba83592d8602316a2f681211704a69e23f5491be2f2f4b2b37",
+          "translationSha256": "433520b8384c7a25525b238901a51600e7c15a83e5982d7c96f4448e1b894e17",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JS5HU46CO73xXk0n.tokenName",
+          "sourceSha256": "ce1830d827d13036ebfaec768912a58d3ec8779e6215abd81751f96f4072e2fd",
+          "translationSha256": "3a25f07a08ec3ef76d90510ea02466e2a76101617ca068e379cbbc3b70d14b30",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JS5HU46CO73xXk0n.biography",
+          "sourceSha256": "005ea83779c9757f66198e442b3974d1b9644098f09fe20d516e44b7b0697302",
+          "translationSha256": "13449ca5b377e53eed4ec882e9de4fdadb921a78a531289fbf79e3a63a220ce5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JS5HU46CO73xXk0n.items.nkPIb1htkHIdbJ97.name",
+          "sourceSha256": "6741270241c0e378f8ad66df74bc4c15063785a30a4add1360d9fc4c5118226a",
+          "translationSha256": "4cb1f410095815efcf5f7abe4c0b459bf861ff56578c5f72940d375f0fdc8130",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JS5HU46CO73xXk0n.items.nkPIb1htkHIdbJ97.description",
+          "sourceSha256": "5ddc83c6d5666b4de6b851ab9f629d38e0f21afd8f487b41033a17da151a5e06",
+          "translationSha256": "f8e35dcbb8646f436eab98b261d63b82355a9a0d3404f293ae200727418dc78c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JS5HU46CO73xXk0n.items.qodTzcDY37TCj4GN.name",
+          "sourceSha256": "801861de599dd7d1d5b8296f12797b4965519fc60c6d964e8b92b9e51be89da6",
+          "translationSha256": "c8eff4b2f079a18a1cdf6985bc1aaaa2154d886f168fe063594a4afef7880f28",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JS5HU46CO73xXk0n.items.qodTzcDY37TCj4GN.description",
+          "sourceSha256": "bfe6096274f2c06789c99ca8b4417d731d3faedbdf49f2fdb4e867281d6b1078",
+          "translationSha256": "9c857b7f3189a68ab1da0c028388de021f1d8507b054b10ef98c0db48165709f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JS5HU46CO73xXk0n.items.fKIUImfcNk0pU2HN.name",
+          "sourceSha256": "ed2fe6ee4108fdd7aa2adc5e1e0b272881becc9d47f1b91289237da2411ddc11",
+          "translationSha256": "0a39b8f3bdfe279a18ef7e5bea3f6239da0932a302f113bb61df2e0b3f3abaad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JS5HU46CO73xXk0n.items.fKIUImfcNk0pU2HN.description",
+          "sourceSha256": "bd5874b3fda9d3301f7d138167c203be4ba73114cfe0fe2d7bef73f49c96e5aa",
+          "translationSha256": "b5e38bf0e205a34c3603feaeb17e7628290bab07db36412e700e7d96d90d568c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JS5HU46CO73xXk0n.items.PUYwkzEiKopyM6YL.name",
+          "sourceSha256": "31b2fb624d3698dffd5bbe3001d40405e3a867822425811d7917863db0ab5615",
+          "translationSha256": "0bb7e9b7712d17c0be781f04f9f46421e45da4b7a5e759ba02535274f0f68327",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JS5HU46CO73xXk0n.items.PUYwkzEiKopyM6YL.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JS5HU46CO73xXk0n.items.PUYwkzEiKopyM6YL.descriptionChat",
+          "sourceSha256": "6bc9a19ddaccf76871c449abeddacc1918ab409d18e191db853bde6fd45522c2",
+          "translationSha256": "eb425cf7416feb632cb3a4521ab6559869cb0f9a9377cb30efd4e9e3437945e7",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JS5HU46CO73xXk0n.items.WZ3XGh48UoyAvBhS.name",
+          "sourceSha256": "c47593d2cf1da5f5febca151a7f2be3a13397667a51881906b12af1ef5aa0887",
+          "translationSha256": "f0373ef6ae04db31875ad27adc500770f978876dcaafdff720098ddb2e370f9d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JS5HU46CO73xXk0n.items.WZ3XGh48UoyAvBhS.description",
+          "sourceSha256": "4d11cc315d2c58481c9e17b0a6e8f38a034e30be2963a4f1b26cf84cd289971c",
+          "translationSha256": "29576fe90419ec19857fcd480db7d6daf6d5e7c168a62725ec781dc14cbcff5d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JS5HU46CO73xXk0n.items.WZ3XGh48UoyAvBhS.descriptionChat",
+          "sourceSha256": "1abc2fa295887ae4387f1caa3bb633d02452cab361de266cbe5d58c6bb8fdbf2",
+          "translationSha256": "f6f5f45a22e41984d47f719577bd9e7acb7590cdc05fd19432b806fe09ced8cf",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JS5HU46CO73xXk0n.items.NX8cqG6aZMns8wvY.name",
+          "sourceSha256": "246e8fc3016fcf4fd5477aa21f121b1a06c72661c9773d358765216a69e81f76",
+          "translationSha256": "997e6a388c6643ee3bb4c9f6091db446950f4e6752d7c8bd826bb04ff21ea4ec",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JS5HU46CO73xXk0n.items.NX8cqG6aZMns8wvY.description",
+          "sourceSha256": "c7bcd25006b84238854a2e0a2a01953dc41fa4d3fc466000ce8009fabfec3ac1",
+          "translationSha256": "b179f943cd3acf0832f9c398f0d511e7df3d157af5fec21d66df8f2cd1797872",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JS5HU46CO73xXk0n.items.NX8cqG6aZMns8wvY.descriptionChat",
+          "sourceSha256": "2d1d7532eab043a227b281b6722b9f5b4388a83273fe816f510b9b8343f74dae",
+          "translationSha256": "989189683ffa5660c69e9b54e91c0c0120158b1544ce797d826073e8d639c73d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.JS5HU46CO73xXk0n.items.NX8cqG6aZMns8wvY.activities.jLbbzuhRE49ESqT7.name",
+          "sourceSha256": "c2b561aec9387201959e7e73d369b72c65f82bd601257ac8471267ffa2a97458",
+          "translationSha256": "302e2b7b7b9aefc14bebbeed724f424e8fb885a7e8d6b388de17fc604504639f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JS5HU46CO73xXk0n.name",
+          "sourceSha256": "ce1830d827d13036ebfaec768912a58d3ec8779e6215abd81751f96f4072e2fd",
+          "translationSha256": "3a25f07a08ec3ef76d90510ea02466e2a76101617ca068e379cbbc3b70d14b30",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JS5HU46CO73xXk0n.alignment",
+          "sourceSha256": "59e74f11c96a77d972cd8ee0520cd97da4055b5a2e859b1c4dd2cfb7ea32f7b3",
+          "translationSha256": "ce158da3dc2aa560ccc970a693b2ad2f8b5b8e6b16edddf5209d728954da7ba8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JS5HU46CO73xXk0n.languages",
+          "sourceSha256": "4555d6f83d1e8cba83592d8602316a2f681211704a69e23f5491be2f2f4b2b37",
+          "translationSha256": "433520b8384c7a25525b238901a51600e7c15a83e5982d7c96f4448e1b894e17",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JS5HU46CO73xXk0n.tokenName",
+          "sourceSha256": "ce1830d827d13036ebfaec768912a58d3ec8779e6215abd81751f96f4072e2fd",
+          "translationSha256": "3a25f07a08ec3ef76d90510ea02466e2a76101617ca068e379cbbc3b70d14b30",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JS5HU46CO73xXk0n.biography",
+          "sourceSha256": "005ea83779c9757f66198e442b3974d1b9644098f09fe20d516e44b7b0697302",
+          "translationSha256": "13449ca5b377e53eed4ec882e9de4fdadb921a78a531289fbf79e3a63a220ce5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JS5HU46CO73xXk0n.items.nkPIb1htkHIdbJ97.name",
+          "sourceSha256": "6741270241c0e378f8ad66df74bc4c15063785a30a4add1360d9fc4c5118226a",
+          "translationSha256": "4cb1f410095815efcf5f7abe4c0b459bf861ff56578c5f72940d375f0fdc8130",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JS5HU46CO73xXk0n.items.nkPIb1htkHIdbJ97.description",
+          "sourceSha256": "5ddc83c6d5666b4de6b851ab9f629d38e0f21afd8f487b41033a17da151a5e06",
+          "translationSha256": "f8e35dcbb8646f436eab98b261d63b82355a9a0d3404f293ae200727418dc78c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JS5HU46CO73xXk0n.items.qodTzcDY37TCj4GN.name",
+          "sourceSha256": "801861de599dd7d1d5b8296f12797b4965519fc60c6d964e8b92b9e51be89da6",
+          "translationSha256": "c8eff4b2f079a18a1cdf6985bc1aaaa2154d886f168fe063594a4afef7880f28",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JS5HU46CO73xXk0n.items.qodTzcDY37TCj4GN.description",
+          "sourceSha256": "bfe6096274f2c06789c99ca8b4417d731d3faedbdf49f2fdb4e867281d6b1078",
+          "translationSha256": "9c857b7f3189a68ab1da0c028388de021f1d8507b054b10ef98c0db48165709f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JS5HU46CO73xXk0n.items.fKIUImfcNk0pU2HN.name",
+          "sourceSha256": "ed2fe6ee4108fdd7aa2adc5e1e0b272881becc9d47f1b91289237da2411ddc11",
+          "translationSha256": "0a39b8f3bdfe279a18ef7e5bea3f6239da0932a302f113bb61df2e0b3f3abaad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JS5HU46CO73xXk0n.items.fKIUImfcNk0pU2HN.description",
+          "sourceSha256": "bd5874b3fda9d3301f7d138167c203be4ba73114cfe0fe2d7bef73f49c96e5aa",
+          "translationSha256": "b5e38bf0e205a34c3603feaeb17e7628290bab07db36412e700e7d96d90d568c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JS5HU46CO73xXk0n.items.PUYwkzEiKopyM6YL.name",
+          "sourceSha256": "31b2fb624d3698dffd5bbe3001d40405e3a867822425811d7917863db0ab5615",
+          "translationSha256": "0bb7e9b7712d17c0be781f04f9f46421e45da4b7a5e759ba02535274f0f68327",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JS5HU46CO73xXk0n.items.PUYwkzEiKopyM6YL.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JS5HU46CO73xXk0n.items.PUYwkzEiKopyM6YL.descriptionChat",
+          "sourceSha256": "6bc9a19ddaccf76871c449abeddacc1918ab409d18e191db853bde6fd45522c2",
+          "translationSha256": "eb425cf7416feb632cb3a4521ab6559869cb0f9a9377cb30efd4e9e3437945e7",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JS5HU46CO73xXk0n.items.WZ3XGh48UoyAvBhS.name",
+          "sourceSha256": "c47593d2cf1da5f5febca151a7f2be3a13397667a51881906b12af1ef5aa0887",
+          "translationSha256": "f0373ef6ae04db31875ad27adc500770f978876dcaafdff720098ddb2e370f9d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JS5HU46CO73xXk0n.items.WZ3XGh48UoyAvBhS.description",
+          "sourceSha256": "4d11cc315d2c58481c9e17b0a6e8f38a034e30be2963a4f1b26cf84cd289971c",
+          "translationSha256": "29576fe90419ec19857fcd480db7d6daf6d5e7c168a62725ec781dc14cbcff5d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JS5HU46CO73xXk0n.items.WZ3XGh48UoyAvBhS.descriptionChat",
+          "sourceSha256": "1abc2fa295887ae4387f1caa3bb633d02452cab361de266cbe5d58c6bb8fdbf2",
+          "translationSha256": "f6f5f45a22e41984d47f719577bd9e7acb7590cdc05fd19432b806fe09ced8cf",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JS5HU46CO73xXk0n.items.NX8cqG6aZMns8wvY.name",
+          "sourceSha256": "246e8fc3016fcf4fd5477aa21f121b1a06c72661c9773d358765216a69e81f76",
+          "translationSha256": "997e6a388c6643ee3bb4c9f6091db446950f4e6752d7c8bd826bb04ff21ea4ec",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JS5HU46CO73xXk0n.items.NX8cqG6aZMns8wvY.description",
+          "sourceSha256": "c7bcd25006b84238854a2e0a2a01953dc41fa4d3fc466000ce8009fabfec3ac1",
+          "translationSha256": "b179f943cd3acf0832f9c398f0d511e7df3d157af5fec21d66df8f2cd1797872",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JS5HU46CO73xXk0n.items.NX8cqG6aZMns8wvY.descriptionChat",
+          "sourceSha256": "2d1d7532eab043a227b281b6722b9f5b4388a83273fe816f510b9b8343f74dae",
+          "translationSha256": "989189683ffa5660c69e9b54e91c0c0120158b1544ce797d826073e8d639c73d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.JS5HU46CO73xXk0n.items.NX8cqG6aZMns8wvY.activities.jLbbzuhRE49ESqT7.name",
+          "sourceSha256": "c2b561aec9387201959e7e73d369b72c65f82bd601257ac8471267ffa2a97458",
+          "translationSha256": "302e2b7b7b9aefc14bebbeed724f424e8fb885a7e8d6b388de17fc604504639f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        }
+      ]
+    },
+    {
+      "id": "additional-undead-corporeal-LXdDEDieqHb6omvp",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.actors.LXdDEDieqHb6omvp.name",
+          "sourceSha256": "657f74e68b6fbec9f94bcaa55b872009a542b29bb8dc7ad17062007690ea0c9a",
+          "translationSha256": "657f74e68b6fbec9f94bcaa55b872009a542b29bb8dc7ad17062007690ea0c9a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.LXdDEDieqHb6omvp.alignment",
+          "sourceSha256": "6d88eb730ffb57bef8302e6318f6f3cb0f3ed84d74ce1df9d21bbba898681889",
+          "translationSha256": "2c3a7f5ba46a94c575747d50710414b1b715adfe58fb87b375d96842b5df4eea",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.LXdDEDieqHb6omvp.tokenName",
+          "sourceSha256": "657f74e68b6fbec9f94bcaa55b872009a542b29bb8dc7ad17062007690ea0c9a",
+          "translationSha256": "657f74e68b6fbec9f94bcaa55b872009a542b29bb8dc7ad17062007690ea0c9a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.LXdDEDieqHb6omvp.biography",
+          "sourceSha256": "005ea83779c9757f66198e442b3974d1b9644098f09fe20d516e44b7b0697302",
+          "translationSha256": "13449ca5b377e53eed4ec882e9de4fdadb921a78a531289fbf79e3a63a220ce5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.LXdDEDieqHb6omvp.items.gBiHo206x7uGoySO.name",
+          "sourceSha256": "f127e5b68340ebb8fd80e6e0a1ff216dc75d20b9103f99dde4eb353c7f358879",
+          "translationSha256": "5ca691ad8c5c7c9d87ab59ce56d582de481fc01a604682398f1f938ce8ea9145",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.LXdDEDieqHb6omvp.items.gBiHo206x7uGoySO.description",
+          "sourceSha256": "5b59e78ce7d0c08e6c72488aa7a1c767d663f2fdc215b7dcd7cebd58ab6e4102",
+          "translationSha256": "a91dc5e0814246e7ff1f85693da1ff3cd185cd634ff276c17beb39e6aa7c384b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.LXdDEDieqHb6omvp.items.gBiHo206x7uGoySO.descriptionChat",
+          "sourceSha256": "fac7e175bd89923e3305597f77da362ce93581a89664081377549093fd7906d3",
+          "translationSha256": "f4d8cb010eba32a89c510f81630da13da23bdfe8dae96ba11f8f1c2dc720b808",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.LXdDEDieqHb6omvp.items.gBiHo206x7uGoySO.effects.zgMmz90zB9zvULOm.name",
+          "sourceSha256": "6dc21afe4edec3c11b085c474e88026cefc74581cca0c738a9fcca1466b7ff99",
+          "translationSha256": "4e7d02086d2ec1946e929e0374758affdeeee9a456f9b2964fb136810cb6b195",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.LXdDEDieqHb6omvp.items.WjqNhFTYP9w4gGHd.name",
+          "sourceSha256": "235fdd8fb36457f3f4270269a78d97e5ab1547a14e47601e1ebc7f558e6cc89e",
+          "translationSha256": "843449b8de8c3c3278c548f537d5778c8228065cb46e47300328db1d14dd73a6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.LXdDEDieqHb6omvp.items.WjqNhFTYP9w4gGHd.description",
+          "sourceSha256": "b00553ff25c0ded4b9fde6f10d1e2cb9db9a77194c882f9519ec4631b1c54450",
+          "translationSha256": "acfa245f13bb8bf076287619365d4e68b53b96616793da8d6e785702f9289575",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.LXdDEDieqHb6omvp.items.nSgLkorv2oln5BIt.name",
+          "sourceSha256": "6e5597953e98e07b763c9f7c837239daf41a26a239b0616631539b9a04b559ad",
+          "translationSha256": "0f5627d69976efecdf83d744d6ec28905da742f1533855b78aad823b0bcbcd97",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.LXdDEDieqHb6omvp.items.nSgLkorv2oln5BIt.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.LXdDEDieqHb6omvp.items.nSgLkorv2oln5BIt.descriptionChat",
+          "sourceSha256": "3e0d5abf382691ae425a2e090dd413b3807f0d1c57d667024ea2e89b9da45e5b",
+          "translationSha256": "ed06e66c4ef816941a3b0217a632d93e6655fcf04be3a23f9f3b91e028704a7e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.LXdDEDieqHb6omvp.items.ricjyd1SKzeQ5gQE.name",
+          "sourceSha256": "68a31aefb013bde5c9baadece2d532269c9f7a35699cb10f79136eca29938318",
+          "translationSha256": "738394d7769046cb7f24dd2bc42ce9c6493f7dccc5630c6b1673c9bac71bd853",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.LXdDEDieqHb6omvp.items.ricjyd1SKzeQ5gQE.description",
+          "sourceSha256": "befe0897a7b430b529e44caea6c26cc2ba18b4134bfdf0a99d492b5315afec43",
+          "translationSha256": "42205f1dc6f52c13e541e983d4b93f2cf1b482edc037ff29989cd942bba43898",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.LXdDEDieqHb6omvp.items.ricjyd1SKzeQ5gQE.descriptionChat",
+          "sourceSha256": "25e8d93b1ea1dd0db7413c3bb60e7ae179d49fb6cdbc54cf548098fa2237b91e",
+          "translationSha256": "cc834bf63a76ae485d8305353d5ea57320237327c849db5ef4a6cdd977d4db7e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.LXdDEDieqHb6omvp.items.ricjyd1SKzeQ5gQE.effects.2pAa9QgMeD3RFtiG.name",
+          "sourceSha256": "6cc4eb473ade8b4668ea771d3986d3799be7eaa1299f09beb9e316685afd18e1",
+          "translationSha256": "a4e496333ce4aad5d3a5965e7f117c047c77056505f9c36bc0b2ceb11b9fbca7",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.LXdDEDieqHb6omvp.items.ricjyd1SKzeQ5gQE.effects.2pAa9QgMeD3RFtiG.description",
+          "sourceSha256": "203f711a94f077177f6b25d9590ecea7d1c5a0d25e1f1428817bf9de94c9f534",
+          "translationSha256": "fba0899878ab85842bf34466d721771e4ca14e83f1d51e1ccef9b83d5e31b058",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.LXdDEDieqHb6omvp.name",
+          "sourceSha256": "657f74e68b6fbec9f94bcaa55b872009a542b29bb8dc7ad17062007690ea0c9a",
+          "translationSha256": "657f74e68b6fbec9f94bcaa55b872009a542b29bb8dc7ad17062007690ea0c9a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.LXdDEDieqHb6omvp.alignment",
+          "sourceSha256": "6d88eb730ffb57bef8302e6318f6f3cb0f3ed84d74ce1df9d21bbba898681889",
+          "translationSha256": "2c3a7f5ba46a94c575747d50710414b1b715adfe58fb87b375d96842b5df4eea",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.LXdDEDieqHb6omvp.tokenName",
+          "sourceSha256": "657f74e68b6fbec9f94bcaa55b872009a542b29bb8dc7ad17062007690ea0c9a",
+          "translationSha256": "657f74e68b6fbec9f94bcaa55b872009a542b29bb8dc7ad17062007690ea0c9a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.LXdDEDieqHb6omvp.biography",
+          "sourceSha256": "005ea83779c9757f66198e442b3974d1b9644098f09fe20d516e44b7b0697302",
+          "translationSha256": "13449ca5b377e53eed4ec882e9de4fdadb921a78a531289fbf79e3a63a220ce5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.LXdDEDieqHb6omvp.items.gBiHo206x7uGoySO.name",
+          "sourceSha256": "f127e5b68340ebb8fd80e6e0a1ff216dc75d20b9103f99dde4eb353c7f358879",
+          "translationSha256": "5ca691ad8c5c7c9d87ab59ce56d582de481fc01a604682398f1f938ce8ea9145",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.LXdDEDieqHb6omvp.items.gBiHo206x7uGoySO.description",
+          "sourceSha256": "5b59e78ce7d0c08e6c72488aa7a1c767d663f2fdc215b7dcd7cebd58ab6e4102",
+          "translationSha256": "a91dc5e0814246e7ff1f85693da1ff3cd185cd634ff276c17beb39e6aa7c384b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.LXdDEDieqHb6omvp.items.gBiHo206x7uGoySO.descriptionChat",
+          "sourceSha256": "fac7e175bd89923e3305597f77da362ce93581a89664081377549093fd7906d3",
+          "translationSha256": "f4d8cb010eba32a89c510f81630da13da23bdfe8dae96ba11f8f1c2dc720b808",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.LXdDEDieqHb6omvp.items.gBiHo206x7uGoySO.effects.zgMmz90zB9zvULOm.name",
+          "sourceSha256": "6dc21afe4edec3c11b085c474e88026cefc74581cca0c738a9fcca1466b7ff99",
+          "translationSha256": "4e7d02086d2ec1946e929e0374758affdeeee9a456f9b2964fb136810cb6b195",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.LXdDEDieqHb6omvp.items.WjqNhFTYP9w4gGHd.name",
+          "sourceSha256": "235fdd8fb36457f3f4270269a78d97e5ab1547a14e47601e1ebc7f558e6cc89e",
+          "translationSha256": "843449b8de8c3c3278c548f537d5778c8228065cb46e47300328db1d14dd73a6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.LXdDEDieqHb6omvp.items.WjqNhFTYP9w4gGHd.description",
+          "sourceSha256": "b00553ff25c0ded4b9fde6f10d1e2cb9db9a77194c882f9519ec4631b1c54450",
+          "translationSha256": "acfa245f13bb8bf076287619365d4e68b53b96616793da8d6e785702f9289575",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.LXdDEDieqHb6omvp.items.nSgLkorv2oln5BIt.name",
+          "sourceSha256": "6e5597953e98e07b763c9f7c837239daf41a26a239b0616631539b9a04b559ad",
+          "translationSha256": "0f5627d69976efecdf83d744d6ec28905da742f1533855b78aad823b0bcbcd97",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.LXdDEDieqHb6omvp.items.nSgLkorv2oln5BIt.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.LXdDEDieqHb6omvp.items.nSgLkorv2oln5BIt.descriptionChat",
+          "sourceSha256": "3e0d5abf382691ae425a2e090dd413b3807f0d1c57d667024ea2e89b9da45e5b",
+          "translationSha256": "ed06e66c4ef816941a3b0217a632d93e6655fcf04be3a23f9f3b91e028704a7e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.LXdDEDieqHb6omvp.items.ricjyd1SKzeQ5gQE.name",
+          "sourceSha256": "68a31aefb013bde5c9baadece2d532269c9f7a35699cb10f79136eca29938318",
+          "translationSha256": "738394d7769046cb7f24dd2bc42ce9c6493f7dccc5630c6b1673c9bac71bd853",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.LXdDEDieqHb6omvp.items.ricjyd1SKzeQ5gQE.description",
+          "sourceSha256": "befe0897a7b430b529e44caea6c26cc2ba18b4134bfdf0a99d492b5315afec43",
+          "translationSha256": "42205f1dc6f52c13e541e983d4b93f2cf1b482edc037ff29989cd942bba43898",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.LXdDEDieqHb6omvp.items.ricjyd1SKzeQ5gQE.descriptionChat",
+          "sourceSha256": "25e8d93b1ea1dd0db7413c3bb60e7ae179d49fb6cdbc54cf548098fa2237b91e",
+          "translationSha256": "cc834bf63a76ae485d8305353d5ea57320237327c849db5ef4a6cdd977d4db7e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.LXdDEDieqHb6omvp.items.ricjyd1SKzeQ5gQE.effects.2pAa9QgMeD3RFtiG.name",
+          "sourceSha256": "6cc4eb473ade8b4668ea771d3986d3799be7eaa1299f09beb9e316685afd18e1",
+          "translationSha256": "a4e496333ce4aad5d3a5965e7f117c047c77056505f9c36bc0b2ceb11b9fbca7",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.LXdDEDieqHb6omvp.items.ricjyd1SKzeQ5gQE.effects.2pAa9QgMeD3RFtiG.description",
+          "sourceSha256": "203f711a94f077177f6b25d9590ecea7d1c5a0d25e1f1428817bf9de94c9f534",
+          "translationSha256": "fba0899878ab85842bf34466d721771e4ca14e83f1d51e1ccef9b83d5e31b058",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        }
+      ]
+    },
+    {
+      "id": "additional-undead-corporeal-bSM1EJptwzV1JhjA",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.actors.bSM1EJptwzV1JhjA.name",
+          "sourceSha256": "2deb15182283b478795ec7c0db247cf3be448a242bb1c0fa9fad535eaec729e1",
+          "translationSha256": "5ef6a411ae4517201e443b335ebb8bfde70e038c628142b3453aa308cce116b1",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.bSM1EJptwzV1JhjA.alignment",
+          "sourceSha256": "6d88eb730ffb57bef8302e6318f6f3cb0f3ed84d74ce1df9d21bbba898681889",
+          "translationSha256": "2c3a7f5ba46a94c575747d50710414b1b715adfe58fb87b375d96842b5df4eea",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.bSM1EJptwzV1JhjA.tokenName",
+          "sourceSha256": "2deb15182283b478795ec7c0db247cf3be448a242bb1c0fa9fad535eaec729e1",
+          "translationSha256": "5ef6a411ae4517201e443b335ebb8bfde70e038c628142b3453aa308cce116b1",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.bSM1EJptwzV1JhjA.biography",
+          "sourceSha256": "e0e06052d7c76ba552de5d970292852004b9ed2a1e98c7bea12bae8a8cc1dfd5",
+          "translationSha256": "bb4c5f92717143bbd77728afea20f0e47ad579cc94e7383f4ad58f14fb26e656",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.bSM1EJptwzV1JhjA.items.E5cmqIqRIwyTkhgp.name",
+          "sourceSha256": "6e5597953e98e07b763c9f7c837239daf41a26a239b0616631539b9a04b559ad",
+          "translationSha256": "0f5627d69976efecdf83d744d6ec28905da742f1533855b78aad823b0bcbcd97",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.bSM1EJptwzV1JhjA.items.E5cmqIqRIwyTkhgp.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.bSM1EJptwzV1JhjA.items.E5cmqIqRIwyTkhgp.descriptionChat",
+          "sourceSha256": "2bb8aaac26aa7fea4ff3202cd75cf9f364953a484e24f35c05e9d75f59285655",
+          "translationSha256": "0d626a31320369cd60f6faf02531f1aa79c4bea9959e8c81a706197a6c32abfe",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.bSM1EJptwzV1JhjA.items.ArxzPC3rsBztgUvI.name",
+          "sourceSha256": "68a31aefb013bde5c9baadece2d532269c9f7a35699cb10f79136eca29938318",
+          "translationSha256": "738394d7769046cb7f24dd2bc42ce9c6493f7dccc5630c6b1673c9bac71bd853",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.bSM1EJptwzV1JhjA.items.ArxzPC3rsBztgUvI.description",
+          "sourceSha256": "8d406c5b5d59eac097931d3f24644fcfca38317215337eea2e3f71a321a5a983",
+          "translationSha256": "fe9346527e493bd2e819aab7dabeebd9002c52d385c9c0cfdf378b79a4129ca6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.bSM1EJptwzV1JhjA.items.ArxzPC3rsBztgUvI.descriptionChat",
+          "sourceSha256": "2f33d6580130a8dcb2c67d47128e5fab34bb90348dc68e1f22ba9a113574a062",
+          "translationSha256": "978d70abf57fb98456a5f1b712c8d670b7b305a7d6522bf808a5d53d9d9333c3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.bSM1EJptwzV1JhjA.items.ArxzPC3rsBztgUvI.effects.fC4kG8qYgto2a01c.name",
+          "sourceSha256": "6cc4eb473ade8b4668ea771d3986d3799be7eaa1299f09beb9e316685afd18e1",
+          "translationSha256": "a4e496333ce4aad5d3a5965e7f117c047c77056505f9c36bc0b2ceb11b9fbca7",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.bSM1EJptwzV1JhjA.items.ArxzPC3rsBztgUvI.effects.fC4kG8qYgto2a01c.description",
+          "sourceSha256": "203f711a94f077177f6b25d9590ecea7d1c5a0d25e1f1428817bf9de94c9f534",
+          "translationSha256": "fba0899878ab85842bf34466d721771e4ca14e83f1d51e1ccef9b83d5e31b058",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bSM1EJptwzV1JhjA.name",
+          "sourceSha256": "2deb15182283b478795ec7c0db247cf3be448a242bb1c0fa9fad535eaec729e1",
+          "translationSha256": "5ef6a411ae4517201e443b335ebb8bfde70e038c628142b3453aa308cce116b1",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bSM1EJptwzV1JhjA.alignment",
+          "sourceSha256": "6d88eb730ffb57bef8302e6318f6f3cb0f3ed84d74ce1df9d21bbba898681889",
+          "translationSha256": "2c3a7f5ba46a94c575747d50710414b1b715adfe58fb87b375d96842b5df4eea",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bSM1EJptwzV1JhjA.tokenName",
+          "sourceSha256": "2deb15182283b478795ec7c0db247cf3be448a242bb1c0fa9fad535eaec729e1",
+          "translationSha256": "5ef6a411ae4517201e443b335ebb8bfde70e038c628142b3453aa308cce116b1",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bSM1EJptwzV1JhjA.biography",
+          "sourceSha256": "e0e06052d7c76ba552de5d970292852004b9ed2a1e98c7bea12bae8a8cc1dfd5",
+          "translationSha256": "bb4c5f92717143bbd77728afea20f0e47ad579cc94e7383f4ad58f14fb26e656",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bSM1EJptwzV1JhjA.items.E5cmqIqRIwyTkhgp.name",
+          "sourceSha256": "6e5597953e98e07b763c9f7c837239daf41a26a239b0616631539b9a04b559ad",
+          "translationSha256": "0f5627d69976efecdf83d744d6ec28905da742f1533855b78aad823b0bcbcd97",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bSM1EJptwzV1JhjA.items.E5cmqIqRIwyTkhgp.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bSM1EJptwzV1JhjA.items.E5cmqIqRIwyTkhgp.descriptionChat",
+          "sourceSha256": "2bb8aaac26aa7fea4ff3202cd75cf9f364953a484e24f35c05e9d75f59285655",
+          "translationSha256": "0d626a31320369cd60f6faf02531f1aa79c4bea9959e8c81a706197a6c32abfe",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bSM1EJptwzV1JhjA.items.ArxzPC3rsBztgUvI.name",
+          "sourceSha256": "68a31aefb013bde5c9baadece2d532269c9f7a35699cb10f79136eca29938318",
+          "translationSha256": "738394d7769046cb7f24dd2bc42ce9c6493f7dccc5630c6b1673c9bac71bd853",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bSM1EJptwzV1JhjA.items.ArxzPC3rsBztgUvI.description",
+          "sourceSha256": "8d406c5b5d59eac097931d3f24644fcfca38317215337eea2e3f71a321a5a983",
+          "translationSha256": "fe9346527e493bd2e819aab7dabeebd9002c52d385c9c0cfdf378b79a4129ca6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bSM1EJptwzV1JhjA.items.ArxzPC3rsBztgUvI.descriptionChat",
+          "sourceSha256": "2f33d6580130a8dcb2c67d47128e5fab34bb90348dc68e1f22ba9a113574a062",
+          "translationSha256": "978d70abf57fb98456a5f1b712c8d670b7b305a7d6522bf808a5d53d9d9333c3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bSM1EJptwzV1JhjA.items.ArxzPC3rsBztgUvI.effects.fC4kG8qYgto2a01c.name",
+          "sourceSha256": "6cc4eb473ade8b4668ea771d3986d3799be7eaa1299f09beb9e316685afd18e1",
+          "translationSha256": "a4e496333ce4aad5d3a5965e7f117c047c77056505f9c36bc0b2ceb11b9fbca7",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.bSM1EJptwzV1JhjA.items.ArxzPC3rsBztgUvI.effects.fC4kG8qYgto2a01c.description",
+          "sourceSha256": "203f711a94f077177f6b25d9590ecea7d1c5a0d25e1f1428817bf9de94c9f534",
+          "translationSha256": "fba0899878ab85842bf34466d721771e4ca14e83f1d51e1ccef9b83d5e31b058",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        }
+      ]
+    },
+    {
+      "id": "additional-undead-corporeal-pA11aGfCpX7OhuDH",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.actors.pA11aGfCpX7OhuDH.name",
+          "sourceSha256": "ea5f6bdc79b884c397d6163ed999deafd3908d8c928097911d4085a99ef1b575",
+          "translationSha256": "ad0a5a344d21b5bdeca3c53a04ba7e35a344d4403bc704c0dfc64849096ab509",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.pA11aGfCpX7OhuDH.alignment",
+          "sourceSha256": "7b682d92b448b2a31cbabff84445a68defb470567fbdd7a03edbb06a398e2c2d",
+          "translationSha256": "a38c6bd2ae2507e8a8abbe1f1a6e6127ec287563485b53e60066990d09b68701",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.pA11aGfCpX7OhuDH.languages",
+          "sourceSha256": "0369405bf9447bb2673118f172156673dee2e292e7c3b722b88b85120841c742",
+          "translationSha256": "2d7cef5573ebb80fcf1af2f9c8286624b8dc44e048bfd9a8b30cac1bf643d78f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.pA11aGfCpX7OhuDH.tokenName",
+          "sourceSha256": "ea5f6bdc79b884c397d6163ed999deafd3908d8c928097911d4085a99ef1b575",
+          "translationSha256": "ad0a5a344d21b5bdeca3c53a04ba7e35a344d4403bc704c0dfc64849096ab509",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.pA11aGfCpX7OhuDH.biography",
+          "sourceSha256": "e0e06052d7c76ba552de5d970292852004b9ed2a1e98c7bea12bae8a8cc1dfd5",
+          "translationSha256": "bb4c5f92717143bbd77728afea20f0e47ad579cc94e7383f4ad58f14fb26e656",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.pA11aGfCpX7OhuDH.items.hrTC2vP0xMgI8q8y.name",
+          "sourceSha256": "98469a9f08315d135c60ff37f0231cd39fa036634a517b53313314f0cafc59ee",
+          "translationSha256": "12dbc9a9ec7a6b9684f1ae319b557446849338c8865988674bbbce132a2e1c29",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.pA11aGfCpX7OhuDH.items.hrTC2vP0xMgI8q8y.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.pA11aGfCpX7OhuDH.items.hrTC2vP0xMgI8q8y.descriptionChat",
+          "sourceSha256": "c0f5a1a3e9206d5aaed8bf2592a251e453ef8cef0e0df29c487805ea0485f097",
+          "translationSha256": "00ea16047f13ac112d1eb2a59d545d667dc3cf61e1d805884a60aa8ca59c0ef0",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.pA11aGfCpX7OhuDH.items.qXbbvudRpBoul3bH.name",
+          "sourceSha256": "47564edb94d9e188e11ace6efaf301b717014996158d9727e07d65b53935440e",
+          "translationSha256": "2e6cc08437fc54feff24d16a205ccc6107cd0ee6dba6cdbcb63bfc0cb33bb73c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.pA11aGfCpX7OhuDH.items.qXbbvudRpBoul3bH.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.pA11aGfCpX7OhuDH.items.qXbbvudRpBoul3bH.descriptionChat",
+          "sourceSha256": "067b794233a82f06710728ad2fc7324ba248849a044ec625792a8be5a062d30c",
+          "translationSha256": "183983b513e7c455dfd00115dbe95afe2efb939e803d00b1e30b71461a023147",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.pA11aGfCpX7OhuDH.name",
+          "sourceSha256": "ea5f6bdc79b884c397d6163ed999deafd3908d8c928097911d4085a99ef1b575",
+          "translationSha256": "ad0a5a344d21b5bdeca3c53a04ba7e35a344d4403bc704c0dfc64849096ab509",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.pA11aGfCpX7OhuDH.alignment",
+          "sourceSha256": "7b682d92b448b2a31cbabff84445a68defb470567fbdd7a03edbb06a398e2c2d",
+          "translationSha256": "a38c6bd2ae2507e8a8abbe1f1a6e6127ec287563485b53e60066990d09b68701",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.pA11aGfCpX7OhuDH.languages",
+          "sourceSha256": "0369405bf9447bb2673118f172156673dee2e292e7c3b722b88b85120841c742",
+          "translationSha256": "2d7cef5573ebb80fcf1af2f9c8286624b8dc44e048bfd9a8b30cac1bf643d78f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.pA11aGfCpX7OhuDH.tokenName",
+          "sourceSha256": "ea5f6bdc79b884c397d6163ed999deafd3908d8c928097911d4085a99ef1b575",
+          "translationSha256": "ad0a5a344d21b5bdeca3c53a04ba7e35a344d4403bc704c0dfc64849096ab509",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.pA11aGfCpX7OhuDH.biography",
+          "sourceSha256": "e0e06052d7c76ba552de5d970292852004b9ed2a1e98c7bea12bae8a8cc1dfd5",
+          "translationSha256": "bb4c5f92717143bbd77728afea20f0e47ad579cc94e7383f4ad58f14fb26e656",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.pA11aGfCpX7OhuDH.items.hrTC2vP0xMgI8q8y.name",
+          "sourceSha256": "98469a9f08315d135c60ff37f0231cd39fa036634a517b53313314f0cafc59ee",
+          "translationSha256": "12dbc9a9ec7a6b9684f1ae319b557446849338c8865988674bbbce132a2e1c29",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.pA11aGfCpX7OhuDH.items.hrTC2vP0xMgI8q8y.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.pA11aGfCpX7OhuDH.items.hrTC2vP0xMgI8q8y.descriptionChat",
+          "sourceSha256": "c0f5a1a3e9206d5aaed8bf2592a251e453ef8cef0e0df29c487805ea0485f097",
+          "translationSha256": "00ea16047f13ac112d1eb2a59d545d667dc3cf61e1d805884a60aa8ca59c0ef0",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.pA11aGfCpX7OhuDH.items.qXbbvudRpBoul3bH.name",
+          "sourceSha256": "47564edb94d9e188e11ace6efaf301b717014996158d9727e07d65b53935440e",
+          "translationSha256": "2e6cc08437fc54feff24d16a205ccc6107cd0ee6dba6cdbcb63bfc0cb33bb73c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.pA11aGfCpX7OhuDH.items.qXbbvudRpBoul3bH.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.pA11aGfCpX7OhuDH.items.qXbbvudRpBoul3bH.descriptionChat",
+          "sourceSha256": "067b794233a82f06710728ad2fc7324ba248849a044ec625792a8be5a062d30c",
+          "translationSha256": "183983b513e7c455dfd00115dbe95afe2efb939e803d00b1e30b71461a023147",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Corporeal undead profile reviewed against the English export. Elf immunity limited to ghoul claws; zombie and wight limitations checked individually. Artwork-only biographies retained."
+        }
+      ]
     }
   ]
 }

@@ -2564,23 +2564,23 @@
             "nSgLkorv2oln5BIt": {
               "name": "Mordisco",
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "descriptionChat": "<p>El Ghost ataca con su mordida.</p>"
+              "descriptionChat": "<p>El ghast ataca con su mordisco.</p>"
             },
             "ricjyd1SKzeQ5gQE": {
               "name": "Garras",
-              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>Si el objetivo es una criatura distinta de un no-muerto, debe tener éxito en un [[/save format=long]] o ser &amp;Reference[paralyzed apply=false]{paralizado} durante 1 minuto. El objetivo puede repetir el lanzamiento de ahorro al final de cada uno de sus turnos, terminando con el efecto en sí mismo en un éxito.</p>",
-              "descriptionChat": "<p>El Ghast ataca con sus garras. Si el objetivo es una criatura que no es un no-muerto, debe hacer un <strong>Constitución</strong> El lanzamiento de ahorro. El objetivo puede repetir el lanzamiento de ahorro al final de cada uno de sus turnos, terminando con el efecto en sí mismo en un éxito.</p>",
+              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>Si el objetivo es una criatura que no sea un muerto viviente, debe superar una tirada de salvación [[/save format=long]] o quedar &amp;Reference[paralyzed apply=false]{paralizado} durante 1 minuto. Puede repetir la salvación al final de cada uno de sus turnos y terminar el efecto sobre sí mismo si tiene éxito.</p>",
+              "descriptionChat": "<p>El ghast ataca con sus garras. Si el objetivo es una criatura que no sea un muerto viviente, debe realizar una tirada de salvación de <strong>Constitución</strong>. Puede repetir la salvación al final de cada uno de sus turnos y terminar el efecto sobre sí mismo si tiene éxito.</p>",
               "effects": {
                 "2pAa9QgMeD3RFtiG": {
                   "name": "Paralizado",
-                  "description": "<p>El objetivo es &amp;Reference[paralyzed apply=false]{paralizado} durante 1 minuto. El objetivo puede repetir el lanzamiento de ahorro al final de cada uno de sus turnos, terminando con el efecto en sí mismo en un éxito.</p>"
+                  "description": "<p>El objetivo está &amp;Reference[paralyzed apply=false]{paralizado} durante 1 minuto. Puede repetir la salvación al final de cada uno de sus turnos y terminar el efecto sobre sí mismo si tiene éxito.</p>"
                 }
               }
             },
             "gBiHo206x7uGoySO": {
-              "name": "Asterisco",
-              "description": "<p>Cualquier criatura que comienza su turno a menos de 5 pies del horror debe tener éxito en un [[/save format=long]] o ser &amp;Reference[poisoned apply=false]{envenenado} hasta el comienzo de su siguiente turno. En un lanzamiento de ahorro exitoso, la criatura es inmune al hedor del horror durante 24 horas.</p>",
-              "descriptionChat": "<p>Cualquier criatura que comienza su turno en su interior <strong>5 pies.</strong> El horror debe tener éxito en un lanzamiento de ahorro de la Constitución.</p>",
+              "name": "Hedor",
+              "description": "<p>Cualquier criatura que comience su turno a 5 pies o menos del ghast debe superar una tirada de salvación [[/save format=long]] o quedar &amp;Reference[poisoned apply=false]{envenenada} hasta el comienzo de su siguiente turno. Si supera la salvación, es inmune al Hedor del ghast durante 24 horas.</p>",
+              "descriptionChat": "<p>Cualquier criatura que comience su turno a <strong>5 pies</strong> o menos del ghast debe superar una tirada de salvación de Constitución.</p>",
               "effects": {
                 "zgMmz90zB9zvULOm": {
                   "name": "Envenenado"
@@ -2588,13 +2588,13 @@
               }
             },
             "WjqNhFTYP9w4gGHd": {
-              "name": "Retornar el desafío",
-              "description": "<p>El horror y cualquier fantasma a menos de 30 pies de distancia tienen ventaja en los lanzamientos de ahorro contra los efectos que se vuelven no muertos.</p>"
+              "name": "Desafiar Expulsión",
+              "description": "<p>El ghast y todos los gules a 30 pies o menos de él tienen ventaja en las tiradas de salvación contra efectos que expulsen muertos vivientes.</p>"
             }
           },
-          "name": "Necrófago hediondo",
-          "tokenName": "Necrófago hediondo",
-          "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+          "name": "Ghast",
+          "tokenName": "Ghast",
+          "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
         },
         "bSM1EJptwzV1JhjA": {
           "alignment": "Caótico malvado",
@@ -2602,23 +2602,23 @@
             "E5cmqIqRIwyTkhgp": {
               "name": "Mordisco",
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-              "descriptionChat": "<p>El Ghoul ataca con su mordida.</p>"
+              "descriptionChat": "<p>El gul ataca con su mordisco.</p>"
             },
             "ArxzPC3rsBztgUvI": {
               "name": "Garras",
-              "description": "<p>[[/attack extended]]. [[/damage extended average]].</p><p>Si el objetivo es una criatura distinta de un elfo o no-muerto, debe tener éxito en un [[/save format=long]] o ser &amp;Reference[paralyzed apply=false]{paralizado} durante 1 minuto. El objetivo puede repetir el lanzamiento de ahorro al final de cada uno de sus turnos, terminando con el efecto en sí mismo en un éxito.</p>",
-              "descriptionChat": "<p>Los Ghoul atacan con sus garras. Si el objetivo es una criatura distinta de un elfo o no-muerto, debe hacer un <strong>Constitución</strong> El lanzamiento de ahorro. El objetivo puede repetir el lanzamiento de ahorro al final de cada uno de sus turnos, terminando con el efecto en sí mismo en un éxito.</p>",
+              "description": "<p>[[/attack extended]]. [[/damage extended average]].</p><p>Si el objetivo es una criatura que no sea un elfo ni un muerto viviente, debe superar una tirada de salvación [[/save format=long]] o quedar &amp;Reference[paralyzed apply=false]{paralizado} durante 1 minuto. Puede repetir la salvación al final de cada uno de sus turnos y terminar el efecto sobre sí mismo si tiene éxito.</p>",
+              "descriptionChat": "<p>El gul ataca con sus garras. Si el objetivo es una criatura que no sea un elfo ni un muerto viviente, debe realizar una tirada de salvación de <strong>Constitución</strong>. Puede repetir la salvación al final de cada uno de sus turnos y terminar el efecto sobre sí mismo si tiene éxito.</p>",
               "effects": {
                 "fC4kG8qYgto2a01c": {
                   "name": "Paralizado",
-                  "description": "<p>El objetivo es &amp;Reference[paralyzed apply=false]{paralizado} durante 1 minuto. El objetivo puede repetir el lanzamiento de ahorro al final de cada uno de sus turnos, terminando con el efecto en sí mismo en un éxito.</p>"
+                  "description": "<p>El objetivo está &amp;Reference[paralyzed apply=false]{paralizado} durante 1 minuto. Puede repetir la salvación al final de cada uno de sus turnos y terminar el efecto sobre sí mismo si tiene éxito.</p>"
                 }
               }
             }
           },
           "name": "Gul",
           "tokenName": "Gul",
-          "biography": "<p><em>Token artwork by </em><a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\"><em>Aventuras olvidadas</em></a><em>.</em></p>"
+          "biography": "<p><em>Ilustración de la ficha por </em><a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\"><em>Forgotten Adventures</em></a><em>.</em></p>"
         },
         "woW2YBEiB6xV3Hz8": {
           "alignment": "Sin alineamiento",
@@ -4961,29 +4961,29 @@
             "vJAkNKhTmRrz6Zoq": {
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
               "name": "Hacha a dos manos",
-              "descriptionChat": "<p>El Esqueleto Minotauro ataca con su Gran Eje.</p>"
+              "descriptionChat": "<p>El esqueleto de minotauro ataca con su hacha a dos manos.</p>"
             },
             "3Fsct4zbAf7l47Lp": {
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
               "name": "Cornada",
-              "descriptionChat": "<p>El Esqueleto Minotauro ataca con su Gore.</p>"
+              "descriptionChat": "<p>El esqueleto de minotauro ataca con su cornada.</p>"
             },
             "p7R5kkqAVQFKClRm": {
               "name": "Carga",
-              "description": "<p>Si el esqueleto se mueve al menos 10 pies rectos hacia un objetivo y luego le da con un ataque de gore en el mismo giro, el objetivo toma un extra [[/damage 2d8 piercing average]] daño.</p><p>Si el objetivo es una criatura, debe tener éxito en un [[/save str 14 format=long]] o ser empujado hasta 10 pies de distancia y golpeado &amp;Reference[prone apply=false]{propenso}.</p>",
-              "descriptionChat": "<p>Si el esqueleto se mueve al menos 10 pies rectos hacia un objetivo y luego le da con un ataque de gore en el mismo giro, el objetivo toma extra <em>daño por perforación</em>. Si el objetivo es una criatura, debe hacer un <strong>Fuerza</strong> ahorro tirar o ser empujado hasta 10 pies de distancia y golpeado propenso.</p>",
+              "description": "<p>Si el esqueleto se mueve al menos 10 pies en línea recta hacia un objetivo y después lo impacta con una cornada en el mismo turno, el objetivo sufre [[/damage 2d8 piercing average]] de daño adicional.</p><p>Si el objetivo es una criatura, debe superar una tirada de salvación [[/save str 14 format=long]] o ser empujado hasta 10 pies y caer &amp;Reference[prone apply=false]{derribado}.</p>",
+              "descriptionChat": "<p>Si el esqueleto se mueve al menos 10 pies en línea recta hacia un objetivo y después lo impacta con una cornada en el mismo turno, el objetivo sufre <em>daño perforante</em> adicional. Si es una criatura, debe superar una tirada de salvación de <strong>Fuerza</strong> o ser empujado hasta 10 pies y caer derribado.</p>",
               "effects": {
                 "QhbrrQZdkgTEynxO": {
-                  "name": "Prona",
-                  "description": "<p>El objetivo está golpeado. &amp;Reference[prone apply=false]{propenso} después de ser acusado por el Minotauro.</p>"
+                  "name": "Derribado",
+                  "description": "<p>El objetivo cae &amp;Reference[prone apply=false]{derribado} tras recibir la carga del minotauro.</p>"
                 }
               }
             }
           },
-          "name": "Esqueleto de Minotauro",
-          "languages": "entiende pero no puede hablar",
-          "tokenName": "Esqueleto de Minotauro",
-          "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+          "name": "Esqueleto de minotauro",
+          "languages": "Entiende, pero no puede hablar",
+          "tokenName": "Esqueleto de minotauro",
+          "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
         },
         "LnzZKer6fHLa0t51": {
           "alignment": "Legal neutral",
@@ -6101,7 +6101,7 @@
             "hrTC2vP0xMgI8q8y": {
               "name": "Arco corto",
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-              "descriptionChat": "<p>El Esqueleto ataca con su Shortbow.</p>"
+              "descriptionChat": "<p>El esqueleto ataca con su arco corto.</p>"
             },
             "qXbbvudRpBoul3bH": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
@@ -6110,9 +6110,9 @@
             }
           },
           "name": "Esqueleto",
-          "languages": "Comprende todos los idiomas que conocía en la vida pero no puede hablar",
+          "languages": "Entiende todos los idiomas que conocía en vida, pero no puede hablar",
           "tokenName": "Esqueleto",
-          "biography": "<p><em>Token artwork by </em><a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\"><em>Aventuras olvidadas</em></a><em>.</em></p>"
+          "biography": "<p><em>Ilustración de la ficha por </em><a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\"><em>Forgotten Adventures</em></a><em>.</em></p>"
         },
         "toaSkeletonKey00": {
           "alignment": "Sin alineamiento",
@@ -7522,41 +7522,41 @@
           "items": {
             "fKIUImfcNk0pU2HN": {
               "name": "Ataque múltiple",
-              "description": "<p>El torbellino hace dos [[/item .WZ3XGh48UoyAvBhS]]{espadalong} ataques o dos [[/item .PUYwkzEiKopyM6YL]]{longbow} ataques. Puede usar su [[/item .NX8cqG6aZMns8wvY]]{Drenaje vital} en lugar de un ataque de espada larga.</p>"
+              "description": "<p>El tumulario realiza dos ataques con [[/item .WZ3XGh48UoyAvBhS]]{espada larga} o dos ataques con [[/item .PUYwkzEiKopyM6YL]]{arco largo}. Puede usar [[/item .NX8cqG6aZMns8wvY]]{Consumir vida} en lugar de uno de los ataques con espada larga.</p>"
             },
             "PUYwkzEiKopyM6YL": {
               "name": "Arco largo",
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "descriptionChat": "<p>El Wight ataca con su Longbow.</p>"
+              "descriptionChat": "<p>El tumulario ataca con su arco largo.</p>"
             },
             "WZ3XGh48UoyAvBhS": {
               "name": "Espada larga",
-              "description": "<p>[[/attack extended]]. [[/damage extended]]o bien [[/damage average attackMode=twoHanded]] daño si se utiliza con dos manos.</p>",
-              "descriptionChat": "<p>El Wight ataca con su Longsword.</p>"
+              "description": "<p>[[/attack extended]]. [[/damage extended]], o [[/damage average attackMode=twoHanded]] de daño si se empuña a dos manos.</p>",
+              "descriptionChat": "<p>El tumulario ataca con su espada larga.</p>"
             },
             "nkPIb1htkHIdbJ97": {
               "name": "Armadura de cuero tachonado",
-              "description": "<p>Hecho de cuero resistente pero flexible, el cuero tachonado está reforzado con remaches o pinchos de cierre.</p>"
+              "description": "<p>Esta armadura está hecha de cuero resistente pero flexible, reforzado con remaches o púas muy juntos.</p>"
             },
             "qodTzcDY37TCj4GN": {
-              "name": "Sensibilidad a la luz solar",
-              "description": "<p>Mientras que en la luz del sol, el torbellino tiene<strong> desventaja </strong>en los rollos de ataque, así como en la Sabiduría (percepción) controles que dependen de la vista.</p>"
+              "name": "Sensibilidad a la Luz Solar",
+              "description": "<p>Mientras esté bajo la luz solar, el tumulario tiene<strong> desventaja </strong>en las tiradas de ataque y en las pruebas de Sabiduría (Percepción) que dependan de la vista.</p>"
             },
             "NX8cqG6aZMns8wvY": {
-              "name": "Drenaje de vida",
-              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo debe tener éxito en un [[/save format=long]] o su punto de impacto máximo se reduce en una cantidad igual al daño tomado. Esta reducción dura hasta que el objetivo termine un largo descanso. El objetivo muere si este efecto reduce su punto de impacto máximo a 0.</p><p>Un humanoide muerto por este ataque se eleva 24 horas más tarde como un zombi bajo el control de la Wight, a menos que el humanoide sea restaurado a la vida o su cuerpo sea destruido. El wight no puede tener más de doce zombies bajo su control a la vez.</p>",
-              "descriptionChat": "<p>El Wight ataca con su drenaje de vida. El objetivo debe hacer un <strong>Constitución</strong> El lanzamiento de ahorro.</p>",
+              "name": "Consumir vida",
+              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo debe superar una tirada de salvación [[/save format=long]] o sus puntos de golpe máximos se reducen en una cantidad igual al daño sufrido. Esta reducción dura hasta que termine un descanso largo. El objetivo muere si este efecto reduce sus puntos de golpe máximos a 0.</p><p>Un humanoide muerto por este ataque se alza 24 horas después como un zombi bajo el control del tumulario, salvo que vuelva a la vida o su cuerpo sea destruido. El tumulario no puede controlar a más de doce zombis a la vez.</p>",
+              "descriptionChat": "<p>El tumulario ataca con Consumir vida. El objetivo debe realizar una tirada de salvación de <strong>Constitución</strong>.</p>",
               "activities": {
                 "jLbbzuhRE49ESqT7": {
-                  "name": "Zombie se levanta"
+                  "name": "Se alza un zombi"
                 }
               }
             }
           },
           "name": "Tumulario",
-          "languages": "los idiomas que conocía en la vida",
+          "languages": "Los idiomas que conocía en vida",
           "tokenName": "Tumulario",
-          "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+          "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
         },
         "toaWildDog000000": {
           "alignment": "Sin alineamiento",
@@ -8488,16 +8488,16 @@
             "Ed7XgnZu9qRs3qdn": {
               "name": "Golpetazo",
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-              "descriptionChat": "<p>El zombi ataca con su Slam.</p>"
+              "descriptionChat": "<p>El zombi ataca con su golpetazo.</p>"
             },
             "RDeCoZRniQBNq0rX": {
-              "name": "Fortaleza de muertos vivientes",
-              "description": "<p>Si el daño reduce el zombi a 0 puntos de impacto, debe hacer un lanzamiento ahorro Constitución con un CD de 5 + el daño tomado, a menos que el daño sea radiante o de un golpe crítico. En un éxito, el zombi cae a 1 punto de impacto en su lugar.</p>",
-              "descriptionChat": "<p>Si el daño reduce el zombi a <strong>0 puntos de impacto</strong>, debe hacer un <strong>Constitución</strong> El lanzamiento de ahorro.</p>"
+              "name": "Fortaleza de Muerto Viviente",
+              "description": "<p>Si el daño reduce al zombi a 0 puntos de golpe, debe realizar una tirada de salvación de Constitución con una CD de 5 + el daño recibido, salvo que el daño sea radiante o proceda de un golpe crítico. Si tiene éxito, el zombi queda con 1 punto de golpe en su lugar.</p>",
+              "descriptionChat": "<p>Si el daño reduce al zombi a <strong>0 puntos de golpe</strong>, debe realizar una tirada de salvación de <strong>Constitución</strong>.</p>"
             }
           },
-          "languages": "entiende los idiomas que conocía en la vida pero no puede hablar",
-          "biography": "<p><em>Token artwork by </em><a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\"><em>Aventuras olvidadas</em></a><em>.</em></p>"
+          "languages": "Entiende los idiomas que conocía en vida, pero no puede hablar",
+          "biography": "<p><em>Ilustración de la ficha por </em><a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\"><em>Forgotten Adventures</em></a><em>.</em></p>"
         },
         "toaZorbo00000000": {
           "alignment": "Sin alineamiento",
@@ -15707,17 +15707,17 @@
           "items": {
             "Ed7XgnZu9qRs3qdn": {
               "name": "Golpetazo",
-              "description": "<p><em>Ataque de arma de cuerpo entero:</em><strong>+3 a golpe,</strong>, <strong>5 pies,</strong> Un objetivo. Pulse: <strong>4 (1d6 + 1) <em>Daño por apaleamiento</em></strong>.</p>",
-              "descriptionChat": "<p>El zombi ataca con su Slam.</p>"
+              "description": "<p><em>Ataque con arma cuerpo a cuerpo:</em><strong>+3 a impactar</strong>, alcance <strong>5 pies</strong>, un objetivo. Impacto: <strong>4 (1d6 + 1) de <em>daño contundente</em></strong>.</p>",
+              "descriptionChat": "<p>El zombi ataca con su golpetazo.</p>"
             },
             "RDeCoZRniQBNq0rX": {
-              "name": "Fortaleza de muertos vivientes",
-              "description": "<p>Si el daño reduce el zombi a <strong>0 puntos de impacto</strong>, debe hacer un <strong>Constitución</strong> ahorro de lanzamiento con un CD de 5+ el daño tomado, a menos que el daño sea radiante o de un impacto crítico. En un éxito, el zombi cae a <strong>1 punto de impacto</strong> En vez de eso.</p>",
-              "descriptionChat": "<p>Si el daño reduce el zombi a <strong>0 puntos de impacto</strong>, debe hacer un <strong>Constitución</strong> El lanzamiento de ahorro.</p>"
+              "name": "Fortaleza de Muerto Viviente",
+              "description": "<p>Si el daño reduce al zombi a <strong>0 puntos de golpe</strong>, debe realizar una tirada de salvación de <strong>Constitución</strong> con una CD de 5 + el daño sufrido, salvo que el daño sea radiante o proceda de un crítico. Si tiene éxito, se queda en <strong>1 punto de golpe</strong> en su lugar.</p>",
+              "descriptionChat": "<p>Si el daño reduce al zombi a <strong>0 puntos de golpe</strong>, debe realizar una tirada de salvación de <strong>Constitución</strong>.</p>"
             }
           },
-          "languages": "entiende los idiomas que conocía en la vida pero no puede hablar",
-          "biography": "<p>\n        <em>\n          Token artwork by\n          <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Aventuras olvidadas</a>.\n        </em>\n      </p><p>\n        <em>\n          Token artwork by\n          <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Aventuras olvidadas</a>.\n        </em>\n      </p><p>\n        <em>\n          Token artwork by\n          <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Aventuras olvidadas</a>.\n        </em>\n      </p>"
+          "languages": "Entiende los idiomas que conocía en vida, pero no puede hablar",
+          "biography": "<p>\n        <em>\n          Ilustración de la ficha por\n          <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.\n        </em>\n      </p><p>\n        <em>\n          Ilustración de la ficha por\n          <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.\n        </em>\n      </p><p>\n        <em>\n          Ilustración de la ficha por\n          <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.\n        </em>\n      </p>"
         },
         "toaParty00000000": {
           "name": "Partido",
