@@ -2408,6 +2408,17 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Pasar Volando de la serpiente voladora conserva el requisito original «Owl»,
   traducido «Búho». Es un dato heredado incoherente, pendiente de reparación.
 
+### additional-cats-boars — Felinos y jabalíes
+
+- Revisados 156 campos de tigre, pantera, león, jabalí y jabalí gigante en
+  ambas copias, contra el exportado inglés. Sin biografías narrativas nuevas.
+- Corregida la mención accidental a «panther» en Abalanzarse del tigre: el
+  sujeto es el propio tigre. Conservados los enlaces y las tiradas originales.
+- Comprobados los requisitos de carrera y ataque en el mismo turno, el ataque
+  adicional contra objetivos derribados, el salto del león y los umbrales de
+  Implacable: 7 para el jabalí y 10 para el gigante. Sus resúmenes de chat
+  omiten esos umbrales en el original; las descripciones completas sí los dan.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2417,8 +2428,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
   de Foundry, tres de créditos y cuatro de historial.
   No equivale a 931 páginas del PDF.
-- 10955 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 10955 campos distintos.
+- 11111 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 11111 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento treinta y cuatro biografías en ambas copias de actores: siete
   príncipes y ciento veintisiete criaturas o PNJ vinculados al apéndice D. Siguen pendientes las demás

@@ -1103,24 +1103,24 @@
           "items": {
             "ypnf9maxKh66ucMe": {
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "name": "Colmillo (solo forma de jabalí o híbrida)",
-              "descriptionChat": "<p>El Jabalí ataca con su Tusk.</p>"
+              "name": "Colmillo",
+              "descriptionChat": "<p>El jabalí ataca con su colmillo.</p>"
             },
             "TSmET06nE61H6HC2": {
               "name": "Carga",
-              "description": "<p>Si el jabalí se mueve por lo menos 20 pies rectos hacia un objetivo y luego lo golpea con un ataque de colmillo en el mismo giro, el objetivo toma un extra [[/damage average]] daño.</p><p>Si el objetivo es una criatura, debe tener éxito en un [[/save format=long]] o ser llamado &amp;Reference[prone apply=false].</p>",
-              "descriptionChat": "<p>Si el jabalí se mueve al menos 20 pies rectos hacia un objetivo y luego le da con un ataque de colmillo en el mismo giro, el objetivo toma extra <em>daño por corte</em>. Si el objetivo es una criatura, debe hacer un <strong>Fuerza</strong> ahorro tirar o ser golpeado propenso.</p>",
+              "description": "<p>Si el jabalí se mueve al menos 20 pies en línea recta hacia un objetivo y después lo impacta con un ataque de colmillo en el mismo turno, el objetivo sufre [[/damage average]] de daño adicional.</p><p>Si el objetivo es una criatura, debe superar una tirada de salvación [[/save format=long]] o caer &amp;Reference[prone apply=false]{derribado}.</p>",
+              "descriptionChat": "<p>Si el jabalí se mueve al menos 20 pies en línea recta hacia un objetivo y después lo impacta con un ataque de colmillo en el mismo turno, el objetivo sufre <em>daño cortante</em> adicional. Si es una criatura, debe superar una tirada de salvación de <strong>Fuerza</strong> o caer derribado.</p>",
               "effects": {
                 "3EXCuhfiRWUGjWN7": {
-                  "name": "Prona",
-                  "description": "<p>El objetivo está golpeado. &amp;Reference[prone apply=false].</p>"
+                  "name": "Derribado",
+                  "description": "<p>El objetivo cae &amp;Reference[prone apply=false]{derribado}.</p>"
                 }
               }
             },
             "U66PTM15QvmkenvW": {
-              "name": "Inflexible",
-              "description": "<p>Si el jabalí toma <strong>7 daños</strong> o menos que lo reduciría a <strong>0 puntos de impacto</strong>, se reduce a <strong>1 punto de impacto</strong> En vez de eso. Recarga en un descanso corto o largo.</p>",
-              "descriptionChat": "<p>Si el jabalí recibe daños que lo reducirían a <strong>0 puntos de impacto</strong>, se reduce a <strong>1 punto de impacto</strong> En vez de eso.</p>"
+              "name": "Implacable",
+              "description": "<p>Si el jabalí sufre <strong>7 de daño</strong> o menos que lo reducirían a <strong>0 puntos de golpe</strong>, se queda en <strong>1 punto de golpe</strong> en su lugar. Recupera el uso de este rasgo tras un descanso corto o largo.</p>",
+              "descriptionChat": "<p>Si el jabalí sufre daño que lo reduciría a <strong>0 puntos de golpe</strong>, se queda en <strong>1 punto de golpe</strong> en su lugar.</p>"
             }
           },
           "name": "Jabalí",
@@ -2647,18 +2647,18 @@
           "items": {
             "zHwaxxXcDz8AE8Bj": {
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "name": "Colmillo (solo forma de jabalí o híbrida)",
-              "descriptionChat": "<p>El Jabalí gigante ataca con su Tusk.</p>"
+              "name": "Colmillo",
+              "descriptionChat": "<p>El jabalí gigante ataca con su colmillo.</p>"
             },
             "1ArcmRCn5G0t6sOo": {
               "name": "Carga",
-              "description": "<p>Si el jabalí se mueve por lo menos 20 pies rectos hacia un objetivo y luego lo golpea con un ataque de colmillo en el mismo giro, el objetivo toma un extra [[/damage average]] daño.</p><p>Si el objetivo es una criatura, debe tener éxito en un [[/save]] ahorro tirar o ser golpeado &amp;Reference[prone].</p>",
-              "descriptionChat": "<p>Si el jabalí se mueve al menos 20 pies rectos hacia un objetivo y luego le da con un ataque de colmillo en el mismo giro, el objetivo toma extra <em>daño por corte</em>. Si el objetivo es una criatura, debe hacer un <strong>Fuerza</strong> ahorro tirar o ser golpeado propenso.</p>"
+              "description": "<p>Si el jabalí se mueve al menos 20 pies en línea recta hacia un objetivo y después lo impacta con un ataque de colmillo en el mismo turno, el objetivo sufre [[/damage average]] de daño adicional.</p><p>Si el objetivo es una criatura, debe superar una tirada de salvación [[/save]] o caer &amp;Reference[prone]{derribado}.</p>",
+              "descriptionChat": "<p>Si el jabalí se mueve al menos 20 pies en línea recta hacia un objetivo y después lo impacta con un ataque de colmillo en el mismo turno, el objetivo sufre <em>daño cortante</em> adicional. Si es una criatura, debe superar una tirada de salvación de <strong>Fuerza</strong> o caer derribado.</p>"
             },
             "byaGAd7ILpgsQ7Un": {
-              "name": "Inflexible",
-              "description": "<p>Si el jabalí <strong>Toma 10 daños</strong> o menos que lo reduciría a <strong>0 puntos de impacto</strong>, se reduce a <strong>1 punto de impacto</strong> En vez de eso. Recarga después de un descanso corto o largo.</p>",
-              "descriptionChat": "<p>Si el jabalí recibe daños que lo reducirían a <strong>0 puntos de impacto</strong>, se reduce a <strong>1 punto de impacto</strong> En vez de eso.</p>"
+              "name": "Implacable",
+              "description": "<p>Si el jabalí <strong>sufre 10 de daño</strong> o menos que lo reducirían a <strong>0 puntos de golpe</strong>, se queda en <strong>1 punto de golpe</strong> en su lugar. Recupera el uso de este rasgo tras un descanso corto o largo.</p>",
+              "descriptionChat": "<p>Si el jabalí sufre daño que lo reduciría a <strong>0 puntos de golpe</strong>, se queda en <strong>1 punto de golpe</strong> en su lugar.</p>"
             }
           },
           "name": "Jabalí gigante",
@@ -4415,29 +4415,29 @@
             "gKj1TlVfDhLp5WIk": {
               "name": "Mordisco",
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "descriptionChat": "<p>El León ataca con su mordida.</p>"
+              "descriptionChat": "<p>El león ataca con su mordisco.</p>"
             },
             "CHIayoaCAZj0GBkM": {
               "name": "Garra",
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "descriptionChat": "<p>El León ataca con su garra.</p>"
+              "descriptionChat": "<p>El león ataca con su garra.</p>"
             },
             "ZFsvhBgKXqgf17TZ": {
-              "name": "Olor a queso",
-              "description": "<p>El león tiene<strong> ventaja </strong>en la Sabiduría (percepción) cheques que dependen del olor.</p>"
+              "name": "Olfato Agudo",
+              "description": "<p>El león tiene<strong> ventaja </strong>en las pruebas de Sabiduría (Percepción) que dependan del olfato.</p>"
             },
             "Kztga4jBHZCUjO3A": {
-              "name": "Tácticas de empaquetado",
-              "description": "<p>El león tiene<strong> ventaja </strong>en un ataque rodar contra una criatura si al menos uno de los aliados del león está dentro <strong>5 pies.</strong> de la criatura y el aliado no está incapacitado.</p>"
+              "name": "Atacar en Manada",
+              "description": "<p>El león tiene<strong> ventaja </strong>en una tirada de ataque contra una criatura si al menos uno de sus aliados está a <strong>5 pies</strong> o menos de ella y no está incapacitado.</p>"
             },
             "pQdtHaxlArSTjbqb": {
-              "name": "Salto",
-              "description": "<p>Si el león se mueve al menos 20 pies rectos hacia una criatura y luego le da con un ataque de garra en el mismo giro, ese objetivo debe tener éxito en un [[/save]] ahorro tirar o ser golpeado &amp;Reference[prone].</p><p>Si el objetivo es propenso, el león puede hacer un ataque de mordida contra él como una acción adicional.</p>",
-              "descriptionChat": "<p>Si el león se mueve por lo menos <strong>20 pies.</strong> derecho hacia una criatura y luego le golpea con una garra de ataque en el mismo giro, que el objetivo debe hacer un <strong>Fuerza</strong> El lanzamiento de ahorro.</p>"
+              "name": "Abalanzarse",
+              "description": "<p>Si el león se mueve al menos 20 pies en línea recta hacia una criatura y después la impacta con un ataque de garra en el mismo turno, el objetivo debe superar una tirada de salvación [[/save]] o caer &amp;Reference[prone]{derribado}.</p><p>Si el objetivo está derribado, el león puede realizar un ataque de mordisco contra él como acción adicional.</p>",
+              "descriptionChat": "<p>Si el león se mueve al menos <strong>20 pies</strong> en línea recta hacia una criatura y después la impacta con un ataque de garra en el mismo turno, el objetivo debe realizar una tirada de salvación de <strong>Fuerza</strong>.</p>"
             },
             "3dmAdKAVc8JqLgIj": {
-              "name": "Salto en carrera",
-              "description": "<p>Con un arranque de 10 pies, el león puede saltar hasta <strong>25 pies</strong>.</p>"
+              "name": "Salto con Carrera",
+              "description": "<p>Con una carrera previa de 10 pies, el león puede realizar un salto de longitud de hasta <strong>25 pies</strong>.</p>"
             }
           },
           "name": "León",
@@ -5402,21 +5402,21 @@
             "c7iYo6g3A6DP8V4w": {
               "name": "Mordisco",
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "descriptionChat": "<p>La Pantera ataca con su mordida.</p>"
+              "descriptionChat": "<p>La pantera ataca con su mordisco.</p>"
             },
             "t4bERcqBVDvjJ2gx": {
               "name": "Garra",
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "descriptionChat": "<p>La Pantera ataca con su garra.</p>"
+              "descriptionChat": "<p>La pantera ataca con su garra.</p>"
             },
             "vS7OqBXfpfbsx5Rh": {
-              "name": "Olor a queso",
-              "description": "<p>La pantera tiene<strong> ventaja </strong>en la Sabiduría (percepción) cheques que dependen del olor.</p>"
+              "name": "Olfato Agudo",
+              "description": "<p>La pantera tiene<strong> ventaja </strong>en las pruebas de Sabiduría (Percepción) que dependan del olfato.</p>"
             },
             "6UmjtTyihpEERg1I": {
-              "name": "Salto",
-              "description": "<p>Si la pantera se mueve por lo menos 20 pies rectos hacia una criatura y luego le da con un ataque de garra en el mismo giro, ese objetivo debe tener éxito en un [[/save]] ahorro tirar o ser golpeado &amp;Reference[prone].</p><p>Si el objetivo es propenso, la pantera puede hacer un ataque de mordida contra él como una acción adicional.</p>",
-              "descriptionChat": "<p>Si la pantera se mueve al menos <strong>20 pies.</strong> derecho hacia una criatura y luego le golpea con una garra de ataque en el mismo giro, que el objetivo debe hacer un <strong>Fuerza</strong> El lanzamiento de ahorro. </p>"
+              "name": "Abalanzarse",
+              "description": "<p>Si la pantera se mueve al menos 20 pies en línea recta hacia una criatura y después la impacta con un ataque de garra en el mismo turno, el objetivo debe superar una tirada de salvación [[/save]] o caer &amp;Reference[prone]{derribado}.</p><p>Si el objetivo está derribado, la pantera puede realizar un ataque de mordisco contra él como acción adicional.</p>",
+              "descriptionChat": "<p>Si la pantera se mueve al menos <strong>20 pies</strong> en línea recta hacia una criatura y después la impacta con un ataque de garra en el mismo turno, el objetivo debe realizar una tirada de salvación de <strong>Fuerza</strong>.</p>"
             }
           },
           "name": "Pantera",
@@ -6835,24 +6835,24 @@
             "YypXtXEL61FqWYOP": {
               "name": "Mordisco",
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "descriptionChat": "<p>El Tigre ataca con su mordida.</p>"
+              "descriptionChat": "<p>El tigre ataca con su mordisco.</p>"
             },
             "7GCnVtakQo6iZyn7": {
               "name": "Garra",
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "descriptionChat": "<p>El Tigre ataca con su Garra.</p>"
+              "descriptionChat": "<p>El tigre ataca con su garra.</p>"
             },
             "G2GfXsv9MMfL3lc5": {
-              "name": "Olor a queso",
-              "description": "<p>El tigre tiene<strong> ventaja </strong>en la Sabiduría (percepción) cheques que dependen del olor.</p>"
+              "name": "Olfato Agudo",
+              "description": "<p>El tigre tiene<strong> ventaja </strong>en las pruebas de Sabiduría (Percepción) que dependan del olfato.</p>"
             },
             "wklAUVakX97y0z2S": {
-              "name": "Salto",
-              "description": "<p>Si el tigre se mueve al menos 20 pies rectos hacia una criatura y luego le da con un ataque de garra en el mismo giro, ese objetivo debe tener éxito en un [[/save format=long]] o ser llamado &amp;Reference[prone apply=false]{propenso}.</p><p>Si el objetivo es propenso, la pantera puede hacer uno [[/item Bite]] atacarlo como una acción extra.</p>",
-              "descriptionChat": "<p>Si el tigre se mueve por lo menos <strong>20 pies.</strong> derecho hacia una criatura y luego le golpea con una garra de ataque en el mismo giro, que el objetivo debe hacer un <strong>Fuerza</strong> El lanzamiento de ahorro.</p>",
+              "name": "Abalanzarse",
+              "description": "<p>Si el tigre se mueve al menos 20 pies en línea recta hacia una criatura y después la impacta con un ataque de garra en el mismo turno, el objetivo debe superar una tirada de salvación [[/save format=long]] o caer &amp;Reference[prone apply=false]{derribado}.</p><p>Si el objetivo está derribado, el tigre puede realizar un ataque de [[/item Bite]]{Mordisco} contra él como acción adicional.</p>",
+              "descriptionChat": "<p>Si el tigre se mueve al menos <strong>20 pies</strong> en línea recta hacia una criatura y después la impacta con un ataque de garra en el mismo turno, el objetivo debe realizar una tirada de salvación de <strong>Fuerza</strong>.</p>",
               "effects": {
                 "gtzTwxdhIthlj5QI": {
-                  "name": "Prona"
+                  "name": "Derribado"
                 }
               }
             }
