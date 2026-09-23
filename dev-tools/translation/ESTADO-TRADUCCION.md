@@ -2749,6 +2749,15 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   del jugador. El sacerdote conserva su lista innata del original, que no
   enumera todos los trucos presentes como objetos: pendiente de armonización.
 
+### additional-green-faerie — Dragón feérico verde
+
+- Revisados 38 registros en ambas copias, contrastados con el exportado inglés.
+  Comprobados los resultados 1–4 y 5–6 del aliento eufórico, la prohibición de
+  reacciones y la concentración necesaria para su invisibilidad.
+- La lista de conjuros del original solo incluye sugestión aunque su texto
+  menciona conjuros adicionales por edad y color; conservada esa lista sin
+  inventar conjuros ausentes. Pendiente de comprobar el perfil funcional.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2758,8 +2767,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
   de Foundry, tres de créditos y cuatro de historial.
   No equivale a 931 páginas del PDF.
-- 16539 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 16539 campos distintos.
+- 16577 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 16577 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento cuarenta y dos biografías en ambas copias de actores: siete
   príncipes, ciento veintisiete criaturas o PNJ vinculados al apéndice D y ocho perfiles

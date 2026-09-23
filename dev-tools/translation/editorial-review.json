@@ -157797,6 +157797,316 @@
           "note": "Shaman or yuan-ti priest profile and spell text reviewed against English export. Reptile-only summoning, crocodile grapple and spell restrictions checked."
         }
       ]
+    },
+    {
+      "id": "additional-green-faerie",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.actors.toaFaerieDragon0.name",
+          "sourceSha256": "60c51289e0eb634ef8d06c405b2d6df349bfa76aed63080d3a759a056a7f53ca",
+          "translationSha256": "f1d7b57060d5700c0de7fd8e778e96c9b3c49d4f46bcf3216ace6be000e56537",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Green faerie dragon profile reviewed against English export. Euphoria roll outcomes, reaction restriction and concentration-based invisibility checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaFaerieDragon0.alignment",
+          "sourceSha256": "53916d1113a3c104911e4dc86b89da341028ae662fd184204e029877c83b1078",
+          "translationSha256": "167a4ffae503acc313a9a69349f7cc12ce212b284ab34d3304160d0562cea91b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Green faerie dragon profile reviewed against English export. Euphoria roll outcomes, reaction restriction and concentration-based invisibility checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaFaerieDragon0.tokenName",
+          "sourceSha256": "60c51289e0eb634ef8d06c405b2d6df349bfa76aed63080d3a759a056a7f53ca",
+          "translationSha256": "f1d7b57060d5700c0de7fd8e778e96c9b3c49d4f46bcf3216ace6be000e56537",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Green faerie dragon profile reviewed against English export. Euphoria roll outcomes, reaction restriction and concentration-based invisibility checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaFaerieDragon0.items.mokIPSGcqXmVUc0l.name",
+          "sourceSha256": "36ae85511c705c3857455f0c5668bc8d6cdbac0af0d526daefdb8330b12a7eb1",
+          "translationSha256": "6706725ba91a414f56c4207a4fadf7f1c676070bb25a1b3c2497563c6da5c624",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Green faerie dragon profile reviewed against English export. Euphoria roll outcomes, reaction restriction and concentration-based invisibility checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaFaerieDragon0.items.mokIPSGcqXmVUc0l.description",
+          "sourceSha256": "052d1eba70eefa151fc1f72532859816519abffa4e88f273befbf1c75ad92200",
+          "translationSha256": "0d212412f2b9ae381f21f411c3ded25321e87748ad20185c93aa63952c59700c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Green faerie dragon profile reviewed against English export. Euphoria roll outcomes, reaction restriction and concentration-based invisibility checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaFaerieDragon0.items.mokIPSGcqXmVUc0l.activities.JNtYtTHuSe8NZmkZ.name",
+          "sourceSha256": "527f6bc857ad184e17849e11be6524113ac7b77003dd2acfb67fba9f0b829848",
+          "translationSha256": "9395bb6ed59a6c8fd26b4085bce2d8aa52b6836487ef0d6ebf117fcc8fc654db",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Green faerie dragon profile reviewed against English export. Euphoria roll outcomes, reaction restriction and concentration-based invisibility checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaFaerieDragon0.items.deUudnrtplCfxTtG.name",
+          "sourceSha256": "6e5597953e98e07b763c9f7c837239daf41a26a239b0616631539b9a04b559ad",
+          "translationSha256": "0f5627d69976efecdf83d744d6ec28905da742f1533855b78aad823b0bcbcd97",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Green faerie dragon profile reviewed against English export. Euphoria roll outcomes, reaction restriction and concentration-based invisibility checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaFaerieDragon0.items.deUudnrtplCfxTtG.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Green faerie dragon profile reviewed against English export. Euphoria roll outcomes, reaction restriction and concentration-based invisibility checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaFaerieDragon0.items.7a8ezorPSq8F2EKm.name",
+          "sourceSha256": "da95f8d475679475eacca7c02c661871ce4ad5f426b4f6e096a8b9d6b5782bbd",
+          "translationSha256": "dbfdb986ce090b7d3f5046dffa00999e4225270e1445adec4046dbdd71da1783",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Green faerie dragon profile reviewed against English export. Euphoria roll outcomes, reaction restriction and concentration-based invisibility checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaFaerieDragon0.items.7a8ezorPSq8F2EKm.description",
+          "sourceSha256": "475b283d3495ce9d30b513efc65456fe48b34553f46386877e534985a6d428b5",
+          "translationSha256": "4749cb06f591dec92a00c97ccbd5ee8422c4a2201994dd8aaf111702d3a0558d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Green faerie dragon profile reviewed against English export. Euphoria roll outcomes, reaction restriction and concentration-based invisibility checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaFaerieDragon0.items.pzK6kvYMIiAxWUOF.name",
+          "sourceSha256": "7919d01160be4f46bdb306b61f3f83180a9e176d2e73b4aaefab3b0b001498c8",
+          "translationSha256": "bb742dce0d845bbecf4b5806538b56668e06df7a82d82753ce4864aa62c0e0d9",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Green faerie dragon profile reviewed against English export. Euphoria roll outcomes, reaction restriction and concentration-based invisibility checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaFaerieDragon0.items.pzK6kvYMIiAxWUOF.description",
+          "sourceSha256": "b05d6a4cf64ecaf7e90213f46891213979a219b1bdc2fb8f99057dab70c578b4",
+          "translationSha256": "ddf9ba28994dbeca761d29ed9d24cca280ede7a9870f5921ff0836397775db47",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Green faerie dragon profile reviewed against English export. Euphoria roll outcomes, reaction restriction and concentration-based invisibility checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaFaerieDragon0.items.5FidPRSiiNVZ9iIG.name",
+          "sourceSha256": "c6748dcd1e4ee0d368c218722576b114c3c7c1f8106da38ff619c0654b883185",
+          "translationSha256": "0c369227277c1fe5babbd329fd9696683f2043c4f7c6722b7645739ccc3e8703",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Green faerie dragon profile reviewed against English export. Euphoria roll outcomes, reaction restriction and concentration-based invisibility checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaFaerieDragon0.items.5FidPRSiiNVZ9iIG.description",
+          "sourceSha256": "f7cb86e829a084ff0f0dea9534198858283aafab5859011dbc742618890b886b",
+          "translationSha256": "125aacf4b224849593889b2d00dae9131efd70ae545326664c0ee227f098b3cc",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Green faerie dragon profile reviewed against English export. Euphoria roll outcomes, reaction restriction and concentration-based invisibility checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaFaerieDragon0.items.WRxRM0AZ6hptz0Kp.name",
+          "sourceSha256": "c15db37ae346b4efc3e521fffc127aeecb382360d32871d96fd772bdfe5bb482",
+          "translationSha256": "d3575997869fa07b87e24abd304ddf5f3ddcd44397203f53fe393ba99ae5a92f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Green faerie dragon profile reviewed against English export. Euphoria roll outcomes, reaction restriction and concentration-based invisibility checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaFaerieDragon0.items.WRxRM0AZ6hptz0Kp.description",
+          "sourceSha256": "3b19e712bec1b800db651225e567b8afae32b637c908f15e622f877ce9968912",
+          "translationSha256": "f0b3b8673aa688991996e187a4cb73e676039928e741f55129135c6d9339903a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Green faerie dragon profile reviewed against English export. Euphoria roll outcomes, reaction restriction and concentration-based invisibility checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaFaerieDragon0.items.8GvJ8tSsinwkaemK.name",
+          "sourceSha256": "527f6bc857ad184e17849e11be6524113ac7b77003dd2acfb67fba9f0b829848",
+          "translationSha256": "9395bb6ed59a6c8fd26b4085bce2d8aa52b6836487ef0d6ebf117fcc8fc654db",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Green faerie dragon profile reviewed against English export. Euphoria roll outcomes, reaction restriction and concentration-based invisibility checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaFaerieDragon0.items.8GvJ8tSsinwkaemK.description",
+          "sourceSha256": "382006818f2288c07d254395ed121f3c605d0b1aeb9ea34aa8e39f7a6e122b90",
+          "translationSha256": "b7a28650b2205a571c54f08e65f6d47a798b0221ce0659473fc16787b21f4da9",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Green faerie dragon profile reviewed against English export. Euphoria roll outcomes, reaction restriction and concentration-based invisibility checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaFaerieDragon0.items.8GvJ8tSsinwkaemK.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Green faerie dragon profile reviewed against English export. Euphoria roll outcomes, reaction restriction and concentration-based invisibility checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaFaerieDragon0.name",
+          "sourceSha256": "60c51289e0eb634ef8d06c405b2d6df349bfa76aed63080d3a759a056a7f53ca",
+          "translationSha256": "f1d7b57060d5700c0de7fd8e778e96c9b3c49d4f46bcf3216ace6be000e56537",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Green faerie dragon profile reviewed against English export. Euphoria roll outcomes, reaction restriction and concentration-based invisibility checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaFaerieDragon0.alignment",
+          "sourceSha256": "53916d1113a3c104911e4dc86b89da341028ae662fd184204e029877c83b1078",
+          "translationSha256": "167a4ffae503acc313a9a69349f7cc12ce212b284ab34d3304160d0562cea91b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Green faerie dragon profile reviewed against English export. Euphoria roll outcomes, reaction restriction and concentration-based invisibility checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaFaerieDragon0.tokenName",
+          "sourceSha256": "60c51289e0eb634ef8d06c405b2d6df349bfa76aed63080d3a759a056a7f53ca",
+          "translationSha256": "f1d7b57060d5700c0de7fd8e778e96c9b3c49d4f46bcf3216ace6be000e56537",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Green faerie dragon profile reviewed against English export. Euphoria roll outcomes, reaction restriction and concentration-based invisibility checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaFaerieDragon0.items.mokIPSGcqXmVUc0l.name",
+          "sourceSha256": "36ae85511c705c3857455f0c5668bc8d6cdbac0af0d526daefdb8330b12a7eb1",
+          "translationSha256": "6706725ba91a414f56c4207a4fadf7f1c676070bb25a1b3c2497563c6da5c624",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Green faerie dragon profile reviewed against English export. Euphoria roll outcomes, reaction restriction and concentration-based invisibility checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaFaerieDragon0.items.mokIPSGcqXmVUc0l.description",
+          "sourceSha256": "052d1eba70eefa151fc1f72532859816519abffa4e88f273befbf1c75ad92200",
+          "translationSha256": "0d212412f2b9ae381f21f411c3ded25321e87748ad20185c93aa63952c59700c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Green faerie dragon profile reviewed against English export. Euphoria roll outcomes, reaction restriction and concentration-based invisibility checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaFaerieDragon0.items.mokIPSGcqXmVUc0l.activities.JNtYtTHuSe8NZmkZ.name",
+          "sourceSha256": "527f6bc857ad184e17849e11be6524113ac7b77003dd2acfb67fba9f0b829848",
+          "translationSha256": "9395bb6ed59a6c8fd26b4085bce2d8aa52b6836487ef0d6ebf117fcc8fc654db",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Green faerie dragon profile reviewed against English export. Euphoria roll outcomes, reaction restriction and concentration-based invisibility checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaFaerieDragon0.items.deUudnrtplCfxTtG.name",
+          "sourceSha256": "6e5597953e98e07b763c9f7c837239daf41a26a239b0616631539b9a04b559ad",
+          "translationSha256": "0f5627d69976efecdf83d744d6ec28905da742f1533855b78aad823b0bcbcd97",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Green faerie dragon profile reviewed against English export. Euphoria roll outcomes, reaction restriction and concentration-based invisibility checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaFaerieDragon0.items.deUudnrtplCfxTtG.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Green faerie dragon profile reviewed against English export. Euphoria roll outcomes, reaction restriction and concentration-based invisibility checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaFaerieDragon0.items.7a8ezorPSq8F2EKm.name",
+          "sourceSha256": "da95f8d475679475eacca7c02c661871ce4ad5f426b4f6e096a8b9d6b5782bbd",
+          "translationSha256": "dbfdb986ce090b7d3f5046dffa00999e4225270e1445adec4046dbdd71da1783",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Green faerie dragon profile reviewed against English export. Euphoria roll outcomes, reaction restriction and concentration-based invisibility checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaFaerieDragon0.items.7a8ezorPSq8F2EKm.description",
+          "sourceSha256": "475b283d3495ce9d30b513efc65456fe48b34553f46386877e534985a6d428b5",
+          "translationSha256": "4749cb06f591dec92a00c97ccbd5ee8422c4a2201994dd8aaf111702d3a0558d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Green faerie dragon profile reviewed against English export. Euphoria roll outcomes, reaction restriction and concentration-based invisibility checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaFaerieDragon0.items.pzK6kvYMIiAxWUOF.name",
+          "sourceSha256": "7919d01160be4f46bdb306b61f3f83180a9e176d2e73b4aaefab3b0b001498c8",
+          "translationSha256": "bb742dce0d845bbecf4b5806538b56668e06df7a82d82753ce4864aa62c0e0d9",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Green faerie dragon profile reviewed against English export. Euphoria roll outcomes, reaction restriction and concentration-based invisibility checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaFaerieDragon0.items.pzK6kvYMIiAxWUOF.description",
+          "sourceSha256": "b05d6a4cf64ecaf7e90213f46891213979a219b1bdc2fb8f99057dab70c578b4",
+          "translationSha256": "ddf9ba28994dbeca761d29ed9d24cca280ede7a9870f5921ff0836397775db47",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Green faerie dragon profile reviewed against English export. Euphoria roll outcomes, reaction restriction and concentration-based invisibility checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaFaerieDragon0.items.5FidPRSiiNVZ9iIG.name",
+          "sourceSha256": "c6748dcd1e4ee0d368c218722576b114c3c7c1f8106da38ff619c0654b883185",
+          "translationSha256": "0c369227277c1fe5babbd329fd9696683f2043c4f7c6722b7645739ccc3e8703",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Green faerie dragon profile reviewed against English export. Euphoria roll outcomes, reaction restriction and concentration-based invisibility checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaFaerieDragon0.items.5FidPRSiiNVZ9iIG.description",
+          "sourceSha256": "f7cb86e829a084ff0f0dea9534198858283aafab5859011dbc742618890b886b",
+          "translationSha256": "125aacf4b224849593889b2d00dae9131efd70ae545326664c0ee227f098b3cc",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Green faerie dragon profile reviewed against English export. Euphoria roll outcomes, reaction restriction and concentration-based invisibility checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaFaerieDragon0.items.WRxRM0AZ6hptz0Kp.name",
+          "sourceSha256": "c15db37ae346b4efc3e521fffc127aeecb382360d32871d96fd772bdfe5bb482",
+          "translationSha256": "d3575997869fa07b87e24abd304ddf5f3ddcd44397203f53fe393ba99ae5a92f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Green faerie dragon profile reviewed against English export. Euphoria roll outcomes, reaction restriction and concentration-based invisibility checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaFaerieDragon0.items.WRxRM0AZ6hptz0Kp.description",
+          "sourceSha256": "3b19e712bec1b800db651225e567b8afae32b637c908f15e622f877ce9968912",
+          "translationSha256": "f0b3b8673aa688991996e187a4cb73e676039928e741f55129135c6d9339903a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Green faerie dragon profile reviewed against English export. Euphoria roll outcomes, reaction restriction and concentration-based invisibility checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaFaerieDragon0.items.8GvJ8tSsinwkaemK.name",
+          "sourceSha256": "527f6bc857ad184e17849e11be6524113ac7b77003dd2acfb67fba9f0b829848",
+          "translationSha256": "9395bb6ed59a6c8fd26b4085bce2d8aa52b6836487ef0d6ebf117fcc8fc654db",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Green faerie dragon profile reviewed against English export. Euphoria roll outcomes, reaction restriction and concentration-based invisibility checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaFaerieDragon0.items.8GvJ8tSsinwkaemK.description",
+          "sourceSha256": "382006818f2288c07d254395ed121f3c605d0b1aeb9ea34aa8e39f7a6e122b90",
+          "translationSha256": "b7a28650b2205a571c54f08e65f6d47a798b0221ce0659473fc16787b21f4da9",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Green faerie dragon profile reviewed against English export. Euphoria roll outcomes, reaction restriction and concentration-based invisibility checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaFaerieDragon0.items.8GvJ8tSsinwkaemK.effects.dnd5espellchange.name",
+          "sourceSha256": "245a71ece8e86fd34a1ed7307d794fae8df1dbec978658ca50020b6b342669cb",
+          "translationSha256": "f727e90e743d78d3a7aba18c09b7d22d50dd76bb50f6b15e00330499a928b52a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Green faerie dragon profile reviewed against English export. Euphoria roll outcomes, reaction restriction and concentration-based invisibility checked."
+        }
+      ]
     }
   ]
 }

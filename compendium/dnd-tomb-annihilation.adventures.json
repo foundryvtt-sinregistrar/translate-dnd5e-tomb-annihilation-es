@@ -3346,42 +3346,42 @@
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>"
             },
             "mokIPSGcqXmVUc0l": {
-              "name": "Difusión de conjuros innatos",
-              "description": "<p>La habilidad innata del dragón para hacer conjuros es Carisma (salva CD 13). Puede lanzar innatamente una serie de conjuros, sin necesidad de componentes materiales. A medida que el dragón envejece y cambia de color, gana conjuros adicionales como se muestra a continuación.</p><p>1/día: [[/item .8GvJ8tSsinwkaemK]]{sugerencia}</p>",
+              "name": "Lanzamiento de Conjuros Innato",
+              "description": "<p>La aptitud mágica innata del dragón es Carisma (CD 13 para sus salvaciones de conjuros). Puede lanzar varios conjuros de forma innata, sin necesidad de componentes materiales. A medida que envejece y cambia de color, obtiene conjuros adicionales, como se muestra a continuación.</p><p>1/día: [[/item .8GvJ8tSsinwkaemK]]{sugestión}</p>",
               "activities": {
                 "JNtYtTHuSe8NZmkZ": {
-                  "name": "Sugerencias"
+                  "name": "Sugestión"
                 }
               }
             },
             "7a8ezorPSq8F2EKm": {
-              "name": "Euforia Respiración",
-              "description": "<p>El dragón exhala un soplo de gas de euforia a una criatura a menos de 5 pies de ella. El objetivo debe tener éxito en un [[/save format=long]], o durante 1 minuto, el objetivo no puede tomar reacciones y debe rodar un [[/r d6]] al inicio de cada uno de sus turnos para determinar su comportamiento durante el turno:</p><p><strong>1–4</strong>. El objetivo no toma ninguna acción o acción adicional y utiliza todo su movimiento para moverse en una dirección aleatoria.</p><p><strong>5–6</strong>. El objetivo no se mueve, y lo único que puede hacer en su turno es hacer un [[/save format=long]], poniendo fin al efecto en sí mismo en un éxito.</p>"
+              "name": "Aliento Eufórico",
+              "description": "<p>El dragón exhala una bocanada de gas eufórico sobre una criatura a 5 pies o menos. El objetivo debe superar una [[/save format=long]] o, durante 1 minuto, no puede realizar reacciones y debe tirar [[/r d6]] al comienzo de cada uno de sus turnos para determinar su comportamiento:</p><p><strong>1–4</strong>. El objetivo no realiza ninguna acción ni acción adicional y usa todo su movimiento para moverse en una dirección aleatoria.</p><p><strong>5–6</strong>. El objetivo no se mueve y lo único que puede hacer en su turno es realizar una [[/save format=long]], terminando el efecto sobre sí mismo si tiene éxito.</p>"
             },
             "pzK6kvYMIiAxWUOF": {
-              "name": "Invisibilidad superior",
-              "description": "<p>Como una acción adicional, el dragón puede mágicamente girar &amp;Reference[Invisible apply=false] hasta que su &amp;Reference[Concentration] termina (como si se concentrara en un conjuro). Cualquier equipo que el dragón use o lleve es invisible con él.</p>"
+              "name": "Invisibilidad Superior",
+              "description": "<p>Como acción adicional, el dragón puede volverse mágicamente &amp;Reference[Invisible apply=false] hasta que termine su &amp;Reference[Concentration] (como si se concentrara en un conjuro). Todo el equipo que vista o lleve consigo también se vuelve invisible.</p>"
             },
             "5FidPRSiiNVZ9iIG": {
-              "name": "Telepatía limitada",
-              "description": "<p>Usando la telepatía, el dragón puede comunicarse mágicamente con cualquier otro dragón hada a menos de 60 pies de distancia.</p>"
+              "name": "Telepatía Limitada",
+              "description": "<p>Mediante telepatía, el dragón puede comunicarse mágicamente con cualquier otro dragón feérico a 60 pies o menos.</p>"
             },
             "WRxRM0AZ6hptz0Kp": {
-              "name": "Resistencia mágica",
-              "description": "<p>El dragón tiene ventaja en los lanzamientos de ahorro contra conjuros y otros efectos mágicos.</p>"
+              "name": "Resistencia Mágica",
+              "description": "<p>El dragón tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.</p>"
             },
             "8GvJ8tSsinwkaemK": {
-              "name": "Sugerencias",
-              "description": "<p>Sugiere un curso de actividad (limitado a una o dos frases) e influencia mágicamente a una criatura que puede ver dentro del rango que puede oír y entender. Las criaturas que no pueden ser encantadas son inmunes a este efecto. La sugerencia debe redactarse de manera que el curso de acción sea razonable. Pedir a la criatura que se apuñale a sí misma, que se lance sobre una lanza, que se inmole a sí misma, o que haga algún otro acto obviamente dañino termina el conjuro.</p><p>El objetivo debe hacer un lanzamiento de ahorro de sabiduría. En una salvada fallida, persigue el curso de acción que usted describió a lo mejor de su capacidad. El curso de acción sugerido puede continuar durante todo el tiempo. Si la actividad sugerida se puede completar en un tiempo más corto, el conjuro termina cuando el sujeto termina lo que se le pidió que hiciera.</p><p>También puede especificar las condiciones que desencadenarán una actividad especial durante la duración. Por ejemplo, podrías sugerir que un caballero le dé su caballo de guerra al primer mendigo que conozca. Si la condición no se cumple antes de que expire el conjuro, la actividad no se realiza.</p><p>Si usted o alguno de sus compañeros dañan el objetivo, el conjuro termina.</p>",
+              "name": "Sugestión",
+              "description": "<p>Sugieres una conducta, expresada en una o dos frases, e influyes mágicamente en una criatura que puedas ver dentro del alcance y que pueda oírte y entenderte. Las criaturas que no pueden ser hechizadas son inmunes a este efecto. Debes formular la sugerencia de modo que la conducta parezca razonable. Pedirle que se apuñale, se arroje sobre una lanza, se prenda fuego o haga algo evidentemente perjudicial termina el conjuro.</p><p>El objetivo debe realizar una tirada de salvación de Sabiduría. Si falla, sigue la conducta que has descrito lo mejor que puede. Puede hacerlo durante todo el conjuro. Si la tarea puede completarse antes, el conjuro termina cuando el objetivo acaba lo que le has pedido.</p><p>También puedes establecer condiciones que desencadenen una conducta específica mientras dure el conjuro. Por ejemplo, puedes sugerir a una caballera que entregue su caballo de guerra al primer mendigo que encuentre. Si la condición no se cumple antes de que termine el conjuro, no realiza esa acción.</p><p>Si tú o cualquiera de tus compañeros causáis daño al objetivo, el conjuro termina.</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             }
           },
-          "name": "Dragón de hadas verdes",
-          "tokenName": "Dragón de hadas verdes"
+          "name": "Dragón feérico verde",
+          "tokenName": "Dragón feérico verde"
         },
         "hhimFugOGTJyMZu4": {
           "alignment": "Legal malvado",
