@@ -878,14 +878,30 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   queda libre al entrar en el círculo, además de al atacarlo o alterar la sal.
 - Auditorías técnica y editorial sin errores.
 
+### ch5-level2-residents-01 a ch5-level2-residents-03 — Genio, Mustio y fragua
+
+- Revisados tres textos y títulos con referencias físicas 143-147.
+- Conservados los tratos de Keshma y su fracaso al salir mediante magia planar.
+- Usado Gorra del export y mantenidas Khomara/Blackfire como palabras de mando;
+  deben coincidir con el espejo y sus objetos. El PDF traduce Blackfire como
+  Fuego Negro. El pájaro cantor no se restringe a una especie no indicada en inglés.
+- La fragua conserva el juego adicional de herramientas de artesano del export.
+  Se describe al gólem como animado, evitando convertir el «undead» narrativo
+  del original en una clasificación de criatura incompatible con su perfil.
+- Pendiente técnico: el comentario de la tirada porcentual dice «result of 1»
+  aunque comprueba 50 %. Conservados fórmula y comentario, como en casos previos.
+- Completadas las doce páginas de texto del nivel 2. La ficha de Mustio y su
+  Lanzamiento de Conjuros insertado quedan pendientes de revisión propia.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 521 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 524 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4 y cuarenta y dos del capítulo 5. No equivale a 521 páginas del PDF.
-- 1152 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1152 campos distintos.
+  del capítulo 4 y cuarenta y cinco del capítulo 5. No equivale a 524 páginas del PDF.
+- 1158 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1158 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
