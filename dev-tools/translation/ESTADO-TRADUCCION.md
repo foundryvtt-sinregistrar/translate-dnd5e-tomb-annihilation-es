@@ -2136,18 +2136,30 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   hasta cuándo se aparta la mirada: se conserva el turno de la medusa y se
   anota la discrepancia potencial para la revisión funcional de la regla.
 
+### appendix-d-saja — Saja N’baza
+
+- Revisados 118 campos: página de presentación y ambas copias del actor.
+  Historia contrastada con la página física 87; rasgos y conjuros completos
+  contrastados con el exportado inglés, incluidos efectos y mensajes de chat.
+- Conservados los componentes verbales, el regreso en 1d6 días y la
+  excepción de Deseo. Comprobados los destinos y duraciones de Destierro,
+  las opciones de Lanzar maldición y los límites de Libertad de movimiento.
+- La biografía exportada no incluye la concesión de sortilegios ni el posible
+  Geas descritos en el diario de Orolunga. No se insertan párrafos ausentes
+  de la ficha; el contenido permanece en el diario ya revisado.
+
 ## Balance de revisión editorial
 
-- 847 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 848 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 242 de los apéndices A, B, C, D y F.
-  No equivale a 847 páginas del PDF.
-- 7743 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 7743 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 243 de los apéndices A, B, C, D y F.
+  No equivale a 848 páginas del PDF.
+- 7861 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 7861 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas cien biografías en ambas copias de actores: siete
-  príncipes y noventa y tres criaturas o PNJ del apéndice D. Siguen pendientes las demás
+  insertado. Revisadas ciento una biografías en ambas copias de actores: siete
+  príncipes y noventa y cuatro criaturas o PNJ del apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las
