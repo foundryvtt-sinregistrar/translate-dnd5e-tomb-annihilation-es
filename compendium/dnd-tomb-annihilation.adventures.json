@@ -420,17 +420,17 @@
           "items": {
             "hbxC3Wg3H8cSIvM0": {
               "name": "Ataque múltiple",
-              "description": "<p>El mono hace dos. [[/item .jxC1VNaCf2VXlD6C]]{puño} ataques.</p>"
+              "description": "<p>El simio realiza dos ataques de [[/item .jxC1VNaCf2VXlD6C]]{puñetazo}.</p>"
             },
             "jxC1VNaCf2VXlD6C": {
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "name": "Puño",
-              "descriptionChat": "<p>Los monos atacan con su Puño.</p>"
+              "name": "Puñetazo",
+              "descriptionChat": "<p>El simio ataca con su puñetazo.</p>"
             },
             "NsTx3MUaYkEI2t8M": {
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
               "name": "Roca",
-              "descriptionChat": "<p>Los monos atacan con su roca.</p>"
+              "descriptionChat": "<p>El simio ataca con su roca.</p>"
             }
           },
           "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
@@ -840,12 +840,12 @@
             "FsSMPLEC46UKCf7T": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
               "name": "Pico",
-              "descriptionChat": "<p>El pico del hacha ataca con su pico.</p>"
+              "descriptionChat": "<p>El pico de hacha ataca con su pico.</p>"
             }
           },
           "name": "Pico de hacha",
           "tokenName": "Pico de hacha",
-          "biography": "<p><em>Token artwork by </em><a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\"><em>Aventuras olvidadas</em></a><em>.</em></p>"
+          "biography": "<p><em>Ilustración de la ficha por </em><a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\"><em>Forgotten Adventures</em></a><em>.</em></p>"
         },
         "toaAziMas0000000": {
           "alignment": "Sin alineamiento",
@@ -882,17 +882,17 @@
             "EXVZptAEHLscbODF": {
               "name": "Mordisco",
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-              "descriptionChat": "<p>El Baboon ataca con su mordida.</p>"
+              "descriptionChat": "<p>El babuino ataca con su mordisco.</p>"
             },
             "yb6o6KfKlg9bGhqA": {
-              "name": "Tácticas de empaquetado",
+              "name": "Atacar en Manada",
               "requirements": "Babuino",
-              "description": "<p>El babuino tiene ventaja en un ataque rodar contra una criatura si al menos uno de los aliados del babuino está a menos de 5 pies de la criatura y el aliado no está incapacitado.</p>"
+              "description": "<p>El babuino tiene ventaja en una tirada de ataque contra una criatura si al menos uno de sus aliados está a 5 pies o menos de ella y no está incapacitado.</p>"
             }
           },
           "name": "Babuino",
           "tokenName": "Babuino",
-          "biography": "<p><em>Token artwork by </em><a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\"><em>Aventuras olvidadas</em></a><em>.</em></p>"
+          "biography": "<p><em>Ilustración de la ficha por </em><a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\"><em>Forgotten Adventures</em></a><em>.</em></p>"
         },
         "WeoWLPQclgLKAD4S": {
           "items": {
@@ -1474,12 +1474,12 @@
             "hZOM2L6WMmk8QOfO": {
               "name": "Mordisco",
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "descriptionChat": "<p>La Serpiente Constrictor ataca con su mordida.</p>"
+              "descriptionChat": "<p>La serpiente constrictora ataca con su mordisco.</p>"
             },
             "haXdYCAfGXo0iVqC": {
-              "name": "Constricción",
-              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo es &amp;Reference[grappled] (escape CD 14). Hasta que termine esta pelea, la criatura está restringida, y la serpiente no puede constreñir otro objetivo.</p>",
-              "descriptionChat": "<p>La Serpiente Constrictor ataca con su Constricto. El objetivo está enfrentado. Hasta que termine esta pelea, la criatura está restringida, y la serpiente no puede constreñir otro objetivo.</p>"
+              "name": "Constreñir",
+              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo queda &amp;Reference[grappled]{agarrado} (CD 14 para escapar). Hasta que termine este agarre, la criatura está apresada y la serpiente no puede constreñir a otro objetivo.</p>",
+              "descriptionChat": "<p>La serpiente constrictora ataca con Constreñir. El objetivo queda agarrado. Hasta que termine este agarre, la criatura está apresada y la serpiente no puede constreñir a otro objetivo.</p>"
             }
           },
           "name": "Serpiente constrictora",
@@ -1605,7 +1605,7 @@
             "gvfgesIscW0VALbY": {
               "name": "Garra",
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "descriptionChat": "<p>El Cangrejo ataca con su Garra.</p>"
+              "descriptionChat": "<p>El cangrejo ataca con su garra.</p>"
             },
             "ciz8wAZjqxPnu5Pe": {
               "name": "Anfibio",
@@ -2391,13 +2391,13 @@
           "items": {
             "5d7uD5cYAPtlPrWh": {
               "requirements": "Búho",
-              "name": "Pasada",
-              "description": "<p>La serpiente no provoca ataques de oportunidad cuando vuela fuera del alcance de un enemigo.</p>"
+              "name": "Pasar Volando",
+              "description": "<p>La serpiente no provoca ataques de oportunidad cuando sale volando del alcance de un enemigo.</p>"
             },
             "ITtDDLuoOyJbDQpA": {
               "name": "Mordisco",
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "descriptionChat": "<p>La Serpiente Voladora ataca con su mordida.</p>"
+              "descriptionChat": "<p>La serpiente voladora ataca con su mordisco.</p>"
             }
           },
           "name": "Serpiente voladora",
@@ -2625,17 +2625,17 @@
           "items": {
             "NOajNyilBv8JIEVp": {
               "name": "Ataque múltiple",
-              "description": "<p>El mono hace dos. [[/item .N86NeUNsfvruyJGq]]{puño} ataques.</p>"
+              "description": "<p>El simio realiza dos ataques de [[/item .N86NeUNsfvruyJGq]]{puñetazo}.</p>"
             },
             "N86NeUNsfvruyJGq": {
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "name": "Puño",
-              "descriptionChat": "<p>El mono gigante ataca con su Puño.</p>"
+              "name": "Puñetazo",
+              "descriptionChat": "<p>El simio gigante ataca con su puñetazo.</p>"
             },
             "CVDcFc8ZcjYVl1EV": {
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
               "name": "Roca",
-              "descriptionChat": "<p>El Mono Gigante ataca con su Roca.</p>"
+              "descriptionChat": "<p>El simio gigante ataca con su roca.</p>"
             }
           },
           "name": "Simio gigante",
@@ -2671,21 +2671,21 @@
             "qB9j7Epq7UVkGWzY": {
               "name": "Mordisco",
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "descriptionChat": "<p>La Serpiente Constrictora Gigante ataca con su mordida.</p>"
+              "descriptionChat": "<p>La serpiente constrictora gigante ataca con su mordisco.</p>"
             },
             "3FIKn37A037kPgzc": {
-              "name": "Constricción",
-              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo es &amp;Reference[grappled apply=false] (escape CD 16). Hasta que termine esta pelea, la criatura es &amp;Reference[restrained apply=false], y la serpiente no puede constriñir otro objetivo.</p>",
-              "descriptionChat": "<p>La Serpiente Constrictor Gigante ataca con su Constricto. El objetivo está enfrentado. Hasta que termine esta pelea, la criatura está restringida, y la serpiente no puede constreñir otro objetivo.</p>",
+              "name": "Constreñir",
+              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo queda &amp;Reference[grappled apply=false]{agarrado} (CD 16 para escapar). Hasta que termine este agarre, la criatura está &amp;Reference[restrained apply=false]{apresada} y la serpiente no puede constreñir a otro objetivo.</p>",
+              "descriptionChat": "<p>La serpiente constrictora gigante ataca con Constreñir. El objetivo queda agarrado. Hasta que termine este agarre, la criatura está apresada y la serpiente no puede constreñir a otro objetivo.</p>",
               "activities": {
                 "wnShB2qO0F8M7Lcs": {
-                  "name": "Comprobación de escape"
+                  "name": "Prueba para escapar"
                 }
               },
               "effects": {
                 "nH8eXNbRqWVIEQcY": {
-                  "name": "Agarrado y Restringido",
-                  "description": "<p>El objetivo es &amp;Reference[grappled apply=false] (escape CD 16). Hasta que termine esta pelea, la criatura es &amp;Reference[restrained apply=false].</p>"
+                  "name": "Agarrado y apresado",
+                  "description": "<p>El objetivo queda &amp;Reference[grappled apply=false]{agarrado} (CD 16 para escapar). Hasta que termine este agarre, la criatura está &amp;Reference[restrained apply=false]{apresada}.</p>"
                 }
               }
             }
@@ -2777,7 +2777,7 @@
             "fLwfCY0GE5S7mMYv": {
               "name": "Mordisco",
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "descriptionChat": "<p>El Lagarto Gigante ataca con su mordida.</p>"
+              "descriptionChat": "<p>El lagarto gigante ataca con su mordisco.</p>"
             }
           },
           "name": "Lagarto gigante",
@@ -2789,8 +2789,8 @@
           "items": {
             "GlOJaYXJFUP0Hd80": {
               "name": "Mordisco",
-              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo debe hacer un [[/save format=long]], tomando [[/damage average activity=dnd5eactivity100]] daño en un error de guardar, o la mitad de daño en un éxito.</p>",
-              "descriptionChat": "<p>La Serpiente Venenosa Gigante ataca con su mordida. El objetivo debe hacer un <strong>Constitución</strong> El lanzamiento de ahorro.</p>"
+              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo debe realizar una tirada de salvación [[/save format=long]]. Si falla, sufre [[/damage average activity=dnd5eactivity100]] de daño; si tiene éxito, sufre la mitad.</p>",
+              "descriptionChat": "<p>La serpiente venenosa gigante ataca con su mordisco. El objetivo debe realizar una tirada de salvación de <strong>Constitución</strong>.</p>"
             }
           },
           "name": "Serpiente venenosa gigante",
@@ -3070,17 +3070,17 @@
             "I3ioyE4CVHPLGGy7": {
               "name": "Embestida",
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "descriptionChat": "<p>La Cabra ataca con su Ram.</p>"
+              "descriptionChat": "<p>La cabra ataca con su embestida.</p>"
             },
             "fmILoB0arLdodNGB": {
               "name": "Carga",
-              "description": "<p>Si la cabra se mueve por lo menos 20 pies rectos hacia un objetivo y luego le da con un ataque de carnero en el mismo giro, el objetivo toma un extra [[/damage average]] daño.</p><p>Si el objetivo es una criatura, debe tener éxito en un [[/save]] ahorro tirar o ser golpeado &amp;Reference[prone].</p>",
-              "descriptionChat": "<p>Si la cabra se mueve por lo menos 20 pies rectos hacia un objetivo y luego lo golpea con un ataque de carnero en el mismo giro, el objetivo toma un extra <em>Daño por apaleamiento</em>. Si el objetivo es una criatura, debe hacer un <strong>Fuerza</strong> ahorro tirar o ser golpeado propenso.</p>"
+              "description": "<p>Si la cabra se mueve al menos 20 pies en línea recta hacia un objetivo y después lo impacta con una embestida en el mismo turno, el objetivo sufre [[/damage average]] de daño adicional.</p><p>Si el objetivo es una criatura, debe superar una tirada de salvación [[/save]] o caer &amp;Reference[prone]{derribado}.</p>",
+              "descriptionChat": "<p>Si la cabra se mueve al menos 20 pies en línea recta hacia un objetivo y después lo impacta con una embestida en el mismo turno, el objetivo sufre <em>daño contundente</em> adicional. Si es una criatura, debe superar una tirada de salvación de <strong>Fuerza</strong> o caer derribado.</p>"
             },
             "gyY5rw0x4itzMKoj": {
-              "name": "Claro.",
+              "name": "Paso Firme",
               "requirements": "Cabra",
-              "description": "<p>La cabra tiene<strong> ventaja </strong>sobre los lanzamientos de ahorro de fuerza y dexteridad hechos contra los efectos que lo golpearían propenso.</p>"
+              "description": "<p>La cabra tiene<strong> ventaja </strong>en las tiradas de salvación de Fuerza y Destreza contra efectos que la derribarían.</p>"
             }
           },
           "name": "Cabra",
@@ -4033,20 +4033,20 @@
             "ggHLjL39tb62Bwxy": {
               "name": "Mordisco",
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-              "descriptionChat": "<p>El Chacal ataca con su mordida.</p>"
+              "descriptionChat": "<p>El chacal ataca con su mordisco.</p>"
             },
             "fBpB1lIZvuqLD74z": {
-              "name": "Oído y olfato de Keen",
-              "description": "<p>Los [[lookup @name lowercase]] ha<strong> </strong>ventaja<strong> </strong>en la Sabiduría (percepción) cheques que dependen de la audición u olfato.</p>"
+              "name": "Oído y Olfato Agudos",
+              "description": "<p>El [[lookup @name lowercase]] tiene<strong> </strong>ventaja<strong> </strong>en las pruebas de Sabiduría (Percepción) que dependan del oído o del olfato.</p>"
             },
             "JX4jbwWlO8zaTc4s": {
-              "name": "Tácticas de empaquetado",
-              "description": "<p>Los [[lookup @name lowercase]] tiene ventaja en un ataque contra una criatura si al menos uno de los aliados del chacal está a menos de 5 pies de la criatura y el aliado no está incapacitado.</p>"
+              "name": "Atacar en Manada",
+              "description": "<p>El [[lookup @name lowercase]] tiene ventaja en una tirada de ataque contra una criatura si al menos uno de los aliados del chacal está a 5 pies o menos de ella y no está incapacitado.</p>"
             }
           },
           "name": "Chacal",
           "tokenName": "Chacal",
-          "biography": "<p><em>Token artwork by </em><a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\"><em>Aventuras olvidadas</em></a><em>.</em></p>"
+          "biography": "<p><em>Ilustración de la ficha por </em><a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\"><em>Forgotten Adventures</em></a><em>.</em></p>"
         },
         "pKmSv370H6r3ITem": {
           "alignment": "Sin alineamiento",
@@ -4450,7 +4450,7 @@
             "AlO7NtMS64z0faPM": {
               "name": "Mordisco",
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "descriptionChat": "<p>El Lagarto ataca con su mordida.</p>"
+              "descriptionChat": "<p>El lagarto ataca con su mordisco.</p>"
             }
           },
           "name": "Lagarto",
@@ -5479,8 +5479,8 @@
           "items": {
             "obYv0JJqJiMTsoIF": {
               "name": "Mordisco",
-              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo debe hacer un [[/save]] ahorro lanzamiento, toma [[/damage average activity=dnd5eactivity100]] daño en un error de guardar, o la mitad de daño en un éxito.</p>",
-              "descriptionChat": "<p>La Serpiente Venenosa ataca con su mordida. El objetivo debe hacer un <strong>Constitución</strong> El lanzamiento de ahorro.</p>"
+              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo debe realizar una tirada de salvación [[/save]]. Si falla, sufre [[/damage average activity=dnd5eactivity100]] de daño; si tiene éxito, sufre la mitad.</p>",
+              "descriptionChat": "<p>La serpiente venenosa ataca con su mordisco. El objetivo debe realizar una tirada de salvación de <strong>Constitución</strong>.</p>"
             }
           },
           "name": "Serpiente venenosa",
@@ -7564,19 +7564,19 @@
             "ggHLjL39tb62Bwxy": {
               "name": "Mordisco",
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-              "descriptionChat": "<p>El Chacal ataca con su mordida.</p>"
+              "descriptionChat": "<p>El chacal ataca con su mordisco.</p>"
             },
             "fBpB1lIZvuqLD74z": {
-              "name": "Oído y olfato de Keen",
-              "description": "<p>Los [[lookup @name lowercase]] ha<strong> </strong>ventaja<strong> </strong>en la Sabiduría (percepción) cheques que dependen de la audición u olfato.</p>"
+              "name": "Oído y Olfato Agudos",
+              "description": "<p>El [[lookup @name lowercase]] tiene<strong> </strong>ventaja<strong> </strong>en las pruebas de Sabiduría (Percepción) que dependan del oído o del olfato.</p>"
             },
             "JX4jbwWlO8zaTc4s": {
-              "name": "Tácticas de empaquetado",
-              "description": "<p>Los [[lookup @name lowercase]] tiene ventaja en un ataque contra una criatura si al menos uno de los aliados del chacal está a menos de 5 pies de la criatura y el aliado no está incapacitado.</p>"
+              "name": "Atacar en Manada",
+              "description": "<p>El [[lookup @name lowercase]] tiene ventaja en una tirada de ataque contra una criatura si al menos uno de los aliados del chacal está a 5 pies o menos de ella y no está incapacitado.</p>"
             }
           },
           "name": "Perro salvaje",
-          "tokenName": "Chacal"
+          "tokenName": "Perro salvaje"
         },
         "79NHCFacz7Babz8T": {
           "alignment": "Caótico malvado",

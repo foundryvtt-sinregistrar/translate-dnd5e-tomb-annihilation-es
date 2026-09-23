@@ -2394,6 +2394,20 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - El primer enlace de la versión 1.1.0 muestra #1178 y apunta a la incidencia
   1188. Se conserva la discrepancia del original para su comprobación posterior.
 
+### additional-animals-small — Animales adicionales
+
+- Revisados 316 campos de dieciséis perfiles y sus copias de Adventure:
+  murciélago, babuino, cabra, chacal, simio y simio gigante, pico de hacha,
+  cangrejo, lagarto y lagarto gigante, perro salvaje y cinco serpientes.
+  Contraste con el exportado inglés; las biografías solo contienen créditos.
+- Comprobados los agarres y sus CD, el daño de veneno y sus salvaciones,
+  la carga de la cabra, las ventajas sensoriales y las referencias de ataques.
+- La memoria de segmentos tenía «Baboon» asociado a «Kobold» por requisitos
+  heredados en otras fichas. Revisado el contexto: el babuino se traduce como
+  «Babuino», sin propagar automáticamente esta equivalencia a otras especies.
+- Pasar Volando de la serpiente voladora conserva el requisito original «Owl»,
+  traducido «Búho». Es un dato heredado incoherente, pendiente de reparación.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2403,8 +2417,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
   de Foundry, tres de créditos y cuatro de historial.
   No equivale a 931 páginas del PDF.
-- 10639 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 10639 campos distintos.
+- 10955 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 10955 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento treinta y cuatro biografías en ambas copias de actores: siete
   príncipes y ciento veintisiete criaturas o PNJ vinculados al apéndice D. Siguen pendientes las demás
