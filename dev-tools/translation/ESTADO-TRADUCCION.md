@@ -1512,15 +1512,25 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Esta comprobación corrige el registro de incidencias; no añade campos a la
   revisión lingüística ni acredita el funcionamiento de los enlaces en Foundry.
 
+### appendix-d-start — Introducción y primeras páginas de criaturas
+
+- Revisadas seis páginas (12 registros): introducción del apéndice, Acererak,
+  enanos albinos, aldani, almiraj y Artus Cimber. Referencias físicas 210–213 y 220.
+- Revisados los ideales, vínculos y defectos de Acererak y Artus y el texto
+  general de los enanos albinos. Aclarado que el orden alfabético es el inglés.
+- Las biografías y perfiles insertados requieren revisión en sus actores;
+  estas páginas no acreditan por sí solas la revisión de las fichas.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 751 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 757 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 146 de los apéndices A, B, C y F.
-  No equivale a 751 páginas del PDF.
-- 2371 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 2371 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 152 de los apéndices A, B, C, D y F.
+  No equivale a 757 páginas del PDF.
+- 2383 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 2383 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
