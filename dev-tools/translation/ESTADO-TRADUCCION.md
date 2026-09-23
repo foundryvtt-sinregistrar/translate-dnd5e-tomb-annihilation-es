@@ -952,14 +952,25 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Conservada «Selected» como rótulo de interfaz del original hasta comprobar
   la versión de Foundry empleada. Auditorías técnica y editorial sin errores.
 
+### ch5-level3-kubazan-01 — Ritual de Kubazan
+
+- Revisado texto completo y título con referencias físicas 155-156.
+- Conservadas las cuatro acciones en cualquier orden y la máscara obligatoria
+  en cada una. Diferenciadas la trampa por ritual incorrecto y la rociada por
+  abrir el sarcófago sin ritual; esta afecta también al pasillo sur.
+- Conservadas las flechas de un punto de daño y la posesión al tocar cualquiera
+  de los brazales. Pendiente técnico: el enlace del apéndice D junto a los huesos
+  del ranamot usa la misma página que el grung de Nangnang en el export.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 546 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 547 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4 y sesenta y siete del capítulo 5. No equivale a 546 páginas del PDF.
-- 1202 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1202 campos distintos.
+  del capítulo 4 y sesenta y ocho del capítulo 5. No equivale a 547 páginas del PDF.
+- 1204 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1204 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz

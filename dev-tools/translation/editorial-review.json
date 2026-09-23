@@ -14752,6 +14752,33 @@
           "status": "reviewed-against-es-extraction-and-en-export"
         }
       ]
+    },
+    {
+      "id": "ch5-level3-kubazan-01",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level3Vaul.pages.lC1p3SMNdQlQxIGW.text",
+          "sourceSha256": "0bd419bee6ffc67d39c42149d461cdb4f207ff7595cf026c704fa1a20dfc7c7b",
+          "translationSha256": "5b895c3e3f340515a08c86da23dc8a88d6ef220a6bc8d393a8c03284749a9924",
+          "pdfEsPages": [
+            155,
+            156
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export",
+          "note": "Full-page record; includes earlier reviewed sections where applicable. Foundry-specific text translated from the export."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level3Vaul.pages.lC1p3SMNdQlQxIGW.name",
+          "sourceSha256": "2abd6a33cc49482d25fb9d2001c8c4cfc7fe975d6d012b1dacfe571b7500a864",
+          "translationSha256": "c7d79ee58e0c2b7a27ae8d86a80ab0ba6b45c3e1eee9010c6427940faecec195",
+          "pdfEsPages": [
+            155,
+            156
+          ],
+          "status": "reviewed-against-es-extraction-and-en-export"
+        }
+      ]
     }
   ]
 }
