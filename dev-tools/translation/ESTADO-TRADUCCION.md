@@ -2631,6 +2631,21 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   funcional. El campo de idiomas del espantapájaros conserva el genérico
   «idiomas de su creador»; su biografía especifica que entiende común.
 
+### additional-special-actors — Muñecos, vehículos y actores auxiliares
+
+- Revisados siete perfiles en ambas copias: torre de combate batiri, canoa,
+  Clay Sinrostro, Joho, velero, duplicado de sombra y Briznas: 84 registros.
+- Contrastados los nombres y sortilegios de los muñecos con las páginas
+  físicas 180–181 españolas. «Clay Sinrostro» sustituye al borrador «Sin Rostro
+  de arcilla»; debe propagarse esta normalización en la pasada de coherencia
+  general a cualquier mención anterior que conserve el borrador.
+- Comprobados los tres usos de Briznas, treinta días de Clay y siete de Joho,
+  y revisado el texto completo de excursión etérea contra el inglés. Corregido
+  el sujeto del chat del duplicado de sombra, que heredaba «plebeyo».
+- La biografía del velero solo contiene un enlace a su escena; no se cuenta
+  como biografía narrativa. Los perfiles mínimos no incluyen texto adicional
+  que pueda considerarse revisado mediante estos registros.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2640,8 +2655,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
   de Foundry, tres de créditos y cuatro de historial.
   No equivale a 931 páginas del PDF.
-- 14711 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 14711 campos distintos.
+- 14795 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 14795 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento cuarenta biografías en ambas copias de actores: siete
   príncipes, ciento veintisiete criaturas o PNJ vinculados al apéndice D y seis perfiles

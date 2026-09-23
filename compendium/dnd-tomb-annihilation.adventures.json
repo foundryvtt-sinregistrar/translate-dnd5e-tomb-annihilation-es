@@ -1027,12 +1027,12 @@
             "EvS9QZ9DmbSIoKA2": {
               "name": "Cimitarra",
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-              "descriptionChat": "<p>El Duende ataca con su Scimitar.</p>"
+              "descriptionChat": "<p>El goblin ataca con su cimitarra.</p>"
             },
             "mxZZ1VUwCmXObd8E": {
               "name": "Arco corto",
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-              "descriptionChat": "<p>El Goblin ataca con su Shortbow.</p>"
+              "descriptionChat": "<p>El goblin ataca con su arco corto.</p>"
             }
           },
           "name": "Torre de combate batiri",
@@ -6008,13 +6008,13 @@
             "HwktDnB8qdr0BYGZ": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
               "name": "Garrote",
-              "descriptionChat": "<p>El Común ataca con su Club.</p>"
+              "descriptionChat": "<p>El duplicado de sombra ataca con su garrote.</p>"
             }
           },
-          "name": "Duplicar sombra",
-          "alignment": "Cualquiera",
-          "languages": "cualquier idioma (generalmente común)",
-          "tokenName": "Duplicar sombra"
+          "name": "Duplicado de sombra",
+          "alignment": "Cualquier alineamiento",
+          "languages": "Un idioma cualquiera (normalmente común)",
+          "tokenName": "Duplicado de sombra"
         },
         "2bkoBhhXzP7yFFls": {
           "alignment": "Sin alineamiento",
@@ -15969,12 +15969,12 @@
           "tokenName": "Tentáculos"
         },
         "toaClayNoFace000": {
-          "name": "Sin Rostro de arcilla",
-          "tokenName": "Sin Rostro de arcilla",
+          "name": "Clay Sinrostro",
+          "tokenName": "Clay Sinrostro",
           "items": {
             "SC5ECkxBiLDx7vuV": {
-              "name": "El encanto de Clay No-Face",
-              "description": "<p>Mientras que usted tiene Clay No-Face en su posesión, usted no necesita comer, beber, o respirar. Estos beneficios duran 30 días mientras que la muñeca está en su posesión, después de lo cual el encanto desaparece de usted.</p>"
+              "name": "Sortilegio de Clay Sinrostro",
+              "description": "<p>Mientras tengas a Clay Sinrostro en tu poder, no necesitas comer, beber ni respirar. Estos beneficios duran 30 días mientras conserves el muñeco, tras los cuales el sortilegio desaparece.</p>"
             }
           }
         },
@@ -15983,34 +15983,34 @@
           "tokenName": "Joho",
           "items": {
             "dVKBToVINPJf3ln0": {
-              "name": "El encanto de Joho",
-              "description": "<p>Mientras tienes a Joho en tu posesión, te otorga el beneficio de un @UUID[Compendium.dnd5e.items.Item.rY9sRFQp5CFSfsat]{timón de comprensión de idiomas}. Este beneficio dura 7 días mientras la muñeca está en su posesión, después de lo cual el encanto se desvanece de usted.</p>"
+              "name": "Sortilegio de Joho",
+              "description": "<p>Mientras tengas a Joho en tu poder, te concede los beneficios de un @UUID[Compendium.dnd5e.items.Item.rY9sRFQp5CFSfsat]{yelmo de entender idiomas}. Este beneficio dura 7 días mientras conserves el muñeco, tras los cuales el sortilegio desaparece.</p>"
             },
             "ywbBgp2bCKdQeZhL": {
-              "name": "Comprender idiomas",
-              "description": "<p>Por la duración, usted entiende el significado literal de cualquier lenguaje hablado que usted oiga. Usted también entiende cualquier lenguaje escrito que usted ve, pero usted debe estar tocando la superficie en la cual las palabras están escritas. Se tarda aproximadamente 1 minuto en leer una página de texto.</p><p>Este conjuro no decodifica mensajes secretos en un texto o un glifo, como un sigil arcano, que no es parte de un lenguaje escrito.</p>",
+              "name": "Entender idiomas",
+              "description": "<p>Durante el conjuro, entiendes el significado literal de cualquier idioma hablado que oigas. También entiendes cualquier idioma escrito que veas, pero debes tocar la superficie en la que estén escritas las palabras. Tardas aproximadamente 1 minuto en leer una página de texto.</p><p>Este conjuro no descifra mensajes secretos en un texto ni glifos, como un sello arcano, que no formen parte de un idioma escrito.</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             }
           }
         },
         "toaStrawbundle00": {
-          "name": "Espárrago",
-          "tokenName": "Espárrago",
+          "name": "Briznas",
+          "tokenName": "Briznas",
           "items": {
             "auaRX39y3d30T5eb": {
-              "name": "El encanto de Strawbundle",
-              "description": "<p>Mientras que usted tiene Strawbundle en su posesión, este encanto le permite lanzar el @UUID[Compendium.dnd5e.spells.Item.PQuEgKyCdovOvhqN]{etérea} como una acción, no se requieren componentes. Después de que se utiliza tres veces, el encanto desaparece.</p>"
+              "name": "Sortilegio de Briznas",
+              "description": "<p>Mientras tengas a Briznas en tu poder, este sortilegio te permite lanzar el conjuro @UUID[Compendium.dnd5e.spells.Item.PQuEgKyCdovOvhqN]{excursión etérea} como acción, sin necesidad de componentes. Tras usarlo tres veces, el sortilegio desaparece.</p>"
             },
             "YA9oNecxQeUZk7px": {
               "name": "Excursión etérea",
-              "description": "<p>Entras en las regiones fronterizas del Plano Etéreo, en la zona donde se superpone con tu plano actual. Usted permanece en la frontera Etérea durante la Duración o hasta que utilice su acción para descartar el conjuro. Durante este tiempo, usted puede moverse en cualquier dirección. Si usted se mueve hacia arriba o hacia abajo, cada pie de Movimiento cuesta un pie extra. Puedes ver y oír el plano del que te originaste, pero todo allí se ve gris, y no puedes ver nada a más de 60 pies de distancia.</p><p>Mientras estés en el plano Ethereal, solo puedes afectar y ser afectado por otras criaturas en ese plano. Las criaturas que no están en el Plano Etéreo no pueden percibirte y no pueden interactuar contigo, a menos que una habilidad especial o magia les haya dado la habilidad de hacerlo.</p><p>Ignoras todos los Objetos y Efectos que no están en el Plano Etéreo, lo que te permite moverte a través de objetos que percibes en el plano del que te originaste.</p><p>Cuando el conjuro termina, regresas inmediatamente al plano del que te originaste en el lugar que ocupas actualmente. Si usted ocupa el mismo lugar que un objeto sólido o criatura cuando esto sucede, usted es inmediatamente desviado al espacio desocupado más cercano que usted puede ocupar y tomar daño de la fuerza igual al doble del número de pies que se mueven.</p><p>Este conjuro no tiene ningún efecto si lo lanzas mientras estás en el Plano Etéreo o en un plano que no lo bordea, como uno de los Planos Exteriores.</p><p><strong>En los niveles superiores.</strong> Cuando usted lanza este conjuro usando un conjuro ranura de 8o nivel o superior, usted puede apuntar hasta tres criaturas dispuestas (incluyendo usted) para cada nivel de ranura por encima de 7o. Las criaturas deben estar a menos de 10 pies de ti cuando lances el conjuro.</p>",
+              "description": "<p>Te adentras en las regiones fronterizas del Plano Etéreo, en la zona donde se superpone a tu plano actual. Permaneces en la Frontera Etérea mientras dure el conjuro o hasta que uses tu acción para terminarlo. Durante este tiempo puedes moverte en cualquier dirección. Si asciendes o desciendes, cada pie de movimiento cuesta un pie adicional. Puedes ver y oír el plano del que procedes, pero todo parece gris y no puedes ver nada a más de 60 pies.</p><p>Mientras estés en el Plano Etéreo, solo puedes afectar a otras criaturas que estén en él y solo ellas pueden afectarte. Las criaturas que no estén en el Plano Etéreo no pueden percibirte ni interactuar contigo, salvo que una aptitud especial o la magia les permitan hacerlo.</p><p>Ignoras todos los objetos y efectos que no estén en el Plano Etéreo, lo que te permite atravesar los objetos que percibas en tu plano de origen.</p><p>Cuando termina el conjuro, vuelves inmediatamente a tu plano de origen en el lugar que ocupas en ese momento. Si ese lugar está ocupado por un objeto sólido o una criatura, eres desplazado inmediatamente al espacio desocupado más cercano que puedas ocupar y sufres daño de fuerza igual al doble de los pies que hayas sido desplazado.</p><p>Este conjuro no tiene efecto si lo lanzas estando en el Plano Etéreo o en un plano que no limite con él, como uno de los Planos Exteriores.</p><p><strong>A niveles superiores.</strong> Si lanzas este conjuro usando un espacio de nivel 8 o superior, puedes elegir como objetivo hasta tres criaturas voluntarias (incluyéndote a ti) por cada nivel del espacio por encima de 7. Las criaturas deben estar a 10 pies o menos de ti cuando lances el conjuro.</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             }
@@ -16382,17 +16382,17 @@
           "tokenName": "Canoa"
         },
         "toaSailingShip00": {
-          "name": "Navío de vela",
-          "tokenName": "Navío de vela",
-          "biography": "<p><strong>Escena:</strong> @UUID[Scene.toaShip000000000]{Buque}</p>",
+          "name": "Velero",
+          "tokenName": "Velero",
+          "biography": "<p><strong>Escena:</strong> @UUID[Scene.toaShip000000000]{Barco}</p>",
           "items": {
             "x5RANbuAtEpJa4qX": {
               "name": "Balista",
-              "description": "<p>[[/attack extended]], un blanco. <em>Pulse:</em> [[/damage]].</p>"
+              "description": "<p>[[/attack extended]], un objetivo. <em>Impacto:</em> [[/damage]].</p>"
             },
             "tab9A4OFYfQ4cVPi": {
               "name": "Mangonel",
-              "description": "<p>[[/attack extended]], un blanco. <em>Pulse:</em> [[/damage]]. (No se puede alcanzar objetivos dentro de 60 pies de ella).</p>"
+              "description": "<p>[[/attack extended]], un objetivo. <em>Impacto:</em> [[/damage]]. (No puede impactar a objetivos a 60 pies o menos).</p>"
             }
           }
         }
