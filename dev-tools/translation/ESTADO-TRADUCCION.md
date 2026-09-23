@@ -1388,15 +1388,29 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   se suma a los comentarios de tirada pendientes de corrección funcional.
 - Auditorías técnica y editorial sin errores.
 
+### appendix-b-factions — Dragones, facciones y exploradores
+
+- Revisadas nueve páginas (18 registros): dragones feérico y rojo, eblis,
+  Enclave Esmeralda, explorador muerto, exploradores, salamandras flamígeras,
+  caracol flagelo y Puño Ardiente. Referencias físicas 198, 200, 201, 203 y 204.
+- Corregidos el secuestro de los eblis («llevarse a rastras») y la plataforma
+  del Enclave (cuadrado de 10 pies de lado, no 10 pies cuadrados).
+- Conservadas las patrullas, los permisos y los golpes para dejar inconsciente.
+  El Enclave conserva la prueba exportada; el PDF añade que es de grupo.
+- Yesca sigue siendo joven en este encuentro, como dicen ambos textos de
+  referencia; la biografía insertada del actor pendiente la llama adulta.
+  Hay que resolver esa discordancia al revisar el actor y su adaptación.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 666 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 675 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 61 de los apéndices A, B, C y F.
-  No equivale a 666 páginas del PDF.
-- 1686 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1686 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 70 de los apéndices A, B, C y F.
+  No equivale a 675 páginas del PDF.
+- 1704 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1704 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
