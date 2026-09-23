@@ -16694,15 +16694,15 @@
             },
             "5DabOzdl7JSybHjO": {
               "name": "Zombis",
-              "text": "<p>Los personajes captan el olor de la muerte en el aire y escuchan a los muertos vivientes aserrando por la selva. Rodar un d10 para determinar lo que aparece:</p><p>@embed[Compendium.dnd-tomb-annihilation.tables.RollTable.toaZombies000000 rollable classes=\"caption-top\" resultLabel=\"Type of Zombie that Appears\"]</p>"
+              "text": "<p>Los personajes perciben el olor de la muerte en el aire y oyen a los muertos vivientes avanzar pesadamente por la selva. Tira un d10 para determinar qué aparece:</p><p>@embed[Compendium.dnd-tomb-annihilation.tables.RollTable.toaZombies000000 rollable classes=\"caption-top\" resultLabel=\"Type of Zombie that Appears\"]</p>"
             },
             "X2dUH2NQC6jcIfR7": {
               "text": "<p>@Embed[Compendium.dnd-tomb-annihilation.tables.RollTable.dmgRanEncCaches0 rollable classes=\"caption-top\" resultLabel=\"Cache\"]</p>",
-              "name": "Cachés (cuadro)"
+              "name": "Alijos (tabla)"
             },
             "UwGPZMxn6jZbSoPs": {
               "text": "<p>@Embed[Compendium.dnd-tomb-annihilation.tables.RollTable.dmgRanEncDeadExp classes=\"caption-top\" rollable resultLabel=\"Remains\"]</p>",
-              "name": "Exploradores muertos (cuadro)"
+              "name": "Exploradores muertos (tabla)"
             },
             "e3w3UteCJs10b7zQ": {
               "name": "Apéndice B",
@@ -16989,24 +16989,24 @@
               "text": "<p>Si el encuentro ocurre mientras los personajes viajan, avistan @UUID[Actor.toaEncZorbos0000]{2d6 zorbos} (consulta el @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{apéndice D}) en árboles wukka (consulta el @UUID[JournalEntry.toaAppCDiscoveri.JournalEntryPage.gwfMk4Y3JbM7WKFo]{apéndice C}). Las criaturas gruñen y enseñan los dientes si algún personaje se acerca. Si los aventureros actúan de forma amenazadora, los zorbos atacan.</p><p>Si el encuentro ocurre mientras el grupo está acampado, los zorbos hambrientos se dejan caer desde los árboles circundantes y atacan.</p>"
             },
             "l3qysaO8hAxEQXSo": {
-              "name": "Encuentros Omu",
-              "text": "<p>Los encuentros aleatorios en Omu pueden tener lugar en edificios y calles en ruinas, en los pantanos fétidos alrededor de los edificios, y en el palacio real en ruinas. Girar a [[/r d20]] tres veces por día de tiempo de juego, comprobando los encuentros cada mañana, tarde, y noche o noche. Un encuentro ocurre en un rollo de 18 o más. Tira los dados del percentil y revisa la mesa de Omu Encounters para ver el terreno apropiado para ver qué encuentran los personajes.</p><p>A continuación se describen cuatro encuentros aleatorios adicionales que ocurren sólo en Omu.</p>"
+              "name": "Encuentros en Omu",
+              "text": "<p>Los encuentros aleatorios en Omu pueden ocurrir en sus edificios y calles en ruinas, en los fétidos pantanos que rodean los edificios y en el palacio real derruido. Tira un [[/r d20]] tres veces por cada día de juego: por la mañana, por la tarde y al anochecer o por la noche. Con un resultado de 18 o más, se produce un encuentro. Tira los dados porcentuales y consulta la columna de la tabla «Encuentros en Omu» correspondiente al terreno para determinar qué encuentran los personajes.</p><p>A continuación se describen cuatro encuentros aleatorios adicionales que solo ocurren en Omu.</p>"
             },
             "5zedwEFZyvIyTNQd": {
-              "name": "Gargolas",
-              "text": "<p>Encaramados en un acantilado están @UUID[Actor.toaEncGargoyles0]{gárgolas 2d4} que se precipitan hacia abajo para atacar. Dos de ellos llevan una red entre ellos. Como una acción, cualquiera de las gárgolas puede usar la red para hacer un ataque de arma cuerpo a cuerpo ([[/attack +4]]) contra una criatura pequeña o mediana. Si el ataque golpea, las gárgolas elevan al personaje al aire y vuelan con su captura. Se necesitan ambas gárgolas para levantar la red si tiene una criatura atrapada en ella. Las gárgolas huyen si se reducen a la mitad.</p>"
+              "name": "Gárgolas",
+              "text": "<p>@UUID[Actor.toaEncGargoyles0]{2d4 gárgolas} posadas en un risco se lanzan en picado para atacar. Dos de ellas llevan una red entre ambas. Como acción, cualquiera de las dos puede usarla para realizar un ataque con arma cuerpo a cuerpo ([[/attack +4]]) contra una criatura Pequeña o Mediana. Si el ataque impacta, las gárgolas izan al personaje y se lo llevan volando. Ambas deben levantar la red cuando hay una criatura atrapada en ella. Las gárgolas huyen cuando su número se reduce a la mitad.</p>"
             },
             "drDo3wiw6ZboPNwt": {
-              "name": "Arañas Lobo Gigante",
-              "text": "<p>Los personajes son atacados por @UUID[Actor.toaEncGiantWolfS]{1d6 arañas lobo gigantes} Viviendo en agujeros ocultos en las ruinas cercanas. Una búsqueda de la guarida de las arañas podría producir tesoro; rodar una vez en el @UUID[Compendium.dnd-tomb-annihilation.tables.RollTable.dmgTreasureDrops]{Gotas de tesoro} tabla para determinar qué, en su caso, se encuentra.</p>"
+              "name": "Tarántulas gigantes",
+              "text": "<p>@UUID[Actor.toaEncGiantWolfS]{1d6 tarántulas gigantes} que viven en escondrijos de las ruinas cercanas atacan a los personajes. Un registro de su guarida podría revelar tesoros. Tira una vez en la tabla @UUID[Compendium.dnd-tomb-annihilation.tables.RollTable.dmgTreasureDrops]{Tesoros obtenidos} para determinar qué encuentran, si es que hay algo.</p>"
             },
             "yP8dAuEcI4ptJQcG": {
               "name": "Rey de Plumas",
-              "text": "<p>Los personajes encuentran el tiranosaurio rex conocido como el @UUID[Actor.toaKingofFeather]{Rey de Plumas}. Ver @UUID[JournalEntry.toaCh3LocationsI.JournalEntryPage.ep2uaDqCaXXtHhG3]{Capítulo 3} para más información sobre esta bestia única.</p>"
+              "text": "<p>Los personajes encuentran al tiranosaurio rex conocido como el @UUID[Actor.toaKingofFeather]{Rey de Plumas}. Consulta el @UUID[JournalEntry.toaCh3LocationsI.JournalEntryPage.ep2uaDqCaXXtHhG3]{capítulo 3} para obtener más información sobre esta bestia singular.</p>"
             },
             "aTNpWLwHXTzBONVa": {
               "name": "Kobolds",
-              "text": "<p>Mudarse a través de la ciudad o las ruinas del palacio son @UUID[Actor.toaEncKobolds000]{1d4 + 1 kobolds} dirigida por un inventor de kobold (véase @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{Apéndice D}). Caracteres con una [[/skill perception 12 passive format=long]] detectar los kobolds, que huyen si se acercan o atacan. Los kobolds sirven el brujo escala kobold Kakarol (ver @UUID[JournalEntry.toaCh3LocationsI.JournalEntryPage.CNMd61UQ8lhDwc0L]{Capítulo 3}). Podrían estar de camino a uno de los santuarios de la ciudad para restablecer sus trampas, o podrían estar regresando a su guarida con un tesoro recientemente descubierto. Rodar una vez en el @UUID[RollTable.dmgTreasureDrops]{Gotas de tesoro} mesa para determinar qué, en todo caso, los kobolds encontraron.</p>"
+              "text": "<p>@UUID[Actor.toaEncKobolds000]{1d4 + 1 kobolds} al mando de un inventor kobold (consulta el @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{apéndice D}) se desplazan por las ruinas de la ciudad o del palacio. Los personajes con [[/skill perception 12 passive format=long]] detectan a los kobolds, que huyen si alguien se acerca o los ataca. Sirven al hechicero escamoso kobold Kakarol (consulta el @UUID[JournalEntry.toaCh3LocationsI.JournalEntryPage.CNMd61UQ8lhDwc0L]{capítulo 3}). Podrían dirigirse a uno de los santuarios de la ciudad para rearmar sus trampas, o regresar a su guarida con un tesoro recién descubierto. Tira una vez en la tabla @UUID[RollTable.dmgTreasureDrops]{Tesoros obtenidos} para determinar qué han encontrado, si es que llevan algo.</p>"
             },
             "f7KoXG9EETkOFjWP": {
               "name": "Alosaurios",
@@ -17062,26 +17062,26 @@
             },
             "6B3D5AUPVUAOJ0NW": {
               "name": "Gules",
-              "text": "<p>Cualquier personaje con un [[/skill perception 12 passive format=long]] y huele un paquete de ghoul que se acerca, que consiste en @UUID[Actor.toaEncUndGhouls0]{2d6 ghouls liderados por un horror}. El horror tiene un triángulo azul tatuado en su frente, un indicador de que una vez sirvió a Ras Nsi.</p>"
+              "text": "<p>Cualquier personaje con [[/skill perception 12 passive format=long]] oye y huele a una manada que se aproxima, formada por @UUID[Actor.toaEncUndGhouls0]{2d6 gules al mando de un ghast}. El ghast tiene un triángulo azul tatuado en la frente, señal de que sirvió a Ras Nsi.</p>"
             },
             "Z3HUhn73b2jVcmOv": {
               "name": "Esqueletos",
-              "text": "<p>Los personajes se cruzan @UUID[Actor.toaEncUndSkeleto]{esqueletos 3d6}. Si el encuentro ocurre mientras la fiesta está viajando, los esqueletos están yaciendo en el suelo o enterrados bajo él, listos para brotar cuando los exploradores descarriados pasen. Si la fiesta está acampada, los esqueletos van al campamento y atacan.</p>"
+              "text": "<p>Los personajes se topan con @UUID[Actor.toaEncUndSkeleto]{3d6 esqueletos}. Si el encuentro ocurre mientras el grupo viaja, están tendidos en el suelo o enterrados bajo él, listos para levantarse cuando pasen unos exploradores incautos. Si el grupo está acampado, los esqueletos llegan al campamento y atacan.</p>"
             },
             "z8gbsCGIC5Pv6W81": {
               "name": "Espectro",
-              "text": "<p>El remanente malvado de un explorador muerto se ha convertido en un @UUID[Actor.2OrBk5MGYxBt1Gwt]{espectro} que ataca al partido. El cuerpo del explorador se puede encontrar con un éxito [[/check Survival 13 format=long]]. Si los personajes localizan el cuerpo, ver @UUID[JournalEntry.toaAppBRandomEnc.JournalEntryPage.w0W4NqfwoIXFsq5o]{Explorador, muerto} más temprano en esta sección para determinar lo que encuentran.</p>"
+              "text": "<p>El espíritu maligno de un explorador muerto se ha convertido en un @UUID[Actor.2OrBk5MGYxBt1Gwt]{espectro} que ataca al grupo. El cadáver del explorador puede encontrarse si se supera una [[/check Survival 13 format=long]]. Si los personajes lo localizan, consulta @UUID[JournalEntry.toaAppBRandomEnc.JournalEntryPage.w0W4NqfwoIXFsq5o]{Explorador muerto}, anteriormente en esta sección, para determinar qué encuentran.</p>"
             },
             "NP8AdwONv9AOfKBH": {
               "name": "Tumulario",
-              "text": "<p>Los personajes encuentran un @UUID[Actor.JS5HU46CO73xXk0n]{wight} que ha acechado en la selva de Chultán desde antes de la plaga de conjuros. Contiene un odio eterno por los chultanes y todo lo relacionado con Ubtao. Si el partido incluye a cualquier Chultans o cualquier personaje que lleve el símbolo sagrado de Ubtao, el wight ataca a esos personajes en preferencia a otros objetivos.</p>"
+              "text": "<p>Los personajes encuentran a un @UUID[Actor.JS5HU46CO73xXk0n]{tumulario} que acecha en la selva chultana desde antes de la Plaga de Conjuros. Siente un odio eterno por los chultanos y por todo lo relacionado con Ubtao. Si el grupo incluye a algún chultano o a un personaje que lleve el símbolo sagrado de Ubtao, el tumulario lo ataca antes que a otros objetivos.</p>"
             },
             "mmAfRVMJuxe9OT5y": {
-              "name": "Gotas de tesoro",
+              "name": "Tesoros obtenidos",
               "text": "<p>@embed[Compendium.dnd-tomb-annihilation.tables.RollTable.dmgTreasureDrops rollable classes=\"caption-top\" resultLabel=\"Treasure\"]</p>"
             },
             "ZRmHuWYmfw9oCr4r": {
-              "name": "Situación del grupo Explorer (Tabla)",
+              "name": "Situación del grupo de exploradores (tabla)",
               "text": "<p>@embed[Compendium.dnd-tomb-annihilation.tables.RollTable.toaAppBExplorers rollable classes=\"caption-top\" resultLabel=\"Group’s Situation\"]</p>"
             },
             "ANZCvA2WkaJONAak": {
@@ -17089,15 +17089,15 @@
               "text": "<p>@embed[Compendium.dnd-tomb-annihilation.tables.RollTable.toaencBeach00000 rollable resultLabel=\"Encounter\"]</p>"
             },
             "7csEp6DvgVIFzA9X": {
-              "name": "No hay muertos vivientes",
+              "name": "Sin muertos vivientes",
               "text": "<p>@embed[Compendium.dnd-tomb-annihilation.tables.RollTable.toaencJungle0000 rollable resultLabel=\"Encounter\"]</p>"
             },
             "cTazK7gawYUa7Lbb": {
-              "name": "Menos muertos vivientes",
+              "name": "Pocos muertos vivientes",
               "text": "<p>@embed[Compendium.dnd-tomb-annihilation.tables.RollTable.toaencJungle1000 rollable resultLabel=\"Encounter\"]</p>"
             },
             "O12LXuIvaay3kXRi": {
-              "name": "Mayores muertos vivientes",
+              "name": "Muchos muertos vivientes",
               "text": "<p>@embed[Compendium.dnd-tomb-annihilation.tables.RollTable.toaencJungle2000 rollable resultLabel=\"Encounter\"]</p>"
             },
             "3Ngx9gCIMkNOeT83": {
@@ -17109,7 +17109,7 @@
               "text": "<p>@embed[Compendium.dnd-tomb-annihilation.tables.RollTable.toaencRivers0000 rollable resultLabel=\"Encounter\"]</p>"
             },
             "H0F2McCeLNcf6VI6": {
-              "name": "Tierras baldías",
+              "name": "Eriales",
               "text": "<p>@embed[Compendium.dnd-tomb-annihilation.tables.RollTable.toaencWasteland0 rollable resultLabel=\"Encounter\"]</p>"
             },
             "U50mEGu64s8mFlcb": {

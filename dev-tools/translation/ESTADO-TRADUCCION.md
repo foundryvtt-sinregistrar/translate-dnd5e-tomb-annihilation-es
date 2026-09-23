@@ -1451,15 +1451,28 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   exportado y el Anillo del Invierno revisado; el PDF convierte a Celsius.
 - Auditorías técnica y editorial sin errores.
 
+### appendix-b-omu — Omu, muertos vivientes y páginas de tablas
+
+- Revisadas diez páginas narrativas y dieciséis páginas que insertan tablas
+  (52 registros), con referencias físicas 195–199, 201, 203 y 205.
+- Completadas las 116 páginas de diario del apéndice B. Esto no acredita las
+  tablas ni los actores enlazados: se revisan como documentos independientes.
+- Conservados umbral de encuentro 18, red compartida por dos gárgolas,
+  rearmado de trampas por los kobolds y selección de objetivos del tumulario.
+- Reconstruida la frase truncada del encuentro de gules con el PDF: el
+  personaje con Percepción suficiente oye y huele a la manada que se acerca.
+- Auditorías técnica y editorial sin errores. Los títulos internos de Embed
+  en inglés siguen registrados como pendientes de presentación.
+
 ## Balance de revisión editorial
 
-- 725 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 751 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 120 de los apéndices A, B, C y F.
-  No equivale a 725 páginas del PDF.
-- 1804 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1804 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 146 de los apéndices A, B, C y F.
+  No equivale a 751 páginas del PDF.
+- 1856 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1856 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
