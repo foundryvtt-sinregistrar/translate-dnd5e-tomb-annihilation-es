@@ -782,14 +782,27 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   Esto no implica que estén revisados sus seis niveles de localizaciones.
 - Auditorías técnica y editorial sin errores.
 
+### ch5-level1-entrance-01 a ch5-level1-entrance-06 — Acceso a los salones putrefactos
+
+- Revisados seis textos y títulos con referencias físicas 131-133.
+- La pista «Uno se alza entre ellos» conserva la posición central de Unkh,
+  frente a «Uno destaca entre ellos» del PDF. «Las llaves solo giran por dentro»
+  mantiene la otra pista. La ayuda 17 debe actualizarse junto con estas frases.
+- En la advertencia, el inglés llama entrada falsa a la zona 2 y galería a la 3.
+  Corregidos los nombres conforme a las páginas enlazadas y al PDF, conservando
+  números y UUID: zona 2, galería; zona 3, entrada falsa.
+- Conservados los seis éxitos necesarios para taponar la trampa activa y su
+  rearme tras diez asaltos. Añadido rótulo español a la referencia de terreno difícil.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 484 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 490 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4 y cinco del capítulo 5. No equivale a 484 páginas del PDF.
-- 1078 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1078 campos distintos.
+  del capítulo 4 y once del capítulo 5. No equivale a 490 páginas del PDF.
+- 1090 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1090 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
