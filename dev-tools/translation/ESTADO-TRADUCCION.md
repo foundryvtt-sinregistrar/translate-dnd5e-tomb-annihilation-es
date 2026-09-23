@@ -2667,6 +2667,17 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   mientras que el efecto dice genéricamente «curación mágica». Pendiente de
   reconciliación funcional; no se amplía la regla de la descripción del arco.
 
+### additional-fiends-three — Mezzoloth, nycaloth y nalfeshnee
+
+- Revisados los tres perfiles y sus conjuros en ambas copias: 184 registros
+  contrastados con el exportado inglés. Comprobados los distintos alcances de
+  teletransporte, la invisibilidad del nycaloth solo sobre sí mismo y la
+  inmunidad de 24 horas al nimbo del nalfeshnee tras superar o terminar el efecto.
+- Conservados los enlaces por nombre del mezzoloth para revisión funcional.
+  Su nube aniquiladora describe el área como «muy oscurecida», evitando
+  confundir la obstrucción visual de la niebla con ausencia de luz. Pendiente
+  propagar esta precisión a copias anteriores durante la pasada de coherencia.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2676,8 +2687,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
   de Foundry, tres de créditos y cuatro de historial.
   No equivale a 931 páginas del PDF.
-- 15081 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 15081 campos distintos.
+- 15265 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 15265 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento cuarenta biografías en ambas copias de actores: siete
   príncipes, ciento veintisiete criaturas o PNJ vinculados al apéndice D y seis perfiles
