@@ -918,14 +918,25 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Corregidos rótulos con paréntesis mal colocados en dos enlaces de zona 44.
 - Auditorías técnica y editorial sin errores.
 
+### ch5-level3-ijin-01 a ch5-level3-ijin-02 — Interior de I’jin y descanso
+
+- Revisados dos textos y títulos con referencias físicas 151-152.
+- La secuencia coincide con el disco de acceso y no se reinicia al fallar.
+  Conservadas la CD 7 del bloque y la llegada posterior de los reparadores.
+- La nube de langostas afecta a la primera entrada en cualquier turno,
+  no solo en el propio, conforme al original inglés.
+- Conservadas las condiciones exclusivas para abrir el sarcófago, el campo
+  de fuerza y los valores y colores de los tesoros.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 536 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 538 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4 y cincuenta y siete del capítulo 5. No equivale a 536 páginas del PDF.
-- 1182 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1182 campos distintos.
+  del capítulo 4 y cincuenta y nueve del capítulo 5. No equivale a 538 páginas del PDF.
+- 1186 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1186 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
