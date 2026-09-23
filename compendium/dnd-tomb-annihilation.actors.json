@@ -1838,7 +1838,7 @@
       "items": {
         "en9DatqvfOPQYI6J": {
           "name": "Ataque múltiple",
-          "description": "<p>El tabaxi hace dos ataques con su [[/item .K6XZYlc8FOaQCx1N]]{garras}, su [[/item .umOdAVnlsipygrl3]]{breve}, o su [[/item .xm3urVLORmwUE3YR]]{shortbow}.</p>"
+          "description": "<p>El tabaxi realiza dos ataques con sus [[/item .K6XZYlc8FOaQCx1N]]{garras}, su [[/item .umOdAVnlsipygrl3]]{espada corta} o su [[/item .xm3urVLORmwUE3YR]]{arco corto}.</p>"
         },
         "K6XZYlc8FOaQCx1N": {
           "name": "Garras",
@@ -1854,35 +1854,35 @@
         },
         "08jKkqWPfiHzfYEw": {
           "name": "Armadura de cuero",
-          "description": "<p>La coraza y los protectores de hombro de esta armadura están hechos de cuero que ha sido endurecido por ser hervido en aceite. El resto de la armadura está hecha de materiales más suaves y flexibles.</p>"
+          "description": "<p>El peto y las hombreras de esta armadura están hechos de cuero endurecido al hervirlo en aceite. El resto de la armadura se fabrica con materiales más blandos y flexibles.</p>"
         },
         "XWE5E4l8eMtsOouI": {
-          "name": "Agilidad felina",
-          "description": "<p>Cuando el tabaxi se mueve en su turno en combate, puede duplicar su velocidad hasta el final de la vuelta. Una vez que utiliza esta habilidad, el tabaxi no puede volver a usarlo hasta que se mueve 0 pies en una de sus vueltas.</p>",
+          "name": "Agilidad Felina",
+          "description": "<p>Cuando el tabaxi se mueve en su turno durante el combate, puede duplicar su velocidad hasta el final del turno. Una vez que usa esta aptitud, no puede volver a usarla hasta que se mueva 0 pies en uno de sus turnos.</p>",
           "activities": {
             "AWMHEnnbT55jkeOn": {
-              "name": "Gasto"
+              "name": "Gastar un uso"
             },
             "t5f6Yp8jd9jTtivT": {
-              "name": "Restaurar uso",
+              "name": "Recuperar uso",
               "activation": {
-                "condition": "movió 0 pies en este giro"
+                "condition": "Se ha movido 0 pies este turno"
               }
             }
           },
           "effects": {
             "w4hhgx4cyCtQvBIe": {
-              "name": "Movimiento doblado",
-              "description": "<p>La velocidad del tabaxi se duplica hasta el final de la vuelta. Una vez que utiliza esta habilidad, el tabaxi no puede volver a usarlo hasta que se mueve 0 pies en una de sus vueltas.</p>"
+              "name": "Velocidad duplicada",
+              "description": "<p>La velocidad del tabaxi se duplica hasta el final del turno. Una vez que usa esta aptitud, no puede volver a usarla hasta que se mueva 0 pies en uno de sus turnos.</p>"
             }
           }
         }
       },
-      "name": "Cazador Tabaxi",
+      "name": "Cazador tabaxi",
       "creatureSubtype": "Tabaxi",
-      "languages": "más cualquier idioma",
-      "tokenName": "Cazador Tabaxi",
-      "biography": "<p>Tabaxi son los felinos que provienen de la tierra de Maztica. Los últimos vagabundos, Tabaxi rara vez permanecen en un lugar por mucho tiempo. Les encanta coleccionar artefactos interesantes, reunir cuentos, y poner los ojos en todas las maravillas del mundo. Esta curiosidad los empuja a no dejar secretos descubiertos, ni tesoros ni leyendas perdidos. Ellos veneran a una deidad inconstante llamada el Señor Gato, que se dice que vaga por el mundo.</p><p>Los cazadores Tabaxi son entrenados para sobrevivir en la naturaleza, haciéndolos excelentes guías. Los juglares de Tabaxi se reúnen en pequeñas compañías y se sienten como en casa en cualquier asentamiento, ganando moneda a través de la música y la narración.</p><p><em><strong>Nombres.</strong></em> Un tabaxi típicamente tiene un solo nombre, determinado por su clan y basado en una fórmula compleja que involucra astrología, profecía, historia del clan, y otros factores. Los tabaxis masculino y femenino usan los mismos nombres, y la mayoría usan apodos derivados o inspirados por sus nombres completos. Los nombres de los clanes Tabaxi generalmente se basan en una característica geográfica localizada en el territorio de un clan o cerca de él. Entre los nombres tabaxi de muestra se incluyen Nido de Huevos (“Huevos”), Hoja muerta (“Hoja”), Ojos de Onyx (“Onyx”), Lanza perdida (“Perdido”) y Luna diurna (“Luna”). Los nombres de clanes incluyen Lluvia distante, Cien Plumas, Sleeping Creek, Bright Cliffs y Sroning Mountain.</p>"
+      "languages": "y otro idioma cualquiera",
+      "tokenName": "Cazador tabaxi",
+      "biography": "<p>Los tabaxis son humanoides felinos originarios de Maztica. Viajeros por naturaleza, rara vez permanecen mucho tiempo en el mismo lugar. Les encanta reunir objetos interesantes, recopilar historias y contemplar todas las maravillas del mundo. Su curiosidad los impulsa a no dejar ningún secreto sin descubrir, ni tesoros o leyendas perdidos. Veneran a una deidad voluble llamada el Señor de los Gatos, de quien se dice que vaga por el mundo.</p><p>Los cazadores tabaxis están entrenados para sobrevivir en la naturaleza, lo que los convierte en guías excelentes. Los juglares tabaxis se reúnen en pequeñas compañías y se sienten como en casa en cualquier asentamiento, donde ganan dinero con su música e historias.</p><p><em><strong>Nombres.</strong></em> Un tabaxi suele tener un solo nombre, elegido por su clan mediante una fórmula compleja que combina astrología, profecías, historia del clan y otros factores. Los tabaxis usan los mismos nombres independientemente de su sexo, y la mayoría emplean apodos derivados de sus nombres completos o inspirados en ellos. Los nombres de clan suelen basarse en un accidente geográfico situado en su territorio o cerca de él. Algunos nombres tabaxis son Nido de Huevos («Huevos»), Hoja Seca («Hoja»), Ojos de Ónice («Ónice»), Lanza Perdida («Perdida») y Luna Diurna («Luna»). Entre los nombres de clan figuran Lluvia Lejana, Cien Plumas, Arroyo Durmiente, Acantilados Brillantes y Montaña que Ronca.</p>"
     },
     "FSk7ICwLVkNZIB97": {
       "alignment": "Sin alineamiento",
@@ -6745,7 +6745,7 @@
       "items": {
         "Ve5N5VcrMfqvbr1y": {
           "name": "Ataque múltiple",
-          "description": "<p>El tabaxi hace dos [[/item Claws]] ataques o dos ataques de dardos.</p>"
+          "description": "<p>El tabaxi realiza dos ataques con sus [[/item Claws]]{Garras} o dos ataques con dardos.</p>"
         },
         "3bzbsjMfGo4tWRMv": {
           "name": "Garras",
@@ -6757,39 +6757,39 @@
         },
         "fsy0mYqDyaNHZak2": {
           "name": "Inspirar",
-          "description": "<p>Mientras descansa un poco, el tabaxi puede pasar 1 minuto cantando, tocando un instrumento, contando una historia, o recitando un poema para calmar e inspirar a otras criaturas que no sean ella misma. Hasta cinco criaturas de la elección del tabaxi que pueden ver y escuchar su ganancia de rendimiento [[/healing]] al final del breve descanso del tabaxi.</p>",
+          "description": "<p>Durante un descanso corto, el tabaxi puede dedicar 1 minuto a cantar, tocar un instrumento, contar una historia o recitar un poema para calmar e inspirar a otras criaturas. Hasta cinco criaturas de su elección que puedan ver y oír su interpretación obtienen [[/healing]] al final del descanso corto del tabaxi.</p>",
           "activities": {
             "of2Df0AKGTk4Ys6n": {
-              "name": "Temp. Curación"
+              "name": "Puntos de golpe temporales"
             }
           }
         },
         "1h8lz3daISaMi0dY": {
-          "name": "Agilidad felina",
-          "description": "<p>Cuando el tabaxi se mueve en su turno en combate, puede duplicar su velocidad hasta el final de la vuelta. Una vez que utiliza esta habilidad, el tabaxi no puede volver a usarlo hasta que se mueve 0 pies en una de sus vueltas.</p>",
+          "name": "Agilidad Felina",
+          "description": "<p>Cuando el tabaxi se mueve en su turno durante el combate, puede duplicar su velocidad hasta el final del turno. Una vez que usa esta aptitud, no puede volver a usarla hasta que se mueva 0 pies en uno de sus turnos.</p>",
           "activities": {
             "AWMHEnnbT55jkeOn": {
-              "name": "Gasto"
+              "name": "Gastar un uso"
             },
             "t5f6Yp8jd9jTtivT": {
-              "name": "Restaurar uso",
+              "name": "Recuperar uso",
               "activation": {
-                "condition": "movió 0 pies en este giro"
+                "condition": "Se ha movido 0 pies este turno"
               }
             }
           },
           "effects": {
             "w4hhgx4cyCtQvBIe": {
-              "name": "Movimiento doblado",
-              "description": "<p>La velocidad del tabaxi se duplica hasta el final de la vuelta. Una vez que utiliza esta habilidad, el tabaxi no puede volver a usarlo hasta que se mueve 0 pies en una de sus vueltas.</p>"
+              "name": "Velocidad duplicada",
+              "description": "<p>La velocidad del tabaxi se duplica hasta el final del turno. Una vez que usa esta aptitud, no puede volver a usarla hasta que se mueva 0 pies en uno de sus turnos.</p>"
             }
           }
         }
       },
-      "name": "Tabaxi trovador",
+      "name": "Juglar tabaxi",
       "creatureSubtype": "Tabaxi",
-      "languages": "más dos idiomas",
-      "tokenName": "Tabaxi trovador"
+      "languages": "y otros dos idiomas cualesquiera",
+      "tokenName": "Juglar tabaxi"
     },
     "sGQzr5dUMUmZpONc": {
       "alignment": "Sin alineamiento",
@@ -14649,41 +14649,41 @@
     },
     "toaZorbo00000000": {
       "alignment": "Sin alineamiento",
-      "languages": "--",
+      "languages": "—",
       "name": "Zorbo",
       "tokenName": "Zorbo",
-      "biography": "<p>Un zorbo (pronunciado ZOR-boh) es un omnívoro feroz de tamaño y apariencia similares a un koala. Viviendo en árboles y cuevas, tiene largas garras, una disposición adolorida, y una afición por la carne humanoides. Un zorbo altera su armadura natural para que coincida con su entorno, y puede debilitar y destruir armaduras, escudos y artículos mágicos protectores con sus garras afiladas.</p>",
+      "biography": "<p>Un zorbo (se pronuncia [zórbo]) es un omnívoro feroz de tamaño y aspecto similares a los de un koala. Vive en árboles y cuevas, tiene largas garras y un carácter arisco, y siente debilidad por la carne humanoide. El zorbo adapta su armadura natural al entorno y puede debilitar y destruir armaduras, escudos y objetos mágicos protectores con sus afiladas garras.</p>",
       "items": {
         "cxlRG0Kj3dTonOxm": {
           "name": "Garras destructivas",
-          "description": "<p>[[/attack extended]]. [[/damage extended average]], y si el objetivo es una criatura que lleva armadura, que lleva un escudo, o en posesión de un artículo mágico que mejora su AC, debe hacer un [[/save dex 11 format=long]]. </p><p>En un ahorro fallido, uno de estos objetos usados o transportados por la criatura (la elección del objetivo) se deteriora mágicamente, tomando una penalización permanente y acumulativa −1 al AC que ofrece, y el zorbo gana un bono +1 a AC hasta el inicio de su próximo turno. </p><p>Armadura reducida a un AC de 10 o un escudo o elemento mágico que cae a un aumento de 0 AC se destruye.</p>",
+          "description": "<p>[[/attack extended]]. [[/damage extended average]], y si el objetivo es una criatura que lleve armadura, un escudo o un objeto mágico que mejore su CA, debe realizar una [[/save dex 11 format=long]].</p><p>Si falla, uno de esos objetos que lleve la criatura, a elección del objetivo, se deteriora mágicamente y recibe un penalizador permanente y acumulativo de −1 a la CA que proporciona. El zorbo obtiene un bonificador de +1 a la CA hasta el comienzo de su siguiente turno.</p><p>Una armadura cuya CA se reduzca a 10, o un escudo u objeto mágico cuyo aumento de CA se reduzca a 0, queda destruido.</p>",
           "effects": {
             "rnroqoq28yWegxh9": {
-              "name": "Pena de AC 1",
-              "description": "<p>Su armadura toma una permanente y acumulativa penalidad −1 al AC debido al ataque de garra del Zorbo.</p>"
+              "name": "Penalizador de -1 a la CA del objetivo",
+              "description": "<p>Tu armadura recibe un penalizador permanente y acumulativo de −1 a la CA debido al ataque de garras del zorbo.</p>"
             },
             "dKgaMntkre6dwu1K": {
-              "name": "+1 Bono AC",
-              "description": "<p>El zorbo gana un bono +1 a AC hasta el inicio de su próximo turno.</p>"
+              "name": "Bonificador de +1 a la CA",
+              "description": "<p>El zorbo obtiene un bonificador de +1 a la CA hasta el comienzo de su siguiente turno.</p>"
             }
           }
         },
         "pAlnfz3Zu9px7vRz": {
-          "name": "Resistencia mágica",
-          "description": "<p>El zorbo tiene ventaja en el ahorro de lanzamientos contra conjuros y otros efectos mágicos.</p>"
+          "name": "Resistencia Mágica",
+          "description": "<p>El zorbo tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.</p>"
         },
         "JqSPD6os8OAtzbom": {
-          "name": "Armadura natural",
-          "description": "<p>El zorbo absorbe mágicamente la fuerza natural de su entorno, ajustando su Clase de Armadura en función del material que está de pie o subiendo sobre: AC 15 para madera o hueso, AC 17 para tierra o piedra, o AC 19 para metal. Si el zorbo no está en contacto con ninguna de estas sustancias, su CA es 10.</p><section class=\"secret\" id=\"secret-kf6gjuXlm1XxPJJL\"><p><strong>Nota de Foundry</strong></p><p>Una opción de Efecto Activo está disponible en la pestaña Efecto para ajustar el AC de la criatura.</p></section>",
+          "name": "Armadura Natural",
+          "description": "<p>El zorbo absorbe mágicamente la resistencia natural de su entorno y ajusta su Clase de Armadura según el material sobre el que esté de pie o trepando: CA 15 para madera o hueso, CA 17 para tierra o piedra y CA 19 para metal. Si no está en contacto con ninguna de estas sustancias, su CA es 10.</p><section class=\"secret\" id=\"secret-kf6gjuXlm1XxPJJL\"><p><strong>Nota de Foundry</strong></p><p>En la pestaña Efectos hay efectos activos para ajustar la CA de la criatura.</p></section>",
           "effects": {
             "pgvm048y4ZWg5Kfi": {
-              "name": "AC 15 Madera y hueso"
+              "name": "CA 15: madera y hueso"
             },
             "DcMsODUNXEomdlZ4": {
-              "name": "AC 17 Tierra y Piedra"
+              "name": "CA 17: tierra y piedra"
             },
             "9tjjin6nzyAmjJNA": {
-              "name": "Metal, CA 19"
+              "name": "CA 19: metal"
             }
           }
         }

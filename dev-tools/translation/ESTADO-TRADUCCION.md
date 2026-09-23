@@ -1783,18 +1783,29 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   de la trepadora; se conserva y se registra la diferencia con el PDF.
 - Fortaleza de Muerto Viviente usa fuego, conforme a ambos originales.
 
+### appendix-d-tabaxi-zorbo — Tabaxis y zorbo
+
+- Revisados 130 campos de ambos tabaxis, el zorbo y sus dos páginas.
+  Referencias físicas 233, 234 y 242. La biografía del juglar inserta la del
+  cazador, cuyo contenido se ha revisado en este mismo bloque.
+- Conservados nombres de ejemplo, apodos y clanes, la recuperación de Agilidad
+  Felina tras un turno con 0 pies de movimiento y el descanso corto de Inspirar.
+- Revisados elección del objeto deteriorado por la víctima, penalizador
+  acumulativo permanente y umbrales distintos de destrucción para armaduras
+  y escudos u objetos mágicos. El enlace por nombre `Claws` sigue pendiente.
+
 ## Balance de revisión editorial
 
-- 792 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 794 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 187 de los apéndices A, B, C, D y F.
-  No equivale a 792 páginas del PDF.
-- 4141 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 4141 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 189 de los apéndices A, B, C, D y F.
+  No equivale a 794 páginas del PDF.
+- 4271 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 4271 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas cuarenta y cuatro biografías en ambas copias de actores: siete
-  príncipes y treinta y siete criaturas o PNJ del apéndice D. Siguen pendientes las demás
+  insertado. Revisadas cuarenta y siete biografías en ambas copias de actores: siete
+  príncipes y cuarenta criaturas o PNJ del apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las
