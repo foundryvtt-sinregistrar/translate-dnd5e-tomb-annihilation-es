@@ -1158,16 +1158,16 @@
     },
     "toaTGIjin0000000": {
       "name": "I'jin",
-      "description": "<div class=\"toa trickster-card\"><h2>I'jin</h2><img src=\"modules/dnd-tomb-annihilation/assets/journal-art/ijin-logo.webp\" /><p><em>(Pronunciado EYE-jin)</em></p><p>I'jin, el Almiraj, es voluble e impredecible.</p><h3>Falla</h3><p>Mientras esté habitado por I'jin, usted gana el siguiente defecto, que anula cualquier defecto opuesto: <q>Nunca me aferro a un plan.</q></p><h3>Potencia</h3><p>Mientras que yo soy Jin te habita, tu puntuación de Dexterity se convierte en 23 a menos que ya sea más alto.</p></div>",
+      "description": "<div class=\"toa trickster-card\"><h2>I'jin</h2><img src=\"modules/dnd-tomb-annihilation/assets/journal-art/ijin-logo.webp\" /><p><em>(Se pronuncia [áijin]).</em></p><p>I'jin, la almiraj, es voluble e impredecible.</p><h3>Defecto</h3><p>Mientras alojes a I'jin, obtienes el siguiente defecto, que se impone sobre cualquier defecto opuesto: <q>Nunca me ciño a ningún plan.</q></p><h3>Poder</h3><p>Mientras I'jin se aloje en ti, tu puntuación de Destreza pasa a ser 23, a menos que ya sea superior.</p></div>",
       "effects": {
         "fs6cAfmL9bhRNB22": {
-          "name": "Destreza de I’jin"
+          "name": "Destreza de I'jin"
         }
       }
     },
     "toaTGKubazan0000": {
       "name": "Kubazan",
-      "description": "<div class=\"toa trickster-card\"><h2>Kubazan</h2><p><em>(Pronunciado KOO-bah-zahn)</em></p><p>Kubazan, el Froghemoth, es salvaje y animado.</p><img src=\"modules/dnd-tomb-annihilation/assets/journal-art/kubazan-logo.webp\" /><h3>Falla</h3><p>Mientras está habitado por Kubazan, usted gana el siguiente defecto, que anula cualquier defecto opuesto: <q>No tengo miedo y no tengo miedo de correr grandes riesgos.</q></p><h3>Potencia</h3><p>Mientras Kubazan te habita, tu puntuación de Fuerza se convierte en 23 a menos que ya sea más alta.</p></div>",
+      "description": "<div class=\"toa trickster-card\"><h2>Kubazan</h2><p><em>(Se pronuncia [kúbazan]).</em></p><p>Kubazan, el ranamot, es salvaje y aguerrido.</p><img src=\"modules/dnd-tomb-annihilation/assets/journal-art/kubazan-logo.webp\" /><h3>Defecto</h3><p>Mientras alojes a Kubazan, obtienes el siguiente defecto, que se impone sobre cualquier defecto opuesto: <q>No tengo miedo a nada y no me asusta asumir grandes riesgos.</q></p><h3>Poder</h3><p>Mientras Kubazan se aloje en ti, tu puntuación de Fuerza pasa a ser 23, a menos que ya sea superior.</p></div>",
       "effects": {
         "agcjHM4sfDk7hTNC": {
           "name": "Fuerza de Kubazan"
@@ -1176,70 +1176,70 @@
     },
     "toaTGMoa00000000": {
       "name": "Moa",
-      "description": "<div class=\"toa trickster-card\"><h2>Moa</h2><p><em>(Pronunciado MOH-ah)</em></p><p>Moa, el Jaculi, es sincero y amable.</p><img src=\"modules/dnd-tomb-annihilation/assets/journal-art/moa-logo.webp\" /><h3>Falla</h3><p>Mientras esté habitado por Moa, usted gana el siguiente defecto, que anula cualquier defecto opuesto: <q>Siempre debo decir la verdad.</q></p><h3>Potencia</h3><p>Mientras esté habitado por Moa, puede usar una acción para girar &amp;Reference[invisible apply=false]. Cualquier cosa que lleves o lleves es invisible mientras esté en tu persona. El efecto termina si atacas, lanzas un conjuro, obligas a un lanzamiento ahorrador o repartes daños.</p></div>",
+      "description": "<div class=\"toa trickster-card\"><h2>Moa</h2><p><em>(Se pronuncia [móa]).</em></p><p>Moa, el jaculi, es amable y honrado.</p><img src=\"modules/dnd-tomb-annihilation/assets/journal-art/moa-logo.webp\" /><h3>Defecto</h3><p>Mientras alojes a Moa, obtienes el siguiente defecto, que se impone sobre cualquier defecto opuesto: <q>Debo decir siempre la verdad.</q></p><h3>Poder</h3><p>Mientras Moa se aloje en ti, puedes usar una acción para volverte &amp;Reference[invisible apply=false]. Todo lo que lleves puesto o transportes también será invisible mientras lo lleves contigo. El efecto termina si atacas, lanzas un conjuro, obligas a realizar una tirada de salvación o infliges daño.</p></div>",
       "activities": {
         "U8oxfMnjgLU9tCOG": {
-          "name": "Volver invisible"
+          "name": "Volverse invisible"
         }
       },
       "effects": {
         "yACUvqJCpcZvuxn6": {
           "name": "Invisibilidad",
-          "description": "<p>Cualquier cosa que lleves o lleves es... &amp;Reference[invisible apply=false] siempre y cuando esté en su persona. El efecto termina si atacas, lanzas un conjuro, obligas a un lanzamiento ahorrador o repartes daños.</p>"
+          "description": "<p>Todo lo que lleves puesto o transportes es &amp;Reference[invisible apply=false] mientras lo lleves contigo. El efecto termina si atacas, lanzas un conjuro, obligas a realizar una tirada de salvación o infliges daño.</p>"
         }
       }
     },
     "toaTGNangnang000": {
       "name": "Nangnang",
-      "description": "<div class=\"toa trickster-card\"><h2>Nangnang</h2><p><em>(Pronunciado NANG-nang)</em></p><p>Nangnang, el Grung, es egoísta y cruel.</p><img src=\"modules/dnd-tomb-annihilation/assets/journal-art/nangnang-logo.webp\" /><h3>Falla</h3><p>Mientras que habitado por Nangnang, usted gana el siguiente defecto, que anula cualquier defecto opuesto: <q>No compartiré con otros.</q></p><h3>Potencia</h3><p>Mientras está habitado por Nangnang, puede moverse hacia arriba, hacia abajo y a través de superficies verticales y boca abajo a lo largo de los techos, mientras deja las manos libres. Usted también gana una velocidad de escalada igual a su velocidad de caminar.</p></div>",
+      "description": "<div class=\"toa trickster-card\"><h2>Nangnang</h2><p><em>(Se pronuncia [nángnang]).</em></p><p>Nangnang, la grung, es egoísta y cruel.</p><img src=\"modules/dnd-tomb-annihilation/assets/journal-art/nangnang-logo.webp\" /><h3>Defecto</h3><p>Mientras alojes a Nangnang, obtienes el siguiente defecto, que se impone sobre cualquier defecto opuesto: <q>No comparto nada con los demás.</q></p><h3>Poder</h3><p>Mientras Nangnang se aloje en ti, puedes subir, bajar y desplazarte por superficies verticales, así como moverte boca abajo por los techos, con las manos libres. Además, obtienes una velocidad trepando igual a tu velocidad caminando.</p></div>",
       "effects": {
         "qaINy4LcBSRLS4kn": {
-          "name": "Movimiento Nangnang",
-          "description": "<p>Puedes moverte hacia arriba, hacia abajo y a través de superficies verticales e boca abajo a lo largo de los techos, mientras dejas las manos libres. Usted también gana una velocidad de escalada igual a su velocidad de caminar.</p>"
+          "name": "Movimiento de Nangnang",
+          "description": "<p>Puedes subir, bajar y desplazarte por superficies verticales, así como moverte boca abajo por los techos, con las manos libres. Además, obtienes una velocidad trepando igual a tu velocidad caminando.</p>"
         }
       }
     },
     "toaTGObolaka0000": {
       "name": "Obo'laka",
-      "description": "<div class=\"toa trickster-card\"><h2>Obo'laka</h2><p><em>(pronunciado oh-boh-LAH-kah)</em></p><p>Obo'laka, el Zorbo, está nervioso y obsesivo.</p><img src=\"modules/dnd-tomb-annihilation/assets/journal-art/obolaka-logo.webp\" /><h3>Falla</h3><p>Mientras que habitado por Obo'laka, usted gana el siguiente defecto, que anula cualquier defecto opuesto: <q>Soy reacio al riesgo y nunca me desvío de mi rutina.</q></p><h3>Potencia</h3><p>Mientras Obo'laka te habita, puedes sintonizar con un objeto mágico adicional. Cuando Obo'laka te deja, todos los objetos mágicos a los que estás sintonizado ya no están sintonizados contigo.</p></div>",
+      "description": "<div class=\"toa trickster-card\"><h2>Obo'laka</h2><p><em>(Se pronuncia [oboláka]).</em></p><p>Obo'laka, la zorbo, es nerviosa y obsesiva.</p><img src=\"modules/dnd-tomb-annihilation/assets/journal-art/obolaka-logo.webp\" /><h3>Defecto</h3><p>Mientras alojes a Obo'laka, obtienes el siguiente defecto, que se impone sobre cualquier defecto opuesto: <q>Evito los riesgos y nunca me aparto de mi rutina.</q></p><h3>Poder</h3><p>Mientras Obo'laka se aloje en ti, puedes sintonizarte con un objeto mágico adicional. Cuando Obo'laka te abandone, se rompe tu sintonía con todos los objetos mágicos con los que estuvieras en sintonía.</p></div>",
       "effects": {
         "72zmWiwWHn5TAVpL": {
-          "name": "Afinación adicional",
-          "description": "<p>Se puede sintonizar a un elemento mágico adicional.</p>"
+          "name": "Sintonía adicional",
+          "description": "<p>Puedes sintonizarte con un objeto mágico adicional.</p>"
         }
       }
     },
     "toaTGPapazotl000": {
       "name": "Papazotl",
-      "description": "<div class=\"toa trickster-card\"><h2>Papazotl</h2><p><em>(pronunciado pah-pah-ZAH-tul)</em></p><p>Papazotl, el Eblis, es astuto y confabulador.</p><img src=\"modules/dnd-tomb-annihilation/assets/journal-art/papazotl-logo.webp\" /><h3>Falla</h3><p>Mientras que habitado por Papazotl, usted gana el siguiente defecto, que anula cualquier defecto opuesto: <q>No me inclino ante nadie y espero que otros hagan lo que yo ordeno.</q></p><h3>Potencia</h3><p>Mientras que habitado por Papazotl, no se puede ser &amp;Reference[surprise apply=false]{sorprendido}, usted gana ventaja en todos los controles de sabiduría, y nunca recibe daño de caer.</p></div>",
+      "description": "<div class=\"toa trickster-card\"><h2>Papazotl</h2><p><em>(Se pronuncia [papazátul]).</em></p><p>Papazotl, el eblis, es astuto y confabulador.</p><img src=\"modules/dnd-tomb-annihilation/assets/journal-art/papazotl-logo.webp\" /><h3>Defecto</h3><p>Mientras alojes a Papazotl, obtienes el siguiente defecto, que se impone sobre cualquier defecto opuesto: <q>No me inclino ante nadie y espero que los demás hagan lo que les mando.</q></p><h3>Poder</h3><p>Mientras Papazotl se aloje en ti, no puedes ser &amp;Reference[surprise apply=false]{sorprendido}, tienes ventaja en todas las pruebas de Sabiduría y nunca recibes daño por caídas.</p></div>",
       "effects": {
         "64hxPuXTcZXLf6Tt": {
-          "name": "Concienciación de Papazotl",
-          "description": "<p>No puedes ser &amp;Reference[surprise apply=false]{sorprendido}, usted gana ventaja en todos los controles de sabiduría, y nunca recibe daño de caer.</p>"
+          "name": "Percepción de Papazotl",
+          "description": "<p>No puedes ser &amp;Reference[surprise apply=false]{sorprendido}, tienes ventaja en todas las pruebas de Sabiduría y nunca recibes daño por caídas.</p>"
         }
       }
     },
     "toaTGShagambi000": {
       "name": "Shagambi",
-      "description": "<div class=\"toa trickster-card\"><h2>Shagambi</h2><p><em>(pronunciado shah-GOM-bee)</em></p><p>Shagambi, el Kamadan, es sabio y virtuoso.</p><img src=\"modules/dnd-tomb-annihilation/assets/journal-art/shagambi-logo.webp\" /><h3>Falla</h3><p>Mientras está habitado por Shagambi, usted gana el siguiente defecto, que anula cualquier defecto opuesto: <q>Nunca les tengo piedad a los malhechores.</q></p><h3>Potencia</h3><p>Mientras que habitado por Shagambi, usted puede hacer un ataque adicional al tomar el &amp;Reference[Attack] acción en tu turno.</p></div>"
+      "description": "<div class=\"toa trickster-card\"><h2>Shagambi</h2><p><em>(Se pronuncia [shagómbi]).</em></p><p>Shagambi, la kamadan, es sabia y virtuosa.</p><img src=\"modules/dnd-tomb-annihilation/assets/journal-art/shagambi-logo.webp\" /><h3>Defecto</h3><p>Mientras alojes a Shagambi, obtienes el siguiente defecto, que se impone sobre cualquier defecto opuesto: <q>Nunca muestro misericordia ante los malvados.</q></p><h3>Poder</h3><p>Mientras Shagambi se aloje en ti, puedes realizar un ataque adicional cuando llevas a cabo la acción de &amp;Reference[Attack] en tu turno.</p></div>"
     },
     "toaTGUnkh0000000": {
       "name": "Unkh",
-      "description": "<div class=\"toa trickster-card\"><h2>Unkh</h2><p><em>(pronunciado UNK)</em></p><p>Unkh, el Caracol de Flail, es auto-absorbido e indeciso.</p><img src=\"modules/dnd-tomb-annihilation/assets/journal-art/unkh-logo.webp\" /><h3>Falla</h3><p>Mientras que habitado por Unkh, usted gana el siguiente defecto, que anula cualquier defecto opuesto: <q>Soy incapaz de tomar decisiones.</q></p><h3>Potencia</h3><p>Mientras que Unkh te habita, tu puntuación de la Constitución se convierte en 23 a menos que ya sea más alta.</p></div>",
+      "description": "<div class=\"toa trickster-card\"><h2>Unkh</h2><p><em>(Se pronuncia [únk]).</em></p><p>Unkh, la caracol flagelo, está absorta en sí misma y es indecisa.</p><img src=\"modules/dnd-tomb-annihilation/assets/journal-art/unkh-logo.webp\" /><h3>Defecto</h3><p>Mientras alojes a Unkh, obtienes el siguiente defecto, que se impone sobre cualquier defecto opuesto: <q>Soy incapaz de tomar decisiones.</q></p><h3>Poder</h3><p>Mientras Unkh se aloje en ti, tu puntuación de Constitución pasa a ser 23, a menos que ya sea superior.</p></div>",
       "effects": {
         "xlFacWjeoF8Bsckx": {
-          "name": "Constitución de unkh"
+          "name": "Constitución de Unkh"
         }
       }
     },
     "toaTGWongo000000": {
       "name": "Wongo",
-      "description": "<div class=\"toa trickster-card\"><h2>Wongo</h2><p><em>(pronunciado WONG-go)</em></p><p>Wongo, el Su-Monstruo, es violento y errático.</p><img src=\"modules/dnd-tomb-annihilation/assets/journal-art/wongo-logo.webp\" /><h3>Falla</h3><p>Mientras esté habitado por Wongo, usted gana el siguiente defecto, que anula cualquier defecto opuesto: <q>Actúo sin preocuparse por el bienestar de los demás.</q></p><h3>Potencia</h3><p>Mientras esté habitado por Wongo, puedes usar tu acción para desencadenar un ataque psionario a una criatura que puedes ver a menos de 60 pies de ti. El objetivo debe tener éxito en un lanzamiento de ahorro de la sabiduría CD 16 o &amp;Reference[stunned apply=false] hasta el final de su siguiente turno.</p></div>",
+      "description": "<div class=\"toa trickster-card\"><h2>Wongo</h2><p><em>(Se pronuncia [wóngo]).</em></p><p>Wongo, el sucarate, es violento e impredecible.</p><img src=\"modules/dnd-tomb-annihilation/assets/journal-art/wongo-logo.webp\" /><h3>Defecto</h3><p>Mientras alojes a Wongo, obtienes el siguiente defecto, que se impone sobre cualquier defecto opuesto: <q>Actúo sin preocuparme por el bienestar de los demás.</q></p><h3>Poder</h3><p>Mientras Wongo se aloje en ti, puedes usar tu acción para desatar un asalto psiónico contra una criatura que puedas ver a 60 pies o menos de ti. El objetivo debe superar una tirada de salvación de Sabiduría CD 16 o quedará &amp;Reference[stunned apply=false] hasta el final de su siguiente turno.</p></div>",
       "activities": {
         "c4zYcGNbXCExE5UI": {
           "target": {
             "affects": {
-              "special": "criatura que se puede ver"
+              "special": "criatura que puedas ver"
             }
           }
         }
@@ -1247,7 +1247,7 @@
       "effects": {
         "fwF5bbh5bMTWA3ei": {
           "name": "Aturdido",
-          "description": "<p>El objetivo es &amp;Reference[Stunned apply=false] hasta el final de su siguiente turno.</p>"
+          "description": "<p>El objetivo está &amp;Reference[Stunned apply=false] hasta el final de su siguiente turno.</p>"
         }
       }
     },

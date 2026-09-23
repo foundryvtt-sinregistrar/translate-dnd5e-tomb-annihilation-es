@@ -1340,15 +1340,27 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y el valor de objetos de arte de más de un siglo; no añade una prueba.
 - Auditorías técnica y editorial sin errores.
 
+### appendix-f-trickster-cards — Tarjetas de los dioses embaucadores
+
+- Revisados los nueve documentos insertados y sus nueve páginas de diario:
+  51 registros, con referencia física 257. Incluye actividades y efectos.
+- Adaptadas las pronunciaciones al español y mantenidas las especies y el
+  género de los dioses. «Self-absorbed» se expresa como «absorta en sí misma».
+- Conservadas las condiciones de invisibilidad, las tres puntuaciones de 23,
+  la pérdida de todas las sintonías de Obo'laka, las pruebas de Sabiduría de
+  Papazotl y los límites del ataque adicional y del asalto psiónico.
+- Auditorías técnica y editorial sin errores; pendiente comprobar las tarjetas
+  y los efectos en Foundry junto con el resto del módulo.
+
 ## Balance de revisión editorial
 
-- 626 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 635 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 21 de los apéndices A y C.
-  No equivale a 626 páginas del PDF.
-- 1573 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1573 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 30 de los apéndices A, C y F.
+  No equivale a 635 páginas del PDF.
+- 1624 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1624 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
