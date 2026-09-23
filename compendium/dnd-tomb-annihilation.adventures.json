@@ -20999,7 +20999,7 @@
               "text": "Barrio del Puerto"
             },
             "CKmfXkTMCXPMvCVt": {
-              "text": "El pabellón de los comerciantes"
+              "text": "Barrio de los Mercaderes"
             },
             "ufO2HuEUPmsnKZMY": {
               "text": "Ciudad Vieja"
@@ -21008,10 +21008,10 @@
               "text": "Garganta de Malar"
             },
             "D4eBfpZzB5u1fPhE": {
-              "text": "Anclaje Tiryki"
+              "text": "Fondeadero del Tiryki"
             },
             "XGdXG0UMWE6Ct7qC": {
-              "text": "Mercado Ward"
+              "text": "Barrio del Mercado"
             }
           }
         },
@@ -21024,7 +21024,7 @@
           },
           "tokens": {
             "5ILOSana3s3S0CRl": {
-              "name": "Grupo: Guardianes No Muertos"
+              "name": "Grupo: Guardianes muertos vivientes"
             },
             "0mVIRwtht0VPJYCR": {
               "name": "Enjambre de murciélagos"
@@ -21032,29 +21032,29 @@
           },
           "regions": {
             "aNL2UQfwE3QNaSk5": {
-              "name": "Dentro de la cueva"
+              "name": "Interior de la cueva"
             },
             "8qh40LfK71JCA5o4": {
-              "name": "Árbol interior",
+              "name": "Interior del árbol",
               "behaviors": {
                 "jKzSysYFFbe1wHmS": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "2dSlZzJfSACfxrER": {
-              "name": "Entrada de la cueva superior",
+              "name": "Entrada de la cueva: arriba",
               "behaviors": {
                 "cutUJiir2bfadxnN": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "1EnbLaTRqKVxCnRQ": {
-              "name": "Cave Entrada abajo",
+              "name": "Entrada de la cueva: abajo",
               "behaviors": {
                 "MD6PeYKjIq92EnzR": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
@@ -21062,7 +21062,7 @@
               "name": "Región",
               "behaviors": {
                 "LXfNV36ZBFq0lxSv": {
-                  "name": "Desactivar la iluminación mundial"
+                  "name": "Desactivar iluminación global"
                 }
               }
             }
@@ -21075,7 +21075,7 @@
               "name": "Hrakhamar",
               "behaviors": {
                 "PRM7Z1Na0x9Y9kAu": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             }
@@ -21095,106 +21095,106 @@
           },
           "tokens": {
             "jCqsFVd7DNeCcTeU": {
-              "name": "Guerrero de Firenett"
+              "name": "Salamandra flamígera guerrera"
             },
             "RJ6KqCbsale1I4G4": {
-              "name": "Guerrero de Firenett"
+              "name": "Salamandra flamígera guerrera"
             },
             "NJSDU7qemk8CK517": {
-              "name": "Guerrero de Firenett"
+              "name": "Salamandra flamígera guerrera"
             },
             "sZ6bezp36ATO4q9j": {
-              "name": "Guerrero de Firenett"
+              "name": "Salamandra flamígera guerrera"
             },
             "EKWqlvMkxWbyOrfK": {
-              "name": "Guerrero de Firenett"
+              "name": "Salamandra flamígera guerrera"
             },
             "9kcjrGeINNNvf2pp": {
-              "name": "Guerrero de Firenett"
+              "name": "Salamandra flamígera guerrera"
             },
             "AoQY4ZrzkqMcUh18": {
-              "name": "Guerrero de Firenett"
+              "name": "Salamandra flamígera guerrera"
             },
             "8COJerYsIUlK76Go": {
-              "name": "Guerrero de Firenett"
+              "name": "Salamandra flamígera guerrera"
             },
             "MPUGx2ErLrQN6vqa": {
-              "name": "Guerrero de Firenett"
+              "name": "Salamandra flamígera guerrera"
             },
             "qzGwd3MFr6LAAVUh": {
-              "name": "Guerrero de Firenett"
+              "name": "Salamandra flamígera guerrera"
             },
             "2SGsg80P0ZbJdbsg": {
-              "name": "Guerrero de Firenett"
+              "name": "Salamandra flamígera guerrera"
             },
             "ExPXBJuXULyukBdH": {
-              "name": "Guerrero de Firenett"
+              "name": "Salamandra flamígera guerrera"
             },
             "mdXRCQaS4cRAkZTx": {
-              "name": "Guerrero de Firenett"
+              "name": "Salamandra flamígera guerrera"
             },
             "6PAGv9gHyAXG3ZEJ": {
-              "name": "Guerrero de Firenett"
+              "name": "Salamandra flamígera guerrera"
             },
             "ge6uTBiK7onzewYG": {
-              "name": "Guerrero de Firenett"
+              "name": "Salamandra flamígera guerrera"
             },
             "cfum03VZj3F6dM9U": {
-              "name": "Guerrero de Firenett"
+              "name": "Salamandra flamígera guerrera"
             },
             "18HDxYAzwW7rU29f": {
-              "name": "Guerrero de Firenett"
+              "name": "Salamandra flamígera guerrera"
             },
             "8gt89ZTlQplWMxRB": {
-              "name": "Guerrero de Firenett"
+              "name": "Salamandra flamígera guerrera"
             },
             "ixQK9IK11GYvjmbo": {
-              "name": "Warlock de Imix de Firenett"
+              "name": "Salamandra flamígera bruja de Imix"
             },
             "dSVdnaYhkUU1tbJl": {
-              "name": "Guerrero de Firenett"
+              "name": "Salamandra flamígera guerrera"
             },
             "FwITLI49ONG8tTc6": {
-              "name": "Guerrero de Firenett"
+              "name": "Salamandra flamígera guerrera"
             },
             "5ZdW367uhXCGiQ1t": {
-              "name": "Guerrero de Firenett"
+              "name": "Salamandra flamígera guerrera"
             },
             "iXdcC0KwJ6D4YZfW": {
-              "name": "Guerrero de Firenett"
+              "name": "Salamandra flamígera guerrera"
             },
             "vkUYG5Lh8raLPUA5": {
-              "name": "Guerrero de Firenett"
+              "name": "Salamandra flamígera guerrera"
             },
             "zmevmUWRSBzZJ4da": {
-              "name": "Guerrero de Firenett"
+              "name": "Salamandra flamígera guerrera"
             },
             "VRNNwV82jwKhuX9i": {
-              "name": "Guerrero de Firenett"
+              "name": "Salamandra flamígera guerrera"
             },
             "NKcwaZasqNaSypMi": {
-              "name": "Warlock de Imix de Firenett"
+              "name": "Salamandra flamígera bruja de Imix"
             },
             "2jPEWSCRlrdNNZPa": {
-              "name": "Warlock de Imix de Firenett"
+              "name": "Salamandra flamígera bruja de Imix"
             },
             "1WydinIJ4bDNLq3E": {
-              "name": "Warlock de Imix de Firenett"
+              "name": "Salamandra flamígera bruja de Imix"
             },
             "OucwgbEek26A7mAt": {
-              "name": "Warlock de Imix de Firenett"
+              "name": "Salamandra flamígera bruja de Imix"
             },
             "PgI7gQP3HYOsjADt": {
-              "name": "Guerrero de Firenett"
+              "name": "Salamandra flamígera guerrera"
             },
             "MOpLQjEtnvstYShX": {
-              "name": "Guerrero de Firenett"
+              "name": "Salamandra flamígera guerrera"
             },
             "Fl21Qb3aZ0iRXpT3": {
-              "name": "Mefit de humo"
+              "name": "Mephit de humo"
             },
             "6uMf9NcRPU7mCNvT": {
-              "name": "Mefit de humo"
+              "name": "Mephit de humo"
             },
             "c2FacoAwcdfJ0T1G": {
               "name": "Laz Drumthunder",
@@ -21206,7 +21206,7 @@
                     "description": "@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.uDogReMO6QtH6NDw inline]"
                   },
                   "dnd5erestrained0": {
-                    "name": "Restringidos",
+                    "name": "Apresado",
                     "description": "@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.dqLeGdpHtb8FfcxX inline]"
                   },
                   "dnd5eexhaustion0": {
@@ -21214,7 +21214,7 @@
                     "description": "@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.jSQtPgNm0i4f3Qi3 inline]"
                   },
                   "dnd5ebloodied000": {
-                    "name": "Sangrado"
+                    "name": "Ensangrentado"
                   },
                   "dnd5edehydration": {
                     "name": "Deshidratación",
@@ -21233,7 +21233,7 @@
                     "description": "@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.uDogReMO6QtH6NDw inline]"
                   },
                   "dnd5erestrained0": {
-                    "name": "Restringidos",
+                    "name": "Apresado",
                     "description": "@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.dqLeGdpHtb8FfcxX inline]"
                   },
                   "dnd5eexhaustion0": {
@@ -21241,7 +21241,7 @@
                     "description": "@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.jSQtPgNm0i4f3Qi3 inline]"
                   },
                   "dnd5ebloodied000": {
-                    "name": "Sangrado"
+                    "name": "Ensangrentado"
                   },
                   "dnd5edehydration": {
                     "name": "Deshidratación",
@@ -21251,40 +21251,40 @@
               }
             },
             "iIhcjZBIn3G6bUOh": {
-              "name": "Strider gigante"
+              "name": "Caminante gigantesco"
             },
             "nsEtoPc3FelNR6GT": {
-              "name": "Strider gigante"
+              "name": "Caminante gigantesco"
             },
             "TVUQmr01DbGIJyCg": {
-              "name": "Strider gigante"
+              "name": "Caminante gigantesco"
             },
             "lo5Mzp87xUvLS83N": {
-              "name": "Strider gigante"
+              "name": "Caminante gigantesco"
             },
             "2MCwc5LW0xuoEPsh": {
-              "name": "Strider gigante"
+              "name": "Caminante gigantesco"
             },
             "QfamH8OgX90T27nW": {
-              "name": "Strider gigante"
+              "name": "Caminante gigantesco"
             },
             "ocSyRKLV6b6r5tx7": {
-              "name": "Strider gigante"
+              "name": "Caminante gigantesco"
             },
             "BleiFNbosKJLdrDb": {
-              "name": "Strider gigante"
+              "name": "Caminante gigantesco"
             },
             "lgO0wV2ZNzUfUb9O": {
-              "name": "Strider gigante"
+              "name": "Caminante gigantesco"
             },
             "7yXlw9nJIR4Zezv5": {
-              "name": "Strider gigante"
+              "name": "Caminante gigantesco"
             },
             "RgfOulpIRMIjvIbS": {
-              "name": "Strider gigante"
+              "name": "Caminante gigantesco"
             },
             "3flCkjAgki9xuLPz": {
-              "name": "Strider gigante"
+              "name": "Caminante gigantesco"
             }
           }
         },
@@ -21307,34 +21307,34 @@
               "text": "3"
             },
             "sv1qssYgagPvWvBa": {
-              "text": "+630 pies."
+              "text": "+630 pies"
             },
             "uOJ8G9sWAdZtVFQo": {
-              "text": "+620 pies."
+              "text": "+620 pies"
             },
             "dUeP1XX9Lz7AjfK4": {
-              "text": "+590 pies."
+              "text": "+590 pies"
             },
             "v8HLRks9ryWpo2uK": {
-              "text": "+570 pies."
+              "text": "+570 pies"
             },
             "cpe1VpA91WrDTmDf": {
-              "text": "+550 pies."
+              "text": "+550 pies"
             },
             "Jn7NpUUAkOw593k9": {
               "text": "+520 pies"
             },
             "ECdeXuMW7ucMknq2": {
-              "text": "+500 pies."
+              "text": "+500 pies"
             },
             "MzsxAScVw1lPy7NK": {
-              "text": "+570 pies."
+              "text": "+570 pies"
             },
             "5JrtZzpeYVqvPf4k": {
-              "text": "+590 pies."
+              "text": "+590 pies"
             },
             "VOfKBrWiRkVDMzZw": {
-              "text": "+630 pies."
+              "text": "+630 pies"
             }
           },
           "name": "Kir Sabal (4 niveles)",
@@ -21369,50 +21369,50 @@
           },
           "regions": {
             "WJHS8xQdH5Y5CKY6": {
-              "name": "Monasterio: Escaleras del primer piso",
+              "name": "Monasterio: escaleras de la primera planta",
               "behaviors": {
                 "nsZrvA06SxLPxiYR": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "uIxpMJiGB9vI8AVy": {
-              "name": "Monasterio: Escaleras del segundo piso",
+              "name": "Monasterio: escaleras de la segunda planta",
               "behaviors": {
                 "NPQ10ddG7yuCTFy4": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "ZPjx9DA9fSWXYtwk": {
-              "name": "Sala de limpieza: Segundo piso",
+              "name": "Sala de purificación: segunda planta",
               "behaviors": {
                 "28Lo2nTeKbmclou1": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "1XMPcuL0bOq6XxNa": {
-              "name": "Sala de limpieza: 1er piso",
+              "name": "Sala de purificación: 1.ª planta",
               "behaviors": {
                 "m0h4tCYEb6Fjo26S": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "yNcIuGNZtV4LlLHc": {
-              "name": "Casa de los Ancianos: Segundo piso",
+              "name": "Casa de la anciana: segunda planta",
               "behaviors": {
                 "4d1JLya1FymenW2I": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "liEEUl1dhEI2amIM": {
-              "name": "Casa del Anciano: Primer piso",
+              "name": "Casa de la anciana: primera planta",
               "behaviors": {
                 "j6qlhfXLZjyAlfBc": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
@@ -21420,23 +21420,23 @@
               "name": "Interior sin ventanas",
               "behaviors": {
                 "qjilWeHPhntcqHqc": {
-                  "name": "Desactivar la iluminación mundial"
+                  "name": "Desactivar iluminación global"
                 }
               }
             },
             "sFTtM5uxRxbH7WqN": {
-              "name": "Viviendas: Segundo piso",
+              "name": "Viviendas: segunda planta",
               "behaviors": {
                 "Db4kmLR5wSh5uSRI": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "v4V5XMLUYVDxbaaS": {
-              "name": "Vivienda: Primera planta",
+              "name": "Vivienda: primera planta",
               "behaviors": {
                 "9s3WwF9u3MYCRjbd": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             }
@@ -21466,7 +21466,7 @@
               "name": "Chwinga"
             },
             "41v2ywj5bwyMLzCU": {
-              "name": "Almizcle amarillo Zombie"
+              "name": "Zombi amarillo almizclado"
             },
             "LsoiKjcFQNbNsTR8": {
               "name": "Eblis"
@@ -21499,31 +21499,31 @@
               "name": "Cocodrilo"
             },
             "AXWTtqDCrzys0udl": {
-              "name": "Frond triflor"
+              "name": "Palma triflor"
             },
             "GU5iRtkNq5sa3cc7": {
-              "name": "Frond triflor"
+              "name": "Palma triflor"
             },
             "sMKlo9kMo34WNg1S": {
-              "name": "Frond triflor"
+              "name": "Palma triflor"
             },
             "Rg8ru9ZKDspENv56": {
-              "name": "Almizcle amarillo Zombie"
+              "name": "Zombi amarillo almizclado"
             },
             "gNTfvw0ft0Ox4UAT": {
-              "name": "Almizcle amarillo Zombie"
+              "name": "Zombi amarillo almizclado"
             },
             "JK99zYWxnkiNuiNp": {
-              "name": "Almizcle amarillo Zombie"
+              "name": "Zombi amarillo almizclado"
             },
             "ieQJ9TOEHp4L6th9": {
-              "name": "Almizcle amarillo Zombie"
+              "name": "Zombi amarillo almizclado"
             },
             "bgIbHQlL72BiZXyx": {
-              "name": "Almizcle amarillo Zombie"
+              "name": "Zombi amarillo almizclado"
             },
             "y4OV8VH1eeZ5pbj7": {
-              "name": "Almizcle amarillo Zombie"
+              "name": "Zombi amarillo almizclado"
             },
             "z18SbhJrv1XDTZHE": {
               "name": "Zalkoré"
@@ -21541,109 +21541,109 @@
           "name": "Jardín de Nangalore",
           "drawings": {
             "SB5R0gFbAJyfgTpO": {
-              "text": "+30 pies."
+              "text": "+30 pies"
             },
             "cMOaCFPUuZFj0djO": {
-              "text": "+20 pies."
+              "text": "+20 pies"
             },
             "KyVTLg87lnvL0hL1": {
-              "text": "+15 pies."
+              "text": "+15 pies"
             },
             "iclrqa9LtJdMJc3I": {
-              "text": "+30 pies."
+              "text": "+30 pies"
             },
             "ili38GCMDK25Yg4k": {
-              "text": "+20 pies."
+              "text": "+20 pies"
             },
             "rpTgU5dfg8qmaliD": {
-              "text": "+20 pies."
+              "text": "+20 pies"
             },
             "tZUsXWgT4f5QB8LG": {
-              "text": "+20 pies."
+              "text": "+20 pies"
             },
             "YTC5o0LpoGieEMRm": {
-              "text": "+20 pies."
+              "text": "+20 pies"
             },
             "dab2Kpue6b8qjLxb": {
-              "text": "+20 pies."
+              "text": "+20 pies"
             },
             "RchS6Z70huZkveYO": {
-              "text": "+20 pies."
+              "text": "+20 pies"
             },
             "3ZrYxMtRuabJjpGC": {
-              "text": "+15 pies."
+              "text": "+15 pies"
             },
             "10x7CVjO8t0bOcfW": {
-              "text": "+15 pies."
+              "text": "+15 pies"
             },
             "qqMVLefVKjV4q9aW": {
-              "text": "+15 pies."
+              "text": "+15 pies"
             },
             "qQj8tlE7OrYYu1LI": {
-              "text": "+20 pies."
+              "text": "+20 pies"
             },
             "EcPz3dHD2M74FP1R": {
-              "text": "+20 pies."
+              "text": "+20 pies"
             },
             "4lpj4FqR6HQcl14K": {
-              "text": "+10 pies."
+              "text": "+10 pies"
             },
             "hdAM61WGy2P6SiXN": {
-              "text": "+10 pies."
+              "text": "+10 pies"
             },
             "0i60Gi5lGCDwIOlL": {
-              "text": "+10 pies."
+              "text": "+10 pies"
             },
             "Js1USjGWMyaELnnB": {
-              "text": "+10 pies."
+              "text": "+10 pies"
             },
             "ng2wJ67XVeh7KD5k": {
-              "text": "+5 pies."
+              "text": "+5 pies"
             },
             "kMGY0PPfWaebRHWa": {
-              "text": "+5 pies."
+              "text": "+5 pies"
             },
             "PSCZj2W9p91Bwvhh": {
-              "text": "+5 pies."
+              "text": "+5 pies"
             },
             "k33LcRQJqfgvzvxA": {
-              "text": "0 pies."
+              "text": "0 pies"
             },
             "IPUgEM4kXqNQUuMg": {
-              "text": "0 pies."
+              "text": "0 pies"
             },
             "qpaoeCbcM2hJyFDD": {
-              "text": "0 pies."
+              "text": "0 pies"
             },
             "aQSxNTtyWO84kcpe": {
-              "text": "0 pies."
+              "text": "0 pies"
             },
             "N0bjPUf3HpZ4ppFZ": {
-              "text": "0 pies."
+              "text": "0 pies"
             },
             "TtY1AIZTEcyUB5ph": {
-              "text": "0 pies."
+              "text": "0 pies"
             },
             "5rhyhhbkLPkqjCpN": {
-              "text": "+10 pies."
+              "text": "+10 pies"
             },
             "BobrUjWxBTyJDLIH": {
-              "text": "+10 pies."
+              "text": "+10 pies"
             },
             "GT9Sax2SeICXnfYC": {
-              "text": "+25 pies."
+              "text": "+25 pies"
             },
             "uyjloGwkl10VozFX": {
-              "text": "+25 pies."
+              "text": "+25 pies"
             },
             "v6OxKucy5wzKdkKs": {
-              "text": "+35 pies."
+              "text": "+35 pies"
             },
             "VbJqg5Yg7DEjJYhY": {
-              "text": "+5 pies."
+              "text": "+5 pies"
             },
             "uhmOeLUnSi3Oz3rS": {
-              "text": "+5 pies."
+              "text": "+5 pies"
             }
           },
           "levels": {
@@ -21661,62 +21661,62 @@
               "text": "Hrakhamar"
             },
             "yd1dRz0GaLIpJezv": {
-              "text": "+250 pies."
+              "text": "+250 pies"
             },
             "h7yukd5xBUkvCD1d": {
-              "text": "+200 pies."
+              "text": "+200 pies"
             },
             "rlHbiew8MHroJr8G": {
-              "text": "+200 pies."
+              "text": "+200 pies"
             },
             "K8vHUuEBlbn9zTeM": {
-              "text": "+250 pies."
+              "text": "+250 pies"
             },
             "DE40qESHQ83m9edP": {
-              "text": "+175 pies."
+              "text": "+175 pies"
             },
             "VLB1aZjWi2pqJT7I": {
-              "text": "Abierto hasta 12 abajo"
+              "text": "Abertura a la zona 12 inferior"
             },
             "hAQSejAJntx7sEOl": {
-              "text": "Abierto hasta 12 abajo"
+              "text": "Abertura a la zona 12 inferior"
             },
             "7PruGfss0gIIHIK9": {
-              "text": "+75 pies."
+              "text": "+75 pies"
             },
             "CDBav3fNazHr7W4E": {
-              "text": "+100 pies."
+              "text": "+100 pies"
             },
             "lZ1m9eNDjvoAwkZa": {
-              "text": "+125 pies."
+              "text": "+125 pies"
             },
             "k32gmWKFvq0zjA0A": {
-              "text": "+150 pies."
+              "text": "+150 pies"
             },
             "l3VmLXRo8j0qHP7W": {
-              "text": "+50 pies."
+              "text": "+50 pies"
             },
             "T5jer0coCfBdmAT8": {
-              "text": "+25 pies."
+              "text": "+25 pies"
             },
             "yheQvlKWmuwPfGnn": {
-              "text": "+25 pies."
+              "text": "+25 pies"
             }
           },
           "name": "Mina Wyrmheart (3 niveles)",
           "navigation": "Mina Wyrmheart",
           "tokens": {
             "Wvj0jJb4XXjRNptT": {
-              "name": "Kobold inventor"
+              "name": "Inventor kobold"
             },
             "C2nH9AkfosB1qGjk": {
-              "name": "Kobold inventor"
+              "name": "Inventor kobold"
             },
             "QI9hkpJfSK2eWqe8": {
-              "name": "Kobold inventor"
+              "name": "Inventor kobold"
             },
             "Zh7sJVAAtzwjttvA": {
-              "name": "Kobold inventor"
+              "name": "Inventor kobold"
             },
             "eyvFRi7Ycs19mLp1": {
               "name": "Kobold alado"
@@ -21811,27 +21811,27 @@
           },
           "regions": {
             "ihdd2WZGmiPOb4QB": {
-              "name": "6b Alambre de trampa",
+              "name": "Hilo de disparo de 6b",
               "behaviors": {
                 "5766IviNz2m4G8rG": {
-                  "name": "Cruce de Tripwire",
-                  "text": "Posiblemente desencadenó un cable en 6b."
+                  "name": "Cruzar el hilo de disparo",
+                  "text": "Es posible que se haya activado un hilo de disparo en 6b."
                 }
               }
             },
             "C99zr0lRexfpJMoA": {
-              "name": "Nivel de superficie: Escaleras",
+              "name": "Superficie: escaleras",
               "behaviors": {
                 "SLkMOFJmGFtjuWCU": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "TaFRauHDzJILklxJ": {
-              "name": "Subnivel 1: Escaleras",
+              "name": "Subnivel 1: escaleras",
               "behaviors": {
                 "1FAqnInwYreSJBg2": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
@@ -21839,15 +21839,15 @@
               "name": "Túnel",
               "behaviors": {
                 "jt5r2sB2ZYnamCb2": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "2UCbOullOSta1kWK": {
-              "name": "Trampa oculta de especia de tronco",
+              "name": "Trampa oculta de tronco con pinchos",
               "behaviors": {
                 "yaXHBZWYoIBmRudo": {
-                  "name": "Prueba de Spike logged trigged"
+                  "name": "Prueba de activación del tronco con pinchos"
                 }
               }
             }
@@ -21860,18 +21860,18 @@
         },
         "toaCh2Yellyark00": {
           "navigation": "Yellyark",
-          "name": "Yellyark (Campamento de Batiri Goblin)",
+          "name": "Yellyark (campamento de goblins batiri)",
           "tokens": {
             "1lUtnTu3rZgBuHEo": {
-              "name": "Duende"
+              "name": "Goblin"
             },
             "OS44VmiXahqQ5kgm": {
-              "name": "Duende"
+              "name": "Goblin"
             }
           },
           "levels": {
             "defaultLevel0000": {
-              "name": "Yellyark (Campamento de Batiri Goblin)"
+              "name": "Yellyark (campamento de goblins batiri)"
             }
           }
         },
@@ -21881,37 +21881,37 @@
               "name": "Almiraj"
             }
           },
-          "name": "El Santuario de I'jin",
+          "name": "Santuario de Pjin",
           "regions": {
             "smIyMuJhOy9fgHgf": {
-              "name": "Inicio del piso del rompecabezas",
+              "name": "Inicio del suelo del acertijo",
               "behaviors": {
                 "Oat3NtESmF4ixXSU": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "a8QgXEm9qnA5YhDP": {
-              "name": "Entrada en el piso del rompecabezas",
+              "name": "Entrada al suelo del acertijo",
               "behaviors": {
                 "TxQkaIytbruJLTQV": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "n2fLL8Ykzb3KULfS": {
-              "name": "Salida del piso del rompecabezas",
+              "name": "Salida del suelo del acertijo",
               "behaviors": {
                 "tLRMBsU3c4dZ8ErA": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "p6mNIXdDrjOrzWs6": {
-              "name": "Parada del piso del rompecabezas",
+              "name": "Fin del suelo del acertijo",
               "behaviors": {
                 "sVVrz17hRzmqzHPb": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
@@ -21919,7 +21919,7 @@
               "name": "Placas de presión",
               "behaviors": {
                 "A4D1YrlBbo0i0hze": {
-                  "name": "Mostrar el texto de desplazamiento",
+                  "name": "Mostrar texto flotante",
                   "text": "Placa de presión"
                 }
               }
@@ -21927,7 +21927,7 @@
           },
           "levels": {
             "defaultLevel0000": {
-              "name": "El Santuario de I'jin"
+              "name": "Santuario de Pjin"
             }
           }
         },
@@ -21949,33 +21949,33 @@
               "name": "Zorbo"
             }
           },
-          "name": "Santuario de Obo'laka",
+          "name": "Santuario de Obo’laka",
           "regions": {
             "uaE2RUbokz6udHxu": {
-              "name": "Piscina lunar",
+              "name": "Estanque de la Luna",
               "behaviors": {
                 "QM7MfjAOs3fM26Ft": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "DwWDN1DWPWm3HZTb": {
-              "name": "Piscina solar",
+              "name": "Estanque del Sol",
               "behaviors": {
                 "8CNjlIg5Cx7CHe2P": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             }
           },
           "levels": {
             "defaultLevel0000": {
-              "name": "Santuario de Obo'laka"
+              "name": "Santuario de Obo’laka"
             }
           }
         },
         "toaCh3FaneoftheN": {
-          "name": "El Fano de la Serpiente Nocturna",
+          "name": "Templo de la Serpiente de la Noche",
           "tokens": {
             "yT3urFuuJ5kkFQr1": {
               "name": "Ras Nsi"
@@ -21996,16 +21996,16 @@
               "name": "Zombi"
             },
             "NXacCIcui6vVdCfP": {
-              "name": "Yuan-ti guardián de la progenie"
+              "name": "Guardaestirpe yuan-ti"
             },
             "G0WrwoKw27ImvQCU": {
-              "name": "Yuan-ti guardián de la progenie"
+              "name": "Guardaestirpe yuan-ti"
             },
             "Gxb7cj5oZDwWiK6v": {
-              "name": "Yuan-ti guardián de la progenie"
+              "name": "Guardaestirpe yuan-ti"
             },
             "590mAxkSBaWSiOE5": {
-              "name": "Yuan-ti guardián de la progenie"
+              "name": "Guardaestirpe yuan-ti"
             },
             "FunXwF4HlPxcXTPb": {
               "name": "Nahth"
@@ -22014,16 +22014,16 @@
               "name": "Soakosh"
             },
             "YCcI7cEb1ypYthwn": {
-              "name": "Yuan-ti guardián de la progenie"
+              "name": "Guardaestirpe yuan-ti"
             },
             "mcbDWgyWRExRARjJ": {
-              "name": "Yuan-ti guardián de la progenie"
+              "name": "Guardaestirpe yuan-ti"
             },
             "6TzRDguYi0cnIQ4x": {
-              "name": "Yuan-ti guardián de la progenie"
+              "name": "Guardaestirpe yuan-ti"
             },
             "qw0eOWPHsV7sks6p": {
-              "name": "Yuan-ti guardián de la progenie"
+              "name": "Guardaestirpe yuan-ti"
             },
             "H8ZcEsm5F3CBtmPA": {
               "name": "Tricerátops"
@@ -22032,60 +22032,60 @@
               "name": "Ukurlahmu"
             },
             "Zb9PLep1G4J4K4Eh": {
-              "name": "Esqueleto de Minotauro"
+              "name": "Esqueleto de minotauro"
             },
             "mmJlgcIOmgyn2R0u": {
-              "name": "Esqueleto de Minotauro"
+              "name": "Esqueleto de minotauro"
             },
             "FE1SrmPP4GVuRw3A": {
-              "name": "Yuan-ti Malison"
+              "name": "Corrupto yuan-ti"
             },
             "QlBChl6QoNr0ZN1W": {
-              "name": "Yuan-ti Malison"
+              "name": "Corrupto yuan-ti"
             },
             "LQQIaTxGzb1AQ0Jl": {
               "name": "Fenthaza"
             },
             "CFZ7V4YqVqdbneWz": {
-              "name": "Yuan-ti guardián de la progenie",
+              "name": "Guardaestirpe yuan-ti",
               "delta": {
                 "effects": {
                   "ivcpAURLO4oKmPyJ": {
-                    "name": "Calaveras cantadas",
-                    "description": "<p>Mientras uno o más cráneos estén cantando, todos los yuan-ti en la habitación obtienen los siguientes beneficios:</p><ul><li><p>Resistencia a golpes, perforaciones y cortes de daños por ataques no mágicos</p></li><li><p>Ventaja en el ahorro de lanzamientos contra conjuros y otros efectos mágicos</p></li></ul>"
+                    "name": "Calaveras que cantan",
+                    "description": "<p>Mientras uno o más cráneos sigan cantando, todos los yuan-ti de la sala obtienen los siguientes beneficios:</p><ul><li><p>Resistencia al daño contundente, perforante y cortante de ataques no mágicos.</p></li><li><p>Ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.</p></li></ul>"
                   }
                 }
               }
             },
             "lleAfl9QWm2NmGCn": {
-              "name": "Yuan-ti guardián de la progenie",
+              "name": "Guardaestirpe yuan-ti",
               "delta": {
                 "effects": {
                   "ivcpAURLO4oKmPyJ": {
-                    "name": "Calaveras cantadas",
-                    "description": "<p>Mientras uno o más cráneos estén cantando, todos los yuan-ti en la habitación obtienen los siguientes beneficios:</p><ul><li><p>Resistencia a golpes, perforaciones y cortes de daños por ataques no mágicos</p></li><li><p>Ventaja en el ahorro de lanzamientos contra conjuros y otros efectos mágicos</p></li></ul>"
+                    "name": "Calaveras que cantan",
+                    "description": "<p>Mientras uno o más cráneos sigan cantando, todos los yuan-ti de la sala obtienen los siguientes beneficios:</p><ul><li><p>Resistencia al daño contundente, perforante y cortante de ataques no mágicos.</p></li><li><p>Ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.</p></li></ul>"
                   }
                 }
               }
             },
             "hZyYmUaN3BNIVOce": {
-              "name": "Yuan-ti guardián de la progenie",
+              "name": "Guardaestirpe yuan-ti",
               "delta": {
                 "effects": {
                   "ivcpAURLO4oKmPyJ": {
-                    "name": "Calaveras cantadas",
-                    "description": "<p>Mientras uno o más cráneos estén cantando, todos los yuan-ti en la habitación obtienen los siguientes beneficios:</p><ul><li><p>Resistencia a golpes, perforaciones y cortes de daños por ataques no mágicos</p></li><li><p>Ventaja en el ahorro de lanzamientos contra conjuros y otros efectos mágicos</p></li></ul>"
+                    "name": "Calaveras que cantan",
+                    "description": "<p>Mientras uno o más cráneos sigan cantando, todos los yuan-ti de la sala obtienen los siguientes beneficios:</p><ul><li><p>Resistencia al daño contundente, perforante y cortante de ataques no mágicos.</p></li><li><p>Ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.</p></li></ul>"
                   }
                 }
               }
             },
             "sCcSTMCKA4GDXYsP": {
-              "name": "Yuan-ti guardián de la progenie",
+              "name": "Guardaestirpe yuan-ti",
               "delta": {
                 "effects": {
                   "ivcpAURLO4oKmPyJ": {
-                    "name": "Calaveras cantadas",
-                    "description": "<p>Mientras uno o más cráneos estén cantando, todos los yuan-ti en la habitación obtienen los siguientes beneficios:</p><ul><li><p>Resistencia a golpes, perforaciones y cortes de daños por ataques no mágicos</p></li><li><p>Ventaja en el ahorro de lanzamientos contra conjuros y otros efectos mágicos</p></li></ul>"
+                    "name": "Calaveras que cantan",
+                    "description": "<p>Mientras uno o más cráneos sigan cantando, todos los yuan-ti de la sala obtienen los siguientes beneficios:</p><ul><li><p>Resistencia al daño contundente, perforante y cortante de ataques no mágicos.</p></li><li><p>Ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.</p></li></ul>"
                   }
                 }
               }
@@ -22139,19 +22139,19 @@
               "name": "Yuan-ti purasangre"
             },
             "CwFdBXZ0ahX6ZBeJ": {
-              "name": "Yuan-ti guardián de la progenie"
+              "name": "Guardaestirpe yuan-ti"
             },
             "AsDXR4qFRloUc38l": {
-              "name": "Yuan-ti guardián de la progenie"
+              "name": "Guardaestirpe yuan-ti"
             },
             "6aZbXbaiYdDoJ6CY": {
-              "name": "Yuan-ti Malison"
+              "name": "Corrupto yuan-ti"
             },
             "Rek27HKzzlPy8pXT": {
               "name": "Sekelok"
             },
             "Y9B5Ji8b2nveTKQR": {
-              "name": "Yuan-ti guardián de la progenie"
+              "name": "Guardaestirpe yuan-ti"
             },
             "3tKRfxvi5uw2DveP": {
               "name": "Gul"
@@ -22175,31 +22175,31 @@
               "name": "Yuan-ti purasangre"
             },
             "n7f1J3lAvA2u9AFH": {
-              "name": "Yuan-ti Malison"
+              "name": "Corrupto yuan-ti"
             },
             "x9pwld5k8BACCc5S": {
-              "name": "Yuan-ti Malison"
+              "name": "Corrupto yuan-ti"
             },
             "b6Dx2zE0Mn7YLGo9": {
               "name": "Yahru"
             },
             "v0gWOa3qEbzHfbfW": {
-              "name": "Yuan-ti Malison"
+              "name": "Corrupto yuan-ti"
             },
             "QMl6vpOrYoia4yws": {
-              "name": "Yuan-ti Malison"
+              "name": "Corrupto yuan-ti"
             },
             "3LVW4eQqHp7ntYJj": {
-              "name": "Yuan-ti Malison"
+              "name": "Corrupto yuan-ti"
             },
             "MY2qWQagMfcizH7I": {
-              "name": "Yuan-ti Malison"
+              "name": "Corrupto yuan-ti"
             },
             "xTOkG2xEP1WHg5me": {
-              "name": "Yuan-ti Malison"
+              "name": "Corrupto yuan-ti"
             },
             "26shKqYhZlXIwiW9": {
-              "name": "Yuan-ti Malison"
+              "name": "Corrupto yuan-ti"
             },
             "A0Ot9ykCCnZh085e": {
               "name": "Yuan-ti purasangre"
@@ -22211,37 +22211,37 @@
               "name": "Yuan-ti purasangre"
             },
             "z1hHb3Ox082iFOOh": {
-              "name": "Yuan-ti guardián de la progenie"
+              "name": "Guardaestirpe yuan-ti"
             },
             "vqiincz9vi3lUZh5": {
-              "name": "Yuan-ti guardián de la progenie"
+              "name": "Guardaestirpe yuan-ti"
             },
             "dkC1eIVScUU0zzR3": {
-              "name": "Yuan-ti guardián de la progenie"
+              "name": "Guardaestirpe yuan-ti"
             },
             "xlfC4gNmM3vlPWSK": {
-              "name": "Supervisor Issar",
+              "name": "Capataz Issar",
               "delta": {
-                "name": "Supervisor Issar",
+                "name": "Capataz Issar",
                 "items": {
                   "5DSBJmOiosWqhqJU": {
-                    "name": "Tecla de hierro",
-                    "description": "<p>Una llave de hierro <span style=\"font-family:'Roboto Condensed', sans-serif\">hallados en los cuartos del cautivo </span>en el templo dedicado a Dendar la Serpiente Nocturna.</p>"
+                    "name": "Llave de hierro",
+                    "description": "<p>Una llave de hierro <span style=\"font-family:'Roboto Condensed', sans-serif\">encontrada en los aposentos de los cautivos </span>del templo dedicado a Dendar, la Serpiente de la Noche.</p>"
                   }
                 }
               }
             },
             "wYStlBn45KYucM2a": {
-              "name": "Yuan-ti guardián de la progenie"
+              "name": "Guardaestirpe yuan-ti"
             },
             "BCOjQP0jxTkwsfwP": {
-              "name": "Yuan-ti guardián de la progenie"
+              "name": "Guardaestirpe yuan-ti"
             },
             "fwSvie3LkWH5G7Hg": {
-              "name": "Yuan-ti guardián de la progenie"
+              "name": "Guardaestirpe yuan-ti"
             },
             "gplixPCxMqhPZXe1": {
-              "name": "Yuan-ti guardián de la progenie"
+              "name": "Guardaestirpe yuan-ti"
             },
             "64Glh1bKO8Brlmyy": {
               "name": "Gul"
@@ -22253,13 +22253,13 @@
               "name": "Gul"
             },
             "4et4jCVClbxxBlEk": {
-              "name": "Yuan-ti Malison"
+              "name": "Corrupto yuan-ti"
             },
             "ZUqszDLXmQX374Yp": {
-              "name": "Yuan-ti guardián de la progenie"
+              "name": "Guardaestirpe yuan-ti"
             },
             "k5obHFA7y9T6c5Ti": {
-              "name": "Yuan-ti guardián de la progenie"
+              "name": "Guardaestirpe yuan-ti"
             },
             "YST4Y2ZYrYEm9KuM": {
               "name": "Hidra"
@@ -22294,7 +22294,7 @@
           },
           "levels": {
             "defaultLevel0000": {
-              "name": "El Fano de la Serpiente Nocturna"
+              "name": "Templo de la Serpiente de la Noche"
             }
           },
           "regions": {
@@ -22302,7 +22302,7 @@
               "name": "Teletransportadores",
               "behaviors": {
                 "oe6BQOenIzNkeRDL": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             }
@@ -22320,19 +22320,19 @@
               "text": "X"
             },
             "2RL7HLLapsfBFi6J": {
-              "text": "Hasta el nivel 2"
+              "text": "Bajada al nivel 2"
             },
             "5iKozyYXlOWTsQXz": {
-              "text": "Abierto a 45 abajo"
+              "text": "Abertura a la zona 45 inferior"
             },
             "wrWyBAwntV1Va6mC": {
-              "text": "Abierto a 64 abajo"
+              "text": "Abertura a la zona 64 inferior"
             },
             "2PDGXqBeQpM0dFlY": {
-              "text": "Hasta el nivel 2"
+              "text": "Bajada al nivel 2"
             }
           },
-          "name": "L1: Salones podridos",
+          "name": "L1: Salones Putrefactos",
           "navigation": "Nivel 1",
           "tokens": {
             "lSnh2tcTDlcUT9tK": {
@@ -22348,30 +22348,30 @@
               "name": "Demonio de las sombras"
             },
             "c79VwfznXn8Url8o": {
-              "name": "Enjambre de arañas no muertas"
+              "name": "Enjambre de arañas muertas vivientes"
             },
             "rgkEuZB32ITtDOaA": {
-              "name": "Enjambre de arañas no muertas"
+              "name": "Enjambre de arañas muertas vivientes"
             },
             "N6zXtlYzEIKzZG6X": {
-              "name": "Enjambre de arañas no muertas"
+              "name": "Enjambre de arañas muertas vivientes"
             },
             "p7L6JJGaJ1OAwQ1n": {
-              "name": "Enjambre de arañas no muertas"
+              "name": "Enjambre de arañas muertas vivientes"
             },
             "UTwMqledxyBUUQss": {
-              "name": "Enjambre de arañas no muertas"
+              "name": "Enjambre de arañas muertas vivientes"
             },
             "ci1ttXxovIfsfn8a": {
-              "name": "Enjambre de arañas no muertas"
+              "name": "Enjambre de arañas muertas vivientes"
             },
             "V5gmfa9BIrIDbVO3": {
-              "name": "Su-Monster Mami",
+              "name": "Momia de sucarate",
               "delta": {
                 "items": {
                   "OT75R0UKjHypYymv": {
-                    "name": "Macis de terror",
-                    "description": "<p><em>(Requiere sintonía)</em></p>\n<p>Esta arma mágica tiene 3 cargas. Mientras lo sostienes, puedes usar una acción y gastar 1 carga para liberar una ola de terror. Cada criatura de su elección en un radio de 30 pies que se extiende desde usted debe tener éxito en un lanzamiento de ahorro de sabiduría CD 15 o tener miedo de usted durante 1 minuto.</p>\n<p>Mientras está asustado de esta manera, una criatura debe pasar sus turnos tratando de moverse lo más lejos posible de ti, y no puede moverse voluntariamente a un espacio a menos de 30 pies de ti. Tampoco puede tomar reacciones. Para su acción, puede utilizar sólo la acción Dash o tratar de escapar de un efecto que impide que se mueva. Si no tiene ningún lugar donde se pueda mover, la criatura puede usar la acción Dodge. Al final de cada uno de sus giros, una criatura puede repetir el lanzamiento de ahorro, terminando el efecto en sí misma en un éxito.</p>\n<p>La maza recupera las cargas gastadas en 1d3 diariamente al amanecer.</p>"
+                    "name": "Maza del terror",
+                    "description": "<p><em>(Requiere sintonización)</em></p>\n<p>Esta arma mágica tiene 3 cargas. Mientras la sostengas, puedes usar una acción y gastar 1 carga para liberar una oleada de terror. Cada criatura que elijas en un radio de 30 pies a tu alrededor debe superar una tirada de salvación de Sabiduría CD 15 o quedar asustada de ti durante 1 minuto.</p>\n<p>Mientras esté asustada de este modo, debe emplear sus turnos en intentar alejarse de ti todo lo posible y no puede acercarse voluntariamente a 30 pies o menos de ti. Tampoco puede realizar reacciones. Solo puede usar su acción para Correr o intentar escapar de un efecto que le impida moverse. Si no tiene adónde moverse, puede realizar la acción de Esquivar. Al final de cada uno de sus turnos, puede repetir la tirada de salvación; si tiene éxito, el efecto termina para ella.</p>\n<p>La maza recupera 1d3 cargas gastadas cada día al amanecer.</p>"
                   }
                 }
               }
@@ -22383,7 +22383,7 @@
               "name": "Nepartak"
             },
             "N66pbIM1MeiP6sSN": {
-              "name": "Mímico"
+              "name": "Mimeto"
             },
             "bJ5nOqQuymek5U9S": {
               "name": "Tumulario"
@@ -22409,36 +22409,36 @@
               "name": "Obelisco"
             },
             "KWxonMETQ1JZjMPA": {
-              "name": "Nivel 1: Gran Escalera",
+              "name": "Nivel 1: gran escalera",
               "behaviors": {
                 "cFAjAnIJW8AENPn2": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "5rc1UchtujIlFD5z": {
-              "name": "Nivel 1: escaleras abajo",
+              "name": "Nivel 1: escaleras de bajada",
               "behaviors": {
                 "Cn73n9gacGOyP5fZ": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "PpGHolUqPnmczgDf": {
-              "name": "Nivel 1: Apertura",
+              "name": "Nivel 1: abertura",
               "behaviors": {
                 "9SCJ9lad6FKJvEsf": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "sMEF7XnBzWDZQ46G": {
-              "name": "La cara del diablo"
+              "name": "Rostro del diablo"
             }
           },
           "levels": {
             "defaultLevel0000": {
-              "name": "L1: Salones podridos"
+              "name": "L1: Salones Putrefactos"
             }
           }
         },
@@ -22454,13 +22454,13 @@
               "name": "Zombi"
             },
             "SvSSbLXAOaeZqipH": {
-              "name": "Vino raro"
+              "name": "Extraño de vino"
             },
             "ZJzs2CKLy0wwr7gd": {
-              "name": "Vino raro"
+              "name": "Extraño de vino"
             },
             "SVBJpNAlT8qebAz5": {
-              "name": "Vino raro"
+              "name": "Extraño de vino"
             },
             "Q7Iif2jIU670bFWD": {
               "name": "Esqueleto"
@@ -22513,25 +22513,25 @@
               "name": "Guardián de la tumba"
             },
             "NyQeDjY3BiXkBeHj": {
-              "name": "Tomb enano"
+              "name": "Enano de la tumba"
             },
             "b8DrkQCSU7GpqYfV": {
-              "name": "Tomb enano"
+              "name": "Enano de la tumba"
             },
             "lrdMlQqmzIjMBJei": {
-              "name": "Tomb enano"
+              "name": "Enano de la tumba"
             },
             "NL64w1EPcCEh1qV3": {
-              "name": "Tomb enano"
+              "name": "Enano de la tumba"
             },
             "IZtnincygR44mI1A": {
-              "name": "Tomb enano"
+              "name": "Enano de la tumba"
             },
             "IHWC0UOFNeMrbwWj": {
               "name": "Guardián de la tumba"
             },
             "kjwaGcdo5UQ9tNzI": {
-              "name": "Marchita"
+              "name": "Mustio"
             },
             "4elR6944XK0fCbjp": {
               "name": "Garra reptante"
@@ -22558,89 +22558,89 @@
               "name": "Enjambre de murciélagos"
             }
           },
-          "name": "L2: La mazmorra del engaño",
+          "name": "L2: Mazmorra del Engaño",
           "navigation": "Nivel 2",
           "drawings": {
             "SgD9GMohoSCJyOB2": {
-              "text": "Bloque de techo"
+              "text": "Bloque del techo"
             },
             "94WK6V5NYvXJC1X2": {
-              "text": "Hasta el nivel 1"
+              "text": "Subida al nivel 1"
             },
             "d6rGoXdzV39pvy72": {
-              "text": "Hasta el nivel 1"
+              "text": "Subida al nivel 1"
             },
             "yqLwNwoyrtof5OLS": {
-              "text": "Hasta los niveles 3 a 5"
+              "text": "Bajada al nivel 3-5"
             },
             "gsCKWnqsmh6wkasC": {
-              "text": "Abierto a 45 abajo"
+              "text": "Abertura a la zona 45 inferior"
             },
             "58cMcStcaddiLaBi": {
-              "text": "Hasta el nivel 3"
+              "text": "Bajada al nivel 3"
             }
           },
           "regions": {
             "iqV2cUklifkb0Xo3": {
-              "name": "Nivel 2: escaleras abajo",
+              "name": "Nivel 2: escaleras de bajada",
               "behaviors": {
                 "M6ccTX7JoZsLyvLu": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "7QOvx8wFXWR6g2qh": {
-              "name": "Nivel 2: Escaleras arriba",
+              "name": "Nivel 2: escaleras de subida",
               "behaviors": {
                 "5C5Pnugw5s8fIFlF": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "ZLFGb7BZ8dz5Wu7o": {
-              "name": "Nivel 2: Gran Escalera Arriba",
+              "name": "Nivel 2: gran escalera de subida",
               "behaviors": {
                 "J3rmoyplT0GaAP2D": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "MAUD5UO6EEtXRPvh": {
-              "name": "Nivel 2: Gran escalera hacia abajo",
+              "name": "Nivel 2: gran escalera de bajada",
               "behaviors": {
                 "ii9ZDQ0AssrZ2uAC": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "sdJ29UVr13t5rT0o": {
-              "name": "Nivel 2: Área 18",
+              "name": "Nivel 2: zona 18",
               "behaviors": {
                 "36jNCeGXV9wBJcvB": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "H18oDP9Rroc91BRY": {
-              "name": "Nivel 2: Anillo Norte",
+              "name": "Nivel 2: anillo norte",
               "behaviors": {
                 "GfEqolq5FxWB4UjN": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "c4pxbnTEduHbSoEs": {
-              "name": "Nivel 2: Anillo Sur",
+              "name": "Nivel 2: anillo sur",
               "behaviors": {
                 "epQD6q1BxyrhnNAy": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             }
           },
           "levels": {
             "defaultLevel0000": {
-              "name": "L2: La mazmorra del engaño"
+              "name": "L2: Mazmorra del Engaño"
             }
           }
         },
@@ -22659,43 +22659,43 @@
               "name": "Gárgola gigante de cuatro brazos"
             },
             "Who7KGyGvBkpDPns": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "f4ykRQg9Tlg1VphR": {
               "name": "Tiranosaurio zombi"
             },
             "cROmx0Qb6Rrf8TwE": {
-              "name": "Esqueleto de Minotauro"
+              "name": "Esqueleto de minotauro"
             },
             "LAleZqUD3No8J7X6": {
               "name": "Otyugh"
             },
             "pNySmdn293Jirl8E": {
-              "name": "Esqueleto de Minotauro"
+              "name": "Esqueleto de minotauro"
             },
             "EaVsJ83lZ24s1Gal": {
-              "name": "Esqueleto de Minotauro"
+              "name": "Esqueleto de minotauro"
             },
             "7wrOZ4ZDpb69wfDD": {
-              "name": "Esqueleto de Minotauro"
+              "name": "Esqueleto de minotauro"
             },
             "QNSB4X2KLOq56rsc": {
-              "name": "Esqueleto de Minotauro"
+              "name": "Esqueleto de minotauro"
             },
             "wk0trhmoO0Bi1muj": {
-              "name": "Esqueleto de Minotauro"
+              "name": "Esqueleto de minotauro"
             },
             "3PtDeCi7katV7pjL": {
-              "name": "Esqueleto de Minotauro"
+              "name": "Esqueleto de minotauro"
             },
             "OCwp17vNjwDP8KOT": {
-              "name": "Esqueleto de Minotauro"
+              "name": "Esqueleto de minotauro"
             },
             "8GGAKYm4g8JkVjYC": {
-              "name": "Esqueleto de Minotauro"
+              "name": "Esqueleto de minotauro"
             },
             "GjnSdD5Nk4fZQbSc": {
-              "name": "Esqueleto de Minotauro"
+              "name": "Esqueleto de minotauro"
             },
             "B6rZGxcj6hY5lZVL": {
               "name": "Bodak"
@@ -22704,145 +22704,145 @@
               "name": "Bodak"
             },
             "IzMAz9z1wXcebYlu": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "5YIgbSxqcGdH3VUy": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "oy1eLLfoS119N9Rv": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "W3QIv1HmMixRs0cn": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "UxU1IQfT5iDHtfxF": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "WmiPafFTVRbCH9nJ": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "HHG1JiXm4SjLJeZB": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "P9TQmoNp2gEQalnD": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "gByqhHq52gnWRYn1": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "YuovehySWjCUnXQu": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "tXkQYXVrp67QjYU8": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "mGXFEGV9IHMsNo76": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "lAAPCuhMWIE4vxqh": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "5T7swY9jOuyoWwZI": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "QXhuG9qH9w2wIr5V": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "BoYgaZdzc7FLwQ7B": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "fVf5d2Uz7PtwOwPW": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "1q2376aioIQBEK9x": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "Q71jyH2ZbelpORnq": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "VY1SZvGLdiUbaWPo": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "4lNyFNKKK37Ro94J": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "VCjihIsSqp1rUH4a": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "lprc4IO15olXSLYm": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "e0cKPT1DZ6YeACTd": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "GTRHe9SCAXXC0X7Q": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "YZ7JYxPfPwJcRKWC": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "c8JVlZg2Eg9A5AgJ": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "kFclF1SDI8HYZvF3": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "e706nsUIBUJWzB1Z": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "uLw3oRkGoSz9COYY": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "0lVCzzI3Nx1HiOGl": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "bEmQPJR3UiYccKhm": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "kJAg7UQnwcBD7l6r": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "nihnUJkqWMfn8IlX": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "RjtKCeFQuHgWxmAH": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "7CMWWe8WKU2PMm2I": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "UJS3NPQxvNalttn8": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "IXahmnEPzVSVmjsn": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "0sBxsu2uS27FhsZx": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "IylOcEC7I9KQ1rXr": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "7DOISbfGE7cCPBKv": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "qqNHGS2XBmpaBoCl": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "gPqNNF1C8mli7DyZ": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "yQdDZpiLO7M9mPKC": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "yvH31coIfrKKVIOl": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "Q4NkMifzhC46Ifeg": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "P7AdhJRALP8iBzcH": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "fG02mMjJWQTew9en": {
               "name": "Artista ciego"
@@ -22860,25 +22860,25 @@
               "name": "Acechador invisible"
             },
             "HcEznchLJDPOlXDH": {
-              "name": "Trol"
+              "name": "Troll"
             },
             "g2zzKw5C3WBCKmxI": {
-              "name": "Necrófago hediondo"
+              "name": "Ghast"
             },
             "jfsjy2AHo5j56dNK": {
-              "name": "Necrófago hediondo"
+              "name": "Ghast"
             },
             "juO9fGFmNueIFvOA": {
-              "name": "Necrófago hediondo"
+              "name": "Ghast"
             },
             "ZIj7FO7E7l22YiYD": {
-              "name": "Necrófago hediondo"
+              "name": "Ghast"
             },
             "mL6EhmLAPyyW8jXY": {
-              "name": "Necrófago hediondo"
+              "name": "Ghast"
             },
             "GEH2WWOmOlh8791Z": {
-              "name": "Necrófago hediondo"
+              "name": "Ghast"
             }
           },
           "regions": {
@@ -22888,35 +22888,35 @@
                   "name": "Terreno difícil"
                 },
                 "btI9EkE94VnLFA1U": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               },
-              "name": "Mazmorra de olvido"
+              "name": "Pozo del olvido"
             },
             "r9Uv4qmIAoQn0Kly": {
-              "name": "Teletransportador Norte",
+              "name": "Teletransportador norte",
               "behaviors": {
                 "sPNAiOGJrdeYj3P1": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 },
                 "qMsz5ymCTDieDMao": {
-                  "name": "Daños en mal funcionamiento"
+                  "name": "Daño por mal funcionamiento"
                 }
               }
             },
             "W65nVCH8vctkJWrh": {
-              "name": "Teletransportador Este",
+              "name": "Teletransportador este",
               "behaviors": {
                 "h4nipcdAi2ipBOWr": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "TyXW7MOhL7GxveU1": {
-              "name": "Teletransportador Sur",
+              "name": "Teletransportador sur",
               "behaviors": {
                 "UESZWAPlQ9V9iQJv": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
@@ -22924,49 +22924,49 @@
               "name": "Zona 50"
             },
             "sx4RsmIjGMk65wzd": {
-              "name": "Nivel 4: Gran escalera arriba",
+              "name": "Nivel 4: gran escalera de subida",
               "behaviors": {
                 "Pd0y3xSU3mtbV1Tc": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "ofFtyvA7Yk6BLjDf": {
-              "name": "Nivel 4: Escalera espiral arriba",
+              "name": "Nivel 4: escalera de caracol de subida",
               "behaviors": {
                 "MPWjIz0Hl4FhsNCZ": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "yExMMMIZ3fse5QFf": {
-              "name": "Nivel 4: Escalera espiral hacia abajo",
+              "name": "Nivel 4: escalera de caracol de bajada",
               "behaviors": {
                 "rG1T3LINTUkok5rm": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "jE2QuPMOH37yLj1H": {
-              "name": "Plantilla de círculo"
+              "name": "Plantilla circular"
             }
           },
-          "name": "L4: Cámaras de horror",
+          "name": "L4: Cámaras del Horror",
           "navigation": "Nivel 4",
           "drawings": {
             "bpeR4WE0ebnFfhRQ": {
-              "text": "A las categorías 2 a 5"
+              "text": "A los niveles 2-5"
             },
             "V6bCRHzwZiwBN40B": {
-              "text": "Hasta el nivel 3"
+              "text": "Subida al nivel 3"
             },
             "r4iZpZn5O7CRZENF": {
-              "text": "Abierto a 58"
+              "text": "Abertura a la zona 58"
             }
           },
           "levels": {
             "defaultLevel0000": {
-              "name": "L4: Cámaras de horror"
+              "name": "L4: Cámaras del Horror"
             }
           }
         },
@@ -22979,16 +22979,16 @@
               "text": "Bloque de piedra"
             },
             "sSgMiO6YzzfWYf2w": {
-              "text": "Abierto hasta 45 arriba"
+              "text": "Abertura a la zona 45 superior"
             },
             "1A0yELlMEwgrHYy9": {
               "text": "Rastrillo"
             },
             "ldhY4RyCOIdvYUGL": {
-              "text": "Hasta el nivel 6"
+              "text": "Bajada al nivel 6"
             },
             "v1Z4elD6JQJppkay": {
-              "text": "A las categorías 2 a 4"
+              "text": "A los niveles 2-4"
             }
           },
           "regions": {
@@ -23006,7 +23006,7 @@
                   "name": "Terreno difícil"
                 }
               },
-              "name": "Limo gris (granulo a)"
+              "name": "Limo gris (engranaje a)"
             },
             "Lwm8JC1gCpvuY7WA": {
               "behaviors": {
@@ -23017,37 +23017,37 @@
               "name": "Limo gris (engranaje b)"
             },
             "PwEsbgIqPNciCyoW": {
-              "name": "Nivel 5: Escaleras espirales arriba",
+              "name": "Nivel 5: escaleras de caracol de subida",
               "behaviors": {
                 "CfnLFtdTHPAjAemM": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "YWjKAdXGlLiEl1uv": {
-              "name": "Nivel 5: Bajar la escalera",
+              "name": "Nivel 5: escalera de bajada",
               "behaviors": {
                 "nKRM4STnVIbK0Uu6": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "kZyNI3kmW86UgAbF": {
-              "name": "Fondo del pozo"
+              "name": "Fondo del foso"
             },
             "8BSa32Mm0yeormDh": {
               "name": "Engranaje A",
               "behaviors": {
                 "uXTBCklJ38x40JNw": {
-                  "name": "Rotar área"
+                  "name": "Rotar zona"
                 }
               }
             },
             "YrGVjALx8Q6WKE0H": {
-              "name": "Arte B",
+              "name": "Engranaje B",
               "behaviors": {
                 "TQ7lMxWIHctedDeD": {
-                  "name": "Rotar área"
+                  "name": "Rotar zona"
                 }
               }
             },
@@ -23055,29 +23055,29 @@
               "name": "Engranaje C",
               "behaviors": {
                 "S45F0i8TsjHuW25V": {
-                  "name": "Rotar área"
+                  "name": "Rotar zona"
                 }
               }
             }
           },
-          "name": "L5: Engranajes de odio",
+          "name": "L5: Engranajes del Odio",
           "navigation": "Nivel 5",
           "tokens": {
             "pZfnTIhwdElrzKhO": {
-              "name": "Mondo de Shambling"
+              "name": "Broza movediza"
             },
             "gIjWg3zJ5MQzkSXz": {
-              "name": "Mondo de Shambling"
+              "name": "Broza movediza"
             },
             "VRfiPsL385xRs0NZ": {
-              "name": "Mondo de Shambling"
+              "name": "Broza movediza"
             },
             "3dJ4pENBqCyRKQu0": {
-              "name": "Monodrona",
+              "name": "Monodrón",
               "delta": {
                 "effects": {
                   "dnd5eprone000000": {
-                    "name": "Prona",
+                    "name": "Derribado",
                     "description": "@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.QxCrRcgMdUd3gfzz inline]"
                   }
                 }
@@ -23134,34 +23134,34 @@
               "name": "Mole de piedra"
             },
             "hE4CS2UFUPc9kR2J": {
-              "name": "Enanos de tumba"
+              "name": "Enanos de la tumba"
             },
             "48sK4a9ms6fCKlAC": {
-              "name": "Enanos de tumba"
+              "name": "Enanos de la tumba"
             },
             "Vxo4NWRoWS8oC7Xb": {
-              "name": "Enanos de tumba"
+              "name": "Enanos de la tumba"
             },
             "BfRTKbSXRnIgeK4N": {
-              "name": "Enanos de tumba"
+              "name": "Enanos de la tumba"
             },
             "b8g3HXmhHXDqLAXq": {
-              "name": "Enanos de tumba"
+              "name": "Enanos de la tumba"
             },
             "8KvP1iAJ4f5I6gUl": {
               "name": "G’lyh’rul"
             },
             "VTv1QZYEMfvcSTuF": {
-              "name": "Diablos de púas"
+              "name": "Diablos punzantes"
             },
             "9bhlk9VhDN5Oi4Ow": {
               "name": "Diablos barbudos"
             },
             "mmqIhgKO5ihyMBmr": {
-              "name": "Diablos giratorios"
+              "name": "Diablos espinosos"
             },
             "GMBkAmLWMLkExo6Y": {
-              "name": "Diablo cornudo"
+              "name": "Diablo astado"
             },
             "tRiM51dBQukVknwl": {
               "name": "Erinia"
@@ -23176,7 +23176,7 @@
               "name": "Nycaloth"
             },
             "B0izyBzf9TRNeQE3": {
-              "name": "Armario Acheron"
+              "name": "Armario de Aqueronte"
             },
             "HTBAbLydhAIkJ5nb": {
               "name": "Mezzoloth"
@@ -23185,7 +23185,7 @@
               "name": "Mezzoloth"
             },
             "EFswgrpdBGSEDRO3": {
-              "name": "Pentadrona"
+              "name": "Pentadrón"
             },
             "OxcIpqnhpqXN1aCT": {
               "name": "Decaedro"
@@ -23193,7 +23193,7 @@
           },
           "levels": {
             "defaultLevel0000": {
-              "name": "L5: Engranajes de odio"
+              "name": "L5: Engranajes del Odio"
             }
           }
         },
@@ -23210,7 +23210,7 @@
               "delta": {
                 "effects": {
                   "dnd5erestrained0": {
-                    "name": "Restringidos",
+                    "name": "Apresado",
                     "description": "@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.dqLeGdpHtb8FfcxX inline]"
                   }
                 }
@@ -23221,7 +23221,7 @@
               "delta": {
                 "effects": {
                   "dnd5erestrained0": {
-                    "name": "Restringidos",
+                    "name": "Apresado",
                     "description": "@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.dqLeGdpHtb8FfcxX inline]"
                   }
                 }
@@ -23232,7 +23232,7 @@
               "delta": {
                 "effects": {
                   "dnd5erestrained0": {
-                    "name": "Restringidos",
+                    "name": "Apresado",
                     "description": "@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.dqLeGdpHtb8FfcxX inline]"
                   }
                 }
@@ -23243,7 +23243,7 @@
               "delta": {
                 "effects": {
                   "dnd5erestrained0": {
-                    "name": "Restringidos",
+                    "name": "Apresado",
                     "description": "@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.dqLeGdpHtb8FfcxX inline]"
                   }
                 }
@@ -23254,7 +23254,7 @@
               "delta": {
                 "effects": {
                   "dnd5erestrained0": {
-                    "name": "Restringidos",
+                    "name": "Apresado",
                     "description": "@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.dqLeGdpHtb8FfcxX inline]"
                   }
                 }
@@ -23265,7 +23265,7 @@
               "delta": {
                 "effects": {
                   "dnd5erestrained0": {
-                    "name": "Restringidos",
+                    "name": "Apresado",
                     "description": "@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.dqLeGdpHtb8FfcxX inline]"
                   }
                 }
@@ -23276,7 +23276,7 @@
               "delta": {
                 "effects": {
                   "dnd5erestrained0": {
-                    "name": "Restringidos",
+                    "name": "Apresado",
                     "description": "@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.dqLeGdpHtb8FfcxX inline]"
                   }
                 }
@@ -23287,45 +23287,45 @@
               "delta": {
                 "effects": {
                   "dnd5erestrained0": {
-                    "name": "Restringidos",
+                    "name": "Apresado",
                     "description": "@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.dqLeGdpHtb8FfcxX inline]"
                   }
                 }
               }
             },
             "S4sguPK3wy70B4Xj": {
-              "name": "Mefit de polvo",
+              "name": "Mephit de polvo",
               "delta": {
                 "items": {
                   "XpxFPIj7V5a1vKU4": {
-                    "name": "Palabras de comando",
-                    "description": "<p><em><strong>Bloatbug</strong></em>: El mefito se dirige a una criatura a menos de 30 pies de distancia que puede ver, lo que inmediatamente aumenta su peso en un 50 por ciento. Cualquier conjuro que acabe con una maldición, como @UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{mayor restauración} o @UUID[Compendium.dnd5e.spells.Item.XZhdgVK3cLoxNCQl]{eliminar la maldición}, termina el efecto y devuelve a la criatura a su peso normal.</p><p><em><strong>Rana</strong></em>: Cada criatura en la habitación debe tener éxito en un [[/save con 10 format=long]] o tomar [[/damage 2d8 poison average]] daño. (El mefito es inmune al daño por veneno.)</p><p><em><strong>Mantequilla de hulla</strong></em>: El efecto apunta a una criatura aleatoria en la habitación. Haga rodar un d20 para cada personaje en la habitación, y rodar un [[/r d20#The mephit's roll]] para el mefit y el uno al otro criatura en la habitación. Las criaturas que rodan la toma más baja [[/damage 6d6 force average]] daño.</p>",
+                    "name": "Palabras de activación",
+                    "description": "<p><em><strong>Bicharraco</strong></em>: El mephit elige a una criatura que pueda ver a 30 pies o menos de él. Su peso aumenta inmediatamente un 50 por ciento. Cualquier conjuro que termine una maldición, como @UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{restablecimiento mayor} o @UUID[Compendium.dnd5e.spells.Item.XZhdgVK3cLoxNCQl]{levantar maldición}, termina el efecto y devuelve a la criatura su peso normal.</p><p><em><strong>Escupitajo</strong></em>: Cada criatura de la sala debe superar una [[/save con 10 format=long]] o sufrir [[/damage 2d8 poison average]] de daño. El mephit es inmune al daño de veneno.</p><p><em><strong>Torbellino</strong></em>: El efecto afecta a una criatura aleatoria de la sala. Pide a los jugadores que tiren un d20 por cada personaje de la sala y tira [[/r d20#The mephit's roll]] por el mephit y por cada una de las demás criaturas presentes. Las criaturas que obtengan el resultado más bajo sufren [[/damage 6d6 force average]] de daño.</p>",
                     "activities": {
                       "0j5npSqtGOCphdhD": {
-                        "name": "Bloatbug",
+                        "name": "Bicharraco",
                         "target": {
                           "affects": {
-                            "special": "puede ver"
+                            "special": "que pueda ver"
                           }
                         }
                       },
                       "aTLy7MnIrJgJRzL3": {
-                        "name": "Rana",
+                        "name": "Escupitajo",
                         "range": {
-                          "special": "Cada criatura en la habitación"
+                          "special": "Cada criatura de la sala"
                         }
                       },
                       "zIhS2x15Uc5MtuE5": {
-                        "name": "Mantequilla de hulla",
+                        "name": "Torbellino",
                         "range": {
-                          "special": "en la habitación"
+                          "special": "en la sala"
                         }
                       }
                     },
                     "effects": {
                       "JShH4Cs9BsZKy5Gv": {
-                        "name": "Blooted",
-                        "description": "<p>El peso del objetivo se incrementa en un 50%.</p>"
+                        "name": "Hinchado",
+                        "description": "<p>El peso del objetivo aumenta un 50%.</p>"
                       }
                     }
                   }
@@ -23333,55 +23333,55 @@
               }
             },
             "EVvywZGNAqdDMKfB": {
-              "name": "Mefit de polvo",
+              "name": "Mephit de polvo",
               "delta": {
-                "name": "Ilusor"
+                "name": "Ilusorio"
               }
             },
             "SXjDQDrNpxm1q5Rg": {
-              "name": "Mefit de polvo",
+              "name": "Mephit de polvo",
               "delta": {
-                "name": "Ilusor"
+                "name": "Ilusorio"
               }
             },
             "50fiimXNv3OpP8FZ": {
-              "name": "Mefit de polvo",
+              "name": "Mephit de polvo",
               "delta": {
-                "name": "Ilusor"
+                "name": "Ilusorio"
               }
             },
             "3jWjTdYZ7GMPPerk": {
-              "name": "Señor Threadneedle",
+              "name": "Don Remiendos",
               "delta": {
-                "name": "Mister Threadneedle (Formulario de cuidado) (solo apariencia)"
+                "name": "Don Remiendos (forma de espantapájaros, solo apariencia)"
               }
             },
             "9d1CaHgpuKwrM65X": {
-              "name": "Grupo:"
+              "name": "Grupo: Hombres jabalí"
             },
             "MB0AUTPrqxxXMt3G": {
               "name": "Atropal"
             },
             "pVN2dknVEdTr2x6V": {
-              "name": "Soporte del Almero"
+              "name": "Puntal del Almero"
             },
             "MN1F2B5ekY9WlpHO": {
-              "name": "Sin Rostro de arcilla"
+              "name": "Clay Sinrostro"
             },
             "dLXhtyWJ1zbIVV79": {
               "name": "Joho"
             },
             "0zRTnW8BBvIlQPkT": {
-              "name": "Espárrago"
+              "name": "Briznas"
             },
             "su55jVQVLOm1ONZu": {
               "name": "Arcanaloth"
             },
             "VWX3sXS3WHA6ZrvP": {
-              "name": "Soporte del Almero"
+              "name": "Puntal del Almero"
             },
             "TyKkxwzWMn76ir42": {
-              "name": "Soporte del Almero"
+              "name": "Puntal del Almero"
             },
             "gXjeMBcx5T5V7rJP": {
               "name": "Tentáculos"
@@ -23400,7 +23400,7 @@
           "navigation": "Nivel 6",
           "drawings": {
             "7ZlNwvZ8NFRvoscp": {
-              "text": "Hasta el nivel 5"
+              "text": "Subida al nivel 5"
             },
             "Om4pH8vGCX0udo9W": {
               "text": "Jaula"
@@ -23409,61 +23409,61 @@
               "text": "Puerta esquelética"
             },
             "5U53voxUowdSNDVY": {
-              "text": "Fylacterias"
+              "text": "Filacterias"
             },
             "n5Dd3dr3BSBiMJc2": {
-              "text": "Fylacterias"
+              "text": "Filacterias"
             }
           },
           "regions": {
             "9uHdhwxa79TnLTQ9": {
-              "name": "Neblina (77)",
+              "name": "Puerta de la bruma (77)",
               "behaviors": {
                 "LIY3DHEISBK5rj17": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "VZbT0PydulbUNZ1i": {
-              "name": "Neblina (78)",
+              "name": "Puerta de la bruma (78)",
               "behaviors": {
                 "Hb9MQR5qTlifnOof": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "QLeEJ3T6iWT6hnJI": {
-              "name": "Muralla de barro",
+              "name": "Muro de barro",
               "behaviors": {
                 "IPuhTcPk90SsSjtz": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "Wt81MVJLCyCxAeCJ": {
-              "name": "Alcoba"
+              "name": "Hornacina"
             },
             "eldTBGSAVrKtomdD": {
-              "name": "Muro del Camino Rojo",
+              "name": "Muro del camino rojo",
               "behaviors": {
                 "6lPQcHjXwLIuP62B": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "AFDOMqn09MompJsE": {
-              "name": "Ooze Obelisco",
+              "name": "Obelisco de cieno",
               "behaviors": {
                 "G5lf7XNZswTCj8ia": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "fbyZheFv9H1UPZpB": {
-              "name": "Nivel 5: Escalera arriba",
+              "name": "Nivel 5: escalera de subida",
               "behaviors": {
                 "9CAKiQcBDEfaBCY3": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             }
@@ -23486,19 +23486,19 @@
               "text": "X"
             },
             "2RL7HLLapsfBFi6J": {
-              "text": "Hasta el nivel 2"
+              "text": "Bajada al nivel 2"
             },
             "5iKozyYXlOWTsQXz": {
-              "text": "Abierto a 45 abajo"
+              "text": "Abertura a la zona 45 inferior"
             },
             "wrWyBAwntV1Va6mC": {
-              "text": "Abierto a 64 abajo"
+              "text": "Abertura a la zona 64 inferior"
             },
             "2PDGXqBeQpM0dFlY": {
-              "text": "Hasta el nivel 2"
+              "text": "Bajada al nivel 2"
             }
           },
-          "name": "Espejo de nivel 1: Salones podridos",
+          "name": "Nivel reflejado 1: Salones Putrefactos",
           "navigation": "Nivel 1",
           "tokens": {
             "lSnh2tcTDlcUT9tK": {
@@ -23514,30 +23514,30 @@
               "name": "Demonio de las sombras"
             },
             "c79VwfznXn8Url8o": {
-              "name": "Enjambre de arañas no muertas"
+              "name": "Enjambre de arañas muertas vivientes"
             },
             "rgkEuZB32ITtDOaA": {
-              "name": "Enjambre de arañas no muertas"
+              "name": "Enjambre de arañas muertas vivientes"
             },
             "N6zXtlYzEIKzZG6X": {
-              "name": "Enjambre de arañas no muertas"
+              "name": "Enjambre de arañas muertas vivientes"
             },
             "p7L6JJGaJ1OAwQ1n": {
-              "name": "Enjambre de arañas no muertas"
+              "name": "Enjambre de arañas muertas vivientes"
             },
             "UTwMqledxyBUUQss": {
-              "name": "Enjambre de arañas no muertas"
+              "name": "Enjambre de arañas muertas vivientes"
             },
             "ci1ttXxovIfsfn8a": {
-              "name": "Enjambre de arañas no muertas"
+              "name": "Enjambre de arañas muertas vivientes"
             },
             "V5gmfa9BIrIDbVO3": {
-              "name": "Su-Monster Mami",
+              "name": "Momia de sucarate",
               "delta": {
                 "items": {
                   "OT75R0UKjHypYymv": {
-                    "name": "Macis de terror",
-                    "description": "<p><em>(Requiere sintonía)</em></p>\n<p>Esta arma mágica tiene 3 cargas. Mientras lo sostienes, puedes usar una acción y gastar 1 carga para liberar una ola de terror. Cada criatura de su elección en un radio de 30 pies que se extiende desde usted debe tener éxito en un lanzamiento de ahorro de sabiduría CD 15 o tener miedo de usted durante 1 minuto.</p>\n<p>Mientras está asustado de esta manera, una criatura debe pasar sus turnos tratando de moverse lo más lejos posible de ti, y no puede moverse voluntariamente a un espacio a menos de 30 pies de ti. Tampoco puede tomar reacciones. Para su acción, puede utilizar sólo la acción Dash o tratar de escapar de un efecto que impide que se mueva. Si no tiene ningún lugar donde se pueda mover, la criatura puede usar la acción Dodge. Al final de cada uno de sus giros, una criatura puede repetir el lanzamiento de ahorro, terminando el efecto en sí misma en un éxito.</p>\n<p>La maza recupera las cargas gastadas en 1d3 diariamente al amanecer.</p>"
+                    "name": "Maza del terror",
+                    "description": "<p><em>(Requiere sintonización)</em></p>\n<p>Esta arma mágica tiene 3 cargas. Mientras la sostengas, puedes usar una acción y gastar 1 carga para liberar una oleada de terror. Cada criatura que elijas en un radio de 30 pies a tu alrededor debe superar una tirada de salvación de Sabiduría CD 15 o quedar asustada de ti durante 1 minuto.</p>\n<p>Mientras esté asustada de este modo, debe emplear sus turnos en intentar alejarse de ti todo lo posible y no puede acercarse voluntariamente a 30 pies o menos de ti. Tampoco puede realizar reacciones. Solo puede usar su acción para Correr o intentar escapar de un efecto que le impida moverse. Si no tiene adónde moverse, puede realizar la acción de Esquivar. Al final de cada uno de sus turnos, puede repetir la tirada de salvación; si tiene éxito, el efecto termina para ella.</p>\n<p>La maza recupera 1d3 cargas gastadas cada día al amanecer.</p>"
                   }
                 }
               }
@@ -23549,7 +23549,7 @@
               "name": "Nepartak"
             },
             "N66pbIM1MeiP6sSN": {
-              "name": "Mímico"
+              "name": "Mimeto"
             },
             "bJ5nOqQuymek5U9S": {
               "name": "Tumulario"
@@ -23575,18 +23575,18 @@
               "name": "Obelisco"
             },
             "KWxonMETQ1JZjMPA": {
-              "name": "Nivel 1: Gran Escalera",
+              "name": "Nivel 1: gran escalera",
               "behaviors": {
                 "cFAjAnIJW8AENPn2": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "5rc1UchtujIlFD5z": {
-              "name": "Nivel 1: escaleras abajo",
+              "name": "Nivel 1: escaleras de bajada",
               "behaviors": {
                 "Cn73n9gacGOyP5fZ": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
@@ -23594,17 +23594,17 @@
               "name": "Zona 5B"
             },
             "PpGHolUqPnmczgDf": {
-              "name": "Nivel 1: Apertura",
+              "name": "Nivel 1: abertura",
               "behaviors": {
                 "9SCJ9lad6FKJvEsf": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             }
           },
           "levels": {
             "defaultLevel0000": {
-              "name": "Espejo de nivel 1: Salones podridos"
+              "name": "Nivel reflejado 1: Salones Putrefactos"
             }
           }
         },
@@ -23620,13 +23620,13 @@
               "name": "Zombi"
             },
             "SvSSbLXAOaeZqipH": {
-              "name": "Vino raro"
+              "name": "Extraño de vino"
             },
             "ZJzs2CKLy0wwr7gd": {
-              "name": "Vino raro"
+              "name": "Extraño de vino"
             },
             "SVBJpNAlT8qebAz5": {
-              "name": "Vino raro"
+              "name": "Extraño de vino"
             },
             "Q7Iif2jIU670bFWD": {
               "name": "Esqueleto"
@@ -23679,25 +23679,25 @@
               "name": "Guardián de la tumba"
             },
             "NyQeDjY3BiXkBeHj": {
-              "name": "Tomb enano"
+              "name": "Enano de la tumba"
             },
             "b8DrkQCSU7GpqYfV": {
-              "name": "Tomb enano"
+              "name": "Enano de la tumba"
             },
             "lrdMlQqmzIjMBJei": {
-              "name": "Tomb enano"
+              "name": "Enano de la tumba"
             },
             "NL64w1EPcCEh1qV3": {
-              "name": "Tomb enano"
+              "name": "Enano de la tumba"
             },
             "IZtnincygR44mI1A": {
-              "name": "Tomb enano"
+              "name": "Enano de la tumba"
             },
             "IHWC0UOFNeMrbwWj": {
               "name": "Guardián de la tumba"
             },
             "kjwaGcdo5UQ9tNzI": {
-              "name": "Marchita"
+              "name": "Mustio"
             },
             "4elR6944XK0fCbjp": {
               "name": "Garra reptante"
@@ -23724,89 +23724,89 @@
               "name": "Enjambre de murciélagos"
             }
           },
-          "name": "Nivel espejo 2: Dungeon of Deception",
+          "name": "Nivel reflejado 2: Mazmorra del Engaño",
           "navigation": "Nivel 2",
           "drawings": {
             "SgD9GMohoSCJyOB2": {
-              "text": "Bloque de techo"
+              "text": "Bloque del techo"
             },
             "94WK6V5NYvXJC1X2": {
-              "text": "Hasta el nivel 1"
+              "text": "Subida al nivel 1"
             },
             "d6rGoXdzV39pvy72": {
-              "text": "Hasta el nivel 1"
+              "text": "Subida al nivel 1"
             },
             "yqLwNwoyrtof5OLS": {
-              "text": "Hasta los niveles 3 a 5"
+              "text": "Bajada al nivel 3-5"
             },
             "gsCKWnqsmh6wkasC": {
-              "text": "Abierto a 45 abajo"
+              "text": "Abertura a la zona 45 inferior"
             },
             "58cMcStcaddiLaBi": {
-              "text": "Hasta el nivel 3"
+              "text": "Bajada al nivel 3"
             }
           },
           "regions": {
             "iqV2cUklifkb0Xo3": {
-              "name": "Nivel 2: escaleras abajo",
+              "name": "Nivel 2: escaleras de bajada",
               "behaviors": {
                 "M6ccTX7JoZsLyvLu": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "7QOvx8wFXWR6g2qh": {
-              "name": "Nivel 2: Escaleras arriba",
+              "name": "Nivel 2: escaleras de subida",
               "behaviors": {
                 "5C5Pnugw5s8fIFlF": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "ZLFGb7BZ8dz5Wu7o": {
-              "name": "Nivel 2: Gran Escalera Arriba",
+              "name": "Nivel 2: gran escalera de subida",
               "behaviors": {
                 "J3rmoyplT0GaAP2D": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "MAUD5UO6EEtXRPvh": {
-              "name": "Nivel 2: Gran escalera hacia abajo",
+              "name": "Nivel 2: gran escalera de bajada",
               "behaviors": {
                 "ii9ZDQ0AssrZ2uAC": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "sdJ29UVr13t5rT0o": {
-              "name": "Nivel 2: Área 18",
+              "name": "Nivel 2: zona 18",
               "behaviors": {
                 "36jNCeGXV9wBJcvB": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "H18oDP9Rroc91BRY": {
-              "name": "Nivel 2: Anillo Norte",
+              "name": "Nivel 2: anillo norte",
               "behaviors": {
                 "GfEqolq5FxWB4UjN": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "c4pxbnTEduHbSoEs": {
-              "name": "Nivel 2: Anillo Sur",
+              "name": "Nivel 2: anillo sur",
               "behaviors": {
                 "epQD6q1BxyrhnNAy": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             }
           },
           "levels": {
             "defaultLevel0000": {
-              "name": "Nivel espejo 2: Dungeon of Deception"
+              "name": "Nivel reflejado 2: Mazmorra del Engaño"
             }
           }
         },
@@ -23825,43 +23825,43 @@
               "name": "Gárgola gigante de cuatro brazos"
             },
             "Who7KGyGvBkpDPns": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "f4ykRQg9Tlg1VphR": {
               "name": "Tiranosaurio zombi"
             },
             "cROmx0Qb6Rrf8TwE": {
-              "name": "Esqueleto de Minotauro"
+              "name": "Esqueleto de minotauro"
             },
             "LAleZqUD3No8J7X6": {
               "name": "Otyugh"
             },
             "pNySmdn293Jirl8E": {
-              "name": "Esqueleto de Minotauro"
+              "name": "Esqueleto de minotauro"
             },
             "EaVsJ83lZ24s1Gal": {
-              "name": "Esqueleto de Minotauro"
+              "name": "Esqueleto de minotauro"
             },
             "7wrOZ4ZDpb69wfDD": {
-              "name": "Esqueleto de Minotauro"
+              "name": "Esqueleto de minotauro"
             },
             "QNSB4X2KLOq56rsc": {
-              "name": "Esqueleto de Minotauro"
+              "name": "Esqueleto de minotauro"
             },
             "wk0trhmoO0Bi1muj": {
-              "name": "Esqueleto de Minotauro"
+              "name": "Esqueleto de minotauro"
             },
             "3PtDeCi7katV7pjL": {
-              "name": "Esqueleto de Minotauro"
+              "name": "Esqueleto de minotauro"
             },
             "OCwp17vNjwDP8KOT": {
-              "name": "Esqueleto de Minotauro"
+              "name": "Esqueleto de minotauro"
             },
             "8GGAKYm4g8JkVjYC": {
-              "name": "Esqueleto de Minotauro"
+              "name": "Esqueleto de minotauro"
             },
             "GjnSdD5Nk4fZQbSc": {
-              "name": "Esqueleto de Minotauro"
+              "name": "Esqueleto de minotauro"
             },
             "B6rZGxcj6hY5lZVL": {
               "name": "Bodak"
@@ -23870,145 +23870,145 @@
               "name": "Bodak"
             },
             "IzMAz9z1wXcebYlu": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "5YIgbSxqcGdH3VUy": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "oy1eLLfoS119N9Rv": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "W3QIv1HmMixRs0cn": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "UxU1IQfT5iDHtfxF": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "WmiPafFTVRbCH9nJ": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "HHG1JiXm4SjLJeZB": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "P9TQmoNp2gEQalnD": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "gByqhHq52gnWRYn1": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "YuovehySWjCUnXQu": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "tXkQYXVrp67QjYU8": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "mGXFEGV9IHMsNo76": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "lAAPCuhMWIE4vxqh": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "5T7swY9jOuyoWwZI": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "QXhuG9qH9w2wIr5V": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "BoYgaZdzc7FLwQ7B": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "fVf5d2Uz7PtwOwPW": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "1q2376aioIQBEK9x": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "Q71jyH2ZbelpORnq": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "VY1SZvGLdiUbaWPo": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "4lNyFNKKK37Ro94J": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "VCjihIsSqp1rUH4a": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "lprc4IO15olXSLYm": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "e0cKPT1DZ6YeACTd": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "GTRHe9SCAXXC0X7Q": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "YZ7JYxPfPwJcRKWC": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "c8JVlZg2Eg9A5AgJ": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "kFclF1SDI8HYZvF3": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "e706nsUIBUJWzB1Z": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "uLw3oRkGoSz9COYY": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "0lVCzzI3Nx1HiOGl": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "bEmQPJR3UiYccKhm": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "kJAg7UQnwcBD7l6r": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "nihnUJkqWMfn8IlX": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "RjtKCeFQuHgWxmAH": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "7CMWWe8WKU2PMm2I": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "UJS3NPQxvNalttn8": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "IXahmnEPzVSVmjsn": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "0sBxsu2uS27FhsZx": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "IylOcEC7I9KQ1rXr": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "7DOISbfGE7cCPBKv": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "qqNHGS2XBmpaBoCl": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "gPqNNF1C8mli7DyZ": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "yQdDZpiLO7M9mPKC": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "yvH31coIfrKKVIOl": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "Q4NkMifzhC46Ifeg": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "P7AdhJRALP8iBzcH": {
-              "name": "Terracota Warrior"
+              "name": "Guerrero de terracota"
             },
             "fG02mMjJWQTew9en": {
               "name": "Artista ciego"
@@ -24026,25 +24026,25 @@
               "name": "Acechador invisible"
             },
             "HcEznchLJDPOlXDH": {
-              "name": "Trol"
+              "name": "Troll"
             },
             "g2zzKw5C3WBCKmxI": {
-              "name": "Necrófago hediondo"
+              "name": "Ghast"
             },
             "jfsjy2AHo5j56dNK": {
-              "name": "Necrófago hediondo"
+              "name": "Ghast"
             },
             "juO9fGFmNueIFvOA": {
-              "name": "Necrófago hediondo"
+              "name": "Ghast"
             },
             "ZIj7FO7E7l22YiYD": {
-              "name": "Necrófago hediondo"
+              "name": "Ghast"
             },
             "mL6EhmLAPyyW8jXY": {
-              "name": "Necrófago hediondo"
+              "name": "Ghast"
             },
             "GEH2WWOmOlh8791Z": {
-              "name": "Necrófago hediondo"
+              "name": "Ghast"
             }
           },
           "regions": {
@@ -24054,35 +24054,35 @@
                   "name": "Terreno difícil"
                 },
                 "btI9EkE94VnLFA1U": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               },
-              "name": "Mazmorra de olvido"
+              "name": "Pozo del olvido"
             },
             "r9Uv4qmIAoQn0Kly": {
-              "name": "Teletransportador Norte",
+              "name": "Teletransportador norte",
               "behaviors": {
                 "sPNAiOGJrdeYj3P1": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 },
                 "qMsz5ymCTDieDMao": {
-                  "name": "Daños en mal funcionamiento"
+                  "name": "Daño por mal funcionamiento"
                 }
               }
             },
             "W65nVCH8vctkJWrh": {
-              "name": "Teletransportador Este",
+              "name": "Teletransportador este",
               "behaviors": {
                 "h4nipcdAi2ipBOWr": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "TyXW7MOhL7GxveU1": {
-              "name": "Teletransportador Sur",
+              "name": "Teletransportador sur",
               "behaviors": {
                 "UESZWAPlQ9V9iQJv": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
@@ -24090,49 +24090,49 @@
               "name": "Zona 50"
             },
             "sx4RsmIjGMk65wzd": {
-              "name": "Nivel 4: Gran escalera arriba",
+              "name": "Nivel 4: gran escalera de subida",
               "behaviors": {
                 "Pd0y3xSU3mtbV1Tc": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "ofFtyvA7Yk6BLjDf": {
-              "name": "Nivel 4: Escalera espiral arriba",
+              "name": "Nivel 4: escalera de caracol de subida",
               "behaviors": {
                 "MPWjIz0Hl4FhsNCZ": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "yExMMMIZ3fse5QFf": {
-              "name": "Nivel 4: Escalera espiral hacia abajo",
+              "name": "Nivel 4: escalera de caracol de bajada",
               "behaviors": {
                 "rG1T3LINTUkok5rm": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "jE2QuPMOH37yLj1H": {
-              "name": "Plantilla de círculo"
+              "name": "Plantilla circular"
             }
           },
-          "name": "Nivel 4: Cámaras de horror",
+          "name": "Nivel reflejado 4: Cámaras del Horror",
           "navigation": "Nivel 4",
           "drawings": {
             "bpeR4WE0ebnFfhRQ": {
-              "text": "A las categorías 2 a 5"
+              "text": "A los niveles 2-5"
             },
             "V6bCRHzwZiwBN40B": {
-              "text": "Hasta el nivel 3"
+              "text": "Subida al nivel 3"
             },
             "r4iZpZn5O7CRZENF": {
-              "text": "Abierto a 58"
+              "text": "Abertura a la zona 58"
             }
           },
           "levels": {
             "defaultLevel0000": {
-              "name": "Nivel 4: Cámaras de horror"
+              "name": "Nivel reflejado 4: Cámaras del Horror"
             }
           }
         },
@@ -24145,16 +24145,16 @@
               "text": "Bloque de piedra"
             },
             "sSgMiO6YzzfWYf2w": {
-              "text": "Abierto hasta 45 arriba"
+              "text": "Abertura a la zona 45 superior"
             },
             "1A0yELlMEwgrHYy9": {
               "text": "Rastrillo"
             },
             "ldhY4RyCOIdvYUGL": {
-              "text": "Hasta el nivel 6"
+              "text": "Bajada al nivel 6"
             },
             "v1Z4elD6JQJppkay": {
-              "text": "A las categorías 2 a 4"
+              "text": "A los niveles 2-4"
             }
           },
           "regions": {
@@ -24172,7 +24172,7 @@
                   "name": "Terreno difícil"
                 }
               },
-              "name": "Limo gris (granulo a)"
+              "name": "Limo gris (engranaje a)"
             },
             "Lwm8JC1gCpvuY7WA": {
               "behaviors": {
@@ -24183,37 +24183,37 @@
               "name": "Limo gris (engranaje b)"
             },
             "PwEsbgIqPNciCyoW": {
-              "name": "Nivel 5: Escaleras espirales arriba",
+              "name": "Nivel 5: escaleras de caracol de subida",
               "behaviors": {
                 "CfnLFtdTHPAjAemM": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "YWjKAdXGlLiEl1uv": {
-              "name": "Nivel 5: Bajar la escalera",
+              "name": "Nivel 5: escalera de bajada",
               "behaviors": {
                 "nKRM4STnVIbK0Uu6": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "kZyNI3kmW86UgAbF": {
-              "name": "Fondo del pozo"
+              "name": "Fondo del foso"
             },
             "8BSa32Mm0yeormDh": {
               "name": "Engranaje A",
               "behaviors": {
                 "uXTBCklJ38x40JNw": {
-                  "name": "Rotar área"
+                  "name": "Rotar zona"
                 }
               }
             },
             "YrGVjALx8Q6WKE0H": {
-              "name": "Arte B",
+              "name": "Engranaje B",
               "behaviors": {
                 "TQ7lMxWIHctedDeD": {
-                  "name": "Rotar área"
+                  "name": "Rotar zona"
                 }
               }
             },
@@ -24221,29 +24221,29 @@
               "name": "Engranaje C",
               "behaviors": {
                 "S45F0i8TsjHuW25V": {
-                  "name": "Rotar área"
+                  "name": "Rotar zona"
                 }
               }
             }
           },
-          "name": "Nivel de espejo 5: Engranajes de odio",
+          "name": "Nivel reflejado 5: Engranajes del Odio",
           "navigation": "Nivel 5",
           "tokens": {
             "pZfnTIhwdElrzKhO": {
-              "name": "Mondo de Shambling"
+              "name": "Broza movediza"
             },
             "gIjWg3zJ5MQzkSXz": {
-              "name": "Mondo de Shambling"
+              "name": "Broza movediza"
             },
             "VRfiPsL385xRs0NZ": {
-              "name": "Mondo de Shambling"
+              "name": "Broza movediza"
             },
             "3dJ4pENBqCyRKQu0": {
-              "name": "Monodrona",
+              "name": "Monodrón",
               "delta": {
                 "effects": {
                   "dnd5eprone000000": {
-                    "name": "Prona",
+                    "name": "Derribado",
                     "description": "@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.QxCrRcgMdUd3gfzz inline]"
                   }
                 }
@@ -24300,34 +24300,34 @@
               "name": "Mole de piedra"
             },
             "hE4CS2UFUPc9kR2J": {
-              "name": "Enanos de tumba"
+              "name": "Enanos de la tumba"
             },
             "48sK4a9ms6fCKlAC": {
-              "name": "Enanos de tumba"
+              "name": "Enanos de la tumba"
             },
             "Vxo4NWRoWS8oC7Xb": {
-              "name": "Enanos de tumba"
+              "name": "Enanos de la tumba"
             },
             "BfRTKbSXRnIgeK4N": {
-              "name": "Enanos de tumba"
+              "name": "Enanos de la tumba"
             },
             "b8g3HXmhHXDqLAXq": {
-              "name": "Enanos de tumba"
+              "name": "Enanos de la tumba"
             },
             "8KvP1iAJ4f5I6gUl": {
               "name": "G’lyh’rul"
             },
             "VTv1QZYEMfvcSTuF": {
-              "name": "Diablos de púas"
+              "name": "Diablos punzantes"
             },
             "9bhlk9VhDN5Oi4Ow": {
               "name": "Diablos barbudos"
             },
             "mmqIhgKO5ihyMBmr": {
-              "name": "Diablos giratorios"
+              "name": "Diablos espinosos"
             },
             "GMBkAmLWMLkExo6Y": {
-              "name": "Diablo cornudo"
+              "name": "Diablo astado"
             },
             "tRiM51dBQukVknwl": {
               "name": "Erinia"
@@ -24342,7 +24342,7 @@
               "name": "Nycaloth"
             },
             "B0izyBzf9TRNeQE3": {
-              "name": "Armario Acheron"
+              "name": "Armario de Aqueronte"
             },
             "HTBAbLydhAIkJ5nb": {
               "name": "Mezzoloth"
@@ -24351,7 +24351,7 @@
               "name": "Mezzoloth"
             },
             "EFswgrpdBGSEDRO3": {
-              "name": "Pentadrona"
+              "name": "Pentadrón"
             },
             "OxcIpqnhpqXN1aCT": {
               "name": "Decaedro"
@@ -24359,7 +24359,7 @@
           },
           "levels": {
             "defaultLevel0000": {
-              "name": "Nivel de espejo 5: Engranajes de odio"
+              "name": "Nivel reflejado 5: Engranajes del Odio"
             }
           }
         },
@@ -24376,7 +24376,7 @@
               "delta": {
                 "effects": {
                   "dnd5erestrained0": {
-                    "name": "Restringidos",
+                    "name": "Apresado",
                     "description": "@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.dqLeGdpHtb8FfcxX inline]"
                   }
                 }
@@ -24387,7 +24387,7 @@
               "delta": {
                 "effects": {
                   "dnd5erestrained0": {
-                    "name": "Restringidos",
+                    "name": "Apresado",
                     "description": "@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.dqLeGdpHtb8FfcxX inline]"
                   }
                 }
@@ -24398,7 +24398,7 @@
               "delta": {
                 "effects": {
                   "dnd5erestrained0": {
-                    "name": "Restringidos",
+                    "name": "Apresado",
                     "description": "@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.dqLeGdpHtb8FfcxX inline]"
                   }
                 }
@@ -24409,7 +24409,7 @@
               "delta": {
                 "effects": {
                   "dnd5erestrained0": {
-                    "name": "Restringidos",
+                    "name": "Apresado",
                     "description": "@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.dqLeGdpHtb8FfcxX inline]"
                   }
                 }
@@ -24420,7 +24420,7 @@
               "delta": {
                 "effects": {
                   "dnd5erestrained0": {
-                    "name": "Restringidos",
+                    "name": "Apresado",
                     "description": "@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.dqLeGdpHtb8FfcxX inline]"
                   }
                 }
@@ -24431,7 +24431,7 @@
               "delta": {
                 "effects": {
                   "dnd5erestrained0": {
-                    "name": "Restringidos",
+                    "name": "Apresado",
                     "description": "@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.dqLeGdpHtb8FfcxX inline]"
                   }
                 }
@@ -24442,7 +24442,7 @@
               "delta": {
                 "effects": {
                   "dnd5erestrained0": {
-                    "name": "Restringidos",
+                    "name": "Apresado",
                     "description": "@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.dqLeGdpHtb8FfcxX inline]"
                   }
                 }
@@ -24453,45 +24453,45 @@
               "delta": {
                 "effects": {
                   "dnd5erestrained0": {
-                    "name": "Restringidos",
+                    "name": "Apresado",
                     "description": "@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.dqLeGdpHtb8FfcxX inline]"
                   }
                 }
               }
             },
             "S4sguPK3wy70B4Xj": {
-              "name": "Mefit de polvo",
+              "name": "Mephit de polvo",
               "delta": {
                 "items": {
                   "XpxFPIj7V5a1vKU4": {
-                    "name": "Palabras de comando",
-                    "description": "<p><em><strong>Bloatbug</strong></em>: El mefito se dirige a una criatura a menos de 30 pies de distancia que puede ver, lo que inmediatamente aumenta su peso en un 50 por ciento. Cualquier conjuro que acabe con una maldición, como @UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{mayor restauración} o @UUID[Compendium.dnd5e.spells.Item.XZhdgVK3cLoxNCQl]{eliminar la maldición}, termina el efecto y devuelve a la criatura a su peso normal.</p><p><em><strong>Rana</strong></em>: Cada criatura en la habitación debe tener éxito en un [[/save con 10 format=long]] o tomar [[/damage 2d8 poison average]] daño. (El mefito es inmune al daño por veneno.)</p><p><em><strong>Mantequilla de hulla</strong></em>: El efecto apunta a una criatura aleatoria en la habitación. Haga rodar un d20 para cada personaje en la habitación, y rodar un [[/r d20#The mephit's roll]] para el mefit y el uno al otro criatura en la habitación. Las criaturas que rodan la toma más baja [[/damage 6d6 force average]] daño.</p>",
+                    "name": "Palabras de activación",
+                    "description": "<p><em><strong>Bicharraco</strong></em>: El mephit elige a una criatura que pueda ver a 30 pies o menos de él. Su peso aumenta inmediatamente un 50 por ciento. Cualquier conjuro que termine una maldición, como @UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{restablecimiento mayor} o @UUID[Compendium.dnd5e.spells.Item.XZhdgVK3cLoxNCQl]{levantar maldición}, termina el efecto y devuelve a la criatura su peso normal.</p><p><em><strong>Escupitajo</strong></em>: Cada criatura de la sala debe superar una [[/save con 10 format=long]] o sufrir [[/damage 2d8 poison average]] de daño. El mephit es inmune al daño de veneno.</p><p><em><strong>Torbellino</strong></em>: El efecto afecta a una criatura aleatoria de la sala. Pide a los jugadores que tiren un d20 por cada personaje de la sala y tira [[/r d20#The mephit's roll]] por el mephit y por cada una de las demás criaturas presentes. Las criaturas que obtengan el resultado más bajo sufren [[/damage 6d6 force average]] de daño.</p>",
                     "activities": {
                       "0j5npSqtGOCphdhD": {
-                        "name": "Bloatbug",
+                        "name": "Bicharraco",
                         "target": {
                           "affects": {
-                            "special": "puede ver"
+                            "special": "que pueda ver"
                           }
                         }
                       },
                       "aTLy7MnIrJgJRzL3": {
-                        "name": "Rana",
+                        "name": "Escupitajo",
                         "range": {
-                          "special": "Cada criatura en la habitación"
+                          "special": "Cada criatura de la sala"
                         }
                       },
                       "zIhS2x15Uc5MtuE5": {
-                        "name": "Mantequilla de hulla",
+                        "name": "Torbellino",
                         "range": {
-                          "special": "en la habitación"
+                          "special": "en la sala"
                         }
                       }
                     },
                     "effects": {
                       "JShH4Cs9BsZKy5Gv": {
-                        "name": "Blooted",
-                        "description": "<p>El peso del objetivo se incrementa en un 50%.</p>"
+                        "name": "Hinchado",
+                        "description": "<p>El peso del objetivo aumenta un 50%.</p>"
                       }
                     }
                   }
@@ -24499,55 +24499,55 @@
               }
             },
             "EVvywZGNAqdDMKfB": {
-              "name": "Mefit de polvo",
+              "name": "Mephit de polvo",
               "delta": {
-                "name": "Ilusor"
+                "name": "Ilusorio"
               }
             },
             "SXjDQDrNpxm1q5Rg": {
-              "name": "Mefit de polvo",
+              "name": "Mephit de polvo",
               "delta": {
-                "name": "Ilusor"
+                "name": "Ilusorio"
               }
             },
             "50fiimXNv3OpP8FZ": {
-              "name": "Mefit de polvo",
+              "name": "Mephit de polvo",
               "delta": {
-                "name": "Ilusor"
+                "name": "Ilusorio"
               }
             },
             "3jWjTdYZ7GMPPerk": {
-              "name": "Señor Threadneedle",
+              "name": "Don Remiendos",
               "delta": {
-                "name": "Mister Threadneedle (Formulario de cuidado) (solo apariencia)"
+                "name": "Don Remiendos (forma de espantapájaros, solo apariencia)"
               }
             },
             "9d1CaHgpuKwrM65X": {
-              "name": "Grupo:"
+              "name": "Grupo: Hombres jabalí"
             },
             "MB0AUTPrqxxXMt3G": {
               "name": "Atropal"
             },
             "pVN2dknVEdTr2x6V": {
-              "name": "Soporte del Almero"
+              "name": "Puntal del Almero"
             },
             "MN1F2B5ekY9WlpHO": {
-              "name": "Sin Rostro de arcilla"
+              "name": "Clay Sinrostro"
             },
             "dLXhtyWJ1zbIVV79": {
               "name": "Joho"
             },
             "0zRTnW8BBvIlQPkT": {
-              "name": "Espárrago"
+              "name": "Briznas"
             },
             "su55jVQVLOm1ONZu": {
               "name": "Arcanaloth"
             },
             "VWX3sXS3WHA6ZrvP": {
-              "name": "Soporte del Almero"
+              "name": "Puntal del Almero"
             },
             "TyKkxwzWMn76ir42": {
-              "name": "Soporte del Almero"
+              "name": "Puntal del Almero"
             },
             "gXjeMBcx5T5V7rJP": {
               "name": "Tentáculos"
@@ -24562,11 +24562,11 @@
               "name": "Tentáculos"
             }
           },
-          "name": "Nivel 6: Cuna del Dios de la Muerte",
+          "name": "Nivel reflejado 6: Cuna del Dios de la Muerte",
           "navigation": "Nivel 6",
           "drawings": {
             "7ZlNwvZ8NFRvoscp": {
-              "text": "Hasta el nivel 5"
+              "text": "Subida al nivel 5"
             },
             "Om4pH8vGCX0udo9W": {
               "text": "Jaula"
@@ -24575,86 +24575,86 @@
               "text": "Puerta esquelética"
             },
             "5U53voxUowdSNDVY": {
-              "text": "Fylacterias"
+              "text": "Filacterias"
             },
             "n5Dd3dr3BSBiMJc2": {
-              "text": "Fylacterias"
+              "text": "Filacterias"
             }
           },
           "regions": {
             "9uHdhwxa79TnLTQ9": {
-              "name": "Neblina (77)",
+              "name": "Puerta de la bruma (77)",
               "behaviors": {
                 "LIY3DHEISBK5rj17": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "VZbT0PydulbUNZ1i": {
-              "name": "Neblina (78)",
+              "name": "Puerta de la bruma (78)",
               "behaviors": {
                 "Hb9MQR5qTlifnOof": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "QLeEJ3T6iWT6hnJI": {
-              "name": "Muralla de barro",
+              "name": "Muro de barro",
               "behaviors": {
                 "IPuhTcPk90SsSjtz": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "Wt81MVJLCyCxAeCJ": {
-              "name": "Alcoba"
+              "name": "Hornacina"
             },
             "eldTBGSAVrKtomdD": {
-              "name": "Muro del Camino Rojo",
+              "name": "Muro del camino rojo",
               "behaviors": {
                 "6lPQcHjXwLIuP62B": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "AFDOMqn09MompJsE": {
-              "name": "Ooze Obelisco",
+              "name": "Obelisco de cieno",
               "behaviors": {
                 "G5lf7XNZswTCj8ia": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "fbyZheFv9H1UPZpB": {
-              "name": "Nivel 5: Escalera arriba",
+              "name": "Nivel 5: escalera de subida",
               "behaviors": {
                 "9CAKiQcBDEfaBCY3": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             }
           },
           "levels": {
             "defaultLevel0000": {
-              "name": "Nivel 6: Cuna del Dios de la Muerte"
+              "name": "Nivel reflejado 6: Cuna del Dios de la Muerte"
             }
           }
         },
         "toaMerchantPrinc": {
-          "name": "Villa del Príncipe Mercante",
+          "name": "Villa del príncipe mercante",
           "regions": {
             "tI0uTELDJxSX55R8": {
-              "name": "Dentro",
+              "name": "Interior",
               "behaviors": {
                 "ObQmoB9ebunWsOkt": {
-                  "name": "Desactivar la iluminación mundial"
+                  "name": "Desactivar iluminación global"
                 }
               }
             }
           },
           "levels": {
             "defaultLevel0000": {
-              "name": "Villa del Príncipe Mercante"
+              "name": "Villa del príncipe mercante"
             }
           }
         },
@@ -24675,20 +24675,20 @@
           "name": "Campamento Justicia",
           "drawings": {
             "J1NSqQxzIaM2ylNU": {
-              "text": "+50 pies."
+              "text": "+50 pies"
             },
             "EjGYZpT9KCRM1Jty": {
-              "text": "+25 pies."
+              "text": "+25 pies"
             },
             "ObhzLxAmBfzFmhwO": {
-              "text": "+10 pies."
+              "text": "+10 pies"
             }
           },
           "tokens": {
             "29TV7URWBIB2jwyb": {
-              "name": "Grupo: Duendes",
+              "name": "Grupo: Goblins",
               "delta": {
-                "name": "Grupo: Duendes (Campamento Justicia)"
+                "name": "Grupo: Goblins (Campamento Justicia)"
               }
             },
             "bmC5HjIKlZDWjl0T": {
@@ -24698,26 +24698,26 @@
               "name": "Grupo: Bestias"
             },
             "kNwH04CO8IYMuk5p": {
-              "name": "Pico de hacha volador",
+              "name": "Cría de pico de hacha",
               "delta": {
-                "name": "Pico de hacha volador"
+                "name": "Cría de pico de hacha"
               }
             }
           },
           "regions": {
             "EnztpDDAjHz78SGY": {
-              "name": "Dentro del Templo",
+              "name": "Interior del templo",
               "behaviors": {
                 "iSdVsBCYAfQry3uL": {
-                  "name": "Desactivar la iluminación mundial"
+                  "name": "Desactivar iluminación global"
                 },
                 "SQRWoMVkEgvluSBx": {
-                  "name": "Suprimir la meteorología"
+                  "name": "Suprimir efectos meteorológicos"
                 }
               }
             },
             "RHkL4Af9YbGYMdps": {
-              "name": "Trampa de pozo",
+              "name": "Trampa de foso",
               "behaviors": {
                 "WmSQ7hk1C2gq4dpE": {
                   "name": "Determinar el estado de la trampa"
@@ -24728,7 +24728,7 @@
               "name": "Trampa de cuchillas",
               "behaviors": {
                 "QkLuvwW4qPII82om": {
-                  "name": "Trampa de la hoja activada"
+                  "name": "Trampa de cuchillas activada"
                 }
               }
             }
@@ -24786,7 +24786,7 @@
               "text": "Mar Luminoso"
             },
             "kiw5OoDwkBkYcD3o": {
-              "text": "El guerrero del amanecer"
+              "text": "El Guerrero del Amanecer"
             },
             "dVkJKaE5dJmYPWUP": {
               "text": "(Las Hijas)"
@@ -24795,28 +24795,28 @@
               "text": "El Ssan"
             },
             "UIbvpQRYYHPktUsP": {
-              "text": "Madre de las nieblas"
+              "text": "Madre de las Brumas"
             },
             "7txLySXmjw3dX1Mf": {
               "text": "Lantan"
             },
             "AlLJHQpXiSovcP9T": {
-              "text": "Montañas de Mistcliff"
+              "text": "Montañas del Acantilado Brumoso"
             },
             "WfuN2WtLfDnsSFSu": {
-              "text": "Montañas de Kobold"
+              "text": "Montañas de los Kobolds"
             },
             "n85huwdSsuGozmhs": {
               "text": "Picos de Fuego"
             },
             "kUGDkNyF43eySWva": {
-              "text": "Montañas de Sky Lagarto"
+              "text": "Montañas del Lagarto Celeste"
             },
             "VIZuXl207OIodOWP": {
-              "text": "Montañas de Sanrach"
+              "text": "Montañas Sanrach"
             },
             "DpupkHz95APf96ea": {
-              "text": "Costa silvestre"
+              "text": "Costa Salvaje"
             },
             "AgUXqZVFDgzNzyI5": {
               "text": "Gran Mar"
@@ -24833,31 +24833,31 @@
         },
         "toaCh2Dungrunglu": {
           "name": "Dungrunglung (5 pies)",
-          "navigation": "Dungrunlung",
+          "navigation": "Dungrunglung",
           "notes": {
             "CRr8Rw3WJ0uSVPQo": {
-              "text": "Encuentro Tabla Roll"
+              "text": "Tabla de encuentros"
             },
             "fnF26wepGrwNDvdS": {
-              "text": "Encuentro Tabla Roll"
+              "text": "Tabla de encuentros"
             },
             "8EmzOnAl0y8oG4is": {
-              "text": "Encuentro Tabla Roll"
+              "text": "Tabla de encuentros"
             },
             "liXuBYFxmfSzRi5V": {
-              "text": "Encuentro Tabla Roll"
+              "text": "Tabla de encuentros"
             },
             "SAAcW4OGppRlgNj9": {
-              "text": "Encuentro Tabla Roll"
+              "text": "Tabla de encuentros"
             },
             "l6dDwzEPOGzI1BD8": {
-              "text": "Encuentro Tabla Roll"
+              "text": "Tabla de encuentros"
             },
             "aa8rhoLMfgp0jKNb": {
-              "text": "Encuentro Tabla Roll"
+              "text": "Tabla de encuentros"
             },
             "sxQxxLFpm50RXRZx": {
-              "text": "Encuentro Tabla Roll"
+              "text": "Tabla de encuentros"
             }
           },
           "tokens": {
@@ -24874,28 +24874,28 @@
               "name": "Grung"
             },
             "0oLyEuof97QYHbtF": {
-              "name": "Grung, guerrero de élite"
+              "name": "Guerrero de élite grung"
             },
             "cWo4TiKKExcWJXA5": {
-              "name": "Grung, guerrero de élite"
+              "name": "Guerrero de élite grung"
             },
             "kpDeHS9qsu39sWYF": {
-              "name": "Grung, guerrero de élite"
+              "name": "Guerrero de élite grung"
             },
             "sAhgoY5sM2Qftw6b": {
-              "name": "Grung, guerrero de élite"
+              "name": "Guerrero de élite grung"
             },
             "4D7eyVYigp7wXlc8": {
-              "name": "Grung, guerrero de élite"
+              "name": "Guerrero de élite grung"
             },
             "RAwlGNyaZlOb8ysU": {
-              "name": "Grung, guerrero de élite"
+              "name": "Guerrero de élite grung"
             },
             "rymZcVAnAIXGwAqS": {
-              "name": "Grung, guerrero de élite"
+              "name": "Guerrero de élite grung"
             },
             "VlNbsxiWtShD6TY3": {
-              "name": "Grung, guerrero de élite"
+              "name": "Guerrero de élite grung"
             },
             "vm3hnljqWoxBN9m4": {
               "name": "Rey Groak"
@@ -24910,7 +24910,7 @@
               "name": "Grung"
             },
             "j2NPo0rXCtabiElU": {
-              "name": "Kr’ook"
+              "name": "Krr’ook"
             },
             "nR559QLgxRwIEsL2": {
               "name": "Grung"
@@ -24941,14 +24941,14 @@
           }
         },
         "toaCh2Firefinger": {
-          "name": "Firefinger (4 niveles)",
+          "name": "Dedo de Fuego (4 niveles)",
           "navigation": "Dedo de Fuego",
           "drawings": {
             "4Kw6LGIsV0VGr2KQ": {
               "text": "300 pies sobre el suelo"
             },
             "16JuakYwaJlbiHtL": {
-              "text": "Hasta el nivel 3"
+              "text": "Bajada al nivel 3"
             },
             "zcVMuJtMf2O8BNAl": {
               "text": "240 pies sobre el suelo"
@@ -24957,16 +24957,16 @@
               "text": "60 pies sobre el suelo"
             },
             "MEmjHymg3svgQqBc": {
-              "text": "Hasta 2"
+              "text": "Subida al nivel 2"
             },
             "R6wHn7TZ43bq6ugA": {
-              "text": "Abajo a 1"
+              "text": "Bajada al nivel 1"
             },
             "rpDDlhZTllqP4NL7": {
               "text": "160 pies sobre el suelo"
             },
             "FEl9STn33RfjrwK4": {
-              "text": "Hasta 4"
+              "text": "Subida al nivel 4"
             }
           },
           "tokens": {
@@ -25035,99 +25035,99 @@
               "delta": {
                 "effects": {
                   "dnd5erestrained0": {
-                    "name": "Restringidos",
+                    "name": "Apresado",
                     "description": "@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.dqLeGdpHtb8FfcxX inline]"
                   }
                 }
               }
             },
             "cIEhHAJEJJQQwHec": {
-              "name": "Araña gigante lobo"
+              "name": "Araña lobo gigante"
             },
             "XmDiwAkfYTXFc1vj": {
-              "name": "Araña gigante lobo"
+              "name": "Araña lobo gigante"
             },
             "y3Q4ljij7LhRPZ2n": {
-              "name": "Araña gigante lobo"
+              "name": "Araña lobo gigante"
             },
             "leudWunhQxiZ6Qcv": {
-              "name": "Araña gigante lobo"
+              "name": "Araña lobo gigante"
             }
           },
           "regions": {
             "NlcE5n69jJUXx1Xr": {
-              "name": "Dentro de las cuevas",
+              "name": "Interior de las cuevas",
               "behaviors": {
                 "74IRz4cwWPXvd8MM": {
-                  "name": "Desactivar la iluminación mundial"
+                  "name": "Desactivar iluminación global"
                 }
               }
             },
             "cRIGcKpvLJlvcZVt": {
-              "name": "Nivel 4 a partir de 3",
+              "name": "Nivel 4 desde 3",
               "behaviors": {
                 "H3962onnyZLXweWU": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "bkrNUCiX1eA46yTQ": {
-              "name": "Niveles 3 a 4",
+              "name": "Nivel 3 a 4",
               "behaviors": {
                 "oR6FTJfLXNWoap9u": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "yWyeiu5fgGlg8cOY": {
-              "name": "Niveles 1 a 2",
+              "name": "Nivel 1 a 2",
               "behaviors": {
                 "d4EGiM1vDULfiSyY": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "BLLDDgQimQI5Hhq3": {
-              "name": "Nivel 2 de 1",
+              "name": "Nivel 2 desde 1",
               "behaviors": {
                 "in2utNU7erfsyrVT": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "WbUXoEKM00DyAMM4": {
-              "name": "Niveles 2 a 1",
+              "name": "Nivel 2 a 1",
               "behaviors": {
                 "ISVviVgNJKXenYzX": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "P1xbiObVk9v61cj9": {
-              "name": "Niveles 2 a 3",
+              "name": "Nivel 2 a 3",
               "behaviors": {
                 "ya7SfOCZ6wxBNP2V": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "wPmuDSPiLA5YCgMF": {
-              "name": "Nivel 3 de 2",
+              "name": "Nivel 3 desde 2",
               "behaviors": {
                 "6waM7yk1I7GT8FTV": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             }
           },
           "levels": {
             "defaultLevel0000": {
-              "name": "Firefinger (4 niveles)"
+              "name": "Dedo de Fuego (4 niveles)"
             }
           }
         },
         "toaCh2FortBeluar": {
-          "name": "Fort Beluarian (fuera)",
+          "name": "Fuerte Beluarian (exterior)",
           "navigation": "Fuerte Beluarian",
           "tokens": {
             "KBFOGqBllS9S7au4": {
@@ -25166,19 +25166,19 @@
               "name": "Fuerte Beluarian",
               "behaviors": {
                 "wYdzKrpwoqbUtnF9": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             }
           },
           "levels": {
             "defaultLevel0000": {
-              "name": "Fort Beluarian (fuera)"
+              "name": "Fuerte Beluarian (exterior)"
             }
           }
         },
         "toaInnerBailey00": {
-          "name": "Fort Beluarian: Bailey Interior",
+          "name": "Fuerte Beluarian: recinto interior",
           "tokens": {
             "luQbd334I7JV70Aq": {
               "name": "Hadrosaurio"
@@ -25225,45 +25225,45 @@
           },
           "regions": {
             "HMOZyN6mGRkTKTZk": {
-              "name": "Bailey Arriba",
+              "name": "Recinto interior: planta superior",
               "behaviors": {
                 "NEyitU2S8Xxi52Zk": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "sjr0rwWHUyNABzeh": {
-              "name": "Bailey Abajo",
+              "name": "Recinto interior: planta inferior",
               "behaviors": {
                 "BSIO7uVmt4WPV7L3": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "22ol2q1bHIdWmdoz": {
-              "name": "Entrada interior de Bailey",
+              "name": "Entrada al recinto interior",
               "behaviors": {
                 "dsdEYF6XP6GXQSWS": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             }
           },
           "levels": {
             "defaultLevel0000": {
-              "name": "Fort Beluarian: Bailey Interior"
+              "name": "Fuerte Beluarian: recinto interior"
             }
           }
         },
         "toaCh2JahakaAnch": {
-          "name": "Anclaje de Jahaka (5 pies)",
-          "navigation": "Anclaje de Jahaka",
+          "name": "Fondeadero de Jahaka (5 pies)",
+          "navigation": "Fondeadero de Jahaka",
           "drawings": {
             "UZZELTTHSJzM4bDg": {
-              "text": "+30 pies."
+              "text": "+30 pies"
             },
             "B1DqoBP4Qs06d8Kz": {
-              "text": "+30 pies."
+              "text": "+30 pies"
             }
           },
           "tokens": {
@@ -25289,7 +25289,7 @@
               }
             },
             "cCyIA9wfemCoCml3": {
-              "name": "Bosco Daggerhand"
+              "name": "Bosco Dagaenmano"
             },
             "xIYfAEndYtLGHMUF": {
               "name": "Pirata"
@@ -25318,26 +25318,26 @@
           },
           "regions": {
             "FPALfEIkIs6QzKk8": {
-              "name": "Entrada delantera",
+              "name": "Entrada principal",
               "behaviors": {
                 "i3AH4AV1SO8udpH2": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "tc34SzZ1OS3qP7D1": {
-              "name": "Primer piso - Entrada delantera",
+              "name": "Primera planta: entrada principal",
               "behaviors": {
                 "Tfcl7qDH5uqLmqME": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "9YC3rBIA2afIqjxC": {
-              "name": "Primera planta - Entrada lateral",
+              "name": "Primera planta: entrada lateral",
               "behaviors": {
                 "NcIyjr6UTcbilj6X": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
@@ -25345,149 +25345,149 @@
               "name": "Entrada lateral",
               "behaviors": {
                 "FIICBrPlRNmm5wKu": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "azzVNgsKL2Wb3nTi": {
-              "name": "Segundo piso - Escalera",
+              "name": "Segunda planta: escalera",
               "behaviors": {
                 "07c66FEzpgs86s9i": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "pbPIHv8FmxI9yZs1": {
-              "name": "Primer piso - Escalera",
+              "name": "Primera planta: escalera",
               "behaviors": {
                 "bLu5nsAoY9PrpgPw": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             }
           },
           "levels": {
             "defaultLevel0000": {
-              "name": "Anclaje de Jahaka (5 pies)"
+              "name": "Fondeadero de Jahaka (5 pies)"
             }
           }
         },
         "toaShip000000000": {
-          "name": "Buque",
+          "name": "Barco",
           "regions": {
             "A0lVHK2BF0bXBFhT": {
-              "name": "Mantenga las escaleras",
+              "name": "Escaleras de la bodega",
               "behaviors": {
                 "8xcmjyGb1ZK0nPvC": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "8b7loQItACbZnqaZ": {
-              "name": "Baraja inferior - escaleras abajo",
+              "name": "Cubierta inferior: escaleras de bajada",
               "behaviors": {
                 "AplOHyxD940g3YPd": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "TD4VAx1WtS5UJOzU": {
-              "name": "Baraja inferior - escaleras arriba",
+              "name": "Cubierta inferior: escaleras de subida",
               "behaviors": {
                 "NzYnECfCSGvhWDqE": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "HRyKK0Z3x5zIuomC": {
-              "name": "Cubierta principal - Escaleras inferiores izquierdas",
+              "name": "Cubierta principal: escaleras inferiores izquierdas",
               "behaviors": {
                 "A5j9JCEDsoREJZUM": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "3Ye0hZOjrZOkDyER": {
-              "name": "Cubierta principal - Escaleras superiores izquierdas",
+              "name": "Cubierta principal: escaleras superiores izquierdas",
               "behaviors": {
                 "k9UfKbvoycypOxhP": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "Pvwq2k5h54VjY8Cq": {
-              "name": "Cubierta principal - escaleras superiores derechas",
+              "name": "Cubierta principal: escaleras superiores derechas",
               "behaviors": {
                 "874rtapaNEzD8GiS": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "DymyacmM6zj9WP2P": {
-              "name": "Cubierta principal - Escaleras inferiores derechas",
+              "name": "Cubierta principal: escaleras inferiores derechas",
               "behaviors": {
                 "zk6PTGvcbgL49iRo": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "XG7QQR0vvXJcCoTk": {
-              "name": "Forecastle - escaleras de arriba a la izquierda",
+              "name": "Castillo de proa: escaleras superiores izquierdas",
               "behaviors": {
                 "GOLVwZZ4GaBTBHqK": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "KYZ06uW6p5l92Rys": {
-              "name": "Forecastle - Escaleras inferiores izquierdas",
+              "name": "Castillo de proa: escaleras inferiores izquierdas",
               "behaviors": {
                 "OBX4NwANUbr6mm4u": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "7kDb2QnsdHCamNzx": {
-              "name": "Forecastle - Escaleras superiores derechas",
+              "name": "Castillo de proa: escaleras superiores derechas",
               "behaviors": {
                 "0cGRQJGHZTgniZJX": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "zSUKb31z4OwkqtRd": {
-              "name": "Forecastle - escalera inferior derecha",
+              "name": "Castillo de proa: escaleras inferiores derechas",
               "behaviors": {
                 "mCxklEYgBxNgOi9R": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "loCSL4c43v7zXVIk": {
-              "name": "Cubierta principal - escaleras abajo",
+              "name": "Cubierta principal: escaleras de bajada",
               "behaviors": {
                 "xOASDk2h21vwpial": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "SE9ilDFdw8GGx0oF": {
-              "name": "Dentro",
+              "name": "Interior",
               "behaviors": {
                 "vIBnwbALjtn3LVOd": {
-                  "name": "Desactivar la iluminación mundial"
+                  "name": "Desactivar iluminación global"
                 }
               }
             }
           },
           "levels": {
             "defaultLevel0000": {
-              "name": "Buque"
+              "name": "Barco"
             }
           }
         },
         "toaCh2Wreckofthe": {
-          "name": "El naufragio de la Diosa Estelar",
+          "name": "Restos de la Diosa Estelar",
           "tokens": {
             "jwqSXN0oTRdgpHZz": {
               "name": "Ra-das",
@@ -25567,7 +25567,7 @@
           },
           "levels": {
             "defaultLevel0000": {
-              "name": "El naufragio de la Diosa Estelar"
+              "name": "Restos de la Diosa Estelar"
             }
           }
         },
@@ -25602,23 +25602,23 @@
           },
           "regions": {
             "4yN87xZOlMk1yy1u": {
-              "name": "Trampas",
+              "name": "Trampas de foso",
               "behaviors": {
                 "4EF49qymWg4CqUkf": {
-                  "name": "Recordatorio de trampas",
-                  "text": "Trampa cubierta del pozo"
+                  "name": "Recordatorio de trampa de foso",
+                  "text": "Trampa de foso cubierta"
                 }
               }
             },
             "v4CBklySMEqEka5E": {
-              "name": "Desbloquear la trampa del pozo",
+              "name": "Desbloquear trampa de foso",
               "behaviors": {
                 "ZjR5JtrqTrxm3hBb": {
-                  "name": "Habilitar el recordatorio de trampa de pozo"
+                  "name": "Activar recordatorio de trampa de foso"
                 },
                 "vOIes0AJzEmGFVUr": {
-                  "name": "Desbloquear la notificación",
-                  "text": "Trampas de foso desbloqueadas (tomadas en cube)"
+                  "name": "Notificación de desbloqueo",
+                  "text": "Trampas de foso desbloqueadas (cubo retirado)"
                 }
               }
             }
@@ -25633,16 +25633,16 @@
           "name": "Santuario de Nangnang",
           "tokens": {
             "A6WZoK6Xx0kHXnCl": {
-              "name": "Grung, guerrero de élite"
+              "name": "Guerrero de élite grung"
             },
             "1VDcDhAI3LMndNqd": {
-              "name": "Grung, guerrero de élite"
+              "name": "Guerrero de élite grung"
             },
             "jXw7ha5jUUPi5E8A": {
-              "name": "Grung, guerrero de élite"
+              "name": "Guerrero de élite grung"
             },
             "9wzC4ISpHgLbWAuw": {
-              "name": "Grung, guerrero de élite"
+              "name": "Guerrero de élite grung"
             },
             "6p3Sgq2hwInfduHt": {
               "name": "Jefe Yorb"
@@ -25730,10 +25730,10 @@
           },
           "regions": {
             "vZJYZ7rHKidqe9XP": {
-              "name": "Entrada Challenger",
+              "name": "Entrada del aspirante",
               "behaviors": {
                 "p3uqaKlHuveXKexA": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
@@ -25741,15 +25741,15 @@
               "name": "Foso de gladiadores (O)",
               "behaviors": {
                 "XH8APlka1M0nRgjA": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "W9DEGEFeYimgCcHm": {
-              "name": "Entrada de gladiador",
+              "name": "Entrada del gladiador",
               "behaviors": {
                 "n2QgIJVLLcofvIpE": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
@@ -25757,16 +25757,16 @@
               "name": "Foso de gladiadores (E)",
               "behaviors": {
                 "g7IeYJrSUGM8QGE5": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "t32h5nX9ehFH2Low": {
-              "name": "Placa de presión Portcullis",
+              "name": "Placa de presión del rastrillo",
               "behaviors": {
                 "9YvGfdo0rDGTcJaJ": {
-                  "name": "Mostrar el texto de desplazamiento",
-                  "text": "Se oye un ruido fuerte hacia el este."
+                  "name": "Mostrar texto flotante",
+                  "text": "Oyes un fuerte estrépito al este."
                 }
               }
             }
@@ -25781,13 +25781,13 @@
           "name": "Santuario de Unkh",
           "tokens": {
             "F9yAt7VzjUUQQ0J8": {
-              "name": "Necrófago hediondo"
+              "name": "Ghast"
             },
             "rwWEEojdyWlrEJaX": {
-              "name": "Necrófago hediondo"
+              "name": "Ghast"
             },
             "3Y98ArcNLk92yPtg": {
-              "name": "Necrófago hediondo"
+              "name": "Ghast"
             }
           },
           "levels": {
@@ -25800,10 +25800,10 @@
           "name": "Santuario de Wongo",
           "tokens": {
             "Ttsy9cOYXWToMTij": {
-              "name": "Grupo: Mefitos de vapor"
+              "name": "Grupo: Mephits de vapor"
             },
             "UCJn2V3W6rXXuT9j": {
-              "name": "Grupo: Su-monstruos"
+              "name": "Grupo: Sucarates"
             }
           },
           "regions": {
@@ -25851,25 +25851,25 @@
           }
         },
         "toaLevel3Vaultof": {
-          "name": "L3: Bóveda de reflexión",
+          "name": "L3: Bóveda del Reflejo",
           "navigation": "Nivel 3",
           "drawings": {
             "rXrhLCqhEHUQiJgG": {
-              "text": "Hasta el nivel 2"
+              "text": "Subida al nivel 2"
             },
             "A9e6iihsKOSlIMrB": {
-              "text": "Abierto a 45 abajo"
+              "text": "Abertura a la zona 45 inferior"
             },
             "qjfAKwqRll2VKRvn": {
-              "text": "Hasta el nivel 4"
+              "text": "Bajada al nivel 4"
             },
             "nleRKOjK2YBFs4oX": {
-              "text": "A las categorías 2 a 5"
+              "text": "A los niveles 2-5"
             }
           },
           "tokens": {
             "8U6cQUL1SgYeT1Lu": {
-              "name": "Duplicar sombra"
+              "name": "Duplicado de sombra"
             },
             "D7oTm24jxqO2JJb7": {
               "name": "Guardián de la tumba"
@@ -25884,19 +25884,19 @@
               "name": "Guardián de la tumba"
             },
             "oE8Kl9HDqCusAisD": {
-              "name": "Zona 38C Puerta"
+              "name": "Puerta de la zona 38C"
             },
             "JfQTIsKoX3AZgZ3j": {
-              "name": "Área 39 Pecho pequeño"
+              "name": "Cofre pequeño de la zona 39"
             },
             "VI8xg8GR3b6u79DU": {
-              "name": "Espectros"
+              "name": "Aparición"
             },
             "90z7UHC2ZZMtiOQe": {
-              "name": "Espectros"
+              "name": "Aparición"
             },
             "Gr64afkVHa7jZ8y6": {
-              "name": "Espectros"
+              "name": "Aparición"
             },
             "Wi9fMad1pTAFFQgR": {
               "name": "Gólem de arcilla"
@@ -25904,70 +25904,70 @@
           },
           "regions": {
             "joZrNy2RbcjxCWp6": {
-              "name": "Nivel 3: escaleras arriba",
+              "name": "Nivel 3: escaleras de subida",
               "behaviors": {
                 "PlEmwYrdaPh7oz4O": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "h0Hhab29zUuUTYWG": {
-              "name": "Nivel 3: escaleras abajo",
+              "name": "Nivel 3: escaleras de bajada",
               "behaviors": {
                 "gruRAdzMlNjb1pO6": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "3h9YTfTYghIZy9iO": {
-              "name": "Nivel 3: Área 35"
+              "name": "Nivel 3: zona 35"
             },
             "VUoObrCCNYwY4R90": {
-              "name": "Nivel 3: Gran escalera arriba",
+              "name": "Nivel 3: gran escalera de subida",
               "behaviors": {
                 "IZTRLIPhnf3u8kEC": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "GilisiLZKg8G0H5T": {
-              "name": "Nivel 3: Gran escalera hacia abajo",
+              "name": "Nivel 3: gran escalera de bajada",
               "behaviors": {
                 "dBizrIrPZxTFToWR": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "H6Rii1FkkZEmnF5G": {
-              "name": "Plantilla de rectángulo"
+              "name": "Plantilla rectangular"
             }
           },
           "levels": {
             "defaultLevel0000": {
-              "name": "L3: Bóveda de reflexión"
+              "name": "L3: Bóveda del Reflejo"
             }
           }
         },
         "toaMirroredlvl30": {
-          "name": "Nivel Reflejo 3: Bóveda de Reflexión",
+          "name": "Nivel reflejado 3: Bóveda del Reflejo",
           "navigation": "Nivel 3",
           "drawings": {
             "rXrhLCqhEHUQiJgG": {
-              "text": "Hasta el nivel 2"
+              "text": "Subida al nivel 2"
             },
             "A9e6iihsKOSlIMrB": {
-              "text": "Abierto a 45 abajo"
+              "text": "Abertura a la zona 45 inferior"
             },
             "qjfAKwqRll2VKRvn": {
-              "text": "Hasta el nivel 4"
+              "text": "Bajada al nivel 4"
             },
             "nleRKOjK2YBFs4oX": {
-              "text": "A las categorías 2 a 5"
+              "text": "A los niveles 2-5"
             }
           },
           "tokens": {
             "8U6cQUL1SgYeT1Lu": {
-              "name": "Duplicar sombra"
+              "name": "Duplicado de sombra"
             },
             "D7oTm24jxqO2JJb7": {
               "name": "Guardián de la tumba"
@@ -25982,19 +25982,19 @@
               "name": "Guardián de la tumba"
             },
             "oE8Kl9HDqCusAisD": {
-              "name": "Zona 38C Puerta"
+              "name": "Puerta de la zona 38C"
             },
             "JfQTIsKoX3AZgZ3j": {
-              "name": "Área 39 Pecho pequeño"
+              "name": "Cofre pequeño de la zona 39"
             },
             "VI8xg8GR3b6u79DU": {
-              "name": "Espectros"
+              "name": "Aparición"
             },
             "90z7UHC2ZZMtiOQe": {
-              "name": "Espectros"
+              "name": "Aparición"
             },
             "Gr64afkVHa7jZ8y6": {
-              "name": "Espectros"
+              "name": "Aparición"
             },
             "Wi9fMad1pTAFFQgR": {
               "name": "Gólem de arcilla"
@@ -26002,47 +26002,47 @@
           },
           "regions": {
             "joZrNy2RbcjxCWp6": {
-              "name": "Nivel 3: escaleras arriba",
+              "name": "Nivel 3: escaleras de subida",
               "behaviors": {
                 "PlEmwYrdaPh7oz4O": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "h0Hhab29zUuUTYWG": {
-              "name": "Nivel 3: escaleras abajo",
+              "name": "Nivel 3: escaleras de bajada",
               "behaviors": {
                 "gruRAdzMlNjb1pO6": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "3h9YTfTYghIZy9iO": {
-              "name": "Nivel 3: Área 35"
+              "name": "Nivel 3: zona 35"
             },
             "VUoObrCCNYwY4R90": {
-              "name": "Nivel 3: Gran escalera arriba",
+              "name": "Nivel 3: gran escalera de subida",
               "behaviors": {
                 "IZTRLIPhnf3u8kEC": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "GilisiLZKg8G0H5T": {
-              "name": "Nivel 3: Gran escalera hacia abajo",
+              "name": "Nivel 3: gran escalera de bajada",
               "behaviors": {
                 "dBizrIrPZxTFToWR": {
-                  "name": "Token de teletransporte"
+                  "name": "Teletransportar ficha"
                 }
               }
             },
             "H6Rii1FkkZEmnF5G": {
-              "name": "Plantilla de rectángulo"
+              "name": "Plantilla rectangular"
             }
           },
           "levels": {
             "defaultLevel0000": {
-              "name": "Nivel Reflejo 3: Bóveda de Reflexión"
+              "name": "Nivel reflejado 3: Bóveda del Reflejo"
             }
           }
         }

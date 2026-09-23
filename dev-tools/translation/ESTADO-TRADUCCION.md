@@ -2883,6 +2883,18 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   ya revisada. Corregido Nangalore en las descripciones que decían Nagalore.
   Conservado el enlace del diamante al conjuro Alzar a los muertos.
 
+### scenes-complete — Escenas
+
+- Revisados los 1497 campos de texto de las 42 escenas, incluidos nombres,
+  navegación, dibujos, regiones, teletransportes y modificaciones de fichas.
+- Corregidos los objetos y efectos exclusivos de las escenas: llave de hierro,
+  maza del terror y palabras de activación del mephit. Estas últimas se
+  contrastaron con la página extraída 183 del PDF español.
+- Los nombres de criaturas siguen las fichas revisadas. Conservados IDs,
+  referencias, fórmulas, cifras, atributos HTML y datos mecánicos.
+- Esto no acredita las etiquetas dibujadas dentro de imágenes ni la ejecución
+  de cada trampa o teletransporte durante el juego.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2892,17 +2904,19 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
   de Foundry, tres de créditos y cuatro de historial.
   No equivale a 931 páginas del PDF.
-- 17995 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 17995 campos distintos.
+- 19492 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 19492 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento cuarenta y dos biografías en ambas copias de actores: siete
   príncipes, ciento veintisiete criaturas o PNJ vinculados al apéndice D y ocho perfiles
   adicionales. Cerrada también la revisión de los campos de todos los perfiles
   de actor del compendio y Adventure, incluidos sus objetos incorporados.
-  Siguen pendientes los objetos independientes, ayudas, escenas, interfaz
+  Siguen pendientes los objetos independientes, ayudas y el cierre de interfaz
   y la comprobación transversal de nombres y terminología.
-- Auditorías estáticas y editorial sin errores. No se han renovado las
-  instantáneas de Babele ni realizado una importación completa de Adventure.
+- Auditorías estáticas y editorial sin errores. Comprobados en Foundry los
+  esquemas de 698 documentos con los JSON actuales, sin errores. Las instantáneas
+  anteriores no se han renovado: el servidor rechazó la subida de archivos.
+  Sigue pendiente la importación completa de Adventure en un mundo limpio.
 - **La revisión del módulo continúa incompleta.** El cierre de los actores
   y del texto de los diarios no acredita los demás documentos enlazados,
   las imágenes ni el funcionamiento de la aventura importada.
@@ -2911,7 +2925,9 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 
 ## Trabajo que sigue pendiente
 
-- Revisar editorialmente los objetos independientes, ayudas, escenas e interfaz.
+- Revisar los 180 objetos independientes restantes (366 campos), 235 campos
+  de títulos y metadatos de diarios, 41 carpetas, tres campos generales de
+  Adventure y 20 nombres de macros. Cerrar ayudas e interfaz.
   La generación automática todavía puede contener errores de sentido que
   las comprobaciones técnicas no detectan.
 - Revisar nombres, terminología en contexto y etiquetas dentro de imágenes.
