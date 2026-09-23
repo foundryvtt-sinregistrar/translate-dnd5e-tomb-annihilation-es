@@ -4462,41 +4462,41 @@
           "items": {
             "s88qLjZemkFRnB8Y": {
               "name": "Ataque múltiple",
-              "description": "<p>El lagarto hace dos ataques cuerpo a cuerpo, cada uno con un arma diferente.</p>"
+              "description": "<p>El hombre lagarto realiza dos ataques cuerpo a cuerpo, cada uno con un arma diferente.</p>"
             },
             "9x43sdgtqX8bOdiy": {
               "name": "Mordisco",
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "descriptionChat": "<p>Los Lagartijos atacan con su mordida.</p>"
+              "descriptionChat": "<p>El hombre lagarto ataca con su mordisco.</p>"
             },
             "9T0RdBc0Tvsj6wJW": {
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "name": "Club pesado",
-              "descriptionChat": "<p>Los Lagartijos atacan con su Club Pesado.</p>"
+              "name": "Garrote pesado",
+              "descriptionChat": "<p>El hombre lagarto ataca con su garrote pesado.</p>"
             },
             "bPnovVAPXO7MdagI": {
               "name": "Jabalina",
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "descriptionChat": "<p>Los Lagartijos atacan con su Jabalina.</p>"
+              "descriptionChat": "<p>El hombre lagarto ataca con su jabalina.</p>"
             },
             "kZJqCMW6SxV5C0nu": {
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "name": "Escudo espumoso",
-              "descriptionChat": "<p>Los Lagartijos atacan con su Escudo Escudo Especiado.</p>"
+              "name": "Escudo con púas",
+              "descriptionChat": "<p>El hombre lagarto ataca con su escudo con púas.</p>"
             },
             "sSs3hSzkKBMNBgTs": {
               "name": "Escudo",
-              "description": "<p>Un escudo está hecho de madera o metal y se lleva en una mano. Wieling un escudo aumenta su clase de armadura en 2. Sólo puedes beneficiarte de un escudo a la vez.</p>"
+              "description": "<p>Un escudo está hecho de madera o metal y se lleva en una mano. Empuñar un escudo aumenta tu Clase de Armadura en 2. Solo puedes beneficiarte de un escudo a la vez.</p>"
             },
             "14epJr1iwk3pnPVs": {
-              "name": "Sostenga la respiración",
-              "description": "<p>El lagarto puede aguantar la respiración por <strong>15 minutos</strong>.</p>"
+              "name": "Aguantar la Respiración",
+              "description": "<p>El hombre lagarto puede aguantar la respiración durante <strong>15 minutos</strong>.</p>"
             }
           },
-          "name": "Lagartijas",
-          "creatureSubtype": "Lagartijas",
-          "tokenName": "Lagartijas",
-          "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+          "name": "Hombre lagarto",
+          "creatureSubtype": "Hombre lagarto",
+          "tokenName": "Hombre lagarto",
+          "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
         },
         "toaLizardfolkSha": {
           "alignment": "Neutral",
@@ -7405,117 +7405,117 @@
           "items": {
             "dtdXnvp5cptFkGPu": {
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "name": "Maul (solo en forma humana o híbrida)",
-              "descriptionChat": "<p>Los ataques de los Wereboar con su Maul.</p>"
+              "name": "Maza a dos manos (solo en forma humanoide o híbrida)",
+              "descriptionChat": "<p>El hombre jabalí ataca con su maza a dos manos.</p>"
             },
             "TizBVS6hRuBa8JYY": {
               "name": "Carga (solo en forma de jabalí o híbrida)",
-              "description": "<p>Si el areboar se mueve al menos 15 pies rectos hacia un objetivo y luego lo golpea con sus colmillos en el mismo giro, el objetivo toma un extra [[/damage average]].</p><p>Si el objetivo es una criatura, debe tener éxito en un [[/save format=long]] o ser llamado &amp;Reference[prone apply=false]{propenso}.</p>",
-              "descriptionChat": "<p>Si el areboar se mueve al menos 15 pies rectos hacia un objetivo y luego le pega con sus colmillos en el mismo giro, el objetivo toma extra <em>daño por corte</em>. Si el objetivo es una criatura, debe hacer que un fuerte ahorro lanzar o ser golpeado propenso.</p>",
+              "description": "<p>Si el hombre jabalí se mueve al menos 15 pies en línea recta hacia un objetivo y después lo impacta con sus colmillos en ese mismo turno, el objetivo sufre [[/damage average]] adicional.</p><p>Si el objetivo es una criatura, debe superar una [[/save format=long]] o quedar &amp;Reference[prone apply=false]{derribado}.</p>",
+              "descriptionChat": "<p>Si el hombre jabalí se mueve al menos 15 pies en línea recta hacia un objetivo y después lo impacta con sus colmillos en ese mismo turno, el objetivo sufre <em>daño cortante</em> adicional. Si el objetivo es una criatura, debe realizar una tirada de salvación de Fuerza o quedar derribado.</p>",
               "effects": {
                 "w5zQ9iuuRV71yyf2": {
-                  "name": "Prona"
+                  "name": "Derribado"
                 }
               }
             },
             "599WNlvXk7snLj4O": {
-              "name": "Multiataque (solo en forma humana o híbrida)",
-              "description": "<p>El areboar hace dos ataques, sólo uno de los cuales puede ser con su [[/item .3TD2NpdjIDJxeLl9]]{colmillos}.</p>"
+              "name": "Ataque múltiple (solo en forma humanoide o híbrida)",
+              "description": "<p>El hombre jabalí realiza dos ataques, de los cuales solo uno puede ser con sus [[/item .3TD2NpdjIDJxeLl9]]{colmillos}.</p>"
             },
             "NwivB5zd15WhthVJ": {
-              "name": "Inflexible",
-              "description": "<p>Si el areboar <strong>Toma 14 daños</strong> o menos que lo reduciría a <strong>0 puntos de impacto</strong>, se reduce a <strong>1 punto de impacto</strong> En vez de eso.</p>",
-              "descriptionChat": "<p>Si el areboar recibe daño que lo reduciría a <strong>0 puntos de impacto</strong>, se reduce a <strong>1 punto de impacto</strong> En vez de eso.</p>"
+              "name": "Implacable",
+              "description": "<p>Si el hombre jabalí <strong>sufre 14 de daño</strong> o menos y eso fuera a reducirlo a <strong>0 puntos de golpe</strong>, queda con <strong>1 punto de golpe</strong> en su lugar.</p>",
+              "descriptionChat": "<p>Si el hombre jabalí sufre daño que fuera a reducirlo a <strong>0 puntos de golpe</strong>, queda con <strong>1 punto de golpe</strong> en su lugar.</p>"
             },
             "zzskoOXzAiMDZfbc": {
-              "name": "Cambio de forma",
-              "description": "<p>El areboar puede utilizar su acción para <strong>polimorf</strong> en un híbrido de jabalí-humanoide o en un jabalí, o de vuelta en su forma verdadera, que es humanoide.</p><p>Sus estadísticas, aparte de su AC, son las mismas en cada forma. Cualquier equipo que lleva o lleva no se transforma. Revierte a su verdadera forma si muere.</p><section class=\"secret\" id=\"secret-d9sqthfTOhndrbeT\"><p><strong>Nota de Foundry</strong></p><p>La configuración predeterminada del Wereboar supone que está en forma de jabalí o híbrido. Esta característica también proporciona un <strong>Efecto activo (AE)</strong> que modificará la velocidad y la clase de armadura de esta criatura en forma Humoid. Puede activar el AE en la pestaña de efectos de la hoja de caracteres.</p></section>",
-              "descriptionChat": "<p>El areboar puede utilizar su acción para <strong>polimorf</strong>, o volver a su forma verdadera.</p>",
+              "name": "Cambiaformas",
+              "description": "<p>El hombre jabalí puede usar su acción para <strong>transformarse</strong> en un híbrido de jabalí y humanoide, en un jabalí o volver a su verdadera forma humanoide.</p><p>Sus estadísticas, salvo su CA, son las mismas en todas sus formas. El equipo que vista o lleve consigo no se transforma. Si muere, vuelve a su forma verdadera.</p><section class=\"secret\" id=\"secret-d9sqthfTOhndrbeT\"><p><strong>Nota de Foundry</strong></p><p>La configuración predeterminada del hombre jabalí supone que está en forma de jabalí o híbrida. Este atributo también proporciona un <strong>efecto activo (AE)</strong> que modifica su velocidad y su Clase de Armadura en forma humanoide. Puedes activarlo en la pestaña de efectos de la ficha del personaje.</p></section>",
+              "descriptionChat": "<p>El hombre jabalí puede usar su acción para <strong>transformarse</strong> o volver a su verdadera forma.</p>",
               "effects": {
                 "GveuXgm8TNudSjsf": {
-                  "name": "Velocidad/AC: Forma Humanoides"
+                  "name": "Velocidad/CA: forma humanoide"
                 }
               }
             },
             "3TD2NpdjIDJxeLl9": {
-              "name": "Tusks (solo en forma de jabalí o híbrida)",
-              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>Si el objetivo es un humanoide, debe tener éxito en un [[/save format=long]] o ser maldecidos con licantropía de ave.</p>",
-              "descriptionChat": "<p>Los ataques de los Wereboar con sus Tusks. Si el objetivo es un humanoide, debe hacer un <strong>Constitución</strong> El lanzamiento de ahorro.</p>",
+              "name": "Colmillos (solo en forma de jabalí o híbrida)",
+              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>Si el objetivo es un humanoide, debe superar una [[/save format=long]] o quedar maldito con licantropía de hombre jabalí.</p>",
+              "descriptionChat": "<p>El hombre jabalí ataca con sus colmillos. Si el objetivo es un humanoide, debe realizar una tirada de salvación de <strong>Constitución</strong>.</p>",
               "effects": {
                 "5Ciw9arHsX8QdowI": {
                   "name": "Maldito",
-                  "description": "<p>El objetivo está maldito con licantropía de ave.</p>"
+                  "description": "<p>El objetivo está maldito con licantropía de hombre jabalí.</p>"
                 }
               }
             }
           },
           "name": "Hombre jabalí",
-          "creatureSubtype": "Humano, cambiador de formas",
-          "languages": "(no puedo hablar en forma de jabalí)",
+          "creatureSubtype": "Humano, cambiaformas",
+          "languages": "(no puede hablar en forma de jabalí)",
           "tokenName": "Hombre jabalí",
-          "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+          "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
         },
         "8ZmzB9RCRF6mGYv2": {
           "alignment": "Neutral",
           "items": {
             "HPmjVRKpG08bgohb": {
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "name": "Garra (solo en forma de tigre o híbrido)",
-              "descriptionChat": "<p>Los ataques del Weretiger con su garra.</p>"
+              "name": "Garra (solo en forma de tigre o híbrida)",
+              "descriptionChat": "<p>El hombre tigre ataca con su garra.</p>"
             },
             "vtnEGCOptmp2bcqG": {
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "name": "Scimitar (solo en forma humana o híbrida)",
-              "descriptionChat": "<p>El Weretiger ataca con su Scimitar.</p>"
+              "name": "Cimitarra (solo en forma humanoide o híbrida)",
+              "descriptionChat": "<p>El hombre tigre ataca con su cimitarra.</p>"
             },
             "onmNGMiE4AyvYxDQ": {
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "name": "Longbow (solo en forma humana o híbrida)",
-              "descriptionChat": "<p>El Weretiger ataca con su Longbow.</p>"
+              "name": "Arco largo (solo en forma humanoide o híbrida)",
+              "descriptionChat": "<p>El hombre tigre ataca con su arco largo.</p>"
             },
             "EjU9p4Wh1U2wsnFK": {
-              "name": "Cambio de forma",
-              "description": "<p>El retiger puede utilizar su acción para <strong>polimorf</strong> en un híbrido tigre-humanoide o en un tigre, o de vuelta en su forma verdadera, que es humanoide. </p><p>Sus estadísticas, aparte de su tamaño, son las mismas en cada forma. Cualquier equipo que lleva o lleva no se transforma. Revierte a su verdadera forma si muere.</p>",
-              "descriptionChat": "<p>El retiger puede utilizar su acción para <strong>polimorf</strong>, o volver a su forma verdadera.</p>"
+              "name": "Cambiaformas",
+              "description": "<p>El hombre tigre puede usar su acción para <strong>transformarse</strong> en un híbrido de tigre y humanoide, en un tigre o volver a su verdadera forma humanoide.</p><p>Sus estadísticas, salvo su tamaño, son las mismas en todas sus formas. El equipo que vista o lleve consigo no se transforma. Si muere, vuelve a su forma verdadera.</p>",
+              "descriptionChat": "<p>El hombre tigre puede usar su acción para <strong>transformarse</strong> o recuperar su verdadera forma.</p>"
             },
             "2iPYXoxM2ZReuhSL": {
-              "name": "Oído y olfato de Keen",
-              "description": "<p>El guerrero ha...<strong> ventaja </strong>en la Sabiduría (percepción) cheques que dependen de la audición u olfato.</p>"
+              "name": "Oído y Olfato Agudos",
+              "description": "<p>El hombre tigre tiene<strong> ventaja </strong>en las pruebas de Sabiduría (Percepción) que dependan del oído o del olfato.</p>"
             },
             "jW4qHQ761qRLeWM8": {
-              "name": "Ponce (solo forma Tiger o híbrida)",
-              "requirements": "Tiger o forma híbrida",
-              "description": "<p>Si la [[lookup @name lowercase]] se mueve en <strong>menos de 15 pies</strong> derecho hacia una criatura y luego golpea con un [[/item .HPmjVRKpG08bgohb]]{garra} ataque en el mismo turno, que el objetivo debe tener éxito en un [[/save]] ahorro tirar o ser golpeado &amp;Reference[prone]. Si el objetivo es propenso, el wantiger puede hacer uno [[/item .FOkSL18gU0Sli5ZA]]{mordedura} atacarlo como una acción extra.</p>",
-              "descriptionChat": "<p>Si el guerrero se mueve en <strong>menos de 15 pies</strong> derecho hacia una criatura y luego le golpea con una garra de ataque en el mismo giro, que el objetivo debe hacer un <strong>Fuerza</strong> ahorro tirar o ser golpeado propenso.</p>",
+              "name": "Abalanzarse (solo en forma de tigre o híbrida)",
+              "requirements": "Forma de tigre o híbrida",
+              "description": "<p>Si el [[lookup @name lowercase]] se mueve <strong>al menos 15 pies</strong> en línea recta hacia una criatura y después la impacta con un ataque de [[/item .HPmjVRKpG08bgohb]]{garra} en ese mismo turno, el objetivo debe superar una tirada de salvación [[/save]] o quedar &amp;Reference[prone]. Si el objetivo está derribado, el hombre tigre puede realizar un ataque de [[/item .FOkSL18gU0Sli5ZA]]{mordisco} contra él como acción adicional.</p>",
+              "descriptionChat": "<p>Si el hombre tigre se mueve <strong>al menos 15 pies</strong> en línea recta hacia una criatura y después la impacta con un ataque de garra en ese mismo turno, el objetivo debe realizar una tirada de salvación de <strong>Fuerza</strong> o quedar derribado.</p>",
               "activities": {
                 "dnd5eactivity100": {
                   "activation": {
-                    "condition": "se mueve 15 pies y golpea con un ataque de garra"
+                    "condition": "Se mueve 15 pies e impacta con un ataque de garra"
                   }
                 }
               },
               "effects": {
                 "xx5oDVvttzxBUXpQ": {
-                  "name": "Prona"
+                  "name": "Derribado"
                 }
               }
             },
             "SmUCt79LtakgTJoa": {
-              "name": "Multiataque (solo en forma humana o híbrida)",
-              "requirements": "Forma Humanoide o Híbrida",
-              "description": "<p>En forma humanoides, el retiger hace dos [[/item .vtnEGCOptmp2bcqG]]{cimitarra} ataques o dos [[/item .onmNGMiE4AyvYxDQ]]{longbow} ataques.</p><p>En forma híbrida, puede atacar como un humanoide o hacer dos [[/item .HPmjVRKpG08bgohb]]{garra} ataques.</p>"
+              "name": "Ataque múltiple (solo en forma humanoide o híbrida)",
+              "requirements": "Forma humanoide o híbrida",
+              "description": "<p>En forma humanoide, el hombre tigre realiza dos ataques con [[/item .vtnEGCOptmp2bcqG]]{cimitarra} o dos ataques con [[/item .onmNGMiE4AyvYxDQ]]{arco largo}.</p><p>En forma híbrida, puede atacar como un humanoide o realizar dos ataques de [[/item .HPmjVRKpG08bgohb]]{garra}.</p>"
             },
             "FOkSL18gU0Sli5ZA": {
-              "name": "Mordida (solo en forma de tigre o híbrida)",
-              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>Si el objetivo es un humanoide, debe tener éxito en un [[/save]] salvar el tiro o ser maldecido con licantropía wantiger.</p>",
-              "descriptionChat": "<p>El Weretiger ataca con su mordida. Si el objetivo es un humanoide, debe hacer un <strong>Constitución</strong> El lanzamiento de ahorro.</p>"
+              "name": "Mordisco (solo en forma de tigre o híbrida)",
+              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>Si el objetivo es un humanoide, debe superar una tirada de salvación [[/save]] o quedar maldito con licantropía de hombre tigre.</p>",
+              "descriptionChat": "<p>El hombre tigre ataca con su mordisco. Si el objetivo es un humanoide, debe realizar una tirada de salvación de <strong>Constitución</strong>.</p>"
             }
           },
           "name": "Hombre tigre",
-          "creatureSubtype": "Humano, cambiador de formas",
-          "languages": "(no puedo hablar en forma de tigre)",
+          "creatureSubtype": "Humano, cambiaformas",
+          "languages": "(no puede hablar en forma de tigre)",
           "tokenName": "Hombre tigre",
-          "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+          "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
         },
         "JS5HU46CO73xXk0n": {
           "alignment": "Neutral malvado",

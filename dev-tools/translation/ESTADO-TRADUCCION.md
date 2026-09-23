@@ -2702,6 +2702,16 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Comprobadas la pérdida de puntos de golpe máximos cada 24 horas de la momia
   y la inmunidad a miradas de momias, con excepción de sus señores.
 
+### additional-lycanthropes-lizard — Licántropos y hombre lagarto
+
+- Revisados hombre tigre, hombre jabalí y hombre lagarto en ambas copias:
+  164 registros contrastados con el exportado inglés. Comprobadas las formas
+  permitidas para cada ataque, las cargas y los efectos de licantropía.
+- Corregido el género del hombre tigre genérico, cuyos mensajes heredaban
+  «mujer tigre» de Azaka, y el singular del nombre de la ficha de hombre lagarto.
+- El chat de Implacable del hombre jabalí omite el umbral de 14 de daño del
+  original; la descripción completa lo conserva. Pendiente de armonización.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2711,8 +2721,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
   de Foundry, tres de créditos y cuatro de historial.
   No equivale a 931 páginas del PDF.
-- 15489 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 15489 campos distintos.
+- 15653 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 15653 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento cuarenta y una biografías en ambas copias de actores: siete
   príncipes, ciento veintisiete criaturas o PNJ vinculados al apéndice D y siete perfiles

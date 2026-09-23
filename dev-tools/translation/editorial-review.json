@@ -149295,6 +149295,1336 @@
           "note": "Variant actor reviewed against English export. Prior pterafolk and wight translations rechecked in context. Wine weird name confirmed in Spanish extraction page 142; Aquan inferred from source language values."
         }
       ]
+    },
+    {
+      "id": "additional-lycanthropes-lizard-8ZmzB9RCRF6mGYv2",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.actors.8ZmzB9RCRF6mGYv2.name",
+          "sourceSha256": "348f0f525ef92cc6a4fb5f8ab54263fa395af8496f8cb542f5397880290e8ad2",
+          "translationSha256": "ab57b3d6af59578336d5807ad677afb5eeb2acaabcd79c921914a211721fb7c4",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.8ZmzB9RCRF6mGYv2.alignment",
+          "sourceSha256": "1c6ac69f1e5db9c36e9f549d72ef77d23ceab19c557a7eb3a27c7f06f4484b44",
+          "translationSha256": "1c6ac69f1e5db9c36e9f549d72ef77d23ceab19c557a7eb3a27c7f06f4484b44",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.8ZmzB9RCRF6mGYv2.creatureSubtype",
+          "sourceSha256": "d84a0d2f524420df9ac7c6c303719707ce27d02c609ca8b6cad071d9660b5890",
+          "translationSha256": "a83e2d155c99079c3fe1ef5f27c7ebe37d625525a5cbeb6fe11530215edd6640",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.8ZmzB9RCRF6mGYv2.languages",
+          "sourceSha256": "eb3e9332788c59a25547b67b834e555c205fe0919782e97c3f79aca4431c5eca",
+          "translationSha256": "a3c9db72d16936c309e6a9a619add6667adb7dd94fcdf9b7e6e30ad05b85dd7c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.8ZmzB9RCRF6mGYv2.tokenName",
+          "sourceSha256": "348f0f525ef92cc6a4fb5f8ab54263fa395af8496f8cb542f5397880290e8ad2",
+          "translationSha256": "ab57b3d6af59578336d5807ad677afb5eeb2acaabcd79c921914a211721fb7c4",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.8ZmzB9RCRF6mGYv2.biography",
+          "sourceSha256": "005ea83779c9757f66198e442b3974d1b9644098f09fe20d516e44b7b0697302",
+          "translationSha256": "13449ca5b377e53eed4ec882e9de4fdadb921a78a531289fbf79e3a63a220ce5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.8ZmzB9RCRF6mGYv2.items.EjU9p4Wh1U2wsnFK.name",
+          "sourceSha256": "297da0d4c889b812c8fca7ef261c3e349af93ae16a68f8e3ba008e04647133fb",
+          "translationSha256": "470d45659a4e7fc5410b9bddad943fe562422ae5f67a41f1825fa2ff12902622",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.8ZmzB9RCRF6mGYv2.items.EjU9p4Wh1U2wsnFK.description",
+          "sourceSha256": "cf1ac0307a61af70219a7a8bf5a5f7b587e620ed1099f90a093370bcd358b44a",
+          "translationSha256": "4a18b2bfd4ca029d9592de0312a410974df8f00874726b51a7b5181f33074519",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.8ZmzB9RCRF6mGYv2.items.EjU9p4Wh1U2wsnFK.descriptionChat",
+          "sourceSha256": "6b3dbb351b247a9dccbf2c1fb28d2ab0fd0b7704b09f474fa70fbac8cee61fd0",
+          "translationSha256": "a8bfcd8568f1becba64ad3a3dbd0ee6dce1264019694915b0530299e720255e8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.8ZmzB9RCRF6mGYv2.items.2iPYXoxM2ZReuhSL.name",
+          "sourceSha256": "fc24a7eececde275ed9fd44745588f873a4df2790e58ad3bed06ed771c7ae1ac",
+          "translationSha256": "beb07236b6fcc4d6f5a9a4f17babb744c6ad1ba9319b2c3ab72ecc28a1bb815a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.8ZmzB9RCRF6mGYv2.items.2iPYXoxM2ZReuhSL.description",
+          "sourceSha256": "09335e6317bfc6853013e27ef01a430bef8bcb821023188ac8f7295083d5f842",
+          "translationSha256": "8c02ee86a6cdae80410f11295ee31ee15d677594c6824cef4e0a463d25e98498",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.8ZmzB9RCRF6mGYv2.items.jW4qHQ761qRLeWM8.name",
+          "sourceSha256": "b2c39b80ec62db673b38e0da607d3738493eb1ad2277a3bcf43589df9dc791cb",
+          "translationSha256": "ad0531cb1f094c35711938b05f75e96ecda06216b33a6ac6190368a7449d7141",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.8ZmzB9RCRF6mGYv2.items.jW4qHQ761qRLeWM8.requirements",
+          "sourceSha256": "7ff4eac245e7b3e88d4bb2919afbd9315739a4e191a6588abc03e349b03e2f48",
+          "translationSha256": "7f692c9d421d2b5aaf62d9e2e1bf88956280da438d081cd79e4f5b38febf1991",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.8ZmzB9RCRF6mGYv2.items.jW4qHQ761qRLeWM8.description",
+          "sourceSha256": "b5b6561cd2aa81cb45ddd48480edc4254e5b7c48da28a60270ba38913a3f61ba",
+          "translationSha256": "4e4649c81c6e55cb2863fb49be1b9563e56a0f4c892bba0478878f51444e14b6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.8ZmzB9RCRF6mGYv2.items.jW4qHQ761qRLeWM8.descriptionChat",
+          "sourceSha256": "5141359253160a0dda2b64cec3c3191530bc07ad0e8d9d5420e8d516a781d01f",
+          "translationSha256": "420652cc0d5a3dd24345711bd94ba4b73fc3e565daba1b15b8582e34f5966c69",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.8ZmzB9RCRF6mGYv2.items.jW4qHQ761qRLeWM8.activities.dnd5eactivity100.activation.condition",
+          "sourceSha256": "d587bdb164ab584d32fd7b683fa61fdfc6fa2689a0dbd0e4638312fa78a5830d",
+          "translationSha256": "cab42dcd15ae34ab2352d3a3af55b7d7ed7a48064c65cd623b9a16ca7dd9cc8c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.8ZmzB9RCRF6mGYv2.items.jW4qHQ761qRLeWM8.effects.xx5oDVvttzxBUXpQ.name",
+          "sourceSha256": "4d99dff1fb964110812ea0fbf1dbb836fec22cd3148c5f304feec35c969e88f4",
+          "translationSha256": "57a0476b623a625adddbb16d55bd8aad17dbc18ea4c10388b005588da4fe9143",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.8ZmzB9RCRF6mGYv2.items.SmUCt79LtakgTJoa.name",
+          "sourceSha256": "9edb3497ab557ff523af0f9e6a783d741a28134ed6b37a733491fe16e6f3b8b8",
+          "translationSha256": "ed3ccd0204ad00766c4bfed5b8e7aebeff1daab07466908fc7b96225c29760cc",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.8ZmzB9RCRF6mGYv2.items.SmUCt79LtakgTJoa.requirements",
+          "sourceSha256": "af501f51a97e574a179c1c87470533f508ca2bba08cc9cacd54d1fc6b14d7fdc",
+          "translationSha256": "adc14aa113da11412586238b893f9670c657302b1cec5d6253ff68927adcdf28",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.8ZmzB9RCRF6mGYv2.items.SmUCt79LtakgTJoa.description",
+          "sourceSha256": "2c27eb1d3a11dc0b2850d8f7ada9023e0faaa135908c2d266add51db9698afc4",
+          "translationSha256": "d9003a12ff66063feeb1a689e9e8034ecada2081389b8c6815be5654b3b53d2d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.8ZmzB9RCRF6mGYv2.items.FOkSL18gU0Sli5ZA.name",
+          "sourceSha256": "2fe69f61056fdc619f02be6e537692cb0df6b6b119a70358575612f6dd9ddd7b",
+          "translationSha256": "722788f5ab1f9e36194c07019faca65d69b87b26dca81ce97bdeed050a06ec45",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.8ZmzB9RCRF6mGYv2.items.FOkSL18gU0Sli5ZA.description",
+          "sourceSha256": "5c8ca00507d29517e12f7f56823b7bea0c899b7681df09f102deda7256b13084",
+          "translationSha256": "fbdd945af259b752f5f5eafd98c8e23ea2f643fcd56eb0099a1045327fab3e92",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.8ZmzB9RCRF6mGYv2.items.FOkSL18gU0Sli5ZA.descriptionChat",
+          "sourceSha256": "a2fb1ed30654a66efbdf54365273c5aa49a5c65156616cd9bbcb0a2400ba17f6",
+          "translationSha256": "1bd8a833d3c22540f55b01a4b5f1cf64db9babf3a2794551a5d3550e368c8f76",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.8ZmzB9RCRF6mGYv2.items.HPmjVRKpG08bgohb.name",
+          "sourceSha256": "c8b2607cbc3764689267821bd4a7860762c204eb1881eae0417c2a9c2402dbe4",
+          "translationSha256": "2ee6e3efa81184e1fd166186f8671b0cf3e272c69eaa6acb9eb768f355d3dc31",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.8ZmzB9RCRF6mGYv2.items.HPmjVRKpG08bgohb.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.8ZmzB9RCRF6mGYv2.items.HPmjVRKpG08bgohb.descriptionChat",
+          "sourceSha256": "9e21acda2f20adb5015cb6bc4d8c4dfa72ae6bf083105dfa9cc22530dafb7f7c",
+          "translationSha256": "fb65b3cd07bb0616c3a71e57c1eee1db3c11bdb5a38c4f1603b2b1650f3f57f8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.8ZmzB9RCRF6mGYv2.items.vtnEGCOptmp2bcqG.name",
+          "sourceSha256": "1e9be44ce3684749b190b2002a3fbce9300747c1757ece7e4f912cc19a4f90a4",
+          "translationSha256": "672f31ab4bd89228c6168675550482244b705c573767b85050b75c80bdfe3700",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.8ZmzB9RCRF6mGYv2.items.vtnEGCOptmp2bcqG.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.8ZmzB9RCRF6mGYv2.items.vtnEGCOptmp2bcqG.descriptionChat",
+          "sourceSha256": "352b3e3c31c1314d1aab8e2c15646d2f819a4dbb0e6b91fb110e251be8763918",
+          "translationSha256": "25aa0af3e7f3475b3f9e7e747d9d4d30b1936d6581203f7e66b47c77c65f6552",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.8ZmzB9RCRF6mGYv2.items.onmNGMiE4AyvYxDQ.name",
+          "sourceSha256": "fa1f02421a6d907db9b7f7f40d18500aec4fe5f9d6ef01a33014cae4b3a76c3e",
+          "translationSha256": "5e3761ee714f33f7ae3fdc9ebe8b69657e21640107ad6fe7c9613d7e545fc0f1",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.8ZmzB9RCRF6mGYv2.items.onmNGMiE4AyvYxDQ.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.8ZmzB9RCRF6mGYv2.items.onmNGMiE4AyvYxDQ.descriptionChat",
+          "sourceSha256": "cc35e203da226ab58b38ab862999a272763bc2c9195dffa6c17c58c813e0b602",
+          "translationSha256": "4784d85e3d084394907a901bd65ac0547c6987b3c9a5e6bccd8368ee7433be67",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.8ZmzB9RCRF6mGYv2.name",
+          "sourceSha256": "348f0f525ef92cc6a4fb5f8ab54263fa395af8496f8cb542f5397880290e8ad2",
+          "translationSha256": "ab57b3d6af59578336d5807ad677afb5eeb2acaabcd79c921914a211721fb7c4",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.8ZmzB9RCRF6mGYv2.alignment",
+          "sourceSha256": "1c6ac69f1e5db9c36e9f549d72ef77d23ceab19c557a7eb3a27c7f06f4484b44",
+          "translationSha256": "1c6ac69f1e5db9c36e9f549d72ef77d23ceab19c557a7eb3a27c7f06f4484b44",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.8ZmzB9RCRF6mGYv2.creatureSubtype",
+          "sourceSha256": "d84a0d2f524420df9ac7c6c303719707ce27d02c609ca8b6cad071d9660b5890",
+          "translationSha256": "a83e2d155c99079c3fe1ef5f27c7ebe37d625525a5cbeb6fe11530215edd6640",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.8ZmzB9RCRF6mGYv2.languages",
+          "sourceSha256": "eb3e9332788c59a25547b67b834e555c205fe0919782e97c3f79aca4431c5eca",
+          "translationSha256": "a3c9db72d16936c309e6a9a619add6667adb7dd94fcdf9b7e6e30ad05b85dd7c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.8ZmzB9RCRF6mGYv2.tokenName",
+          "sourceSha256": "348f0f525ef92cc6a4fb5f8ab54263fa395af8496f8cb542f5397880290e8ad2",
+          "translationSha256": "ab57b3d6af59578336d5807ad677afb5eeb2acaabcd79c921914a211721fb7c4",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.8ZmzB9RCRF6mGYv2.biography",
+          "sourceSha256": "005ea83779c9757f66198e442b3974d1b9644098f09fe20d516e44b7b0697302",
+          "translationSha256": "13449ca5b377e53eed4ec882e9de4fdadb921a78a531289fbf79e3a63a220ce5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.8ZmzB9RCRF6mGYv2.items.EjU9p4Wh1U2wsnFK.name",
+          "sourceSha256": "297da0d4c889b812c8fca7ef261c3e349af93ae16a68f8e3ba008e04647133fb",
+          "translationSha256": "470d45659a4e7fc5410b9bddad943fe562422ae5f67a41f1825fa2ff12902622",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.8ZmzB9RCRF6mGYv2.items.EjU9p4Wh1U2wsnFK.description",
+          "sourceSha256": "cf1ac0307a61af70219a7a8bf5a5f7b587e620ed1099f90a093370bcd358b44a",
+          "translationSha256": "4a18b2bfd4ca029d9592de0312a410974df8f00874726b51a7b5181f33074519",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.8ZmzB9RCRF6mGYv2.items.EjU9p4Wh1U2wsnFK.descriptionChat",
+          "sourceSha256": "6b3dbb351b247a9dccbf2c1fb28d2ab0fd0b7704b09f474fa70fbac8cee61fd0",
+          "translationSha256": "a8bfcd8568f1becba64ad3a3dbd0ee6dce1264019694915b0530299e720255e8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.8ZmzB9RCRF6mGYv2.items.2iPYXoxM2ZReuhSL.name",
+          "sourceSha256": "fc24a7eececde275ed9fd44745588f873a4df2790e58ad3bed06ed771c7ae1ac",
+          "translationSha256": "beb07236b6fcc4d6f5a9a4f17babb744c6ad1ba9319b2c3ab72ecc28a1bb815a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.8ZmzB9RCRF6mGYv2.items.2iPYXoxM2ZReuhSL.description",
+          "sourceSha256": "09335e6317bfc6853013e27ef01a430bef8bcb821023188ac8f7295083d5f842",
+          "translationSha256": "8c02ee86a6cdae80410f11295ee31ee15d677594c6824cef4e0a463d25e98498",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.8ZmzB9RCRF6mGYv2.items.jW4qHQ761qRLeWM8.name",
+          "sourceSha256": "b2c39b80ec62db673b38e0da607d3738493eb1ad2277a3bcf43589df9dc791cb",
+          "translationSha256": "ad0531cb1f094c35711938b05f75e96ecda06216b33a6ac6190368a7449d7141",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.8ZmzB9RCRF6mGYv2.items.jW4qHQ761qRLeWM8.requirements",
+          "sourceSha256": "7ff4eac245e7b3e88d4bb2919afbd9315739a4e191a6588abc03e349b03e2f48",
+          "translationSha256": "7f692c9d421d2b5aaf62d9e2e1bf88956280da438d081cd79e4f5b38febf1991",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.8ZmzB9RCRF6mGYv2.items.jW4qHQ761qRLeWM8.description",
+          "sourceSha256": "b5b6561cd2aa81cb45ddd48480edc4254e5b7c48da28a60270ba38913a3f61ba",
+          "translationSha256": "4e4649c81c6e55cb2863fb49be1b9563e56a0f4c892bba0478878f51444e14b6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.8ZmzB9RCRF6mGYv2.items.jW4qHQ761qRLeWM8.descriptionChat",
+          "sourceSha256": "5141359253160a0dda2b64cec3c3191530bc07ad0e8d9d5420e8d516a781d01f",
+          "translationSha256": "420652cc0d5a3dd24345711bd94ba4b73fc3e565daba1b15b8582e34f5966c69",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.8ZmzB9RCRF6mGYv2.items.jW4qHQ761qRLeWM8.activities.dnd5eactivity100.activation.condition",
+          "sourceSha256": "d587bdb164ab584d32fd7b683fa61fdfc6fa2689a0dbd0e4638312fa78a5830d",
+          "translationSha256": "cab42dcd15ae34ab2352d3a3af55b7d7ed7a48064c65cd623b9a16ca7dd9cc8c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.8ZmzB9RCRF6mGYv2.items.jW4qHQ761qRLeWM8.effects.xx5oDVvttzxBUXpQ.name",
+          "sourceSha256": "4d99dff1fb964110812ea0fbf1dbb836fec22cd3148c5f304feec35c969e88f4",
+          "translationSha256": "57a0476b623a625adddbb16d55bd8aad17dbc18ea4c10388b005588da4fe9143",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.8ZmzB9RCRF6mGYv2.items.SmUCt79LtakgTJoa.name",
+          "sourceSha256": "9edb3497ab557ff523af0f9e6a783d741a28134ed6b37a733491fe16e6f3b8b8",
+          "translationSha256": "ed3ccd0204ad00766c4bfed5b8e7aebeff1daab07466908fc7b96225c29760cc",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.8ZmzB9RCRF6mGYv2.items.SmUCt79LtakgTJoa.requirements",
+          "sourceSha256": "af501f51a97e574a179c1c87470533f508ca2bba08cc9cacd54d1fc6b14d7fdc",
+          "translationSha256": "adc14aa113da11412586238b893f9670c657302b1cec5d6253ff68927adcdf28",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.8ZmzB9RCRF6mGYv2.items.SmUCt79LtakgTJoa.description",
+          "sourceSha256": "2c27eb1d3a11dc0b2850d8f7ada9023e0faaa135908c2d266add51db9698afc4",
+          "translationSha256": "d9003a12ff66063feeb1a689e9e8034ecada2081389b8c6815be5654b3b53d2d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.8ZmzB9RCRF6mGYv2.items.FOkSL18gU0Sli5ZA.name",
+          "sourceSha256": "2fe69f61056fdc619f02be6e537692cb0df6b6b119a70358575612f6dd9ddd7b",
+          "translationSha256": "722788f5ab1f9e36194c07019faca65d69b87b26dca81ce97bdeed050a06ec45",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.8ZmzB9RCRF6mGYv2.items.FOkSL18gU0Sli5ZA.description",
+          "sourceSha256": "5c8ca00507d29517e12f7f56823b7bea0c899b7681df09f102deda7256b13084",
+          "translationSha256": "fbdd945af259b752f5f5eafd98c8e23ea2f643fcd56eb0099a1045327fab3e92",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.8ZmzB9RCRF6mGYv2.items.FOkSL18gU0Sli5ZA.descriptionChat",
+          "sourceSha256": "a2fb1ed30654a66efbdf54365273c5aa49a5c65156616cd9bbcb0a2400ba17f6",
+          "translationSha256": "1bd8a833d3c22540f55b01a4b5f1cf64db9babf3a2794551a5d3550e368c8f76",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.8ZmzB9RCRF6mGYv2.items.HPmjVRKpG08bgohb.name",
+          "sourceSha256": "c8b2607cbc3764689267821bd4a7860762c204eb1881eae0417c2a9c2402dbe4",
+          "translationSha256": "2ee6e3efa81184e1fd166186f8671b0cf3e272c69eaa6acb9eb768f355d3dc31",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.8ZmzB9RCRF6mGYv2.items.HPmjVRKpG08bgohb.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.8ZmzB9RCRF6mGYv2.items.HPmjVRKpG08bgohb.descriptionChat",
+          "sourceSha256": "9e21acda2f20adb5015cb6bc4d8c4dfa72ae6bf083105dfa9cc22530dafb7f7c",
+          "translationSha256": "fb65b3cd07bb0616c3a71e57c1eee1db3c11bdb5a38c4f1603b2b1650f3f57f8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.8ZmzB9RCRF6mGYv2.items.vtnEGCOptmp2bcqG.name",
+          "sourceSha256": "1e9be44ce3684749b190b2002a3fbce9300747c1757ece7e4f912cc19a4f90a4",
+          "translationSha256": "672f31ab4bd89228c6168675550482244b705c573767b85050b75c80bdfe3700",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.8ZmzB9RCRF6mGYv2.items.vtnEGCOptmp2bcqG.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.8ZmzB9RCRF6mGYv2.items.vtnEGCOptmp2bcqG.descriptionChat",
+          "sourceSha256": "352b3e3c31c1314d1aab8e2c15646d2f819a4dbb0e6b91fb110e251be8763918",
+          "translationSha256": "25aa0af3e7f3475b3f9e7e747d9d4d30b1936d6581203f7e66b47c77c65f6552",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.8ZmzB9RCRF6mGYv2.items.onmNGMiE4AyvYxDQ.name",
+          "sourceSha256": "fa1f02421a6d907db9b7f7f40d18500aec4fe5f9d6ef01a33014cae4b3a76c3e",
+          "translationSha256": "5e3761ee714f33f7ae3fdc9ebe8b69657e21640107ad6fe7c9613d7e545fc0f1",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.8ZmzB9RCRF6mGYv2.items.onmNGMiE4AyvYxDQ.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.8ZmzB9RCRF6mGYv2.items.onmNGMiE4AyvYxDQ.descriptionChat",
+          "sourceSha256": "cc35e203da226ab58b38ab862999a272763bc2c9195dffa6c17c58c813e0b602",
+          "translationSha256": "4784d85e3d084394907a901bd65ac0547c6987b3c9a5e6bccd8368ee7433be67",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        }
+      ]
+    },
+    {
+      "id": "additional-lycanthropes-lizard-jf3ywYsufcaMHjdN",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.actors.jf3ywYsufcaMHjdN.name",
+          "sourceSha256": "b3122a55f5bde572306601816b420a3ceddba4068933aac21f1256cc9e575fa7",
+          "translationSha256": "0a7590335fc8524bce5314da84b7d6b1319eccfe4adebd3e6e6fbf5bb2eed76e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.jf3ywYsufcaMHjdN.alignment",
+          "sourceSha256": "1c6ac69f1e5db9c36e9f549d72ef77d23ceab19c557a7eb3a27c7f06f4484b44",
+          "translationSha256": "1c6ac69f1e5db9c36e9f549d72ef77d23ceab19c557a7eb3a27c7f06f4484b44",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.jf3ywYsufcaMHjdN.creatureSubtype",
+          "sourceSha256": "b3122a55f5bde572306601816b420a3ceddba4068933aac21f1256cc9e575fa7",
+          "translationSha256": "0a7590335fc8524bce5314da84b7d6b1319eccfe4adebd3e6e6fbf5bb2eed76e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.jf3ywYsufcaMHjdN.tokenName",
+          "sourceSha256": "b3122a55f5bde572306601816b420a3ceddba4068933aac21f1256cc9e575fa7",
+          "translationSha256": "0a7590335fc8524bce5314da84b7d6b1319eccfe4adebd3e6e6fbf5bb2eed76e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.jf3ywYsufcaMHjdN.biography",
+          "sourceSha256": "005ea83779c9757f66198e442b3974d1b9644098f09fe20d516e44b7b0697302",
+          "translationSha256": "13449ca5b377e53eed4ec882e9de4fdadb921a78a531289fbf79e3a63a220ce5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.jf3ywYsufcaMHjdN.items.14epJr1iwk3pnPVs.name",
+          "sourceSha256": "d8e854f7c40de16514190301675479c1a415fca02e7e818f90c8f4272466eefe",
+          "translationSha256": "e8916f4d50d7a2158fb0ef2b26d6ce8b76a7452c18180a049a3418082787e3bb",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.jf3ywYsufcaMHjdN.items.14epJr1iwk3pnPVs.description",
+          "sourceSha256": "e4674ea9d869b23f199d9b0abee3fab297fdb03ac77f4d948af53aad902dbcbb",
+          "translationSha256": "f1bb6cd468950a9242bb232d13e5f7d8e07f2d6c5b03f2f099d9e7a1304e8672",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.jf3ywYsufcaMHjdN.items.s88qLjZemkFRnB8Y.name",
+          "sourceSha256": "ed2fe6ee4108fdd7aa2adc5e1e0b272881becc9d47f1b91289237da2411ddc11",
+          "translationSha256": "0a39b8f3bdfe279a18ef7e5bea3f6239da0932a302f113bb61df2e0b3f3abaad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.jf3ywYsufcaMHjdN.items.s88qLjZemkFRnB8Y.description",
+          "sourceSha256": "ba678aed3637a0377dc789abbe4d84788dcd89d5b406119bdae4977d73298bf0",
+          "translationSha256": "a711ccf16f879ed4e4f746f293a7f7952de35c189719047a68c7fa90221be833",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.jf3ywYsufcaMHjdN.items.9x43sdgtqX8bOdiy.name",
+          "sourceSha256": "6e5597953e98e07b763c9f7c837239daf41a26a239b0616631539b9a04b559ad",
+          "translationSha256": "0f5627d69976efecdf83d744d6ec28905da742f1533855b78aad823b0bcbcd97",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.jf3ywYsufcaMHjdN.items.9x43sdgtqX8bOdiy.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.jf3ywYsufcaMHjdN.items.9x43sdgtqX8bOdiy.descriptionChat",
+          "sourceSha256": "9c93c3c3c8f605d9cb4c156d5105780974475fd3db4275381c96d5df0fb1aaaa",
+          "translationSha256": "b767d6f866468b78fbb3dca9526fecf6e022cde477b4a55ec85fbcc97f017584",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.jf3ywYsufcaMHjdN.items.9T0RdBc0Tvsj6wJW.name",
+          "sourceSha256": "1edad548c3cc7c602b9760445d4edf3661fc27e3c85474a67d8a973a472a95b4",
+          "translationSha256": "1771c6c3ca48483293617f88bfea7ef62b2163b2ca83c6f74c08bd90c20659e8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.jf3ywYsufcaMHjdN.items.9T0RdBc0Tvsj6wJW.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.jf3ywYsufcaMHjdN.items.9T0RdBc0Tvsj6wJW.descriptionChat",
+          "sourceSha256": "b988c643877aa633d5f42ded919cad56f7cb0a3fee07dc597199dd272dd4309c",
+          "translationSha256": "55391704f8cb0c35558339a28bc6079108b8023b3747b88635c1818673e2acae",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.jf3ywYsufcaMHjdN.items.bPnovVAPXO7MdagI.name",
+          "sourceSha256": "3331d5456d2d5b84ac4bc46eb8807cd4b4d2b5f0cd17aa54ad0ccc0362ea8c72",
+          "translationSha256": "2885b8fcf41b9530edd6976b31811378f5b90fd4032dabf6c039e07541399af8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.jf3ywYsufcaMHjdN.items.bPnovVAPXO7MdagI.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.jf3ywYsufcaMHjdN.items.bPnovVAPXO7MdagI.descriptionChat",
+          "sourceSha256": "80acae8d3b29b0dcd7c4de8cbe2f35e5446717c001b25f405de53ee3e885bbdc",
+          "translationSha256": "bd1ca023960b0304e38f6bb1cb6ab6e3fd4dec64da9d6e8882af9205de15ad2b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.jf3ywYsufcaMHjdN.items.kZJqCMW6SxV5C0nu.name",
+          "sourceSha256": "3635f0356ef1e046b1e000047d8b4310d88fd2bf62b7114af6182844418dff20",
+          "translationSha256": "544c41afabdb07a4345306077004faad67e2691aaa288b7b7159511ea5c81718",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.jf3ywYsufcaMHjdN.items.kZJqCMW6SxV5C0nu.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.jf3ywYsufcaMHjdN.items.kZJqCMW6SxV5C0nu.descriptionChat",
+          "sourceSha256": "d4f8d1fae78b4caf4817838b2f82fbacb94b6187a032cab673c23bab82e85629",
+          "translationSha256": "afaa43e6deba274087cb76a391f53329409f02ccdd9b4c001088a1124e332fc4",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.jf3ywYsufcaMHjdN.items.sSs3hSzkKBMNBgTs.name",
+          "sourceSha256": "480d4be7d61fe52bc31768ffaaffea7ad5db66ba8b699d30623c4726704cc646",
+          "translationSha256": "fcb66c4d741ae4bb8149a195e0df7c3f3f84c30d30d1d4b30514e0cb97f28e45",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.jf3ywYsufcaMHjdN.items.sSs3hSzkKBMNBgTs.description",
+          "sourceSha256": "a1dcdd7fdc069832a5a29ba4649e7d88da8e626fccd54274c62059ab03682220",
+          "translationSha256": "e74603622dc2bc3a80765496f414547085af4b248fd2934183d1d7e41bf9dadb",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.jf3ywYsufcaMHjdN.name",
+          "sourceSha256": "b3122a55f5bde572306601816b420a3ceddba4068933aac21f1256cc9e575fa7",
+          "translationSha256": "0a7590335fc8524bce5314da84b7d6b1319eccfe4adebd3e6e6fbf5bb2eed76e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.jf3ywYsufcaMHjdN.alignment",
+          "sourceSha256": "1c6ac69f1e5db9c36e9f549d72ef77d23ceab19c557a7eb3a27c7f06f4484b44",
+          "translationSha256": "1c6ac69f1e5db9c36e9f549d72ef77d23ceab19c557a7eb3a27c7f06f4484b44",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.jf3ywYsufcaMHjdN.creatureSubtype",
+          "sourceSha256": "b3122a55f5bde572306601816b420a3ceddba4068933aac21f1256cc9e575fa7",
+          "translationSha256": "0a7590335fc8524bce5314da84b7d6b1319eccfe4adebd3e6e6fbf5bb2eed76e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.jf3ywYsufcaMHjdN.tokenName",
+          "sourceSha256": "b3122a55f5bde572306601816b420a3ceddba4068933aac21f1256cc9e575fa7",
+          "translationSha256": "0a7590335fc8524bce5314da84b7d6b1319eccfe4adebd3e6e6fbf5bb2eed76e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.jf3ywYsufcaMHjdN.biography",
+          "sourceSha256": "005ea83779c9757f66198e442b3974d1b9644098f09fe20d516e44b7b0697302",
+          "translationSha256": "13449ca5b377e53eed4ec882e9de4fdadb921a78a531289fbf79e3a63a220ce5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.jf3ywYsufcaMHjdN.items.14epJr1iwk3pnPVs.name",
+          "sourceSha256": "d8e854f7c40de16514190301675479c1a415fca02e7e818f90c8f4272466eefe",
+          "translationSha256": "e8916f4d50d7a2158fb0ef2b26d6ce8b76a7452c18180a049a3418082787e3bb",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.jf3ywYsufcaMHjdN.items.14epJr1iwk3pnPVs.description",
+          "sourceSha256": "e4674ea9d869b23f199d9b0abee3fab297fdb03ac77f4d948af53aad902dbcbb",
+          "translationSha256": "f1bb6cd468950a9242bb232d13e5f7d8e07f2d6c5b03f2f099d9e7a1304e8672",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.jf3ywYsufcaMHjdN.items.s88qLjZemkFRnB8Y.name",
+          "sourceSha256": "ed2fe6ee4108fdd7aa2adc5e1e0b272881becc9d47f1b91289237da2411ddc11",
+          "translationSha256": "0a39b8f3bdfe279a18ef7e5bea3f6239da0932a302f113bb61df2e0b3f3abaad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.jf3ywYsufcaMHjdN.items.s88qLjZemkFRnB8Y.description",
+          "sourceSha256": "ba678aed3637a0377dc789abbe4d84788dcd89d5b406119bdae4977d73298bf0",
+          "translationSha256": "a711ccf16f879ed4e4f746f293a7f7952de35c189719047a68c7fa90221be833",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.jf3ywYsufcaMHjdN.items.9x43sdgtqX8bOdiy.name",
+          "sourceSha256": "6e5597953e98e07b763c9f7c837239daf41a26a239b0616631539b9a04b559ad",
+          "translationSha256": "0f5627d69976efecdf83d744d6ec28905da742f1533855b78aad823b0bcbcd97",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.jf3ywYsufcaMHjdN.items.9x43sdgtqX8bOdiy.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.jf3ywYsufcaMHjdN.items.9x43sdgtqX8bOdiy.descriptionChat",
+          "sourceSha256": "9c93c3c3c8f605d9cb4c156d5105780974475fd3db4275381c96d5df0fb1aaaa",
+          "translationSha256": "b767d6f866468b78fbb3dca9526fecf6e022cde477b4a55ec85fbcc97f017584",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.jf3ywYsufcaMHjdN.items.9T0RdBc0Tvsj6wJW.name",
+          "sourceSha256": "1edad548c3cc7c602b9760445d4edf3661fc27e3c85474a67d8a973a472a95b4",
+          "translationSha256": "1771c6c3ca48483293617f88bfea7ef62b2163b2ca83c6f74c08bd90c20659e8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.jf3ywYsufcaMHjdN.items.9T0RdBc0Tvsj6wJW.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.jf3ywYsufcaMHjdN.items.9T0RdBc0Tvsj6wJW.descriptionChat",
+          "sourceSha256": "b988c643877aa633d5f42ded919cad56f7cb0a3fee07dc597199dd272dd4309c",
+          "translationSha256": "55391704f8cb0c35558339a28bc6079108b8023b3747b88635c1818673e2acae",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.jf3ywYsufcaMHjdN.items.bPnovVAPXO7MdagI.name",
+          "sourceSha256": "3331d5456d2d5b84ac4bc46eb8807cd4b4d2b5f0cd17aa54ad0ccc0362ea8c72",
+          "translationSha256": "2885b8fcf41b9530edd6976b31811378f5b90fd4032dabf6c039e07541399af8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.jf3ywYsufcaMHjdN.items.bPnovVAPXO7MdagI.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.jf3ywYsufcaMHjdN.items.bPnovVAPXO7MdagI.descriptionChat",
+          "sourceSha256": "80acae8d3b29b0dcd7c4de8cbe2f35e5446717c001b25f405de53ee3e885bbdc",
+          "translationSha256": "bd1ca023960b0304e38f6bb1cb6ab6e3fd4dec64da9d6e8882af9205de15ad2b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.jf3ywYsufcaMHjdN.items.kZJqCMW6SxV5C0nu.name",
+          "sourceSha256": "3635f0356ef1e046b1e000047d8b4310d88fd2bf62b7114af6182844418dff20",
+          "translationSha256": "544c41afabdb07a4345306077004faad67e2691aaa288b7b7159511ea5c81718",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.jf3ywYsufcaMHjdN.items.kZJqCMW6SxV5C0nu.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.jf3ywYsufcaMHjdN.items.kZJqCMW6SxV5C0nu.descriptionChat",
+          "sourceSha256": "d4f8d1fae78b4caf4817838b2f82fbacb94b6187a032cab673c23bab82e85629",
+          "translationSha256": "afaa43e6deba274087cb76a391f53329409f02ccdd9b4c001088a1124e332fc4",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.jf3ywYsufcaMHjdN.items.sSs3hSzkKBMNBgTs.name",
+          "sourceSha256": "480d4be7d61fe52bc31768ffaaffea7ad5db66ba8b699d30623c4726704cc646",
+          "translationSha256": "fcb66c4d741ae4bb8149a195e0df7c3f3f84c30d30d1d4b30514e0cb97f28e45",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.jf3ywYsufcaMHjdN.items.sSs3hSzkKBMNBgTs.description",
+          "sourceSha256": "a1dcdd7fdc069832a5a29ba4649e7d88da8e626fccd54274c62059ab03682220",
+          "translationSha256": "e74603622dc2bc3a80765496f414547085af4b248fd2934183d1d7e41bf9dadb",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        }
+      ]
+    },
+    {
+      "id": "additional-lycanthropes-lizard-oNTfAgLAAvvlGZSE",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.actors.oNTfAgLAAvvlGZSE.name",
+          "sourceSha256": "243bbe1d0e37e8c588eb00e8189d938ca5b8a5d917a72220244b2d3090b7423d",
+          "translationSha256": "15bcc5ea88597ba12478d295202e7bd93d5a5fb7c4e2664ca64faa6da2f1cf08",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.oNTfAgLAAvvlGZSE.alignment",
+          "sourceSha256": "59e74f11c96a77d972cd8ee0520cd97da4055b5a2e859b1c4dd2cfb7ea32f7b3",
+          "translationSha256": "ce158da3dc2aa560ccc970a693b2ad2f8b5b8e6b16edddf5209d728954da7ba8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.oNTfAgLAAvvlGZSE.creatureSubtype",
+          "sourceSha256": "d84a0d2f524420df9ac7c6c303719707ce27d02c609ca8b6cad071d9660b5890",
+          "translationSha256": "a83e2d155c99079c3fe1ef5f27c7ebe37d625525a5cbeb6fe11530215edd6640",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.oNTfAgLAAvvlGZSE.languages",
+          "sourceSha256": "b3754592791be875347f2b370584cf61479414bb2d9d7583ca65553c0cdb2fe0",
+          "translationSha256": "db0bb65582021686cde60269a1364764a4f9f6705cc22a4441dac695d2b9382b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.oNTfAgLAAvvlGZSE.tokenName",
+          "sourceSha256": "243bbe1d0e37e8c588eb00e8189d938ca5b8a5d917a72220244b2d3090b7423d",
+          "translationSha256": "15bcc5ea88597ba12478d295202e7bd93d5a5fb7c4e2664ca64faa6da2f1cf08",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.oNTfAgLAAvvlGZSE.biography",
+          "sourceSha256": "005ea83779c9757f66198e442b3974d1b9644098f09fe20d516e44b7b0697302",
+          "translationSha256": "13449ca5b377e53eed4ec882e9de4fdadb921a78a531289fbf79e3a63a220ce5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.oNTfAgLAAvvlGZSE.items.TizBVS6hRuBa8JYY.name",
+          "sourceSha256": "d5ec1f2c2b4e1e6f6f9f05e09374f483f3d4e72dbc27181c9746165207a0afb4",
+          "translationSha256": "a212b2523b2b57684c3eab6c330936a3664c689574ede823785aecd5014fc904",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.oNTfAgLAAvvlGZSE.items.TizBVS6hRuBa8JYY.description",
+          "sourceSha256": "31d5fa8696930e256ab279a87cef88e9983635a12daa4dd08125e1edbe91e67c",
+          "translationSha256": "f4ff3bc2f566bdb44876bb065d43c2be875a5b665ba785d20bb1a341f5a8a0cd",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.oNTfAgLAAvvlGZSE.items.TizBVS6hRuBa8JYY.descriptionChat",
+          "sourceSha256": "c11de702416534850c4f2ba5a9e03792af1a7d84335282f67e611f0846e9ce56",
+          "translationSha256": "e19639aa073bd23dd0f05d52788c38a2d9972acfe34a671718403fb596e52c65",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.oNTfAgLAAvvlGZSE.items.TizBVS6hRuBa8JYY.effects.w5zQ9iuuRV71yyf2.name",
+          "sourceSha256": "4d99dff1fb964110812ea0fbf1dbb836fec22cd3148c5f304feec35c969e88f4",
+          "translationSha256": "57a0476b623a625adddbb16d55bd8aad17dbc18ea4c10388b005588da4fe9143",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.oNTfAgLAAvvlGZSE.items.599WNlvXk7snLj4O.name",
+          "sourceSha256": "9edb3497ab557ff523af0f9e6a783d741a28134ed6b37a733491fe16e6f3b8b8",
+          "translationSha256": "ed3ccd0204ad00766c4bfed5b8e7aebeff1daab07466908fc7b96225c29760cc",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.oNTfAgLAAvvlGZSE.items.599WNlvXk7snLj4O.description",
+          "sourceSha256": "83ec0bb50414a9c8ada2f35e6ecd725239fe9bdc99f3a3f460f20eea23455089",
+          "translationSha256": "4da409ce14ace61f7e977166930fe9824443fa9cc701ffdd70d2db33a9f4dd66",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.oNTfAgLAAvvlGZSE.items.NwivB5zd15WhthVJ.name",
+          "sourceSha256": "4cf92935c62ffa8219001e1d9378d741ee32c3542b98f5aa44763529b78f90b5",
+          "translationSha256": "c99fb66423a54a76674dcb8765fc5d91ad0fecc8d74b2972512b921c5c41bc0b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.oNTfAgLAAvvlGZSE.items.NwivB5zd15WhthVJ.description",
+          "sourceSha256": "6eb7dcf146440dded6108d55fc39da9fdd3548bcaabf1a625764843100803602",
+          "translationSha256": "c77c446b4bd71f24778101129887fec087285504e5b2e511e16199bfa437693d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.oNTfAgLAAvvlGZSE.items.NwivB5zd15WhthVJ.descriptionChat",
+          "sourceSha256": "f57ea6a6161247f23d35721f803e2432d1923d39d88c13b7c6be22200795c920",
+          "translationSha256": "f86656c6de6762eaf4fa08feaa5ae1c0608279d07771c252b7213deb3c57b9c8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.oNTfAgLAAvvlGZSE.items.zzskoOXzAiMDZfbc.name",
+          "sourceSha256": "297da0d4c889b812c8fca7ef261c3e349af93ae16a68f8e3ba008e04647133fb",
+          "translationSha256": "470d45659a4e7fc5410b9bddad943fe562422ae5f67a41f1825fa2ff12902622",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.oNTfAgLAAvvlGZSE.items.zzskoOXzAiMDZfbc.description",
+          "sourceSha256": "763dee051c476a50f3a833c5217d2ba20be61e69713c3221cd930c586fc7fce1",
+          "translationSha256": "5bf68c27285ff72472b79ddd60b1a905ae755586ba64efc9dd9fa1b5ccff56be",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.oNTfAgLAAvvlGZSE.items.zzskoOXzAiMDZfbc.descriptionChat",
+          "sourceSha256": "46bfa0ef3bf847f1722c75e745dff51b23c48413b2526e894d5d61045fa451ea",
+          "translationSha256": "7b3547bd32fb90bfe5a1c071f4b8943bcdb6750cc22f856b91754b17042035c9",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.oNTfAgLAAvvlGZSE.items.zzskoOXzAiMDZfbc.effects.GveuXgm8TNudSjsf.name",
+          "sourceSha256": "74386eb5bd64cad713b55e239683f4800171945ca15c8b83735c201945d31b33",
+          "translationSha256": "4f37b343a9b734dc7466bf8c9c9469db1f03be47679af33134d1c4fea3cb3748",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.oNTfAgLAAvvlGZSE.items.3TD2NpdjIDJxeLl9.name",
+          "sourceSha256": "60fdad0b110bc61b4c7de06dd9f12c36c2ac44f5a597b94bbe7eb3893332860d",
+          "translationSha256": "e2f3eace6d6bf66819fcfb8d1fc44ed93351c06a302f129bb45ccc9d70408b68",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.oNTfAgLAAvvlGZSE.items.3TD2NpdjIDJxeLl9.description",
+          "sourceSha256": "3299e3c323a882b7ba38973eeed5b19ceaf0450212bb694577c65c7d38cd96ba",
+          "translationSha256": "8d306f358ec6be231530ff7088bd02c8fe554b8eb74f71ae082b2e61008097f8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.oNTfAgLAAvvlGZSE.items.3TD2NpdjIDJxeLl9.descriptionChat",
+          "sourceSha256": "25ab8006b20ec074c1a83fdeb64836bcce1f6b7d0e07d231c49819ad57dfb7f8",
+          "translationSha256": "bd04fc59c806ba1d78c9fbd9c0a4cbc002555b47c08f852153abf9a83bba9203",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.oNTfAgLAAvvlGZSE.items.3TD2NpdjIDJxeLl9.effects.5Ciw9arHsX8QdowI.name",
+          "sourceSha256": "05816dcff51e5d1f1b0c5a179f2ea902ae468aeea4efd9ba4f75bb9039c72f8c",
+          "translationSha256": "fdbb31f669d8d73a56b8aeae612904b5bb1edf077b649ee8a565f0123b865ba5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.oNTfAgLAAvvlGZSE.items.3TD2NpdjIDJxeLl9.effects.5Ciw9arHsX8QdowI.description",
+          "sourceSha256": "90a2a88d879c171079c01010ff62a5eaacfadfc0c527c5e3fe2e80e6a63f1623",
+          "translationSha256": "519572a1ef1467a9552439079d91310020751aa79a6137c889e88b780c489b2f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.oNTfAgLAAvvlGZSE.items.dtdXnvp5cptFkGPu.name",
+          "sourceSha256": "14639e918fd9ee9fdf123b07f97712c6c1d83cf70d3af4374ed353ed7d90a5b2",
+          "translationSha256": "13adf9a33732834f10e1985b8d98341f6a2797b71c087be4b2810d1300073ccc",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.oNTfAgLAAvvlGZSE.items.dtdXnvp5cptFkGPu.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.oNTfAgLAAvvlGZSE.items.dtdXnvp5cptFkGPu.descriptionChat",
+          "sourceSha256": "c1f7a9e338cdf453c6f596340068ce199f1ff007cbb87083c034077090d6b01c",
+          "translationSha256": "bf1ca0447a116b3ad107473e087c68a3203f465260616da3405d0c63d60267ec",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.oNTfAgLAAvvlGZSE.name",
+          "sourceSha256": "243bbe1d0e37e8c588eb00e8189d938ca5b8a5d917a72220244b2d3090b7423d",
+          "translationSha256": "15bcc5ea88597ba12478d295202e7bd93d5a5fb7c4e2664ca64faa6da2f1cf08",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.oNTfAgLAAvvlGZSE.alignment",
+          "sourceSha256": "59e74f11c96a77d972cd8ee0520cd97da4055b5a2e859b1c4dd2cfb7ea32f7b3",
+          "translationSha256": "ce158da3dc2aa560ccc970a693b2ad2f8b5b8e6b16edddf5209d728954da7ba8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.oNTfAgLAAvvlGZSE.creatureSubtype",
+          "sourceSha256": "d84a0d2f524420df9ac7c6c303719707ce27d02c609ca8b6cad071d9660b5890",
+          "translationSha256": "a83e2d155c99079c3fe1ef5f27c7ebe37d625525a5cbeb6fe11530215edd6640",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.oNTfAgLAAvvlGZSE.languages",
+          "sourceSha256": "b3754592791be875347f2b370584cf61479414bb2d9d7583ca65553c0cdb2fe0",
+          "translationSha256": "db0bb65582021686cde60269a1364764a4f9f6705cc22a4441dac695d2b9382b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.oNTfAgLAAvvlGZSE.tokenName",
+          "sourceSha256": "243bbe1d0e37e8c588eb00e8189d938ca5b8a5d917a72220244b2d3090b7423d",
+          "translationSha256": "15bcc5ea88597ba12478d295202e7bd93d5a5fb7c4e2664ca64faa6da2f1cf08",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.oNTfAgLAAvvlGZSE.biography",
+          "sourceSha256": "005ea83779c9757f66198e442b3974d1b9644098f09fe20d516e44b7b0697302",
+          "translationSha256": "13449ca5b377e53eed4ec882e9de4fdadb921a78a531289fbf79e3a63a220ce5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.oNTfAgLAAvvlGZSE.items.TizBVS6hRuBa8JYY.name",
+          "sourceSha256": "d5ec1f2c2b4e1e6f6f9f05e09374f483f3d4e72dbc27181c9746165207a0afb4",
+          "translationSha256": "a212b2523b2b57684c3eab6c330936a3664c689574ede823785aecd5014fc904",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.oNTfAgLAAvvlGZSE.items.TizBVS6hRuBa8JYY.description",
+          "sourceSha256": "31d5fa8696930e256ab279a87cef88e9983635a12daa4dd08125e1edbe91e67c",
+          "translationSha256": "f4ff3bc2f566bdb44876bb065d43c2be875a5b665ba785d20bb1a341f5a8a0cd",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.oNTfAgLAAvvlGZSE.items.TizBVS6hRuBa8JYY.descriptionChat",
+          "sourceSha256": "c11de702416534850c4f2ba5a9e03792af1a7d84335282f67e611f0846e9ce56",
+          "translationSha256": "e19639aa073bd23dd0f05d52788c38a2d9972acfe34a671718403fb596e52c65",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.oNTfAgLAAvvlGZSE.items.TizBVS6hRuBa8JYY.effects.w5zQ9iuuRV71yyf2.name",
+          "sourceSha256": "4d99dff1fb964110812ea0fbf1dbb836fec22cd3148c5f304feec35c969e88f4",
+          "translationSha256": "57a0476b623a625adddbb16d55bd8aad17dbc18ea4c10388b005588da4fe9143",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.oNTfAgLAAvvlGZSE.items.599WNlvXk7snLj4O.name",
+          "sourceSha256": "9edb3497ab557ff523af0f9e6a783d741a28134ed6b37a733491fe16e6f3b8b8",
+          "translationSha256": "ed3ccd0204ad00766c4bfed5b8e7aebeff1daab07466908fc7b96225c29760cc",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.oNTfAgLAAvvlGZSE.items.599WNlvXk7snLj4O.description",
+          "sourceSha256": "83ec0bb50414a9c8ada2f35e6ecd725239fe9bdc99f3a3f460f20eea23455089",
+          "translationSha256": "4da409ce14ace61f7e977166930fe9824443fa9cc701ffdd70d2db33a9f4dd66",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.oNTfAgLAAvvlGZSE.items.NwivB5zd15WhthVJ.name",
+          "sourceSha256": "4cf92935c62ffa8219001e1d9378d741ee32c3542b98f5aa44763529b78f90b5",
+          "translationSha256": "c99fb66423a54a76674dcb8765fc5d91ad0fecc8d74b2972512b921c5c41bc0b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.oNTfAgLAAvvlGZSE.items.NwivB5zd15WhthVJ.description",
+          "sourceSha256": "6eb7dcf146440dded6108d55fc39da9fdd3548bcaabf1a625764843100803602",
+          "translationSha256": "c77c446b4bd71f24778101129887fec087285504e5b2e511e16199bfa437693d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.oNTfAgLAAvvlGZSE.items.NwivB5zd15WhthVJ.descriptionChat",
+          "sourceSha256": "f57ea6a6161247f23d35721f803e2432d1923d39d88c13b7c6be22200795c920",
+          "translationSha256": "f86656c6de6762eaf4fa08feaa5ae1c0608279d07771c252b7213deb3c57b9c8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.oNTfAgLAAvvlGZSE.items.zzskoOXzAiMDZfbc.name",
+          "sourceSha256": "297da0d4c889b812c8fca7ef261c3e349af93ae16a68f8e3ba008e04647133fb",
+          "translationSha256": "470d45659a4e7fc5410b9bddad943fe562422ae5f67a41f1825fa2ff12902622",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.oNTfAgLAAvvlGZSE.items.zzskoOXzAiMDZfbc.description",
+          "sourceSha256": "763dee051c476a50f3a833c5217d2ba20be61e69713c3221cd930c586fc7fce1",
+          "translationSha256": "5bf68c27285ff72472b79ddd60b1a905ae755586ba64efc9dd9fa1b5ccff56be",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.oNTfAgLAAvvlGZSE.items.zzskoOXzAiMDZfbc.descriptionChat",
+          "sourceSha256": "46bfa0ef3bf847f1722c75e745dff51b23c48413b2526e894d5d61045fa451ea",
+          "translationSha256": "7b3547bd32fb90bfe5a1c071f4b8943bcdb6750cc22f856b91754b17042035c9",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.oNTfAgLAAvvlGZSE.items.zzskoOXzAiMDZfbc.effects.GveuXgm8TNudSjsf.name",
+          "sourceSha256": "74386eb5bd64cad713b55e239683f4800171945ca15c8b83735c201945d31b33",
+          "translationSha256": "4f37b343a9b734dc7466bf8c9c9469db1f03be47679af33134d1c4fea3cb3748",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.oNTfAgLAAvvlGZSE.items.3TD2NpdjIDJxeLl9.name",
+          "sourceSha256": "60fdad0b110bc61b4c7de06dd9f12c36c2ac44f5a597b94bbe7eb3893332860d",
+          "translationSha256": "e2f3eace6d6bf66819fcfb8d1fc44ed93351c06a302f129bb45ccc9d70408b68",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.oNTfAgLAAvvlGZSE.items.3TD2NpdjIDJxeLl9.description",
+          "sourceSha256": "3299e3c323a882b7ba38973eeed5b19ceaf0450212bb694577c65c7d38cd96ba",
+          "translationSha256": "8d306f358ec6be231530ff7088bd02c8fe554b8eb74f71ae082b2e61008097f8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.oNTfAgLAAvvlGZSE.items.3TD2NpdjIDJxeLl9.descriptionChat",
+          "sourceSha256": "25ab8006b20ec074c1a83fdeb64836bcce1f6b7d0e07d231c49819ad57dfb7f8",
+          "translationSha256": "bd04fc59c806ba1d78c9fbd9c0a4cbc002555b47c08f852153abf9a83bba9203",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.oNTfAgLAAvvlGZSE.items.3TD2NpdjIDJxeLl9.effects.5Ciw9arHsX8QdowI.name",
+          "sourceSha256": "05816dcff51e5d1f1b0c5a179f2ea902ae468aeea4efd9ba4f75bb9039c72f8c",
+          "translationSha256": "fdbb31f669d8d73a56b8aeae612904b5bb1edf077b649ee8a565f0123b865ba5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.oNTfAgLAAvvlGZSE.items.3TD2NpdjIDJxeLl9.effects.5Ciw9arHsX8QdowI.description",
+          "sourceSha256": "90a2a88d879c171079c01010ff62a5eaacfadfc0c527c5e3fe2e80e6a63f1623",
+          "translationSha256": "519572a1ef1467a9552439079d91310020751aa79a6137c889e88b780c489b2f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.oNTfAgLAAvvlGZSE.items.dtdXnvp5cptFkGPu.name",
+          "sourceSha256": "14639e918fd9ee9fdf123b07f97712c6c1d83cf70d3af4374ed353ed7d90a5b2",
+          "translationSha256": "13adf9a33732834f10e1985b8d98341f6a2797b71c087be4b2810d1300073ccc",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.oNTfAgLAAvvlGZSE.items.dtdXnvp5cptFkGPu.description",
+          "sourceSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "translationSha256": "e065bccfb6951b3721143241178363737c227ecc9cb4d17a4f0f03395a850613",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.oNTfAgLAAvvlGZSE.items.dtdXnvp5cptFkGPu.descriptionChat",
+          "sourceSha256": "c1f7a9e338cdf453c6f596340068ce199f1ff007cbb87083c034077090d6b01c",
+          "translationSha256": "bf1ca0447a116b3ad107473e087c68a3203f465260616da3405d0c63d60267ec",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Lycanthrope or lizardfolk profile reviewed against English export. Form restrictions, charge thresholds and contextual gender checked."
+        }
+      ]
     }
   ]
 }
