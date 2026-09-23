@@ -758,14 +758,26 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Las cartas del apéndice F y los objetos vinculados siguen pendientes de
   revisión coordinada. Auditorías técnica y editorial sin errores.
 
+### ch5-exploration-01 — Explorar la tumba
+
+- Revisada una página extensa con referencias físicas 127-130: reglas generales,
+  moradores, llaves-esqueleto, tesoros y tabla de restricciones mágicas.
+- Conservados los 64 enlaces, la distribución de llaves, las excepciones para
+  Acererak y su amuleto y las referencias expresas a las reglas de 2014.
+- Cerrado correctamente el rótulo de zona 65. Aclarado el umbral pasivo de
+  Percepción. Los espíritus rondan la tumba, sin afirmar que la defiendan.
+- El que escapó de los Nueve Infiernos antes de decapitar al rey fue Ch’gakare.
+  Las restricciones de magia siguen aplicándose dentro de espacios extradimensionales.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 482 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 483 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4 y tres del capítulo 5. No equivale a 482 páginas del PDF.
-- 1074 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1074 campos distintos.
+  del capítulo 4 y cuatro del capítulo 5. No equivale a 483 páginas del PDF.
+- 1076 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1076 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
