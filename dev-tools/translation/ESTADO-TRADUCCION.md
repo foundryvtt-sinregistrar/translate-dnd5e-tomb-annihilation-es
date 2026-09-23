@@ -2077,18 +2077,30 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - El enlace de la máscara conserva el identificador del exportado
   `toamgcMaskoftheB`; queda pendiente comprobar su resolución en Foundry.
 
+### appendix-d-eku — Eku y conjuros de couatl
+
+- Revisados 132 campos: página de presentación y ambas copias del actor.
+  Historia contrastada con la página física 35; rasgos, conjuros, tablas y
+  efectos contrastados con el exportado inglés.
+- Conservados el despertar por una acción tras el mordisco, las excepciones
+  de Cambiar de Forma, los componentes exclusivamente verbales y los
+  modificadores de Escudriñar. Sueño se distingue del conjuro Dormir.
+- La referencia al documento 3 sigue el exportado; el PDF español presenta
+  a Eku en el documento 4. La lista de conjuros conserva «3/día» y «1/día»
+  sin añadir «cada uno», ausente del texto inglés exportado.
+
 ## Balance de revisión editorial
 
-- 830 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 831 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 225 de los apéndices A, B, C, D y F.
-  No equivale a 830 páginas del PDF.
-- 6959 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 6959 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 226 de los apéndices A, B, C, D y F.
+  No equivale a 831 páginas del PDF.
+- 7091 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 7091 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas ochenta y tres biografías en ambas copias de actores: siete
-  príncipes y setenta y seis criaturas o PNJ del apéndice D. Siguen pendientes las demás
+  insertado. Revisadas ochenta y cuatro biografías en ambas copias de actores: siete
+  príncipes y setenta y siete criaturas o PNJ del apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las
