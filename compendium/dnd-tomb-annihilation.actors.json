@@ -3094,73 +3094,73 @@
       "items": {
         "gsNVWI1k6Qtep9n6": {
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-          "name": "Saco"
+          "name": "Hacha de mano"
         },
         "MYz2f6d67K1o4Uzi": {
-          "name": "Difusión de conjuros innatos",
-          "description": "<p>Los [[lookup @name lowercase]]La habilidad innata para deletrear es Sabiduría. Puede lanzar innatamente los siguientes conjuros, sin necesidad de componentes materiales:</p><p>1/día cada uno: <em>[[/item .TYBaB0TP3fkAU9dt]]{Marca de cazador}, [[/item .nP7q4A9pi500DDR9]]{salto}, [[/item .H58CLD38rwHbSd6o]]{pasar sin dejar rastro}, [[/item .4OaJgIyFZZlkmt77]]{hablar con los animales}, [[/item .RfM1i6bpDegopVf0]]{hablar con las plantas}</em></p>"
+          "name": "Lanzamiento de Conjuros Innato",
+          "description": "<p>La aptitud mágica innata del [[lookup @name lowercase]] es Sabiduría. Puede lanzar de forma innata los siguientes conjuros sin componentes materiales:</p><p>1/día cada uno: <em>[[/item .TYBaB0TP3fkAU9dt]]{marca del cazador}, [[/item .nP7q4A9pi500DDR9]]{salto}, [[/item .H58CLD38rwHbSd6o]]{pasar sin rastro}, [[/item .4OaJgIyFZZlkmt77]]{hablar con los animales}, [[/item .RfM1i6bpDegopVf0]]{hablar con las plantas}</em></p>"
         },
         "RbPz9lGx2v7CANfn": {
           "name": "Armadura de pieles",
-          "description": "<p>Esta armadura cruda consta de pieles gruesas y pieles. Es comúnmente usado por tribus bárbaras, humanoides malvados, y otras personas que carecen de acceso a las herramientas y materiales necesarios para crear una mejor armadura.</p>"
+          "description": "<p>Esta rudimentaria armadura está hecha de pieles gruesas. Suelen llevarla tribus bárbaras, humanoides malvados y otros pueblos sin acceso a las herramientas y materiales necesarios para fabricar armaduras mejores.</p>"
         },
         "ezs3FTZbzQ6v7zBl": {
-          "name": "Resiliencia enana",
+          "name": "Resistencia Enana",
           "requirements": "Enano",
-          "description": "<p>Los [[lookup @name lowercase]] tiene ventaja en los lanzamientos de ahorro contra el veneno.</p>"
+          "description": "<p>El [[lookup @name lowercase]] tiene ventaja en las tiradas de salvación contra el veneno.</p>"
         },
         "TYBaB0TP3fkAU9dt": {
           "name": "Marca del cazador",
-          "description": "<p>Usted elige una criatura que se puede ver dentro de rango y místicamente marcarlo como su cantera. Hasta que el conjuro termine, usted da un daño adicional de 1d6 al objetivo cada vez que lo golpea con un ataque de arma, y usted tiene ventaja en cualquier revisión de Sabiduría (percepción) o Sabiduría (supervivencia) que usted haga para encontrarlo. Si el objetivo cae a 0 puntos de impacto antes de que este conjuro termine, puede utilizar una acción adicional en un giro posterior suyo para marcar una nueva criatura.</p><p><strong>En los niveles superiores.</strong> Cuando lances este conjuro usando una espacio de conjuro de 3 o 4o nivel, puedes mantener tu concentración en el conjuro hasta 8 horas. Cuando utilices un conjuro de 5o nivel o superior, puedes mantener tu concentración en el conjuro hasta 24 horas.</p>",
+          "description": "<p>Eliges a una criatura que puedas ver dentro del alcance y la marcas místicamente como tu presa. Hasta que termine el conjuro, le causas 1d6 de daño adicional cada vez que la impactas con un ataque con arma y tienes ventaja en las pruebas de Sabiduría (Percepción) y Sabiduría (Supervivencia) que realices para encontrarla. Si el objetivo llega a 0 puntos de golpe antes de que termine el conjuro, puedes usar una acción adicional en un turno posterior para marcar a una nueva criatura.</p><p><strong>A niveles superiores.</strong> Si lanzas este conjuro usando un espacio de nivel 3 o 4, puedes mantener la concentración hasta 8 horas. Con uno de nivel 5 o superior, puedes mantenerla hasta 24 horas.</p>",
           "effects": {
             "maRUYUv77W8IGST3": {
               "name": "Marca del cazador"
             },
             "dnd5espellchange": {
-              "name": "Cambios ortográficos"
+              "name": "Cambios de conjuro"
             }
           }
         },
         "nP7q4A9pi500DDR9": {
-          "name": "Saltar",
-          "description": "<p>Tocas a una criatura. La distancia de salto de la criatura se triplica hasta que el conjuro termina.</p>",
+          "name": "Salto",
+          "description": "<p>Tocas a una criatura. Su distancia de salto se triplica hasta que termine el conjuro.</p>",
           "effects": {
             "dnd5espellchange": {
-              "name": "Cambios ortográficos"
+              "name": "Cambios de conjuro"
             }
           }
         },
         "H58CLD38rwHbSd6o": {
-          "name": "Pase sin rastro",
-          "description": "<p>Un velo de sombras y Silencio irradian de ti, encubriéndote a ti y a tus compañeros desde la detección. Para la Duración, cada criatura que elijas a menos de 30 pies de ti (incluyendo a ti) tiene un bono de +10 a Dexterity (Stealth) cheques y no se puede rastrear excepto por medios mágicos. Una criatura que recibe este bono no deja rastros ni rastros de su paso.</p>",
+          "name": "Pasar sin rastro",
+          "description": "<p>Un velo de sombras y silencio emana de ti, ocultándoos a ti y a tus compañeros. Durante el conjuro, cada criatura que elijas a 30 pies o menos de ti, tú incluido, tiene un bonificador de +10 a las pruebas de Destreza (Sigilo) y solo puede ser rastreada por medios mágicos. Una criatura que recibe este bonificador no deja huellas ni otros rastros de su paso.</p>",
           "effects": {
             "dnd5espellchange": {
-              "name": "Cambios ortográficos"
+              "name": "Cambios de conjuro"
             }
           }
         },
         "4OaJgIyFZZlkmt77": {
-          "name": "Habla con los animales",
-          "description": "<p>Ganas la habilidad de comprender y comunicarse verbalmente con las bestias por la duración. El conocimiento y la conciencia de muchas bestias están limitados por su inteligencia, pero al menos, las bestias pueden darte información sobre lugares cercanos y monstruos, incluyendo lo que puedan percibir o haber percibido en el pasado día. Usted podría ser capaz de persuadir a una bestia para realizar un pequeño favor para usted, a discreción del DM.</p>",
+          "name": "Hablar con los animales",
+          "description": "<p>Durante el conjuro, puedes entender a las bestias y comunicarte verbalmente con ellas. Los conocimientos y la percepción de muchas bestias están limitados por su inteligencia, pero como mínimo pueden darte información sobre lugares y monstruos cercanos, incluido lo que perciban o hayan percibido durante el último día. A discreción del DM, podrías persuadir a una bestia para que te haga un pequeño favor.</p>",
           "effects": {
             "dnd5espellchange": {
-              "name": "Cambios ortográficos"
+              "name": "Cambios de conjuro"
             }
           }
         },
         "RfM1i6bpDegopVf0": {
           "name": "Hablar con las plantas",
-          "description": "<p>Usted imbue plantas a menos de 30 pies de usted con sensibilidad limitada y animación, dándoles la capacidad de comunicarse con usted y seguir sus simples comandos. Usted puede preguntar a las plantas acerca de eventos en el área del conjuro en el último día, obteniendo información sobre criaturas que han pasado, el clima y otras circunstancias.</p><p>También puede convertir terrenos difíciles causados por el crecimiento de plantas (como matorrales y sotobosque) en terrenos ordinarios que duran la duración. O puede convertir el terreno ordinario donde las plantas están presentes en terrenos difíciles que duran por la duración, haciendo que las vides y ramas obstaculicen a los perseguidores, por ejemplo.</p><p>Las plantas pueden ser capaces de realizar otras tareas en su nombre, a discreción del DM. El conjuro no permite que las Plantas se desarraiguen y se muevan, pero pueden mover libremente ramas, zarcillos y tallos.</p><p>Si una criatura vegetal está en la zona, puedes comunicarte con ella como si compartieras un idioma común, pero no ganas ninguna habilidad mágica para influir en ella.</p><p>Este conjuro puede causar que las plantas creadas por el conjuro Entangle liberen a una criatura restringida.</p>",
+          "description": "<p>Dotas a las plantas a 30 pies o menos de ti de una consciencia y movilidad limitadas, de modo que pueden comunicarse contigo y seguir órdenes sencillas. Puedes preguntarles por lo ocurrido en el área del conjuro durante el último día y obtener información sobre criaturas que hayan pasado, el tiempo y otras circunstancias.</p><p>También puedes convertir terreno difícil causado por el crecimiento de plantas, como matorrales y maleza, en terreno normal durante el conjuro. O puedes convertir terreno normal con plantas en terreno difícil durante el conjuro; por ejemplo, haciendo que las enredaderas y las ramas estorben a quienes te persiguen.</p><p>A discreción del DM, las plantas podrían realizar otras tareas por ti. El conjuro no les permite arrancar sus raíces y desplazarse, pero sí mover libremente ramas, zarcillos y tallos.</p><p>Si hay una criatura de tipo planta en el área, puedes comunicarte con ella como si compartierais un idioma, pero no obtienes ninguna capacidad mágica para influir en ella.</p><p>Este conjuro puede hacer que las plantas creadas por enmarañar liberen a una criatura apresada.</p>",
           "effects": {
             "dnd5espellchange": {
-              "name": "Cambios ortográficos"
+              "name": "Cambios de conjuro"
             }
           }
         }
       },
       "name": "Guerrero espiritual enano albino",
-      "alignment": "Cualquier alineación",
-      "creatureSubtype": "enano",
+      "alignment": "Cualquier alineamiento",
+      "creatureSubtype": "Enano",
       "tokenName": "Guerrero espiritual enano albino",
       "biography": "<p>Un enano albino puede alcanzar tal conexión con la tierra de Chult que un espíritu benévolo de la naturaleza repara en él y le concede un poderoso sortilegio que le otorga aptitudes mágicas innatas. Estos guerreros espirituales se dedican a preservar la belleza natural de Chult y a combatir las amenazas antinaturales. Un @UUID[Actor.N7co8xylyl3DXM9s]{guerrero espiritual enano albino} tiene el perfil de un @UUID[Actor.k8L7mjQmN0AolC34]{guerrero enano albino}, con un valor de desafío de 1 (200 PX) y el siguiente rasgo adicional:</p><aside class=\"notable\"><p><em><strong>Lanzamiento de Conjuros Innato</strong></em>. La aptitud mágica innata del enano es Sabiduría. Puede lanzar de forma innata los siguientes conjuros sin componentes materiales:</p><p>1/día cada uno: <em>@UUID[Compendium.dnd5e.spells.Item.0xmXiPiuYws1OGcX]{marca del cazador}, @UUID[Compendium.dnd5e.spells.Item.ZrTc23tToJ0JpH2h]{salto}, @UUID[Compendium.dnd5e.spells.Item.pRMvmknwLf2tdMTj]{pasar sin rastro}, @UUID[Compendium.dnd5e.spells.Item.aL1F8fvYLtNzUbKu]{hablar con los animales}, @UUID[Compendium.dnd5e.spells.Item.2VXGS206tuChoeXy]{hablar con las plantas}</em></p></aside>"
     },
@@ -5753,21 +5753,21 @@
       "items": {
         "nW26lqrHyO5IFqwT": {
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-          "name": "Saco"
+          "name": "Hacha de mano"
         },
         "jMhLXeBYRw5ry0yt": {
           "name": "Armadura de pieles",
-          "description": "<p>Esta armadura cruda consta de pieles gruesas y pieles. Es comúnmente usado por tribus bárbaras, humanoides malvados, y otras personas que carecen de acceso a las herramientas y materiales necesarios para crear una mejor armadura.</p>"
+          "description": "<p>Esta rudimentaria armadura está hecha de pieles gruesas. Suelen llevarla tribus bárbaras, humanoides malvados y otros pueblos sin acceso a las herramientas y materiales necesarios para fabricar armaduras mejores.</p>"
         },
         "c4VMNvIQT9NjdgjR": {
-          "name": "Resiliencia enana",
+          "name": "Resistencia Enana",
           "requirements": "Enano",
-          "description": "<p>Los [[lookup @name lowercase]] tiene ventaja en los lanzamientos de ahorro contra el veneno.</p>"
+          "description": "<p>El [[lookup @name lowercase]] tiene ventaja en las tiradas de salvación contra el veneno.</p>"
         }
       },
       "name": "Guerrero enano albino",
-      "alignment": "Cualquier alineación",
-      "creatureSubtype": "enano",
+      "alignment": "Cualquier alineamiento",
+      "creatureSubtype": "Enano",
       "tokenName": "Guerrero enano albino",
       "biography": "<p>La actividad volcánica expulsó a los enanos albinos de Chult de sus hogares subterráneos. Quienes no buscaron refugio en Puerto Nyanzaru se adaptaron a la vida en la selva. Fabrican armaduras con piel de dinosaurio, armas con huesos de dinosaurio, sílex y madera, y elaboradas joyas con huesos, plumas, colmillos y cuentas de piedra. No han olvidado cómo forjar metales, pero rara vez disponen de medios para hacerlo.</p>"
     },

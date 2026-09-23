@@ -1884,6 +1884,17 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   fichas parciales anteriores, las páginas adicionales y sus actores, además de
   variantes y copias de encuentros; esto no cierra el apéndice completo.
 
+### appendix-d-dwarf-traits — Enanos albinos: equipo y conjuros
+
+- Revisados los 72 campos restantes del guerrero y el guerrero espiritual,
+  en las dos copias de cada actor. Referencia física 220 para los rasgos y
+  la selección de conjuros; textos completos contrastados con el exportado inglés.
+- Conservados los límites de concentración de Marca del cazador y las
+  restricciones de Hablar con las plantas: no arranca raíces ni permite
+  controlar mágicamente a las criaturas de tipo planta.
+- Quedan revisados los textos no vacíos de ambas fichas. Sus biografías ya
+  estaban revisadas y no se vuelven a contabilizar en este bloque.
+
 ## Balance de revisión editorial
 
 - 802 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -1891,8 +1902,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
   del capítulo 4, 126 del capítulo 5 y 197 de los apéndices A, B, C, D y F.
   No equivale a 802 páginas del PDF.
-- 5047 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 5047 campos distintos.
+- 5119 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 5119 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas cincuenta y cinco biografías en ambas copias de actores: siete
   príncipes y cuarenta y ocho criaturas o PNJ del apéndice D. Siguen pendientes las demás
