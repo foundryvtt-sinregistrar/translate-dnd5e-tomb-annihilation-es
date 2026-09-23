@@ -2245,18 +2245,31 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y techos que menciona el diario. Se conserva el contenido exportado y se
   registra la omisión para comprobar la configuración en Foundry.
 
+### appendix-d-withers — Mustio
+
+- Revisados 112 campos: página de presentación y ambas copias del actor.
+  Referencias físicas 127 y 146; rasgos, conjuros y ataques contra el inglés.
+- Detectada una inversión en la lista exportada: indica un espacio de nivel 4
+  y tres de nivel 5, mientras que el PDF y los datos `system.spells` indican
+  tres de nivel 4 y uno de nivel 5. Se conserva la lista textual y se registra
+  la corrección pendiente para la fase de reparación funcional.
+- Conservado «Gorra» del original inglés, frente a «Gorma» en la extracción
+  española. Unificado el nombre del Amuleto del Cráneo Negro con el objeto.
+- Comprobadas las barreras y capacidad de Truco de la cuerda, las caras del
+  Muro de fuego y la propagación del daño de Relámpago.
+
 ## Balance de revisión editorial
 
-- 887 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 888 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 282 de los apéndices A, B, C, D y F.
-  No equivale a 887 páginas del PDF.
-- 9729 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 9729 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 283 de los apéndices A, B, C, D y F.
+  No equivale a 888 páginas del PDF.
+- 9841 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 9841 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas ciento veintisiete biografías en ambas copias de actores: siete
-  príncipes y ciento veinte criaturas o PNJ vinculados al apéndice D. Siguen pendientes las demás
+  insertado. Revisadas ciento veintiocho biografías en ambas copias de actores: siete
+  príncipes y ciento veintiuna criaturas o PNJ vinculados al apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las
