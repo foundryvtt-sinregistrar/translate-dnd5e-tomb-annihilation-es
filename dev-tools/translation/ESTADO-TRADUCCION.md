@@ -1293,6 +1293,20 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   ponerse o quitarse la armadura. Su bloque secreto mantiene la visibilidad.
 - Auditorías técnica y editorial sin errores.
 
+### appendix-c-magic-staff — Bastón del Olvidado
+
+- Revisados doce campos con referencias físicas 208-209, incluidos efectos y
+  actividades. Conservada la sección secreta y la sintonización por clase.
+- Contrastadas las actividades contextuales: maldición con Constitución y CD
+  de conjuro; posesión con Carisma CD 20; destrucción con Destreza CD 18 y
+  24d10 de fuerza, mitad al salvar.
+- Restituido el tipo necrótico del daño adicional, omitido en el PDF.
+- El efecto del original contiene `&Reference[blinded, &Reference[charmed ...]`
+  sin cerrar la primera referencia; se conserva como incidencia técnica pendiente.
+- La ficha exige sintonización pero no aporta rareza en `system.rarity`;
+  sigue pendiente resolver la categoría discrepante del encabezado del diario.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
 - 626 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -1300,8 +1314,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
   del capítulo 4, 126 del capítulo 5 y 21 de los apéndices A y C.
   No equivale a 626 páginas del PDF.
-- 1455 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1455 campos distintos.
+- 1467 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1467 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
