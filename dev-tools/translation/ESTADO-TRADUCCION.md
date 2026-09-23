@@ -1842,18 +1842,30 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - El exportado omite los atributos de interpretación de Xandala del PDF y
   el objeto de conjuro orbe cromático, aunque lo menciona en su lista.
 
+### appendix-d-ras-nsi-traits — Ras Nsi: historia, equipo y combate
+
+- Revisados 50 campos de las dos copias del actor y su página, con referencias
+  físicas 231 y 232. Incluye historia de Mezro, pacto con Acererak, maldición,
+  atributos de interpretación, equipo, transformación y ataques.
+- Conservada la ausencia de retorno de forma al morir y el vínculo de la piedra
+  mensajera con Salysa. El texto de Ataque múltiple del exportado combina tres
+  ataques de espada con la limitación de Constreñir; el PDF permite tres ataques
+  cuerpo a cuerpo. Se registra esta incoherencia para la revisión funcional.
+- El enlace por nombre `Constrict` sigue pendiente. Los conjuros de Ras Nsi
+  se revisan en el bloque siguiente; este bloque no cierra toda su ficha.
+
 ## Balance de revisión editorial
 
-- 800 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 801 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 195 de los apéndices A, B, C, D y F.
-  No equivale a 800 páginas del PDF.
-- 4729 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 4729 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 196 de los apéndices A, B, C, D y F.
+  No equivale a 801 páginas del PDF.
+- 4779 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 4779 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas cincuenta y cuatro biografías en ambas copias de actores: siete
-  príncipes y cuarenta y siete criaturas o PNJ del apéndice D. Siguen pendientes las demás
+  insertado. Revisadas cincuenta y cinco biografías en ambas copias de actores: siete
+  príncipes y cuarenta y ocho criaturas o PNJ del apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las

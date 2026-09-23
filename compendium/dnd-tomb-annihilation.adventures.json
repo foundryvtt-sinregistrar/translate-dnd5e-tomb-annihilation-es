@@ -11901,15 +11901,15 @@
             },
             "WqlkFpT9eHv4UlqR": {
               "name": "Ataque múltiple",
-              "description": "<p>Ras Nsi hace tres [[/item .8g61mlQi0jpN5Lnh]]{Espada larga} ataques, pero puede utilizar [[/item Constrict]] Sólo una vez.</p>"
+              "description": "<p>Ras Nsi realiza tres ataques con su [[/item .8g61mlQi0jpN5Lnh]]{Espada larga}, pero solo puede usar [[/item Constrict]]{Constreñir} una vez.</p>"
             },
             "vPyUY9zNQgVj2MK3": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-              "name": "Mordida (solo forma de serpiente)"
+              "name": "Mordisco (solo forma de serpiente)"
             },
             "8g61mlQi0jpN5Lnh": {
-              "description": "<p>[[/attack extended]]. [[/damage extended average]] o [[/damage twoHanded average]]</p>",
-              "name": "Espada larga de la lengua llama"
+              "description": "<p>[[/attack extended]]. [[/damage extended average]] o [[/damage twoHanded average]].</p>",
+              "name": "Espada larga de lengua de fuego"
             },
             "iOCVTM00ADbxBixj": {
               "name": "Toque chill",
@@ -12027,40 +12027,40 @@
               }
             },
             "qdbQR714M3hd1FuI": {
-              "name": "Constricción",
-              "description": "<p>[[/attack extended]]. [[/damage extended average]], y el objetivo es &amp;Reference[Grappled apply=false]{forcejeado} (escape CD 14). Hasta que termine esta pelea, el objetivo es &amp;Reference[Restrained apply=false]{restringidos}, y Ras Nsi no puede restringir a otro objetivo.</p>",
+              "name": "Constreñir",
+              "description": "<p>[[/attack extended]]. [[/damage extended average]], y el objetivo queda &amp;Reference[Grappled apply=false]{agarrado} (CD 14 para escapar). Hasta que termine el agarre, el objetivo está &amp;Reference[Restrained apply=false]{apresado} y Ras Nsi no puede constreñir a otro objetivo.</p>",
               "activities": {
                 "MlnhErhJ46cJPZne": {
-                  "name": "Comprobación de escape"
+                  "name": "Prueba para escapar"
                 }
               },
               "effects": {
                 "B5TQUccStujRAxzT": {
-                  "name": "Agarrado y Restringido",
-                  "description": "<p>El objetivo es &amp;Reference[Grappled apply=false]{forcejeado} (escape CD 14). Hasta que termine esta pelea, el objetivo es &amp;Reference[Restrained apply=false]{restringidos}</p>"
+                  "name": "Agarrado y apresado",
+                  "description": "<p>El objetivo está &amp;Reference[Grappled apply=false]{agarrado} (CD 14 para escapar). Hasta que termine el agarre, el objetivo está &amp;Reference[Restrained apply=false]{apresado}.</p>"
                 }
               }
             },
             "8AbPbSDRc8MblhhO": {
-              "name": "Braceros de Defensa",
-              "description": "<p><em>Artículo maravilloso, (requiere sintonía)</em></p>\n<p>Mientras usas estos bracers, obtienes un bono de +2 a AC si no llevas armadura y no usas escudo.</p>",
+              "name": "Brazales de defensa",
+              "description": "<p><em>Objeto maravilloso (requiere sintonización)</em></p><p>Mientras llevas estos brazales, obtienes un bonificador de +2 a la CA si no llevas armadura ni usas un escudo.</p>",
               "effects": {
                 "ul7rjl68p1kyv4z2": {
-                  "name": "+2 a CA"
+                  "name": "+2 a la CA"
                 }
               }
             },
             "a9jthYd37Mz5ZRqY": {
-              "name": "Equipo especial",
-              "description": "<p>Ras Nsi usa <em>@UUID[Compendium.dnd5e.items.Item.DSHi7yT6OUyDoCcu]{llaves de defensa}</em>, blande un <em>@UUID[Compendium.dnd5e.items.Item.ducaFdrqwLZ0l3c7]{lengua llama espada larga},</em> y lleva un <em>Enviar piedra</em> igualado a uno llevado por la guía Salida (véase el capítulo 1).</p>"
+              "name": "Equipo Especial",
+              "description": "<p>Ras Nsi lleva unos <em>@UUID[Compendium.dnd5e.items.Item.DSHi7yT6OUyDoCcu]{brazales de defensa}</em>, empuña una <em>@UUID[Compendium.dnd5e.items.Item.ducaFdrqwLZ0l3c7]{espada larga de lengua de fuego}</em> y tiene una <em>piedra mensajera</em> emparejada con la que lleva la guía Salysa (consulta el capítulo 1).</p>"
             },
             "WhCL7FHy8842UB6I": {
-              "name": "Cambio de forma",
-              "description": "<p>Ras Nsi puede utilizar su acción para polimorfo en una serpiente Mediana o de vuelta en su forma yuan-ti. Sus estadísticas son las mismas en cada forma. Cualquier equipo que esté usando o llevando no se transforma. No cambia de forma si muere.</p>"
+              "name": "Cambiaformas",
+              "description": "<p>Ras Nsi puede usar su acción para polimorfarse en una serpiente Mediana o recuperar su forma yuan-ti. Sus estadísticas son las mismas en ambas formas. El equipo que lleve puesto o transporte no se transforma. No cambia de forma al morir.</p>"
             },
             "6ibBVToXOk6niTKE": {
-              "name": "Resistencia mágica",
-              "description": "<p>Ras Nsi tiene ventaja en el ahorro de lanzamientos contra conjuros y otros efectos mágicos.</p>"
+              "name": "Resistencia Mágica",
+              "description": "<p>Ras Nsi tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.</p>"
             },
             "6Cf3EIWvBhOIqv8D": {
               "name": "Amistad animal",
@@ -12081,10 +12081,10 @@
               }
             }
           },
-          "biography": "<p>La palabra \"ras\" es un título noble similar al \"duque\". Ras Nsi fue una vez un paladín de Chultán, un elegido de Ubtao y protector jurado de la ciudad de Mezro. Traicionó sus juramentos y fue expulsado de la ciudad. Convirtiéndose en un vengativo caudillo, Ras Nsi intentó conquistar Mezro con un ejército no-muerto, pero fue derrotado. En vez de buscar la redención, buscó venganza y fue despojado de sus poderes dados por Dios. La horda no-muerta, que ya no está bajo su control, se extendió por las selvas de Chul.</p><p>Retirándose a Omu, Nsi se aferró a su noble título, unió fuerzas con los yuan-ti que vivían allí, y se sometió a un horrible ritual para convertirse en un poderoso yuan-ti malison — reteniendo su cabeza humana y torso y ganando un serpentino cuerpo inferior. Con Ubtao fuera del mundo, Ras Nsi y sus nuevos seguidores del yuan-ti comenzaron a buscar una manera de traer a Dendar la Serpiente Nocturna. Acerrak ha prometido ayudar a este esfuerzo, a cambio de la promesa de Ras Nsi de defender la Tumba de los Nueve Dioses. En verdad, Acerrak no tiene intención de cumplir su acuerdo, y Ras Nsi está empezando a sospechar tanto.</p><p><em><strong>Extraña colección</strong></em>. Ras Nsi tiene una colección considerable de ropa y accesorios de tierras lejanas, la mayoría de los cuales fueron tomados de exploradores muertos. La colección incluye una fina capa cormirea, un frasco de vino sembiano, y un doblete Amniano ajoyado y una bolsa de dinero a juego. También lleva un <em>@UUID[Compendium.dnd5e.items.Item.ducaFdrqwLZ0l3c7]{lengua llama espada larga}</em>.</p><p><em><strong>Muerte lenta</strong></em>. Ras Nsi ha muerto y ha sido traído de vuelta de entre los muertos más de una vez. Por consiguiente, sufre los efectos de la maldición de la muerte del Almero. Su punto máximo de impacto se ha reducido, y las heridas leprosas cubren su carne. En una ironía apropiada, Ras Nsi no es consciente de que Acerrak es la causa de la maldición, ya que ni él ni los yuan-ti son conscientes de lo que se encuentra dentro de la Tumba de los Nueve Dioses, aparte de los dioses muertos por los que se le llama. Si los personajes pueden hacerle entender que sus esfuerzos le ayudarán, Ras Nsi podría verse tentado a no interponerse en su camino.</p>",
+          "biography": "<p>La palabra «ras» es un título nobiliario parecido a «duque». Ras Nsi fue un paladín chultano, un Elegido de Ubtao que había jurado proteger la ciudad de Mezro. Traicionó sus juramentos y fue desterrado. Convertido en un señor de la guerra vengativo, intentó conquistar Mezro con un ejército de muertos vivientes, pero fue derrotado. En lugar de buscar la redención, buscó venganza y fue despojado de sus poderes divinos. La horda de muertos vivientes, ya fuera de su control, se dispersó por las selvas de Chult.</p><p>Nsi se retiró a Omu, se aferró a su título nobiliario y se alió con los yuan-ti que vivían allí. Se sometió a un horrible ritual que lo convirtió en un poderoso corrupto yuan-ti: conservó la cabeza y el torso humanos, pero la parte inferior de su cuerpo se volvió serpentina. Tras la desaparición de Ubtao, Ras Nsi y sus nuevos seguidores yuan-ti empezaron a buscar una forma de traer al mundo a Dendar, la Serpiente Nocturna. Acererak ha prometido ayudarlos a cambio de que Ras Nsi defienda la Tumba de los Nueve Dioses. En realidad, Acererak no tiene intención de cumplir el trato, y Ras Nsi empieza a sospecharlo.</p><p><em><strong>Colección extraña</strong></em>. Ras Nsi posee una considerable colección de prendas y accesorios de tierras lejanas, en su mayoría tomados de exploradores muertos. Incluye una fina capa cormyta, un frasco de vino sembiano y un jubón amniano enjoyado con un monedero a juego. También lleva una <em>@UUID[Compendium.dnd5e.items.Item.ducaFdrqwLZ0l3c7]{espada larga de lengua de fuego}</em>.</p><p><em><strong>Muerte lenta</strong></em>. Ras Nsi ha muerto y ha vuelto de entre los muertos más de una vez. Por ello, sufre los efectos de la maldición de muerte del Almero: sus puntos de golpe máximos se han reducido y su carne está cubierta de heridas leprosas. Irónicamente, desconoce que Acererak es el causante de la maldición, pues ni él ni los yuan-ti saben qué hay en la Tumba de los Nueve Dioses, aparte de las deidades muertas que le dan nombre. Si los personajes consiguen hacerle comprender que sus esfuerzos lo ayudarán, podría sentirse tentado a no interponerse en su camino.</p>",
           "effects": {
             "iXC8aZ71KhVimWyo": {
-              "name": "Armadura natural"
+              "name": "Armadura Natural"
             }
           }
         },
@@ -17333,7 +17333,7 @@
             },
             "lDpW1iuVY48eglkC": {
               "name": "Ras Nsi",
-              "text": "<p>@Embed[Actor.zwk4UdGbwhWumFqp caption=false cite=false]</p><aside><h2>Los rasgos de Ras Nsi</h2><p><em><strong>Ideal.</strong></em> “Busco traer el fin de este mundo y gobernar el próximo.”</p><p><em><strong>Bond.</strong></em> Los yuan-ti de Chul son míos para mandar. Me ayudarán a gobernar un imperio.</p><p><em><strong>Falla.</strong></em> Haré cualquier cosa y traicionaré a cualquiera para salvarme a mí mismo.</p><p></p></aside><img src=\"modules/dnd-tomb-annihilation/assets/journal-art/ras-nsi.webp\"><aside><p>@Embed[Actor.zwk4UdGbwhWumFqp caption=false cite=true statblock classes=\"double-column\"]</p></aside>"
+              "text": "<p>@Embed[Actor.zwk4UdGbwhWumFqp caption=false cite=false]</p><aside><h2>Atributos de Ras Nsi</h2><p><em><strong>Ideal.</strong></em> «Busco provocar el fin de este mundo y gobernar el siguiente».</p><p><em><strong>Vínculo.</strong></em> «Los yuan-ti de Chult están a mis órdenes. Me ayudarán a gobernar un imperio».</p><p><em><strong>Defecto.</strong></em> «Haré cualquier cosa y traicionaré a cualquiera para salvarme».</p><p></p></aside><img src=\"modules/dnd-tomb-annihilation/assets/journal-art/ras-nsi.webp\"><aside><p>@Embed[Actor.zwk4UdGbwhWumFqp caption=false cite=true statblock classes=\"double-column\"]</p></aside>"
             },
             "kcVVpGvfSYA2Csg3": {
               "text": "<p class=\"p1\">@Embed[Actor.iy8GSuiH23moWlLI caption=false cite=false]</p><p class=\"p1\">@Embed[Actor.iy8GSuiH23moWlLI caption=false cite=true statblock]</p>",
