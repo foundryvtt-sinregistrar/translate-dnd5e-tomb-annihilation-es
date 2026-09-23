@@ -59,27 +59,27 @@
     "0u3xDP2IbLytZiQY": {
       "alignment": "Sin alineamiento",
       "name": "Enjambre de insectos",
-      "tokenName": "Enjambre de centípedos",
-      "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
+      "tokenName": "Enjambre de ciempiés",
+      "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
       "items": {
         "jGCUdUnQs3nyBZLD": {
           "name": "Enjambre",
           "requirements": "Murciélagos",
-          "description": "<p>El enjambre puede ocupar el espacio de otra criatura y viceversa, y el enjambre puede moverse a través de cualquier abertura lo suficientemente grande para un insecto pequeño. El enjambre no puede recuperar<strong> puntos de impacto</strong> o obtener temporalmente<strong> puntos de impacto</strong>.</p>"
+          "description": "<p>El enjambre puede ocupar el espacio de otra criatura y viceversa, y puede atravesar cualquier abertura por la que quepa un insecto Diminuto. No puede recuperar<strong> puntos de golpe</strong> ni obtener<strong> puntos de golpe</strong> temporales.</p>"
         },
         "rq89IgmPVM24VqmC": {
           "name": "Mordiscos",
-          "description": "<p>Ataque de arma de cuerpo entero: [[/attack]], 0 pies, una criatura en el espacio del enjambre. Pulse: [[/damage average]] daños, o [[/damage average activity=KvQp71XohnYEr2jP]] daño si el enjambre tiene la mitad de sus puntos de impacto o menos.</p><p>Una criatura reducida a 0 puntos de impacto por un enjambre de ciempiés es estable, pero &amp;Reference[poisoned apply=false] durante 1 hora, incluso después de recuperar los puntos de impacto, y &amp;Reference[paralyzed apply=false]{paralizado} mientras que envenenado de esta manera.</p>",
-          "descriptionChat": "<p>El Enjambre de los Murciélagos ataca con una ráfaga de mordeduras.</p>",
+          "description": "<p>Ataque con arma cuerpo a cuerpo: [[/attack]], alcance 0 pies, una criatura en el espacio del enjambre. Impacto: [[/damage average]] de daño, o [[/damage average activity=KvQp71XohnYEr2jP]] de daño si al enjambre le quedan la mitad de sus puntos de golpe o menos.</p><p>Una criatura reducida a 0 puntos de golpe por un enjambre de ciempiés queda estable pero &amp;Reference[poisoned apply=false]{envenenada} durante 1 hora, incluso si recupera puntos de golpe, y &amp;Reference[paralyzed apply=false]{paralizada} mientras esté envenenada de esta forma.</p>",
+          "descriptionChat": "<p>El enjambre de murciélagos ataca con una sucesión de mordiscos.</p>",
           "activities": {
             "KvQp71XohnYEr2jP": {
-              "name": "Ataque sangriento"
+              "name": "Ataque con la mitad de PG o menos"
             }
           },
           "effects": {
             "Q0A5fcX9CkD8DAwj": {
-              "name": "Envenenado y Paralizado",
-              "description": "<p>Una criatura reducida a 0 puntos de impacto por un enjambre de ciempiés es estable, pero &amp;Reference[poisoned apply=false] durante 1 hora, incluso después de recuperar los puntos de impacto, y &amp;Reference[paralyzed apply=false]{paralizado} mientras que envenenado de esta manera.</p>"
+              "name": "Envenenado y paralizado",
+              "description": "<p>Una criatura reducida a 0 puntos de golpe por un enjambre de ciempiés queda estable pero &amp;Reference[poisoned apply=false]{envenenada} durante 1 hora, incluso si recupera puntos de golpe, y &amp;Reference[paralyzed apply=false]{paralizada} mientras esté envenenada de esta forma.</p>"
             }
           }
         }
@@ -675,29 +675,29 @@
     },
     "5kuLnMaUs9aKSQaC": {
       "alignment": "Sin alineamiento",
-      "name": "Enjambre de quippers",
-      "tokenName": "Enjambre de quippers",
-      "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
+      "name": "Enjambre de mordedores",
+      "tokenName": "Enjambre de mordedores",
+      "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
       "items": {
         "4Zbr0ZIgWS4WFshO": {
-          "name": "Frenesí de sangre",
-          "description": "<p>El enjambre tiene<strong> ventaja </strong>en el ataque cuerpo a cuerpo rueda contra cualquier criatura que no tiene todo su<strong> puntos de impacto</strong>.</p>"
+          "name": "Frenesí Sangriento",
+          "description": "<p>El enjambre tiene<strong> ventaja </strong>en las tiradas de ataque cuerpo a cuerpo contra cualquier criatura que no tenga todos sus<strong> puntos de golpe</strong>.</p>"
         },
         "QPJWgfVwJ8tu5zsa": {
           "name": "Enjambre",
-          "description": "<p>El enjambre puede ocupar el espacio de otra criatura y viceversa, y el enjambre puede moverse a través de cualquier abertura lo suficientemente grande como para un chirrido. El enjambre no puede recuperar<strong> puntos de impacto</strong> o obtener temporalmente<strong> puntos de impacto</strong>.</p>"
+          "description": "<p>El enjambre puede ocupar el espacio de otra criatura y viceversa, y puede atravesar cualquier abertura por la que quepa un mordedor Diminuto. No puede recuperar<strong> puntos de golpe</strong> ni obtener<strong> puntos de golpe</strong> temporales.</p>"
         },
         "oAc2jxMRMdek0hTs": {
-          "name": "Respiración de agua",
-          "description": "<p>El enjambre sólo puede respirar bajo el agua.</p>"
+          "name": "Respirar bajo el Agua",
+          "description": "<p>El enjambre solo puede respirar bajo el agua.</p>"
         },
         "hZiOYQNCqAFq0sD6": {
           "name": "Mordiscos",
-          "description": "<p>Ataque de arma de cuerpo entero: [[/attack]], 0 pies, una criatura en el espacio del enjambre. Pulse: [[/damage average]] daños, o [[/damage 2d6 piercing average]] daño si el enjambre tiene la mitad de sus puntos de impacto o menos.</p>",
-          "descriptionChat": "<p>El Enjambre de Quippers ataca con una ráfaga de mordeduras.</p>",
+          "description": "<p>Ataque con arma cuerpo a cuerpo: [[/attack]], alcance 0 pies, una criatura en el espacio del enjambre. Impacto: [[/damage average]] de daño, o [[/damage 2d6 piercing average]] de daño si al enjambre le quedan la mitad de sus puntos de golpe o menos.</p>",
+          "descriptionChat": "<p>El enjambre de mordedores ataca con una sucesión de mordiscos.</p>",
           "activities": {
             "mzewLgLyjqC0IMC4": {
-              "name": "Ataque sangriento"
+              "name": "Ataque con la mitad de PG o menos"
             }
           }
         }
@@ -1395,40 +1395,40 @@
     },
     "Al5hkNPf9bunyFIw": {
       "alignment": "Sin alineamiento",
-      "name": "Enjambre de arañas no muertas",
-      "tokenName": "Enjambre de arañas no muertas",
-      "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
+      "name": "Enjambre de arañas muertas vivientes",
+      "tokenName": "Enjambre de arañas muertas vivientes",
+      "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
       "items": {
         "72ha7NWOEA4qIOdY": {
           "name": "Enjambre",
-          "description": "<p>El enjambre puede ocupar el espacio de otra criatura y viceversa, y el enjambre puede moverse a través de cualquier abertura lo suficientemente grande para un insecto pequeño. El enjambre no puede recuperar<strong> puntos de impacto</strong> o obtener temporalmente<strong> puntos de impacto</strong>.</p>"
+          "description": "<p>El enjambre puede ocupar el espacio de otra criatura y viceversa, y puede atravesar cualquier abertura por la que quepa un insecto Diminuto. No puede recuperar<strong> puntos de golpe</strong> ni obtener<strong> puntos de golpe</strong> temporales.</p>"
         },
         "qoIR278ckqhlVaNr": {
           "name": "Mordiscos",
-          "description": "<p>Ataque de arma de cuerpo entero: [[/attack]], 0 pies, un objetivo en el espacio del enjambre. Pulse: [[/damage average]] daños, o [[/damage average activity=lQexfeHMZWU4pAqi]] daño si el enjambre tiene la mitad de sus puntos de impacto o menos.</p>",
-          "descriptionChat": "<p>El Enjambre de las Arañas ataca con una ráfaga de mordeduras.</p>",
+          "description": "<p>Ataque con arma cuerpo a cuerpo: [[/attack]], alcance 0 pies, un objetivo en el espacio del enjambre. Impacto: [[/damage average]] de daño, o [[/damage average activity=lQexfeHMZWU4pAqi]] de daño si al enjambre le quedan la mitad de sus puntos de golpe o menos.</p>",
+          "descriptionChat": "<p>El enjambre de arañas ataca con una sucesión de mordiscos.</p>",
           "activities": {
             "lQexfeHMZWU4pAqi": {
-              "name": "Ataque medio PG o menos"
+              "name": "Ataque con la mitad de PG o menos"
             }
           }
         },
         "KYBcEhA6mh3gqPG8": {
-          "name": "Escalada de arañas",
-          "description": "<p>El enjambre puede escalar superficies difíciles, incluso boca abajo en los techos, sin necesidad de hacer un control de capacidad.</p>"
+          "name": "Trepar cual Arácnido",
+          "description": "<p>El enjambre puede trepar por superficies difíciles, incluso boca abajo por el techo, sin realizar pruebas de característica.</p>"
         },
         "LPkqp4g22PENqi8b": {
-          "name": "Sentido web",
-          "description": "<p>Mientras está en contacto con una web, el enjambre conoce la ubicación exacta de cualquier otra criatura en contacto con la misma web.</p>"
+          "name": "Sentir Telarañas",
+          "description": "<p>Mientras esté en contacto con una telaraña, el enjambre conoce la ubicación exacta de cualquier otra criatura en contacto con esa misma telaraña.</p>"
         },
         "KyittoVFeC2HA9By": {
           "name": "Andar por telarañas",
-          "description": "<p>El enjambre ignora las restricciones de movimiento causadas por la telaraña.</p>"
+          "description": "<p>El enjambre ignora las restricciones al movimiento causadas por las telarañas.</p>"
         },
         "xv6BTCN8ighxq5pZ": {
-          "name": "Fortaleza de muertos vivientes",
-          "description": "<p>Si el daño reduce el enjambre a 0 puntos de impacto, debe hacer un lanzamiento ahorro Constitución con un CD de 5 + el daño tomado, a menos que el daño sea radiante o de un impacto crítico. En un éxito, el enjambre cae a 1 punto de impacto en su lugar.</p>",
-          "descriptionChat": "<p>Si el daño reduce el zombi a <strong>0 puntos de impacto</strong>, debe hacer un <strong>Constitución</strong> El lanzamiento de ahorro.</p>"
+          "name": "Fortaleza de Muerto Viviente",
+          "description": "<p>Si el daño reduce al enjambre a 0 puntos de golpe, debe realizar una tirada de salvación de Constitución con una CD de 5 + el daño sufrido, salvo que el daño sea radiante o proceda de un crítico. Si tiene éxito, se queda en 1 punto de golpe en su lugar.</p>",
+          "descriptionChat": "<p>Si el daño reduce al enjambre a <strong>0 puntos de golpe</strong>, debe realizar una tirada de salvación de <strong>Constitución</strong>.</p>"
         }
       }
     },
@@ -1886,19 +1886,19 @@
     },
     "FSk7ICwLVkNZIB97": {
       "alignment": "Sin alineamiento",
-      "name": "Enjambre de centípedos",
-      "tokenName": "Enjambre de centípedos",
-      "biography": "<p>\n        <em>\n          Token artwork by\n          <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Aventuras olvidadas</a>.\n        </em>\n      </p><p>\n        <em>\n          Token artwork by\n          <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Aventuras olvidadas</a>.\n        </em>\n      </p>",
+      "name": "Enjambre de ciempiés",
+      "tokenName": "Enjambre de ciempiés",
+      "biography": "<p>\n        <em>\n          Ilustración de la ficha por\n          <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.\n        </em>\n      </p><p>\n        <em>\n          Ilustración de la ficha por\n          <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.\n        </em>\n      </p>",
       "items": {
         "jGCUdUnQs3nyBZLD": {
           "name": "Enjambre",
           "requirements": "Murciélagos",
-          "description": "<p>El enjambre puede ocupar el espacio de otra criatura y viceversa, y el enjambre puede moverse a través de cualquier abertura lo suficientemente grande para un insecto pequeño. El enjambre no puede recuperar<strong> puntos de impacto</strong> o obtener temporalmente<strong> puntos de impacto</strong>.</p>"
+          "description": "<p>El enjambre puede ocupar el espacio de otra criatura y viceversa, y puede atravesar cualquier abertura por la que quepa un insecto Diminuto. No puede recuperar<strong> puntos de golpe</strong> ni obtener<strong> puntos de golpe</strong> temporales.</p>"
         },
         "E6zkvUOJARx1t0nc": {
           "name": "Mordiscos",
-          "description": "<p><em>Ataque de arma de cuerpo entero:</em><strong>+3 a golpe,</strong>, <strong>0 pies,</strong> Un objetivo en el espacio del enjambre. Pulse: <strong>10 (4d4) <em>daño por perforación</em></strong>o bien <strong>5 (2d4) <em>daño por perforación</em></strong> si el enjambre tiene la mitad de sus puntos de impacto o menos.</p><p>Una criatura reducida a 0 puntos de impacto por un enjambre de ciempiés es estable pero envenenada durante 1 hora, incluso después de recuperar puntos de impacto, y paralizada mientras que envenenada de esta manera.</p>",
-          "descriptionChat": "<p>El Enjambre de los Centípedos ataca con una ráfaga de mordeduras.</p>"
+          "description": "<p><em>Ataque con arma cuerpo a cuerpo:</em><strong>+3 a impactar</strong>, alcance <strong>0 pies</strong>, un objetivo en el espacio del enjambre. Impacto: <strong>10 (4d4) de <em>daño perforante</em></strong>, o <strong>5 (2d4) de <em>daño perforante</em></strong> si al enjambre le quedan la mitad de sus puntos de golpe o menos.</p><p>Una criatura reducida a 0 puntos de golpe por un enjambre de ciempiés queda estable pero envenenada durante 1 hora, incluso si recupera puntos de golpe, y paralizada mientras esté envenenada de esta forma.</p>",
+          "descriptionChat": "<p>El enjambre de ciempiés ataca con una sucesión de mordiscos.</p>"
         }
       }
     },
@@ -3360,13 +3360,13 @@
     },
     "ScPUoHQys35roiVD": {
       "alignment": "Sin alineamiento",
-      "languages": "--",
-      "name": "Enjambre de los grubs podridos",
-      "tokenName": "Enjambre de los grubs podridos",
+      "languages": "—",
+      "name": "Enjambre de gusanos de la podredumbre",
+      "tokenName": "Enjambre de gusanos de la podredumbre",
       "items": {
         "znuSBHhkcv8vMVC2": {
           "name": "Mordiscos",
-          "description": "<p><em>Ataque de arma de cuerpo entero:</em> [[/attack]] para golpear, alcanzar 0 pies, una criatura en el espacio del enjambre. <em>Impacto</em>: El objetivo está infestado por [[/r 1d4]] larvas podridas.</p><p>Al inicio de cada uno de los giros del objetivo, el objetivo toma [[/damage average activity=c4zHFE91eCcPNQvF]] daño por la larva podrida infestándolo. Aplicar fuego a la herida de mordida antes de que finalice el próximo turno del objetivo hace 1 daño al fuego en el objetivo y mata estas larvas podridas. Después de este tiempo, estas larvas podridas están demasiado lejos bajo la piel para quemarse.</p><p>Si un blanco infestado por larvas podridas termina su turno con 0 puntos de impacto, muere mientras las larvas podridas se hunden en su corazón y lo matan.</p><p>Cualquier efecto que cure la enfermedad mata todas las larvas podridas que infestan al objetivo.</p><section class=\"secret\" id=\"secret-RCS13pab0B68zgDN\"><p><strong>Nota de Foundry</strong></p><p>El daño está configurado para escalar basado en el número de larvas podridas que muerden el objetivo (máximo de 4).</p></section>",
+          "description": "<p><em>Ataque con arma cuerpo a cuerpo:</em> [[/attack]] a impactar, alcance 0 pies, una criatura en el espacio del enjambre. <em>Impacto</em>: El objetivo queda infestado por [[/r 1d4]] gusanos de la podredumbre.</p><p>Al comienzo de cada uno de sus turnos, el objetivo sufre [[/damage average activity=c4zHFE91eCcPNQvF]] de daño por cada gusano que lo infeste. Aplicar fuego a la herida antes del final del siguiente turno del objetivo le causa 1 de daño de fuego y mata a esos gusanos. Después, se han internado demasiado bajo la piel como para quemarlos.</p><p>Si un objetivo infestado termina su turno con 0 puntos de golpe, muere cuando los gusanos llegan a su corazón y lo matan.</p><p>Cualquier efecto que cure enfermedades mata a todos los gusanos de la podredumbre que infesten al objetivo.</p><section class=\"secret\" id=\"secret-RCS13pab0B68zgDN\"><p><strong>Nota de Foundry</strong></p><p>El daño está configurado para aumentar según el número de gusanos que muerdan al objetivo, hasta un máximo de 4.</p></section>",
           "activities": {
             "dwCgEHmIz1rOfD8O": {
               "name": "Cantidad de gusanos de la podredumbre",
@@ -3378,7 +3378,7 @@
         },
         "ir8iMHGqTvwA5nOH": {
           "name": "Enjambre",
-          "description": "<p>El enjambre puede ocupar el espacio de otra criatura y viceversa, y el enjambre puede moverse a través de cualquier abertura lo suficientemente grande como para un gusano pequeño. El enjambre no puede recuperar puntos de impacto ni ganar puntos de impacto temporales.</p>"
+          "description": "<p>El enjambre puede ocupar el espacio de otra criatura y viceversa, y puede atravesar cualquier abertura por la que quepa un gusano Diminuto. No puede recuperar puntos de golpe ni obtener puntos de golpe temporales.</p>"
         }
       }
     },
@@ -4334,17 +4334,17 @@
       "alignment": "Sin alineamiento",
       "name": "Enjambre de serpientes venenosas",
       "tokenName": "Enjambre de serpientes venenosas",
-      "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
+      "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
       "items": {
         "SFmH90jkxaUoPJjk": {
           "name": "Enjambre",
           "requirements": "Murciélagos",
-          "description": "<p>El enjambre puede ocupar el espacio de otra criatura y viceversa, y el enjambre puede moverse a través de cualquier abertura lo suficientemente grande como para una serpiente pequeña. El enjambre no puede recuperar<strong> puntos de impacto</strong> o obtener temporalmente<strong> puntos de impacto</strong>.</p>"
+          "description": "<p>El enjambre puede ocupar el espacio de otra criatura y viceversa, y puede atravesar cualquier abertura por la que quepa una serpiente Diminuta. No puede recuperar<strong> puntos de golpe</strong> ni obtener<strong> puntos de golpe</strong> temporales.</p>"
         },
         "OyLoUiIl3p2j4p59": {
           "name": "Mordiscos",
-          "description": "<p>Ataque de arma de cuerpo entero: [[/attack]], 0 pies, una criatura en el espacio del enjambre. Pulse: [[/damage average]] daños, o [[/damage 1d6 piercing average]] daño si el enjambre tiene la mitad de sus puntos de impacto o menos.</p><p>El objetivo debe hacer un [[/save]] ahorro lanzamiento, toma [[/damage average activity=dnd5eactivity100]] daño en un error de guardar, o la mitad de daño en un éxito.</p>",
-          "descriptionChat": "<p>El enjambre de serpientes venenosas ataca con una ráfaga de mordeduras. El objetivo debe hacer un <strong>Constitución</strong> El lanzamiento de ahorro.</p>"
+          "description": "<p>Ataque con arma cuerpo a cuerpo: [[/attack]], alcance 0 pies, una criatura en el espacio del enjambre. Impacto: [[/damage average]] de daño, o [[/damage 1d6 piercing average]] de daño si al enjambre le quedan la mitad de sus puntos de golpe o menos.</p><p>El objetivo debe realizar una tirada de salvación [[/save]]. Si falla, sufre [[/damage average activity=dnd5eactivity100]] de daño; si tiene éxito, sufre la mitad.</p>",
+          "descriptionChat": "<p>El enjambre de serpientes venenosas ataca con una sucesión de mordiscos. El objetivo debe realizar una tirada de salvación de <strong>Constitución</strong>.</p>"
         }
       }
     },
@@ -15365,32 +15365,32 @@
       "alignment": "Sin alineamiento",
       "name": "Enjambre de murciélagos",
       "tokenName": "Enjambre de murciélagos",
-      "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
+      "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
       "items": {
         "0NpX1YUDTXjgIm23": {
           "name": "Mordiscos",
-          "description": "<p>Ataque de arma de cuerpo entero: [[/attack]], 0 pies, una criatura en el espacio del enjambre. Pulse: [[/damage average]] daños, o [[/damage average activity=KvQp71XohnYEr2jP]] daño si el enjambre tiene la mitad de sus puntos de impacto o menos.</p>",
-          "descriptionChat": "<p>El Enjambre de los Murciélagos ataca con una ráfaga de mordeduras.</p>",
+          "description": "<p>Ataque con arma cuerpo a cuerpo: [[/attack]], alcance 0 pies, una criatura en el espacio del enjambre. Impacto: [[/damage average]] de daño, o [[/damage average activity=KvQp71XohnYEr2jP]] de daño si al enjambre le quedan la mitad de sus puntos de golpe o menos.</p>",
+          "descriptionChat": "<p>El enjambre de murciélagos ataca con una sucesión de mordiscos.</p>",
           "activities": {
             "KvQp71XohnYEr2jP": {
-              "name": "Ataque sangriento"
+              "name": "Ataque con la mitad de PG o menos"
             }
           }
         },
         "cBVltbg8hNBBuTZ7": {
           "name": "Enjambre",
           "requirements": "Murciélagos",
-          "description": "<p>El enjambre puede ocupar el espacio de otra criatura y viceversa, y el enjambre puede moverse a través de cualquier abertura lo suficientemente grande para un murciélago pequeño. El enjambre no puede recuperar<strong> puntos de impacto</strong> o obtener temporalmente<strong> puntos de impacto</strong>.</p>"
+          "description": "<p>El enjambre puede ocupar el espacio de otra criatura y viceversa, y puede atravesar cualquier abertura por la que quepa un murciélago Diminuto. No puede recuperar<strong> puntos de golpe</strong> ni obtener<strong> puntos de golpe</strong> temporales.</p>"
         },
         "AKRFqSGc4D9j3Mhl": {
           "name": "Oído agudo",
           "requirements": "Murciélagos",
-          "description": "<p>El enjambre tiene<strong> ventaja </strong>en la Sabiduría (percepción) controles que dependen de la audición.</p>"
+          "description": "<p>El enjambre tiene<strong> ventaja </strong>en las pruebas de Sabiduría (Percepción) que dependan del oído.</p>"
         },
         "tRdXVBesxDaXdhqP": {
           "name": "Ecolocalización",
           "requirements": "Murciélagos",
-          "description": "<p>El enjambre no puede usar su vista ciega mientras está ensordecido.</p>"
+          "description": "<p>El enjambre no puede usar su visión ciega mientras esté ensordecido.</p>"
         }
       }
     },
