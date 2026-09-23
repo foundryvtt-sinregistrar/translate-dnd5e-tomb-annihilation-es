@@ -1317,32 +1317,32 @@
       "items": {
         "cac4FpQc3XabBwTj": {
           "name": "Ataque múltiple",
-          "description": "<p>El matón hace dos ataques cuerpo a cuerpo.</p>"
+          "description": "<p>El matón realiza dos ataques cuerpo a cuerpo.</p>"
         },
         "9INT7D1zulhfsok7": {
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
           "name": "Ballesta pesada",
-          "descriptionChat": "<p>Los Thug atacan con su ballesta pesada.</p>"
+          "descriptionChat": "<p>El matón ataca con su ballesta pesada.</p>"
         },
         "6gRu9IFFkvxesFfK": {
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
           "name": "Maza",
-          "descriptionChat": "<p>Los Thug atacan con sus Mace.</p>"
+          "descriptionChat": "<p>El matón ataca con su maza.</p>"
         },
         "wonRQjOkc9E7RYtd": {
           "name": "Armadura de cuero",
-          "description": "<p>La coraza y los protectores de hombro de esta armadura están hechos de cuero que ha sido endurecido por ser hervido en aceite. El resto de la armadura está hecha de materiales más suaves y flexibles.</p>"
+          "description": "<p>El peto y las hombreras de esta armadura están hechos de cuero endurecido al hervirlo en aceite. El resto de la armadura se fabrica con materiales más blandos y flexibles.</p>"
         },
         "OE8y8otGDFop6Fzt": {
-          "name": "Tácticas de empaquetado",
-          "description": "<p>El matón tiene<strong> ventaja </strong>en un ataque rodar contra una criatura si al menos uno de los aliados del matón está dentro <strong>5 pies.</strong> de la criatura y el aliado no está incapacitado.</p>"
+          "name": "Atacar en Manada",
+          "description": "<p>El matón tiene<strong> ventaja </strong>en una tirada de ataque contra una criatura si al menos uno de sus aliados está a <strong>5 pies</strong> o menos de ella y no está incapacitado.</p>"
         }
       },
       "name": "Matón",
-      "alignment": "Cualquier alineación no buena",
-      "languages": "cualquier idioma (generalmente común)",
+      "alignment": "Cualquier alineamiento no bueno",
+      "languages": "Un idioma cualquiera (normalmente común)",
       "tokenName": "Matón",
-      "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+      "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
     },
     "AiqSe9qt2xK3JX2H": {
       "alignment": "Sin alineamiento",
@@ -1925,14 +1925,14 @@
         "HwktDnB8qdr0BYGZ": {
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
           "name": "Garrote",
-          "descriptionChat": "<p>El Común ataca con su Club.</p>"
+          "descriptionChat": "<p>El plebeyo ataca con su garrote.</p>"
         }
       },
-      "name": "Masculino",
-      "alignment": "Cualquiera",
-      "languages": "cualquier idioma (generalmente común)",
-      "tokenName": "Más frecuente",
-      "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+      "name": "Plebeyo",
+      "alignment": "Cualquier alineamiento",
+      "languages": "Un idioma cualquiera (normalmente común)",
+      "tokenName": "Plebeyo",
+      "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
     },
     "HQJedCnkTg7qig36": {
       "alignment": "Neutral",
@@ -2212,7 +2212,7 @@
       "items": {
         "NAmhPf8w89iV8CsY": {
           "name": "Ataque múltiple",
-          "description": "<p>El espía hace dos ataques cuerpo a cuerpo.</p>"
+          "description": "<p>El espía realiza dos ataques cuerpo a cuerpo.</p>"
         },
         "BhYnUUBoU3ESkl1B": {
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
@@ -2221,22 +2221,22 @@
         },
         "q6pfCQyaPQSw2waZ": {
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-          "name": "Ballesa de mano",
-          "descriptionChat": "<p>El espía ataca con su ballesta de manos.</p>"
+          "name": "Ballesta de mano",
+          "descriptionChat": "<p>El espía ataca con su ballesta de mano.</p>"
         },
         "93TfWPoMzBoaneMx": {
-          "name": "Acción astuta",
-          "description": "<p>En cada uno de sus turnos, el espía puede usar una acción adicional para tomar el guión, desactivar u ocultar la acción.</p>"
+          "name": "Acción Astuta",
+          "description": "<p>En cada uno de sus turnos, el espía puede usar una acción adicional para Correr, Destrabarse o Esconderse.</p>"
         },
         "TEgU7pKAAA0f35Yw": {
-          "name": "Ataque furtivo",
-          "description": "<p>El espía hace un daño adicional de 7 (2d6) cuando golpea un objetivo con un ataque de arma y tiene ventaja en el rollo de ataque, o cuando el objetivo está a menos de 5 pies de un aliado del espía que no está incapacitado y el espía no tiene desventaja en el rollo de ataque.</p>"
+          "name": "Ataque Furtivo",
+          "description": "<p>El espía causa 7 (2d6) de daño adicional cuando impacta a un objetivo con un ataque con arma y tiene ventaja en la tirada de ataque, o cuando el objetivo está a 5 pies o menos de un aliado del espía que no esté incapacitado y el espía no tiene desventaja en la tirada de ataque.</p>"
         }
       },
-      "alignment": "Cualquier alineación",
+      "alignment": "Cualquier alineamiento",
       "creatureSubtype": "Cualquier raza",
-      "languages": "dos cualquiera",
-      "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+      "languages": "Dos idiomas cualesquiera",
+      "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
     },
     "J6yWqkj0lotaRnTh": {
       "name": "Zombi",
@@ -2483,24 +2483,24 @@
         "4oIyAj7rN5JbTjDZ": {
           "name": "Cimitarra",
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-          "descriptionChat": "<p>El Bandido ataca con su Scimitar.</p>"
+          "descriptionChat": "<p>La bandida ataca con su cimitarra.</p>"
         },
         "hSxEhrT9CFdLG40m": {
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
           "name": "Ballesta ligera",
-          "descriptionChat": "<p>El Bandido ataca con su ballesta de luz.</p>"
+          "descriptionChat": "<p>La bandida ataca con su ballesta ligera.</p>"
         },
         "pByEnV0Y7QOI0ndA": {
           "name": "Armadura de cuero",
-          "description": "<p>La coraza y los protectores de hombro de esta armadura están hechos de cuero que ha sido endurecido por ser hervido en aceite. El resto de la armadura está hecha de materiales más suaves y flexibles.</p>"
+          "description": "<p>El peto y las hombreras de esta armadura están hechos de cuero endurecido al hervirlo en aceite. El resto de la armadura se fabrica con materiales más blandos y flexibles.</p>"
         }
       },
-      "name": "Bandida (mujer)",
-      "alignment": "Cualquier persona que no sea legal",
+      "name": "Bandida",
+      "alignment": "Cualquier alineamiento no legal",
       "creatureSubtype": "Humano",
-      "languages": "cualquier idioma (generalmente común)",
-      "tokenName": "Bandido",
-      "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+      "languages": "Un idioma cualquiera (normalmente común)",
+      "tokenName": "Bandida",
+      "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
     },
     "LGOEeAdUizQZYcEy": {
       "alignment": "Caótico bueno",
@@ -2749,42 +2749,42 @@
       "items": {
         "46b7R0DbKIsxvWcv": {
           "name": "Ataque múltiple",
-          "description": "<p>El caballero hace dos ataques cuerpo a cuerpo.</p>"
+          "description": "<p>El caballero realiza dos ataques cuerpo a cuerpo.</p>"
         },
         "iPLa96izrYFiVtaO": {
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-          "name": "Espada grande",
-          "descriptionChat": "<p>El Caballero ataca con su Gran Espada.</p>"
+          "name": "Espadón",
+          "descriptionChat": "<p>El caballero ataca con su espadón.</p>"
         },
         "m68xw5aGQ7awxfYf": {
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
           "name": "Ballesta pesada",
-          "descriptionChat": "<p>El Caballero ataca con su ballesta pesada.</p>"
+          "descriptionChat": "<p>El caballero ataca con su ballesta pesada.</p>"
         },
         "Y4OikSWAB33cwfR2": {
-          "name": "Armadura de placa",
-          "description": "<p>La placa consiste en placas metálicas en forma, entrelazadas para cubrir todo el cuerpo. Un traje de placa incluye guanteletes, botas de cuero pesado, un casco visera, y capas gruesas de relleno debajo de la armadura. Hebillas y correas distribuyen el peso sobre el cuerpo.</p>"
+          "name": "Armadura de placas",
+          "description": "<p>Esta armadura cubre todo el cuerpo con placas metálicas moldeadas y encajadas entre sí. Incluye guanteletes, botas de cuero grueso, un yelmo con visera y gruesas capas de acolchado bajo las placas. Las hebillas y correas distribuyen el peso por todo el cuerpo.</p>"
         },
         "FK0ZF8egty0u713z": {
           "name": "Liderazgo",
-          "description": "<p>Durante 1 minuto, el caballero puede emitir un comando o advertencia especial cuando una criatura no hostil que puede ver a menos de 30 pies de distancia hace un rollo de ataque o un lanzamiento de ahorro. La criatura puede añadir un d4 a su rollo siempre que pueda oír y entender al caballero. Una criatura puede beneficiarse de un solo Liderazgo morir a la vez. Este efecto termina si el caballero está incapacitado.</p>"
+          "description": "<p>Durante 1 minuto, el caballero puede dar una orden o advertencia especial siempre que una criatura no hostil que pueda ver a 30 pies o menos realice una tirada de ataque o de salvación. La criatura puede añadir un d4 a su tirada si puede oír y entender al caballero. Solo puede beneficiarse de un dado de Liderazgo a la vez. El efecto termina si el caballero queda incapacitado.</p>"
         },
         "AxY9pWHDr2M1SPCC": {
           "name": "Parada",
-          "description": "<p>El caballero añade 2 a su <strong>CA</strong> contra un ataque que lo golpearía. Para hacerlo, el caballero debe ver al atacante y estar empuñando un arma de combate.</p>",
-          "descriptionChat": "<p>El caballero añade 2 a su <strong>CA</strong> contra un ataque que lo golpearía.</p>"
+          "description": "<p>El caballero añade 2 a su <strong>CA</strong> contra un ataque cuerpo a cuerpo que fuera a impactarlo. Para hacerlo, debe ver al atacante y empuñar un arma cuerpo a cuerpo.</p>",
+          "descriptionChat": "<p>El caballero añade 2 a su <strong>CA</strong> contra un ataque cuerpo a cuerpo que fuera a impactarlo.</p>"
         },
         "Sp9AkcXsLCN09C9v": {
           "name": "Valiente",
-          "description": "<p>El caballero tiene<strong> ventaja </strong>en los lanzamientos de ahorro en contra de tener miedo.</p>"
+          "description": "<p>El caballero tiene<strong> ventaja </strong>en las tiradas de salvación para evitar estar asustado.</p>"
         }
       },
       "name": "Caballero",
-      "alignment": "Cualquier alineación",
+      "alignment": "Cualquier alineamiento",
       "creatureSubtype": "Cualquier raza",
-      "languages": "cualquier idioma (generalmente común)",
+      "languages": "Un idioma cualquiera (normalmente común)",
       "tokenName": "Caballero",
-      "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+      "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
     },
     "Liyu5seJY0WL3Sf8": {
       "alignment": "Neutral malvado",
@@ -3061,12 +3061,12 @@
       "items": {
         "WaEunPCFG0EddNTt": {
           "name": "Espada larga",
-          "description": "<p>[[/attack extended]]. [[/damage extended average]] o [[/damage twoHanded average]] si se usa con dos manos.</p>",
-          "descriptionChat": "<p>Los veteranos atacan con su Longsword.</p>"
+          "description": "<p>[[/attack extended]]. [[/damage extended average]] o [[/damage twoHanded average]] si se empuña a dos manos.</p>",
+          "descriptionChat": "<p>El veterano ataca con su espada larga.</p>"
         },
         "wziRdUn3HafZKJ8o": {
           "name": "Ataque múltiple",
-          "description": "<p>Los [[lookup @name lowercase]] Hace dos. [[/item Longsword]] ataques. Si tiene una breve palabra dibujada, también puede hacer un [[/item Shortsword]] ataque.</p>"
+          "description": "<p>El [[lookup @name lowercase]] realiza dos ataques con [[/item Longsword]]{Espada larga}. Si tiene desenvainada una espada corta, también puede realizar un ataque con [[/item Shortsword]]{Espada corta}.</p>"
         },
         "cXf5q5xw30ICGxZg": {
           "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
@@ -3079,16 +3079,16 @@
           "descriptionChat": "<p>El veterano ataca con su ballesta pesada.</p>"
         },
         "0otc04A190Q8hTBK": {
-          "name": "Armadura de férula",
-          "description": "<p>Esta armadura está hecha de tiras verticales estrechas de metal remachado a un respaldo de cuero que se lleva sobre el acolchado de tela. La malla flexible protege las articulaciones.</p>"
+          "name": "Armadura de bandas",
+          "description": "<p>Esta armadura está hecha de estrechas tiras verticales de metal remachadas sobre una base de cuero que se lleva encima de un acolchado de tela. Una malla flexible protege las articulaciones.</p>"
         }
       },
       "name": "Veterano",
-      "alignment": "Cualquier alineación",
+      "alignment": "Cualquier alineamiento",
       "creatureSubtype": "Cualquier raza",
-      "languages": "cualquier idioma (generalmente común)",
+      "languages": "Un idioma cualquiera (normalmente común)",
       "tokenName": "Veterano",
-      "biography": "<p><em>Token artwork by </em><a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\"><em>Aventuras olvidadas</em></a><em>.</em></p>"
+      "biography": "<p><em>Ilustración de la ficha por </em><a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\"><em>Forgotten Adventures</em></a><em>.</em></p>"
     },
     "N7co8xylyl3DXM9s": {
       "items": {
@@ -3415,14 +3415,14 @@
         "HwktDnB8qdr0BYGZ": {
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
           "name": "Garrote",
-          "descriptionChat": "<p>El Común ataca con su Club.</p>"
+          "descriptionChat": "<p>La plebeya ataca con su garrote.</p>"
         }
       },
-      "name": "Más frecuente (mujer)",
-      "alignment": "Cualquiera",
-      "languages": "cualquier idioma (generalmente común)",
-      "tokenName": "Más frecuente",
-      "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+      "name": "Plebeya",
+      "alignment": "Cualquier alineamiento",
+      "languages": "Un idioma cualquiera (normalmente común)",
+      "tokenName": "Plebeya",
+      "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
     },
     "Sv7IxjB2Nq6n9Yu7": {
       "alignment": "Caótico malvado",
@@ -3844,23 +3844,23 @@
         "4oIyAj7rN5JbTjDZ": {
           "name": "Cimitarra",
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-          "descriptionChat": "<p>El Bandido ataca con su Scimitar.</p>"
+          "descriptionChat": "<p>El bandido ataca con su cimitarra.</p>"
         },
         "hSxEhrT9CFdLG40m": {
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
           "name": "Ballesta ligera",
-          "descriptionChat": "<p>El Bandido ataca con su ballesta de luz.</p>"
+          "descriptionChat": "<p>El bandido ataca con su ballesta ligera.</p>"
         },
         "pByEnV0Y7QOI0ndA": {
           "name": "Armadura de cuero",
-          "description": "<p>La coraza y los protectores de hombro de esta armadura están hechos de cuero que ha sido endurecido por ser hervido en aceite. El resto de la armadura está hecha de materiales más suaves y flexibles.</p>"
+          "description": "<p>El peto y las hombreras de esta armadura están hechos de cuero endurecido al hervirlo en aceite. El resto de la armadura se fabrica con materiales más blandos y flexibles.</p>"
         }
       },
       "name": "Bandido",
-      "alignment": "Cualquier persona que no sea legal",
-      "languages": "cualquier idioma (generalmente común)",
+      "alignment": "Cualquier alineamiento no legal",
+      "languages": "Un idioma cualquiera (normalmente común)",
       "tokenName": "Bandido",
-      "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+      "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
     },
     "WlOybkbZ3B6Orhj6": {
       "alignment": "Sin alineamiento",
@@ -4311,24 +4311,24 @@
         "f12lOXuMaI21HDrz": {
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
           "name": "Estoque",
-          "descriptionChat": "<p>Los Nobles atacan con su Rapier.</p>"
+          "descriptionChat": "<p>El noble ataca con su estoque.</p>"
         },
         "87olpriernjyGLbC": {
           "name": "Coraza",
-          "description": "<p>Esta armadura consta de una pieza metálica de pecho que se usa con cuero flexible. Aunque deja las piernas y los brazos relativamente desprotegidos, esta armadura proporciona una buena protección para los órganos vitales del usuario mientras que deja al portador relativamente sin compromiso.</p>"
+          "description": "<p>Esta armadura consta de una pieza de metal ajustada al torso que se lleva sobre cuero flexible. Aunque deja los brazos y las piernas relativamente desprotegidos, protege bien los órganos vitales sin entorpecer demasiado los movimientos.</p>"
         },
         "HhLmdqeivyDnsemN": {
           "name": "Parada",
-          "description": "<p>El noble añade 2 a su <strong>CA</strong> contra un ataque que lo golpearía. Para ello, el noble debe ver al atacante y estar empuñando un arma de combate.</p>",
-          "descriptionChat": "<p>El noble añade 2 a su <strong>CA</strong> contra un ataque que lo golpearía.</p>"
+          "description": "<p>El noble añade 2 a su <strong>CA</strong> contra un ataque cuerpo a cuerpo que fuera a impactarlo. Para hacerlo, debe ver al atacante y empuñar un arma cuerpo a cuerpo.</p>",
+          "descriptionChat": "<p>El noble añade 2 a su <strong>CA</strong> contra un ataque cuerpo a cuerpo que fuera a impactarlo.</p>"
         }
       },
       "name": "Noble",
-      "alignment": "Cualquier alineación",
+      "alignment": "Cualquier alineamiento",
       "creatureSubtype": "Cualquier raza",
-      "languages": "cualesquiera dos idiomas",
+      "languages": "Dos idiomas cualesquiera",
       "tokenName": "Noble",
-      "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+      "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
     },
     "ajS7dznOBkomayIc": {
       "alignment": "Sin alineamiento",
@@ -4550,32 +4550,32 @@
       "items": {
         "YO57HtdvpuGxJANB": {
           "name": "Ataque múltiple",
-          "description": "<p>El explorador hace dos ataques cuerpo a cuerpo o dos ataques de alcance.</p>"
+          "description": "<p>El batidor realiza dos ataques cuerpo a cuerpo o dos ataques a distancia.</p>"
         },
         "YDoOa6D6QDoR2Htu": {
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
           "name": "Espada corta",
-          "descriptionChat": "<p>El Scout ataca con su espada corta.</p>"
+          "descriptionChat": "<p>El batidor ataca con su espada corta.</p>"
         },
         "E2fYrhLigMeVH09l": {
           "name": "Arco largo",
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-          "descriptionChat": "<p>El Scout ataca con su Longbow.</p>"
+          "descriptionChat": "<p>El batidor ataca con su arco largo.</p>"
         },
         "qnFVVlRzucX7BNga": {
           "name": "Armadura de cuero",
-          "description": "<p>La coraza y los protectores de hombro de esta armadura están hechos de cuero que ha sido endurecido por ser hervido en aceite. El resto de la armadura está hecha de materiales más suaves y flexibles.</p>"
+          "description": "<p>El peto y las hombreras de esta armadura están hechos de cuero endurecido al hervirlo en aceite. El resto de la armadura se fabrica con materiales más blandos y flexibles.</p>"
         },
         "PQGwUNCJ7EkJAE8V": {
-          "name": "Audición y vista de Keen",
-          "description": "<p>El explorador tiene ventaja en controles de Sabiduría (Percepción) que dependen de la audición o la vista.</p>"
+          "name": "Oído y Vista Agudos",
+          "description": "<p>El batidor tiene ventaja en las pruebas de Sabiduría (Percepción) que dependan del oído o de la vista.</p>"
         }
       },
-      "name": "Explorador",
-      "alignment": "Cualquier alineación",
-      "languages": "cualquier idioma (generalmente común)",
-      "tokenName": "Explorador",
-      "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+      "name": "Batidor",
+      "alignment": "Cualquier alineamiento",
+      "languages": "Un idioma cualquiera (normalmente común)",
+      "tokenName": "Batidor",
+      "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
     },
     "bSM1EJptwzV1JhjA": {
       "alignment": "Caótico malvado",
@@ -6132,23 +6132,23 @@
       "items": {
         "sSs3hSzkKBMNBgTs": {
           "name": "Escudo",
-          "description": "<p>Un escudo está hecho de madera o metal y se lleva en una mano. Wieling un escudo aumenta su clase de armadura en 2. Sólo puedes beneficiarte de un escudo a la vez.</p>"
+          "description": "<p>Un escudo está hecho de madera o metal y se lleva en una mano. Empuñar un escudo aumenta tu Clase de Armadura en 2. Solo puedes beneficiarte de un escudo a la vez.</p>"
         },
         "92uVNexE43Z8D18r": {
           "name": "Lanza",
-          "description": "<p>[[/attack extended]]. [[/damage extended average]] o [[/damage twoHanded average]] si se usa con dos manos para hacer un ataque cuerpo a cuerpo.</p>",
-          "descriptionChat": "<p>La Guardia ataca con su lanza.</p>"
+          "description": "<p>[[/attack extended]]. [[/damage extended average]] o [[/damage twoHanded average]] si se empuña a dos manos para realizar un ataque cuerpo a cuerpo.</p>",
+          "descriptionChat": "<p>El guardia ataca con su lanza.</p>"
         },
         "2reHgwNJRFbhmxqA": {
-          "name": "Camisa de cadena",
-          "description": "<p>Hecho de anillos metálicos entrelazados, una camisa de cadena se usa entre capas de ropa o cuero. Esta armadura ofrece una protección modesta a la parte superior del cuerpo del usuario y permite que el sonido de los anillos frotarse unos contra otros para ser amortiguado por capas externas.</p>"
+          "name": "Camisa de malla",
+          "description": "<p>Una camisa de malla está hecha de anillas de metal entrelazadas y se lleva entre capas de ropa o cuero. Esta armadura ofrece una protección modesta al torso y permite amortiguar el ruido del roce de las anillas con las capas exteriores.</p>"
         }
       },
       "name": "Guardia",
-      "alignment": "Cualquier alineación",
-      "languages": "cualquier idioma (generalmente común)",
+      "alignment": "Cualquier alineamiento",
+      "languages": "Un idioma cualquiera (normalmente común)",
       "tokenName": "Guardia",
-      "biography": "<p><em>Token artwork by </em><a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\"><em>Aventuras olvidadas</em></a><em>.</em></p>"
+      "biography": "<p><em>Ilustración de la ficha por </em><a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\"><em>Forgotten Adventures</em></a><em>.</em></p>"
     },
     "mu2MpstuSP4N4l29": {
       "alignment": "Neutral malvado",
@@ -6657,64 +6657,64 @@
       "items": {
         "sSs3hSzkKBMNBgTs": {
           "name": "Escudo",
-          "description": "<p>Un escudo está hecho de madera o metal y se lleva en una mano. Wieling un escudo aumenta su clase de armadura en 2. Sólo puedes beneficiarte de un escudo a la vez.</p>"
+          "description": "<p>Un escudo está hecho de madera o metal y se lleva en una mano. Empuñar un escudo aumenta tu Clase de Armadura en 2. Solo puedes beneficiarte de un escudo a la vez.</p>"
         },
         "QuVUb9i809rjJWcL": {
           "name": "Ataque múltiple",
-          "description": "<p>El gladiador hace tres ataques cuerpo a cuerpo o dos ataques a rango.</p><p>Melee: [[/item .eL15erXXE9EuXWSB]], [[/item .GrUneCbXCYngdpjf]]</p><p>Intervalo: [[/item .eL15erXXE9EuXWSB]]</p>"
+          "description": "<p>El gladiador realiza tres ataques cuerpo a cuerpo o dos ataques a distancia.</p><p>Cuerpo a cuerpo: [[/item .eL15erXXE9EuXWSB]], [[/item .GrUneCbXCYngdpjf]]</p><p>A distancia: [[/item .eL15erXXE9EuXWSB]]</p>"
         },
         "eL15erXXE9EuXWSB": {
           "name": "Lanza",
           "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-          "descriptionChat": "<p>El Gladiator ataca con su lanza.</p>"
+          "descriptionChat": "<p>El gladiador ataca con su lanza.</p>"
         },
         "GO2zHOdb2GBHd2U4": {
           "name": "Armadura de cuero tachonado",
-          "description": "<p>Hecho de cuero resistente pero flexible, el cuero tachonado está reforzado con remaches o pinchos de cierre.</p>"
+          "description": "<p>Esta armadura está hecha de cuero resistente pero flexible, reforzado con remaches o púas muy juntos.</p>"
         },
         "YbB6EsBwNaEzVlxU": {
           "name": "Valiente",
-          "description": "<p>El gladiador tiene ventaja en los lanzamientos de ahorro en contra de ser asustado.</p>"
+          "description": "<p>El gladiador tiene ventaja en las tiradas de salvación para evitar estar asustado.</p>"
         },
         "NPTnV9YupSeKJrQ0": {
           "name": "Bruto",
-          "description": "<p>Un arma cuerpo a cuerpo reparte una gota extra de su daño cuando el gladiador golpea con él (incluido en el ataque).</p>"
+          "description": "<p>Un arma cuerpo a cuerpo causa un dado adicional de su daño cuando el gladiador impacta con ella (incluido en el ataque).</p>"
         },
         "GrUneCbXCYngdpjf": {
           "name": "Golpe con escudo",
-          "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>Si el objetivo es una criatura mediana o más pequeña, debe tener éxito en un [[/save]] ahorro tirar o ser golpeado &amp;Reference[prone].</p><p></p>",
-          "descriptionChat": "<p>El Gladiator ataca con su Shield Bash. Si el objetivo es una criatura mediana o más pequeña, debe hacer un <strong>Fuerza</strong> ahorro tirar o ser golpeado propenso.</p>",
+          "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>Si el objetivo es una criatura Mediana o menor, debe superar una tirada de salvación [[/save]] o caer &amp;Reference[prone]{derribado}.</p><p></p>",
+          "descriptionChat": "<p>El gladiador realiza un golpe con escudo. Si el objetivo es una criatura Mediana o más pequeña, debe realizar una tirada de salvación de <strong>Fuerza</strong> o quedar derribado.</p>",
           "activities": {
             "dnd5eactivity100": {
               "activation": {
-                "condition": "En el golpe"
+                "condition": "Al impactar"
               }
             }
           },
           "effects": {
             "e0KniuDngw2shi5N": {
-              "name": "Prona"
+              "name": "Derribado"
             }
           }
         },
         "AwP14Hu6dPdnSbQt": {
           "name": "Parada",
-          "description": "<p>El gladiador añade 3 a su <strong>CA</strong> contra un ataque que lo golpearía. Para hacerlo, el gladiador debe ver al atacante y estar empuñando un arma de combate.</p>",
-          "descriptionChat": "<p>El gladiador añade 3 a su <strong>CA</strong> contra un ataque que lo golpearía.</p>",
+          "description": "<p>El gladiador añade 3 a su <strong>CA</strong> contra un ataque cuerpo a cuerpo que fuera a impactarlo. Para hacerlo, debe ver al atacante y empuñar un arma cuerpo a cuerpo.</p>",
+          "descriptionChat": "<p>El gladiador añade 3 a su <strong>CA</strong> contra un ataque cuerpo a cuerpo que fuera a impactarlo.</p>",
           "activities": {
             "dnd5eactivity000": {
               "activation": {
-                "condition": "cuando un ataque cuerpo a cuerpo golpearía a esta criatura"
+                "condition": "Cuando un ataque cuerpo a cuerpo fuera a impactar a esta criatura"
               }
             }
           }
         }
       },
       "name": "Gladiador",
-      "alignment": "Cualquier alineación",
-      "languages": "cualquier idioma (generalmente común)",
+      "alignment": "Cualquier alineamiento",
+      "languages": "Un idioma cualquiera (normalmente común)",
       "tokenName": "Gladiador",
-      "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+      "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
     },
     "rspdh4yHC7hNre6f": {
       "alignment": "Sin alineamiento",
