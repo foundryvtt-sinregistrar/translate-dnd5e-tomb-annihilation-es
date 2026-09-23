@@ -1375,15 +1375,28 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   veces para obtener tesoro. Las enredaderas no se descubren por Percepción.
 - Auditorías técnica y editorial sin errores.
 
+### appendix-b-dinosaurs — Encuentros con dinosaurios
+
+- Revisadas catorce páginas (28 registros), con referencias físicas 198–200.
+- Conservadas cantidades, distancias, precios, defensa de las crías y las
+  condiciones para evitar el combate. Frente a los plesiosaurios basta alcanzar
+  un lugar seguro en la orilla; el PDF añade «otra orilla» sin apoyo del inglés.
+- Tiranosaurio: se mantiene el inglés exportado con pruebas individuales y
+  ventaja si alguien tiene Supervivencia. El PDF dice prueba de grupo: queda
+  registrada la diferencia para la comprobación de reglas. La fórmula del
+  50 % es correcta, pero su comentario técnico inglés dice «result of 1»;
+  se suma a los comentarios de tirada pendientes de corrección funcional.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 652 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 666 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 47 de los apéndices A, B, C y F.
-  No equivale a 652 páginas del PDF.
-- 1658 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1658 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 61 de los apéndices A, B, C y F.
+  No equivale a 666 páginas del PDF.
+- 1686 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1686 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz

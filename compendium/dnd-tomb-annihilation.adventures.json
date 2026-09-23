@@ -16758,7 +16758,7 @@
             },
             "yo52RusBPQsZWzvJ": {
               "name": "Dinosaurios",
-              "text": "<p>Los encuentros con los \"honkers\" son comunes en Chul, aunque no todas estas criaturas son hostiles.</p>"
+              "text": "<p>Los encuentros con «bramadores» son habituales en Chult, aunque no todas estas criaturas son hostiles.</p>"
             },
             "nqtaFGPo887p5yiK": {
               "name": "Dragón, Faerie",
@@ -17009,56 +17009,56 @@
               "text": "<p>Mudarse a través de la ciudad o las ruinas del palacio son @UUID[Actor.toaEncKobolds000]{1d4 + 1 kobolds} dirigida por un inventor de kobold (véase @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{Apéndice D}). Caracteres con una [[/skill perception 12 passive format=long]] detectar los kobolds, que huyen si se acercan o atacan. Los kobolds sirven el brujo escala kobold Kakarol (ver @UUID[JournalEntry.toaCh3LocationsI.JournalEntryPage.CNMd61UQ8lhDwc0L]{Capítulo 3}). Podrían estar de camino a uno de los santuarios de la ciudad para restablecer sus trampas, o podrían estar regresando a su guarida con un tesoro recientemente descubierto. Rodar una vez en el @UUID[RollTable.dmgTreasureDrops]{Gotas de tesoro} mesa para determinar qué, en todo caso, los kobolds encontraron.</p>"
             },
             "f7KoXG9EETkOFjWP": {
-              "name": "Alosaurio",
-              "text": "<p>El aroma de la fiesta atrae @UUID[Actor.toaEncAllosaurus]{1d3 alosaurios}, que aparecen a 100 metros de distancia cuando los personajes primero se dan cuenta de ellos. Cualquier personaje que tenga éxito en un [[/check Survival 15 format=long]] puede encontrar un refugio seguro (una rama alta, una pequeña grieta, un tronco hueco, etc.) que los depredadores no pueden alcanzar o entrar.</p>"
+              "name": "Alosaurios",
+              "text": "<p>El olor del grupo atrae a @UUID[Actor.toaEncAllosaurus]{1d3 alosaurios}, que se encuentran a 100 yardas cuando los personajes los avistan por primera vez. Cualquier personaje que supere una [[/check Survival 15 format=long]] encuentra un refugio seguro, como una rama alta, una grieta pequeña o un tronco hueco, que los depredadores no pueden alcanzar o en el que no pueden entrar.</p>"
             },
             "HB65zM1KbeAv7NUT": {
               "name": "Anquilosaurio",
-              "text": "<p>Una ornería @UUID[Actor.toaAnkylosaurus0]{ankylosaurus} está engullido en las plantas, pero ataca a cualquier personaje que lo moleste.</p>"
+              "text": "<p>Un @UUID[Actor.toaAnkylosaurus0]{anquilosaurio} malhumorado se atiborra de plantas y ataca a cualquier personaje que lo moleste.</p>"
             },
             "vZZLqeinZuWUoJmL": {
               "name": "Brontosaurio",
-              "text": "<p>Un solitario @UUID[Actor.YR6BQiyG578rCYTA]{brontosaurio} (ver @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{Apéndice D}) maderas hacia los personajes, ajenas a su presencia. Aunque podría pisar personajes que no se apartan de su camino, lucha sólo en defensa propia.</p>"
+              "text": "<p>Un @UUID[Actor.YR6BQiyG578rCYTA]{brontosaurio} solitario (consulta el @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{apéndice D}) avanza pesadamente hacia los personajes sin percatarse de su presencia. Aunque podría pisar a quienes no se aparten de su camino, solo lucha en defensa propia.</p>"
             },
             "ZKmzrdg18krNA942": {
               "name": "Deinonychus",
-              "text": "<p>Un salvaje @UUID[Actor.hSi4oHxLmrNFaOdS]{jabalí} carreras a través del camino del partido, seguido de cerca por una manada de caza de @UUID[Actor.toaEncDeinonychu]{1d4 + 2 deinonychuses} (ver @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{Apéndice D}). Los depredadores deciden que los personajes son presas más interesantes.</p>"
+              "text": "<p>Un @UUID[Actor.hSi4oHxLmrNFaOdS]{jabalí} salvaje cruza corriendo por delante del grupo, perseguido de cerca por una manada de @UUID[Actor.toaEncDeinonychu]{1d4 + 2 deinonychus} (consulta el @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{apéndice D}). Los depredadores deciden que los personajes son presas más interesantes.</p>"
             },
             "PMvlEqa9C6iv5edf": {
-              "name": "Dimetrodón",
-              "text": "<p>Un paquete de @UUID[Actor.toaEncDimetrodon]{2d6 dimetrodons} (ver @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{Apéndice D}) son vistos a lo largo de una orilla soleada del río o en rocas por encima del agua. Rodar cualquier muere. En un resultado extraño, los dimetrodons no se dan cuenta de los personajes; en un resultado uniforme, tienen hambre y atacan a la menor provocación, o si los personajes se acercan a menos de 100 pies de ellos.</p>"
+              "name": "Dimetrodones",
+              "text": "<p>Los personajes avistan una manada de @UUID[Actor.toaEncDimetrodon]{2d6 dimetrodones} (consulta el @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{apéndice D}) en una ribera soleada o sobre rocas que sobresalen del agua. Tira cualquier dado. Si el resultado es impar, los dimetrodones no reparan en los personajes. Si es par, están hambrientos y atacan a la menor provocación o si los personajes se acercan a 100 pies o menos de ellos.</p>"
             },
             "DiOYVDJ70NaufL4X": {
-              "name": "Hadrosaurus",
-              "text": "<p>Un rebaño de @UUID[Actor.toaEncHadrosauru]{3d6 hadrosaurus} (ver @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{Apéndice D}) están pastando cerca, con [[/r 1d6]] No combatiente joven entre ellos. Los adultos no atacan a menos que sean atacados o antagonizados. Los jóvenes son pequeñas bestias que se pueden vender a Ifan Talro’a en Port Nyanzaru por 50 gp cada uno, o por 100 gp si un personaje tiene éxito en un [[/check Persuasion 15 format=long]] negociar el precio. Los jóvenes dinosaurios son fáciles de manejar si se separan de sus padres, pero los adultos luchan si sus jóvenes son capturados.</p>"
+              "name": "Hadrosaurios",
+              "text": "<p>Una manada de @UUID[Actor.toaEncHadrosauru]{3d6 hadrosaurios} (consulta el @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{apéndice D}) pasta cerca, con [[/r 1d6]] crías no combatientes entre ellos. Los adultos no atacan a menos que los agredan u hostiguen. Las crías son bestias Pequeñas que se pueden vender a Ifan Talro’a en Puerto Nyanzaru por 50 po cada una, o por 100 po si un personaje supera una [[/check Persuasion 15 format=long]] para negociar el precio. Las crías son fáciles de manejar una vez separadas de sus progenitores, pero los adultos luchan si alguien las captura.</p>"
             },
             "sfaT3WHBLwJfXeZC": {
-              "name": "Plesiosaurio",
-              "text": "<p>Dos @UUID[Actor.toaEncPlesiosaur]{plesiosauros} están peleando por un pulpo gigante muerto. Si los personajes están en un río, las criaturas son vistos a una distancia de 300 pies, por lo que sonaban amenazadoramente y se movían para atacar al partido. Para remar una canoa a un lugar seguro a lo largo de la orilla del río, un personaje en la canoa debe tener éxito en un [[/check Athletics 13 format=long]], con otros personajes en la canoa utilizando el &amp;Reference[Help] acción. Las canoas que no llegan a la orilla son volteadas y demolidas por los reptiles, que luego atacan a los nadadores en el agua.</p>"
+              "name": "Plesiosaurios",
+              "text": "<p>Dos @UUID[Actor.toaEncPlesiosaur]{plesiosaurios} se disputan un pulpo gigante muerto. Si los personajes están en un río, avistan a las criaturas a 300 pies de distancia; estas braman de forma amenazadora y se acercan para atacar al grupo. Para llevar una canoa a un lugar seguro en la orilla, un personaje de la canoa debe superar una [[/check Athletics 13 format=long]], mientras los demás ocupantes utilizan la acción de &amp;Reference[Help]. Los reptiles vuelcan y destrozan las canoas que no llegan a la orilla, y después atacan a quienes nadan en el agua.</p>"
             },
             "huO9aIJsnNoYYm9E": {
-              "name": "Pteranodonte",
-              "text": "<p>Un rebaño de @UUID[Actor.toaEncPteranodon]{2d6 pteranodons} es visto por encima. Mantienen su distancia y atacan sólo si están amenazados.</p>"
+              "name": "Pteranodones",
+              "text": "<p>Los personajes avistan una bandada de @UUID[Actor.toaEncPteranodon]{2d6 pteranodones} sobre sus cabezas. Las criaturas mantienen las distancias y solo atacan si se sienten amenazadas.</p>"
             },
             "2CLUp6FnnvK91vug": {
               "name": "Quetzalcoatlus",
-              "text": "<p>Un vuelo de @UUID[Actor.toaEncQuetzalcoa]{1d4 + 1 quetzalcoatluses} (ver @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{Apéndice D}) es visto por encima. Mantienen su distancia y atacan sólo si están amenazados.</p>"
+              "text": "<p>Los personajes avistan una bandada de @UUID[Actor.toaEncQuetzalcoa]{1d4 + 1 quetzalcoatlus} (consulta el @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{apéndice D}) sobre sus cabezas. Las criaturas mantienen las distancias y solo atacan si se sienten amenazadas.</p>"
             },
             "611Gy0rlO8erVlzC": {
               "name": "Estegosaurio",
-              "text": "<p>Este solitario @UUID[Actor.iy8GSuiH23moWlLI]{estegosaurio} (ver @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{Apéndice D}) está de buen humor. Se acerca a los personajes por curiosidad, pero cualquiera que lo toque dispara un desliz de su cola.</p>"
+              "text": "<p>Este @UUID[Actor.iy8GSuiH23moWlLI]{estegosaurio} solitario (consulta el @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{apéndice D}) está de buen humor. Se acerca a los personajes por curiosidad, pero si alguien lo toca, responde con un coletazo.</p>"
             },
             "cutZ3mF8J1SoSpUe": {
-              "name": "Tricerátops",
-              "text": "<p>A @UUID[Actor.toaTriceratops00]{triceratops} que parece estar pastando sola es en realidad una madre con un nido cercano que contiene un incubador no combatiente y dos huevos sin eglefino. La madre mira a los personajes sospechosamente pero no ataca a menos que se coloquen entre ella y el nido. Ifan Talro’a en Port Nyanzaru ofrece 50 gp para un huevo intacto triceratops o cría, o un personaje puede hablar de él hasta 150 gp con un éxito [[/check Persuasion 15 format=long]].</p>"
+              "name": "Triceratops",
+              "text": "<p>Una @UUID[Actor.toaTriceratops00]{triceratops} que parece pastar sola tiene en realidad un nido cerca, con una cría recién nacida no combatiente y dos huevos sin eclosionar. La madre observa a los personajes con recelo, pero no ataca a menos que se interpongan entre ella y el nido. Ifan Talro’a, en Puerto Nyanzaru, ofrece 50 po por un huevo de triceratops intacto o una cría recién nacida. Un personaje puede convencerlo de que pague 150 po si supera una [[/check Persuasion 15 format=long]].</p>"
             },
             "yqjqgNxgPi00CQrl": {
               "name": "Tiranosaurio",
-              "text": "<p>Los caracteres de un punto a @UUID[Actor.toaTRex000000000]{tirannosaurio rex} A 300 metros de distancia. Hay un [[/gmr 1d100cs&lt;=50#The t-rex is fighting one of the groups of creatures on a result of 1]]{50 por ciento de probabilidades} que el hambriento behemoth está luchando o bien un @UUID[Actor.iy8GSuiH23moWlLI]{estegosaurio}, a @UUID[Actor.toaTriceratops00]{triceratops}, un par @UUID[Actor.6XIvb4zl8c0tW8tW]{serpientes constrictoras gigantes}, a @UUID[Actor.woW2YBEiB6xV3Hz8]{mono gigante}, o una multitud de @UUID[Actor.bSM1EJptwzV1JhjA]{ghouls} y @UUID[Actor.J6yWqkj0lotaRnTh]{zombies}. Ninguna de estas criaturas se unirá voluntariamente con la fiesta, pero su presencia podría debilitar el tiranosaurio hasta el punto en que los personajes tengan la oportunidad de matarlo.</p><p>Los personajes pueden evitar un encuentro con el tiranosaurio si mantienen su distancia y tienen éxito en un [[/check Stealth 15 format=long]]. Si cualquier personaje está entrenado en la habilidad de supervivencia, todos los cheques de los personajes se hacen con ventaja.</p>"
+              "text": "<p>Los personajes avistan un @UUID[Actor.toaTRex000000000]{tiranosaurio rex} a 300 yardas de distancia. Hay una [[/gmr 1d100cs&lt;=50#The t-rex is fighting one of the groups of creatures on a result of 1]]{probabilidad del 50 por ciento} de que la enorme bestia hambrienta esté luchando contra un @UUID[Actor.iy8GSuiH23moWlLI]{estegosaurio}, un @UUID[Actor.toaTriceratops00]{triceratops}, una pareja de @UUID[Actor.6XIvb4zl8c0tW8tW]{serpientes constrictoras gigantes}, un @UUID[Actor.woW2YBEiB6xV3Hz8]{simio gigante} o una multitud de @UUID[Actor.bSM1EJptwzV1JhjA]{gules} y @UUID[Actor.J6yWqkj0lotaRnTh]{zombis}. Ninguna de estas criaturas se aliará voluntariamente con el grupo, pero su presencia podría debilitar al tiranosaurio lo suficiente para que los personajes tengan posibilidades de matarlo.</p><p>Los personajes pueden evitar el encuentro con el tiranosaurio si mantienen las distancias y superan una [[/check Stealth 15 format=long]]. Si algún personaje tiene competencia en Supervivencia, todos realizan sus pruebas con ventaja.</p>"
             },
             "NK6864xzewpEOj94": {
-              "name": "Velociraptor",
-              "text": "<p>Un paquete de @UUID[Actor.toaEncVelocirapt]{velociraptores 3d6} (ver @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{Apéndice D}) estalló por detrás de la cubierta y el ataque. Haga un único Dexterity (Stealth) comprobar para los dinosaurios, con ventaja. Cualquier personaje cuya puntuación pasiva de Sabiduría (Percepción) sea igual o superior al resultado de comprobación de los velociraptores no se sorprende.</p>"
+              "name": "Velocirraptores",
+              "text": "<p>Una manada de @UUID[Actor.toaEncVelocirapt]{3d6 velocirraptores} (consulta el @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{apéndice D}) sale de repente de su escondite y ataca. Realiza una única prueba de Destreza (Sigilo) con ventaja para todos los dinosaurios. Cualquier personaje cuya puntuación de Sabiduría (Percepción) pasiva sea igual o superior al resultado de esa prueba no queda sorprendido.</p>"
             },
             "6B3D5AUPVUAOJ0NW": {
               "name": "Gules",
