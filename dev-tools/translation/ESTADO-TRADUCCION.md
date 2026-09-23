@@ -1866,15 +1866,33 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Con este bloque quedan revisados los textos no vacíos de las dos copias
   de Ras Nsi; los problemas funcionales documentados siguen pendientes.
 
+### appendix-d-yuanti — Guardaestirpe y cuentapesadillas yuan-ti
+
+- Revisados 142 campos de ambas copias de los dos actores y su página.
+  Referencias físicas 238–240; textos completos de conjuros y efecto de
+  cráneos que cantan contrastados con el exportado inglés.
+- Reparada la frase incompleta de Colmillos de la Muerte, que había perdido
+  el verbo «impacta». Conservados concentración y salvaciones de Invocar
+  pesadilla, así como la restricción de Encantar animal a serpientes.
+- Las dos biografías están vacías en el exportado. Brazos de Hadar, maleficio,
+  hambre de Hadar y rayo de hechicería figuran como menciones al manual,
+  sin sus correspondientes objetos de conjuro.
+- Temerario concede ventaja contra el guardaestirpe hasta el comienzo de su
+  siguiente turno en el exportado, frente al final del turno en el PDF español.
+  Se conserva el original inglés y se registra la diferencia.
+- Revisadas las páginas principales del apéndice D y Estival. Quedan pendientes
+  fichas parciales anteriores, las páginas adicionales y sus actores, además de
+  variantes y copias de encuentros; esto no cierra el apéndice completo.
+
 ## Balance de revisión editorial
 
-- 801 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 802 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 196 de los apéndices A, B, C, D y F.
-  No equivale a 801 páginas del PDF.
-- 4905 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 4905 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 197 de los apéndices A, B, C, D y F.
+  No equivale a 802 páginas del PDF.
+- 5047 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 5047 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas cincuenta y cinco biografías en ambas copias de actores: siete
   príncipes y cuarenta y ocho criaturas o PNJ del apéndice D. Siguen pendientes las demás
