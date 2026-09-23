@@ -161081,6 +161081,828 @@
           "note": "Profile reviewed against English export, including spell text, disease stages and enslavement saves. Source profile discrepancies documented separately."
         }
       ]
+    },
+    {
+      "id": "final-couatl",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.name",
+          "sourceSha256": "9d757aaa142209a9f0295e6389d2b872e32850fa1ef329b428e94acb9265f030",
+          "translationSha256": "9d757aaa142209a9f0295e6389d2b872e32850fa1ef329b428e94acb9265f030",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.alignment",
+          "sourceSha256": "205c9cf6051628161e40bba28dd64d838908de569a8520b9074189ef3a558625",
+          "translationSha256": "c196863ef022105140a07cf495d822822aab8ba58649478e736638e044161817",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.tokenName",
+          "sourceSha256": "9d757aaa142209a9f0295e6389d2b872e32850fa1ef329b428e94acb9265f030",
+          "translationSha256": "9d757aaa142209a9f0295e6389d2b872e32850fa1ef329b428e94acb9265f030",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.biography",
+          "sourceSha256": "005ea83779c9757f66198e442b3974d1b9644098f09fe20d516e44b7b0697302",
+          "translationSha256": "13449ca5b377e53eed4ec882e9de4fdadb921a78a531289fbf79e3a63a220ce5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.7M1OrMoMMTCEKxta.name",
+          "sourceSha256": "6e5597953e98e07b763c9f7c837239daf41a26a239b0616631539b9a04b559ad",
+          "translationSha256": "0f5627d69976efecdf83d744d6ec28905da742f1533855b78aad823b0bcbcd97",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.7M1OrMoMMTCEKxta.description",
+          "sourceSha256": "999a84b4823bba71f9a652fe11ceacbc329a5ce2e4c8962e25bb405130e9ef40",
+          "translationSha256": "e8083b5b18c26a96993888593e7cfbcb27312a49d18b1e7ca2e7b66274d08e8e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.7M1OrMoMMTCEKxta.descriptionChat",
+          "sourceSha256": "bea4c4053ab5a4141447d18f71315c9bb812ef5336c445e182e08da919d68543",
+          "translationSha256": "14086b7b0eb19de286f905aabae3b46d26904b550cde737dde337048dfa1ad5c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.7M1OrMoMMTCEKxta.effects.GLxzcYW1p5BO6Tdt.name",
+          "sourceSha256": "6dc21afe4edec3c11b085c474e88026cefc74581cca0c738a9fcca1466b7ff99",
+          "translationSha256": "4e7d02086d2ec1946e929e0374758affdeeee9a456f9b2964fb136810cb6b195",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.7M1OrMoMMTCEKxta.effects.GLxzcYW1p5BO6Tdt.description",
+          "sourceSha256": "dc308079edf7e9a908bf9440d6a5626fc7ea88890b632aad9717b9db64969366",
+          "translationSha256": "49ec9e7f2b9b1dc27617660d105a3c2d6a6f08c308707022cbda8667095fc5d3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.8LkzioyaScFxfst7.name",
+          "sourceSha256": "5a911549e0d8732ff5898ebf4ac24a81547478e090e1988da0277750189771c5",
+          "translationSha256": "b34aae0288281cb50e6cf6e4cbf6f4f0f0e51cb5505d428fd2c4d7e4dd65f7f0",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.8LkzioyaScFxfst7.description",
+          "sourceSha256": "1d9542d105e14ab7898aa27f472e9f4ef5c229f433417958eaabeea3d34938c2",
+          "translationSha256": "254221b761e29071e4d282fdf2c6a047636e4aaf7792cfdb2acc7720564f287a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.8LkzioyaScFxfst7.descriptionChat",
+          "sourceSha256": "b1ac7de3435185cba7a7559ed004f324ea2ec3a1d5f3f85da32a81a647ab7016",
+          "translationSha256": "106f58c01dd534dc0127c26f52520156dc7a55d8e0fb2fd130a8f3936969b5af",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.8LkzioyaScFxfst7.activities.qSVi3BwrAoCnPpjk.name",
+          "sourceSha256": "ea181fe26c3178d833fe7f40acd46b020882a2ece1d702bd7340cdafe5073e66",
+          "translationSha256": "61567dc1120a8c5043be0e91963b06fe8df71c5588f8818ed66431bb84ee6bf5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.8LkzioyaScFxfst7.effects.bT77MKZEyBFGGrrW.name",
+          "sourceSha256": "0b83fa4760bfd0a27819b8527b904ce372cce9abeda90be4f4a2f0907b8d0f55",
+          "translationSha256": "fce8b9e8ecf0e492c1f0736a78d98bd376090c9814c27b4a0f5174080342a593",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.8LkzioyaScFxfst7.effects.bT77MKZEyBFGGrrW.description",
+          "sourceSha256": "de9b4ee2c2f0b879696f2b493d9781c8e2484d58158223bcfb73ae75ef8c1d84",
+          "translationSha256": "d0de37856ef42cb7d84d09c846c94dd124163405eac06333aaee71f6bfae0f7c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.iw2q07K1D0X01DZO.name",
+          "sourceSha256": "ab4ab0421d60bce7b286b978eefc652b4082bd05f0c2e62db57c5b58d4971f18",
+          "translationSha256": "67b370db7c67f6fc8607b1aa2af5daa990323a71f1b1643db49e9db9bd3e57d0",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.iw2q07K1D0X01DZO.description",
+          "sourceSha256": "b7c7a3462ce7b21bee13f65af0708123f9bd8ce82f8c9890e3f61c58c74e92f1",
+          "translationSha256": "6e0cfbb4f14b23da60726b9539ff7d20ca2bdb39a8a5d1b308d34a99c0039cf4",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.J40yeoOnwpvtVpHt.name",
+          "sourceSha256": "36ae85511c705c3857455f0c5668bc8d6cdbac0af0d526daefdb8330b12a7eb1",
+          "translationSha256": "6706725ba91a414f56c4207a4fadf7f1c676070bb25a1b3c2497563c6da5c624",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.J40yeoOnwpvtVpHt.description",
+          "sourceSha256": "d91f44ae1a3972da163a72e8770459f4400da37e4100f216c3774a72f38ae9a8",
+          "translationSha256": "48e8b140d61c5811909082aa1841a54568180bddd27e117f09146fbe356db6ab",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.3qE2LLHPANSEPmIN.name",
+          "sourceSha256": "ac0b843bf322d98cd33f0b469f8a9afe1374b49c8d6cacbd3f407430a6d02a9c",
+          "translationSha256": "68b1766be1d9c0d91510230f9befb2175bb544ba05c9c06325b6c6459138b1ed",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.3qE2LLHPANSEPmIN.description",
+          "sourceSha256": "477bfdfc6707b9f23ba89824f84a659a7b30e2f7f1f6d0087ef6753ee2faa6ae",
+          "translationSha256": "1088e234952adf9d0a353ac6444394cbabfbcb2ebbc720d5eee5514e98fa6b51",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.MGh9IkfXNn7FmwL5.name",
+          "sourceSha256": "e5bdb5a94a2a940b48cf8fa47421e3dc3c058b24ca13221a729fb8c6f346357e",
+          "translationSha256": "30690d79fad3e8888a3131a0101c7b97d96a6c3f142efdcd6b533949118cfc2b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.MGh9IkfXNn7FmwL5.description",
+          "sourceSha256": "44b6a4123176fe6604336d8bdc7f8ddf500ae0db4fcabd444bf4833c3f7118a7",
+          "translationSha256": "86e0f07c3c9e0ded84f89154d39f25395d10eb1d243add4236b39a09eaf1d9d4",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.Mzh95utKDPIrjiH8.name",
+          "sourceSha256": "3cdd8799bd310546aea9a22be3d754aedfbb97ad42d6334370b8bafdd40e66fb",
+          "translationSha256": "3d50a2ed1db1c8fc7e1b0e969b9a98d1e323105e779d2156ccd141ed8b841dc6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.Mzh95utKDPIrjiH8.description",
+          "sourceSha256": "90c4d9a71b5e727ee45dc340a50d72d612b536fc132e180ed0795951c7c4c86b",
+          "translationSha256": "4b489c4ae8ed7b260b91ff85c8e950c96dd7e7730371ad116c906c2917849d21",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.ghXTfe7sgCbgf1Q8.name",
+          "sourceSha256": "d69eecab2f767f0d282d036abcf2ffce962762fafc91151c5f84d262991d2179",
+          "translationSha256": "cc34393132191af618b4437bab4066776b106e5d8d45264d3c263ef88f11f063",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.ghXTfe7sgCbgf1Q8.description",
+          "sourceSha256": "6909404538f84b03702c7d17e4c595ba3a2be079058c4d63b72402e9b5c67443",
+          "translationSha256": "5cd31166944342c8b405016d63a5dbde27e041e703863e3f3fa0ae328499a499",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.ppWAAEul0QHtm4er.name",
+          "sourceSha256": "d9f195a0432541e2b55ad8de73247e8e0568b16c86d3838ea898e874ee177425",
+          "translationSha256": "f5497f5ab61d3eed684fd5955f2e15bd27eac03986f2357b15ed614cd3c7283e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.ppWAAEul0QHtm4er.description",
+          "sourceSha256": "2b48e14aa0310e00f77ff28aa9ca2c1cf009271017e92cd8d96b7a766394c857",
+          "translationSha256": "c3677a92b8876911296cca6277566fd5e40f423572117a518777a477fa49f16d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.8dzaICjGy6mTUaUr.name",
+          "sourceSha256": "3abbd69ed48b2d67b7163fd4283e293f7c8248d7a225dc42896fc84baf98b9b1",
+          "translationSha256": "cff911d38ad345d488f98ae54ded694594718aa33815c30cbbf02b712368dd22",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.8dzaICjGy6mTUaUr.description",
+          "sourceSha256": "12374d780ed66ddcf0c51b02ae36af7d0c3be8f85853466389378eafc6f49e08",
+          "translationSha256": "6da28000d2fa09ef9d11195950b0d777d8824b93e42a6534f7804af4594e9daa",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.8dzaICjGy6mTUaUr.effects.8rP3gwmXVTgZqYZE.name",
+          "sourceSha256": "3abbd69ed48b2d67b7163fd4283e293f7c8248d7a225dc42896fc84baf98b9b1",
+          "translationSha256": "cff911d38ad345d488f98ae54ded694594718aa33815c30cbbf02b712368dd22",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.BV0mpbHh29IbbIj5.name",
+          "sourceSha256": "71cacf0f1146b255c0214cdb20811bc253da98af4eca37f572b9c874c4799033",
+          "translationSha256": "df81b57309b874800fc4bee4682a0e7c942766e158b4e014f1453bd74351e4b7",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.BV0mpbHh29IbbIj5.description",
+          "sourceSha256": "c260a812e51971be99167776ff436c3a3b5a3d795c5b0b8685ca69ee96279cec",
+          "translationSha256": "5a27259faa4afcb506d642e5e2515866519b00993a58e74b7bdd7c092cf26b0c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.uUWb1wZgtMou0TVP.name",
+          "sourceSha256": "37e7b242876dfe75755d06c104a3cca7a2c0af0f90bb8d66a68d4d4d76fd9c5a",
+          "translationSha256": "0fb65b1cc67b6e0788f275aefa454310801eea34837e8fd17cb1ca630cf85d78",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.uUWb1wZgtMou0TVP.description",
+          "sourceSha256": "eeb3ecc5e4ea7ae64a5b9598be44b97252cd1f999b2fcc767d43c5a7622778cd",
+          "translationSha256": "516139f9500e41b85a0c0366292309973066ba8902d970958fb8e42296cf6186",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.F0GsG0SJzsIOacwV.name",
+          "sourceSha256": "3a902d824623a7c4bf434820867767cc706d3916a5d751299e37e179e6f980e6",
+          "translationSha256": "c99cd1c89cb8a535c09a85d0ce91dcb643eace08d9e2a5d83c41d721f02e9042",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.F0GsG0SJzsIOacwV.description",
+          "sourceSha256": "dea039d35dc2c8a34cf715f7a5d1e220b587c153b1cbfffc9fac8d730f4ab1de",
+          "translationSha256": "ba15786aa200d21ffe1015a98e9057be6ceabc896fb073ecfe9fe830b5a40a6b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.gvdA9nPuWLck4tBl.name",
+          "sourceSha256": "275a77faac4972ade3db35d5c72fa0581046da22f90764887ae6c38e8c142606",
+          "translationSha256": "7921ce20f8a70765f155da087ce394f98721915890d253d86679097ada53f496",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.gvdA9nPuWLck4tBl.description",
+          "sourceSha256": "0a9f68e1d85ad707cc1b10f449a3e3fe1ae347e9fc357f93433f4bed03695b00",
+          "translationSha256": "e05e88f8a704e61d2fcbbd99541aac40198fed78b9926ef8f8bcc90cbe70661b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.z1mx84ONwkXKUZd7.name",
+          "sourceSha256": "480d4be7d61fe52bc31768ffaaffea7ad5db66ba8b699d30623c4726704cc646",
+          "translationSha256": "fcb66c4d741ae4bb8149a195e0df7c3f3f84c30d30d1d4b30514e0cb97f28e45",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.z1mx84ONwkXKUZd7.description",
+          "sourceSha256": "20efd236bb84f6324e70008ffd154aec476c49324bd117c155d6d0b30f3ace3e",
+          "translationSha256": "347c5d719f09f9c2e9128195088e1eeb92683008f115de24e8635e81aa3b9c70",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.z1mx84ONwkXKUZd7.effects.6pbotGIvqQkraPva.name",
+          "sourceSha256": "480d4be7d61fe52bc31768ffaaffea7ad5db66ba8b699d30623c4726704cc646",
+          "translationSha256": "fcb66c4d741ae4bb8149a195e0df7c3f3f84c30d30d1d4b30514e0cb97f28e45",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.kSPRpeIx3w3nihrF.name",
+          "sourceSha256": "c6d5ed757b66bfd3147a10410e0922b701baf55c401a1491e314d65fba08d15d",
+          "translationSha256": "ce4dc6f9273e29f18e2150f82e458fe4cd3d85f770bfd1a9190a2d0e61121bb2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.kSPRpeIx3w3nihrF.description",
+          "sourceSha256": "9a5b4a84882c9fec8fd8f6dd9cad4104f199aa61b3f4160855d13ce246f0ca2a",
+          "translationSha256": "d19ddcb4bad6ecf8e4aaef65f3d7f3f29786220a907baca077181da1f244a4d0",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.WzvJ7G3cqvIubsLk.name",
+          "sourceSha256": "7cd7b3a95d476c0187a8a4c53bfc7be6eb45a95d6d9c5ba82801527ad19efbb2",
+          "translationSha256": "7601d94fd1dce5db35e9df45fd25de2f1a65162fd76faa6283ebfad805b678ed",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.WzvJ7G3cqvIubsLk.description",
+          "sourceSha256": "d1c463bc12f729c65fcb6eea526d120c3435a18551c158e517a4784645e00c93",
+          "translationSha256": "15abe710d90a5232693cf2a4a7bafdc8494e9e2b3250d428e3314584e812cfa6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.fVbCxFRaORalHB20.name",
+          "sourceSha256": "c318b517ee020ea2e45078c3ff347e7b5aab669aef8047c19a258782b960b276",
+          "translationSha256": "2519027d668867408ee26e7ebfdef920ff0a10c4cbe7bad159610d7ae91db46b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.fVbCxFRaORalHB20.description",
+          "sourceSha256": "952bff235ebfc75ef27b8f5e08c90a72bff7718dbdb784973094da11ded3b54d",
+          "translationSha256": "94b7abf8cfe0380aa8f80afba408d02e04f87dba56bc6818b7c77a7f5bcfe5f4",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.MAxM77CDUu8dgIRQ.name",
+          "sourceSha256": "e961de312bd436b4ef8cbdc1080884d41ade721d53e3ebc77d7f956aac32c78e",
+          "translationSha256": "d74d84a04f589f4fa7f2d5c8c2a7b4468a379c357369b59161be59924e0c868a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCouatl0000000.items.MAxM77CDUu8dgIRQ.description",
+          "sourceSha256": "b65b7901c4e10e1b6b62f889ae05198640aae6645038220c4a4b6ea91712a21c",
+          "translationSha256": "fd0f468c8570bb6e585f231a4efdbcd87bb56ff9f3b668dfe2a96e3acb91931e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.name",
+          "sourceSha256": "9d757aaa142209a9f0295e6389d2b872e32850fa1ef329b428e94acb9265f030",
+          "translationSha256": "9d757aaa142209a9f0295e6389d2b872e32850fa1ef329b428e94acb9265f030",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.alignment",
+          "sourceSha256": "205c9cf6051628161e40bba28dd64d838908de569a8520b9074189ef3a558625",
+          "translationSha256": "c196863ef022105140a07cf495d822822aab8ba58649478e736638e044161817",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.tokenName",
+          "sourceSha256": "9d757aaa142209a9f0295e6389d2b872e32850fa1ef329b428e94acb9265f030",
+          "translationSha256": "9d757aaa142209a9f0295e6389d2b872e32850fa1ef329b428e94acb9265f030",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.biography",
+          "sourceSha256": "005ea83779c9757f66198e442b3974d1b9644098f09fe20d516e44b7b0697302",
+          "translationSha256": "13449ca5b377e53eed4ec882e9de4fdadb921a78a531289fbf79e3a63a220ce5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.7M1OrMoMMTCEKxta.name",
+          "sourceSha256": "6e5597953e98e07b763c9f7c837239daf41a26a239b0616631539b9a04b559ad",
+          "translationSha256": "0f5627d69976efecdf83d744d6ec28905da742f1533855b78aad823b0bcbcd97",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.7M1OrMoMMTCEKxta.description",
+          "sourceSha256": "999a84b4823bba71f9a652fe11ceacbc329a5ce2e4c8962e25bb405130e9ef40",
+          "translationSha256": "e8083b5b18c26a96993888593e7cfbcb27312a49d18b1e7ca2e7b66274d08e8e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.7M1OrMoMMTCEKxta.descriptionChat",
+          "sourceSha256": "bea4c4053ab5a4141447d18f71315c9bb812ef5336c445e182e08da919d68543",
+          "translationSha256": "14086b7b0eb19de286f905aabae3b46d26904b550cde737dde337048dfa1ad5c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.7M1OrMoMMTCEKxta.effects.GLxzcYW1p5BO6Tdt.name",
+          "sourceSha256": "6dc21afe4edec3c11b085c474e88026cefc74581cca0c738a9fcca1466b7ff99",
+          "translationSha256": "4e7d02086d2ec1946e929e0374758affdeeee9a456f9b2964fb136810cb6b195",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.7M1OrMoMMTCEKxta.effects.GLxzcYW1p5BO6Tdt.description",
+          "sourceSha256": "dc308079edf7e9a908bf9440d6a5626fc7ea88890b632aad9717b9db64969366",
+          "translationSha256": "49ec9e7f2b9b1dc27617660d105a3c2d6a6f08c308707022cbda8667095fc5d3",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.8LkzioyaScFxfst7.name",
+          "sourceSha256": "5a911549e0d8732ff5898ebf4ac24a81547478e090e1988da0277750189771c5",
+          "translationSha256": "b34aae0288281cb50e6cf6e4cbf6f4f0f0e51cb5505d428fd2c4d7e4dd65f7f0",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.8LkzioyaScFxfst7.description",
+          "sourceSha256": "1d9542d105e14ab7898aa27f472e9f4ef5c229f433417958eaabeea3d34938c2",
+          "translationSha256": "254221b761e29071e4d282fdf2c6a047636e4aaf7792cfdb2acc7720564f287a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.8LkzioyaScFxfst7.descriptionChat",
+          "sourceSha256": "b1ac7de3435185cba7a7559ed004f324ea2ec3a1d5f3f85da32a81a647ab7016",
+          "translationSha256": "106f58c01dd534dc0127c26f52520156dc7a55d8e0fb2fd130a8f3936969b5af",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.8LkzioyaScFxfst7.activities.qSVi3BwrAoCnPpjk.name",
+          "sourceSha256": "ea181fe26c3178d833fe7f40acd46b020882a2ece1d702bd7340cdafe5073e66",
+          "translationSha256": "61567dc1120a8c5043be0e91963b06fe8df71c5588f8818ed66431bb84ee6bf5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.8LkzioyaScFxfst7.effects.bT77MKZEyBFGGrrW.name",
+          "sourceSha256": "0b83fa4760bfd0a27819b8527b904ce372cce9abeda90be4f4a2f0907b8d0f55",
+          "translationSha256": "fce8b9e8ecf0e492c1f0736a78d98bd376090c9814c27b4a0f5174080342a593",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.8LkzioyaScFxfst7.effects.bT77MKZEyBFGGrrW.description",
+          "sourceSha256": "de9b4ee2c2f0b879696f2b493d9781c8e2484d58158223bcfb73ae75ef8c1d84",
+          "translationSha256": "d0de37856ef42cb7d84d09c846c94dd124163405eac06333aaee71f6bfae0f7c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.iw2q07K1D0X01DZO.name",
+          "sourceSha256": "ab4ab0421d60bce7b286b978eefc652b4082bd05f0c2e62db57c5b58d4971f18",
+          "translationSha256": "67b370db7c67f6fc8607b1aa2af5daa990323a71f1b1643db49e9db9bd3e57d0",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.iw2q07K1D0X01DZO.description",
+          "sourceSha256": "b7c7a3462ce7b21bee13f65af0708123f9bd8ce82f8c9890e3f61c58c74e92f1",
+          "translationSha256": "6e0cfbb4f14b23da60726b9539ff7d20ca2bdb39a8a5d1b308d34a99c0039cf4",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.J40yeoOnwpvtVpHt.name",
+          "sourceSha256": "36ae85511c705c3857455f0c5668bc8d6cdbac0af0d526daefdb8330b12a7eb1",
+          "translationSha256": "6706725ba91a414f56c4207a4fadf7f1c676070bb25a1b3c2497563c6da5c624",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.J40yeoOnwpvtVpHt.description",
+          "sourceSha256": "d91f44ae1a3972da163a72e8770459f4400da37e4100f216c3774a72f38ae9a8",
+          "translationSha256": "48e8b140d61c5811909082aa1841a54568180bddd27e117f09146fbe356db6ab",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.3qE2LLHPANSEPmIN.name",
+          "sourceSha256": "ac0b843bf322d98cd33f0b469f8a9afe1374b49c8d6cacbd3f407430a6d02a9c",
+          "translationSha256": "68b1766be1d9c0d91510230f9befb2175bb544ba05c9c06325b6c6459138b1ed",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.3qE2LLHPANSEPmIN.description",
+          "sourceSha256": "477bfdfc6707b9f23ba89824f84a659a7b30e2f7f1f6d0087ef6753ee2faa6ae",
+          "translationSha256": "1088e234952adf9d0a353ac6444394cbabfbcb2ebbc720d5eee5514e98fa6b51",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.MGh9IkfXNn7FmwL5.name",
+          "sourceSha256": "e5bdb5a94a2a940b48cf8fa47421e3dc3c058b24ca13221a729fb8c6f346357e",
+          "translationSha256": "30690d79fad3e8888a3131a0101c7b97d96a6c3f142efdcd6b533949118cfc2b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.MGh9IkfXNn7FmwL5.description",
+          "sourceSha256": "44b6a4123176fe6604336d8bdc7f8ddf500ae0db4fcabd444bf4833c3f7118a7",
+          "translationSha256": "86e0f07c3c9e0ded84f89154d39f25395d10eb1d243add4236b39a09eaf1d9d4",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.Mzh95utKDPIrjiH8.name",
+          "sourceSha256": "3cdd8799bd310546aea9a22be3d754aedfbb97ad42d6334370b8bafdd40e66fb",
+          "translationSha256": "3d50a2ed1db1c8fc7e1b0e969b9a98d1e323105e779d2156ccd141ed8b841dc6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.Mzh95utKDPIrjiH8.description",
+          "sourceSha256": "90c4d9a71b5e727ee45dc340a50d72d612b536fc132e180ed0795951c7c4c86b",
+          "translationSha256": "4b489c4ae8ed7b260b91ff85c8e950c96dd7e7730371ad116c906c2917849d21",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.ghXTfe7sgCbgf1Q8.name",
+          "sourceSha256": "d69eecab2f767f0d282d036abcf2ffce962762fafc91151c5f84d262991d2179",
+          "translationSha256": "cc34393132191af618b4437bab4066776b106e5d8d45264d3c263ef88f11f063",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.ghXTfe7sgCbgf1Q8.description",
+          "sourceSha256": "6909404538f84b03702c7d17e4c595ba3a2be079058c4d63b72402e9b5c67443",
+          "translationSha256": "5cd31166944342c8b405016d63a5dbde27e041e703863e3f3fa0ae328499a499",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.ppWAAEul0QHtm4er.name",
+          "sourceSha256": "d9f195a0432541e2b55ad8de73247e8e0568b16c86d3838ea898e874ee177425",
+          "translationSha256": "f5497f5ab61d3eed684fd5955f2e15bd27eac03986f2357b15ed614cd3c7283e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.ppWAAEul0QHtm4er.description",
+          "sourceSha256": "2b48e14aa0310e00f77ff28aa9ca2c1cf009271017e92cd8d96b7a766394c857",
+          "translationSha256": "c3677a92b8876911296cca6277566fd5e40f423572117a518777a477fa49f16d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.8dzaICjGy6mTUaUr.name",
+          "sourceSha256": "3abbd69ed48b2d67b7163fd4283e293f7c8248d7a225dc42896fc84baf98b9b1",
+          "translationSha256": "cff911d38ad345d488f98ae54ded694594718aa33815c30cbbf02b712368dd22",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.8dzaICjGy6mTUaUr.description",
+          "sourceSha256": "12374d780ed66ddcf0c51b02ae36af7d0c3be8f85853466389378eafc6f49e08",
+          "translationSha256": "6da28000d2fa09ef9d11195950b0d777d8824b93e42a6534f7804af4594e9daa",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.8dzaICjGy6mTUaUr.effects.8rP3gwmXVTgZqYZE.name",
+          "sourceSha256": "3abbd69ed48b2d67b7163fd4283e293f7c8248d7a225dc42896fc84baf98b9b1",
+          "translationSha256": "cff911d38ad345d488f98ae54ded694594718aa33815c30cbbf02b712368dd22",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.BV0mpbHh29IbbIj5.name",
+          "sourceSha256": "71cacf0f1146b255c0214cdb20811bc253da98af4eca37f572b9c874c4799033",
+          "translationSha256": "df81b57309b874800fc4bee4682a0e7c942766e158b4e014f1453bd74351e4b7",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.BV0mpbHh29IbbIj5.description",
+          "sourceSha256": "c260a812e51971be99167776ff436c3a3b5a3d795c5b0b8685ca69ee96279cec",
+          "translationSha256": "5a27259faa4afcb506d642e5e2515866519b00993a58e74b7bdd7c092cf26b0c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.uUWb1wZgtMou0TVP.name",
+          "sourceSha256": "37e7b242876dfe75755d06c104a3cca7a2c0af0f90bb8d66a68d4d4d76fd9c5a",
+          "translationSha256": "0fb65b1cc67b6e0788f275aefa454310801eea34837e8fd17cb1ca630cf85d78",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.uUWb1wZgtMou0TVP.description",
+          "sourceSha256": "eeb3ecc5e4ea7ae64a5b9598be44b97252cd1f999b2fcc767d43c5a7622778cd",
+          "translationSha256": "516139f9500e41b85a0c0366292309973066ba8902d970958fb8e42296cf6186",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.F0GsG0SJzsIOacwV.name",
+          "sourceSha256": "3a902d824623a7c4bf434820867767cc706d3916a5d751299e37e179e6f980e6",
+          "translationSha256": "c99cd1c89cb8a535c09a85d0ce91dcb643eace08d9e2a5d83c41d721f02e9042",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.F0GsG0SJzsIOacwV.description",
+          "sourceSha256": "dea039d35dc2c8a34cf715f7a5d1e220b587c153b1cbfffc9fac8d730f4ab1de",
+          "translationSha256": "ba15786aa200d21ffe1015a98e9057be6ceabc896fb073ecfe9fe830b5a40a6b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.gvdA9nPuWLck4tBl.name",
+          "sourceSha256": "275a77faac4972ade3db35d5c72fa0581046da22f90764887ae6c38e8c142606",
+          "translationSha256": "7921ce20f8a70765f155da087ce394f98721915890d253d86679097ada53f496",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.gvdA9nPuWLck4tBl.description",
+          "sourceSha256": "0a9f68e1d85ad707cc1b10f449a3e3fe1ae347e9fc357f93433f4bed03695b00",
+          "translationSha256": "e05e88f8a704e61d2fcbbd99541aac40198fed78b9926ef8f8bcc90cbe70661b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.z1mx84ONwkXKUZd7.name",
+          "sourceSha256": "480d4be7d61fe52bc31768ffaaffea7ad5db66ba8b699d30623c4726704cc646",
+          "translationSha256": "fcb66c4d741ae4bb8149a195e0df7c3f3f84c30d30d1d4b30514e0cb97f28e45",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.z1mx84ONwkXKUZd7.description",
+          "sourceSha256": "20efd236bb84f6324e70008ffd154aec476c49324bd117c155d6d0b30f3ace3e",
+          "translationSha256": "347c5d719f09f9c2e9128195088e1eeb92683008f115de24e8635e81aa3b9c70",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.z1mx84ONwkXKUZd7.effects.6pbotGIvqQkraPva.name",
+          "sourceSha256": "480d4be7d61fe52bc31768ffaaffea7ad5db66ba8b699d30623c4726704cc646",
+          "translationSha256": "fcb66c4d741ae4bb8149a195e0df7c3f3f84c30d30d1d4b30514e0cb97f28e45",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.kSPRpeIx3w3nihrF.name",
+          "sourceSha256": "c6d5ed757b66bfd3147a10410e0922b701baf55c401a1491e314d65fba08d15d",
+          "translationSha256": "ce4dc6f9273e29f18e2150f82e458fe4cd3d85f770bfd1a9190a2d0e61121bb2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.kSPRpeIx3w3nihrF.description",
+          "sourceSha256": "9a5b4a84882c9fec8fd8f6dd9cad4104f199aa61b3f4160855d13ce246f0ca2a",
+          "translationSha256": "d19ddcb4bad6ecf8e4aaef65f3d7f3f29786220a907baca077181da1f244a4d0",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.WzvJ7G3cqvIubsLk.name",
+          "sourceSha256": "7cd7b3a95d476c0187a8a4c53bfc7be6eb45a95d6d9c5ba82801527ad19efbb2",
+          "translationSha256": "7601d94fd1dce5db35e9df45fd25de2f1a65162fd76faa6283ebfad805b678ed",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.WzvJ7G3cqvIubsLk.description",
+          "sourceSha256": "d1c463bc12f729c65fcb6eea526d120c3435a18551c158e517a4784645e00c93",
+          "translationSha256": "15abe710d90a5232693cf2a4a7bafdc8494e9e2b3250d428e3314584e812cfa6",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.fVbCxFRaORalHB20.name",
+          "sourceSha256": "c318b517ee020ea2e45078c3ff347e7b5aab669aef8047c19a258782b960b276",
+          "translationSha256": "2519027d668867408ee26e7ebfdef920ff0a10c4cbe7bad159610d7ae91db46b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.fVbCxFRaORalHB20.description",
+          "sourceSha256": "952bff235ebfc75ef27b8f5e08c90a72bff7718dbdb784973094da11ded3b54d",
+          "translationSha256": "94b7abf8cfe0380aa8f80afba408d02e04f87dba56bc6818b7c77a7f5bcfe5f4",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.MAxM77CDUu8dgIRQ.name",
+          "sourceSha256": "e961de312bd436b4ef8cbdc1080884d41ade721d53e3ebc77d7f956aac32c78e",
+          "translationSha256": "d74d84a04f589f4fa7f2d5c8c2a7b4468a379c357369b59161be59924e0c868a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCouatl0000000.items.MAxM77CDUu8dgIRQ.description",
+          "sourceSha256": "b65b7901c4e10e1b6b62f889ae05198640aae6645038220c4a4b6ea91712a21c",
+          "translationSha256": "fd0f468c8570bb6e585f231a4efdbcd87bb56ff9f3b668dfe2a96e3acb91931e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Couatl profile and spells reviewed against English export; transformation exceptions, poison and contextual gender checked."
+        }
+      ]
     }
   ]
 }

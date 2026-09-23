@@ -8191,12 +8191,12 @@
       "items": {
         "7M1OrMoMMTCEKxta": {
           "name": "Mordisco",
-          "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo debe tener éxito en un [[/save]] ahorro tirar o ser &amp;Reference[poisoned apply=false] durante 24 horas. Hasta que este veneno termine, el objetivo es &amp;Reference[unconscious apply=false]. Otra criatura puede usar una acción para despertar al objetivo.</p>",
-          "descriptionChat": "<p>El Couatl ataca con su mordida. El objetivo debe hacer un <strong>Constitución</strong> El lanzamiento de ahorro.</p>",
+          "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo debe superar una tirada de salvación [[/save]] o quedar &amp;Reference[poisoned apply=false] durante 24 horas. Hasta que termine este veneno, está &amp;Reference[unconscious apply=false]. Otra criatura puede usar una acción para sacudirlo y despertarlo.</p>",
+          "descriptionChat": "<p>El couatl ataca con su mordisco. El objetivo debe realizar una tirada de salvación de <strong>Constitución</strong>.</p>",
           "effects": {
             "GLxzcYW1p5BO6Tdt": {
               "name": "Envenenado",
-              "description": "<p>Hasta que este veneno termine, el objetivo está inconsciente. Otra criatura puede usar una acción para despertar al objetivo.</p>"
+              "description": "<p>Hasta que termine este veneno, el objetivo está inconsciente. Otra criatura puede usar una acción para sacudirlo y despertarlo.</p>"
             }
           }
         },
@@ -8207,97 +8207,97 @@
               "name": "Escudo"
             }
           },
-          "description": "<p>Una barrera invisible de fuerza mágica aparece y te protege. Hasta el comienzo de su próximo turno, usted tiene un bono de +5 a AC, incluyendo contra el ataque de activación, y usted no recibe ningún daño de misiles mágicos.</p>"
+          "description": "<p>Una barrera invisible de fuerza mágica aparece para protegerte. Hasta el comienzo de tu siguiente turno, obtienes un bonificador de +5 a la CA, también contra el ataque que desencadenó el conjuro, y no recibes daño de proyectil mágico.</p>"
         },
         "8LkzioyaScFxfst7": {
-          "name": "Constricción",
-          "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo se ha alcanzado (escapar [[/check]]). Hasta que termine esta pelea, el objetivo está restringido, y el [[lookup @name lowercase]] No puede constriñir otro objetivo.</p>",
-          "descriptionChat": "<p>El Couatl ataca con su restricción. El objetivo está enfrentado. Hasta que termine este garfio, el objetivo está restringido, y el couatl no puede constriñir otro objetivo.</p>",
+          "name": "Constreñir",
+          "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>El objetivo está agarrado (escapar [[/check]]). Hasta que termine el agarre, el objetivo está apresado y el [[lookup @name lowercase]] no puede constreñir a otro objetivo.</p>",
+          "descriptionChat": "<p>El couatl ataca con Constreñir. El objetivo queda agarrado. Hasta que termine este agarre, el objetivo está apresado y el couatl no puede constreñir a otro objetivo.</p>",
           "activities": {
             "qSVi3BwrAoCnPpjk": {
-              "name": "Comprobación de escape"
+              "name": "Prueba para escapar"
             }
           },
           "effects": {
             "bT77MKZEyBFGGrrW": {
-              "name": "Restringido",
-              "description": "<p>Hasta que termine esta pelea, el objetivo está restringido.</p>"
+              "name": "Apresado",
+              "description": "<p>Hasta que termine el agarre, el objetivo está apresado.</p>"
             }
           }
         },
         "iw2q07K1D0X01DZO": {
-          "name": "Cambiar forma",
-          "description": "<p>El couatl mágicamente se polimorfo en un humanoide o bestia que tiene una calificación de desafío igual o menor que la suya propia, o de vuelta en su forma verdadera. Revierte a su verdadera forma si muere. Cualquier equipo que esté usando o llevando es absorbido o llevado por la nueva forma (la elección del couatl).</p><p>En una nueva forma, el couatl conserva sus estadísticas de juego y su capacidad para hablar, pero sus AC, modos de movimiento, Fuerza, Dexteridad y otras acciones son reemplazados por las de la nueva forma, y gana cualquier estadística y capacidades (excepto características de clase, acciones legendarias y acciones de guarida) que la nueva forma tiene pero que le falta. Si la nueva forma tiene un ataque de mordida, el couatl puede usar su mordida en esa forma.</p>"
+          "name": "Cambiar de Forma",
+          "description": "<p>El couatl se transforma mágicamente en un humanoide o una bestia con un valor de desafío igual o inferior al suyo, o vuelve a su verdadera forma. Si muere, vuelve a su forma verdadera. El equipo que vista o lleve consigo es absorbido o transportado por la nueva forma, a elección del couatl.</p><p>En su nueva forma, conserva sus estadísticas y su capacidad de hablar, pero su CA, sus modos de movimiento, su Fuerza, su Destreza y sus demás acciones se sustituyen por los de la nueva forma. Obtiene las estadísticas y capacidades de la nueva forma de las que carezca, excepto rasgos de clase, acciones legendarias y acciones de guarida. Si la nueva forma tiene un ataque de mordisco, el couatl puede usar su mordisco en esa forma.</p>"
         },
         "J40yeoOnwpvtVpHt": {
-          "name": "Difusión de conjuros innatos",
-          "description": "<p>Los [[lookup @name lowercase]]La habilidad de conjuro es Carisma (salvar CD [[lookup @abilities.cha.dc]]). Puede lanzar innatamente los siguientes conjuros, requiriendo solamente componentes verbales:</p><p>A discreción:  [[/item .Mzh95utKDPIrjiH8]]{detectar el mal y el bien}, [[/item .ghXTfe7sgCbgf1Q8]]{detectar magia}, [[/item .ppWAAEul0QHtm4er]]{detectar pensamientos}</p><p>3/día cada uno: [[/item .8dzaICjGy6mTUaUr]]{bendice}, [[/item .BV0mpbHh29IbbIj5]]{crear alimentos y agua}, [[/item .uUWb1wZgtMou0TVP]]{curar heridas}, [[/item .F0GsG0SJzsIOacwV]]{menor restauración}, [[/item .MAxM77CDUu8dgIRQ]]{protección contra el veneno}, [[/item .gvdA9nPuWLck4tBl]]{santuario}, [[/item .z1mx84ONwkXKUZd7]]{escudo}</p><p>1/día cada uno: [[/item .kSPRpeIx3w3nihrF]]{sueño}, [[/item .WzvJ7G3cqvIubsLk]]{mayor restauración}, [[/item .fVbCxFRaORalHB20]]{scriing}</p>"
+          "name": "Lanzamiento de Conjuros Innato",
+          "description": "<p>La aptitud mágica del [[lookup @name lowercase]] es Carisma (CD [[lookup @abilities.cha.dc]] para sus salvaciones de conjuros). Puede lanzar de forma innata los siguientes conjuros, usando solo componentes verbales:</p><p>A voluntad: [[/item .Mzh95utKDPIrjiH8]]{detectar el bien y el mal}, [[/item .ghXTfe7sgCbgf1Q8]]{detectar magia}, [[/item .ppWAAEul0QHtm4er]]{detectar pensamientos}</p><p>3/día cada uno: [[/item .8dzaICjGy6mTUaUr]]{bendecir}, [[/item .BV0mpbHh29IbbIj5]]{crear comida y agua}, [[/item .uUWb1wZgtMou0TVP]]{curar heridas}, [[/item .F0GsG0SJzsIOacwV]]{restablecimiento menor}, [[/item .MAxM77CDUu8dgIRQ]]{protección contra el veneno}, [[/item .gvdA9nPuWLck4tBl]]{santuario}, [[/item .z1mx84ONwkXKUZd7]]{escudo}</p><p>1/día cada uno: [[/item .kSPRpeIx3w3nihrF]]{sueño}, [[/item .WzvJ7G3cqvIubsLk]]{restablecimiento mayor}, [[/item .fVbCxFRaORalHB20]]{escudriñar}</p>"
         },
         "3qE2LLHPANSEPmIN": {
-          "name": "Armas mágicas",
-          "description": "<p>Los ataques con armas del couatl son mágicos.</p>"
+          "name": "Armas Mágicas",
+          "description": "<p>Los ataques con arma del couatl son mágicos.</p>"
         },
         "MGh9IkfXNn7FmwL5": {
-          "name": "Mente protegida",
-          "description": "<p>El couatl es inmune a los garabatos y a cualquier efecto que pueda sentir sus emociones, leer sus pensamientos o detectar su ubicación.</p>"
+          "name": "Mente Protegida",
+          "description": "<p>El couatl es inmune a escudriñar y a cualquier efecto que perciba sus emociones, lea sus pensamientos o detecte su ubicación.</p>"
         },
         "Mzh95utKDPIrjiH8": {
-          "name": "Detectar el mal y el bien",
-          "description": "<p>Por la duración, usted sabe si hay una aberración, celestial, elemental, fey, demonio, o no-muerto a menos de 30 pies de usted, así como donde la criatura se encuentra. Del mismo modo, usted sabe si hay un lugar u objeto dentro de 30 pies de usted que ha sido mágicamente consagrado o profanado.</p><p>El conjuro puede penetrar la mayoría de las barreras, pero está bloqueado por 1 pie de piedra, 1 pulgada de metal común, una fina hoja de plomo, o 3 pies de madera o suciedad.</p>"
+          "name": "Detectar el bien y el mal",
+          "description": "<p>Mientras dure el conjuro, sabes si hay alguna aberración, celestial, elemental, feérico, infernal o muerto viviente a 30 pies o menos de ti, así como dónde se encuentra. Del mismo modo, sabes si hay algún lugar u objeto consagrado o profanado mágicamente a 30 pies o menos de ti.</p><p>El conjuro puede atravesar la mayoría de las barreras, pero lo bloquean 1 pie de piedra, 1 pulgada de metal común, una lámina fina de plomo o 3 pies de madera o tierra.</p>"
         },
         "ghXTfe7sgCbgf1Q8": {
           "name": "Detectar magia",
-          "description": "<p>Durante la duración, sientes la presencia de la magia a menos de 30 pies de ti. Si sientes magia de esta manera, puedes usar tu acción para ver un aura débil alrededor de cualquier criatura visible u objeto en la zona que lleva magia, y aprender su escuela de magia, si la hay.</p><p>El conjuro puede penetrar la mayoría de las barreras, pero está bloqueado por 1 pie de piedra, 1 pulgada de metal común, una fina hoja de plomo, o 3 pies de madera o suciedad.</p>"
+          "description": "<p>Durante el conjuro, percibes la presencia de magia a 30 pies o menos de ti. Si la percibes de este modo, puedes usar tu acción para ver un aura tenue alrededor de cualquier criatura u objeto visible del área que posea magia y conocer su escuela de magia, si pertenece a alguna.</p><p>El conjuro puede atravesar la mayoría de las barreras, pero lo bloquean 1 pie de piedra, 1 pulgada de metal común, una lámina fina de plomo o 3 pies de madera o tierra.</p>"
         },
         "ppWAAEul0QHtm4er": {
           "name": "Detectar pensamientos",
-          "description": "<p>Durante la duración, usted puede leer los pensamientos de ciertas criaturas. Cuando lanzas el conjuro y como tu acción en cada giro hasta que el conjuro termina, puedes enfocar tu mente en cualquier criatura que puedas ver a menos de 30 pies de ti. Si la criatura que elijas tiene una Inteligencia de 3 o inferior o no habla ningún idioma, la criatura no se verá afectada.</p><p>Inicialmente aprendes los pensamientos superficiales de la criatura, lo que más está en su mente en ese momento. Como una acción, puedes desplazar tu atención a los pensamientos de otra criatura o intentar indagar más profundamente en la mente de la misma criatura. Si sondas más profundo, el objetivo debe hacer un lanzamiento de ahorro de sabiduría. Si falla, usted obtiene una visión de su razonamiento (si lo hay), su estado emocional, y algo que se avecina en su mente (como algo que le preocupa, ama u odia). Si tiene éxito, el conjuro termina. De cualquier manera, el objetivo sabe que están sondeando en su mente, y a menos que cambien su atención a los pensamientos de otra criatura, la criatura puede usar su acción en su turno para hacer una comprobación de Inteligencia impugnada por su comprobación de Inteligencia; si tiene éxito, el conjuro termina.</p><p>Las preguntas dirigidas verbalmente a la criatura objetivo forman naturalmente el curso de sus pensamientos, por lo que este conjuro es particularmente eficaz como parte de un interrogatorio.</p><p>También puedes usar este conjuro para detectar la presencia de criaturas pensantes que no puedes ver. Cuando usted lanza el conjuro o como su acción durante la duración, usted puede buscar pensamientos a menos de 30 pies de usted. El conjuro puede penetrar barreras, pero 2 pies de roca, 2 pulgadas de cualquier metal que no sea plomo, o una delgada hoja de plomo te bloquea. No se puede detectar una criatura con una Inteligencia de 3 o inferior o una que no habla ningún idioma.</p><p>Una vez que detectas la presencia de una criatura de esta manera, puedes leer sus pensamientos por el resto de la duración como se describe anteriormente, incluso si no puedes verlo, pero todavía debe estar dentro del rango.</p>"
+          "description": "<p>Durante el conjuro, puedes leer los pensamientos de ciertas criaturas. Al lanzarlo y como acción en cada uno de tus turnos hasta que termine, puedes concentrar tu mente en una criatura que puedas ver a 30 pies o menos de ti. Si la criatura tiene Inteligencia 3 o inferior, o no habla ningún idioma, no se ve afectada.</p><p>Al principio percibes sus pensamientos superficiales: lo que más ocupa su mente en ese momento. Como acción, puedes dirigir tu atención a los pensamientos de otra criatura o intentar profundizar en la mente de la misma. Si profundizas, el objetivo debe realizar una tirada de salvación de Sabiduría. Si falla, descubres su razonamiento, si lo tiene, su estado emocional y algo que ocupe un lugar destacado en su mente, como una preocupación o algo que ame u odie. Si tiene éxito, el conjuro termina. En cualquier caso, el objetivo sabe que estás explorando su mente y, a menos que dirijas tu atención a otra criatura, puede usar su acción en su turno para realizar una prueba de Inteligencia enfrentada a la tuya; si gana, el conjuro termina.</p><p>Las preguntas dirigidas verbalmente al objetivo orientan de forma natural sus pensamientos, por lo que este conjuro resulta especialmente eficaz en un interrogatorio.</p><p>También puedes usarlo para detectar criaturas pensantes que no puedas ver. Al lanzar el conjuro o como acción mientras dure, puedes buscar pensamientos a 30 pies o menos de ti. El conjuro atraviesa barreras, pero lo bloquean 2 pies de roca, 2 pulgadas de cualquier metal distinto del plomo o una lámina fina de plomo. No puedes detectar criaturas con Inteligencia 3 o inferior ni aquellas que no hablen ningún idioma.</p><p>Cuando detectas a una criatura de este modo, puedes leer sus pensamientos durante el resto del conjuro como se describe arriba, aunque no puedas verla, siempre que siga dentro del alcance.</p>"
         },
         "8dzaICjGy6mTUaUr": {
-          "name": "Bendice.",
-          "description": "<p>Bendices hasta tres criaturas de tu elección dentro del rango. Cuando un objetivo hace un rollo de ataque o un lanzamiento de ahorro antes de que el conjuro termine, el objetivo puede rodar 1d4 y añadir el número rodado al rollo de ataque o lanzamiento de ahorro.</p>\n<p><strong>Niveles superiores.</strong> Al lanzar este conjuro usando una ranura para conjuros de 2o nivel o superior, puede apuntar a una criatura adicional por cada nivel de ranura por encima de 1o.</p>",
+          "name": "Bendecir",
+          "description": "<p>Bendices hasta tres criaturas de tu elección dentro del alcance. Cuando un objetivo realice una tirada de ataque o de salvación antes de que termine el conjuro, puede tirar 1d4 y sumar el resultado a la tirada de ataque o de salvación.</p><p><strong>A niveles superiores.</strong> Si lanzas este conjuro usando un espacio de nivel 2 o superior, puedes elegir una criatura adicional por cada nivel del espacio por encima de 1.</p>",
           "effects": {
             "8rP3gwmXVTgZqYZE": {
-              "name": "Bendice."
+              "name": "Bendecir"
             }
           }
         },
         "BV0mpbHh29IbbIj5": {
           "name": "Crear comida y agua",
-          "description": "<p>Se crean 45 libras de comida y 30 galones de agua en el suelo o en contenedores dentro del alcance, lo suficiente para sostener hasta quince humanoides o cinco corceles durante 24 horas. La comida es sosa pero nutritiva, y se echa a perder si no se come después de 24 horas. El agua está limpia y no sale mal.</p>"
+          "description": "<p>Creas 45 libras de comida y 30 galones de agua en el suelo o en recipientes dentro del alcance, suficientes para alimentar hasta quince humanoides o cinco monturas durante 24 horas. La comida es insípida pero nutritiva y se estropea si no se consume antes de 24 horas. El agua es limpia y no se estropea.</p>"
         },
         "uUWb1wZgtMou0TVP": {
-          "name": "Heridas curativas",
-          "description": "<p>Una criatura que tocas recupera un número de puntos de impacto igual a 1d8 + tu modificador de habilidad de deletrear. Este conjuro no tiene ningún efecto en muertos vivientes o construcciones.</p><p><strong>Niveles superiores.</strong> Cuando usted lanza este conjuro usando una espacio de conjuro de 2o nivel o superior, la curación aumenta en 1d8 para cada nivel de ranura por encima de 1o.</p>"
+          "name": "Curar heridas",
+          "description": "<p>Una criatura a la que toques recupera tantos puntos de golpe como 1d8 + tu modificador por aptitud mágica. Este conjuro no tiene efecto sobre muertos vivientes ni autómatas.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro usando un espacio de nivel 2 o superior, la curación aumenta en 1d8 por cada nivel del espacio por encima de 1.</p>"
         },
         "F0GsG0SJzsIOacwV": {
-          "name": "Restauración menor",
-          "description": "<p>Tocas a una criatura y puedes acabar con una enfermedad o con una condición que la aflija. La afección puede ser cegada, ensordecida, paralizada o envenenada.</p>"
+          "name": "Restablecimiento menor",
+          "description": "<p>Tocas a una criatura y puedes terminar una enfermedad o un estado que la afecte. El estado puede ser cegado, ensordecido, paralizado o envenenado.</p>"
         },
         "gvdA9nPuWLck4tBl": {
           "name": "Santuario",
-          "description": "<p>Usted protege a una criatura a su alcance contra el ataque. Hasta que termine el conjuro, cualquier criatura que apunte a la criatura custodiada con un ataque o un conjuro dañino primero debe hacer un lanzamiento de ahorro de Sabiduría. En un ahorro fallido, la criatura debe elegir un nuevo objetivo o perder el ataque o conjuro. Este conjuro no protege a la criatura protegida de los efectos del área, como la explosión de una bola de fuego.</p><p>Si la criatura custodiada hace un ataque o lanza un conjuro que afecta a una criatura enemiga, este conjuro termina.</p>"
+          "description": "<p>Proteges de los ataques a una criatura dentro del alcance. Hasta que termine el conjuro, cualquier criatura que elija a la criatura protegida como objetivo de un ataque o conjuro dañino debe realizar primero una tirada de salvación de Sabiduría. Si falla, debe elegir otro objetivo o perder el ataque o conjuro. Este conjuro no protege contra efectos de área, como la explosión de una bola de fuego.</p><p>Si la criatura protegida realiza un ataque o lanza un conjuro que afecte a una criatura enemiga, este conjuro termina.</p>"
         },
         "kSPRpeIx3w3nihrF": {
           "name": "Sueño",
-          "description": "<p>Este conjuro moldea los sueños de una criatura. Elija una criatura conocida por usted como el objetivo de este conjuro. El objetivo debe estar en el mismo plano de existencia que tú. Las criaturas que no duermen, como los elfos, no pueden ser contactadas por este conjuro. Usted, o una criatura dispuesta a tocar, entra en un estado de trance, actuando como un mensajero. Mientras está en trance, el mensajero es consciente de su entorno, pero no puede tomar acciones o moverse.</p><p>Si el objetivo está dormido, el mensajero aparece en los sueños del objetivo y puede conversar con el objetivo mientras permanezca dormido, a través de la Duración del conjuro. El mensajero también puede dar forma al entorno del sueño, creando paisajes, objetos y otras imágenes. El mensajero puede emerger del trance en cualquier momento, terminando el efecto del conjuro temprano. El objetivo recuerda perfectamente el sueño al despertar. Si el objetivo está despierto cuando lanzas el conjuro, el mensajero lo sabe, y puede terminar el trance (y el conjuro) o esperar a que el objetivo se duerma, momento en el que el mensajero aparece en los sueños del objetivo.</p><p>Puedes hacer que el mensajero parezca monstruoso y aterrador al objetivo. Si lo haces, el mensajero puede entregar un mensaje de no más de diez palabras y entonces el objetivo debe hacer un lanzamiento de ahorro de sabiduría. En un ahorro fallido, los ecos de la monstruosidad fantasmal engendran una pesadilla que dura la Duración del sueño del objetivo e impide que el objetivo obtenga algún beneficio de ese descanso. Además, cuando el objetivo se despierta, se necesita daño psíquico 3d6.</p><p>Si usted tiene una parte del cuerpo, mechón de cabello, corte de una uña, o porción similar del cuerpo del objetivo, el objetivo hace su tiro ahorro con desventaja.</p>"
+          "description": "<p>Este conjuro da forma a los sueños de una criatura. Elige como objetivo a una criatura que conozcas y que esté en tu mismo plano de existencia. El conjuro no permite contactar con criaturas que no duermen, como los elfos. Tú, o una criatura voluntaria a la que toques, entráis en trance para actuar como mensajero. Durante el trance, el mensajero percibe su entorno, pero no puede realizar acciones ni moverse.</p><p>Si el objetivo está dormido, el mensajero aparece en sus sueños y puede conversar con él mientras siga durmiendo y dure el conjuro. También puede modificar el entorno del sueño, creando paisajes, objetos y otras imágenes. El mensajero puede salir del trance en cualquier momento, terminando el efecto del conjuro antes de tiempo. Al despertar, el objetivo recuerda el sueño perfectamente. Si está despierto cuando lanzas el conjuro, el mensajero lo sabe y puede terminar el trance y el conjuro o esperar a que el objetivo se duerma para aparecer en sus sueños.</p><p>Puedes hacer que el mensajero adopte un aspecto monstruoso y aterrador para el objetivo. En ese caso, puede entregar un mensaje de un máximo de diez palabras, tras lo cual el objetivo debe realizar una tirada de salvación de Sabiduría. Si falla, los ecos de esa monstruosidad fantasmal generan una pesadilla que dura mientras el objetivo duerma y le impide obtener beneficio alguno de ese descanso. Además, al despertar recibe 3d6 de daño psíquico.</p><p>Si tienes una parte del cuerpo del objetivo, un mechón de pelo, un recorte de uña u otra porción similar, este realiza la tirada de salvación con desventaja.</p>"
         },
         "WzvJ7G3cqvIubsLk": {
-          "name": "Mayor restauración",
-          "description": "<p>Imbues a una criatura que tocas con energía positiva para deshacer un efecto debilitante. Puede reducir el nivel de agotamiento del objetivo en uno, o terminar uno de los siguientes Efectos en el objetivo:</p>\n<ul>\n<li>Un efecto que embrujó o petrificó al objetivo</li>\n<li>Una maldición, incluyendo la Afinación del objetivo a un objeto mágico maldito</li>\n<li>Cualquier reducción a una de las puntuaciones de habilidad del objetivo</li>\n<li>Un efecto reduciendo el punto máximo de impacto del objetivo</li>\n</ul>"
+          "name": "Restablecimiento mayor",
+          "description": "<p>Imbuyes de energía positiva a una criatura a la que toques para eliminar un efecto debilitante. Puedes reducir en uno su nivel de cansancio o terminar uno de los siguientes efectos que la afecten:</p><ul><li>Un efecto que haya hechizado o petrificado al objetivo.</li><li>Una maldición, incluida la sintonización del objetivo con un objeto mágico maldito.</li><li>Cualquier reducción de una de las puntuaciones de característica del objetivo.</li><li>Un efecto que reduzca sus puntos de golpe máximos.</li></ul>"
         },
         "fVbCxFRaORalHB20": {
-          "name": "Llorando",
-          "description": "<p>Pueden ver y oír a una criatura en particular que eligen que está en el mismo plano de la existencia que ustedes. El objetivo debe hacer un lanzamiento de ahorro de sabiduría, que se modifica por lo bien que conoces el objetivo y el tipo de conexión física que tienes con él. Si un objetivo sabe que estás lanzando este conjuro, puede fallar el lanzamiento de ahorro voluntariamente si quiere ser observado.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Conocimientos</strong></td>\n<td><strong>Guardar modificador</strong></td>\n</tr>\n<tr>\n<td>De segunda mano (usted ha oído hablar del objetivo)</td>\n<td>+5</td>\n</tr>\n<tr>\n<td>De primera mano (ha encontrado el objetivo)</td>\n<td>+0</td>\n</tr>\n<tr>\n<td>Familiar (usted conoce bien el objetivo)</td>\n<td>-5</td>\n</tr>\n</tbody>\n</table>\n\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Conexión</strong></td>\n<td><strong>Guardar modificador</strong></td>\n</tr>\n<tr>\n<td>Ilustraciones o imágenes</td>\n<td>-2</td>\n</tr>\n<tr>\n<td>Posesión o prenda de vestir</td>\n<td>-4</td>\n</tr>\n<tr>\n<td>Parte del cuerpo, mechón de pelo, uña o algo parecido</td>\n<td>-10</td>\n</tr>\n</tbody>\n</table>\n<p>En un ahorro exitoso, el objetivo no se ve afectado, y no se puede usar este conjuro contra él de nuevo durante 24 horas.</p><p>En un ahorro fallido, el conjuro crea un sensor invisible a menos de 10 pies del objetivo. Puedes ver y oír a través del sensor como si estuvieras allí. El sensor se mueve con el objetivo, permaneciendo a menos de 10 pies de él durante la Duración. Una criatura que puede ver Objetos Invisiles ve el sensor como un orbe luminoso del tamaño de su puño.</p><p>En lugar de apuntar a una criatura, puedes elegir una ubicación que hayas visto antes como el objetivo de este conjuro. Cuando lo haces, el sensor aparece en esa ubicación y no se mueve.</p>"
+          "name": "Escudriñar",
+          "description": "<p>Puedes ver y oír a una criatura concreta de tu elección que esté en tu mismo plano de existencia. El objetivo debe realizar una tirada de salvación de Sabiduría, modificada según cuánto lo conozcas y el tipo de vínculo físico que tengas con él. Si sabe que estás lanzando este conjuro, puede fallar la salvación voluntariamente si desea ser observado.</p><table border=\"1\"><tbody><tr><td><strong>Conocimiento</strong></td><td><strong>Modificador a la salvación</strong></td></tr><tr><td>De oídas (has oído hablar del objetivo)</td><td>+5</td></tr><tr><td>Directo (has conocido al objetivo)</td><td>+0</td></tr><tr><td>Familiar (conoces bien al objetivo)</td><td>-5</td></tr></tbody></table><table border=\"1\"><tbody><tr><td><strong>Vínculo</strong></td><td><strong>Modificador a la salvación</strong></td></tr><tr><td>Retrato o imagen</td><td>-2</td></tr><tr><td>Una pertenencia o prenda de vestir</td><td>-4</td></tr><tr><td>Una parte del cuerpo, un mechón de pelo, un recorte de uña o algo similar</td><td>-10</td></tr></tbody></table><p>Si supera la salvación, el objetivo no se ve afectado y no puedes volver a usar este conjuro contra él durante 24 horas.</p><p>Si falla, el conjuro crea un sensor invisible a 10 pies o menos del objetivo. Puedes ver y oír a través de él como si estuvieras allí. El sensor se mueve con el objetivo y permanece a 10 pies o menos de él mientras dure el conjuro. Una criatura que pueda ver objetos invisibles percibe el sensor como un orbe luminoso del tamaño aproximado de tu puño.</p><p>En lugar de elegir una criatura como objetivo, puedes elegir un lugar que hayas visto antes. En ese caso, el sensor aparece allí y no se mueve.</p>"
         },
         "MAxM77CDUu8dgIRQ": {
-          "name": "Protección contra el Veneno",
-          "description": "<p>Tocas a una criatura. Si está envenenado, neutralizas el veneno. Si más de un veneno afecta al objetivo, neutralizas un veneno que sabes que está presente, o neutralizas uno al azar.</p><p>Durante el tiempo, el objetivo tiene ventaja en el ahorro de tiros contra ser envenenado, y tiene resistencia a daños venenosos.</p>"
+          "name": "Protección contra el veneno",
+          "description": "<p>Tocas a una criatura. Si está envenenada, neutralizas el veneno. Si la afectan varios venenos, neutralizas uno cuya presencia conozcas o uno al azar.</p><p>Durante el conjuro, el objetivo tiene ventaja en las tiradas de salvación para evitar quedar envenenado y resistencia al daño de veneno.</p>"
         }
       },
       "name": "Couatl",
       "tokenName": "Couatl",
-      "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+      "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
     },
     "toaCrab000000000": {
       "alignment": "Sin alineamiento",
