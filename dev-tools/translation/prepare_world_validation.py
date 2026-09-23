@@ -13,7 +13,12 @@ for path,english in fields(source,'Adventure'):
 manifest=load(ROOT/'dev-tools/translation/handout-assets.json')
 for asset in manifest['assets']:
     checks.append(dict(kind='JournalEntry',id=manifest['journalId'],path=['pages',asset['pageId'],'src'],expected=asset['translation']))
+references=load(DATA/'link-audit.json')['findings']
+for key,rules in load(ROOT/'dev-tools/translation/confirmed-reference-repairs.json').items():
+    for rule in rules:
+        if rule['translation'].startswith('@UUID['):
+            references.append(dict(field=key,type='uuid',reference=rule['translation'][6:-1]))
 save(DATA/'world-validation-expectations.json',dict(checks=checks,
     counts={kind:len(source.get(group,[])) for group,kind in COLLECTIONS.items() if source.get(group)},
-    references=load(DATA/'link-audit.json')['findings']))
+    references=references))
 print('Prepared checks:',len(checks))

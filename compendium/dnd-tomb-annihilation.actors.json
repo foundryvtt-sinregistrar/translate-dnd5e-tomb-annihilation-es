@@ -126,7 +126,7 @@
       },
       "creatureSubtype": "Saurial",
       "languages": "Entiende común, pero no puede hablar",
-      "biographyPublic": "<p><em>Consulta también: @UUID[Compendium.dnd-tomb-annihilation.actors.Actor.PDrrOhj8llUHrZ8e]{Artus Cimber}</em></p>",
+      "biographyPublic": "<p><em>Consulta también: @UUID[Compendium.dnd-tomb-annihilation.actors.Actor.hNq59kIhDGqZBGXl]{Artus Cimber}</em></p>",
       "biography": "<p>Dragonbait es un campeón del bien y un saurial, una raza originaria de un mundo lejano cuyos miembros son longevos. Muy pocos sauriales viven en los Reinos Olvidados, y se cree que no existe ninguna comunidad de ellos en todo el mundo.</p><p>Su idioma combina chasquidos y silbidos que los humanos no pueden oír, por lo que Dragonbait suele recurrir a los olores para comunicar sus emociones. Para que la mayoría de las criaturas parlantes lo entiendan, debe «gritar» un aroma. Entre sus olores conocidos figuran el azufre (confusión), las rosas (tristeza), el limón (placer o alegría), el pan recién horneado (ira), las violetas (peligro o miedo), la madreselva (ternura o preocupación), el humo de leña (devoción o piedad), la brea (victoria o celebración) y el jamón (nerviosismo o inquietud).</p><p>Dragonbait mide 4 pies y 10 pulgadas, pesa 150 libras y tiene la piel seca y arrugada. Empuña una espada larga vengadora sagrada y lleva un escudo azul, rojo y blanco. Aunque comparte rasgos con los paladines, no pertenece a ninguna clase. Mediante una capacidad conocida como estado Shen, puede determinar el alineamiento de cualquier criatura a 60 pies o menos.</p><p><em><strong>Una amistad inesperada</strong></em>. Dragonbait conoció a Artus Cimber en Puerto Nyanzaru y pronto se hicieron amigos. Mientras Artus le hablaba de su búsqueda para reunirse con su esposa, Alisanda, la actitud tranquila del saurial y su peculiar forma de comunicarse lo reconfortaron. Dragonbait sonrió, asintió y accedió a ayudarlo. Como visitante habitual de Chult, conocía muy bien los peligros de la selva.</p><p><em><strong>Usar a Dragonbait</strong></em>. Dragonbait nunca ha estado en Omu y no sabe dónde se encuentra. Si los personajes convencen a Artus Cimber de que los ayude a destruir el Almero, Dragonbait también desea ayudarlos.</p>"
     },
     "1JNpwd6CIk7lJyvv": {
@@ -1939,7 +1939,7 @@
       "items": {
         "07sdy4qaaW4MaB8W": {
           "name": "Lanzamiento de Conjuros",
-          "description": "<p>El druida es un lanzador de conjuros de nivel 4. Su aptitud mágica es Sabiduría (CD 12 para sus salvaciones de conjuros, +4 a impactar con ataques de conjuro).</p><p>Tiene preparados los siguientes conjuros de druida:</p><p>Trucos (a voluntad): [[/item .SbSvZKkJASyk8jKo]]{saber druídico}, [[/item .eCPQuQkIabFKTl9u]]{crear llama}, [[/item .VzgFzcmocr1X1cp4]]{garrote}</p><p>Nivel 1 (4 espacios): [[/item .gMrWeG8fMDPRFiVe]]{enmarañar}, [[/item .B0pnIcc52O6G8hi8]]{zancada prodigiosa}, [[/item .aL1F8fvYLtNzUbKu]]{hablar con los animales}, [[/item .WTbOQBsarsL1LuXJ]]{ola atronadora}</p><p>Nivel 2 (3 espacios): [[/item .X8w9EzYLGc4vQ1H2]]{mensajero animal}, [[/item .JPwIEfgUPVebr5AH]]{piel robliza}</p>",
+          "description": "<p>El druida es un lanzador de conjuros de nivel 4. Su aptitud mágica es Sabiduría (CD 12 para sus salvaciones de conjuros, +4 a impactar con ataques de conjuro).</p><p>Tiene preparados los siguientes conjuros de druida:</p><p>Trucos (a voluntad): [[/item .SbSvZKkJASyk8jKo]]{saber druídico}, [[/item .eCPQuQkIabFKTl9u]]{crear llama}, [[/item .udSiVp4nSrGBSvG1]]{garrote}</p><p>Nivel 1 (4 espacios): [[/item .gMrWeG8fMDPRFiVe]]{enmarañar}, [[/item .B0pnIcc52O6G8hi8]]{zancada prodigiosa}, [[/item .aL1F8fvYLtNzUbKu]]{hablar con los animales}, [[/item .WTbOQBsarsL1LuXJ]]{ola atronadora}</p><p>Nivel 2 (3 espacios): [[/item .X8w9EzYLGc4vQ1H2]]{mensajero animal}, [[/item .JPwIEfgUPVebr5AH]]{piel robliza}</p>",
           "descriptionChat": "<p>El druida es un lanzador de conjuros cuya aptitud mágica es Sabiduría.</p>"
         },
         "KUP8WEfLxlcY7K2x": {
@@ -4838,7 +4838,7 @@
         },
         "FRnAjNB3QiDLVTFK": {
           "name": "Toque",
-          "description": "<p>El atropal realiza un ataque de [[/item Touch]]{Toque}.</p>"
+          "description": "<p>El atropal realiza un ataque de [[/item .MSvn8c3HoaylytpC]]{Toque}.</p>"
         },
         "Fto9AMV5e4oLAMRt": {
           "name": "Rayo de frío",
@@ -5214,7 +5214,7 @@
         },
         "a34hmIKEi48x2E9h": {
           "name": "Anillo del Invierno",
-          "description": "<p>El [[/item .tAb7LaJZ0sNC1J0r]]{Anillo del Invierno} tiene 12 cargas y las recupera todas al amanecer. Mientras esté sintonizado con él y lo lleve puesto, Artus puede gastar las cargas necesarias para activar una de sus propiedades.</p>"
+          "description": "<p>El [[/item .4eRoie5xcnKklzmK]]{Anillo del Invierno} tiene 12 cargas y las recupera todas al amanecer. Mientras esté sintonizado con él y lo lleve puesto, Artus puede gastar las cargas necesarias para activar una de sus propiedades.</p>"
         },
         "4eRoie5xcnKklzmK": {
           "name": "Anillo del Invierno",
@@ -5485,7 +5485,7 @@
       "items": {
         "fKIUImfcNk0pU2HN": {
           "name": "Ataque múltiple",
-          "description": "<p>El tumulario realiza dos ataques con [[/item .WZ3XGh48UoyAvBhS]]{espada larga} o dos ataques con [[/item .PUYwkzEiKopyM6YL]]{arco largo}. Puede usar [[/item .NX8cqG6aZMns8wvY]]{Consumir vida} en lugar de uno de los ataques con espada larga.</p>"
+          "description": "<p>El tumulario realiza dos ataques con [[/item .oyfwR45WpRhyMeuZ]]{hacha de batalla} o dos ataques con [[/item .070ZKCdPnLWHtH8b]]{ballesta ligera}. Puede usar [[/item .NX8cqG6aZMns8wvY]]{Consumir vida} en lugar de uno de los ataques con hacha de batalla.</p>"
         },
         "070ZKCdPnLWHtH8b": {
           "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",

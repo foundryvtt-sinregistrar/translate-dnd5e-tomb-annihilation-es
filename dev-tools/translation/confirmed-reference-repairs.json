@@ -1,0 +1,131 @@
+{
+  "dnd-tomb-annihilation.actors.1Gp38SRQcEPAsgSG.biographyPublic": [
+    {
+      "source": "@UUID[Compendium.dnd-tomb-annihilation.actors.Actor.PDrrOhj8llUHrZ8e]",
+      "translation": "@UUID[Compendium.dnd-tomb-annihilation.actors.Actor.hNq59kIhDGqZBGXl]",
+      "reason": "Artus Cimber: exact named actor in source pack"
+    }
+  ],
+  "dnd-tomb-annihilation.actors.HQJedCnkTg7qig36.items.07sdy4qaaW4MaB8W.description": [
+    {
+      "source": "[[/item .VzgFzcmocr1X1cp4]]",
+      "translation": "[[/item .udSiVp4nSrGBSvG1]]",
+      "reason": "Shillelagh spell in same inventory"
+    }
+  ],
+  "dnd-tomb-annihilation.actors.dbM4sT1yZLbnZR2a.items.FRnAjNB3QiDLVTFK.description": [
+    {
+      "source": "[[/item Touch]]",
+      "translation": "[[/item .MSvn8c3HoaylytpC]]",
+      "reason": "Weapon Touch, not self-referential legendary feature"
+    }
+  ],
+  "dnd-tomb-annihilation.actors.hNq59kIhDGqZBGXl.items.a34hmIKEi48x2E9h.description": [
+    {
+      "source": "[[/item .tAb7LaJZ0sNC1J0r]]",
+      "translation": "[[/item .4eRoie5xcnKklzmK]]",
+      "reason": "Ring equipment with charges, not descriptive feature"
+    }
+  ],
+  "dnd-tomb-annihilation.actors.hiYoYWteYjF1umeT.items.fKIUImfcNk0pU2HN.description": [
+    {
+      "source": "[[/item .WZ3XGh48UoyAvBhS]]",
+      "translation": "[[/item .oyfwR45WpRhyMeuZ]]",
+      "reason": "Variant inventory replaces longsword with battleaxe"
+    },
+    {
+      "source": "[[/item .PUYwkzEiKopyM6YL]]",
+      "translation": "[[/item .070ZKCdPnLWHtH8b]]",
+      "reason": "Variant inventory replaces longbow with light crossbow"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.dbM4sT1yZLbnZR2a.items.FRnAjNB3QiDLVTFK.description": [
+    {
+      "source": "[[/item Touch]]",
+      "translation": "[[/item .MSvn8c3HoaylytpC]]",
+      "reason": "Weapon Touch, not self-referential legendary feature"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.1Gp38SRQcEPAsgSG.biographyPublic": [
+    {
+      "source": "@UUID[Compendium.dnd-tomb-annihilation.actors.Actor.PDrrOhj8llUHrZ8e]",
+      "translation": "@UUID[Compendium.dnd-tomb-annihilation.actors.Actor.hNq59kIhDGqZBGXl]",
+      "reason": "Artus Cimber: exact named actor in source pack"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.hiYoYWteYjF1umeT.items.fKIUImfcNk0pU2HN.description": [
+    {
+      "source": "[[/item .WZ3XGh48UoyAvBhS]]",
+      "translation": "[[/item .oyfwR45WpRhyMeuZ]]",
+      "reason": "Variant inventory replaces longsword with battleaxe"
+    },
+    {
+      "source": "[[/item .PUYwkzEiKopyM6YL]]",
+      "translation": "[[/item .070ZKCdPnLWHtH8b]]",
+      "reason": "Variant inventory replaces longbow with light crossbow"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.HQJedCnkTg7qig36.items.07sdy4qaaW4MaB8W.description": [
+    {
+      "source": "[[/item .VzgFzcmocr1X1cp4]]",
+      "translation": "[[/item .udSiVp4nSrGBSvG1]]",
+      "reason": "Shillelagh spell in same inventory"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaZaroumAlSarya.items.bLvq7KB0QTLkHbGE.description": [
+    {
+      "source": "[[/item Scimitar]]",
+      "translation": "[[/item .szUhMLg8Gm8SMGIN]]",
+      "reason": "Gem Studded Scimitar is the unique scimitar weapon"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaAppBRandomEnc.pages.DFIxvfX6onZK3Yb1.text": [
+    {
+      "source": "@UUID[Compendium.dnd-tomb-annihilation.actors.Actor.toaEncChwinga000]",
+      "translation": "@UUID[Compendium.dnd-tomb-annihilation.actors.Actor.WZBjPQ3zCiFnEJeC]",
+      "reason": "Singular chwinga; original points to a group ID absent from actor pack"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaAppBRandomEnc.pages.gqmqw9126FVmMnBl.text": [
+    {
+      "source": "@UUID[Actor.RliKw170F26yfIXb]",
+      "translation": "@UUID[Actor.9UdTW5NNAdC3yQoB]",
+      "reason": "Troll: matching actor in Adventure"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaAppBRandomEnc.pages.aTNpWLwHXTzBONVa.text": [
+    {
+      "source": "@UUID[RollTable.dmgTreasureDrops]",
+      "translation": "@UUID[Compendium.dnd-tomb-annihilation.tables.RollTable.dmgTreasureDrops]",
+      "reason": "Existing table is in pack, not imported by Adventure"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh1PortNyanza.pages.oFthyTkEzX6AEeme.text": [
+    {
+      "source": "@UUID[Item.toaCanoe00000000]",
+      "translation": "@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaCanoe00000000]",
+      "reason": "Existing canoe item is in pack, not imported by Adventure"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh2Hrakhamar0.pages.wBY2f0DUT7XgJJgZ.text": [
+    {
+      "source": "@UUID[Macro.xjaIjor3WsKAz002]",
+      "translation": "@UUID[Compendium.dnd-tomb-annihilation.macros.Macro.xjaIjor3WsKAz002]",
+      "reason": "Same macro UUID already used on adjacent treasury page"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5TombOfTheN.pages.vvOmFAdbse9UvgMj.text": [
+    {
+      "source": "@UUID[Actor.toaEncArtusCimbe]",
+      "translation": "@UUID[Actor.hNq59kIhDGqZBGXl]",
+      "reason": "Artus Cimber: exact named actor imported by Adventure"
+    }
+  ],
+  "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.journals.toaCh5Level6Crad.pages.PzFdAiKV7ySB1BOE.text": [
+    {
+      "source": "@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaTalismanofthe]",
+      "translation": "@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaMgcTalismanSp]",
+      "reason": "Talisman of the Sphere: exact named item in source pack"
+    }
+  ]
+}

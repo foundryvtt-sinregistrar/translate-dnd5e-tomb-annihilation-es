@@ -5,6 +5,7 @@ import json
 import re
 from schema import ROOT, DATA, load, save, fields, get, numbers, technical
 from item_links import actor_context, stabilize_item_links
+from reference_repairs import apply_reference_repairs
 
 
 class Markup(HTMLParser):
@@ -18,6 +19,7 @@ class Markup(HTMLParser):
 
 
 def main():
+    repairs=load(ROOT/'dev-tools/translation/confirmed-reference-repairs.json')
     report = {'packs':[], 'missing':[], 'syntax':[], 'markup':[], 'numbers':[], 'unchanged':[]}
     for path in sorted(DATA.glob('*.en.json')):
         source = load(path)
@@ -32,7 +34,8 @@ def main():
                     report['missing'].append(key)
                     continue
                 translated += 1
-                expected = stabilize_item_links(english, actor_context(doc, source['documentType'], address))
+                expected = apply_reference_repairs(english, '.'.join(key), repairs)
+                expected = stabilize_item_links(expected, actor_context(doc, source['documentType'], address))
                 if technical(expected) != technical(target): report['syntax'].append(key)
                 if Markup(english).tags != Markup(target).tags: report['markup'].append(key)
                 if numbers(english) != numbers(target): report['numbers'].append({'path':key,'source':english,'translation':target})
