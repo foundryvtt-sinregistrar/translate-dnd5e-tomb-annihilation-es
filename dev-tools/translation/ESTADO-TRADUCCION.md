@@ -2357,16 +2357,27 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   técnico de la tirada de tormenta dice «resultado de 1», aunque la probabilidad
   es 25 %; queda registrado para reparación y traducción del propio comentario.
 
+### welcome-two — Pueblos restantes y dioses de Chult
+
+- Revisadas diez páginas, 20 campos: batiris, enanos, gigantes de escarcha,
+  grungs, hombres pterodáctilo, tabaxis, muertos vivientes, hombres tigre,
+  yuan-ti y dioses. Referencias físicas 14–15. Cerrado Bienvenido a Chult.
+- Comprobada la coherencia de las torres batiris con su página del apéndice D,
+  conservando las referencias adicionales a estados de esta segunda versión.
+- Unificados «terroráctilos», «hombres tigre» y el plural invariable «yuan-ti».
+  Corregida la coma suelta tras el enlace a Hisari. Conservados los destinos
+  originales de los enlaces para su auditoría funcional posterior.
+
 ## Balance de revisión editorial
 
-- 904 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 914 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
   del capítulo 4, 126 del capítulo 5, 288 de los apéndices A, B, C, D y F
-  y seis de reglas adicionales, más cinco de Bienvenido a Chult.
-  No equivale a 904 páginas del PDF.
-- 10585 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 10585 campos distintos.
+  y seis de reglas adicionales, más quince de Bienvenido a Chult.
+  No equivale a 914 páginas del PDF.
+- 10605 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 10605 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento treinta y cuatro biografías en ambas copias de actores: siete
   príncipes y ciento veintisiete criaturas o PNJ vinculados al apéndice D. Siguen pendientes las demás
