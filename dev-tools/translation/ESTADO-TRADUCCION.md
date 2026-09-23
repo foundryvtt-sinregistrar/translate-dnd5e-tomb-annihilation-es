@@ -1091,14 +1091,28 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Conservado Gorra, nombre original de Mustio, y los 36 destinos UUID.
 - Auditorías técnica y editorial sin errores.
 
+### ch5-level5-napaka-01 a ch5-level5-napaka-06 — Mole de piedra y gas
+
+- Revisados seis textos y títulos con referencias físicas 173-174.
+- Diferenciados los desencadenantes de la mole y la inmunidad de la estatua
+  frente a la vulnerabilidad de su brazo roto. Conservados los nueve sacrificios
+  de gemas y el efecto del cetro con y sin tirada de ataque.
+- La orden «¡Despertad a Napaka!» se dirige a los exploradores; su ayuda gráfica
+  insertada deberá armonizarse al revisar las imágenes.
+- El gas afecta aunque no se respire, pero no a plantas. Corregida la frase
+  inglesa confusa del conducto: está en el techo de 58 y el gas no asciende por él.
+- Retirada una comilla sobrante tras Tesoros legendarios. El enlace de la mole
+  al apéndice D repite el destino genérico del grung ya anotado.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 581 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 587 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4 y 102 del capítulo 5. No equivale a 581 páginas del PDF.
-- 1272 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1272 campos distintos.
+  del capítulo 4 y 108 del capítulo 5. No equivale a 587 páginas del PDF.
+- 1284 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1284 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
