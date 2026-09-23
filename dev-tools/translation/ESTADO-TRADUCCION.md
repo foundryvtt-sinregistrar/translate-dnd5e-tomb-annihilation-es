@@ -1204,14 +1204,26 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   ya anotado; el enlace de introducción y el fragmento `#mist-gate` requieren revisión.
 - Auditorías técnica y editorial sin errores.
 
+### ch5-level6-passages-01 a ch5-level6-passages-02 — Capilla y sendas
+
+- Revisados dos textos y títulos con referencias físicas 187-189.
+- Conservadas identidad opcional del prisionero, agua bendita como solución
+  y respuesta de los nóticos. Su pista dirige la atención a los huesos.
+- El muro de fuego ocupa anchura y altura, no toda la longitud del pasillo
+  como indica el PDF. Se mueve hacia el norte tras activar o disipar el glifo.
+- Diferenciados colgante protector, senda morada temporal y senda roja.
+  La automatización de esta última teletransporta al cruzar la pared: debe
+  comprobarse cómo aplicar el requisito narrativo de recorrer la senda.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 601 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 603 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4 y 122 del capítulo 5. No equivale a 601 páginas del PDF.
-- 1312 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1312 campos distintos.
+  del capítulo 4 y 124 del capítulo 5. No equivale a 603 páginas del PDF.
+- 1316 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1316 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
