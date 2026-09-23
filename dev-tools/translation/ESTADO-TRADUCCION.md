@@ -795,14 +795,26 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   rearme tras diez asaltos. Añadido rótulo español a la referencia de terreno difícil.
 - Auditorías técnica y editorial sin errores.
 
+### ch5-level1-doors-01 a ch5-level1-doors-07 — Puertas y primeras trampas
+
+- Revisados siete textos y títulos con referencias físicas 133-134.
+- Conservadas las parejas rivales de los cubos, la cuenta atrás, el rearme
+  y las diferencias entre el daño inicial y el estado envenenado del foso.
+- El reloj no se puede mover ni dañar; no se ha sustituido por la prohibición
+  de reiniciarlo que aparece en el PDF. El demonio ataca al meter la mano.
+- Pendiente técnico del original: el enlace de «disipar magia» de la cara de
+  diablo apunta al UUID de detectar magia. Conservado el destino y traducido
+  el rótulo según la regla descrita; requiere corrección funcional posterior.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 490 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 497 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4 y once del capítulo 5. No equivale a 490 páginas del PDF.
-- 1090 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1090 campos distintos.
+  del capítulo 4 y dieciocho del capítulo 5. No equivale a 497 páginas del PDF.
+- 1104 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1104 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
