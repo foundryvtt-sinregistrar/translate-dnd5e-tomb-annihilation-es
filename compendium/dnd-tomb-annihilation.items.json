@@ -68,11 +68,11 @@
   "entries": {
     "0AdOEoqkCYgxTld8": {
       "name": "Rubí",
-      "description": "<p>Un rubí encontrado en un cofre en el Dedo de Fuego.</p>"
+      "description": "<p>Un rubí encontrado en un cofre en Dedo de Fuego.</p>"
     },
     "1z3XpdV5mi1W4adY": {
       "name": "Zafiro",
-      "description": "<p>Un zafiro encontrado en un templario muerto en las letrinas dCampamento Justicia.</p>"
+      "description": "<p>Un zafiro encontrado en el cadáver de un templario, en las letrinas del Campamento Justicia.</p>"
     },
     "2NQledzkhigVyUoX": {
       "name": "Varita de miedo",
@@ -111,7 +111,7 @@
     },
     "4ZDnLC18j0cGAGop": {
       "name": "Ópalo",
-      "description": "<p>Un ópalo encontrado en un templario muerto en las letrinas dCampamento Justicia.</p>"
+      "description": "<p>Un ópalo encontrado en el cadáver de un templario, en las letrinas del Campamento Justicia.</p>"
     },
     "4deps3WocWqUrlfp": {
       "name": "Herramientas de peletero",
@@ -123,7 +123,7 @@
     },
     "4vWnKFrBQcYr179F": {
       "name": "Zafiro",
-      "description": "<p>Un zafiro encontrado en un pecho en Firefinger.</p>"
+      "description": "<p>Un zafiro encontrado en un cofre en Dedo de Fuego.</p>"
     },
     "4vofYizMEcliLIGP": {
       "name": "Antorcha",
@@ -185,7 +185,7 @@
     },
     "DteX4yGPkUJAZscm": {
       "name": "Esmeralda",
-      "description": "<p>Una esmeralda encontrada en un templario muerto en las letrinas del Camp Righteous.</p>"
+      "description": "<p>Una esmeralda encontrada en el cadáver de un templario, en las letrinas del Campamento Justicia.</p>"
     },
     "E8y0xiFk4wnjRTJh": {
       "name": "Carcaj",
@@ -204,8 +204,8 @@
       "description": "<p>Un libro puede contener poesía, relatos históricos, información relativa a un campo particular de la tradición, diagramas y notas sobre artilugios gnomish, o casi cualquier otra cosa que pueda ser representada usando texto o imágenes.</p>"
     },
     "FepF9Ep8PSQA0ean": {
-      "name": "Piedra preciosa de ónice",
-      "description": "<p>Una gema de ónix fue descubierta en un saco dentro de la cabaña de Nanny Pu'pu en Mbala.</p>"
+      "name": "Gema de ónice",
+      "description": "<p>Una gema de ónice encontrada en un saco dentro de la choza de Yaya Pu’pu, en Mbala.</p>"
     },
     "Gce9CkNKuJgaE9tn": {
       "name": "Paquete de explorador",
@@ -225,7 +225,7 @@
     },
     "IZiP1h922lWl4kXg": {
       "name": "Esmeralda",
-      "description": "<p>Una gema esmeralda fue descubierta en el naufragio del Narwhal.</p>"
+      "description": "<p>Una esmeralda encontrada en los restos del Narval.</p>"
     },
     "JBTfxHx8l2Ga5PAc": {
       "name": "Amuleto de salud",
@@ -280,12 +280,12 @@
       }
     },
     "JyvVO2v74KNK7jRR": {
-      "name": "Gema del ojo de tigre",
-      "description": "<p>Un ojo de tigre se encontró en la bolsa de Voj en la ciudad de Omu.</p>"
+      "name": "Ojo de tigre",
+      "description": "<p>Una gema de ojo de tigre encontrada en la bolsa de Voj, en la ciudad de Omu.</p>"
     },
     "KIL5t6Ua03B2xi5N": {
       "name": "Amatista",
-      "description": "<p>Una amatista encontrada en un templario muerto en las letrinas dCampamento Justicia.</p>"
+      "description": "<p>Una amatista encontrada en el cadáver de un templario, en las letrinas del Campamento Justicia.</p>"
     },
     "KIv02BnJu6t8Rhwh": {
       "name": "Fiambrera",
@@ -329,7 +329,7 @@
     },
     "OCLoYH00QB3gRg0V": {
       "name": "Esmeralda",
-      "description": "<p>Una esmeralda encontrada en un cofre en Firefinger.</p>"
+      "description": "<p>Una esmeralda encontrada en un cofre en Dedo de Fuego.</p>"
     },
     "OEk2R4ePgY3otyMr": {
       "name": "Libro de ortografía (1-3)",
@@ -337,7 +337,7 @@
     },
     "OwY6ON0Gfhos4Ok0": {
       "name": "Amatista",
-      "description": "<p>Una amatista encontrada en un pecho en Firefinger.</p>"
+      "description": "<p>Una amatista encontrada en un cofre en Dedo de Fuego.</p>"
     },
     "P0BFf371Js53Icto": {
       "name": "Cetro de Acerrak",
@@ -365,7 +365,7 @@
     },
     "UcZy9DNXQEV848Uy": {
       "name": "Rubí",
-      "description": "<p>Una piedra preciosa rubí fue encontrada en la pagoda de Nangalore.</p>"
+      "description": "<p>Un rubí encontrado en la pagoda de Nangalore.</p>"
     },
     "VMnX2RS0OqoTp8KZ": {
       "name": "Baraja de los Tres Dragones",
@@ -528,7 +528,7 @@
     },
     "mPZRoQDDDeURSFwL": {
       "name": "Zafiro",
-      "description": "<p>Una gema de zafiro fue encontrada en la pagoda de Nangalore.</p>"
+      "description": "<p>Un zafiro encontrado en la pagoda de Nangalore.</p>"
     },
     "mlXEzX1KAELyUjuT": {
       "name": "Libro de ortografía (4-6)",
@@ -559,7 +559,7 @@
     },
     "qwD4AeszpAYa9e05": {
       "name": "Ónice",
-      "description": "<p>Una gema de ónix fue descubierta en el naufragio del Narwhal.</p>"
+      "description": "<p>Una gema de ónice encontrada en los restos del Narval.</p>"
     },
     "rF5xDzcWfnNbOpGb": {
       "name": "Bala de eslinga +1",
@@ -579,8 +579,8 @@
       }
     },
     "shqSuE9NtlHOeqz3": {
-      "name": "Adamantine Lingot",
-      "description": "<p>Un lingote de adamantina estampado con runas enanas fue descubierto en un saco dentro de la cabaña de Nanny Pu'pu en Mbala.</p>"
+      "name": "Lingote de adamantina",
+      "description": "<p>Un lingote de adamantina marcado con runas enanas, encontrado en un saco dentro de la choza de Yaya Pu’pu, en Mbala.</p>"
     },
     "t73thb1C4a3YFyqR": {
       "name": "Catalejo",
@@ -592,7 +592,7 @@
     },
     "toaAmethyst00000": {
       "name": "Amatista",
-      "description": "<p>Una amatista encontrada en un templario muerto en las letrinas dCampamento Justicia.</p>"
+      "description": "<p>Una amatista encontrada en el cadáver de un templario, en las letrinas del Campamento Justicia.</p>"
     },
     "toaBlackOpalCrow": {
       "name": "Corona negra del ópalo",
@@ -613,26 +613,26 @@
     },
     "toaCh1Diamond500": {
       "name": "Diamante",
-      "description": "<p>Un diamante encontrado entre el cadáver de un dragón verde adulto más conocido durante su vida como Aguja.</p>"
+      "description": "<p>Un diamante encontrado entre los restos de una dragona verde adulta conocida en vida como Aguja.</p>"
     },
     "toaCh2Adamantine": {
-      "name": "Adamantine Lingot"
+      "name": "Lingote de adamantina"
     },
     "toaCh2AssortedGe": {
-      "name": "Piedra preciosa aleatoria",
-      "description": "<p>Mientras que en la pagoda en Nagalore, usted adquiere una piedra preciosa.</p>"
+      "name": "Gema aleatoria",
+      "description": "<p>Obtienes una gema en la pagoda de Nangalore.</p>"
     },
     "toaCh2GoldBracel": {
-      "name": "Pulsera de oro",
-      "description": "<p>Mientras que en la Pagoda en Nagalore, se adquiere una pulsera de oro pintado en forma de couatl.</p>"
+      "name": "Brazalete de oro",
+      "description": "<p>Obtienes un brazalete de oro pintado con forma de couatl en la pagoda de Nangalore.</p>"
     },
     "toaCh2GoldChain0": {
       "name": "Cadena de oro",
-      "description": "<p>Una medalla en forma de dragón y una cadena formada de oro que se encuentra en la horda de Tinder.</p>"
+      "description": "<p>Una medalla con forma de dragón y una cadena, ambas de oro, encontradas en el tesoro de Yesca.</p>"
     },
     "toaCh2GoldDust00": {
       "name": "Polvo de oro",
-      "description": "<p>Se encontró polvo de oro en el baño de Kir Sabal.</p>"
+      "description": "<p>Polvo de oro encontrado en el lavatorio de Kir Sabal.</p>"
     },
     "toaCh2KurtulmakS": {
       "name": "Estatua de Kurtulmak",
@@ -647,8 +647,8 @@
       "description": "<p>Medallón de bronce y adamantina de la reina Grabsgtab, que usted adquirió en Yellyark.</p>"
     },
     "toaCh2PagodaBrac": {
-      "name": "Pulsera de oro",
-      "description": "<p>Un brazalete de oro encontrado en un almacén en el Anclaje de Jahaka.</p>"
+      "name": "Brazalete de oro",
+      "description": "<p>Un brazalete de oro encontrado en un almacén del Fondeadero de Jahaka.</p>"
     },
     "toaCh2ScavengedG": {
       "name": "Equipo de recogida de basura"
@@ -699,8 +699,8 @@
       "description": "<p>En el Bazar en ruinas en Omu, se encuentra el atestado de Kakarol que contiene 30 gp, 250 sp, 1.800 cp, una estatuilla de cristal de color de una libélula (25 gp), cuatro piedras de sangre (50 gp cada uno), y una poción de mayor curación.</p>"
     },
     "toaCh3TigerEyeGe": {
-      "name": "Piedra preciosa del ojo de tigre",
-      "description": "<p>Una gema de ojo de tigre fue descubierta en el Santuario de Obo’laka.</p>"
+      "name": "Gema de ojo de tigre",
+      "description": "<p>Una gema de ojo de tigre encontrada en el santuario de Obo’laka.</p>"
     },
     "toaCh3dragonflys": {
       "name": "Estatuilla de libélula",
@@ -718,8 +718,8 @@
       "name": "Valija de cuero"
     },
     "toaCh4AmethystGe": {
-      "name": "Piedra preciosa de amatista",
-      "description": "<p>Encontraste una de las tres piedras preciosas de amatista utilizadas como los ojos de una estatuilla de frohemoth hecha de madera pintada. Fue descubierto en la guarida de Ras Nsi en el templo dedicado a Dendar la Serpiente Nocturna.</p>"
+      "name": "Gema de amatista",
+      "description": "<p>Has encontrado una de las tres amatistas que servían de ojos a una estatuilla de ranamot de madera pintada. Estaba en la guarida de Ras Nsi, en el templo dedicado a Dendar, la Serpiente de la Noche.</p>"
     },
     "toaCh4AmnianDoub": {
       "name": "Jubón amniano",
@@ -764,8 +764,8 @@
       "description": "<p>El pecho está desbloqueado y contiene 200 gp, una aljaba de cuero negro bordada con un mapa de estrellas de cuarzo (75 gp), y una daga ceremonial en una vaina de oro en relieve con una escena de animales de la selva estampida (25 gp).</p>"
     },
     "toaCh4GemstonesA": {
-      "name": "Piedras preciosas",
-      "description": "<p>Descubriste piedras preciosas en una urna de arcilla ubicada en la guarida de Ras Nsi, dentro del templo dedicado a Dendar la Serpiente Nocturna.</p>"
+      "name": "Gema",
+      "description": "<p>Has encontrado gemas en una urna de arcilla de la guarida de Ras Nsi, en el templo dedicado a Dendar, la Serpiente de la Noche.</p>"
     },
     "toaCh4HandMirror": {
       "name": "Espejo de mano",
@@ -862,8 +862,8 @@
       "description": "<p>Obtuviste la máscara de bronce de Withers de la tumba de los nueve dioses.</p>"
     },
     "toaCh5Carnelian0": {
-      "name": "Carnelina",
-      "description": "<p>Descubriste una piedra preciosa cornalina en una bolsa que pertenecía a un aventurero fallecido llamado Lord Brixton, encontrada en la Tumba de los Nueve Dioses.</p>"
+      "name": "Cornalina",
+      "description": "<p>Has encontrado una cornalina en una bolsa que pertenecía a un aventurero fallecido llamado lord Brixton, en la Tumba de los Nueve Dioses.</p>"
     },
     "toaCh5ChameleonS": {
       "name": "Estatuilla camaleón",
@@ -883,15 +883,15 @@
     },
     "toaCh5Diamond000": {
       "name": "Diamante",
-      "description": "<p>Usted ha adquirido un diamante lo suficientemente grande como para servir como un componente material para el @UUID[Compendium.dnd5e.spells.Item.AGFMPAmuzwWO6Dfz]{resucitar muerto} Deletrear.</p>"
+      "description": "<p>Has obtenido un diamante lo bastante grande como para servir de componente material del conjuro @UUID[Compendium.dnd5e.spells.Item.AGFMPAmuzwWO6Dfz]{alzar a los muertos}.</p>"
     },
     "toaCh5EyeofZalte": {
       "name": "Ojo de Zaltec",
       "description": "<p>Durante siglos, este rubí del tamaño de un puño superó la Gran Pirámide en Nexal, capital del Imperio Mazticano. La gema es una reliquia del culto de Zaltec, y su punta de daga se sumergió en los corazones de innumerables sacrificios.</p>"
     },
     "toaCh5GemsAssort": {
-      "name": "Joyas surtidos",
-      "description": "<p>Quitaste varias gemas de los colmillos de la estatua de Ghorm en la Tumba de los Nueve Dioses.</p>"
+      "name": "Gemas variadas",
+      "description": "<p>Has extraído varias gemas de los colmillos de la estatua de Ghorm, en la Tumba de los Nueve Dioses.</p>"
     },
     "toaCh5GoldBatMas": {
       "name": "Máscara de murciélago de niño",
@@ -985,8 +985,8 @@
       "description": "<p>Descubriste un brazalete opalescente hecho de caparazón de caracol en el Sarcófago de Unkh, ubicado en la Tumba de los Nueve Dioses.</p>"
     },
     "toaCh5PeridotGem": {
-      "name": "Piedra preciosa de peridoto",
-      "description": "<p>Esta piedra preciosa del peridoto fue puesta en un turbante amarillo encontrado en la Tumba de I'jin, ubicada dentro de la Tumba de los Nueve Dioses.</p>"
+      "name": "Gema de peridoto",
+      "description": "<p>Este peridoto estaba engastado en un turbante amarillo encontrado en la tumba de Pjin, dentro de la Tumba de los Nueve Dioses.</p>"
     },
     "toaCh5PlatinumHa": {
       "name": "Alfiler de pelo de platino",
@@ -1036,11 +1036,11 @@
     },
     "toaDiamond000000": {
       "name": "Ópalo",
-      "description": "<p>Un ópalo encontrado en un templario muerto en las letrinas dCampamento Justicia.</p>"
+      "description": "<p>Un ópalo encontrado en el cadáver de un templario, en las letrinas del Campamento Justicia.</p>"
     },
     "toaEmerald000000": {
       "name": "Esmeralda",
-      "description": "<p>Una esmeralda encontrada en un templario muerto en las letrinas del Camp Righteous.</p>"
+      "description": "<p>Una esmeralda encontrada en el cadáver de un templario, en las letrinas del Campamento Justicia.</p>"
     },
     "toaEssenceofEthe": {
       "name": "Esencia de éter (inhalación)",
@@ -1056,8 +1056,8 @@
       "description": "<p>Sólo un parche básico para los ojos.</p>"
     },
     "toaGoldBracelet0": {
-      "name": "Pulsera de oro",
-      "description": "<p>Un brazalete de oro encontrado en un almacén en el Anclaje de Jahaka.</p>"
+      "name": "Brazalete de oro",
+      "description": "<p>Un brazalete de oro encontrado en un almacén del Fondeadero de Jahaka.</p>"
     },
     "toaGoldTankard00": {
       "name": "Tanque de oro",
@@ -1107,7 +1107,7 @@
     },
     "toaMoonstone0000": {
       "name": "Piedra lunar",
-      "description": "<p>Usted descubrió una piedra lunar en la Tumba de Shagambi, ubicada dentro de la Tumba de los Nueve Dioses.</p>"
+      "description": "<p>Has encontrado una piedra lunar en la tumba de Shagambi, dentro de la Tumba de los Nueve Dioses.</p>"
     },
     "toaMoradinsGaunt": {
       "name": "El guante de Moradino",
@@ -1131,11 +1131,11 @@
     },
     "toaRuby000000000": {
       "name": "Rubí",
-      "description": "<p>Un rubí encontrado en un templario muerto en las letrinas dCampamento Justicia.</p>"
+      "description": "<p>Un rubí encontrado en el cadáver de un templario, en las letrinas del Campamento Justicia.</p>"
     },
     "toaSapphire00000": {
       "name": "Zafiro",
-      "description": "<p>Un zafiro encontrado en un templario muerto en las letrinas dCampamento Justicia.</p>"
+      "description": "<p>Un zafiro encontrado en el cadáver de un templario, en las letrinas del Campamento Justicia.</p>"
     },
     "toaSerpentVenom0": {
       "name": "Veneno de serpiente (herida)",
@@ -1354,8 +1354,8 @@
       "description": "<p>Descubriste una máscara de muerte de Omuan pintada de oro en el Anfiteatro de Omu.</p>"
     },
     "toach3bloodstone": {
-      "name": "Piedra de sangre",
-      "description": "<p>En el bazar en ruinas en Omu, se descubre una gema de piedra de sangre entre el tesoro de Kakarol.</p>"
+      "name": "Heliotropo",
+      "description": "<p>En el bazar en ruinas de Omu, descubres un heliotropo entre los tesoros de Kakarol.</p>"
     },
     "toach5platinumar": {
       "name": "Cinturones de platino",
@@ -1673,7 +1673,7 @@
     },
     "u5jXdP0zWmwJYE7R": {
       "name": "Rubí",
-      "description": "<p>Un rubí encontrado en un cofre en el Dedo de Fuego.</p>"
+      "description": "<p>Un rubí encontrado en un cofre en Dedo de Fuego.</p>"
     },
     "uHqmxmG50OV3BCze": {
       "name": "Poción de respiración acuática",
