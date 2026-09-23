@@ -10,9 +10,10 @@ for path,english in fields(source,'Adventure'):
     if raw[0] not in COLLECTIONS and raw[0]!='folders': continue
     kind='Folder' if raw[0]=='folders' else COLLECTIONS[raw[0]]
     checks.append(dict(kind=kind,id=raw[1],path=raw[2:],expected=get(translation,path)))
-manifest=load(ROOT/'dev-tools/translation/handout-assets.json')
-for asset in manifest['assets']:
-    checks.append(dict(kind='JournalEntry',id=manifest['journalId'],path=['pages',asset['pageId'],'src'],expected=asset['translation']))
+for name in ['handout-assets.json','atlas-assets.json']:
+    manifest=load(ROOT/'dev-tools/translation'/name)
+    for asset in manifest['assets']:
+        checks.append(dict(kind='JournalEntry',id=manifest['journalId'],path=['pages',asset['pageId'],'src'],expected=asset['translation']))
 references=load(DATA/'link-audit.json')['findings']
 for key,rules in load(ROOT/'dev-tools/translation/confirmed-reference-repairs.json').items():
     for rule in rules:

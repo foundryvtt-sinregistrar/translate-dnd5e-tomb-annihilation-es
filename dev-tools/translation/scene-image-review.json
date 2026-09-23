@@ -1,0 +1,391 @@
+{
+  "date": "2026-09-23",
+  "sourceVersion": "2.0.0",
+  "images": [
+    {
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/merchant-princes-villa/merchant-princes-villa-blank.webp",
+      "sceneIds": [
+        "toaMerchantPrinc"
+      ],
+      "sha256": "a60f2c9cee1dc789254f24e7723257c630a181d3b8e9ec425871f50bec43b6af",
+      "review": "visible-english-labels",
+      "notes": "English title and scale",
+      "action": "Retained: preserve player-safe geometry; see REVISION-MAPAS.md"
+    },
+    {
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/port-nyanzaru/port-nyanzaru-blank.webp",
+      "sceneIds": [
+        "toaPortNyanzaru0"
+      ],
+      "sha256": "8707fd22c6f94f64e07eae8258cd19d3367e23451e0071973dc9ca6f8b917f95",
+      "review": "visible-english-labels",
+      "notes": "English feet unit",
+      "action": "Retained: preserve player-safe geometry; see REVISION-MAPAS.md"
+    },
+    {
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/ataaz-muhahah/ataaz-muhahah-blank.webp",
+      "sceneIds": [
+        "toaAtaazMuhahah0"
+      ],
+      "sha256": "c6178de44afc5a73eb96ac1b633e21caef628bb4f5f874773706bcfb5c3d5989",
+      "review": "no-visible-prose",
+      "notes": "No prose labels observed; compass initials may retain W.",
+      "action": "Retained: preserve player-safe geometry; see REVISION-MAPAS.md"
+    },
+    {
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/camp-righteous/camp-righteous-blank.webp",
+      "sceneIds": [
+        "toaCampRighteous"
+      ],
+      "sha256": "0bff1967978b2d3c9a7e8018cdff2d8e8ce10d565fd431793edf658c5a2cbb12",
+      "review": "no-visible-prose",
+      "notes": "No prose labels observed; compass initials may retain W.",
+      "action": "Retained: preserve player-safe geometry; see REVISION-MAPAS.md"
+    },
+    {
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/camp-vengeance/camp-vengeance-blank.webp",
+      "sceneIds": [
+        "toaCampVengeance"
+      ],
+      "sha256": "409f45d77e5628a932ad035f386199d446a138f054031c996260694736a6a255",
+      "review": "no-visible-prose",
+      "notes": "No prose labels observed; compass initials may retain W.",
+      "action": "Retained: preserve player-safe geometry; see REVISION-MAPAS.md"
+    },
+    {
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/chult/chult-blank.webp",
+      "sceneIds": [
+        "toaCh2ChultMap00"
+      ],
+      "sha256": "d58ef3f6f6bb53dfcd90ed24ea8677004ca49ba730af5a6dc3180abb56821aee",
+      "review": "no-visible-prose",
+      "notes": "No prose labels observed; compass initials may retain W.",
+      "action": "Retained: preserve player-safe geometry; see REVISION-MAPAS.md"
+    },
+    {
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/chult/chult-players-dark.webp",
+      "sceneIds": [
+        "toaCh2ChultMap00"
+      ],
+      "sha256": "2b6e2c36fe4fc21a379cbbecdd8869d8d1f405ed63daa36141dd986b55eea5c5",
+      "review": "no-visible-prose",
+      "notes": "No prose labels observed; compass initials may retain W.",
+      "action": "Retained: preserve player-safe geometry; see REVISION-MAPAS.md"
+    },
+    {
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/dungrunglung/dungrunglung-blank.webp",
+      "sceneIds": [
+        "toaCh2Dungrunglu"
+      ],
+      "sha256": "99169c42a6d27993d265d1cdc6a81962275b32e7ffe6b96108059ab1ce48ab0b",
+      "review": "no-visible-prose",
+      "notes": "No prose labels observed; compass initials may retain W.",
+      "action": "Retained: preserve player-safe geometry; see REVISION-MAPAS.md"
+    },
+    {
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/firefinger/firefinger-blank.webp",
+      "sceneIds": [
+        "toaCh2Firefinger"
+      ],
+      "sha256": "159fe456eaf34794a23d324b51f3f8cfb8cea3b8bb8969ce34952e07c8e37ad7",
+      "review": "no-visible-prose",
+      "notes": "No prose labels observed; compass initials may retain W.",
+      "action": "Retained: preserve player-safe geometry; see REVISION-MAPAS.md"
+    },
+    {
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/fort-beluarian/fort-beluarian-blank.webp",
+      "sceneIds": [
+        "toaCh2FortBeluar"
+      ],
+      "sha256": "934ea3b40c66fd0864cf1fd84a8065dccd41a0fec7f5eda1e4bb05c1dfbadb87",
+      "review": "no-visible-prose",
+      "notes": "No prose labels observed; compass initials may retain W.",
+      "action": "Retained: preserve player-safe geometry; see REVISION-MAPAS.md"
+    },
+    {
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/fort-beluarian-inner-bailey/fort-beluarian-inner-bailey-blank.webp",
+      "sceneIds": [
+        "toaInnerBailey00"
+      ],
+      "sha256": "d2c5e4dcdfe6b2dd7646526c0f73848504df7c899c4c03a3c58f697a20fe7d07",
+      "review": "no-visible-prose",
+      "notes": "No prose labels observed; compass initials may retain W.",
+      "action": "Retained: preserve player-safe geometry; see REVISION-MAPAS.md"
+    },
+    {
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/heart-of-ubtao/heart-of-ubtao-blank.webp",
+      "sceneIds": [
+        "toaHeartofUbtao0"
+      ],
+      "sha256": "fd788ec4a2fe91c770be3a6f2b244f0557ca1eac3c7f9937ca71fdfeed911d10",
+      "review": "no-visible-prose",
+      "notes": "No prose labels observed; compass initials may retain W.",
+      "action": "Retained: preserve player-safe geometry; see REVISION-MAPAS.md"
+    },
+    {
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/hrakhamar/hrakhamar-blank.webp",
+      "sceneIds": [
+        "toaHrakhamar0000"
+      ],
+      "sha256": "87f99d5556729a2214821d6efb369bb390420eaaa222f57cdfd0690e732a0e46",
+      "review": "no-visible-prose",
+      "notes": "No prose labels observed; compass initials may retain W.",
+      "action": "Retained: preserve player-safe geometry; see REVISION-MAPAS.md"
+    },
+    {
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/jahaka-anchorage/jahaka-anchorage-blank.webp",
+      "sceneIds": [
+        "toaCh2JahakaAnch"
+      ],
+      "sha256": "a6325287f65064ced2c6b962cefa3785a70a07d485b2c490320461775c020fec",
+      "review": "no-visible-prose",
+      "notes": "No prose labels observed; compass initials may retain W.",
+      "action": "Retained: preserve player-safe geometry; see REVISION-MAPAS.md"
+    },
+    {
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/kir-sabal/kir-sabal-blank.webp",
+      "sceneIds": [
+        "toaCh2KirSabal00"
+      ],
+      "sha256": "92b5e415a79767c2e265bfca2cb5de2a51e1dae7b070c957f6a9ea035351c383",
+      "review": "no-visible-prose",
+      "notes": "No prose labels observed; compass initials may retain W.",
+      "action": "Retained: preserve player-safe geometry; see REVISION-MAPAS.md"
+    },
+    {
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/nangalore/nangalore-blank.webp",
+      "sceneIds": [
+        "toaCh2Nangalore0"
+      ],
+      "sha256": "4989473713780b77790337065be20d586e04ab6b4e12df316f9e4017c92dd86a",
+      "review": "no-visible-prose",
+      "notes": "No prose labels observed; compass initials may retain W.",
+      "action": "Retained: preserve player-safe geometry; see REVISION-MAPAS.md"
+    },
+    {
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/ship/ship-blank.webp",
+      "sceneIds": [
+        "toaShip000000000"
+      ],
+      "sha256": "3b3e3bb173721b31971e3541ab019971b82395e64e70158631a239318cc602b6",
+      "review": "no-visible-prose",
+      "notes": "No prose labels observed; compass initials may retain W.",
+      "action": "Retained: preserve player-safe geometry; see REVISION-MAPAS.md"
+    },
+    {
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/wreck-of-the-star-goddess/wreck-of-the-star-goddess-blank.webp",
+      "sceneIds": [
+        "toaCh2Wreckofthe"
+      ],
+      "sha256": "510bf1a4491541c2f8195b57777926909b2c6a59cef2e2bd240251b208e1392a",
+      "review": "no-visible-prose",
+      "notes": "No prose labels observed; compass initials may retain W.",
+      "action": "Retained: preserve player-safe geometry; see REVISION-MAPAS.md"
+    },
+    {
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/wyrmheart-mine/wyrmheart-mine-blank.webp",
+      "sceneIds": [
+        "toaWyrmheartMine"
+      ],
+      "sha256": "b096cd606dbb62c2bf46fac4d420d73fdfbdec0732d8d136a7ce4645133bd077",
+      "review": "visible-english-labels",
+      "notes": "English title and level labels",
+      "action": "Retained: preserve player-safe geometry; see REVISION-MAPAS.md"
+    },
+    {
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/yellyark/yellyark-blank.webp",
+      "sceneIds": [
+        "toaCh2Yellyark00"
+      ],
+      "sha256": "5604e2106356e014e5797f3b294c3fc5997698f1a4f782070e23101b2963f1a4",
+      "review": "visible-english-labels",
+      "notes": "English launch mechanism captions",
+      "action": "Retained: preserve player-safe geometry; see REVISION-MAPAS.md"
+    },
+    {
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/nine-shrines/ijin.webp",
+      "sceneIds": [
+        "toaCh3IjinsShrin"
+      ],
+      "sha256": "9a503b7722e9411b5a2c8f037105b00c9de53b140f6f6c7af94c57657fb9bb30",
+      "review": "visible-english-labels",
+      "notes": "English shrine title",
+      "action": "Retained: preserve player-safe geometry; see REVISION-MAPAS.md"
+    },
+    {
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/nine-shrines/kubazan.webp",
+      "sceneIds": [
+        "toaCh3KubazansSh"
+      ],
+      "sha256": "51ad8b8c380cd0a0303a1c21ed792fb82fcc2846cac3edc7bb10ef09fc661bef",
+      "review": "visible-english-labels",
+      "notes": "English shrine title",
+      "action": "Retained: preserve player-safe geometry; see REVISION-MAPAS.md"
+    },
+    {
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/nine-shrines/moa.webp",
+      "sceneIds": [
+        "toaCh3MoasShrine"
+      ],
+      "sha256": "9eb232deb9b45b6897f9172b4db915bec4fa127050cc96d508f9cec5cc926489",
+      "review": "visible-english-labels",
+      "notes": "English shrine title",
+      "action": "Retained: preserve player-safe geometry; see REVISION-MAPAS.md"
+    },
+    {
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/nine-shrines/nangnang.webp",
+      "sceneIds": [
+        "toaCh3NangnangsS"
+      ],
+      "sha256": "0f90bf3e200faefdda075279df53b28ad7f2ba42fece0870d0439750669be34d",
+      "review": "visible-english-labels",
+      "notes": "English shrine title",
+      "action": "Retained: preserve player-safe geometry; see REVISION-MAPAS.md"
+    },
+    {
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/nine-shrines/obolaka.webp",
+      "sceneIds": [
+        "toaCh3ObolakasSh"
+      ],
+      "sha256": "a5225b4df6e0ab620974d6dc3630a075372e74cb35121ed89766486108cc2092",
+      "review": "visible-english-labels",
+      "notes": "English shrine title",
+      "action": "Retained: preserve player-safe geometry; see REVISION-MAPAS.md"
+    },
+    {
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/omu-the-forbidden-city/omu-the-forbidden-city-blank.webp",
+      "sceneIds": [
+        "toaOmuOverview00"
+      ],
+      "sha256": "ec80b958f27c0e1d7c26d1a04acfbfefae8cb620e47fda5afa9803a78e430ffc",
+      "review": "visible-english-labels",
+      "notes": "English feet unit",
+      "action": "Retained: preserve player-safe geometry; see REVISION-MAPAS.md"
+    },
+    {
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/nine-shrines/papazotl.webp",
+      "sceneIds": [
+        "toaCh3PapazotlsS"
+      ],
+      "sha256": "0ee154b9ce899b3a2db6712fa0f0ca68e42e37a81f75d1d13ec88d37b16dbd80",
+      "review": "visible-english-labels",
+      "notes": "English shrine title",
+      "action": "Retained: preserve player-safe geometry; see REVISION-MAPAS.md"
+    },
+    {
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/nine-shrines/shagambi.webp",
+      "sceneIds": [
+        "toaCh3ShagambisS"
+      ],
+      "sha256": "b9f07ccc87a1e94602e310952aaffa038823159366064b3089fdd4d2a6c8bdf9",
+      "review": "visible-english-labels",
+      "notes": "English shrine title",
+      "action": "Retained: preserve player-safe geometry; see REVISION-MAPAS.md"
+    },
+    {
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/nine-shrines/unkh.webp",
+      "sceneIds": [
+        "toaCh3UnkhsShrin"
+      ],
+      "sha256": "fd54a4bff421a73dc19525297fe155e29277ef3fb5ae69a35b1e616505322a3e",
+      "review": "visible-english-labels",
+      "notes": "English shrine title",
+      "action": "Retained: preserve player-safe geometry; see REVISION-MAPAS.md"
+    },
+    {
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/nine-shrines/wongo.webp",
+      "sceneIds": [
+        "toaCh3WongosShri"
+      ],
+      "sha256": "b0fff7fa30bbc21d0acb053688408592815ee44f3c4355c3abdadede53db97d3",
+      "review": "visible-english-labels",
+      "notes": "English shrine title",
+      "action": "Retained: preserve player-safe geometry; see REVISION-MAPAS.md"
+    },
+    {
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/fane-of-the-night-serpent/fane-of-the-night-serpent-blank.webp",
+      "sceneIds": [
+        "toaCh3FaneoftheN"
+      ],
+      "sha256": "f4dda751b339b094540a597c4387bc824c1cf94adab064b2a11468ff3ce6b32d",
+      "review": "no-visible-prose",
+      "notes": "No prose labels observed; compass initials may retain W.",
+      "action": "Retained: preserve player-safe geometry; see REVISION-MAPAS.md"
+    },
+    {
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/level-1-rotten-halls/level-1-rotten-halls-blank.webp",
+      "sceneIds": [
+        "toaCh5Level1Rott",
+        "toaMirroredlvl10"
+      ],
+      "sha256": "f7f3d879605515f8aec90ec0ea5b4b1e44d364b8f4af194199132cf2b34a94b6",
+      "review": "no-visible-prose",
+      "notes": "No prose labels observed; compass initials may retain W.",
+      "action": "Retained: preserve player-safe geometry; see REVISION-MAPAS.md"
+    },
+    {
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/level-2-dungeon-of-deception/level-2-dungeon-of-deception-blank.webp",
+      "sceneIds": [
+        "toaCh5Level2Dung"
+      ],
+      "sha256": "2c1e8d45c3757a1d24eb96d49ff48f59f539214cd9a86af762bedafd47955d51",
+      "review": "no-visible-prose",
+      "notes": "No prose labels observed; compass initials may retain W.",
+      "action": "Retained: preserve player-safe geometry; see REVISION-MAPAS.md"
+    },
+    {
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/level-3-vault-of-reflection/level-3-vault-of-reflection-blank.webp",
+      "sceneIds": [
+        "toaLevel3Vaultof",
+        "toaMirroredlvl30"
+      ],
+      "sha256": "22c30eafb02e7ef0cb068f43de52ee19a810a11703c5998271ec354e7d905104",
+      "review": "no-visible-prose",
+      "notes": "No prose labels observed; compass initials may retain W.",
+      "action": "Retained: preserve player-safe geometry; see REVISION-MAPAS.md"
+    },
+    {
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/level-4-chambers-of-horror/level-4-chambers-of-horror-blank.webp",
+      "sceneIds": [
+        "toaLevel4Chamber",
+        "toaMirroredlvl40"
+      ],
+      "sha256": "ed87a8b8205567201f3319a0b7acdf9b1e2df877e927d4f6e5c66efa2db95f82",
+      "review": "no-visible-prose",
+      "notes": "No prose labels observed; compass initials may retain W.",
+      "action": "Retained: preserve player-safe geometry; see REVISION-MAPAS.md"
+    },
+    {
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/level-5-gears-of-hate/level-5-gears-of-hate-blank.webp",
+      "sceneIds": [
+        "toaCh5Level5Gear",
+        "toaMirroredlvl50"
+      ],
+      "sha256": "8b44def0d8a8ddc487ff62916e5ba751012257e5fdbf9923789d96c51a7977c0",
+      "review": "no-visible-prose",
+      "notes": "No prose labels observed; compass initials may retain W.",
+      "action": "Retained: preserve player-safe geometry; see REVISION-MAPAS.md"
+    },
+    {
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/level-6-cradle-of-the-death-god/level-6-cradle-of-the-death-god-blank.webp",
+      "sceneIds": [
+        "toaCh5Level6Crad",
+        "toaMirroredLvl60"
+      ],
+      "sha256": "616741a56d4ce7ea924b80c72a77016f3b7874c228012595d2416fa056f3e3e9",
+      "review": "no-visible-prose",
+      "notes": "No prose labels observed; compass initials may retain W.",
+      "action": "Retained: preserve player-safe geometry; see REVISION-MAPAS.md"
+    },
+    {
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/level-2-dungeon-of-deception/level-2-dungeon-of-deception-mirrored.webp",
+      "sceneIds": [
+        "toaMirroredlvl20"
+      ],
+      "sha256": "531e605717d6411cdb79ce5297f53fc4576c024034e263f6187f26175fcb9bf7",
+      "review": "no-visible-prose",
+      "notes": "No prose labels observed; compass initials may retain W.",
+      "action": "Retained: preserve player-safe geometry; see REVISION-MAPAS.md"
+    }
+  ]
+}

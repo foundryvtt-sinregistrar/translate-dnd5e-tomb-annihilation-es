@@ -1,7 +1,7 @@
 // Read-only checks, invoked from a GM macro after importing into the test world.
 export async function validateImportedWorld() {
   if (!game.user.isGM) throw new Error('GM session required');
-  if (game.world.title !== 'DnD5e-6.0.3-Testing') throw new Error('Wrong test world');
+  if (!['DnD5e-6.0.3-Testing','DnD5e-6.0.3-Testing-Clean'].includes(game.world.title)) throw new Error('Wrong test world');
   const root='/modules/translate-dnd5e-tomb-annihilation-es';
   const response=await fetch(`${root}/dev-tools/export/data/world-validation-expectations.json`,{cache:'no-store'});
   if (!response.ok) throw new Error('Run prepare_world_validation.py first');

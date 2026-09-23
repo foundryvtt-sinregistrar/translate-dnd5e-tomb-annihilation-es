@@ -7,6 +7,33 @@ Actualizado: 23 de septiembre de 2026.
 **Revisión textual cerrada; validación funcional integral pendiente.**
 No se considera una versión final lista para publicar.
 
+### Última sesión de validación
+
+- Corregidas las 19 referencias confirmadas en 17 campos. Auditoría actual:
+  2.758 UUID locales y 1.880 comandos de objeto resueltos; cero destinos locales
+  pendientes. Véase [ENLACES-CORREGIDOS.md](ENLACES-CORREGIDOS.md).
+- Nueve pruebas funcionales representativas superadas en el mundo de pruebas,
+  más los controles de día, tiempo y terreno. Corregido el restablecimiento de
+  escenas reflejadas para que use IDs en vez de nombres ingleses. Alcance y
+  límites en [VALIDACION-AUTOMATIZACIONES.md](VALIDACION-AUTOMATIZACIONES.md).
+- Revisados los 31 recursos del atlas y los 38 fondos distintos de las escenas.
+  Incorporados 28 mapas/diagramas españoles: 47 imágenes españolas en total.
+  Quedan rótulos ingleses en 14 fondos y la escala del mapa de Puerto Nyanzaru
+  para jugadores. Inventario preciso en [REVISION-MAPAS.md](REVISION-MAPAS.md).
+- Iniciada la creación de `DnD5e-6.0.3-Testing-Clean` desde un mundo vacío.
+  Chrome interrumpió el control porque había abierta la interfaz de otra
+  extensión. La creación final, activación de módulos e importación aún no
+  están verificadas. Se solicitó al usuario cerrar ese panel para continuar.
+- Preparadas 11.377 comprobaciones para la siguiente importación. No se ha
+  ejecutado esa nueva validación y no sustituye el resultado anterior de
+  11.349 comprobaciones tras reparar los nombres de las fichas.
+- El informe v2 final sigue pendiente de esta importación y del cierre de los
+  límites funcionales/gráficos documentados. No se acredita una finalización
+  completa mientras esos puntos permanezcan abiertos.
+
+Los apartados de lotes posteriores conservan el historial de resultados; las
+cifras anteriores de enlaces e imágenes quedan sustituidas por este bloque.
+
 - Cinco packs originales exportados mediante la API de Foundry, con SHA-256.
 - 698 documentos principales: 1 aventura, 332 actores, 301 objetos,
   44 tablas y 20 macros.
@@ -2964,9 +2991,10 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 
 ## Trabajo que sigue pendiente
 
-- Comprobar en Foundry las referencias pendientes del informe de enlaces y
-  las discrepancias mecánicas heredadas documentadas en los lotes anteriores.
-- Revisar las etiquetas de los mapas fuera de las 24 ayudas del apéndice E.
+- Comprobar en Foundry las referencias externas/contextuales y las
+  discrepancias mecánicas heredadas documentadas en los lotes anteriores.
+- Corregir los rótulos restantes identificados en `REVISION-MAPAS.md` con
+  versiones para jugadores que conserven el encuadre y no revelen secretos.
 - Renovar las instantáneas si se requiere repetir la comparación mecánica completa.
 - Comprobar las automatizaciones durante el juego en el nuevo mundo de pruebas
   y repetir una importación limpia con la sincronización de nombres desactivada.

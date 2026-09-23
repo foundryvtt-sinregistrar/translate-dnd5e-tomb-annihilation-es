@@ -37,10 +37,10 @@ test("Journal translation preserves page identity, format, image and ordering", 
 });
 
 const englishUI = new URL("../../dnd-tomb-annihilation/lang/en.json",import.meta.url);
-test("Spanish handouts preserve page identity and replace only registered image pages", () => {
+for (const manifestName of ['handout-assets.json','atlas-assets.json']) test(`${manifestName}: preserve page identity and replace only registered image pages`, () => {
   globalThis.foundry = {utils:{deepClone:structuredClone}};
   try {
-    const manifest=JSON.parse(readFileSync(new URL('../dev-tools/translation/handout-assets.json',import.meta.url),'utf8'));
+    const manifest=JSON.parse(readFileSync(new URL(`../dev-tools/translation/${manifestName}`,import.meta.url),'utf8'));
     const adventure=JSON.parse(readFileSync(new URL('../compendium/dnd-tomb-annihilation.adventures.json',import.meta.url),'utf8'));
     const patches=adventure.entries[manifest.adventureId].journals[manifest.journalId].pages;
     for (const asset of manifest.assets) {

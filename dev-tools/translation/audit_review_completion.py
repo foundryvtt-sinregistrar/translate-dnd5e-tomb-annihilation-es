@@ -20,14 +20,21 @@ def main():
     ui=load(ROOT/'dev-tools/translation/interface-review.json')
     for path,key in [(ROOT.parent/'dnd-tomb-annihilation/lang/en.json','sourceSha256'),(ROOT/'lang/es.json','translationSha256')]:
         if digest(path)!=ui[key]: errors.append(f'UI review is stale: {path.name}')
-    manifest=load(ROOT/'dev-tools/translation/handout-assets.json')
     target=load(ROOT/'compendium/dnd-tomb-annihilation.adventures.json')
-    pages=target['entries'][manifest['adventureId']]['journals'][manifest['journalId']]['pages']
-    for asset in manifest['assets']:
-        path=ROOT.parent.parent/asset['translation']
-        if not path.is_file() or digest(path)!=asset['sha256']: errors.append(f'Asset changed or missing: {asset["number"]}')
-        if pages[asset['pageId']].get('src')!=asset['translation']: errors.append(f'Asset mapping changed: {asset["number"]}')
-    print(f'Full-field review: {len(expected & reviewed)}/{len(expected)}; UI keys: {ui["keys"]}; Spanish images: {len(manifest["assets"])}; errors: {len(errors)}')
+    image_count=0
+    for name in ['handout-assets.json','atlas-assets.json']:
+        manifest=load(ROOT/'dev-tools/translation'/name)
+        pages=target['entries'][manifest['adventureId']]['journals'][manifest['journalId']]['pages']
+        for asset in manifest['assets']:
+            path=ROOT.parent.parent/asset['translation']
+            if not path.is_file() or digest(path)!=asset['sha256']: errors.append(f'Asset changed or missing: {asset["pageId"]}')
+            if pages[asset['pageId']].get('src')!=asset['translation']: errors.append(f'Asset mapping changed: {asset["pageId"]}')
+        image_count+=len(manifest['assets'])
+    for asset in load(ROOT/'dev-tools/translation/scene-image-review.json')['images']:
+        path=ROOT.parent.parent/asset['source']
+        if not path.is_file() or digest(path)!=asset['sha256']:
+            errors.append(f'Scene image review is stale: {asset["source"]}')
+    print(f'Full-field review: {len(expected & reviewed)}/{len(expected)}; UI keys: {ui["keys"]}; Spanish images: {image_count}; errors: {len(errors)}')
     for error in errors: print(error)
     return int(bool(errors))
 
