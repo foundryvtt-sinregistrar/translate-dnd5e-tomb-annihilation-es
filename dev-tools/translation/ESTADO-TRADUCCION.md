@@ -1854,6 +1854,18 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - El enlace por nombre `Constrict` sigue pendiente. Los conjuros de Ras Nsi
   se revisan en el bloque siguiente; este bloque no cierra toda su ficha.
 
+### appendix-d-ras-nsi-spells — Ras Nsi: conjuros
+
+- Revisados los 126 campos restantes de ambas copias del actor: conjuros,
+  efectos y listas de lanzamiento, con referencias físicas 231 y 232 para
+  los nombres y la selección; textos completos contrastados con el exportado.
+- Conservados tiempos de control y renovación de muertos vivientes, límites
+  de objetivos, salvaciones repetidas y diferencias entre daño radiante y necrótico.
+- El texto exportado de Encantar animal no incluye la restricción «solo
+  serpientes» del PDF. Se registra esta omisión para la revisión funcional.
+- Con este bloque quedan revisados los textos no vacíos de las dos copias
+  de Ras Nsi; los problemas funcionales documentados siguen pendientes.
+
 ## Balance de revisión editorial
 
 - 801 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -1861,8 +1873,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
   del capítulo 4, 126 del capítulo 5 y 196 de los apéndices A, B, C, D y F.
   No equivale a 801 páginas del PDF.
-- 4779 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 4779 campos distintos.
+- 4905 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 4905 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas cincuenta y cinco biografías en ambas copias de actores: siete
   príncipes y cuarenta y ocho criaturas o PNJ del apéndice D. Siguen pendientes las demás
