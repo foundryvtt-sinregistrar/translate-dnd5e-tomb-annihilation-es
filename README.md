@@ -2,8 +2,7 @@
 
 Borrador del módulo `translate-dnd5e-tomb-annihilation-es`, versión `0.1.0`.
 Incluye traducción de los cinco compendios y 126 textos de interfaz.
-**La revisión lingüística completa sigue pendiente:** una parte importante del
-contenido procede de traducción automática local. No es una edición final ni
+**Revisión textual cerrada; validación funcional en curso.** No es una edición final ni
 una publicación instalable desde una URL remota.
 
 ## Entorno objetivo
@@ -12,9 +11,9 @@ una publicación instalable desde una URL remota.
 - Babele 2.9.1 y sus dependencias.
 - Módulo oficial `dnd-tomb-annihilation` 2.0.0 instalado y activo.
 
-La carga de Babele y los esquemas se han comprobado en este entorno. Se han
-creado cinco documentos de prueba; la reimportación completa de la aventura
-en un mundo limpio sigue pendiente.
+La carga de Babele, los esquemas y la importación completa se han comprobado
+en este entorno. Véase [la validación del mundo nuevo](dev-tools/translation/VALIDACION-MUNDO-NUEVO.md)
+para los resultados y las incidencias funcionales pendientes.
 
 ## Instalación local
 
@@ -22,6 +21,9 @@ en un mundo limpio sigue pendiente.
 2. Reiniciar Foundry para que reconozca el módulo nuevo.
 3. Activar Babele, el módulo oficial y esta traducción.
 4. Seleccionar español y recargar el mundo.
+5. Antes de importar, desactivar en Babele **Sync imported Adventure token names**.
+   La aventura ya incluye nombres revisados para cada ficha. Esa sincronización
+   los sustituye por nombres genéricos del actor y puede ocultar nombres de PNJ.
 
 El registro de Babele espera a `setup`, cuando existe `core.language`, y se
 limita a español y variantes regionales. Los documentos que ya estaban
@@ -42,7 +44,8 @@ deben inventariarse dentro de la aventura: no se han inventado packs separados.
 La traducción de Adventure incluye 475 actores, 79 diarios con 1.033 páginas,
 42 escenas y 41 carpetas. También cubre textos de modificaciones locales de
 fichas. Los nombres propios y los fragmentos puramente técnicos pueden coincidir
-con el original. Las imágenes oficiales conservan los textos que lleven integrados.
+con el original. Las ayudas para jugadores incluyen 19 imágenes españolas;
+otros mapas todavía pueden conservar etiquetas inglesas integradas.
 
 ## Desarrollo
 
@@ -61,4 +64,6 @@ Los PDF, OCR y exportaciones se guardan en `dev-tools/export/data/`, excluidos
 de Git y del paquete de distribución.
 
 Traducción no oficial, sin afiliación con Wizards of the Coast ni Foundry VTT.
-Requiere el contenido oficial; este módulo no incluye sus bases de datos ni recursos gráficos.
+Requiere el contenido oficial y no incluye sus bases de datos. Las imágenes
+españolas de las ayudas proceden del PDF aportado; véase su
+[nota de procedencia](assets/handouts/es/README.md).

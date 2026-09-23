@@ -2951,10 +2951,11 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   interfaz y la comprobación transversal de nombres descrita arriba.
 - Auditorías estáticas y editorial sin errores; cobertura de revisión completa:
   20154 de 20154 campos. Superadas 16 pruebas Node y seis Python.
-  La comprobación de esquemas de 698 documentos en Foundry es anterior a
-  los cambios de este cierre y debe repetirse. Las instantáneas
-  anteriores no se han renovado: el servidor rechazó la subida de archivos.
-  Sigue pendiente la importación completa de Adventure en un mundo limpio.
+  Renovada la comprobación de esquemas de 698 documentos: cero errores.
+  Importada la aventura en `DnD5e-6.0.3-Testing`: 11.349 comprobaciones sin
+  diferencias después de reparar 28 nombres de fichas sustituidos por Babele.
+  Las 19 imágenes españolas cargan correctamente. Las instantáneas anteriores
+  no se han renovado. Véase [VALIDACION-MUNDO-NUEVO.md](VALIDACION-MUNDO-NUEVO.md).
 - **La validación integral del módulo continúa incompleta.** El cierre textual
   y de las ayudas no acredita los compendios externos, todos los mapas con
   etiquetas dentro de imágenes ni el funcionamiento de la aventura importada.
@@ -2966,9 +2967,9 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Comprobar en Foundry las referencias pendientes del informe de enlaces y
   las discrepancias mecánicas heredadas documentadas en los lotes anteriores.
 - Revisar las etiquetas de los mapas fuera de las 24 ayudas del apéndice E.
-- Renovar la validación de esquemas y las instantáneas con estos últimos cambios.
-- Validar una importación completa de Adventure en un mundo limpio y comprobar
-  las automatizaciones durante el juego. No sobrescribir el mundo existente.
+- Renovar las instantáneas si se requiere repetir la comparación mecánica completa.
+- Comprobar las automatizaciones durante el juego en el nuevo mundo de pruebas
+  y repetir una importación limpia con la sincronización de nombres desactivada.
 - Preparar la publicación únicamente después de cerrar estas revisiones.
 
 Todavía no se ha publicado una versión instalable con estos cambios.

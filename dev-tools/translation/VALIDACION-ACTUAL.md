@@ -2,6 +2,10 @@
 
 Fecha: 23 de septiembre de 2026, 15:43 UTC.
 
+**Actualización posterior:** la sesión de las 17:26–17:29 UTC en el mundo nuevo
+renueva la validación de esquemas y comprueba la importación completa.
+Consultar [VALIDACION-MUNDO-NUEVO.md](VALIDACION-MUNDO-NUEVO.md).
+
 La sesión descrita abajo precede al cierre de objetos, metadatos, ayudas y
 enlaces. No certifica los JSON actuales. El cierre estático posterior consta
 en [CIERRE-TEXTUAL.md](CIERRE-TEXTUAL.md): 20154 campos revisados, 20158
