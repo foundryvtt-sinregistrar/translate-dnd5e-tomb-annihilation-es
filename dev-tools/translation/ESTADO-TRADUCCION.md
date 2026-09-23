@@ -2221,18 +2221,30 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   correspondiente, como el hechicero escamoso genérico. Reparada la llave
   tipográfica por un paréntesis en la cita del Manual del jugador de 2014.
 
+### appendix-d-fane-three — Azi Mas, Xopal y Yahru
+
+- Revisados 156 campos: tres páginas y ambas copias de los actores.
+  Referencias físicas 113 y 123; perfiles y conjuros contra el exportado inglés.
+- Conservados los destinos de las audiencias de Yahru, su forma al morir
+  y las restricciones de sus armas. La jeringa de Xopal mantiene el estado
+  envenenado durante una hora incluso si se supera la salvación.
+- Detectado un enlace de daño roto en el original de la jeringa:
+  `[[/damage activity=FOO]]` referencia una actividad inexistente. El objeto
+  solo contiene `ffuBjS4HfROv05fk` y `Gp56t5S2YILsDaM9`. Se conserva la clave
+  en esta revisión lingüística y se anota para reparación funcional.
+
 ## Balance de revisión editorial
 
-- 880 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 883 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 275 de los apéndices A, B, C, D y F.
-  No equivale a 880 páginas del PDF.
-- 9439 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 9439 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 278 de los apéndices A, B, C, D y F.
+  No equivale a 883 páginas del PDF.
+- 9595 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 9595 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
-  insertado. Revisadas ciento veintitrés biografías en ambas copias de actores: siete
-  príncipes y ciento dieciséis criaturas o PNJ vinculados al apéndice D. Siguen pendientes las demás
+  insertado. Revisadas ciento veintiséis biografías en ambas copias de actores: siete
+  príncipes y ciento diecinueve criaturas o PNJ vinculados al apéndice D. Siguen pendientes las demás
   biografías y fichas, además de objetos, ayudas, escenas, interfaz y los
   diarios complementarios y apéndices todavía no cerrados.
 - Auditorías estáticas y editorial sin errores. No se han renovado las

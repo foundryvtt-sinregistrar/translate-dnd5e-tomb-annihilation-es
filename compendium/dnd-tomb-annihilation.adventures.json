@@ -853,28 +853,28 @@
             "qB9j7Epq7UVkGWzY": {
               "name": "Mordisco",
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-              "descriptionChat": "<p>La Serpiente Constrictora Gigante ataca con su mordida.</p>"
+              "descriptionChat": "<p>La serpiente constrictora gigante ataca con su mordisco.</p>"
             },
             "3FIKn37A037kPgzc": {
-              "name": "Constricción",
-              "description": "<p>[[/attack extended]]. [[/damage extended average]]. El objetivo es &amp;Reference[grappled apply=false]{forcejeado} (escape CD 16). Hasta que termine esta pelea, la criatura es &amp;Reference[restrained apply=false]{restringidos}, y la serpiente no puede constriñir otro objetivo.</p>",
-              "descriptionChat": "<p>La Serpiente Constrictor Gigante ataca con su Constricto. El objetivo está enfrentado. Hasta que termine esta pelea, la criatura está restringida, y la serpiente no puede constreñir otro objetivo.</p>",
+              "name": "Constreñir",
+              "description": "<p>[[/attack extended]]. [[/damage extended average]]. El objetivo queda &amp;Reference[grappled apply=false]{agarrado} (escapar CD 16). Hasta que termine este agarre, la criatura está &amp;Reference[restrained apply=false]{apresada} y la serpiente no puede constreñir a otro objetivo.</p>",
+              "descriptionChat": "<p>La serpiente constrictora gigante ataca con Constreñir. El objetivo queda agarrado. Hasta que termine este agarre, la criatura está apresada y la serpiente no puede constreñir a otro objetivo.</p>",
               "activities": {
                 "Xa6h3XDG5JoSlWyg": {
-                  "name": "Comprobación de escape"
+                  "name": "Prueba para escapar"
                 }
               },
               "effects": {
                 "vxiM0O8LH6U1jdsE": {
-                  "name": "Agarrado y Restringido",
-                  "description": "<p>El objetivo es &amp;Reference[grappled apply=false]{forcejeado} (escape CD 16). Hasta que termine esta pelea, la criatura es &amp;Reference[restrained apply=false]{restringidos}, y la serpiente no puede constriñir otro objetivo.</p>"
+                  "name": "Agarrado y apresado",
+                  "description": "<p>El objetivo queda &amp;Reference[grappled apply=false]{agarrado} (escapar CD 16). Hasta que termine este agarre, la criatura está &amp;Reference[restrained apply=false]{apresada} y la serpiente no puede constreñir a otro objetivo.</p>"
                 }
               }
             }
           },
           "name": "Azi Mas",
           "tokenName": "Azi Mas",
-          "biography": "<p>En esta cámara se almacenan los suministros recogidos del mundo de arriba. Una serpiente constrictora gigante despierta llamada Azi Mas sirve como custodio de las provisiones. Cuando llegan productos frescos, Azi Mas los revisa personalmente y los cataloga mentalmente. El resto del tiempo, permanece enrollado en las sombras. La serpiente se aburre y disfruta charlando con los visitantes del yuan-ti. En caso de que otras criaturas entren desde el suroeste, Azi Mas los embosca e intenta tomar un rehén. Si es superior, lloriquea y pide misericordia.</p><p>Hace mucho tiempo, un druida de la selva usó un @UUID[Compendium.dnd5e.spells.Item.MCEpGpvovcXagwQS]{despertar} Deletrear a Azi Mas, dándole una Inteligencia de 10 y la habilidad de hablar Común. Después de servirle durante el encantamiento, la serpiente se deslizó y encontró su camino a Omu. Azi Mas tiene buena memoria; puede recordar nombres y rostros y es rápido en advertir a sus amos si el yuan-ti pasa por quien no ha visto antes.</p>"
+          "biography": "<p>En esta cámara se guardan los suministros traídos de la superficie. Azi Mas, una serpiente constrictora gigante despertada, custodia las provisiones. Cuando llegan productos nuevos, los revisa personalmente y los cataloga de memoria. El resto del tiempo permanece enroscado entre las sombras. Está aburrido y disfruta charlando con los visitantes yuan-ti. Si otras criaturas entran desde el suroeste, las embosca e intenta tomar un rehén. Si lo superan, gimotea y suplica clemencia.</p><p>Hace mucho tiempo, un druida de la selva lanzó @UUID[Compendium.dnd5e.spells.Item.MCEpGpvovcXagwQS]{despertar} sobre Azi Mas, otorgándole Inteligencia 10 y la capacidad de hablar común. Tras servir al druida mientras duró el encantamiento, la serpiente se marchó y acabó llegando a Omu. Azi Mas tiene buena memoria: recuerda nombres y rostros y avisa enseguida a sus amos si pasa algún yuan-ti al que no haya visto antes.</p>"
         },
         "DkhGD2h0JozX4PqY": {
           "alignment": "Sin alineamiento",
@@ -13774,7 +13774,7 @@
           "items": {
             "AG5IOj1ySaJrVtdx": {
               "name": "Ataque múltiple",
-              "description": "<p>El yuan-ti hace dos [[/item .wsHnC3KMwEYVdmQf]] ataques.</p>"
+              "description": "<p>El yuan-ti realiza dos ataques con [[/item .wsHnC3KMwEYVdmQf]]{cimitarra}.</p>"
             },
             "wsHnC3KMwEYVdmQf": {
               "name": "Cimitarra",
@@ -13785,58 +13785,58 @@
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>"
             },
             "LdNozNpDDi4xEbpa": {
-              "name": "Difusión de conjuros innatos",
-              "description": "<p>La habilidad de hechicería del yuan-ti es Carisma (salva CD 12). El yuan-ti puede lanzar innatamente los siguientes conjuros, sin necesidad de componentes materiales:</p><p>A discreción: <em>[[/item .hmObqoJ8nq1t58jU]]{amistad animal} </em>(serpientes solamente)</p><p>3/día cada uno: <em>[[/item .dew9nrCeLSbWBeqw]]{rociado con veneno}, [[/item .y0ifqt34V98ohmdj]]{sugerencia}</em></p>",
+              "name": "Lanzamiento de Conjuros Innato",
+              "description": "<p>La aptitud mágica del yuan-ti es Carisma (salvación de conjuros CD 12). Puede lanzar de forma innata los siguientes conjuros sin componentes materiales:</p><p>A voluntad: <em>[[/item .hmObqoJ8nq1t58jU]]{encantar animal} </em>(solo serpientes)</p><p>3/día cada uno: <em>[[/item .dew9nrCeLSbWBeqw]]{rociada venenosa}, [[/item .y0ifqt34V98ohmdj]]{sugestión}</em></p>",
               "activities": {
                 "WWD23H48PC9lsxYZ": {
-                  "name": "Amistad animal"
+                  "name": "Encantar animal"
                 },
                 "3ZBzwsSKshymMoYf": {
                   "name": "Rociada venenosa"
                 },
                 "yShp2HbCMF589DVK": {
-                  "name": "Sugerencias"
+                  "name": "Sugestión"
                 }
               }
             },
             "V6ksssEoJ2nKOt2b": {
-              "name": "Resistencia mágica",
-              "description": "<p>El yuan-ti tiene ventaja en los lanzamientos de ahorro contra conjuros y otros efectos mágicos.</p>"
+              "name": "Resistencia Mágica",
+              "description": "<p>El yuan-ti tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.</p>"
             },
             "hmObqoJ8nq1t58jU": {
-              "name": "Amistad animal",
-              "description": "<p>Este conjuro te permite convencer a una bestia de que no quieres hacerle daño. Elija una bestia que se puede ver dentro del rango. Debe verte y oírte. Si la Inteligencia de la bestia es 4 o superior, el conjuro falla. De lo contrario, la bestia debe tener éxito en un lanzamiento de la Sabiduría que salva o ser encantada por usted durante la duración del conjuro. Si usted o uno de sus compañeros dañan al objetivo, el conjuro termina.</p><p><strong>En los niveles superiores.</strong> Al lanzar este conjuro usando una espacio de conjuro de 2o nivel o superior, puede afectar a una bestia adicional por cada nivel de ranura por encima de 1o.</p>",
+              "name": "Encantar animal",
+              "description": "<p>Este conjuro te permite convencer a una bestia de que no pretendes dañarla. Elige una bestia que puedas ver dentro del alcance. Debe poder verte y oírte. Si su Inteligencia es 4 o superior, el conjuro falla. En caso contrario, debe superar una tirada de salvación de Sabiduría o quedar hechizada por ti durante el conjuro. Si tú o uno de tus compañeros dañáis al objetivo, el conjuro termina.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro usando un espacio de nivel 2 o superior, puedes afectar a una bestia adicional por cada nivel del espacio por encima de 1.</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             },
             "dew9nrCeLSbWBeqw": {
               "name": "Rociada venenosa",
-              "description": "<p>Extiendes tu mano hacia una criatura que puedes ver dentro de tu alcance y proyectar un soplo de gas nocivo desde tu palma. La criatura debe tener éxito en un lanzamiento de ahorro Constitución o tomar 1d12 daño venenoso.</p><p>El daño de este conjuro aumenta en 1d12 cuando alcanzas el 5o nivel (2d12), 11o nivel (3d12) y 17o nivel (4d12).</p>",
+              "description": "<p>Extiendes la mano hacia una criatura que puedas ver dentro del alcance y proyectas una nube de gas nocivo desde la palma. La criatura debe superar una tirada de salvación de Constitución o sufrir 1d12 de daño de veneno.</p><p>El daño de este conjuro aumenta en 1d12 cuando alcanzas el nivel 5 (2d12), el nivel 11 (3d12) y el nivel 17 (4d12).</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             },
             "y0ifqt34V98ohmdj": {
-              "name": "Sugerencias",
-              "description": "<p>Sugiere un curso de actividad (limitado a una o dos frases) e influencia mágicamente a una criatura que puede ver dentro del rango que puede oír y entender. Las criaturas que no pueden ser encantadas son inmunes a este efecto. La sugerencia debe redactarse de manera que el curso de acción sea razonable. Pedir a la criatura que se apuñale a sí misma, que se lance sobre una lanza, que se inmole a sí misma, o que haga algún otro acto obviamente dañino termina el conjuro.</p><p>El objetivo debe hacer un lanzamiento de ahorro de sabiduría. En una salvada fallida, persigue el curso de acción que usted describió a lo mejor de su capacidad. El curso de acción sugerido puede continuar durante todo el tiempo. Si la actividad sugerida se puede completar en un tiempo más corto, el conjuro termina cuando el sujeto termina lo que se le pidió que hiciera.</p><p>También puede especificar las condiciones que desencadenarán una actividad especial durante la duración. Por ejemplo, podrías sugerir que un caballero le dé su caballo de guerra al primer mendigo que conozca. Si la condición no se cumple antes de que expire el conjuro, la actividad no se realiza.</p><p>Si usted o alguno de sus compañeros dañan el objetivo, el conjuro termina.</p>",
+              "name": "Sugestión",
+              "description": "<p>Sugieres una conducta, expresada en una o dos frases, e influyes mágicamente en una criatura que puedas ver dentro del alcance y que pueda oírte y entenderte. Las criaturas que no pueden ser hechizadas son inmunes a este efecto. Debes formular la sugerencia de modo que la conducta parezca razonable. Pedirle que se apuñale, se arroje sobre una lanza, se prenda fuego o haga algo evidentemente perjudicial termina el conjuro.</p><p>El objetivo debe realizar una tirada de salvación de Sabiduría. Si falla, sigue la conducta que has descrito lo mejor que puede. Puede hacerlo durante todo el conjuro. Si la tarea puede completarse antes, el conjuro termina cuando el objetivo acaba lo que le has pedido.</p><p>También puedes establecer condiciones que desencadenen una conducta específica mientras dure el conjuro. Por ejemplo, puedes sugerir a una caballera que entregue su caballo de guerra al primer mendigo que encuentre. Si la condición no se cumple antes de que termine el conjuro, no realiza esa acción.</p><p>Si tú o cualquiera de tus compañeros causáis daño al objetivo, el conjuro termina.</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             },
             "H0soTNYk5Agfz8nL": {
               "name": "Jeringa de bronce",
-              "description": "<p>Xopal lleva una jeringa de bronce que contiene tres dosis de un cóctel venenoso.</p><p>Como una acción, puede hacer un ataque de arma cuerpo a cuerpo con la jeringa ([[/attack +3]]{+3 a golpear}), que trata [[/damage activity=FOO]] daño e inyecta una dosis de veneno en un golpe. </p><p>Cualquier criatura inyectada con una dosis de veneno debe hacer un [[/save format=long]], tomando [[/damage average activity=Gp56t5S2YILsDaM9]] daño en un error de guardar, o la mitad de daño en un éxito.</p><p>Además, la criatura es &amp;Reference[poisoned apply=false]{envenenado} durante 1 hora si su salvación tiene éxito o no.</p>",
+              "description": "<p>Xopal lleva una jeringa de bronce con tres dosis de un cóctel de venenos.</p><p>Como acción, puede realizar un ataque con arma cuerpo a cuerpo con la jeringa ([[/attack +3]]{+3 a impactar}), que causa [[/damage activity=FOO]] de daño e inyecta una dosis de veneno al impactar.</p><p>Una criatura que reciba una dosis debe realizar una tirada de salvación [[/save format=long]]. Si falla, sufre [[/damage average activity=Gp56t5S2YILsDaM9]] de daño; si tiene éxito, sufre la mitad.</p><p>Además, queda &amp;Reference[poisoned apply=false]{envenenada} durante 1 hora, tanto si supera la salvación como si la falla.</p>",
               "effects": {
                 "kSsSuDluCKWz3TuO": {
                   "name": "Envenenado",
-                  "description": "<p>La criatura es &amp;Reference[poisoned apply=false]{envenenado} durante 1 hora si su salvación tiene éxito o no.</p>"
+                  "description": "<p>La criatura queda &amp;Reference[poisoned apply=false]{envenenada} durante 1 hora, tanto si supera la salvación como si la falla.</p>"
                 }
               }
             }
@@ -13844,14 +13844,14 @@
           "name": "Xopal",
           "creatureSubtype": "Yuan-ti purasangre",
           "tokenName": "Xopal",
-          "biography": "<p>Xopal cree que es su destino transformarse en una forma mucho más poderosa de yuan-ti, una metamorfosis que ocurrirá cuando desarrolle un veneno tan virulento que incluso la inmunidad innata al veneno no puede resistirlo. Xopal utiliza a los zombies como sujetos de prueba; una vez que haya superado su inmunidad, planea realizar más pruebas en vivo yuan-ti. Xopal lleva una jeringa de bronce que contiene tres dosis de un cóctel venenoso.</p>"
+          "biography": "<p>Xopal cree que está destinado a transformarse en una forma de yuan-ti mucho más poderosa. Esa metamorfosis ocurrirá cuando desarrolle un veneno tan virulento que ni siquiera la inmunidad innata al veneno pueda resistirlo. Utiliza a los zombis como sujetos de prueba; cuando supere su inmunidad, piensa seguir experimentando con yuan-ti vivos. Lleva una jeringa de bronce con tres dosis de un cóctel de venenos.</p>"
         },
         "toaYahru00000000": {
           "alignment": "Neutral malvado",
           "items": {
             "WF5ku1NwNMJIbqAC": {
               "name": "Ataque múltiple",
-              "description": "<p>El yuan-ti hace dos ataques a distancia o dos ataques cuerpo a cuerpo, pero puede utilizar su [[/item Bite]] Sólo una vez.</p>"
+              "description": "<p>El yuan-ti realiza dos ataques a distancia o dos ataques cuerpo a cuerpo, pero solo puede usar su [[/item Bite]]{mordisco} una vez.</p>"
             },
             "tFjdyG76c2K6wRsw": {
               "name": "Mordisco",
@@ -13859,73 +13859,73 @@
             },
             "fybR0hBMWsKkK8aD": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-              "name": "Scimitar (forma Yuan-ti solamente)",
+              "name": "Cimitarra (solo en forma yuan-ti)",
               "activities": {
                 "dnd5eactivity000": {
                   "activation": {
-                    "condition": "Sólo el formulario Yuan-ti"
+                    "condition": "Solo en forma yuan-ti"
                   }
                 }
               }
             },
             "chRdSsL3qBYtemps": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-              "name": "Longbow (solo en forma de Yuan-ti)",
+              "name": "Arco largo (solo en forma yuan-ti)",
               "activities": {
                 "dnd5eactivity000": {
                   "activation": {
-                    "condition": "Sólo el formulario Yuan-ti"
+                    "condition": "Solo en forma yuan-ti"
                   }
                 }
               }
             },
             "VmFpSgmfhvSjrcAs": {
-              "name": "Hechicería innata (forma Yuan-ti solamente)",
-              "description": "<p>La habilidad innata de hechicería del yuan-ti es Carisma (salva CD 13). El yuan-ti puede lanzar innatamente los siguientes conjuros, sin necesidad de componentes materiales:</p><p>A discreción: <em>[[/item .wH3YQK3OW0q5vDAz]]{amistad animal}</em> (Sólo serpientes)</p><p>3/día: <em>[[/item .eSeOHIwTlHMlrJsA]]{sugerencia}</em></p>",
+              "name": "Lanzamiento de Conjuros Innato (solo forma de yuan-ti)",
+              "description": "<p>La aptitud mágica innata del yuan-ti es Carisma (salvación de conjuros CD 13). Puede lanzar de forma innata los siguientes conjuros sin componentes materiales:</p><p>A voluntad: <em>[[/item .wH3YQK3OW0q5vDAz]]{encantar animal}</em> (solo serpientes)</p><p>3/día: <em>[[/item .eSeOHIwTlHMlrJsA]]{sugestión}</em></p>",
               "activities": {
                 "GgQc9odVW9uhPOhQ": {
-                  "name": "Amistad animal"
+                  "name": "Encantar animal"
                 },
                 "bldTjikdmJ5YUvR0": {
-                  "name": "Sugerencias"
+                  "name": "Sugestión"
                 }
               }
             },
             "ro87S92Q1l1Tm8xo": {
-              "name": "Cambio de forma",
-              "description": "<p>El yuan-ti puede utilizar su acción para polimorfo en una serpiente Mediana, o de nuevo en su forma verdadera. Sus estadísticas son las mismas en cada forma. Cualquier equipo que lleva o lleva no se transforma. No cambia de forma si muere.</p>"
+              "name": "Cambiaformas",
+              "description": "<p>El yuan-ti puede usar su acción para polimorfarse en una serpiente Mediana o recuperar su verdadera forma. Sus estadísticas son las mismas en ambas formas. El equipo que vista o lleve no se transforma. No cambia de forma si muere.</p>"
             },
             "NSolAkTP3OL9CkSF": {
-              "name": "Resistencia mágica",
-              "description": "<p>El yuan-ti tiene ventaja en los lanzamientos de ahorro contra conjuros y otros efectos mágicos.</p>"
+              "name": "Resistencia Mágica",
+              "description": "<p>El yuan-ti tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.</p>"
             },
             "d3uIe2jcFeQ8Pcdm": {
-              "name": "Tipo Malison",
-              "description": "<p>El yuan-ti malison (tipo 1) tiene un cuerpo humano con cabeza de serpiente.</p>"
+              "name": "Tipo de corrupto",
+              "description": "<p>El corrupto yuan-ti de tipo 1 tiene cuerpo humano y cabeza de serpiente.</p>"
             },
             "wH3YQK3OW0q5vDAz": {
-              "name": "Amistad animal",
-              "description": "<p>Este conjuro te permite convencer a una bestia de que no quieres hacerle daño. Elija una bestia que se puede ver dentro del rango. Debe verte y oírte. Si la Inteligencia de la bestia es 4 o superior, el conjuro falla. De lo contrario, la bestia debe tener éxito en un lanzamiento de la Sabiduría que salva o ser encantada por usted durante la duración del conjuro. Si usted o uno de sus compañeros dañan al objetivo, el conjuro termina.</p><p><strong>En los niveles superiores.</strong> Al lanzar este conjuro usando una espacio de conjuro de 2o nivel o superior, puede afectar a una bestia adicional por cada nivel de ranura por encima de 1o.</p>",
+              "name": "Encantar animal",
+              "description": "<p>Este conjuro te permite convencer a una bestia de que no pretendes dañarla. Elige una bestia que puedas ver dentro del alcance. Debe poder verte y oírte. Si su Inteligencia es 4 o superior, el conjuro falla. En caso contrario, debe superar una tirada de salvación de Sabiduría o quedar hechizada por ti durante el conjuro. Si tú o uno de tus compañeros dañáis al objetivo, el conjuro termina.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro usando un espacio de nivel 2 o superior, puedes afectar a una bestia adicional por cada nivel del espacio por encima de 1.</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             },
             "eSeOHIwTlHMlrJsA": {
-              "name": "Sugerencias",
-              "description": "<p>Sugiere un curso de actividad (limitado a una o dos frases) e influencia mágicamente a una criatura que puede ver dentro del rango que puede oír y entender. Las criaturas que no pueden ser encantadas son inmunes a este efecto. La sugerencia debe redactarse de manera que el curso de acción sea razonable. Pedir a la criatura que se apuñale a sí misma, que se lance sobre una lanza, que se inmole a sí misma, o que haga algún otro acto obviamente dañino termina el conjuro.</p><p>El objetivo debe hacer un lanzamiento de ahorro de sabiduría. En una salvada fallida, persigue el curso de acción que usted describió a lo mejor de su capacidad. El curso de acción sugerido puede continuar durante todo el tiempo. Si la actividad sugerida se puede completar en un tiempo más corto, el conjuro termina cuando el sujeto termina lo que se le pidió que hiciera.</p><p>También puede especificar las condiciones que desencadenarán una actividad especial durante la duración. Por ejemplo, podrías sugerir que un caballero le dé su caballo de guerra al primer mendigo que conozca. Si la condición no se cumple antes de que expire el conjuro, la actividad no se realiza.</p><p>Si usted o alguno de sus compañeros dañan el objetivo, el conjuro termina.</p>",
+              "name": "Sugestión",
+              "description": "<p>Sugieres una conducta, expresada en una o dos frases, e influyes mágicamente en una criatura que puedas ver dentro del alcance y que pueda oírte y entenderte. Las criaturas que no pueden ser hechizadas son inmunes a este efecto. Debes formular la sugerencia de modo que la conducta parezca razonable. Pedirle que se apuñale, se arroje sobre una lanza, se prenda fuego o haga algo evidentemente perjudicial termina el conjuro.</p><p>El objetivo debe realizar una tirada de salvación de Sabiduría. Si falla, sigue la conducta que has descrito lo mejor que puede. Puede hacerlo durante todo el conjuro. Si la tarea puede completarse antes, el conjuro termina cuando el objetivo acaba lo que le has pedido.</p><p>También puedes establecer condiciones que desencadenen una conducta específica mientras dure el conjuro. Por ejemplo, puedes sugerir a una caballera que entregue su caballo de guerra al primer mendigo que encuentre. Si la condición no se cumple antes de que termine el conjuro, no realiza esa acción.</p><p>Si tú o cualquiera de tus compañeros causáis daño al objetivo, el conjuro termina.</p>",
               "effects": {
                 "dnd5espellchange": {
-                  "name": "Cambios ortográficos"
+                  "name": "Cambios de conjuro"
                 }
               }
             }
           },
           "name": "Yahru",
-          "creatureSubtype": "Cambio de forma, Yuan-Ti",
+          "creatureSubtype": "Cambiaformas, yuan-ti",
           "tokenName": "Yahru",
-          "biography": "<p>Yahru disfruta de juegos políticos y utiliza los personajes para jugar Ras Nsi y Fenthaza contra los demás. Si los personajes contestaron las preguntas de Yahru con ira o arrogancia, son llevados a Ras Nsi. Si reaccionan de manera tranquila y civilizada, son llevados a Fenthaza.</p>"
+          "biography": "<p>Yahru disfruta con los juegos políticos y utiliza a los personajes para enfrentar a Ras Nsi con Fenthaza. Si responden a sus preguntas con ira o arrogancia, los llevan ante Ras Nsi. Si reaccionan con calma y cortesía, los conducen ante Fenthaza.</p>"
         },
         "toaYamoch0000000": {
           "alignment": "Legal malvado",
