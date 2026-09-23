@@ -929,14 +929,24 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   de fuerza y los valores y colores de los tesoros.
 - Auditorías técnica y editorial sin errores.
 
+### ch5-level3-mechanisms-01 a ch5-level3-mechanisms-05 — Viento y sala giratoria
+
+- Revisados cinco textos y títulos con referencias físicas 152-153.
+- Los vientos usan el daño psíquico del export actualizado. No se han añadido
+  la locura temporal ni las inmunidades de autómatas y muertos vivientes del PDF.
+- Conservada la transparencia en un solo sentido de la sala de control,
+  las excepciones al daño por giro y los tres conjuros de abrir necesarios.
+- La tabla insertada de efectos del tambor requiere su propia revisión.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 538 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 543 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4 y cincuenta y nueve del capítulo 5. No equivale a 538 páginas del PDF.
-- 1186 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1186 campos distintos.
+  del capítulo 4 y sesenta y cuatro del capítulo 5. No equivale a 543 páginas del PDF.
+- 1196 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1196 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
