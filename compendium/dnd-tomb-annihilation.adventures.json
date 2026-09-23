@@ -4259,27 +4259,27 @@
               "name": "Honda"
             },
             "4PmkUwSkrvasgu8M": {
-              "name": "Invención de armas",
-              "description": "<p>El kobold utiliza una de las siguientes opciones (registrar un [[/r d8]] o elegir uno); el kobold puede utilizar cada uno no más de una vez al día:</p><section id=\"secret-Xpd7Gzj8sBltt15P\" class=\"secret\"><p><em>[[/item .JbgbQSx3mhndj6HI]]</em></p><p><em>[[/item .U0lStB9bNBziIXeh]]</em></p><p><em>[[/item .jFZNNGZEEwfBF81E]]</em></p><p><em>[[/item .a1o971LnUgq29CCK]]</em></p><p><em>[[/item .bzL41tJoIpvjGWQM]]</em></p><p><em>[[/item .Q3gCogkhMC7lJkLs]]</em></p><p><em>[[/item .gfHx8qjweCNaI64o]]</em></p><p><em>[[/item .MUsg201sXOoIRsXO]]</em></p></section>",
+              "name": "Arma inventada",
+              "description": "<p>El kobold usa una de las siguientes opciones (tira un [[/r d8]] o elige una); no puede usar cada opción más de una vez al día:</p><section id=\"secret-Xpd7Gzj8sBltt15P\" class=\"secret\"><p><em>[[/item .JbgbQSx3mhndj6HI]]</em></p><p><em>[[/item .U0lStB9bNBziIXeh]]</em></p><p><em>[[/item .jFZNNGZEEwfBF81E]]</em></p><p><em>[[/item .a1o971LnUgq29CCK]]</em></p><p><em>[[/item .bzL41tJoIpvjGWQM]]</em></p><p><em>[[/item .Q3gCogkhMC7lJkLs]]</em></p><p><em>[[/item .gfHx8qjweCNaI64o]]</em></p><p><em>[[/item .MUsg201sXOoIRsXO]]</em></p></section>",
               "activities": {
                 "ZPskoy80cZ5BOnBu": {
                   "roll": {
-                    "name": "Rollo d8"
+                    "name": "Tirar d8"
                   }
                 }
               }
             },
             "JbgbQSx3mhndj6HI": {
               "name": "1. Ácido",
-              "description": "<p>El kobold lanza un frasco de ácido. [[/attack extended]]. [[/damage extended average]].</p>"
+              "description": "<p>El kobold arroja un frasco de ácido. [[/attack extended]]. [[/damage extended average]].</p>"
             },
             "U0lStB9bNBziIXeh": {
-              "name": "2. El fuego del alquimista",
-              "description": "<p>El kobold lanza un frasco de fuego alquimista. [[/attack extended]]. [[/damage extended average]] al inicio de cada uno de los giros del objetivo. Una criatura puede poner fin a este daño utilizando su acción para hacer un [[/check format=long]] para apagar las llamas.</p>"
+              "name": "2. Fuego de alquimista",
+              "description": "<p>El kobold lanza un frasco de fuego de alquimista. [[/attack extended]]. [[/damage extended average]] al comienzo de cada turno del objetivo. Una criatura puede detener este daño usando su acción para realizar una [[/check format=long]] y extinguir las llamas.</p>"
             },
             "jFZNNGZEEwfBF81E": {
-              "name": "3. Cesto de Centípedos",
-              "description": "<p>El kobold lanza una pequeña canasta en un espacio de 5 pies cuadrados a menos de 20 pies de ella. Un enjambre de insectos (centipiés) con 11 puntos de impacto emerge de la cesta y rollos iniciativa. Al final de cada uno de los giros del enjambre, hay un [[/r 1d100cs&lt;=50#The swarm disperses on a result of 1]]{50 %} la posibilidad de que el enjambre se disperse.</p>",
+              "name": "3. Cesta de ciempiés",
+              "description": "<p>El kobold arroja una pequeña cesta a un espacio de 5 pies de lado situado a 20 pies o menos de él. De la cesta sale un enjambre de insectos (ciempiés) con 11 puntos de golpe, que tira iniciativa. Al final de cada turno del enjambre, hay un [[/r 1d100cs&lt;=50#The swarm disperses on a result of 1]]{50 por ciento} de probabilidades de que se disperse.</p>",
               "activities": {
                 "r6JNawHHXLuaQd4Q": {
                   "name": "Lanzar cesta"
@@ -4287,127 +4287,127 @@
               }
             },
             "a1o971LnUgq29CCK": {
-              "name": "4. Pote de baba verde",
-              "description": "<p>El kobold lanza una olla de arcilla llena de baba verde al blanco, y se abre al impacto. <em>Ataque con arma a distancia</em>: [[/attack]] para golpear, rango de 5/20 pies, un objetivo. <em>Impacto</em>: El objetivo está cubierto por un trozo de baba verde (véase el capítulo 5 de la <em>Guía del Dungeon Master</em>). <em>Fallo</em>: Un parche de limo verde cubre una sección aleatoriamente determinada de 5 pies cuadrados de pared o piso a menos de 5 pies del objetivo.</p>",
+              "name": "4. Vasija con limo verde",
+              "description": "<p>El kobold lanza contra el objetivo una vasija de barro llena de limo verde, que se rompe al impactar. <em>Ataque con arma a distancia</em>: [[/attack]] a impactar, alcance 5/20 pies, un objetivo. <em>Impacto</em>: El objetivo queda cubierto de limo verde (consulta el capítulo 5 de la <em>Guía del Dungeon Master</em>). <em>Fallo</em>: El limo verde cubre una sección de pared o suelo de 5 pies de lado, elegida al azar a 5 pies o menos del objetivo.</p>",
               "activities": {
                 "wxK2Kq0Pw0Svhnel": {
-                  "name": "Daños: Inicio de la vuelta"
+                  "name": "Daño: comienzo del turno"
                 },
                 "K4VCA680jcZXfOrF": {
-                  "name": "Daños: Madera y Metal"
+                  "name": "Daño: madera y metal"
                 }
               }
             },
             "bzL41tJoIpvjGWQM": {
-              "name": "5. Vasija de gusanos de la podredumbre",
-              "description": "<p>El kobold lanza una olla de arcilla en un espacio de 5 pies cuadrados a menos de 20 pies de ella, y se abre al impacto. Un enjambre de larvas podridas emerge de la olla destrozada y sigue siendo un peligro en ese cuadrado.</p>"
+              "name": "5. Vasija de larvas podridas",
+              "description": "<p>El kobold arroja una vasija de barro a un espacio de 5 pies de lado situado a 20 pies o menos de él, y se rompe al impactar. Un enjambre de larvas podridas sale de la vasija rota y permanece en esa casilla como un peligro.</p>"
             },
             "Q3gCogkhMC7lJkLs": {
-              "name": "6. Escorpión en un palo",
-              "description": "<p>El kobold hace un ataque cuerpo a cuerpo con un escorpión atado al final de un poste de 5 pies de largo. [[/attack extended]]. [[/damage extended average]], y el objetivo debe hacer un [[/save format=long]], tomando [[/damage average activity=7NOQHbFXSW7myWZt]] daño en un error de guardar, o la mitad de daño en un éxito.</p>"
+              "name": "6. Escorpión atado a un palo",
+              "description": "<p>El kobold realiza un ataque cuerpo a cuerpo con un escorpión atado al extremo de una vara de 5 pies de largo. [[/attack extended]]. [[/damage extended average]], y el objetivo debe realizar una [[/save format=long]]; sufre [[/damage average activity=7NOQHbFXSW7myWZt]] de daño si falla, o la mitad si tiene éxito.</p>"
             },
             "gfHx8qjweCNaI64o": {
-              "name": "7. Skunk en una jaula",
-              "description": "<p>El kobold libera a un zorrillo en un espacio desocupado a menos de 5 pies de distancia. El zorrillo tiene una velocidad de caminar de 20 pies, AC 10, 1 punto de impacto, y no hay ataques efectivos. Revuelve la iniciativa y, a su vez, utiliza su acción para rociar almizcle a una criatura aleatoria a menos de 5 pies de distancia. El objetivo debe hacer un [[/save format=long]]. En un ahorro fallido, el objetivo se retracta y no puede tomar acciones durante 1 minuto. El objetivo puede repetir el lanzamiento de ahorro al final de cada uno de sus turnos, terminando con el efecto en sí mismo en un éxito. Una criatura que no necesita respirar o es inmune al veneno tiene éxito automáticamente en el lanzamiento de ahorro. Una vez que el zorrillo ha rociado su almizcle, no puede hacerlo de nuevo hasta que termine un descanso corto o largo. </p>"
+              "name": "7. Mofeta enjaulada",
+              "description": "<p>El kobold libera una mofeta en un espacio desocupado a 5 pies o menos de él. La mofeta tiene una velocidad caminando de 20 pies, CA 10, 1 punto de golpe y ningún ataque efectivo. Tira iniciativa y, en su turno, usa su acción para rociar con almizcle a una criatura al azar situada a 5 pies o menos de ella. El objetivo debe realizar una [[/save format=long]]. Si falla, sufre arcadas y no puede realizar acciones durante 1 minuto. Puede repetir la tirada de salvación al final de cada uno de sus turnos y librarse del efecto si tiene éxito. Una criatura que no necesite respirar o sea inmune al veneno supera automáticamente la tirada de salvación. Después de rociar con su almizcle, la mofeta no puede volver a hacerlo hasta que termine un descanso corto o largo.</p>"
             },
             "Luql262dfBYBxOyf": {
-              "name": "Tácticas de empaquetado",
-              "requirements": "Babuino",
-              "description": "<p>El kobold tiene ventaja en un ataque rodando contra una criatura si al menos uno de los aliados del kobold está a menos de 5 pies de la criatura y el aliado no está incapacitado.</p>"
+              "name": "Atacar en Manada",
+              "requirements": "Kobold",
+              "description": "<p>El kobold tiene ventaja en las tiradas de ataque contra una criatura si al menos uno de sus aliados está a 5 pies o menos de ella y no está incapacitado.</p>"
             },
             "FXr2VcxqnXqqWeq2": {
-              "name": "Sensibilidad a la luz solar",
-              "description": "<p>Mientras que en la luz del sol, el kobold tiene desventaja en los rollos de ataque, así como en la sabiduría (percepción) controles que dependen de la vista.</p>"
+              "name": "Sensibilidad a la Luz Solar",
+              "description": "<p>Bajo la luz del sol, el kobold tiene desventaja en las tiradas de ataque y en las pruebas de Sabiduría (Percepción) que dependan de la vista.</p>"
             },
             "MUsg201sXOoIRsXO": {
-              "name": "8. Nido de avispa en una bolsa",
-              "description": "<p>El kobold tira una pequeña bolsa en un espacio de 5 pies cuadrados a menos de 20 pies de ella. Un enjambre de insectos (avispas) con 11 puntos de impacto emerge de la iniciativa bolsa y rollos. Al final de cada uno de los giros del enjambre, hay un [[/r 1d100cs&lt;=50#The swarm disperses on a result of 1]]{50 %} la posibilidad de que el enjambre se disperse.</p>"
+              "name": "8. Nido de avispas embolsado",
+              "description": "<p>El kobold arroja una pequeña bolsa a un espacio de 5 pies de lado situado a 20 pies o menos de él. De la bolsa sale un enjambre de insectos (avispas) con 11 puntos de golpe, que tira iniciativa. Al final de cada turno del enjambre, hay un [[/r 1d100cs&lt;=50#The swarm disperses on a result of 1]]{50 por ciento} de probabilidades de que se disperse.</p>"
             }
           },
-          "name": "Kobold inventor",
+          "name": "Inventor kobold",
           "creatureSubtype": "Kobold",
-          "tokenName": "Kobold inventor"
+          "tokenName": "Inventor kobold"
         },
         "4uU3j5jkgrHdUsRR": {
           "alignment": "Legal malvado",
           "items": {
             "nB7Li6BMQ7DUQ2ge": {
-              "name": "Lanzamiento de conjuros",
-              "description": "<p>El kobold es un lanzador de conjuros de nivel 3. Su habilidad de conjuros es Carisma (salva CD 12, +4 para golpear con ataques de conjuros). Tiene los siguientes conjuros de hechicero preparados:</p><p>Cantrip (a voluntad): <em>[[/item .9mle8a8nl2x0bcge]]{perno de fuego}, [[/item .MIFq73yEVmCqmNxi]]{mano de mago}, [[/item .yZO6XdOYpJ0z8bHd]]{remendando}, [[/item .dpz0Fr76JH0ExZ5K]]{rociado con veneno}</em></p><p>1er nivel (4 franjas horarias): <em>[[/item .IbiKLrMFVqjJ7tp3]]{persona encantadora}, orbe cromático </em>{Manual del jugador 2014)<em>, [[/item .cmrPVkRC0tV0sosI]]{Retirada rápida}</em></p><p>2o nivel (2 franjas horarias): <em>[[/item .j5RMaNtqmmlp2l5i]]{Rayo abrasador}</em></p>"
+              "name": "Lanzamiento de Conjuros",
+              "description": "<p>El kobold es un lanzador de conjuros de nivel 3. Su aptitud mágica es Carisma (salvación de conjuros CD 12, +4 a impactar con ataques de conjuro). Tiene preparados los siguientes conjuros de hechicero:</p><p>Trucos (a voluntad): <em>[[/item .9mle8a8nl2x0bcge]]{descarga de fuego}, [[/item .MIFq73yEVmCqmNxi]]{mano de mago}, [[/item .yZO6XdOYpJ0z8bHd]]{reparar}, [[/item .dpz0Fr76JH0ExZ5K]]{rociada venenosa}</em></p><p>Nivel 1 (4 espacios): <em>[[/item .IbiKLrMFVqjJ7tp3]]{hechizar persona}, orbe cromático </em>(Manual del jugador de 2014)<em>, [[/item .cmrPVkRC0tV0sosI]]{retirada expeditiva}</em></p><p>Nivel 2 (2 espacios): <em>[[/item .j5RMaNtqmmlp2l5i]]{rayo abrasador}</em></p>"
             },
             "RU91a45QC0CUKtKw": {
               "name": "Daga",
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>"
             },
             "9mle8a8nl2x0bcge": {
-              "name": "Perno de fuego",
-              "description": "<p>Lanzas una mota de fuego a una criatura u objeto dentro del alcance. Hacer un ataque de conjuros de alcance contra el objetivo. En un golpe, el objetivo recibe 1d10 daños por incendio. Un objeto inflamable golpeado por este conjuro se enciende si no está siendo usado o transportado.</p><p>El daño de este conjuro aumenta en 1d10 cuando alcanzas el 5o nivel (2d10), 11o nivel (3d10) y 17o nivel (4d10).</p>"
+              "name": "Descarga de fuego",
+              "description": "<p>Lanzas una mota de fuego a una criatura u objeto dentro del alcance. Realiza un ataque de conjuro a distancia contra el objetivo. Si impactas, el objetivo sufre 1d10 de daño de fuego. Un objeto inflamable alcanzado por este conjuro arde si nadie lo lleva puesto ni lo transporta.</p><p>El daño de este conjuro aumenta en 1d10 cuando alcanzas el nivel 5 (2d10), el nivel 11 (3d10) y el nivel 17 (4d10).</p>"
             },
             "MIFq73yEVmCqmNxi": {
-              "name": "Mano Maga",
-              "description": "<p>Una mano espectral y flotante aparece en un punto que usted elige dentro del rango. La mano dura por la duración o hasta que la desestime como una acción. La mano se desvanece si está a más de 30 pies de ti o si vuelves a lanzar este conjuro.</p><p>Puedes usar tu acción para controlar la mano. Puede usar la mano para manipular un objeto, abrir una puerta o contenedor desbloqueado, guardar o recuperar un objeto de un contenedor abierto o verter el contenido de un vial. Puedes mover la mano hasta 30 pies cada vez que la uses.</p><p>La mano no puede atacar, activar objetos mágicos ni llevar más de 10 libras.</p>"
+              "name": "Mano de mago",
+              "description": "<p>Una mano espectral flotante aparece en un punto que elijas dentro del alcance. Permanece durante el conjuro o hasta que la disipes como acción. La mano desaparece si se aleja más de 30 pies de ti o si vuelves a lanzar este conjuro.</p><p>Puedes usar tu acción para controlar la mano. Puedes utilizarla para manipular un objeto, abrir una puerta o recipiente sin cerrar con llave, guardar o sacar un objeto de un recipiente abierto o verter el contenido de un vial. Puedes mover la mano hasta 30 pies cada vez que la uses.</p><p>La mano no puede atacar, activar objetos mágicos ni transportar más de 10 libras.</p>"
             },
             "yZO6XdOYpJ0z8bHd": {
-              "name": "Remendar",
-              "description": "<p>Este conjuro repara una sola rotura o desgarro en un objeto que tocas, como un eslabón de cadena roto, dos mitades de una llave rota, una capa rota, o una piel de vino que gotea. Mientras la rotura o desgarro no sea mayor de 1 pie en cualquier dimensión, lo reparas, sin dejar rastro del daño anterior.</p><p>Este conjuro puede reparar físicamente un objeto mágico o construir, pero el conjuro no puede restaurar la magia a tal objeto.</p>"
+              "name": "Reparar",
+              "description": "<p>Este conjuro repara una rotura o desgarro de un objeto que toques, como un eslabón roto, las dos mitades de una llave partida, una capa rasgada o un odre que pierde líquido. Siempre que la rotura o el desgarro no mida más de 1 pie en ninguna dimensión, lo reparas sin dejar rastro del daño.</p><p>Este conjuro puede reparar físicamente un objeto mágico o un autómata, pero no puede restaurar su magia.</p>"
             },
             "dpz0Fr76JH0ExZ5K": {
               "name": "Rociada venenosa",
-              "description": "<p>Extiendes tu mano hacia una criatura que puedes ver dentro de tu alcance y proyectar un soplo de gas nocivo desde tu palma. La criatura debe tener éxito en un lanzamiento de ahorro Constitución o tomar 1d12 daño venenoso.</p><p>El daño de este conjuro aumenta en 1d12 cuando alcanzas el 5o nivel (2d12), 11o nivel (3d12) y 17o nivel (4d12).</p>"
+              "description": "<p>Extiendes la mano hacia una criatura que puedas ver dentro del alcance y proyectas una nube de gas nocivo desde la palma. La criatura debe superar una tirada de salvación de Constitución o sufrir 1d12 de daño de veneno.</p><p>El daño de este conjuro aumenta en 1d12 cuando alcanzas el nivel 5 (2d12), el nivel 11 (3d12) y el nivel 17 (4d12).</p>"
             },
             "IbiKLrMFVqjJ7tp3": {
               "name": "Hechizar persona",
-              "description": "<p>Tratas de encantar a un humanoide que puedes ver dentro del alcance. Debe hacer un lanzamiento de salvación de Sabiduría, y lo hace con ventaja si usted o sus compañeros están luchando contra ella. Si falla el lanzamiento de ahorro, es &amp;Reference[charmed] hasta que el conjuro termine o hasta que tú o tus compañeros le hagan algo dañino. La criatura encantada te ve como un amigo conocido. Cuando el conjuro termina, la criatura sabe que fue encantado por ti.</p><p><strong>En los niveles superiores.</strong> Al lanzar este conjuro usando una ranura para conjuros de 2o nivel o superior, puede apuntar a una criatura adicional por cada nivel de ranura por encima de 1o. Las criaturas deben estar a menos de 30 pies el uno del otro cuando los atacas.</p>",
+              "description": "<p>Intentas hechizar a un humanoide que puedas ver dentro del alcance. Debe realizar una tirada de salvación de Sabiduría, con ventaja si tú o tus compañeros estáis luchando contra él. Si falla, queda &amp;Reference[charmed]{hechizado} por ti hasta que termine el conjuro o hasta que tú o tus compañeros hagáis algo que lo perjudique. La criatura hechizada te considera un conocido amistoso. Cuando el conjuro termina, la criatura sabe que la has hechizado.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro usando un espacio de nivel 2 o superior, puedes elegir una criatura adicional por cada nivel del espacio por encima de 1. Las criaturas deben estar a 30 pies o menos unas de otras cuando las elijas como objetivos.</p>",
               "effects": {
                 "1QhUB3231btaCO0b": {
                   "name": "Hechizar persona",
-                  "description": "<p>El objetivo está encantado por el lanzador hasta que el conjuro termina. La criatura encantada considera al lanzador como un amigo conocido. Cuando el conjuro termina, la criatura sabe que estaba encantado.</p>"
+                  "description": "<p>El objetivo está hechizado por el lanzador hasta que termine el conjuro. La criatura hechizada considera al lanzador un conocido amistoso. Cuando el conjuro termina, la criatura sabe que fue hechizada.</p>"
                 }
               }
             },
             "cmrPVkRC0tV0sosI": {
-              "name": "Retiro expedito",
-              "description": "<p>Este conjuro te permite moverte a un ritmo increíble. Cuando lances este conjuro, y luego como una acción adicional en cada uno de tus turnos hasta que el conjuro termine, puedes tomar la acción Dash.</p>"
+              "name": "Retirada expeditiva",
+              "description": "<p>Este conjuro te permite moverte a una velocidad increíble. Cuando lo lanzas y después como acción adicional en cada uno de tus turnos hasta que termine, puedes realizar la acción de Correr.</p>"
             },
             "j5RMaNtqmmlp2l5i": {
               "name": "Rayo abrasador",
-              "description": "<p>Creas tres rayos de fuego y los lanzas a objetivos a un alcance. Puedes lanzarlos a un blanco o varios.</p><p>Haga un ataque ortográfico de rango para cada rayo. En un golpe, el objetivo recibe 2d6 daños por incendio.</p><p><strong>Niveles superiores.</strong> Cuando usted lanza este conjuro usando una espacio de conjuro de 3er nivel o superior, usted crea un rayo adicional para cada nivel de ranura por encima de 2do.</p>"
+              "description": "<p>Creas tres rayos de fuego y los lanzas contra objetivos dentro del alcance. Puedes dirigirlos contra un solo objetivo o varios.</p><p>Realiza un ataque de conjuro a distancia por cada rayo. Si impactas, el objetivo sufre 2d6 de daño de fuego.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro usando un espacio de nivel 3 o superior, creas un rayo adicional por cada nivel del espacio por encima de 2.</p>"
             },
             "4VSTKk9RsqesjGOm": {
-              "name": "Puntos de brujería",
-              "description": "<p>El kobold tiene 3 puntos de hechicería. Puede gastar 1 o más puntos de hechicería como una acción adicional para obtener uno de los siguientes beneficios:</p><section id=\"secret-PI5vteMM3Np8ijGk\" class=\"secret\"><p><em>[[/item .vSCqiM6Q8dkucSZZ]]</em>: Cuando lanza un conjuro que obliga a una criatura a hacer un lanzamiento de ahorro para resistir los efectos del conjuro, el kobold puede gastar 3 puntos de brujería para dar un objetivo de la desventaja del conjuro en su primer lanzamiento de ahorro contra el conjuro.</p><p><em>[[/item .v0tiZd4WwkUPet6q]]</em>: Cuando el kobold lanza un conjuro, puede gastar 1 punto de hechicería para lanzar el conjuro sin ningún componente somático o verbal.</p></section>"
+              "name": "Puntos de Hechicería",
+              "description": "<p>El kobold tiene 3 puntos de hechicería. Puede gastar 1 o más puntos de hechicería como acción adicional para obtener uno de los siguientes beneficios:</p><section id=\"secret-PI5vteMM3Np8ijGk\" class=\"secret\"><p><em>[[/item .vSCqiM6Q8dkucSZZ]]{Conjuro Intensificado}</em>: Cuando lanza un conjuro que obliga a una criatura a realizar una tirada de salvación para resistir sus efectos, el kobold puede gastar 3 puntos de hechicería para dar desventaja a un objetivo del conjuro en su primera tirada de salvación contra él.</p><p><em>[[/item .v0tiZd4WwkUPet6q]]{Conjuro Sutil}</em>: Cuando el kobold lanza un conjuro, puede gastar 1 punto de hechicería para lanzarlo sin componentes somáticos ni verbales.</p></section>"
             },
             "oMC0iHxhUPFmxb1T": {
-              "name": "Tácticas de empaquetado",
-              "requirements": "Babuino",
-              "description": "<p><span style=\"font-family:'Roboto Condensed', sans-serif\">El kobold</span> tiene ventaja en un ataque rodar contra una criatura si al menos uno de los aliados del kobold está a menos de 5 pies de la criatura y el aliado no está incapacitado.</p>"
+              "name": "Atacar en Manada",
+              "requirements": "Kobold",
+              "description": "<p><span style=\"font-family:'Roboto Condensed', sans-serif\">El kobold</span> tiene ventaja en las tiradas de ataque contra una criatura si al menos uno de sus aliados está a 5 pies o menos de ella y no está incapacitado.</p>"
             },
             "JyWLPBuaKXreXXb6": {
-              "name": "Sensibilidad a la luz solar",
-              "description": "<p>Mientras que en la luz del sol, <span style=\"font-family:'Roboto Condensed', sans-serif\">el kobold</span> tiene desventaja en los rollos de ataque, así como en la sabiduría (percepción) controles que dependen de la vista.</p>"
+              "name": "Sensibilidad a la Luz Solar",
+              "description": "<p>Bajo la luz del sol, <span style=\"font-family:'Roboto Condensed', sans-serif\">el kobold</span> tiene desventaja en las tiradas de ataque y en las pruebas de Sabiduría (Percepción) que dependan de la vista.</p>"
             },
             "vSCqiM6Q8dkucSZZ": {
-              "name": "Magia elevada",
-              "description": "<p>Cuando lanza un conjuro que obliga a una criatura a hacer un lanzamiento de ahorro para resistir los efectos del conjuro, el kobold puede gastar 3 puntos de hechicería para dar un objetivo de la desventaja del conjuro en su primer lanzamiento de ahorro contra el conjuro.</p>",
+              "name": "Conjuro Intensificado",
+              "description": "<p>Cuando lanza un conjuro que obliga a una criatura a realizar una tirada de salvación para resistir sus efectos, el kobold puede gastar 3 puntos de hechicería para dar desventaja a un objetivo del conjuro en su primera tirada de salvación contra él.</p>",
               "activities": {
                 "eEPgJoZq1TJKzcbe": {
-                  "name": "Gasto"
+                  "name": "Gastar un uso"
                 }
               }
             },
             "v0tiZd4WwkUPet6q": {
-              "name": "Conjuro sutil",
-              "description": "<p>Cuando <span style=\"font-family:'Roboto Condensed', sans-serif\">el kobold</span> lanza un conjuro, puede pasar 1 punto de hechicería para lanzar el conjuro sin ningún componente somático o verbal.</p>",
+              "name": "Conjuro Sutil",
+              "description": "<p>Cuando <span style=\"font-family:'Roboto Condensed', sans-serif\">el kobold</span> lanza un conjuro, puede gastar 1 punto de hechicería para lanzarlo sin componentes somáticos ni verbales.</p>",
               "activities": {
                 "qE6w7xq3Vrsqljzk": {
-                  "name": "Gasto"
+                  "name": "Gastar un uso"
                 }
               }
             }
           },
-          "name": "Hechicero de escala Kobold",
+          "name": "Hechicero escamoso kobold",
           "creatureSubtype": "Kobold",
-          "tokenName": "Hechicero de escala Kobold"
+          "tokenName": "Hechicero escamoso kobold"
         },
         "toaLion000000000": {
           "alignment": "Sin alineamiento",
@@ -17745,7 +17745,7 @@
             },
             "Ya980VajILBBtruw": {
               "name": "Kobolds",
-              "text": "<p>Algunos kobolds tienen regalos que les legaron dragones o dioses, permitiéndoles elevarse por encima de sus pares. Otros nacen con una inventiva cruel que pocos pueden igualar.</p><h2>Kobold inventor</h2><p><em><strong>Inventores.</strong></em> Un inventor de kobold captura insectos, recoge lomos exóticos del calabozo y utiliza los mejores ingredientes robados para fabricar armas improbables que puede usar en combate.</p><p>@Embed[Actor.B3M0q2V7MLEnwoF1 caption=false cite=true statblock classes=\"double-column\"]</p><p></p><h2>Hechicero de escala Kobold</h2><p><em><strong>Sorcerers de escala.</strong></em> Un hechicero de escala kobold tiene un talento innato para la magia arcana. Cuando su tribu está amenazada, el kobold se lanza con fuego y veneno contra los enemigos, guardando un poco de magia para sí mismo en caso de que necesite huir o aprovecharse de un captor.</p><p>@Embed[Actor.4uU3j5jkgrHdUsRR caption=false cite=true statblock classes=\"double-column\"]</p>"
+              "text": "<p>Algunos kobolds poseen dones otorgados por dragones o dioses que les permiten destacar entre sus semejantes. Otros nacen con un ingenio cruel que pocos pueden igualar.</p><h2>Inventor kobold</h2><p><em><strong>Inventores.</strong></em> Un inventor kobold captura bichos, recoge limos exóticos de las mazmorras y usa los mejores ingredientes robados para fabricar armas insólitas que emplea en combate.</p><p>@Embed[Actor.B3M0q2V7MLEnwoF1 caption=false cite=true statblock classes=\"double-column\"]</p><p></p><h2>Hechicero escamoso kobold</h2><p><em><strong>Hechiceros escamosos.</strong></em> Un hechicero escamoso kobold tiene un talento innato para la magia arcana. Cuando su tribu está amenazada, ataca a sus enemigos con fuego y veneno, pero se reserva algo de magia por si necesita huir o aprovecharse de un captor.</p><p>@Embed[Actor.4uU3j5jkgrHdUsRR caption=false cite=true statblock classes=\"double-column\"]</p>"
             },
             "JDEhEg0GWHCngJOS": {
               "name": "Liara Portyr",

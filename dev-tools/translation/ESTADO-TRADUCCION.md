@@ -1723,15 +1723,29 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   solo contiene las tiradas de ataque y daño; se registra esta omisión funcional.
 - Los enlaces por nombre `Bite`, `Claw` y `Snakes` siguen pendientes.
 
+### appendix-d-kobolds — Inventor y hechicero escamoso kobold
+
+- Revisados 146 campos de ambas copias de los dos actores y su página.
+  Referencias físicas 225 y 226; textos completos de conjuros contrastados
+  con el exportado. Ambos actores tienen la biografía vacía.
+- Corregidos los espacios de 5 pies de lado frente a «5 pies cuadrados» del
+  PDF, las etiquetas copiadas «Baboon» y el paréntesis erróneo junto a orbe
+  cromático. Se conserva la ausencia de este conjuro como objeto del actor.
+- El exportado de Puntos de Hechicería exige una acción adicional y omite en
+  la descripción la recuperación tras descanso largo. Se conserva su contenido
+  y se registra la diferencia con el PDF para revisar las reglas originales.
+- Los comentarios de las tiradas de dispersión de ciempiés y avispas dicen
+  «result of 1», aunque la fórmula usa 50 %. Se añaden al pendiente funcional.
+
 ## Balance de revisión editorial
 
-- 782 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 783 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 177 de los apéndices A, B, C, D y F.
-  No equivale a 782 páginas del PDF.
-- 3631 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 3631 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 178 de los apéndices A, B, C, D y F.
+  No equivale a 783 páginas del PDF.
+- 3777 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 3777 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas treinta y tres biografías en ambas copias de actores: siete
   príncipes y veintiséis criaturas o PNJ del apéndice D. Siguen pendientes las demás
