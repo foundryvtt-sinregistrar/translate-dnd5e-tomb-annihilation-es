@@ -1401,44 +1401,44 @@
           "items": {
             "vEEJei0CNaNbfQ2w": {
               "name": "Golpetazo",
-              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>Si el objetivo es una criatura, debe tener éxito en un [[/save]] ahorro de tiro o tener su punto de impacto máximo reducido en una cantidad igual al daño tomado. El objetivo muere si este ataque reduce su punto máximo de impacto a 0. La reducción dura hasta que se elimina por la <em>mayor restauración</em> conjuro u otra magia.</p>",
-              "descriptionChat": "<p>El Clay Golem ataca con su Slam. Si el objetivo es una criatura, debe hacer un <strong>Constitución</strong> El lanzamiento de ahorro.</p>"
+              "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>Si el objetivo es una criatura, debe superar una tirada de salvación [[/save]] o sus puntos de golpe máximos se reducen en una cantidad igual al daño sufrido. El objetivo muere si este ataque reduce sus puntos de golpe máximos a 0. La reducción dura hasta que la elimine el conjuro <em>restablecimiento mayor</em> u otra magia.</p>",
+              "descriptionChat": "<p>El gólem de arcilla ataca con su golpetazo. Si el objetivo es una criatura, debe realizar una tirada de salvación de <strong>Constitución</strong>.</p>"
             },
             "g0R4u7liRAurxB04": {
               "name": "Ataque múltiple",
-              "description": "<p>El golem hace dos [[/item .vEEJei0CNaNbfQ2w]]{slam} ataques.</p>"
+              "description": "<p>El gólem realiza dos ataques de [[/item .vEEJei0CNaNbfQ2w]]{golpetazo}.</p>"
             },
             "GOADsI5dGE3ah0Vi": {
               "name": "Acelerar",
-              "description": "<p>Hasta el final de su próximo turno, el golem gana mágicamente un bono +2 a su AC, tiene ventaja en los lanzamientos de ahorro de Dexterity, y puede utilizar su ataque slam como una acción adicional.</p>",
-              "descriptionChat": "<p>Hasta el final de su próximo turno, el golem gana mágicamente un bono +2 a su AC, tiene ventaja en los lanzamientos de ahorro de Dexterity, y puede utilizar su ataque slam como una acción adicional.</p>"
+              "description": "<p>Hasta el final de su siguiente turno, el gólem obtiene mágicamente un bonificador de +2 a la CA, tiene ventaja en las tiradas de salvación de Destreza y puede usar su ataque de golpetazo como acción adicional.</p>",
+              "descriptionChat": "<p>Hasta el final de su siguiente turno, el gólem obtiene mágicamente un bonificador de +2 a la CA, tiene ventaja en las tiradas de salvación de Destreza y puede usar su ataque de golpetazo como acción adicional.</p>"
             },
             "91uPF10lBpn5EOhn": {
-              "name": "Resistencia mágica",
-              "description": "<p>El golem tiene ventaja en los lanzamientos de ahorro contra conjuros y otros efectos mágicos.</p>"
+              "name": "Resistencia Mágica",
+              "description": "<p>El gólem tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.</p>"
             },
             "K5xMZVNv8m2Pw87E": {
-              "name": "Frenesí",
-              "description": "<p>Cada vez que el golem comienza su turno con 60 puntos de golpe o menos, rodar a [[/r d6]]. En un 6, el golem se vuelve loco. En cada uno de sus giros mientras se enloquece, el golem ataca a la criatura más cercana que puede ver. Si ninguna criatura está lo suficientemente cerca para moverse y atacar, el golem ataca un objeto, con preferencia por un objeto más pequeño que él mismo. Una vez que el golem se vuelve loco, sigue haciéndolo hasta que es destruido o recupera todos sus puntos de impacto.</p>",
-              "descriptionChat": "<p>El golem se vuelve loco. En cada uno de sus giros mientras se enloquece, el golem ataca a la criatura más cercana que puede ver. Si ninguna criatura está lo suficientemente cerca para moverse y atacar, el golem ataca un objeto, con preferencia por un objeto más pequeño que él mismo.</p>"
+              "name": "Furia Berserker",
+              "description": "<p>Siempre que el gólem comience su turno con 60 puntos de golpe o menos, tira [[/r d6]]. Con un 6, entra en furia berserker. En cada uno de sus turnos mientras esté en este estado, ataca a la criatura más cercana que pueda ver. Si ninguna criatura está lo bastante cerca como para moverse hasta ella y atacarla, ataca un objeto, dando preferencia a los que sean más pequeños que él. Una vez entra en furia, sigue así hasta ser destruido o recuperar todos sus puntos de golpe.</p>",
+              "descriptionChat": "<p>El gólem entra en furia berserker. En cada uno de sus turnos mientras esté en este estado, ataca a la criatura más cercana que pueda ver. Si ninguna criatura está lo bastante cerca como para moverse hasta ella y atacarla, ataca un objeto, dando preferencia a los que sean más pequeños que él.</p>"
             },
             "og0rfDmwPObM3ulb": {
-              "name": "Forma inmutable",
-              "description": "<p>El golem es inmune a cualquier conjuro o efecto que pueda alterar su forma.</p>"
+              "name": "Forma Inmutable",
+              "description": "<p>El gólem es inmune a cualquier conjuro o efecto que altere su forma.</p>"
             },
             "J1NgIuQWtR4G9JKd": {
-              "name": "Armas mágicas",
-              "description": "<p>Los ataques con armas del golem son mágicos.</p>"
+              "name": "Armas Mágicas",
+              "description": "<p>Los ataques con arma del gólem son mágicos.</p>"
             },
             "hftXBQthz8jMjFTs": {
               "name": "Absorción de Ácido",
-              "description": "<p>Cada vez que el golem es sometido a daño ácido, no se requiere daño y en su lugar recupera una serie de puntos de impacto igual al daño ácido tratado.</p>"
+              "description": "<p>Cuando el gólem se ve sometido a daño de ácido, no sufre daño y, en su lugar, recupera tantos puntos de golpe como el daño de ácido que habría recibido.</p>"
             }
           },
           "name": "Gólem de arcilla",
-          "languages": "Entiende los idiomas de su creador pero no puede hablar",
+          "languages": "Entiende los idiomas de su creador, pero no puede hablar",
           "tokenName": "Gólem de arcilla",
-          "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+          "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
         },
         "Sgu1aJ7w12VFLTTw": {
           "items": {
@@ -2329,44 +2329,44 @@
           "items": {
             "mCNNxLGdzy54omRW": {
               "name": "Ataque múltiple",
-              "description": "<p>El golem hace dos [[/item .mjn0iMGrjGTOn42w]]{slam} ataques.</p>"
+              "description": "<p>El gólem realiza dos ataques de [[/item .mjn0iMGrjGTOn42w]]{golpetazo}.</p>"
             },
             "mjn0iMGrjGTOn42w": {
               "name": "Golpetazo",
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "descriptionChat": "<p>El Golem de Carne ataca con su Slam.</p>"
+              "descriptionChat": "<p>El gólem de carne ataca con su golpetazo.</p>"
             },
             "AwiZrSjLzs3aNC33": {
-              "name": "Frenesí",
-              "description": "<p>Cada vez que el golem comienza su turno con 40 puntos de golpe o menos, rodar un [[/r d6]]. En un 6, el golem se vuelve loco. En cada uno de sus giros mientras se enloquece, el golem ataca a la criatura más cercana que puede ver.</p><p>Si ninguna criatura está lo suficientemente cerca para moverse y atacar, el golem ataca un objeto, con preferencia por un objeto más pequeño que él mismo. Una vez que el golem se vuelve loco, sigue haciéndolo hasta que es destruido o recupera todos sus puntos de impacto. El creador del golem, si está a menos de 60 pies del golem de Berserk, puede tratar de calmarlo hablando firme y persuasivamente. El golem debe ser capaz de escuchar a su creador, que debe tomar una acción para hacer un [[/check]] Comprobado. Si el cheque tiene éxito, el golem deja de estar loco. Si toma daño mientras todavía en 40 puntos de impacto o menos, el golem podría volverse loco de nuevo.</p>",
-              "descriptionChat": "<p>El golem se vuelve loco. En cada uno de sus giros mientras se enloquece, el golem ataca a la criatura más cercana que puede ver. Si ninguna criatura está lo suficientemente cerca para moverse y atacar, el golem ataca un objeto, con preferencia por un objeto más pequeño que él mismo.</p>"
+              "name": "Furia Berserker",
+              "description": "<p>Siempre que el gólem comience su turno con 40 puntos de golpe o menos, tira [[/r d6]]. Con un 6, entra en furia berserker. En cada uno de sus turnos mientras esté en este estado, ataca a la criatura más cercana que pueda ver.</p><p>Si ninguna criatura está lo bastante cerca como para moverse hasta ella y atacarla, ataca un objeto, dando preferencia a los que sean más pequeños que él. Una vez entra en furia, sigue así hasta ser destruido o recuperar todos sus puntos de golpe. Si su creador está a 60 pies o menos, puede intentar calmarlo hablándole con firmeza y persuasión. El gólem debe poder oírlo y su creador debe usar una acción para realizar una prueba [[/check]]. Si tiene éxito, el gólem deja de estar en furia berserker. Si sufre daño mientras aún tenga 40 puntos de golpe o menos, podría volver a entrar en furia.</p>",
+              "descriptionChat": "<p>El gólem entra en furia berserker. En cada uno de sus turnos mientras esté en este estado, ataca a la criatura más cercana que pueda ver. Si ninguna criatura está lo bastante cerca como para moverse hasta ella y atacarla, ataca un objeto, dando preferencia a los que sean más pequeños que él.</p>"
             },
             "Ee9WvQyqy1lRYtuj": {
-              "name": "Aversión al fuego",
-              "description": "<p>Si el golem recibe daños por incendio, tiene desventajas en los rollos de ataque y controles de capacidad hasta el final de su siguiente turno.</p>",
-              "descriptionChat": "<p>Si el golem toma <strong><em>Daño por incendio</em></strong>, tiene<strong> desventaja </strong>en algunos rollos.</p>"
+              "name": "Aversión al Fuego",
+              "description": "<p>Si el gólem sufre daño de fuego, tiene desventaja en las tiradas de ataque y pruebas de característica hasta el final de su siguiente turno.</p>",
+              "descriptionChat": "<p>Si el gólem sufre <strong><em>daño de fuego</em></strong>, tiene<strong> desventaja </strong>en algunas tiradas.</p>"
             },
             "NnEyJiIMUFY8ovfl": {
-              "name": "Forma inmutable",
-              "description": "<p>El golem es inmune a cualquier conjuro o efecto que pueda alterar su forma.</p>"
+              "name": "Forma Inmutable",
+              "description": "<p>El gólem es inmune a cualquier conjuro o efecto que altere su forma.</p>"
             },
             "27csbMlmaIFdMcTA": {
-              "name": "Absorción de rayos",
-              "description": "<p>Cada vez que el golem es sometido a daños por rayos, no se necesita ningún daño y en su lugar recupera un número de puntos de impacto igual a los daños por rayos repartidos.</p>"
+              "name": "Absorción de Relámpagos",
+              "description": "<p>Cuando el gólem se ve sometido a daño de relámpago, no sufre daño y, en su lugar, recupera tantos puntos de golpe como el daño de relámpago que habría recibido.</p>"
             },
             "EAWR3fONAFox5cvp": {
-              "name": "Resistencia mágica",
-              "description": "<p>El golem tiene ventaja en los lanzamientos de ahorro contra conjuros y otros efectos mágicos.</p>"
+              "name": "Resistencia Mágica",
+              "description": "<p>El gólem tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.</p>"
             },
             "R8MFu1EkI4xBgXXr": {
-              "name": "Armas mágicas",
-              "description": "<p>Los ataques con armas del golem son mágicos.</p>"
+              "name": "Armas Mágicas",
+              "description": "<p>Los ataques con arma del gólem son mágicos.</p>"
             }
           },
           "name": "Gólem de carne",
-          "languages": "entiende los idiomas de su creador, pero no puede hablar",
+          "languages": "Entiende los idiomas de su creador, pero no puede hablar",
           "tokenName": "Gólem de carne",
-          "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+          "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
         },
         "J9d9hKPQkl5L8nSN": {
           "name": "Mono volador",
@@ -2409,23 +2409,23 @@
           "items": {
             "D2cJQHQa8UQp99Wt": {
               "name": "Espada larga",
-              "description": "<p><em>Ataque de arma de cuerpo entero:</em><strong>+3 a golpe,</strong>, <strong>5 pies,</strong> Un objetivo. Pulse: <strong>5 (1d8 + 1) <em>daño por corte</em></strong>.</p>",
-              "descriptionChat": "<p>¡La Espada Voladora ataca!</p>"
+              "description": "<p><em>Ataque con arma cuerpo a cuerpo:</em><strong>+3 a impactar</strong>, alcance <strong>5 pies</strong>, un objetivo. Impacto: <strong>5 (1d8 + 1) de <em>daño cortante</em></strong>.</p>",
+              "descriptionChat": "<p>¡La espada voladora ataca!</p>"
             },
             "KFvtNOH2AMQIWRps": {
-              "name": "Susceptibilidad antimagica",
-              "description": "<p>La espada está incapacitada mientras está en el área de un campo antimagico. </p><p>Si el objetivo es disipar la magia, la espada debe tener éxito en un lanzamiento de ahorro Constitución contra el conjuro de la persona que lanza salvar CD o caer inconsciente para <strong>1 minuto</strong>.</p>",
-              "descriptionChat": "<p>La espada está incapacitada mientras está en el área de un campo antimagico.</p>"
+              "name": "Susceptibilidad a la Antimagia",
+              "description": "<p>La espada está incapacitada mientras se encuentre en el área de un campo antimagia.</p><p>Si es objetivo de disipar magia, debe superar una tirada de salvación de Constitución contra la CD de salvación de conjuros del lanzador o quedar inconsciente durante <strong>1 minuto</strong>.</p>",
+              "descriptionChat": "<p>La espada está incapacitada mientras se encuentre en el área de un campo antimagia.</p>"
             },
             "EY5bnNsvwwHGfCk1": {
-              "name": "Apariencia falsa",
-              "description": "<p>Mientras que la espada permanece inmóvil y no está volando, es indistinguible de una espada normal.</p>"
+              "name": "Apariencia Falsa",
+              "description": "<p>Mientras la espada permanezca inmóvil y no esté volando, es indistinguible de una espada normal.</p>"
             }
           },
           "name": "Espada voladora",
-          "senses": "Ciego más allá de este radio",
+          "senses": "Ciega más allá de este radio",
           "tokenName": "Espada voladora",
-          "biography": "<p>\n        <em>\n          Token artwork by\n          <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Aventuras olvidadas</a>.\n        </em>\n      </p><p>\n        <em>\n          Token artwork by\n          <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Aventuras olvidadas</a>.\n        </em>\n      </p>"
+          "biography": "<p>\n        <em>\n          Ilustración de la ficha por\n          <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.\n        </em>\n      </p><p>\n        <em>\n          Ilustración de la ficha por\n          <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.\n        </em>\n      </p>"
         },
         "lf03TUwzHqJhRnH4": {
           "alignment": "Sin alineamiento",
@@ -6064,36 +6064,36 @@
           "items": {
             "7R1cDGKMv0mdxaE7": {
               "name": "Ataque múltiple",
-              "description": "<p>El guardián hace dos. [[/item .r6GQ1TwNK7pinX0a]]{puño} ataques.</p>"
+              "description": "<p>El guardián realiza dos ataques de [[/item .r6GQ1TwNK7pinX0a]]{puñetazo}.</p>"
             },
             "r6GQ1TwNK7pinX0a": {
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "name": "Puño",
-              "descriptionChat": "<p>El Guardian del Escudo ataca con su Puño.</p>"
+              "name": "Puñetazo",
+              "descriptionChat": "<p>El guardián escudo ataca con su puñetazo.</p>"
             },
             "EjeLsaCua7yjgxax": {
               "name": "Escudo",
-              "description": "<p>Cuando una criatura hace un Ataque contra el portador del Amuleto del guardián, el Guardián otorga un bono de +2 al AC del portador si el Guardián está a menos de 5 pies del portador.</p>"
+              "description": "<p>Cuando una criatura realiza un ataque contra el portador del amuleto, el guardián le concede un bonificador de +2 a la CA si está a 5 pies o menos de él.</p>"
             },
             "mJoNsESU5X2lBKqn": {
-              "name": "Vinculado",
-              "description": "<p>El guardián del escudo está mágicamente unido a un amuleto. Mientras el guardián y su amuleto estén en el mismo plano de existencia, el portador del amuleto puede telepáticamente llamar al guardián para viajar a él, y el guardián conoce la distancia y dirección al amuleto. Si el tutor está a menos de 60 pies del portador del amuleto, la mitad de cualquier daño que el usuario tome (redondeado) se transfiere al tutor.</p>",
-              "descriptionChat": "<p>El guardián del escudo está mágicamente unido a un amuleto. </p>"
+              "name": "Vínculo",
+              "description": "<p>El guardián escudo está vinculado mágicamente a un amuleto. Mientras ambos estén en el mismo plano de existencia, el portador del amuleto puede llamar telepáticamente al guardián para que acuda a su encuentro, y este conoce la distancia y la dirección al amuleto. Si el guardián está a 60 pies o menos del portador, la mitad de cualquier daño que sufra este, redondeada hacia arriba, se transfiere al guardián.</p>",
+              "descriptionChat": "<p>El guardián escudo está vinculado mágicamente a un amuleto.</p>"
             },
             "vk0gd3buCPWGpyYF": {
               "name": "Regeneración",
-              "description": "<p>El guardián del escudo recupera [[/heal]]{10} puntos de impacto al inicio de su turno si tiene al menos 1 punto de impacto.</p>",
-              "descriptionChat": "<p>El guardián del escudo recupera <strong>10 puntos de impacto</strong> al comienzo de su turno.</p>"
+              "description": "<p>El guardián escudo recupera [[/heal]]{10} puntos de golpe al comienzo de su turno si tiene al menos 1 punto de golpe.</p>",
+              "descriptionChat": "<p>El guardián escudo recupera <strong>10 puntos de golpe</strong> al comienzo de su turno.</p>"
             },
             "qbSL2A0uKuh2iER5": {
-              "name": "Almacenamiento de conjuros",
-              "description": "<p>Un hechicero que lleva el amuleto del protector del escudo puede hacer que el guardián almacene un conjuro del 4o nivel o inferior. Para ello, el portador debe lanzar el conjuro sobre el guardián. El conjuro no tiene ningún efecto, pero se almacena dentro del guardián. Cuando el usuario lo ordena o cuando surge una situación predefinida por el hechicero, el guardián lanza el conjuro almacenado con cualquier parámetro establecido por el lanzador original, sin necesidad de componentes. Cuando el conjuro es lanzado o un nuevo conjuro es almacenado, cualquier conjuro almacenado previamente se pierde.</p>"
+              "name": "Almacenar Conjuros",
+              "description": "<p>Un lanzador de conjuros que lleve el amuleto del guardián escudo puede hacer que este almacene un conjuro de nivel 4 o inferior. Para ello, debe lanzarlo sobre el guardián. El conjuro no surte efecto, sino que queda almacenado en su interior. Cuando lo ordene el portador o se produzca una situación definida previamente por el lanzador, el guardián lanza el conjuro almacenado con los parámetros fijados por quien lo lanzó originalmente, sin necesidad de componentes. Al lanzarlo o almacenar uno nuevo, se pierde cualquier conjuro almacenado antes.</p>"
             }
           },
-          "name": "Guardian de escudos",
-          "languages": "entiende comandos dados en cualquier idioma pero no puede hablar",
-          "tokenName": "Guardian de escudos",
-          "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+          "name": "Guardián escudo",
+          "languages": "Entiende órdenes en cualquier idioma, pero no puede hablar",
+          "tokenName": "Guardián escudo",
+          "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
         },
         "pA11aGfCpX7OhuDH": {
           "alignment": "Legal malvado",
@@ -6369,35 +6369,35 @@
           "items": {
             "Ym2CUTgDPucdmj1W": {
               "name": "Ataque múltiple",
-              "description": "<p>El golem hace dos [[/item .DelAxHnRbNHC6OoV]]{slam} ataques.</p>"
+              "description": "<p>El gólem realiza dos ataques de [[/item .DelAxHnRbNHC6OoV]]{golpetazo}.</p>"
             },
             "DelAxHnRbNHC6OoV": {
               "name": "Golpetazo",
               "description": "<p>[[/attack extended]]. [[/damage extended]].</p>",
-              "descriptionChat": "<p>El Golem de Piedra ataca con su Slam.</p>"
+              "descriptionChat": "<p>El gólem de piedra ataca con su golpetazo.</p>"
             },
             "FWww5Mv4eoxXAADH": {
-              "name": "Forma inmutable",
-              "description": "<p>El golem es inmune a cualquier conjuro o efecto que pueda alterar su forma.</p>"
+              "name": "Forma Inmutable",
+              "description": "<p>El gólem es inmune a cualquier conjuro o efecto que altere su forma.</p>"
             },
             "kf6ELkKrSnpD2fwD": {
-              "name": "Resistencia mágica",
-              "description": "<p>El golem tiene ventaja en los lanzamientos de ahorro contra conjuros y otros efectos mágicos.</p>"
+              "name": "Resistencia Mágica",
+              "description": "<p>El gólem tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.</p>"
             },
             "GGgxGpYSCDYiflMA": {
-              "name": "Armas mágicas",
-              "description": "<p>Los ataques con armas del golem son mágicos.</p>"
+              "name": "Armas Mágicas",
+              "description": "<p>Los ataques con arma del gólem son mágicos.</p>"
             },
             "9aTwUWuZQLhMxjcD": {
-              "name": "Lenta",
-              "description": "<p>El golem apunta a una o más criaturas que puede ver a menos de 10 pies de distancia. Cada objetivo debe hacer un [[/save]] salvar el tiro contra esta magia.</p><p>En un ahorro fallido, un objetivo no puede usar reacciones, su velocidad se reduce a la mitad, y no puede hacer más de un ataque en su turno. Además, el objetivo puede tomar una acción o una acción adicional a su turno, no ambos. Estos efectos duran 1 minuto. Un objetivo puede repetir el lanzamiento de ahorro al final de cada uno de sus turnos, terminando con el efecto en sí mismo en un éxito.</p>",
-              "descriptionChat": "<p>El golem apunta a una o más criaturas que puede ver a menos de 10 pies de distancia. Cada objetivo debe hacer un <strong>Sabiduría</strong> salvar el tiro contra esta magia. Un objetivo puede repetir el lanzamiento de ahorro al final de cada uno de sus turnos, terminando con el efecto en sí mismo en un éxito.</p>"
+              "name": "Ralentizar",
+              "description": "<p>El gólem elige como objetivo a una o más criaturas que pueda ver a 10 pies o menos. Cada objetivo debe realizar una tirada de salvación [[/save]] contra esta magia.</p><p>Si falla, no puede usar reacciones, su velocidad se reduce a la mitad y no puede realizar más de un ataque en su turno. Además, en su turno puede realizar una acción o una acción adicional, pero no ambas. Estos efectos duran 1 minuto. El objetivo puede repetir la salvación al final de cada uno de sus turnos y terminar el efecto sobre sí mismo si tiene éxito.</p>",
+              "descriptionChat": "<p>El gólem elige como objetivo a una o más criaturas que pueda ver a 10 pies o menos. Cada objetivo debe realizar una tirada de salvación de <strong>Sabiduría</strong> contra esta magia. Puede repetir la salvación al final de cada uno de sus turnos y terminar el efecto sobre sí mismo si tiene éxito.</p>"
             }
           },
           "name": "Gólem de piedra",
-          "languages": "entiende los idiomas de su creador, pero no puede hablar",
+          "languages": "Entiende los idiomas de su creador, pero no puede hablar",
           "tokenName": "Gólem de piedra",
-          "biography": "<p><em>Ilustración de la ficha de <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
+          "biography": "<p><em>Ilustración de la ficha por <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>"
         },
         "fGTXq4oiyTZUUdRn": {
           "alignment": "Sin alineamiento",

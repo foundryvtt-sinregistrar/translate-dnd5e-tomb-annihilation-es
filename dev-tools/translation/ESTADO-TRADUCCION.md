@@ -2539,6 +2539,19 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   caminos y la duración de Temerario. Revisadas las etiquetas de ataques a
   una o dos manos y las descripciones del equipo.
 
+### additional-constructs — Gólems y otros autómatas
+
+- Revisados 200 campos de gólem de piedra, carne y arcilla, guardián escudo y
+  espada voladora, en ambas copias, contra el exportado inglés.
+- Comprobados los umbrales de Furia Berserker, 40 PG para carne y 60 para
+  arcilla; solo el primero incluye el procedimiento para calmarlo. Conservadas
+  las diferencias de absorción y la reducción persistente del máximo de PG.
+- Comprobados el daño transferido al guardián redondeado hacia arriba, el
+  límite de nivel 4 del conjuro almacenado y sus condiciones de lanzamiento.
+  Revisadas las restricciones de Ralentizar y la susceptibilidad a antimagia.
+- El chat de Regeneración del guardián omite el requisito de conservar al
+  menos 1 PG; la descripción completa lo mantiene, como el original.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2548,8 +2561,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
   de Foundry, tres de créditos y cuatro de historial.
   No equivale a 931 páginas del PDF.
-- 13483 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 13483 campos distintos.
+- 13683 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 13683 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento treinta y siete biografías en ambas copias de actores: siete
   príncipes, ciento veintisiete criaturas o PNJ vinculados al apéndice D y tres PNJ
