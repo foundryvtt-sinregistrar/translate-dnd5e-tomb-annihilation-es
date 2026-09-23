@@ -1043,14 +1043,25 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Conservados sus conocimientos sobre Zalkoré y su desconocimiento del destino
   de sus bisnietos. Auditorías técnica y editorial sin errores.
 
+### ch5-level4-clock-01 a ch5-level4-clock-05 — Bola, ácido y reloj
+
+- Revisados cinco textos y títulos con referencias físicas 167 y 169.
+- Separados los desencadenantes del cofre, la bola y la tapa del foso.
+  El ácido causa daño al entrar por primera vez en cualquier turno.
+- La llave es de latón; su invisibilidad puede disiparse, mientras que la
+  puerta invisible del reloj no admite disipación. Conservado el límite
+  de 24 horas para revertir el envejecimiento.
+- Unificado Ombligo de la Luna con las referencias narrativas anteriores.
+- Auditorías técnica y editorial sin errores.
+
 ## Balance de revisión editorial
 
-- 568 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 573 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4 y ochenta y nueve del capítulo 5. No equivale a 568 páginas del PDF.
-- 1246 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 1246 campos distintos.
+  del capítulo 4 y noventa y cuatro del capítulo 5. No equivale a 573 páginas del PDF.
+- 1256 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 1256 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Salvo las siete biografías de los príncipes, faltan las biografías,
   objetos, tablas, ayudas, escenas e interfaz
