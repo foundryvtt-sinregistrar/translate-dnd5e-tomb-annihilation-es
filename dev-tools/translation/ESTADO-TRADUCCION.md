@@ -2174,15 +2174,28 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   límites del anillo de Bosco, y la condición de empuñar la lanza a dos manos.
   Corregidos el apellido Dagaenmano y las concordancias de los mensajes de chat.
 
+### appendix-d-merchant-traits — Perfiles de los siete príncipes mercantes
+
+- Revisados 328 campos pendientes: siete páginas de presentación y los
+  perfiles, resúmenes públicos, conjuros y equipo de ambas copias de los actores.
+  Las biografías ya revisadas no se vuelven a contabilizar. Referencias
+  físicas 26–28; habilidades y conjuros contrastados con el exportado inglés.
+- Comprobados Asesinar, Evasión y los venenos de Jessamine, el anillo de
+  resistencia al fuego de Kwayothé y los conjuros de Wakanga. La condición
+  de activación de Ataque Furtivo de Jessamine sí indica «una vez por turno».
+- El objeto con identificador `ghXTfe7sgCbgf1Q8` de Wakanga es Detectar magia,
+  coherente con su lista de conjuros; esto no valida automáticamente usos
+  de esa clave en otras fichas pendientes de la comprobación de enlaces.
+
 ## Balance de revisión editorial
 
-- 864 páginas de texto revisadas: seis de la introducción, cien de los cuatro
+- 871 páginas de texto revisadas: seis de la introducción, cien de los cuatro
   diarios del capítulo 1 (38 + 11 + 19 + 32), doce de reglas de viaje, 187 de
   localizaciones del capítulo 2, 49 de su índice, 88 del capítulo 3 y 37
-  del capítulo 4, 126 del capítulo 5 y 259 de los apéndices A, B, C, D y F.
-  No equivale a 864 páginas del PDF.
-- 8587 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 8587 campos distintos.
+  del capítulo 4, 126 del capítulo 5 y 266 de los apéndices A, B, C, D y F.
+  No equivale a 871 páginas del PDF.
+- 8915 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 8915 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento quince biografías en ambas copias de actores: siete
   príncipes y ciento ocho criaturas o PNJ vinculados al apéndice D. Siguen pendientes las demás
