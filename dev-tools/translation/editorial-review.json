@@ -139599,6 +139599,878 @@
           "note": "Mephit profile reviewed against English export, including smoke biography and spell text. Distinct save timing and source summon roll discrepancy retained and documented."
         }
       ]
+    },
+    {
+      "id": "additional-giants-statues-sNTxyH3ZvgaVP0Dq",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.actors.sNTxyH3ZvgaVP0Dq.name",
+          "sourceSha256": "bac4b9bb889e532463e7ab0079e5b4e565b3d61f0793ae47f5ff098e5c8415f4",
+          "translationSha256": "deffd58da2c82c4dd95da91fffc021bb29a080587ff870129d3f7f0f15b076eb",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.sNTxyH3ZvgaVP0Dq.alignment",
+          "sourceSha256": "59e74f11c96a77d972cd8ee0520cd97da4055b5a2e859b1c4dd2cfb7ea32f7b3",
+          "translationSha256": "ce158da3dc2aa560ccc970a693b2ad2f8b5b8e6b16edddf5209d728954da7ba8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.sNTxyH3ZvgaVP0Dq.tokenName",
+          "sourceSha256": "bac4b9bb889e532463e7ab0079e5b4e565b3d61f0793ae47f5ff098e5c8415f4",
+          "translationSha256": "deffd58da2c82c4dd95da91fffc021bb29a080587ff870129d3f7f0f15b076eb",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.sNTxyH3ZvgaVP0Dq.biography",
+          "sourceSha256": "e0e06052d7c76ba552de5d970292852004b9ed2a1e98c7bea12bae8a8cc1dfd5",
+          "translationSha256": "bb4c5f92717143bbd77728afea20f0e47ad579cc94e7383f4ad58f14fb26e656",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.sNTxyH3ZvgaVP0Dq.items.gCi538awNcOfcZf7.name",
+          "sourceSha256": "f302f0ea1db5df02bef4e6520435b493640eff8cf840ac709d6b5e5f746b3f76",
+          "translationSha256": "6ec8d40f2c0a2255ad23bdd4c375f04a64d4d267cb494b22606951335ebf4715",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.sNTxyH3ZvgaVP0Dq.items.gCi538awNcOfcZf7.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.sNTxyH3ZvgaVP0Dq.items.gCi538awNcOfcZf7.descriptionChat",
+          "sourceSha256": "062a4143787ac8ea4b54deb1117ded46e1eff4831bfbd52a166b8c6f94ac1638",
+          "translationSha256": "6c4037a95d08d96bcab1f79a1cdf2d4245bcbc69708e15010a3d1ee98eb4422d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.sNTxyH3ZvgaVP0Dq.items.9LXx1CaY98oYrwWK.name",
+          "sourceSha256": "916f08e8f8d8829e4afd1f15a75eaa49b94bac1b4d438b621ee775fd086587e4",
+          "translationSha256": "c05826f32f2efac085fa45ca4b1af6abb86804af606e095df86fa74c77c78afa",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.sNTxyH3ZvgaVP0Dq.items.9LXx1CaY98oYrwWK.description",
+          "sourceSha256": "3fcbd6a514c0c6486c800b0d395376f84d25c8e559e38e38aff9dee373b4ac8d",
+          "translationSha256": "8c15b76f4f5053b99b908b9f9ce71641c47fca1c60141eb57a2b8ae57ba85341",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.sNTxyH3ZvgaVP0Dq.items.LVOGKiIm4UTD4fpj.name",
+          "sourceSha256": "3aa43814074135e874dc707465bc80f21088f8eae03ac5d57b3375baf1d6ff63",
+          "translationSha256": "ac1e34b6bf423aed3d98febadf09be3cf077dbb7501690529da9e1ba489ad9e2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.sNTxyH3ZvgaVP0Dq.items.LVOGKiIm4UTD4fpj.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.sNTxyH3ZvgaVP0Dq.items.LVOGKiIm4UTD4fpj.descriptionChat",
+          "sourceSha256": "547eb12cd639d26dc3e7dadcec103c7a3e63eba32dd2955565abea5f585ea7ab",
+          "translationSha256": "96e32642434e8da1963bfdc86c57296e199320654665e084b84d24d2c7bb0082",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.sNTxyH3ZvgaVP0Dq.items.i49lwJ84vB720EPW.name",
+          "sourceSha256": "ed2fe6ee4108fdd7aa2adc5e1e0b272881becc9d47f1b91289237da2411ddc11",
+          "translationSha256": "0a39b8f3bdfe279a18ef7e5bea3f6239da0932a302f113bb61df2e0b3f3abaad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.sNTxyH3ZvgaVP0Dq.items.i49lwJ84vB720EPW.description",
+          "sourceSha256": "dc577125335f329518fe325e0e38cd4f02b9e7ee40108b212054ce86658902b9",
+          "translationSha256": "1082db159e3ec3e2c8344d4fe4a2f68a25bd861beb037abd88ebcc31bfedb00c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.sNTxyH3ZvgaVP0Dq.name",
+          "sourceSha256": "bac4b9bb889e532463e7ab0079e5b4e565b3d61f0793ae47f5ff098e5c8415f4",
+          "translationSha256": "deffd58da2c82c4dd95da91fffc021bb29a080587ff870129d3f7f0f15b076eb",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.sNTxyH3ZvgaVP0Dq.alignment",
+          "sourceSha256": "59e74f11c96a77d972cd8ee0520cd97da4055b5a2e859b1c4dd2cfb7ea32f7b3",
+          "translationSha256": "ce158da3dc2aa560ccc970a693b2ad2f8b5b8e6b16edddf5209d728954da7ba8",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.sNTxyH3ZvgaVP0Dq.tokenName",
+          "sourceSha256": "bac4b9bb889e532463e7ab0079e5b4e565b3d61f0793ae47f5ff098e5c8415f4",
+          "translationSha256": "deffd58da2c82c4dd95da91fffc021bb29a080587ff870129d3f7f0f15b076eb",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.sNTxyH3ZvgaVP0Dq.biography",
+          "sourceSha256": "e0e06052d7c76ba552de5d970292852004b9ed2a1e98c7bea12bae8a8cc1dfd5",
+          "translationSha256": "bb4c5f92717143bbd77728afea20f0e47ad579cc94e7383f4ad58f14fb26e656",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.sNTxyH3ZvgaVP0Dq.items.gCi538awNcOfcZf7.name",
+          "sourceSha256": "f302f0ea1db5df02bef4e6520435b493640eff8cf840ac709d6b5e5f746b3f76",
+          "translationSha256": "6ec8d40f2c0a2255ad23bdd4c375f04a64d4d267cb494b22606951335ebf4715",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.sNTxyH3ZvgaVP0Dq.items.gCi538awNcOfcZf7.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.sNTxyH3ZvgaVP0Dq.items.gCi538awNcOfcZf7.descriptionChat",
+          "sourceSha256": "062a4143787ac8ea4b54deb1117ded46e1eff4831bfbd52a166b8c6f94ac1638",
+          "translationSha256": "6c4037a95d08d96bcab1f79a1cdf2d4245bcbc69708e15010a3d1ee98eb4422d",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.sNTxyH3ZvgaVP0Dq.items.9LXx1CaY98oYrwWK.name",
+          "sourceSha256": "916f08e8f8d8829e4afd1f15a75eaa49b94bac1b4d438b621ee775fd086587e4",
+          "translationSha256": "c05826f32f2efac085fa45ca4b1af6abb86804af606e095df86fa74c77c78afa",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.sNTxyH3ZvgaVP0Dq.items.9LXx1CaY98oYrwWK.description",
+          "sourceSha256": "3fcbd6a514c0c6486c800b0d395376f84d25c8e559e38e38aff9dee373b4ac8d",
+          "translationSha256": "8c15b76f4f5053b99b908b9f9ce71641c47fca1c60141eb57a2b8ae57ba85341",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.sNTxyH3ZvgaVP0Dq.items.LVOGKiIm4UTD4fpj.name",
+          "sourceSha256": "3aa43814074135e874dc707465bc80f21088f8eae03ac5d57b3375baf1d6ff63",
+          "translationSha256": "ac1e34b6bf423aed3d98febadf09be3cf077dbb7501690529da9e1ba489ad9e2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.sNTxyH3ZvgaVP0Dq.items.LVOGKiIm4UTD4fpj.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.sNTxyH3ZvgaVP0Dq.items.LVOGKiIm4UTD4fpj.descriptionChat",
+          "sourceSha256": "547eb12cd639d26dc3e7dadcec103c7a3e63eba32dd2955565abea5f585ea7ab",
+          "translationSha256": "96e32642434e8da1963bfdc86c57296e199320654665e084b84d24d2c7bb0082",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.sNTxyH3ZvgaVP0Dq.items.i49lwJ84vB720EPW.name",
+          "sourceSha256": "ed2fe6ee4108fdd7aa2adc5e1e0b272881becc9d47f1b91289237da2411ddc11",
+          "translationSha256": "0a39b8f3bdfe279a18ef7e5bea3f6239da0932a302f113bb61df2e0b3f3abaad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.sNTxyH3ZvgaVP0Dq.items.i49lwJ84vB720EPW.description",
+          "sourceSha256": "dc577125335f329518fe325e0e38cd4f02b9e7ee40108b212054ce86658902b9",
+          "translationSha256": "1082db159e3ec3e2c8344d4fe4a2f68a25bd861beb037abd88ebcc31bfedb00c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        }
+      ]
+    },
+    {
+      "id": "additional-giants-statues-toaCyclops000000",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCyclops000000.name",
+          "sourceSha256": "1839e58c86b502352ae66886fe843c479abe517725b1e7f2b22838367860f607",
+          "translationSha256": "679cc9ecff1c6fb7a7a3d86a53d823a759c42cce2980a8f09a24d84189289a22",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCyclops000000.alignment",
+          "sourceSha256": "dfc5d1c129a568faaef0718a9734cc3fc081cabfc32d7cccf1f17200d74dcca6",
+          "translationSha256": "5d5347450ddc75dcdf356f2462d419f9e8db247a1a937f101e77d178f1b0596b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCyclops000000.tokenName",
+          "sourceSha256": "1839e58c86b502352ae66886fe843c479abe517725b1e7f2b22838367860f607",
+          "translationSha256": "679cc9ecff1c6fb7a7a3d86a53d823a759c42cce2980a8f09a24d84189289a22",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCyclops000000.items.VYoqN1DPH9kCI8VR.name",
+          "sourceSha256": "ed2fe6ee4108fdd7aa2adc5e1e0b272881becc9d47f1b91289237da2411ddc11",
+          "translationSha256": "0a39b8f3bdfe279a18ef7e5bea3f6239da0932a302f113bb61df2e0b3f3abaad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCyclops000000.items.VYoqN1DPH9kCI8VR.description",
+          "sourceSha256": "7991da2458339ecd49cc21d5d003c4aa4ecc604439603707bcf9fa6c45fffd32",
+          "translationSha256": "c06373671e21906a96b6dbb08fd7b2a4627704357c83b98ffdf2d99dfe0bbf63",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCyclops000000.items.zUsXEMrFj04MZF3h.name",
+          "sourceSha256": "f302f0ea1db5df02bef4e6520435b493640eff8cf840ac709d6b5e5f746b3f76",
+          "translationSha256": "6ec8d40f2c0a2255ad23bdd4c375f04a64d4d267cb494b22606951335ebf4715",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCyclops000000.items.zUsXEMrFj04MZF3h.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCyclops000000.items.F3hdswSJHJeJ1ui4.name",
+          "sourceSha256": "60418d50bd32d408751c6f8980721f74d717d48c36c949b78e608373f5747c91",
+          "translationSha256": "cdbaec479a1c561fab54ddc1705a457a7a1adea18bd5fd5dbe1fa16e1cea02d5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCyclops000000.items.F3hdswSJHJeJ1ui4.description",
+          "sourceSha256": "068555a5eda87ae8087cdeb8fd6444f9c0aa4054170b7470892f02b37484f459",
+          "translationSha256": "4b5bd0c1b85986744bd1b4e792d31078951edba7ae522ee32b6e83be84e24024",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCyclops000000.items.rPafKkOainOGYkr3.name",
+          "sourceSha256": "e3f0e8afab7261790b709c76fdd4f50517c92626d9e7cace117483f4302c498f",
+          "translationSha256": "11769b10d03d6d800e43bcf091d24141b0b2d12bdb42d4667d1c29d212f836c9",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaCyclops000000.items.rPafKkOainOGYkr3.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCyclops000000.name",
+          "sourceSha256": "1839e58c86b502352ae66886fe843c479abe517725b1e7f2b22838367860f607",
+          "translationSha256": "679cc9ecff1c6fb7a7a3d86a53d823a759c42cce2980a8f09a24d84189289a22",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCyclops000000.alignment",
+          "sourceSha256": "dfc5d1c129a568faaef0718a9734cc3fc081cabfc32d7cccf1f17200d74dcca6",
+          "translationSha256": "5d5347450ddc75dcdf356f2462d419f9e8db247a1a937f101e77d178f1b0596b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCyclops000000.tokenName",
+          "sourceSha256": "1839e58c86b502352ae66886fe843c479abe517725b1e7f2b22838367860f607",
+          "translationSha256": "679cc9ecff1c6fb7a7a3d86a53d823a759c42cce2980a8f09a24d84189289a22",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCyclops000000.items.VYoqN1DPH9kCI8VR.name",
+          "sourceSha256": "ed2fe6ee4108fdd7aa2adc5e1e0b272881becc9d47f1b91289237da2411ddc11",
+          "translationSha256": "0a39b8f3bdfe279a18ef7e5bea3f6239da0932a302f113bb61df2e0b3f3abaad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCyclops000000.items.VYoqN1DPH9kCI8VR.description",
+          "sourceSha256": "7991da2458339ecd49cc21d5d003c4aa4ecc604439603707bcf9fa6c45fffd32",
+          "translationSha256": "c06373671e21906a96b6dbb08fd7b2a4627704357c83b98ffdf2d99dfe0bbf63",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCyclops000000.items.zUsXEMrFj04MZF3h.name",
+          "sourceSha256": "f302f0ea1db5df02bef4e6520435b493640eff8cf840ac709d6b5e5f746b3f76",
+          "translationSha256": "6ec8d40f2c0a2255ad23bdd4c375f04a64d4d267cb494b22606951335ebf4715",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCyclops000000.items.zUsXEMrFj04MZF3h.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCyclops000000.items.F3hdswSJHJeJ1ui4.name",
+          "sourceSha256": "60418d50bd32d408751c6f8980721f74d717d48c36c949b78e608373f5747c91",
+          "translationSha256": "cdbaec479a1c561fab54ddc1705a457a7a1adea18bd5fd5dbe1fa16e1cea02d5",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCyclops000000.items.F3hdswSJHJeJ1ui4.description",
+          "sourceSha256": "068555a5eda87ae8087cdeb8fd6444f9c0aa4054170b7470892f02b37484f459",
+          "translationSha256": "4b5bd0c1b85986744bd1b4e792d31078951edba7ae522ee32b6e83be84e24024",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCyclops000000.items.rPafKkOainOGYkr3.name",
+          "sourceSha256": "e3f0e8afab7261790b709c76fdd4f50517c92626d9e7cace117483f4302c498f",
+          "translationSha256": "11769b10d03d6d800e43bcf091d24141b0b2d12bdb42d4667d1c29d212f836c9",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaCyclops000000.items.rPafKkOainOGYkr3.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        }
+      ]
+    },
+    {
+      "id": "additional-giants-statues-toaGargoyle00000",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGargoyle00000.name",
+          "sourceSha256": "b44f2738b3701178509513d9c0f0c69eea6de0ee430ca9970ef612e06ee25f08",
+          "translationSha256": "a34d5c34a64995209ea2999a86e84dcf51b329925d24270aa6828b38b691459e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGargoyle00000.alignment",
+          "sourceSha256": "6d88eb730ffb57bef8302e6318f6f3cb0f3ed84d74ce1df9d21bbba898681889",
+          "translationSha256": "2c3a7f5ba46a94c575747d50710414b1b715adfe58fb87b375d96842b5df4eea",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGargoyle00000.tokenName",
+          "sourceSha256": "b44f2738b3701178509513d9c0f0c69eea6de0ee430ca9970ef612e06ee25f08",
+          "translationSha256": "a34d5c34a64995209ea2999a86e84dcf51b329925d24270aa6828b38b691459e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGargoyle00000.biography",
+          "sourceSha256": "e0e06052d7c76ba552de5d970292852004b9ed2a1e98c7bea12bae8a8cc1dfd5",
+          "translationSha256": "bb4c5f92717143bbd77728afea20f0e47ad579cc94e7383f4ad58f14fb26e656",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGargoyle00000.items.sXPmgYwYgosoytUu.name",
+          "sourceSha256": "7a0b29d93efa79396c45eae8b1dcfca0f337f50097b636eee67b87709eeffe8e",
+          "translationSha256": "2e86fd487d7238479f3a168315ca47ecf90fc27b5f2bd3384be68141e4a63a1f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGargoyle00000.items.sXPmgYwYgosoytUu.description",
+          "sourceSha256": "36bdefee209db6a0a867e2600721c34abdd45218971419c4de5a1d829fb36560",
+          "translationSha256": "82f59c813d8f0ce9d4462df8b61d173859feb27baf136e735823bd2e139c0084",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGargoyle00000.items.yczO5JpGxAk51Gp8.name",
+          "sourceSha256": "ed2fe6ee4108fdd7aa2adc5e1e0b272881becc9d47f1b91289237da2411ddc11",
+          "translationSha256": "0a39b8f3bdfe279a18ef7e5bea3f6239da0932a302f113bb61df2e0b3f3abaad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGargoyle00000.items.yczO5JpGxAk51Gp8.description",
+          "sourceSha256": "ce88f19be42cbcfaad3117498087d89df619a60bc778b3116d95659ad3bf3f39",
+          "translationSha256": "4a7894e0b3237f82cc7ef1df510191ee90d601f26d15784a673eed12a5cf6078",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGargoyle00000.items.A6GBvah75Y7fGjc5.name",
+          "sourceSha256": "6e5597953e98e07b763c9f7c837239daf41a26a239b0616631539b9a04b559ad",
+          "translationSha256": "0f5627d69976efecdf83d744d6ec28905da742f1533855b78aad823b0bcbcd97",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGargoyle00000.items.A6GBvah75Y7fGjc5.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGargoyle00000.items.A6GBvah75Y7fGjc5.descriptionChat",
+          "sourceSha256": "7329eddace3dfa7c48260dea32d74a3bdf88d57d6b0e90a98d3524bc87c069d4",
+          "translationSha256": "04ed98bb5ade756a2f24532744cad946fbd45d79a1c4d874002c14950df7930b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGargoyle00000.items.ipJwA0j2zfzmq5GW.name",
+          "sourceSha256": "68a31aefb013bde5c9baadece2d532269c9f7a35699cb10f79136eca29938318",
+          "translationSha256": "738394d7769046cb7f24dd2bc42ce9c6493f7dccc5630c6b1673c9bac71bd853",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGargoyle00000.items.ipJwA0j2zfzmq5GW.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaGargoyle00000.items.ipJwA0j2zfzmq5GW.descriptionChat",
+          "sourceSha256": "9c816690680b543acee00dd4cf0ae70a054da6b01e69425d5ba27d2b033b41fe",
+          "translationSha256": "07268f66bbde311e3da5426308481fd09604c3f88e6d542f08fc5f3023899fbe",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGargoyle00000.name",
+          "sourceSha256": "b44f2738b3701178509513d9c0f0c69eea6de0ee430ca9970ef612e06ee25f08",
+          "translationSha256": "a34d5c34a64995209ea2999a86e84dcf51b329925d24270aa6828b38b691459e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGargoyle00000.alignment",
+          "sourceSha256": "6d88eb730ffb57bef8302e6318f6f3cb0f3ed84d74ce1df9d21bbba898681889",
+          "translationSha256": "2c3a7f5ba46a94c575747d50710414b1b715adfe58fb87b375d96842b5df4eea",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGargoyle00000.tokenName",
+          "sourceSha256": "b44f2738b3701178509513d9c0f0c69eea6de0ee430ca9970ef612e06ee25f08",
+          "translationSha256": "a34d5c34a64995209ea2999a86e84dcf51b329925d24270aa6828b38b691459e",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGargoyle00000.biography",
+          "sourceSha256": "e0e06052d7c76ba552de5d970292852004b9ed2a1e98c7bea12bae8a8cc1dfd5",
+          "translationSha256": "bb4c5f92717143bbd77728afea20f0e47ad579cc94e7383f4ad58f14fb26e656",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGargoyle00000.items.sXPmgYwYgosoytUu.name",
+          "sourceSha256": "7a0b29d93efa79396c45eae8b1dcfca0f337f50097b636eee67b87709eeffe8e",
+          "translationSha256": "2e86fd487d7238479f3a168315ca47ecf90fc27b5f2bd3384be68141e4a63a1f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGargoyle00000.items.sXPmgYwYgosoytUu.description",
+          "sourceSha256": "36bdefee209db6a0a867e2600721c34abdd45218971419c4de5a1d829fb36560",
+          "translationSha256": "82f59c813d8f0ce9d4462df8b61d173859feb27baf136e735823bd2e139c0084",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGargoyle00000.items.yczO5JpGxAk51Gp8.name",
+          "sourceSha256": "ed2fe6ee4108fdd7aa2adc5e1e0b272881becc9d47f1b91289237da2411ddc11",
+          "translationSha256": "0a39b8f3bdfe279a18ef7e5bea3f6239da0932a302f113bb61df2e0b3f3abaad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGargoyle00000.items.yczO5JpGxAk51Gp8.description",
+          "sourceSha256": "ce88f19be42cbcfaad3117498087d89df619a60bc778b3116d95659ad3bf3f39",
+          "translationSha256": "4a7894e0b3237f82cc7ef1df510191ee90d601f26d15784a673eed12a5cf6078",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGargoyle00000.items.A6GBvah75Y7fGjc5.name",
+          "sourceSha256": "6e5597953e98e07b763c9f7c837239daf41a26a239b0616631539b9a04b559ad",
+          "translationSha256": "0f5627d69976efecdf83d744d6ec28905da742f1533855b78aad823b0bcbcd97",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGargoyle00000.items.A6GBvah75Y7fGjc5.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGargoyle00000.items.A6GBvah75Y7fGjc5.descriptionChat",
+          "sourceSha256": "7329eddace3dfa7c48260dea32d74a3bdf88d57d6b0e90a98d3524bc87c069d4",
+          "translationSha256": "04ed98bb5ade756a2f24532744cad946fbd45d79a1c4d874002c14950df7930b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGargoyle00000.items.ipJwA0j2zfzmq5GW.name",
+          "sourceSha256": "68a31aefb013bde5c9baadece2d532269c9f7a35699cb10f79136eca29938318",
+          "translationSha256": "738394d7769046cb7f24dd2bc42ce9c6493f7dccc5630c6b1673c9bac71bd853",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGargoyle00000.items.ipJwA0j2zfzmq5GW.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaGargoyle00000.items.ipJwA0j2zfzmq5GW.descriptionChat",
+          "sourceSha256": "9c816690680b543acee00dd4cf0ae70a054da6b01e69425d5ba27d2b033b41fe",
+          "translationSha256": "07268f66bbde311e3da5426308481fd09604c3f88e6d542f08fc5f3023899fbe",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        }
+      ]
+    },
+    {
+      "id": "additional-giants-statues-toaTerracottaWar",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.actors.toaTerracottaWar.name",
+          "sourceSha256": "a7a89f71275f525898b6410102ef630251704a14ebcf09a8b0cb240a253c0637",
+          "translationSha256": "8532c4359db3497af6d386ee284e234ac2decb837f75861845a6e632ccdcf05f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaTerracottaWar.alignment",
+          "sourceSha256": "041b0ecfb7faefa98d4836bc442ffa1ab341621b8b622b1b1968fd507c36051b",
+          "translationSha256": "6d0b9367ac639a2a6f103e485911fae243e3c2ab772f3f711284a9559d780f78",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaTerracottaWar.creatureSubtype",
+          "sourceSha256": "bfb7a3e9ab069ed6fbe93051d74c76c2fc5adb2aca43c3527348873858f807e3",
+          "translationSha256": "960c8455c2139e31b5a24a2848686d64808f72b4633d82b2dc96e2c24db5b155",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaTerracottaWar.tokenName",
+          "sourceSha256": "a7a89f71275f525898b6410102ef630251704a14ebcf09a8b0cb240a253c0637",
+          "translationSha256": "8532c4359db3497af6d386ee284e234ac2decb837f75861845a6e632ccdcf05f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaTerracottaWar.items.un1bM6wq8OQsuOf2.name",
+          "sourceSha256": "ed2fe6ee4108fdd7aa2adc5e1e0b272881becc9d47f1b91289237da2411ddc11",
+          "translationSha256": "0a39b8f3bdfe279a18ef7e5bea3f6239da0932a302f113bb61df2e0b3f3abaad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaTerracottaWar.items.un1bM6wq8OQsuOf2.description",
+          "sourceSha256": "95a715119422a6602bff8edd3ffa74afb3001fe266582fb1eee3502adbbc1001",
+          "translationSha256": "be06fdc5c8d056619e688cb6544ab7cef6533723b9df58ce1d1a103d76d68bd4",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaTerracottaWar.items.BLziQnmx8ezHmBG7.name",
+          "sourceSha256": "189c2e04976fe8f0cfecea55c7dca3bfff194b1a0ac0bff8a22e7fc4a4fff9ab",
+          "translationSha256": "47723de3a3c7eac069181f66264ac076b46434d6376d2597b3ad1abbded083e9",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaTerracottaWar.items.BLziQnmx8ezHmBG7.description",
+          "sourceSha256": "fc1c7d624569382c0ce6f5fd7600c917c9bcceabaf67cea5bbfbdffdd5286ed8",
+          "translationSha256": "994b80262cd306be4beffd9e4348d5d866aa08b06db0feaf6a443b30290dabf7",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaTerracottaWar.items.CpdlaeAnlmt53sQj.name",
+          "sourceSha256": "7a0b29d93efa79396c45eae8b1dcfca0f337f50097b636eee67b87709eeffe8e",
+          "translationSha256": "2e86fd487d7238479f3a168315ca47ecf90fc27b5f2bd3384be68141e4a63a1f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaTerracottaWar.items.CpdlaeAnlmt53sQj.description",
+          "sourceSha256": "f7ae29a4d9d47427a3df0d9f26004461e6247afd1fdc35b59bb56c7ed0f4e47d",
+          "translationSha256": "e522d3cf20d6c39b0fa1e2e5c5caa288365c1fe3bb7ebb7377ffc5c53d0ffd32",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaTerracottaWar.items.3rg5Eh9fqhvyZaWz.name",
+          "sourceSha256": "f96144b2f2bf5281f72aad754bc4a89d92235d12dbe094c8679bad13e55915e2",
+          "translationSha256": "d5c375390c0478593e03735ac50c99fb604650ef5b60f94c5c1465796e887108",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaTerracottaWar.items.3rg5Eh9fqhvyZaWz.description",
+          "sourceSha256": "575baad4dd745d9eae4cf30089b9e9818036e83ca18916db48d3aa3103338cb2",
+          "translationSha256": "b7d19764b1e3efc9495a0b7347ae5e11ae149c6108bd09fade67f12700281e08",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaTerracottaWar.items.My1h4yJD02dBUYJq.name",
+          "sourceSha256": "47564edb94d9e188e11ace6efaf301b717014996158d9727e07d65b53935440e",
+          "translationSha256": "2e6cc08437fc54feff24d16a205ccc6107cd0ee6dba6cdbcb63bfc0cb33bb73c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.toaTerracottaWar.items.My1h4yJD02dBUYJq.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaTerracottaWar.name",
+          "sourceSha256": "a7a89f71275f525898b6410102ef630251704a14ebcf09a8b0cb240a253c0637",
+          "translationSha256": "8532c4359db3497af6d386ee284e234ac2decb837f75861845a6e632ccdcf05f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaTerracottaWar.alignment",
+          "sourceSha256": "041b0ecfb7faefa98d4836bc442ffa1ab341621b8b622b1b1968fd507c36051b",
+          "translationSha256": "6d0b9367ac639a2a6f103e485911fae243e3c2ab772f3f711284a9559d780f78",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaTerracottaWar.creatureSubtype",
+          "sourceSha256": "bfb7a3e9ab069ed6fbe93051d74c76c2fc5adb2aca43c3527348873858f807e3",
+          "translationSha256": "960c8455c2139e31b5a24a2848686d64808f72b4633d82b2dc96e2c24db5b155",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaTerracottaWar.tokenName",
+          "sourceSha256": "a7a89f71275f525898b6410102ef630251704a14ebcf09a8b0cb240a253c0637",
+          "translationSha256": "8532c4359db3497af6d386ee284e234ac2decb837f75861845a6e632ccdcf05f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaTerracottaWar.items.un1bM6wq8OQsuOf2.name",
+          "sourceSha256": "ed2fe6ee4108fdd7aa2adc5e1e0b272881becc9d47f1b91289237da2411ddc11",
+          "translationSha256": "0a39b8f3bdfe279a18ef7e5bea3f6239da0932a302f113bb61df2e0b3f3abaad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaTerracottaWar.items.un1bM6wq8OQsuOf2.description",
+          "sourceSha256": "95a715119422a6602bff8edd3ffa74afb3001fe266582fb1eee3502adbbc1001",
+          "translationSha256": "be06fdc5c8d056619e688cb6544ab7cef6533723b9df58ce1d1a103d76d68bd4",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaTerracottaWar.items.BLziQnmx8ezHmBG7.name",
+          "sourceSha256": "189c2e04976fe8f0cfecea55c7dca3bfff194b1a0ac0bff8a22e7fc4a4fff9ab",
+          "translationSha256": "47723de3a3c7eac069181f66264ac076b46434d6376d2597b3ad1abbded083e9",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaTerracottaWar.items.BLziQnmx8ezHmBG7.description",
+          "sourceSha256": "fc1c7d624569382c0ce6f5fd7600c917c9bcceabaf67cea5bbfbdffdd5286ed8",
+          "translationSha256": "994b80262cd306be4beffd9e4348d5d866aa08b06db0feaf6a443b30290dabf7",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaTerracottaWar.items.CpdlaeAnlmt53sQj.name",
+          "sourceSha256": "7a0b29d93efa79396c45eae8b1dcfca0f337f50097b636eee67b87709eeffe8e",
+          "translationSha256": "2e86fd487d7238479f3a168315ca47ecf90fc27b5f2bd3384be68141e4a63a1f",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaTerracottaWar.items.CpdlaeAnlmt53sQj.description",
+          "sourceSha256": "f7ae29a4d9d47427a3df0d9f26004461e6247afd1fdc35b59bb56c7ed0f4e47d",
+          "translationSha256": "e522d3cf20d6c39b0fa1e2e5c5caa288365c1fe3bb7ebb7377ffc5c53d0ffd32",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaTerracottaWar.items.3rg5Eh9fqhvyZaWz.name",
+          "sourceSha256": "f96144b2f2bf5281f72aad754bc4a89d92235d12dbe094c8679bad13e55915e2",
+          "translationSha256": "d5c375390c0478593e03735ac50c99fb604650ef5b60f94c5c1465796e887108",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaTerracottaWar.items.3rg5Eh9fqhvyZaWz.description",
+          "sourceSha256": "575baad4dd745d9eae4cf30089b9e9818036e83ca18916db48d3aa3103338cb2",
+          "translationSha256": "b7d19764b1e3efc9495a0b7347ae5e11ae149c6108bd09fade67f12700281e08",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaTerracottaWar.items.My1h4yJD02dBUYJq.name",
+          "sourceSha256": "47564edb94d9e188e11ace6efaf301b717014996158d9727e07d65b53935440e",
+          "translationSha256": "2e6cc08437fc54feff24d16a205ccc6107cd0ee6dba6cdbcb63bfc0cb33bb73c",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.toaTerracottaWar.items.My1h4yJD02dBUYJq.description",
+          "sourceSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "translationSha256": "72607af206be385586cc3ac4dc31605512dc2b81f4e419cf3ac656437e06b5ad",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Giant or statue profile reviewed against English export. Attack counts, cyclops distance disadvantage and terracotta critical destruction checked."
+        }
+      ]
     }
   ]
 }

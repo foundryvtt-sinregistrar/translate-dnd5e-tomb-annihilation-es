@@ -2600,6 +2600,15 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   de 1», incoherente con ese umbral; pendiente de reparación funcional junto
   con los demás comentarios de tirada detectados.
 
+### additional-giants-statues — Gigantes y estatuas
+
+- Revisados gigante de escarcha, cíclope, gárgola y guerrero de terracota en
+  ambas copias: 106 registros contrastados con el exportado inglés.
+- Comprobados los ataques múltiples, la desventaja del cíclope a más de
+  30 pies y la destrucción del guerrero de terracota al recibir un crítico.
+- Conservados los enlaces por nombre a armas y ataques para su comprobación
+  funcional, así como las referencias automáticas a condiciones y conjuros.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2609,8 +2618,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
   de Foundry, tres de créditos y cuatro de historial.
   No equivale a 931 páginas del PDF.
-- 14305 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 14305 campos distintos.
+- 14411 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 14411 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento treinta y ocho biografías en ambas copias de actores: siete
   príncipes, ciento veintisiete criaturas o PNJ vinculados al apéndice D y cuatro perfiles

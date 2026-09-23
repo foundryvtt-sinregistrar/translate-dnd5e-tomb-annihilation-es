@@ -1665,7 +1665,7 @@
           "items": {
             "VYoqN1DPH9kCI8VR": {
               "name": "Ataque múltiple",
-              "description": "<p>El cíclope hace dos [[/item Greatclub]] ataques.</p>"
+              "description": "<p>El cíclope realiza dos ataques de [[/item Greatclub]].</p>"
             },
             "zUsXEMrFj04MZF3h": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
@@ -1673,11 +1673,11 @@
             },
             "rPafKkOainOGYkr3": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-              "name": "Gran club"
+              "name": "Garrote a dos manos"
             },
             "F3hdswSJHJeJ1ui4": {
-              "name": "Percepción de profundidad pobre",
-              "description": "<p>El cíclope tiene desventaja en cualquier ataque rodando contra un objetivo a más de 30 pies de distancia.</p>"
+              "name": "Mala Percepción de la Profundidad",
+              "description": "<p>El cíclope tiene desventaja en cualquier tirada de ataque contra un objetivo que esté a más de 30 pies.</p>"
             }
           },
           "name": "Cíclope",
@@ -2512,51 +2512,51 @@
             "gCi538awNcOfcZf7": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
               "name": "Roca",
-              "descriptionChat": "<p>El Gigante de la Escarcha ataca con su Roca.</p>"
+              "descriptionChat": "<p>El gigante de escarcha ataca con su roca.</p>"
             },
             "LVOGKiIm4UTD4fpj": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
               "name": "Hacha a dos manos",
-              "descriptionChat": "<p>El Gigante de la Escarcha ataca con su Gran Eje.</p>"
+              "descriptionChat": "<p>El gigante de escarcha ataca con su hacha a dos manos.</p>"
             },
             "i49lwJ84vB720EPW": {
               "name": "Ataque múltiple",
-              "description": "<p>Los [[lookup @name lowercase]] Hace dos. [[/item Greataxe]] ataques.</p>"
+              "description": "<p>El [[lookup @name lowercase]] realiza dos ataques de [[/item Greataxe]].</p>"
             },
             "9LXx1CaY98oYrwWK": {
-              "name": "Armadura de patchwork",
-              "description": "<p>Esta armadura cruda consta de pieles gruesas y pieles. Es comúnmente usado por tribus bárbaras, humanoides malvados, y otras personas que carecen de acceso a las herramientas y materiales necesarios para crear una mejor armadura.</p>"
+              "name": "Armadura de retales",
+              "description": "<p>Esta rudimentaria armadura está hecha de pieles gruesas. Suelen llevarla tribus bárbaras, humanoides malvados y otros pueblos sin acceso a las herramientas y materiales necesarios para fabricar armaduras mejores.</p>"
             }
           },
           "name": "Gigante de escarcha",
           "tokenName": "Gigante de escarcha",
-          "biography": "<p><em>Token artwork by </em><a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\"><em>Aventuras olvidadas</em></a><em>.</em></p>"
+          "biography": "<p><em>Ilustración de la ficha por </em><a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\"><em>Forgotten Adventures</em></a><em>.</em></p>"
         },
         "toaGargoyle00000": {
           "alignment": "Caótico malvado",
           "items": {
             "yczO5JpGxAk51Gp8": {
               "name": "Ataque múltiple",
-              "description": "<p>Los [[lookup @name lowercase]] hace dos ataques: uno con su [[/item Bite]]{mordedura} y uno con su [[/item Claws]]{garras}.</p>"
+              "description": "<p>La [[lookup @name lowercase]] realiza dos ataques: uno con su [[/item Bite]]{mordisco} y otro con sus [[/item Claws]]{garras}.</p>"
             },
             "A6GBvah75Y7fGjc5": {
               "name": "Mordisco",
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-              "descriptionChat": "<p>La Gargoyle ataca con su mordida.</p>"
+              "descriptionChat": "<p>La gárgola ataca con su mordisco.</p>"
             },
             "ipJwA0j2zfzmq5GW": {
               "name": "Garras",
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
-              "descriptionChat": "<p>La Gargoyle ataca con sus garras.</p>"
+              "descriptionChat": "<p>La gárgola ataca con sus garras.</p>"
             },
             "sXPmgYwYgosoytUu": {
-              "name": "Apariencia falsa",
-              "description": "<p>Mientras que el [[lookup @name lowercase]] sigue siendo movimiento menos, es indistinguible de una estatua inanimada.</p>"
+              "name": "Apariencia Falsa",
+              "description": "<p>Mientras la [[lookup @name lowercase]] permanezca inmóvil, es indistinguible de una estatua inanimada.</p>"
             }
           },
           "name": "Gárgola",
           "tokenName": "Gárgola",
-          "biography": "<p><em>Token artwork by </em><a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\"><em>Aventuras olvidadas</em></a><em>.</em></p>"
+          "biography": "<p><em>Ilustración de la ficha por </em><a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\"><em>Forgotten Adventures</em></a><em>.</em></p>"
         },
         "LXdDEDieqHb6omvp": {
           "alignment": "Caótico malvado",
@@ -6750,28 +6750,28 @@
           "items": {
             "un1bM6wq8OQsuOf2": {
               "name": "Ataque múltiple",
-              "description": "<p>El guerrero terracota hace dos ataques cuerpo a cuerpo.</p>"
+              "description": "<p>El guerrero de terracota realiza dos ataques cuerpo a cuerpo.</p>"
             },
             "My1h4yJD02dBUYJq": {
               "description": "<p>[[/attack extended]]. [[/damage extended average]].</p>",
               "name": "Espada corta"
             },
             "BLziQnmx8ezHmBG7": {
-              "name": "Susceptibilidad antimagica",
-              "description": "<p>El guerrero de terracota es &amp;Reference[Incapacitated apply=false] mientras que en la zona de un @UUID[Compendium.dnd5e.spells.Item.Eon0jzGzQRNluTPQ]{campo antimagico}. Si el objetivo es: @UUID[Compendium.dnd5e.spells.Item.15Fa6q1nH27XfbR8]{disipar la magia}, el guerrero de terracota debe tener éxito en un lanzamiento de ahorro Constitución contra el conjuro de la rueda salvar CD o caída &amp;Reference[Unconscious apply=false] durante 1 minuto.</p>"
+              "name": "Susceptibilidad a la Antimagia",
+              "description": "<p>El guerrero de terracota está &amp;Reference[Incapacitated apply=false] mientras se encuentre en el área de un @UUID[Compendium.dnd5e.spells.Item.Eon0jzGzQRNluTPQ]{campo antimagia}. Si es objetivo de @UUID[Compendium.dnd5e.spells.Item.15Fa6q1nH27XfbR8]{disipar magia}, debe superar una tirada de salvación de Constitución contra la CD de salvación de conjuros del lanzador o quedar &amp;Reference[Unconscious apply=false] durante 1 minuto.</p>"
             },
             "CpdlaeAnlmt53sQj": {
-              "name": "Apariencia falsa",
-              "description": "<p>Mientras que el guerrero de terracota permanece inmóvil, es indistinguible de una estatua normal.</p>"
+              "name": "Apariencia Falsa",
+              "description": "<p>Mientras el guerrero de terracota permanezca inmóvil, es indistinguible de una estatua normal.</p>"
             },
             "3rg5Eh9fqhvyZaWz": {
               "name": "Quebradizo",
-              "description": "<p>Si un golpe crítico se marca contra un guerrero de terracota, se rompe y se destruye.</p>"
+              "description": "<p>Si un guerrero de terracota recibe un crítico, se hace añicos y queda destruido.</p>"
             }
           },
-          "name": "Terracota Warrior",
+          "name": "Guerrero de terracota",
           "creatureSubtype": "Armadura animada",
-          "tokenName": "Terracota Warrior"
+          "tokenName": "Guerrero de terracota"
         },
         "HVfnxW4QdcaxfDGA": {
           "name": "Espinoso",
