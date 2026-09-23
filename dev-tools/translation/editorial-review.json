@@ -159575,6 +159575,316 @@
           "note": "Guardian naga profile and spell descriptions reviewed against English export. Rejuvenation, verbal components, banishment timing and geas daily damage limit checked."
         }
       ]
+    },
+    {
+      "id": "additional-ice-hand",
+      "date": "2026-09-23",
+      "fields": [
+        {
+          "field": "dnd-tomb-annihilation.actors.82uFMqFQR1Y71Ex9.name",
+          "sourceSha256": "e2cb3c3eded9c908cfd265995985759c73d69c8ff62a39fbadb09635e09a6cf2",
+          "translationSha256": "fc309edd0fe0695d92c2e25d03f40d6a25640554fc6bca7d3e0ba60644ad99c2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Ice hand actor reviewed against English export. Push formula, size advantage, grapple and interposing strength comparison checked; no activity mechanics changed."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.82uFMqFQR1Y71Ex9.creatureType",
+          "sourceSha256": "46f25dd799e263ef75b41f81cb51740e6f3d80a9c00b4f6dd426bb1768fc59ff",
+          "translationSha256": "b7136dec13d9a7fa9b4e2eeea8662089d3e37f4e238c0cdcbdf3495a9a1dcdfd",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Ice hand actor reviewed against English export. Push formula, size advantage, grapple and interposing strength comparison checked; no activity mechanics changed."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.82uFMqFQR1Y71Ex9.tokenName",
+          "sourceSha256": "e2cb3c3eded9c908cfd265995985759c73d69c8ff62a39fbadb09635e09a6cf2",
+          "translationSha256": "fc309edd0fe0695d92c2e25d03f40d6a25640554fc6bca7d3e0ba60644ad99c2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Ice hand actor reviewed against English export. Push formula, size advantage, grapple and interposing strength comparison checked; no activity mechanics changed."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.82uFMqFQR1Y71Ex9.items.flSMgvK8J2USFtGo.name",
+          "sourceSha256": "4ba7024414bfb602e12a1c22440b69f5e2801997228777834f2fb555d0192456",
+          "translationSha256": "c98d5cdcc68417ebb4469d0865b29822e1b79a673d1bdacabba8c18d0b20916a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Ice hand actor reviewed against English export. Push formula, size advantage, grapple and interposing strength comparison checked; no activity mechanics changed."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.82uFMqFQR1Y71Ex9.items.flSMgvK8J2USFtGo.description",
+          "sourceSha256": "7371a633571503b17923486da6c15f1b15ce8f93f2f82ea26a6771a5ae51e3fa",
+          "translationSha256": "ef403164720868b900e574bdf4b804f512318f61d8999e34b553987546080483",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Ice hand actor reviewed against English export. Push formula, size advantage, grapple and interposing strength comparison checked; no activity mechanics changed."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.82uFMqFQR1Y71Ex9.items.kKg1WU7qO2fLSB0e.name",
+          "sourceSha256": "7be0f12243d4324562e15c225bb5096b9b6a22d6f3cc88af94c43c6545ebc593",
+          "translationSha256": "b64398f809ef802ff270d3dd6fa94b8f06d98378f69ed1b5af63ddcce82578ea",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Ice hand actor reviewed against English export. Push formula, size advantage, grapple and interposing strength comparison checked; no activity mechanics changed."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.82uFMqFQR1Y71Ex9.items.kKg1WU7qO2fLSB0e.description",
+          "sourceSha256": "7b372f15645200483aeb566fe54280fb11407708e589fea95dde3035f9f8f2dc",
+          "translationSha256": "849cc0a36a4e8dddc5671c5803d0e5b0ea7b650086d3d0ec8234412710e3a618",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Ice hand actor reviewed against English export. Push formula, size advantage, grapple and interposing strength comparison checked; no activity mechanics changed."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.82uFMqFQR1Y71Ex9.items.kKg1WU7qO2fLSB0e.activities.dnd5eactivity000.name",
+          "sourceSha256": "f592876227aa4abda8acf11ebc843779f0368aa3f384903fcec1fd9e0736140a",
+          "translationSha256": "22ef2043a7e33c7d386dc6e6ee37781de59634e2fc04a0acbbef9a7f3d3d4641",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Ice hand actor reviewed against English export. Push formula, size advantage, grapple and interposing strength comparison checked; no activity mechanics changed."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.82uFMqFQR1Y71Ex9.items.kKg1WU7qO2fLSB0e.activities.dnd5eactivity000.description.chatFlavor",
+          "sourceSha256": "ad713af3ceb05ab06c04b50b696aa110e2e50b0af4312482333958006bf2869e",
+          "translationSha256": "75abe4adda91106144d247d8e9af976476aa71fa36df73ceb8e208a722a2033a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Ice hand actor reviewed against English export. Push formula, size advantage, grapple and interposing strength comparison checked; no activity mechanics changed."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.82uFMqFQR1Y71Ex9.items.rne03sCadusyP3Yg.name",
+          "sourceSha256": "2d002392820577f582cbb73b34b2b477cd3b56ef53bbeb19b7ab52983c1b01b1",
+          "translationSha256": "4d13cb9cdd64353e1e3e77060b29b4a2ec475fa86dd3ac6e5e29f79cf6d3d451",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Ice hand actor reviewed against English export. Push formula, size advantage, grapple and interposing strength comparison checked; no activity mechanics changed."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.82uFMqFQR1Y71Ex9.items.rne03sCadusyP3Yg.description",
+          "sourceSha256": "070ea77a7fdd021ee9974cbba9216b94bab72e65f195a6d58dc3395ed48bd0a9",
+          "translationSha256": "78741e26a8a03a74e37c498e5000516c0c3446f95ebd9ffe34e03038cd0ecc67",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Ice hand actor reviewed against English export. Push formula, size advantage, grapple and interposing strength comparison checked; no activity mechanics changed."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.82uFMqFQR1Y71Ex9.items.rne03sCadusyP3Yg.activities.dnd5eactivity000.name",
+          "sourceSha256": "1b4801c3717c52d35d7361bc7bb4e6b0036647d8ae8c6b090648e11034395849",
+          "translationSha256": "f8e8e77b725e3772488711a8d169c92caa9e280161ead8c89890f152c8ef057b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Ice hand actor reviewed against English export. Push formula, size advantage, grapple and interposing strength comparison checked; no activity mechanics changed."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.82uFMqFQR1Y71Ex9.items.rne03sCadusyP3Yg.activities.dnd5eactivity000.target.affects.special",
+          "sourceSha256": "2993877ec420eb6e68e73aada51c2e4baacbb854370bd6095d7f5c9c9e482fdb",
+          "translationSha256": "6d1b27c97e293206013382c933ebe7bd55aa6b047ef6e25936c09d3675e9bafa",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Ice hand actor reviewed against English export. Push formula, size advantage, grapple and interposing strength comparison checked; no activity mechanics changed."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.82uFMqFQR1Y71Ex9.items.rne03sCadusyP3Yg.activities.EPLsy8fXMLLzt9XV.name",
+          "sourceSha256": "b344a9fac1fe1337b845e2dd38ce26904f5207a160bd5cdc5439e38f354fa595",
+          "translationSha256": "0bd20605983bfea409b8667d0466015e8b7b2419f687d72413ebe9b0e877499a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Ice hand actor reviewed against English export. Push formula, size advantage, grapple and interposing strength comparison checked; no activity mechanics changed."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.82uFMqFQR1Y71Ex9.items.rne03sCadusyP3Yg.activities.EPLsy8fXMLLzt9XV.description.chatFlavor",
+          "sourceSha256": "ad713af3ceb05ab06c04b50b696aa110e2e50b0af4312482333958006bf2869e",
+          "translationSha256": "75abe4adda91106144d247d8e9af976476aa71fa36df73ceb8e208a722a2033a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Ice hand actor reviewed against English export. Push formula, size advantage, grapple and interposing strength comparison checked; no activity mechanics changed."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.82uFMqFQR1Y71Ex9.items.rne03sCadusyP3Yg.effects.GYgk1mWlwaFVX6P8.name",
+          "sourceSha256": "26c5ae3f6d16af4c316e8a091769d7dc2302f1ea566432d0e6be63946ff3f272",
+          "translationSha256": "ba58192a34815333c5057a306502ea8eb9763c68fb211a4c7619f322c08651ea",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Ice hand actor reviewed against English export. Push formula, size advantage, grapple and interposing strength comparison checked; no activity mechanics changed."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.82uFMqFQR1Y71Ex9.items.vgK74YR1Lv2WrGCx.name",
+          "sourceSha256": "1f0de17183198f1324f81c6ce341567361998f263429be04c00a8e9694b00f8d",
+          "translationSha256": "98747b97ab2b2d110dc704606111522e2f8bf2ce5551c9890e4c1ffb6088b7f2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Ice hand actor reviewed against English export. Push formula, size advantage, grapple and interposing strength comparison checked; no activity mechanics changed."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.82uFMqFQR1Y71Ex9.items.vgK74YR1Lv2WrGCx.description",
+          "sourceSha256": "2119a370d4f85028e5932fbca4b5e9f3fd7fa5a3e467040e8154f4cf711f9315",
+          "translationSha256": "dbbcba42f806b9cc6d5826ba82e587f77047666d17e26aaa7ee7848c0ebe0a1a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Ice hand actor reviewed against English export. Push formula, size advantage, grapple and interposing strength comparison checked; no activity mechanics changed."
+        },
+        {
+          "field": "dnd-tomb-annihilation.actors.82uFMqFQR1Y71Ex9.items.vgK74YR1Lv2WrGCx.effects.F3mfJTF97ByN0g18.name",
+          "sourceSha256": "f1008288b924d31ba72a2d189a7fbfc0dcea50bdb6a20a243ef0428a3feb67bf",
+          "translationSha256": "ad50426e9fd8cf699c76c7bbb5b9e81e69aa7a0544cac34ba4d6e4fc5270fea4",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Ice hand actor reviewed against English export. Push formula, size advantage, grapple and interposing strength comparison checked; no activity mechanics changed."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.82uFMqFQR1Y71Ex9.name",
+          "sourceSha256": "e2cb3c3eded9c908cfd265995985759c73d69c8ff62a39fbadb09635e09a6cf2",
+          "translationSha256": "fc309edd0fe0695d92c2e25d03f40d6a25640554fc6bca7d3e0ba60644ad99c2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Ice hand actor reviewed against English export. Push formula, size advantage, grapple and interposing strength comparison checked; no activity mechanics changed."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.82uFMqFQR1Y71Ex9.creatureType",
+          "sourceSha256": "46f25dd799e263ef75b41f81cb51740e6f3d80a9c00b4f6dd426bb1768fc59ff",
+          "translationSha256": "b7136dec13d9a7fa9b4e2eeea8662089d3e37f4e238c0cdcbdf3495a9a1dcdfd",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Ice hand actor reviewed against English export. Push formula, size advantage, grapple and interposing strength comparison checked; no activity mechanics changed."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.82uFMqFQR1Y71Ex9.tokenName",
+          "sourceSha256": "e2cb3c3eded9c908cfd265995985759c73d69c8ff62a39fbadb09635e09a6cf2",
+          "translationSha256": "fc309edd0fe0695d92c2e25d03f40d6a25640554fc6bca7d3e0ba60644ad99c2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Ice hand actor reviewed against English export. Push formula, size advantage, grapple and interposing strength comparison checked; no activity mechanics changed."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.82uFMqFQR1Y71Ex9.items.flSMgvK8J2USFtGo.name",
+          "sourceSha256": "4ba7024414bfb602e12a1c22440b69f5e2801997228777834f2fb555d0192456",
+          "translationSha256": "c98d5cdcc68417ebb4469d0865b29822e1b79a673d1bdacabba8c18d0b20916a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Ice hand actor reviewed against English export. Push formula, size advantage, grapple and interposing strength comparison checked; no activity mechanics changed."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.82uFMqFQR1Y71Ex9.items.flSMgvK8J2USFtGo.description",
+          "sourceSha256": "7371a633571503b17923486da6c15f1b15ce8f93f2f82ea26a6771a5ae51e3fa",
+          "translationSha256": "ef403164720868b900e574bdf4b804f512318f61d8999e34b553987546080483",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Ice hand actor reviewed against English export. Push formula, size advantage, grapple and interposing strength comparison checked; no activity mechanics changed."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.82uFMqFQR1Y71Ex9.items.kKg1WU7qO2fLSB0e.name",
+          "sourceSha256": "7be0f12243d4324562e15c225bb5096b9b6a22d6f3cc88af94c43c6545ebc593",
+          "translationSha256": "b64398f809ef802ff270d3dd6fa94b8f06d98378f69ed1b5af63ddcce82578ea",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Ice hand actor reviewed against English export. Push formula, size advantage, grapple and interposing strength comparison checked; no activity mechanics changed."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.82uFMqFQR1Y71Ex9.items.kKg1WU7qO2fLSB0e.description",
+          "sourceSha256": "7b372f15645200483aeb566fe54280fb11407708e589fea95dde3035f9f8f2dc",
+          "translationSha256": "849cc0a36a4e8dddc5671c5803d0e5b0ea7b650086d3d0ec8234412710e3a618",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Ice hand actor reviewed against English export. Push formula, size advantage, grapple and interposing strength comparison checked; no activity mechanics changed."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.82uFMqFQR1Y71Ex9.items.kKg1WU7qO2fLSB0e.activities.dnd5eactivity000.name",
+          "sourceSha256": "f592876227aa4abda8acf11ebc843779f0368aa3f384903fcec1fd9e0736140a",
+          "translationSha256": "22ef2043a7e33c7d386dc6e6ee37781de59634e2fc04a0acbbef9a7f3d3d4641",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Ice hand actor reviewed against English export. Push formula, size advantage, grapple and interposing strength comparison checked; no activity mechanics changed."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.82uFMqFQR1Y71Ex9.items.kKg1WU7qO2fLSB0e.activities.dnd5eactivity000.description.chatFlavor",
+          "sourceSha256": "ad713af3ceb05ab06c04b50b696aa110e2e50b0af4312482333958006bf2869e",
+          "translationSha256": "75abe4adda91106144d247d8e9af976476aa71fa36df73ceb8e208a722a2033a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Ice hand actor reviewed against English export. Push formula, size advantage, grapple and interposing strength comparison checked; no activity mechanics changed."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.82uFMqFQR1Y71Ex9.items.rne03sCadusyP3Yg.name",
+          "sourceSha256": "2d002392820577f582cbb73b34b2b477cd3b56ef53bbeb19b7ab52983c1b01b1",
+          "translationSha256": "4d13cb9cdd64353e1e3e77060b29b4a2ec475fa86dd3ac6e5e29f79cf6d3d451",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Ice hand actor reviewed against English export. Push formula, size advantage, grapple and interposing strength comparison checked; no activity mechanics changed."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.82uFMqFQR1Y71Ex9.items.rne03sCadusyP3Yg.description",
+          "sourceSha256": "070ea77a7fdd021ee9974cbba9216b94bab72e65f195a6d58dc3395ed48bd0a9",
+          "translationSha256": "78741e26a8a03a74e37c498e5000516c0c3446f95ebd9ffe34e03038cd0ecc67",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Ice hand actor reviewed against English export. Push formula, size advantage, grapple and interposing strength comparison checked; no activity mechanics changed."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.82uFMqFQR1Y71Ex9.items.rne03sCadusyP3Yg.activities.dnd5eactivity000.name",
+          "sourceSha256": "1b4801c3717c52d35d7361bc7bb4e6b0036647d8ae8c6b090648e11034395849",
+          "translationSha256": "f8e8e77b725e3772488711a8d169c92caa9e280161ead8c89890f152c8ef057b",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Ice hand actor reviewed against English export. Push formula, size advantage, grapple and interposing strength comparison checked; no activity mechanics changed."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.82uFMqFQR1Y71Ex9.items.rne03sCadusyP3Yg.activities.dnd5eactivity000.target.affects.special",
+          "sourceSha256": "2993877ec420eb6e68e73aada51c2e4baacbb854370bd6095d7f5c9c9e482fdb",
+          "translationSha256": "6d1b27c97e293206013382c933ebe7bd55aa6b047ef6e25936c09d3675e9bafa",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Ice hand actor reviewed against English export. Push formula, size advantage, grapple and interposing strength comparison checked; no activity mechanics changed."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.82uFMqFQR1Y71Ex9.items.rne03sCadusyP3Yg.activities.EPLsy8fXMLLzt9XV.name",
+          "sourceSha256": "b344a9fac1fe1337b845e2dd38ce26904f5207a160bd5cdc5439e38f354fa595",
+          "translationSha256": "0bd20605983bfea409b8667d0466015e8b7b2419f687d72413ebe9b0e877499a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Ice hand actor reviewed against English export. Push formula, size advantage, grapple and interposing strength comparison checked; no activity mechanics changed."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.82uFMqFQR1Y71Ex9.items.rne03sCadusyP3Yg.activities.EPLsy8fXMLLzt9XV.description.chatFlavor",
+          "sourceSha256": "ad713af3ceb05ab06c04b50b696aa110e2e50b0af4312482333958006bf2869e",
+          "translationSha256": "75abe4adda91106144d247d8e9af976476aa71fa36df73ceb8e208a722a2033a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Ice hand actor reviewed against English export. Push formula, size advantage, grapple and interposing strength comparison checked; no activity mechanics changed."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.82uFMqFQR1Y71Ex9.items.rne03sCadusyP3Yg.effects.GYgk1mWlwaFVX6P8.name",
+          "sourceSha256": "26c5ae3f6d16af4c316e8a091769d7dc2302f1ea566432d0e6be63946ff3f272",
+          "translationSha256": "ba58192a34815333c5057a306502ea8eb9763c68fb211a4c7619f322c08651ea",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Ice hand actor reviewed against English export. Push formula, size advantage, grapple and interposing strength comparison checked; no activity mechanics changed."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.82uFMqFQR1Y71Ex9.items.vgK74YR1Lv2WrGCx.name",
+          "sourceSha256": "1f0de17183198f1324f81c6ce341567361998f263429be04c00a8e9694b00f8d",
+          "translationSha256": "98747b97ab2b2d110dc704606111522e2f8bf2ce5551c9890e4c1ffb6088b7f2",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Ice hand actor reviewed against English export. Push formula, size advantage, grapple and interposing strength comparison checked; no activity mechanics changed."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.82uFMqFQR1Y71Ex9.items.vgK74YR1Lv2WrGCx.description",
+          "sourceSha256": "2119a370d4f85028e5932fbca4b5e9f3fd7fa5a3e467040e8154f4cf711f9315",
+          "translationSha256": "dbbcba42f806b9cc6d5826ba82e587f77047666d17e26aaa7ee7848c0ebe0a1a",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Ice hand actor reviewed against English export. Push formula, size advantage, grapple and interposing strength comparison checked; no activity mechanics changed."
+        },
+        {
+          "field": "dnd-tomb-annihilation.adventures.OQ0bB1QgjuxagwGI.actors.82uFMqFQR1Y71Ex9.items.vgK74YR1Lv2WrGCx.effects.F3mfJTF97ByN0g18.name",
+          "sourceSha256": "f1008288b924d31ba72a2d189a7fbfc0dcea50bdb6a20a243ef0428a3feb67bf",
+          "translationSha256": "ad50426e9fd8cf699c76c7bbb5b9e81e69aa7a0544cac34ba4d6e4fc5270fea4",
+          "pdfEsPages": [],
+          "status": "reviewed-against-en-export",
+          "note": "Ice hand actor reviewed against English export. Push formula, size advantage, grapple and interposing strength comparison checked; no activity mechanics changed."
+        }
+      ]
     }
   ]
 }

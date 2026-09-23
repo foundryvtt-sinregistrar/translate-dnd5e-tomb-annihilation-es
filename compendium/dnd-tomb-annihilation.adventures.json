@@ -16326,37 +16326,37 @@
           "tokenName": "Mano de Bigby (hielo)",
           "items": {
             "flSMgvK8J2USFtGo": {
-              "name": "Puño cerrado",
-              "description": "<p>La mano golpea a una criatura u objeto a menos de 5 pies de ella. Hacer un conjuro cuerpo a cuerpo Ataque para la mano usando su juego Estadísticas. En un golpe, el objetivo toma [[/damage]] daño.</p>"
+              "name": "Puño Cerrado",
+              "description": "<p>La mano golpea a una criatura u objeto a 5 pies o menos de ella. Realiza un ataque de conjuro cuerpo a cuerpo con la mano usando tus estadísticas. Si impactas, el objetivo sufre [[/damage]] de daño.</p>"
             },
             "kKg1WU7qO2fLSB0e": {
-              "name": "Mano enérgica",
-              "description": "<p>La mano intenta empujar a una criatura dentro de 5 pies de ella en la dirección que elija. Haga un chequeo con la Fuerza de la mano disputada por la Fuerza (Atlética) de la comprobación del objetivo. Si el objetivo es mediano o más pequeño, usted tiene ventaja en el cheque. Si tienes éxito, la mano empuja el objetivo hasta 5 pies más un número de pies igual a cinco veces su modificador de capacidad de Spellcasting. La mano se mueve con el objetivo para permanecer a menos de 5 pies de él.</p><p>[[5 + @flags.summon.mod * 5]]{Distancia de empuje (ft.)}</p>",
+              "name": "Mano que Empuja",
+              "description": "<p>La mano intenta empujar a una criatura a 5 pies o menos en la dirección que elijas. Realiza una prueba de Fuerza de la mano enfrentada a la prueba de Fuerza (Atletismo) del objetivo. Si el objetivo es Mediano o más pequeño, tienes ventaja en la prueba. Si tienes éxito, la mano empuja al objetivo hasta 5 pies más una cantidad de pies igual a cinco veces tu modificador por aptitud mágica. La mano se mueve con el objetivo para permanecer a 5 pies o menos de él.</p><p>[[5 + @flags.summon.mod * 5]]{Distancia del empujón (pies)}</p>",
               "activities": {
                 "dnd5eactivity000": {
-                  "name": "Concurso de shove",
+                  "name": "Prueba enfrentada de empujón",
                   "description": {
-                    "chatFlavor": "Ventaja si el objetivo es mediano o menor."
+                    "chatFlavor": "Ventaja si el objetivo es Mediano o más pequeño."
                   }
                 }
               }
             },
             "rne03sCadusyP3Yg": {
-              "name": "Mano apresadora",
-              "description": "<p>La mano trata de bregar con una criatura enorme o más pequeña a menos de 5 pies de distancia. Usas la puntuación de fuerza de la mano para resolver el problema. Si el objetivo es mediano o más pequeño, usted tiene ventaja en el cheque. Mientras que la mano está agarrando el objetivo, usted puede utilizar una acción adicional para tener la mano aplastarlo. Cuando lo haces, el objetivo recibe un daño de apaleamiento igual a 2d6 + tu modificador de capacidad de Spellcasting.</p>",
+              "name": "Mano que Agarra",
+              "description": "<p>La mano intenta agarrar a una criatura Enorme o más pequeña a 5 pies o menos. Usas la puntuación de Fuerza de la mano para resolver el agarre. Si el objetivo es Mediano o más pequeño, tienes ventaja en la prueba. Mientras la mano tenga agarrado al objetivo, puedes usar una acción adicional para que lo aplaste. Si lo haces, el objetivo sufre daño contundente igual a 2d6 + tu modificador por aptitud mágica.</p>",
               "activities": {
                 "dnd5eactivity000": {
-                  "name": "Aplastamiento acorralado",
+                  "name": "Aplastar al objetivo agarrado",
                   "target": {
                     "affects": {
-                      "special": "objetivo consensuado"
+                      "special": "Objetivo agarrado"
                     }
                   }
                 },
                 "EPLsy8fXMLLzt9XV": {
-                  "name": "Concurso de grapple",
+                  "name": "Prueba enfrentada de agarre",
                   "description": {
-                    "chatFlavor": "Ventaja si el objetivo es mediano o menor."
+                    "chatFlavor": "Ventaja si el objetivo es Mediano o más pequeño."
                   }
                 }
               },
@@ -16367,8 +16367,8 @@
               }
             },
             "vgK74YR1Lv2WrGCx": {
-              "name": "Mano interpuesta",
-              "description": "<p>La mano se interpone entre usted y una criatura que usted elija hasta que le da a la mano una orden diferente. La mano se mueve para permanecer entre usted y el objetivo, proporcionándole media cubierta contra el objetivo. El objetivo no puede moverse a través del espacio de la mano si su puntuación de fuerza es menor o igual a la puntuación de fuerza de la mano. Si su puntuación de fuerza es más alta que la puntuación de fuerza de la mano, el objetivo puede moverse hacia usted a través del espacio de la mano, pero ese espacio es terreno difícil para el objetivo.</p>",
+              "name": "Mano que se Interpone",
+              "description": "<p>La mano se interpone entre tú y una criatura que elijas hasta que le des otra orden. Se mueve para permanecer entre tú y el objetivo y te proporciona cobertura media contra él. El objetivo no puede atravesar el espacio de la mano si su puntuación de Fuerza es igual o inferior a la de esta. Si es superior, puede moverse hacia ti atravesando el espacio de la mano, pero ese espacio es terreno difícil para él.</p>",
               "effects": {
                 "F3mfJTF97ByN0g18": {
                   "name": "Interposición"

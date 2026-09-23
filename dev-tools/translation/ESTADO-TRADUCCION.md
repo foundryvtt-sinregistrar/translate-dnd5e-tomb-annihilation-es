@@ -2775,6 +2775,14 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
 - Conservada la secuencia de ataque y salvación de Escupir Veneno del original;
   su resolución en mesa sigue pendiente de la comprobación funcional.
 
+### additional-ice-hand — Mano de Bigby de hielo
+
+- Revisados 38 registros en ambas copias contra el exportado inglés.
+  Comprobadas la fórmula del empujón, las ventajas por tamaño, el daño
+  contundente al aplastar y la comparación de Fuerza al interponerse.
+- La revisión comprende el actor invocado, no acredita la corrección del
+  objeto o conjuro que lo invoca ni modifica sus actividades mecánicas.
+
 ## Balance de revisión editorial
 
 - 931 páginas de texto revisadas: seis de la introducción, cien de los cuatro
@@ -2784,8 +2792,8 @@ Commit del diario principal: `958a925` — `Review all main Port Nyanzaru journa
   y seis de reglas adicionales, quince de Bienvenido a Chult y diez de consejos
   de Foundry, tres de créditos y cuatro de historial.
   No equivale a 931 páginas del PDF.
-- 16759 registros editoriales comprobados contra originales y traducciones,
-  incluidos los registros históricos parciales; no son 16759 campos distintos.
+- 16797 registros editoriales comprobados contra originales y traducciones,
+  incluidos los registros históricos parciales; no son 16797 campos distintos.
 - La revisión de un diario con `@Embed` no acredita el contenido del documento
   insertado. Revisadas ciento cuarenta y dos biografías en ambas copias de actores: siete
   príncipes, ciento veintisiete criaturas o PNJ vinculados al apéndice D y ocho perfiles
