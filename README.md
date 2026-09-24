@@ -72,7 +72,8 @@ node --test tests/*.test.mjs
 ```
 
 Repositorio: [foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es).
-Todavía no hay una publicación ni URLs de instalación configuradas.
+El workflow de release genera un borrador con el ZIP ligero y un manifiesto
+instalable al subir un tag `v*`. Véase [cómo publicar](dev-tools/RELEASE.md).
 Los PDF EN/ES ya están procesados para consulta local; consultar
 [la guía de referencias](dev-tools/export/README.md) y
 [el estado de traducción](dev-tools/translation/ESTADO-TRADUCCION.md).

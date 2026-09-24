@@ -1,4 +1,5 @@
 """Build a text-only distribution without changing the full translation."""
+import argparse
 import hashlib
 import json
 from pathlib import Path
@@ -8,15 +9,19 @@ import zipfile
 ROOT = Path(__file__).resolve().parents[1]
 
 
-def build():
+def build(*, release_tag=None):
     module = json.loads((ROOT / 'module.json').read_text(encoding='utf-8'))
     module_id = module['id']
+    if release_tag is not None and release_tag != f'v{module["version"]}':
+        raise ValueError('Release tag must match module.json version')
     replacements = {}
     for name in ('handout-assets.json', 'atlas-assets.json'):
         manifest = json.loads((ROOT / 'dev-tools/translation' / name).read_text(encoding='utf-8'))
         for asset in manifest['assets']:
             replacements[asset['translation']] = asset['source']
-            if not (ROOT.parent.parent / asset['source']).is_file():
+            if not asset['source'].startswith('modules/dnd-tomb-annihilation/assets/'):
+                raise ValueError('Unexpected official image path')
+            if release_tag is None and not (ROOT.parent.parent / asset['source']).is_file():
                 raise ValueError(f"Missing official image: {asset['source']}")
     seen = set()
     count = 0
@@ -50,6 +55,11 @@ def build():
         raise ValueError(f'Unexpected image coverage: {count}/{len(replacements)}')
     module['title'] += ' — Solo texto'
     module['description'] = 'Versión de prueba ligera: traducción textual al español; utiliza las imágenes del módulo oficial, que pueden contener texto inglés. Validación funcional integral pendiente.'
+    if release_tag is not None:
+        repo_url = 'https://github.com/foundryvtt-sinregistrar/' + module_id
+        module.update(url=repo_url, bugs=repo_url + '/issues',
+                      manifest=repo_url + '/releases/latest/download/module.json',
+                      download=repo_url + f'/releases/download/{release_tag}/{module_id}.zip')
     payload['module.json'] = (json.dumps(module, ensure_ascii=False, indent=2) + '\n').encode('utf-8')
     payload['README.md'] = f'''# La tumba de la aniquilación — Solo texto
 
@@ -73,7 +83,8 @@ importado con la variante completa puede conservar rutas a imágenes españolas;
 para probar esta variante, utilizar una importación nueva en un mundo de prueba.
 
 La revisión textual está cerrada; las pruebas funcionales no cubren todas las
-automatizaciones de una partida. Esta variante no dispone de publicación remota.
+automatizaciones de una partida. Consultar las publicaciones del repositorio
+para obtener las versiones disponibles.
 '''.encode('utf-8')
     for name, data in payload.items():
         if f'modules/{module_id}/assets/'.encode() in data:
@@ -91,8 +102,16 @@ automatizaciones de una partida. Esta variante no dispone de publicación remota
             raise ValueError('Invalid ZIP')
     digest = hashlib.sha256(output.read_bytes()).hexdigest()
     output.with_suffix('.zip.sha256').write_text(f'{digest}  {output.name}\n', encoding='ascii')
+    if release_tag is not None:
+        alias = output.parent / f'{module_id}.zip'
+        alias.write_bytes(output.read_bytes())
+        (output.parent / 'module.json').write_bytes(payload['module.json'])
+        (output.parent / 'SHA256SUMS.txt').write_text(f'{digest}  {alias.name}\n', encoding='ascii')
     print(f'{output.name}: {output.stat().st_size} bytes; {count} original image references restored; {len(payload)} files')
 
 
 if __name__ == '__main__':
-    build()
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--release-tag', help='Build release assets for this v<version> tag, without requiring a local Foundry installation')
+    args = parser.parse_args()
+    build(release_tag=args.release_tag)

@@ -1,5 +1,11 @@
 # Changelog
 
+## [Unreleased]
+
+- Workflow de GitHub Actions para crear releases en borrador al subir tags `v*`.
+- Empaquetado ligero compatible con CI, manifiesto instalable y SHA-256.
+- Validación de coincidencia entre tag y versión, y prueba del paquete sin Foundry.
+
 ## [0.2.0] — 2026-09-23 — Versión de prueba local
 
 - Revisión editorial completa de 20.154 campos y 126 claves de interfaz.
