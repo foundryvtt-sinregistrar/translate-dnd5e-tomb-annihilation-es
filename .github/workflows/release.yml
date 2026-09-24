@@ -1,0 +1,59 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: release-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  release:
+    name: Build & Publish Text-Only Release (Draft)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout tagged commit
+        uses: actions/checkout@v5
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Test converters and packaging
+        run: |
+          node --test tests/*.test.mjs
+          python -m unittest discover -s tests -p 'test_*.py'
+
+      - name: Build lightweight release assets
+        env:
+          RELEASE_TAG: ${{ github.ref_name }}
+        run: python dev-tools/build_light.py --release-tag "$RELEASE_TAG"
+
+      - name: Verify expected assets
+        run: |
+          test -f dist/translate-dnd5e-tomb-annihilation-es.zip
+          test -f dist/module.json
+          cd dist
+          sha256sum --check SHA256SUMS.txt
+
+      - name: Create GitHub Release (DRAFT) and upload assets
+        uses: softprops/action-gh-release@v2
+        with:
+          draft: true
+          generate_release_notes: true
+          fail_on_unmatched_files: true
+          files: |
+            dist/translate-dnd5e-tomb-annihilation-es.zip
+            dist/module.json
+            dist/SHA256SUMS.txt

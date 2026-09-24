@@ -84,6 +84,7 @@ export function toaJournalPagesById(source, translation) {
     const patch = id ? translation[id] : null;
     if (!patch || typeof patch !== "object") continue;
     if (typeof patch.name === "string") page.name = patch.name;
+    if (page.type === "image" && typeof patch.src === "string") page.src = patch.src;
     if (typeof patch.image?.caption === "string") {
       page.image ??= {};
       page.image.caption = patch.image.caption;

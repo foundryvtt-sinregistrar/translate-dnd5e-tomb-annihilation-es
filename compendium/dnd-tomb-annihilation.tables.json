@@ -28,25 +28,25 @@
   },
   "entries": {
     "dmgBlackSkullTra": {
-      "name": "Transformación del cráneo negro",
+      "name": "Transformaciones del Cráneo Negro",
       "results": {
         "Il1s5EreuYB87SZe": {
-          "description": "<p>El símbolo de Acerrak se quema en su carne, una maldición que sólo puede ser removida con un @UUID[Compendium.dnd5e.spells.Item.XZhdgVK3cLoxNCQl]{eliminar la maldición} conjuro o magia similar. Hasta que la maldición termine, tus puntos de éxito no pueden ser restaurados por la magia.</p>"
+          "description": "<p>El símbolo de Acererak queda grabado a fuego en tu piel. Esta maldición solo termina con @UUID[Compendium.dnd5e.spells.Item.XZhdgVK3cLoxNCQl]{levantar maldición} o magia similar. Hasta entonces, no puedes recuperar puntos de golpe mediante magia.</p>"
         },
         "9JDm98jIp6b85tEp": {
-          "description": "<p>Crece más grande como si se viera afectado por un @UUID[Compendium.dnd5e.spells.Item.WahI41a3goVUg0x1]{agrandar/reducir} Deletrear, excepto que el efecto dura 1 hora.</p>"
+          "description": "<p>Aumentas de tamaño como bajo los efectos de @UUID[Compendium.dnd5e.spells.Item.WahI41a3goVUg0x1]{agrandar/reducir}, pero el efecto dura 1 hora.</p>"
         },
         "47i7ysHtDdZiSP3U": {
-          "description": "<p>Te vuelves más pequeño como si se viera afectado por un @UUID[Compendium.dnd5e.spells.Item.WahI41a3goVUg0x1]{agrandar/reducir} Deletrear, excepto que el efecto dura 1 hora.</p>"
+          "description": "<p>Disminuyes de tamaño como bajo los efectos de @UUID[Compendium.dnd5e.spells.Item.WahI41a3goVUg0x1]{agrandar/reducir}, pero el efecto dura 1 hora.</p>"
         },
         "5aWRIwRoey1g3lBe": {
-          "description": "<p>Llegas al destino con nada más que el @UUID[Compendium.dnd-tomb-annihilation.items.Item.toamgcAmuletofth]{amuleto del cráneo negro}. Todo lo demás que llevabas aparece en un espacio desocupado a 100 pies de ti.</p>"
+          "description": "<p>Llegas sin nada salvo el @UUID[Compendium.dnd-tomb-annihilation.items.Item.toamgcAmuletofth]{Amuleto del Cráneo Negro}. Todo lo demás que llevaras puesto o transportaras aparece en un espacio desocupado al azar a un máximo de 100 pies de ti.</p>"
         },
         "1pK1LL7Mmx29wcS2": {
-          "description": "<p>Tú lo eres &amp;Reference[paralyzed] durante 1 minuto o hasta que este efecto termine con un @UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{menor restauración} conjuro o magia similar.</p>"
+          "description": "<p>Quedas &amp;Reference[paralyzed] durante 1 minuto o hasta que @UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{restablecimiento menor} o magia similar termine el efecto.</p>"
         },
         "fTUXd7VTRJxcbdvI": {
-          "description": "<p>Te vuelves &amp;Reference[petrified]. Este efecto sólo se puede terminar con un @UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{mayor restauración} conjuro o magia similar.</p>"
+          "description": "<p>Quedas &amp;Reference[petrified]. Solo @UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{restablecimiento mayor} o magia similar puede terminar el efecto.</p>"
         }
       }
     },
@@ -54,64 +54,64 @@
       "name": "Alijos",
       "results": {
         "sBwk5wdskdMgEahr": {
-          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaRainCatcher00]{Colector de lluvia} (ver @UUID[JournalEntry.toaCh1PortNyanza]{Capítulo 1}) y @UUID[Compendium.dnd5e.items.Item.lBg9CPRdpRhn4DO4]{kit de desorden}</p>"
+          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaRainCatcher00]{Colector de lluvia} (consulta el @UUID[JournalEntry.toaCh1PortNyanza]{capítulo 1}) y @UUID[Compendium.dnd5e.items.Item.lBg9CPRdpRhn4DO4]{utensilios de cocina}</p>"
         },
         "Qw2jpjWd2MuMSXu8": {
-          "description": "<p>Suministro de 10 días de conservas @UUID[Compendium.dnd5e.items.Item.f4w4GxBi0nYXmhX4]{raciones}</p>"
+          "description": "<p>@UUID[Compendium.dnd5e.items.Item.f4w4GxBi0nYXmhX4]{Raciones} en conserva para 10 días</p>"
         },
         "SjxCulFFs6De5eeh": {
-          "description": "<p>Suministro de conservas durante 20 días @UUID[Compendium.dnd5e.items.Item.f4w4GxBi0nYXmhX4]{raciones}</p>"
+          "description": "<p>@UUID[Compendium.dnd5e.items.Item.f4w4GxBi0nYXmhX4]{Raciones} en conserva para 20 días</p>"
         },
         "znY6wuBgo8ThBPXY": {
-          "description": "<p>50 días de suministro de conservas @UUID[Compendium.dnd5e.items.Item.f4w4GxBi0nYXmhX4]{raciones}</p>"
+          "description": "<p>@UUID[Compendium.dnd5e.items.Item.f4w4GxBi0nYXmhX4]{Raciones} en conserva para 50 días</p>"
         },
         "QVMT6RnIqtLHrz81": {
-          "description": "<p>[[/r 1d4]] barriles de agua con capacidad para 5 galones cada uno</p>"
+          "description": "<p>[[/r 1d4]] barriles de agua con 5 galones cada uno</p>"
         },
         "bZHp8eCfoesjFQdW": {
-          "description": "<p>[[/r 1d4]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toaTejCaskFortBe]{Tornillos de tej} (véase el capítulo 1)</p>"
+          "description": "<p>[[/r 1d4]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toaTejCaskFortBe]{barriles de tej} (consulta el capítulo 1)</p>"
         },
         "ZAUXZFIAp2I0Dy1q": {
-          "description": "<p>[[/r 1d4]] @UUID[Compendium.dnd5e.items.Item.ugzwHl8vYaPu2GNd]{kits de escalador}</p>"
+          "description": "<p>[[/r 1d4]] @UUID[Compendium.dnd5e.items.Item.ugzwHl8vYaPu2GNd]{útiles de escalada}</p>"
         },
         "Ub6IA2QrT7UAZ1FX": {
-          "description": "<p>Cofre que contiene: [[/r 2d4]] viales de @UUID[Compendium.dnd5e.items.Item.Fc6UfFNOnW80XMzi]{antitoxina}</p>"
+          "description": "<p>Un cofre con [[/r 2d4]] viales de @UUID[Compendium.dnd5e.items.Item.Fc6UfFNOnW80XMzi]{antitoxina}</p>"
         },
         "adHdQdPTv4AySZS0": {
-          "description": "<p>Suministro de 20 días de @UUID[Compendium.dnd-tomb-annihilation.items.Item.toaInsectRepelle]{Repelente a los insectos} (ver @UUID[JournalEntry.toaCh1PortNyanza]{Capítulo 1}) en tubo de cuero</p>"
+          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaInsectRepelle]{Bálsamo repelente de insectos} (consulta el @UUID[JournalEntry.toaCh1PortNyanza]{capítulo 1}) para 20 días, guardado en un tubo de cuero</p>"
         },
         "QH50hO2FN7sx0WjM": {
-          "description": "<p>[[/r 1d4]] @UUID[Compendium.dnd5e.items.Item.4MtQKPn9qMWCFjDA]{quiebres}, cada uno de los cuales contiene [[/r 1d20]] @UUID[Compendium.dnd5e.items.Item.3c7JXOzsv55gqJS5]{flechas}</p>"
+          "description": "<p>[[/r 1d4]] @UUID[Compendium.dnd5e.items.Item.4MtQKPn9qMWCFjDA]{aljabas} con [[/r 1d20]] @UUID[Compendium.dnd5e.items.Item.3c7JXOzsv55gqJS5]{flechas} cada una</p>"
         },
         "XKUlUzmE0jZmDpFz": {
-          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaCanoe00000000]{Canoa} con seis palas</p>"
+          "description": "<p>Una @UUID[Compendium.dnd-tomb-annihilation.items.Item.toaCanoe00000000]{canoa} con seis remos</p>"
         },
         "e6ETRITAVbmlcOam": {
-          "description": "<p>2 @UUID[Compendium.dnd5e.items.Item.trmWAdUoR6Y2B7rA]{Linternas con capucha} y 10 matraz de @UUID[Compendium.dnd5e.items.Item.psoZaItkOScMVaHL]{aceite de la lámpara}</p>"
+          "description": "<p>2 @UUID[Compendium.dnd5e.items.Item.trmWAdUoR6Y2B7rA]{linternas sordas} y 10 frascos de @UUID[Compendium.dnd5e.items.Item.psoZaItkOScMVaHL]{aceite para lámparas}</p>"
         },
         "PGv6HRHBtynwnWjk": {
-          "description": "<p>Dos personas @UUID[Compendium.dnd5e.items.Item.PanSr5EbqlfpSvwK]{carpa} y [[/r 1d4]] @UUID[Compendium.dnd5e.items.Item.8KWz5DJbWUpNWniP]{Paquetes de exploradores}</p>"
+          "description": "<p>Una @UUID[Compendium.dnd5e.items.Item.PanSr5EbqlfpSvwK]{tienda} para dos personas y [[/r 1d4]] @UUID[Compendium.dnd5e.items.Item.8KWz5DJbWUpNWniP]{paquetes de explorador}</p>"
         },
         "3z2OHXotubBJdsqK": {
-          "description": "<p>Caja de madera que contiene [[/r 2d10]] @UUID[Compendium.dnd5e.items.Item.0E565kQUBmndJ1a2]{dagas} (de baja calidad, del tipo utilizado como mercancías comerciales)</p>"
+          "description": "<p>Una caja de madera con [[/r 2d10]] @UUID[Compendium.dnd5e.items.Item.0E565kQUBmndJ1a2]{dagas} de baja calidad, del tipo que se utiliza como mercancía para comerciar</p>"
         },
         "YNm7E6VG7UCOCaL9": {
-          "description": "<p>Juego de @UUID[Compendium.dnd5e.items.Item.YHCmjsiXxZ9UdUhU]{herramientas de navegación}</p>"
+          "description": "<p>Un juego de @UUID[Compendium.dnd5e.items.Item.YHCmjsiXxZ9UdUhU]{herramientas de navegante}</p>"
         },
         "3yHKy5kyd6PD5akH": {
-          "description": "<p>[[/r 1d10]] cambios de ropa de lana</p>"
+          "description": "<p>[[/r 1d10]] mudas de ropa de lana</p>"
         },
         "FD3yqcf4kJXDV9BZ": {
-          "description": "<p>Juego de @UUID[Compendium.dnd5e.items.Item.fC0lFK8P4RuhpfaU]{Herramientas de cartógrafo}</p>"
+          "description": "<p>Un juego de @UUID[Compendium.dnd5e.items.Item.fC0lFK8P4RuhpfaU]{herramientas de cartógrafo}</p>"
         },
         "Gr3YQLFqjFEn7CDS": {
-          "description": "<p>Dos personas @UUID[Compendium.dnd5e.items.Item.PanSr5EbqlfpSvwK]{carpa} y [[/r 1d4]] @UUID[Compendium.dnd5e.items.Item.6rocoBx5jdzG1QQH]{Kits para sanadores}</p>"
+          "description": "<p>Una @UUID[Compendium.dnd5e.items.Item.PanSr5EbqlfpSvwK]{tienda} para dos personas y [[/r 1d4]] @UUID[Compendium.dnd5e.items.Item.6rocoBx5jdzG1QQH]{útiles de sanador}</p>"
         },
         "nZ34nzewAlgsylow": {
-          "description": "<p>2 Dos personas @UUID[Compendium.dnd5e.items.Item.PanSr5EbqlfpSvwK]{carpas}, foldin</p>"
+          "description": "<p>2 @UUID[Compendium.dnd5e.items.Item.PanSr5EbqlfpSvwK]{tiendas} para dos personas, una mesa de campaña plegable y cuatro taburetes plegables</p>"
         },
         "7OiPWafUwFqeGwG4": {
-          "description": "<p>Caja de madera que contiene [[/r 2d4]] @UUID[Compendium.dnd5e.items.Item.ytlsBjYsZ7OBSEBs]{pociones de curación}</p>"
+          "description": "<p>Una caja de madera con [[/r 2d4]] @UUID[Compendium.dnd5e.items.Item.ytlsBjYsZ7OBSEBs]{pociones de curación}</p>"
         }
       }
     },
@@ -119,102 +119,102 @@
       "name": "Exploradores muertos",
       "results": {
         "JMde8tQuLzKkkRyE": {
-          "description": "El cuerpo hinchado de un medio niño muerto, acribillado con pequeñas flechas y colgando de una vid de árbol. (El medio niño invadió tierra sagrada grung, y el cadáver fue colgado aquí como una advertencia.)"
+          "description": "El cadáver hinchado de un mediano, acribillado por diminutas flechas y colgado de una liana. (El mediano entró en terreno sagrado de los grungs, y su cadáver se colgó aquí como advertencia)."
         },
         "cZnjtvHuuorBqeI8": {
-          "description": "Los huesos de un humanoide no armado, azotado a un árbol por vides. (Este explorador fue capturado por goblins Batiri, rociado con miel, y dejado para ser devorado por insectos hambrientos.)"
+          "description": "Los huesos de un humanoide sin armadura, atado a un árbol con lianas. (Goblins batiris capturaron al explorador, lo empaparon en miel y lo dejaron para que lo devoraran los insectos hambrientos)."
         },
         "k9r6676iSJehnq22": {
-          "description": "Los restos aplastados de una enana no armada, mostrando signos de que fue pisoteada hasta la muerte por un dinosaurio arrasador."
+          "description": "Los restos aplastados de una enana sin armadura, con señales de haber muerto pisoteada por un dinosaurio desbocado."
         },
         "1VJvYTBcdFUYAXVt": {
-          "description": "Los huesos roídos y carbonizados de un humanoide. (Este desafortunado fue asesinado y canibalizado por sus compañeros hambrientos y delirantes.)"
+          "description": "Los huesos roídos y carbonizados de un humanoide. (Sus compañeros, hambrientos y delirantes, lo asesinaron y devoraron)."
         },
         "BpSQdTcgiwbtkYaj": {
-          "description": "El cuerpo destrozado de un medio elfo, aparentemente apaleado hasta la muerte. (Ella fue caída de gran altitud por pterafolk.)"
+          "description": "El cuerpo destrozado de una semielfa que parece haber muerto a golpes. (Unos hombres pterodáctilo la dejaron caer desde gran altura)."
         },
         "P3DTcBj1AdZHNILr": {
-          "description": "Los huesos dispersos de un enano, rotos en pedazos antes de ser devorados. (Una manada de velociraptores de caza hizo el enano en.)"
+          "description": "Los huesos dispersos de un enano que fue despedazado antes de ser devorado. (Lo mató una manada de velocirraptores)."
         },
         "KZPCMhl0FTaiRfyO": {
-          "description": "El cuerpo hinchado y púrpura de un elfo, muerto hace sólo unos días por la mordedura de una serpiente venenosa."
+          "description": "El cadáver hinchado y amoratado de un elfo que murió hace pocos días por la mordedura de una serpiente venenosa."
         },
         "ihat5voBivGginJ9": {
-          "description": "Un cuerpo humano fresco metido en un árbol hueco. (Los Giralones planean regresar y devorarlo más tarde.)"
+          "description": "Un cadáver humano reciente encajado en un árbol hueco. (Unos girallons tienen intención de regresar más tarde para devorarlo)."
         },
         "VvsepM0KsUTysu3I": {
-          "description": "El esqueleto de un humanoide sentado en un taburete plegable del campamento, agarrando un cuchillo y tenedor en sus manos óseas."
+          "description": "El esqueleto de un humanoide sentado en un taburete de campaña plegable, con un cuchillo y un tenedor aferrados en sus manos huesudas."
         },
         "p1ZAFox9Z6Klz70M": {
-          "description": "La cáscara desecada de un gnomo, en forma de telarañas gigantes."
+          "description": "Los restos desecados de un gnomo, envuelto en un capullo de telarañas gigantes."
         },
         "sYTbIrryP6EHw6e8": {
-          "description": "El cuerpo de un humano... desde la cintura para arriba. Las señales muestran que el explorador se arrastró una distancia considerable después de ser mordido por la mitad por un tiranosaurio. (Un fisco flamante encontrado en el cadáver lo identifica como Lord Onovan IV, de los Dales.)"
+          "description": "El cuerpo de un humano, de cintura para arriba. Hay señales de que el explorador se arrastró una distancia considerable después de que un tiranosaurio lo partiera por la mitad de un mordisco. (Un permiso del Puño Ardiente hallado en el cadáver lo identifica como lord Onovan IV, de los Valles)."
         },
         "vWe5fHoxYRaFOUts": {
-          "description": "El esqueleto de un elfo carbonizado dentro de un esqueleto de serpiente constrictor carbonizado. (Ambos fueron asesinados por un @UUID[Compendium.dnd5e.spells.Item.IyikgTEOTv701jgQ]{rayo de rayos} deletreo.)"
+          "description": "El esqueleto carbonizado de un elfo dentro del esqueleto, también carbonizado, de una serpiente constrictora. (Ambos murieron por un conjuro de @UUID[Compendium.dnd5e.spells.Item.IyikgTEOTv701jgQ]{relámpago})."
         },
         "y8uH1L1A6Um9VY5x": {
-          "description": "El cuerpo putrefacto de una rana gigante con la hoja de una espada corta hurgando por su espalda. (Si la rana es cortada abierta, el cuerpo parcialmente digerido de un medio de labranza se encuentra dentro.)"
+          "description": "El cuerpo putrefacto de una rana gigante con la hoja de una espada corta asomando por el lomo. (Al abrir la rana se encuentra en su interior el cuerpo parcialmente digerido de un mediano)."
         },
         "Ng2bZETzHisxk0Sd": {
-          "description": "Un tabaxi esparcido en el suelo, pero con sus extremidades y cabeza cortadas de su torso y crudamente cosidas de nuevo en el arreglo equivocado."
+          "description": "Un tabaxi tendido en el suelo con los brazos y las piernas extendidos. Le cortaron las extremidades y la cabeza, y se las cosieron de nuevo al torso de forma burda y en lugares incorrectos."
         },
         "PMaifUVFuNQGv1Ng": {
-          "description": "Un medio orco clavado en un enorme árbol por el cuerno roto de una triceratops."
+          "description": "Un semiorco clavado a un árbol enorme por un cuerno arrancado de un triceratops."
         },
         "NelLOdYEwpwpcPPo": {
-          "description": "Un gnomo, escupió sobre un hoyo de fuego quemado y sobrecocido, pero no comido. (Las armas y herramientas goblin están dispersas alrededor de las pistas velociraptor.)"
+          "description": "Un gnomo ensartado en un espetón sobre una hoguera apagada, completamente achicharrado, pero sin comer. (Hay armas y herramientas de goblin esparcidas entre huellas de velocirraptor)."
         },
         "qDOdtR9leB8mHUmy": {
-          "description": "Un humanoide sin cabeza, colgado boca abajo de un árbol y con seis lanzas goblin Batiri empujan simétricamente a través del cuerpo. (Era un Mago Rojo, juzgando por las túnicas. La cabeza no se encuentra en ninguna parte.)"
+          "description": "Un humanoide sin cabeza colgado boca abajo de un árbol, con seis lanzas de goblin batiri atravesando simétricamente su cuerpo. (A juzgar por la túnica, era un Mago Rojo. La cabeza no aparece por ninguna parte)."
         },
         "ixwfUGCWq4cNvQJU": {
-          "description": "Un elfo, equilibrado en una rama de árbol 40 pies por encima del suelo, brazos y piernas colgando hacia abajo. (Una nota presionada entre el cuerpo y la rama explica que el elfo subió al árbol para alejarse de un allosaurio merodeando y estaba demasiado aterrorizado para bajar.)"
+          "description": "Un elfo tendido en equilibrio sobre una rama a 40 pies del suelo, con brazos y piernas colgando. (Una nota atrapada entre el cuerpo y la rama explica que trepó para escapar de un alosaurio que rondaba cerca y que estaba demasiado aterrorizado para bajar)."
         },
         "p9ShmBJXmafdpLkM": {
-          "description": "El restos de un humano que llevaba un casco al estilo Flaming Fist, sus piernas rotas. (Sucumbió al arma de aliento de euforia de un dragón hada y se bajó de un acantilado. Un compañero trató de llevarlo de regreso a Fort Beluarian, pero el guerrero murió en el camino.)"
+          "description": "Los restos en descomposición de un humano con las piernas rotas y un casco del estilo del Puño Ardiente. (Sucumbió al aliento de euforia de un dragón feérico y cayó por un precipicio. Un compañero intentó llevarlo a Fuerte Beluarian, pero el guerrero murió por el camino)."
         },
         "5SeGRM26tTgUgYwp": {
-          "description": "Un enano con seis grandes agujeros perforando su armadura y su pecho. (Un estegosaurio la atrapó directamente con un desliz de su cola.)"
+          "description": "Una enana con seis grandes agujeros que atraviesan su armadura y su pecho. (Un estegosaurio le acertó de lleno con un coletazo)."
         }
       }
     },
     "dmgRanEncPortNya": {
-      "name": "Encuentros de Port Nyanzaru",
+      "name": "Encuentros en Puerto Nyanzaru",
       "results": {
         "B8TJQDl8dDnP7im7": {
-          "description": "<p>Un loro caca en la cabeza de un personaje al azar.</p>"
+          "description": "<p>A un personaje elegido al azar le cae una caca de loro en la cabeza.</p>"
         },
         "OsBW4qj20eTLsciJ": {
-          "description": "<p>Cerca del puerto, un @UUID[Actor.toaAnkylosaurus0]{ankylosaurus} que remolca barcos a través de los canales del almacén va en un alboroto y debe ser calmado, restringido, o muerto.</p>"
+          "description": "<p>Cerca del puerto, un @UUID[Actor.toaAnkylosaurus0]{anquilosaurio} que remolca barcos por los canales de los almacenes se desboca y hay que calmarlo, inmovilizarlo o matarlo.</p>"
         },
         "rbJBvYxMguM7b7eq": {
-          "description": "<p>Un mercader grita: “¡Alto! ¡Ladrón!” como un joven furtivo (@UUID[Actor.H6ajGPL3X6lzsQlc]{pleader}) pasa corriendo por encima de los personajes. Si el ladrón es atrapado, el comerciante agradecido puede presentar personajes a un príncipe mercante o darles otro favor.</p>"
+          "description": "<p>Un mercader grita: «¡Detente! ¡Al ladrón!», mientras un joven de aspecto furtivo (@UUID[Actor.H6ajGPL3X6lzsQlc]{plebeyo}) pasa a toda prisa al lado de los personajes. Si se atrapa al ladrón, el agradecido mercader puede presentar a los aventureros a un príncipe mercante o hacerles algún otro favor.</p>"
         },
         "FMhxeXiEZtqHgoEo": {
-          "description": "<p>Un marinero extranjero borracho (no armado) @UUID[Actor.MIbGBptGOW5OSlHY]{veterano}) está tratando en voz alta de elegir una pelea con tres locales @UUID[Actor.H6ajGPL3X6lzsQlc]{plebeyos}, que claramente no son rival para el lut. Si los personajes intervienen, los agradecidos locales se convierten en una fuente confiable de información sobre Port Nyanzaru, pero el marinero y sus compañeros emboscan a los personajes en otras partes de la ciudad más tarde.</p>"
+          "description": "<p>Un marinero extranjero borracho (@UUID[Actor.MIbGBptGOW5OSlHY]{veterano} sin armadura) está intentando provocar a gritos una pelea con tres @UUID[Actor.H6ajGPL3X6lzsQlc]{plebeyos} locales, que claramente no son rivales para el patán. Si los personajes intervienen, los agradecidos lugareños se convertirán en una fuente de información fiable sobre Puerto Nyanzaru, pero el marinero y sus compañeros de tripulación emboscarán a los aventureros más tarde en otro punto de la ciudad.</p>"
         },
         "dqQqiECuPOka2PLj": {
-          "description": "<p>Un mendigo (@UUID[Actor.H6ajGPL3X6lzsQlc]{pleader}) agarra un personaje por el brazo y grita: “¡El antiguo bajo la Ciudad Prohibida da a luz a un terrible nuevo dios! ¡Los hombres serpiente lo saben! ¡Ellos lo saben!” Luego él tropieza entre la multitud. Los transeúntes les dicen a los aventureros que ignoren al mendigo, y que sus predicciones están equivocadas la mayor parte del tiempo.</p>"
+          "description": "<p>Un mendigo (@UUID[Actor.H6ajGPL3X6lzsQlc]{plebeyo}) agarra del brazo a un personaje y grita: «¡El anciano bajo la Ciudad Prohibida da a luz a un nuevo dios terrible! ¡Los hombres serpiente lo saben! ¡Lo saben!». Luego se pierde tropezando entre la multitud. Los transeúntes les dicen a los aventureros que ignoren al mendigo, que sus profecías casi nunca aciertan.</p>"
         },
         "WEFnahMjCBzegU20": {
-          "description": "<p>Los cuernos de alarma declaran que los muertos vivientes están atacando la Garganta de Malar. Los mercenarios mantienen a los monstruos fuera de la ciudad, pero la gente está atrapada en el templo de Tymora y sitiada por [[/r 2d6]] @UUID[Actor.J6yWqkj0lotaRnTh]{zombies} y [[/r 2d6]] @UUID[Actor.pA11aGfCpX7OhuDH]{esqueletos} dirigida por un @UUID[Actor.bSM1EJptwzV1JhjA]{ghoul}. Si los personajes derrotan a los muertos vivientes, el templo los recompensa con 5 galones de @UUID[Compendium.dnd-tomb-annihilation.items.Item.toaTejMugFortBel]{tej} y a @UUID[Compendium.dnd5e.items.Item.ytlsBjYsZ7OBSEBs]{poción de curación}.</p>"
+          "description": "<p>Los cuernos alertan de que los muertos vivientes están atacando la Garganta de Malar. Los mercenarios mantienen a los monstruos fuera de la ciudad propiamente dicha, pero hay personas atrapadas en el templo de Tymora, sitiado por [[/r 2d6]] @UUID[Actor.J6yWqkj0lotaRnTh]{zombis} y [[/r 2d6]] @UUID[Actor.pA11aGfCpX7OhuDH]{esqueletos} liderados por un @UUID[Actor.bSM1EJptwzV1JhjA]{gul}. Si los personajes vencen a los muertos vivientes, el templo les recompensará con 5 galones de @UUID[Compendium.dnd-tomb-annihilation.items.Item.toaTejMugFortBel]{tej} y una @UUID[Compendium.dnd5e.items.Item.ytlsBjYsZ7OBSEBs]{poción de curación}.</p>"
         },
         "KUxEaOKBUy6X7Hic": {
-          "description": "<p>Los gritos de “¡Cuidado!” dan a un personaje una breve advertencia como un barril de agua, piedra de construcción u otro peso pesado se estrella. El carácter debe tener éxito en un [[/save dex 12 format=long]] o ser golpeado, tomando [[/damage 4d6 bludgeoning average]] daño. Cualquier personaje que tenga éxito en un [[/check perception 15 format=long]] mancha un disfraz @UUID[Actor.toaYuantiPureblo]{yuan-ti sangre pura} Escabullirse de la escena.</p>"
+          "description": "<p>Unos gritos de «¡Cuidado!» son la breve advertencia que recibe un aventurero cuando se precipita sobre él un barril de agua, una piedra de un edificio u otro objeto pesado. El personaje debe superar una [[/save dex 12 format=long]] o recibirá el impacto y sufrirá [[/damage 4d6 bludgeoning average]] de daño. Cualquier aventurero que supere una [[/check perception 15 format=long]] divisa a un @UUID[Actor.toaYuantiPureblo]{yuan-ti purasangre} disfrazado escabulléndose del lugar.</p>"
         },
         "qrpX40NcgB1m26O4": {
-          "description": "<p>A @UUID[Actor.s4zO6VOQ4fxzDNyB]{tabaxi junstrel} (ver @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{Apéndice D}) le pide a uno de los personajes una pieza de oro para que la estante por el juego, prometiendo devolverla. Si el personaje está de acuerdo, el tabaxi cumple su promesa al día siguiente, devolviendo una bolsa que contiene [[/award 10gp]].</p>"
+          "description": "<p>Una @UUID[Actor.s4zO6VOQ4fxzDNyB]{juglar tabaxi} (consulta el @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{apéndice D}) pide una pieza de oro a uno de los personajes para apostar, prometiendo devolvérsela. Si el aventurero acepta, la tabaxi cumple su promesa al día siguiente y le entrega una bolsa con [[/award 10gp]].</p>"
         },
         "iCh5g1Jh6aoHSVTz": {
-          "description": "<p>Un ladrón (@UUID[Compendium.dnd5e.monsters.Actor.13K3XK2A3wwxVKLD]{espía}) trata de recoger el bolsillo de uno de los personajes.</p>"
+          "description": "<p>Un ladrón (@UUID[Compendium.dnd5e.monsters.Actor.13K3XK2A3wwxVKLD]{espía}) intenta robarle del bolsillo a uno de los personajes.</p>"
         },
         "tKr73yDMKvQl3MM3": {
-          "description": "<p>Los caracteres se encuentran @UUID[Actor.LGOEeAdUizQZYcEy]{Volothamp \"Volo\" Geddarm} (véase el apéndice D), que está entregando una copia de su nuevo libro a uno de los príncipes mercaderes de la ciudad. Hay un 50% de probabilidades de que Volo esté borracho.</p>"
+          "description": "<p>Los aventureros se encuentran con @UUID[Actor.LGOEeAdUizQZYcEy]{Volothamp «Volo» Geddarm} (consulta el apéndice D), que está entregando una copia de su nuevo libro a uno de los príncipes mercantes de la ciudad. Hay un 50 por ciento de probabilidades de que Volo esté ebrio.</p>"
         },
         "lcp3kD5mSlb6cn1f": {
-          "description": "<p>Los personajes se encuentran con un PNJ con una búsqueda lateral (ver “@UUID[JournalEntry.toaCh1SideQuests]{Misiones paralelas}”).</p>"
+          "description": "<p>Los personajes se encuentran con un PNJ con una misión secundaria (consulta «@UUID[JournalEntry.toaCh1SideQuests]{Misiones secundarias}»).</p>"
         }
       }
     },
@@ -224,13 +224,13 @@
           "description": "Sombrero"
         },
         "n1UPBT9s891yXdxS": {
-          "description": "Polo de 10 pies"
+          "description": "Vara de 10 pies"
         },
         "I5M8PDLdhY5LdbmP": {
-          "description": "Palanca"
+          "description": "Palanqueta"
         },
         "0tpaOR5BkRI5OyD9": {
-          "description": "Linterna con capucha"
+          "description": "Linterna sorda"
         },
         "2gjUl8TtzikFhCXS": {
           "description": "Medallón"
@@ -239,13 +239,13 @@
           "description": "Pala"
         },
         "1IcbjohsBbEUFsXS": {
-          "description": "Almádena"
+          "description": "Mazo"
         },
         "BbUhJxKD8f6qOxzb": {
           "description": "Látigo"
         }
       },
-      "name": "Elemento de firma"
+      "name": "Objetos distintivos"
     },
     "dmgTreasureDrops": {
       "results": {
@@ -253,118 +253,118 @@
           "description": "Ninguno"
         },
         "h1Jedb7khyO5RPLq": {
-          "description": "Un mapa crudo dibujado sobre un trozo de piel de dinosaurio curtida, que muestra una ruta a Port Nyanzaru y la ubicación de un hito o guarida determinada aleatoriamente (250 gp)"
+          "description": "Un mapa rudimentario dibujado en un trozo de piel curtida de dinosaurio. Muestra una ruta a Puerto Nyanzaru y la ubicación de un lugar de referencia o una guarida determinados al azar (250 po)"
         },
         "4rNCHKYJ2caFk7wf": {
-          "description": "<p>[[/r 1d4]] gemas (10 gp cada una) en una bolsa pequeña</p>"
+          "description": "<p>[[/r 1d4]] gemas (10 po cada una) en una bolsita</p>"
         },
         "ZyET8DHXOoz4yiAy": {
-          "description": "Un anillo de malaquita incrustado con electrum (50 gp)"
+          "description": "Un anillo de malaquita con incrustaciones de electro (50 po)"
         },
         "jyU9VTJ7Uy6RzXdf": {
-          "description": "Vial vacío con corcho hecho de hueso de aarakocra grabado en el ala (5 gp)"
+          "description": "Un vial vacío con tapón de corcho, hecho con un hueso grabado del ala de un aarakocra (5 po)"
         },
         "4xUiwBMYRBO7ukaP": {
-          "description": "<p>Una putrefacción @UUID[Compendium.dnd5e.items.Item.4MtQKPn9qMWCFjDA]{aljaba} que contiene [[/r 1d10]] plateados @UUID[Compendium.dnd5e.items.Item.3c7JXOzsv55gqJS5]{flechas}</p>"
+          "description": "<p>Una @UUID[Compendium.dnd5e.items.Item.4MtQKPn9qMWCFjDA]{aljaba} podrida con [[/r 1d10]] @UUID[Compendium.dnd5e.items.Item.3c7JXOzsv55gqJS5]{flechas} bañadas en plata</p>"
         },
         "v9QJ0FRbsiKLSPbO": {
-          "description": "Una pepita de oro del tamaño del puño de una enana (50 gp)"
+          "description": "Una pepita de oro del tamaño del puño de un enano (50 po)"
         },
         "gD4qYY2pO6pdG1c4": {
-          "description": "<p>Un vial con tapón de @UUID[Compendium.dnd-tomb-annihilation.items.Item.toaSerpentVenom0]{veneno de serpiente} (véase el capítulo 8 de la Guía del Maestro de las Pañales)</p>"
+          "description": "<p>Un vial tapado de @UUID[Compendium.dnd-tomb-annihilation.items.Item.toaSerpentVenom0]{veneno de serpiente} (consulta el capítulo 8 de la Guía del Dungeon Master)</p>"
         },
         "HQHDqJ2J4lscuWHl": {
-          "description": "Una pipa de humo de marfil grabada (25 gp)"
+          "description": "Una pipa de fumar de marfil grabado (25 po)"
         },
         "jhvmk1fVuyfPCj9F": {
-          "description": "<p>Caso que contiene: [[/r 2d12]] bloques de incienso repelente a insectos</p>"
+          "description": "<p>Un estuche con [[/r 2d12]] bloques de incienso repelente de insectos</p>"
         },
         "ojBCnPHsFnxtE6aP": {
-          "description": "Un símbolo de hierro con el símbolo de una triceratops (el signo de la Sociedad Ytepka), que vale 50 gp en Port Nyanzaru"
+          "description": "Una ficha de hierro con el símbolo de un triceratops, distintivo de la Sociedad Ytepka, valorada en 50 po en Puerto Nyanzaru"
         },
         "GiBBsaAcNrdoEm08": {
           "description": "<p>@UUID[Compendium.dnd5e.items.Item.nXWevqtV6p484N59]{Poción de amistad animal}</p>"
         },
         "AuA0W0bzzYdOKzhh": {
-          "description": "<p>Poción de vitalidad (<em>Dungeon Master's Guide 2014</em>)</p>"
+          "description": "<p>Poción de vitalidad (<em>Guía del Dungeon Master de 2014</em>)</p>"
         },
         "F5IO6eT0sy5GYKRX": {
-          "description": "<p>@UUID[Compendium.dnd5e.items.Item.9GSfMg0VOA2b4uFN]{Desplazamiento ortográfico} (elige un conjuro de nivel 1)</p>"
+          "description": "<p>@UUID[Compendium.dnd5e.items.Item.9GSfMg0VOA2b4uFN]{Pergamino de conjuro} (elige un conjuro de nivel 1)</p>"
         },
         "weBviKjARKVY8eHy": {
-          "description": "<p>Un vial con tapón de @UUID[Compendium.dnd-tomb-annihilation.items.Item.toaWyvernPoison0]{wyvern veneno} (véase el capítulo 8 de la <em>Guía del Dungeon Master</em>)</p>"
+          "description": "<p>Un vial tapado de @UUID[Compendium.dnd-tomb-annihilation.items.Item.toaWyvernPoison0]{veneno de guiverno} (consulta el capítulo 8 de la <em>Guía del Dungeon Master</em>)</p>"
         },
         "ScXgzbbR8fqi6smo": {
-          "description": "Un cuchillo de obsidiana (25 gp)"
+          "description": "Un cuchillo de obsidiana (25 po)"
         },
         "E6r3wmiS5NveOgtf": {
-          "description": "Tubo de madera con tapón que contiene piedras preciosas 1d4 (50 gp cada una)"
+          "description": "Un tubo de madera con tapón que contiene 1d4 gemas (50 po cada una)"
         },
         "Hr0tChuePVBMXB7p": {
-          "description": "Un pequeño orbe de ónice con patrones de laberinto tallados en su superficie (75 gp), utilizable como un enfoque arcano o druida"
+          "description": "Un pequeño orbe de ónice con laberintos tallados en la superficie (75 po), que puede utilizarse como canalizador arcano o druídico"
         },
         "kuUh4fPxZGm4c7oE": {
-          "description": "Máscara de goblin Batiri de madera pintada, engastada con nueve gemas (10 gp cada una)"
+          "description": "Una máscara de goblin batiri de madera pintada con nueve gemas engastadas (10 po cada una)"
         },
         "NVeEZmG36djqqvcE": {
-          "description": "<p>A @UUID[Compendium.dnd5e.items.Item.WCafDVKITxwnlf2x]{Spyglass} (1.000 gp)</p>"
+          "description": "<p>Un @UUID[Compendium.dnd5e.items.Item.WCafDVKITxwnlf2x]{catalejo} (1.000 po)</p>"
         },
         "DRfGnwaDgonDG7OQ": {
-          "description": "<p>A @UUID[Compendium.dnd5e.items.Item.qBydtUUIkv520DT7]{laúd} (35 gp) con una cuerda rota</p>"
+          "description": "<p>Un @UUID[Compendium.dnd5e.items.Item.qBydtUUIkv520DT7]{laúd} (35 po) con una cuerda rota</p>"
         },
         "U8tlmXRqBXttmx02": {
-          "description": "<p>Un conjunto de @UUID[Compendium.dnd5e.items.Item.woWZ1sO5IUVGzo58]{Herramientas para ladrones} (25 gp)</p>"
+          "description": "<p>Un juego de @UUID[Compendium.dnd5e.items.Item.woWZ1sO5IUVGzo58]{herramientas de ladrón} (25 po)</p>"
         },
         "E5OdC2Jg7Ex2WKQ7": {
-          "description": "<p>Un excelente @UUID[Compendium.dnd5e.items.Item.xwUWrV15s9jLnmfZ]{bloqueo} (50 gp) que requiere un éxito [[/check dex 20 format=long]] CD 20 Dexterity check para elegir usando @UUID[Compendium.dnd5e.items.Item.woWZ1sO5IUVGzo58]{Herramientas para ladrones} (falta la llave de la cerradura)</p>"
+          "description": "<p>Una @UUID[Compendium.dnd5e.items.Item.xwUWrV15s9jLnmfZ]{cerradura} excelente (50 po) que requiere superar una [[/check dex 20 format=long]] de CD 20 para forzarla con @UUID[Compendium.dnd5e.items.Item.woWZ1sO5IUVGzo58]{herramientas de ladrón} (falta la llave)</p>"
         },
         "g5mPN42XOIieD2os": {
-          "description": "<p>Jarrón de ungüento de Keoghtom (<em>Dungeon Master's Guide 2014</em>)</p>"
+          "description": "<p>Un bote de ungüento de Keoghtom (<em>Guía del Dungeon Master de 2014</em>)</p>"
         },
         "WEZxzBOBB0xoEFVG": {
-          "description": "<p>@UUID[Compendium.dnd5e.items.Item.t7GfyRp3dB3lqS9i]{Cuerno de explosión}</p>"
+          "description": "<p>@UUID[Compendium.dnd5e.items.Item.t7GfyRp3dB3lqS9i]{Cuerno de estallido}</p>"
         },
         "POT3kqvdUgT42LRS": {
           "description": "<p>@UUID[Compendium.dnd5e.items.Item.VQ6NWjWV37wiB29O]{Varita de secretos}</p>"
         }
       },
-      "name": "Gotas de tesoro"
+      "name": "Tesoros obtenidos"
     },
     "grno3EHdKxkf3H37": {
-      "name": "Descubrimientos de jardín",
+      "name": "Descubrimientos en el jardín",
       "results": {
         "mXSd23Mv8kI0UPSe": {
-          "description": "<p>@UUID[Actor.toaEncAlmiraj000]{1d4 almiraj} (ver @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{Apéndice D})</p>"
+          "description": "<p>@UUID[Actor.toaEncAlmiraj000]{1d4 almirajes} (consulta el @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{apéndice D})</p>"
         },
         "jDPZFD6JeNK2oXup": {
-          "description": "<p>1 @UUID[Actor.vqFiCfgJR15hheQk]{Viña asesina.} (ver @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{Apéndice D})</p>"
+          "description": "<p>1 @UUID[Actor.vqFiCfgJR15hheQk]{enredadera asesina} (consulta el @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{apéndice D})</p>"
         },
         "7ldsDSFjfexGb3M6": {
-          "description": "<p>1 @UUID[Actor.WZBjPQ3zCiFnEJeC]{chwinga} (ver @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{Apéndice D}) escondido en una flor</p>"
+          "description": "<p>1 @UUID[Actor.WZBjPQ3zCiFnEJeC]{chwinga} (consulta el @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{apéndice D}) escondida en una flor</p>"
         },
         "LpbOoreAsrV6P4NV": {
-          "description": "<p>[[/r 1d4]] @UUID[Actor.J9d9hKPQkl5L8nSN]{monos voladores} (ver @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{Apéndice D}) encaramado en un árbol. Los monos juguetonamente lanzan danzando fruta de mono (ver @UUID[JournalEntry.toaAppCDiscoveri.JournalEntryPage.gwfMk4Y3JbM7WKFo]{apéndice C}) en caracteres cercanos. Vuelan si son atacados.</p>"
+          "description": "<p>[[/r 1d4]] @UUID[Actor.J9d9hKPQkl5L8nSN]{monos voladores} (consulta el @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{apéndice D}) posados en un árbol. Los monos lanzan juguetonamente fruta del mono bailongo (consulta el @UUID[JournalEntry.toaAppCDiscoveri.JournalEntryPage.gwfMk4Y3JbM7WKFo]{apéndice C}) a los personajes cercanos. Si los atacan, se alejan volando.</p>"
         },
         "fMfAJW31zIwTzzcq": {
-          "description": "<p>[[/r 1d4]] @UUID[Actor.pKmSv370H6r3ITem]{jaculis} (ver @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{Apéndice D})</p>"
+          "description": "<p>[[/r 1d4]] @UUID[Actor.pKmSv370H6r3ITem]{jaculis} (consulta el @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{apéndice D})</p>"
         },
         "p4qN1MMSUNNF6QL2": {
-          "description": "Arbusto de menga con [[/r 2d6]] onzas de @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafMengaLeave]{hojas} (ver @UUID[JournalEntry.toaAppCDiscoveri.JournalEntryPage.gwfMk4Y3JbM7WKFo]{apéndice C})"
+          "description": "Arbusto de menga con [[/r 2d6]] onzas de @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafMengaLeave]{hojas} (consulta el @UUID[JournalEntry.toaAppCDiscoveri.JournalEntryPage.gwfMk4Y3JbM7WKFo]{apéndice C})"
         },
         "9u9QmoDiK8oha5Z2": {
-          "description": "[[/r 1d4]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafRyathRoot0]{raíz riath} (ver @UUID[JournalEntry.toaAppCDiscoveri.JournalEntryPage.gwfMk4Y3JbM7WKFo]{apéndice C})"
+          "description": "[[/r 1d4]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafRyathRoot0]{raíces de ryath} (consulta el @UUID[JournalEntry.toaAppCDiscoveri.JournalEntryPage.gwfMk4Y3JbM7WKFo]{apéndice C})"
         },
         "HirNuyBeEmvomwXB": {
-          "description": "[[/r 4d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafSindaBerri]{bayas sinda} crecer en un arbusto (ver @UUID[JournalEntry.toaAppCDiscoveri.JournalEntryPage.gwfMk4Y3JbM7WKFo]{apéndice C})"
+          "description": "[[/r 4d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafSindaBerri]{bayas de sinda} que crecen en un arbusto (consulta el @UUID[JournalEntry.toaAppCDiscoveri.JournalEntryPage.gwfMk4Y3JbM7WKFo]{apéndice C})"
         },
         "uuGH6SvZw1CKJqy4": {
-          "description": "[[/r 1d4]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafWildroot00]{raíces silvestres} (ver @UUID[JournalEntry.toaAppCDiscoveri.JournalEntryPage.gwfMk4Y3JbM7WKFo]{apéndice C})"
+          "description": "[[/r 1d4]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafWildroot00]{raíces silvestres} (consulta el @UUID[JournalEntry.toaAppCDiscoveri.JournalEntryPage.gwfMk4Y3JbM7WKFo]{apéndice C})"
         },
         "DCYikFuqHtOQ6HtC": {
-          "description": "@UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafYahcha0000]{Escarabajo Yahcha} (ver @UUID[JournalEntry.toaAppCDiscoveri.JournalEntryPage.gwfMk4Y3JbM7WKFo]{apéndice C})"
+          "description": "@UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafYahcha0000]{Escarabajo yahcha} (consulta el @UUID[JournalEntry.toaAppCDiscoveri.JournalEntryPage.gwfMk4Y3JbM7WKFo]{apéndice C})"
         },
         "TEebIZxaUflgujIo": {
-          "description": "<p>El cadáver podrido de un mago humano que fue estrangulado hasta la muerte por una vid asesina. Una búsqueda del cadáver produce un @UUID[Compendium.dnd5e.items.Item.UOE8RGOpgv2oWIvM]{paquete de estudiosos}, una bolsa que contiene 15 gp, y un bote plegable. Este descubrimiento sólo se puede hacer una vez. Si este resultado aparece de nuevo, vuelva a rodar sobre la mesa.</p>"
+          "description": "<p>El cadáver en descomposición de un mago humano que murió estrangulado por una enredadera asesina. Al registrarlo se encuentra un @UUID[Compendium.dnd5e.items.Item.UOE8RGOpgv2oWIvM]{paquete de erudito}, una bolsa con 15 po y un bote plegable. Este descubrimiento solo puede hacerse una vez. Si vuelve a salir este resultado, repite la tirada en la tabla.</p>"
         }
       }
     },
@@ -383,7 +383,7 @@
           "description": "Elfo"
         },
         "as6tiVymBr5EUdiS": {
-          "description": "Duende"
+          "description": "Goblin"
         },
         "aBYQS4UGbO6tEt8R": {
           "description": "Mediano"
@@ -392,71 +392,71 @@
           "description": "Humano"
         },
         "SZe3q54AtZ1voPoc": {
-          "description": "Lagartijas"
+          "description": "Hombre lagarto"
         }
       },
       "name": "Cultura adoptada"
     },
     "toaAppBExplorers": {
-      "name": "Situación del grupo Explorer",
+      "name": "Situación del grupo de exploradores",
       "results": {
         "REF5faat5rZEn3KZ": {
           "description": "<p>Los exploradores están perdidos y hambrientos.</p>"
         },
         "EsPZq4kttzwdxIG7": {
-          "description": "<p>Los exploradores están en buena forma, pero son cazados activamente por firenewts, ghouls, goblins, o grungs (ver la entrada apropiada en este apéndice).</p>"
+          "description": "<p>Los exploradores están en buenas condiciones, pero los persiguen salamandras flamígeras, gules, goblins o grungs (consulta el encuentro correspondiente en este apéndice).</p>"
         },
         "OvACEIdPHAhmuqvM": {
-          "description": "<p>Los exploradores están sanos y se dirigen hacia el punto de referencia más cercano, con la intención de explorarlo.</p>"
+          "description": "<p>Los exploradores gozan de buena salud y se dirigen al lugar de referencia más cercano con intención de explorarlo.</p>"
         },
         "AYkThamF5RGuc2vn": {
-          "description": "<p>Los exploradores están sanos y regresan a Port Nyanzaru para descansar y abastecerse.</p>"
+          "description": "<p>Los exploradores gozan de buena salud y regresan a Puerto Nyanzaru para descansar y reabastecerse.</p>"
         }
       }
     },
     "toaBond000000000": {
-      "name": "Bond (Antropólogo)",
+      "name": "Vínculos (antropólogo)",
       "results": {
         "QVUBzECiu4pnG1VN": {
-          "description": "Mi mentor me dio un diario lleno de tradición y sabiduría. Perderlo me devastaría."
+          "description": "Mi mentor me dio un diario lleno de saber y sabiduría. Perderlo me destrozaría."
         },
         "M5eN1XA3LBRZKYRl": {
-          "description": "Habiendo vivido entre la gente de una tribu o clan primitivo, anhelo regresar y ver cómo les va."
+          "description": "Viví entre las gentes de una tribu o clan primitivo y anhelo volver para saber cómo les va."
         },
         "PgonYQBoxChwTtAZ": {
-          "description": "Hace años, la tragedia golpeó a los miembros de una sociedad aislada que me hice amigo, y los honraré."
+          "description": "Hace años, una tragedia golpeó a una sociedad aislada con la que entablé amistad. Honraré a sus miembros."
         },
         "39M64iClaF7Puzos": {
-          "description": "Quiero aprender más sobre una cultura humanoides en particular que me fascina."
+          "description": "Quiero aprender más sobre una cultura humanoide que me fascina."
         },
         "yZb99e4Mx4Te2vK0": {
           "description": "Busco vengar a un clan, tribu, reino o imperio que fue aniquilado."
         },
         "iBz3nbe23BpnkXl0": {
-          "description": "Tengo una baratija que creo que es la clave para encontrar una sociedad perdida desde hace mucho tiempo."
+          "description": "Tengo una baratija que creo que es la clave para encontrar una sociedad perdida hace mucho."
         }
       }
     },
     "toaBond100000000": {
-      "name": "Bond (Arqueólogo)",
+      "name": "Vínculos (arqueólogo)",
       "results": {
         "5z2GvnStcAtrD4Q6": {
-          "description": "Desde que era niño, he escuchado historias sobre una ciudad perdida. Mi objetivo es encontrarlo, aprender sus secretos, y ganar mi lugar en los libros de historia."
+          "description": "Desde niño oigo historias sobre una ciudad perdida. Quiero encontrarla, conocer sus secretos y ganarme un lugar en los libros de historia."
         },
         "0pm9stSCUT52A4LA": {
-          "description": "Quiero encontrar a mi mentor, que desapareció en una expedición hace algún tiempo."
+          "description": "Quiero encontrar a mi mentor, que desapareció en una expedición hace tiempo."
         },
         "9wFIWWGrMlcNcJ4p": {
-          "description": "Tengo un rival amistoso. Sólo uno de nosotros puede ser el mejor, y mi objetivo es demostrar que soy yo."
+          "description": "Tengo un rival con quien me llevo bien. Solo uno puede ser el mejor y demostraré que soy yo."
         },
         "chmE206uBluXTHnK": {
-          "description": "No venderé un objeto de arte u otro tesoro que tenga significado histórico o sea único en su género."
+          "description": "No venderé un objeto de arte o tesoro que tenga importancia histórica o sea único."
         },
         "TlgOzowJ0m5JSe1Q": {
-          "description": "Estoy secretamente enamorado del mecenas rico que patrocina mis hazañas arqueológicas."
+          "description": "Amo en secreto al acaudalado mecenas que financia mis aventuras arqueológicas."
         },
         "9TT94i9x9o5XEKCA": {
-          "description": "Espero dar prestigio a una biblioteca, un museo o una universidad."
+          "description": "Espero dar prestigio a una biblioteca, museo o universidad."
         }
       }
     },
@@ -467,7 +467,7 @@
           "description": "<p>@UUID[Actor.toaEncGiantWasps]{1d6 avispas gigantes}</p>"
         },
         "W4pGzlRpJOFUDuvj": {
-          "description": "<p>@UUID[Actor.toaEncStirges000]{2d6 agitados}</p>"
+          "description": "<p>@UUID[Actor.toaEncStirges000]{2d6 estirges}</p>"
         },
         "SxhZOqboijxEDxNU": {
           "description": "<p>@UUID[Actor.toaSwarmsofPoiso]{1d3 enjambres de serpientes venenosas}</p>"
@@ -475,25 +475,25 @@
       }
     },
     "toaCh3PlantDisco": {
-      "name": "Descubrimiento de plantas",
+      "name": "Plantas raras",
       "results": {
         "krBkzv3RJnGeSWtJ": {
-          "description": "<p>[[/r 2d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafDancingMon]{Frutas de mono bailando} colgando de un árbol</p>"
+          "description": "<p>[[/r 2d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafDancingMon]{frutas del mono bailongo} que cuelgan de un árbol</p>"
         },
         "mwmCRtxYhQutAuBN": {
-          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafMengaLeave]{Menga} arbusto con [[/r 1d6]] onzas de hojas</p>"
+          "description": "<p>Arbusto de @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafMengaLeave]{menga} con [[/r 1d6]] onzas de hojas</p>"
         },
         "Nyl9jKJ6YDu4O6DS": {
-          "description": "<p>[[/r 1d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafRyathRoot0]{raíces de riath} crecer en el suelo</p>"
+          "description": "<p>[[/r 1d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafRyathRoot0]{raíces de ryath} que crecen en el suelo</p>"
         },
         "d0ZITySz4SnoG9du": {
-          "description": "<p>[[/r 4d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafSindaBerri]{bayas sinda} creciendo en un arbusto</p>"
+          "description": "<p>[[/r 4d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafSindaBerri]{bayas de sinda} que crecen en un arbusto</p>"
         },
         "w34yApkPOFvJ6bhY": {
           "description": "<p>[[/r 1d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafWildroot00]{raíces silvestres}</p>"
         },
         "SGiXB7NEIsroSNfS": {
-          "description": "<p>[[/r 2d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafZabou00000]{zabou} creciendo en el suelo</p>"
+          "description": "<p>[[/r 2d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafZabou00000]{zabous} que crecen en el suelo</p>"
         }
       }
     },
@@ -503,19 +503,19 @@
           "description": "—"
         },
         "H2j24xJkXnWFk9vV": {
-          "description": "@UUID[Compendium.dnd-tomb-annihilation.actors.Actor.vqFiCfgJR15hheQk]{Enredaderas de Asesino}"
+          "description": "@UUID[Compendium.dnd-tomb-annihilation.actors.Actor.vqFiCfgJR15hheQk]{Enredaderas asesinas}"
         },
         "poq33ecj5iYecDQv": {
-          "description": "@UUID[JournalEntry.toaCh3DwellersOf.JournalEntryPage.vqcH84rrgdpHCuF9]{Neblina azul} (y rodar de nuevo)"
+          "description": "@UUID[JournalEntry.toaCh3DwellersOf.JournalEntryPage.vqcH84rrgdpHCuF9]{Niebla del mono loco} (y tira otra vez)"
         },
         "gvWQhpwcnGCoDZnE": {
-          "description": "@UUID[JournalEntry.toaCh3DwellersOf.JournalEntryPage.848UhwKYgATO0ub9]{Suelo de revestimiento} (y rodar de nuevo)"
+          "description": "@UUID[JournalEntry.toaCh3DwellersOf.JournalEntryPage.848UhwKYgATO0ub9]{Suelo que se derrumba} (y tira otra vez)"
         },
         "E4aoa8gajUtK1oBY": {
           "description": "@UUID[JournalEntry.toaCh3DwellersOf.JournalEntryPage.j35jipa9nj2jQvQC]{Nido}"
         },
         "jiTbc7JGQFeqIPKO": {
-          "description": "@UUID[JournalEntry.toaCh3DwellersOf.JournalEntryPage.j35jipa9nj2jQvQC]{Descubrimiento de plantas}"
+          "description": "@UUID[JournalEntry.toaCh3DwellersOf.JournalEntryPage.j35jipa9nj2jQvQC]{Plantas raras}"
         },
         "wrRUPSjzAWeY2Lw5": {
           "description": "@UUID[JournalEntry.toaCh3DwellersOf.JournalEntryPage.w7dmIQXCT9ITXsIF]{Tesoro}"
@@ -530,22 +530,22 @@
       "name": "Tareas de los trabajadores",
       "results": {
         "5qev9bIDiGTFK5rN": {
-          "description": "<p><strong>Trabajo</strong>: Muck fuera de la pluma de dinosaurio en @UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.YhkhTFh1r56C7hNb]{zona 2}. </p><p><strong>Desarrollo</strong>: El personaje aprende que Nahth (@UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.3km4oa3DrO3pBcBq]{zona 1}) es susceptible al soborno.</p>"
+          "description": "<p><strong>Tarea</strong>: Limpiar el estiércol del corral de dinosaurios de la @UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.YhkhTFh1r56C7hNb]{zona 2}.</p><p><strong>Desarrollo</strong>: El personaje descubre que Nahth (@UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.3km4oa3DrO3pBcBq]{zona 1}) acepta sobornos.</p>"
         },
         "5SZ64RpiJXxxoX4e": {
-          "description": "<p><strong>Trabajo</strong>: Ayudar a Azi Mas a reorganizar el contenido del almacén (@UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.riNQGMPil8ff5PZa]{zona 13}). </p><p><strong>Desarrollo</strong>: Azi Mas comparte sus sospechas de que Fenthaza está planeando un golpe de estado.</p>"
+          "description": "<p><strong>Tarea</strong>: Ayudar a Azi Mas a reorganizar el almacén (@UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.riNQGMPil8ff5PZa]{zona 13}).</p><p><strong>Desarrollo</strong>: Azi Mas comparte sus sospechas de que Fenthaza prepara un golpe de Estado.</p>"
         },
         "fohitJjqRCJyJPUR": {
-          "description": "<p><strong>Trabajo</strong>: Assist Xopal en la destilería venenosa (@UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.DEhBfZqITVxLswfx]{área 14}). </p><p><strong>Desarrollo</strong>: Xopal envía el personaje, sin escolta, para recoger hongos de @UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.R8t9f65pebYKa9Zy]{área 22}.</p>"
+          "description": "<p><strong>Tarea</strong>: Ayudar a Xopal en la destilería de veneno (@UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.DEhBfZqITVxLswfx]{zona 14}).</p><p><strong>Desarrollo</strong>: Xopal envía al personaje sin escolta a recoger hongos en la @UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.R8t9f65pebYKa9Zy]{zona 22}.</p>"
         },
         "TS2Ghy98qMLqrRp5": {
-          "description": "<p><strong>Trabajo</strong>: Limpiar el yuan-ti bañándose en @UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.AaMzcqaWOWQvks7j]{zona 16}. </p><p><strong>Desarrollo</strong>: El personaje se entera de que Fenthaza tuvo un sueño profético sobre la Corona del Opalo Negro, un tesoro que los yuan-ti creen que tiene el poder de dar paso a Dendar la Serpiente Nocturna.</p>"
+          "description": "<p><strong>Tarea</strong>: Frotar a los yuan-tis mientras se bañan en la @UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.AaMzcqaWOWQvks7j]{zona 16}.</p><p><strong>Desarrollo</strong>: El personaje descubre que Fenthaza tuvo un sueño profético sobre la Corona del Ópalo Negro, un tesoro al que los yuan-tis atribuyen el poder de liberar a Dendar, la Serpiente Nocturna.</p>"
         },
         "5yyynCtkABorqqUu": {
-          "description": "<p><strong>Trabajo</strong>: Limpiar los nidos de yuan-ti en @UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.jD1v2Vcm6kNlf1Zw]{zona 18}. </p><p><strong>Desarrollo</strong>: El personaje escucha un susurro yuan-ti a otro, en común, “Pluma blanca, máscara negra.” Ver @UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.eZ4g0Yd4iVIDNq8d]{zona 4} por el significado de estas palabras.</p>"
+          "description": "<p><strong>Tarea</strong>: Limpiar los cubiles yuan-tis de la @UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.jD1v2Vcm6kNlf1Zw]{zona 18}.</p><p><strong>Desarrollo</strong>: El personaje oye a un yuan-ti susurrar a otro en común: «Pluma blanca, máscara negra». Consulta la @UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.eZ4g0Yd4iVIDNq8d]{zona 4} para conocer el significado de estas palabras.</p>"
         },
         "97OaBBYjvg8tfOzb": {
-          "description": "<p><strong>Trabajo</strong>: Alimentar a un prisionero muerto a la hidra en @UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.YFldR87cmsBlywlk]{zona 21}. </p><p><strong>Desarrollo</strong>: Los personajes encuentran un pergamino doblado escondido en el prisionero muerto. Por un lado, lleva un crudo mapa del templo.</p>"
+          "description": "<p><strong>Tarea</strong>: Dar un prisionero muerto como alimento a la hidra de la @UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.YFldR87cmsBlywlk]{zona 21}.</p><p><strong>Desarrollo</strong>: Los personajes encuentran un trozo de pergamino doblado y oculto entre las pertenencias del muerto. En una cara hay un tosco mapa del templo.</p>"
         }
       }
     },
@@ -553,106 +553,106 @@
       "name": "Refuerzos del templo",
       "results": {
         "IF5Tr9b9XQI2uw1a": {
-          "description": "<p>[[/r 1d4]] @UUID[Actor.toaYuantiPureblo]{yuan-ti sangres puras} escoltando un tipo 3 @UUID[Actor.toaYuantiMal3000]{yuan-ti malison}.</p>"
+          "description": "<p>[[/r 1d4]] @UUID[Actor.toaYuantiPureblo]{yuan-tis purasangre} escoltan a un @UUID[Actor.toaYuantiMal3000]{corrupto yuan-ti} de tipo 3.</p>"
         },
         "caOhlYdCjOCH6AlB": {
-          "description": "<p>[[/r 1d4 + 1]] @UUID[Actor.toaYuantiPureblo]{yuan-ti sangres puras} escolta [[/r 2d4]] cautivos (@UUID[Actor.H6ajGPL3X6lzsQlc]{masculino} y @UUID[Actor.Sgu1aJ7w12VFLTTw]{hembras} Chultán común humano de cualquier alineación).</p>"
+          "description": "<p>[[/r 1d4 + 1]] @UUID[Actor.toaYuantiPureblo]{yuan-tis purasangre} escoltan a [[/r 2d4]] cautivos, plebeyos humanos chultanos de cualquier alineamiento (@UUID[Actor.H6ajGPL3X6lzsQlc]{hombres} y @UUID[Actor.Sgu1aJ7w12VFLTTw]{mujeres}).</p>"
         },
         "S8VLYSHtkbzrLr7p": {
-          "description": "<p>[[/r 2d4]] @UUID[Actor.toaYuantiPureblo]{yuan-ti sangres puras} regresar al templo de una expedición o patrulla.</p>"
+          "description": "<p>[[/r 2d4]] @UUID[Actor.toaYuantiPureblo]{yuan-tis purasangre} regresan al templo de una expedición o patrulla.</p>"
         },
         "wdJXo0xiI3irr5XD": {
-          "description": "<p>4 @UUID[Actor.toaYuanTiBroodgu]{Yuan-ti broodguards} (ver @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{Apéndice D}) que lleven un tipo 2 @UUID[Actor.toaYuantiMal2000]{yuan-ti malison} en una camada.</p>"
+          "description": "<p>4 @UUID[Actor.toaYuanTiBroodgu]{guardaestirpes yuan-tis} (consulta el @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{apéndice D}) llevan en una camilla a un @UUID[Actor.toaYuantiMal2000]{corrupto yuan-ti} de tipo 2.</p>"
         },
         "8p2Ws6PvcDBgUzrp": {
-          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.tables.RollTable.toaCh4YuantiMali]{Tipo Yuan-ti malison} regresando al templo.</p>"
+          "description": "<p>Un corrupto yuan-ti regresa al templo; determina su tipo con la tabla @UUID[Compendium.dnd-tomb-annihilation.tables.RollTable.toaCh4YuantiMali]{Tipo de corrupto yuan-ti que regresa}.</p>"
         },
         "KPz61OVMmXUrs5Jb": {
-          "description": "<p>1 @UUID[Actor.toaYuantiAbomina]{abominación yuan-ti} llegar al templo para desafiar @UUID[Actor.zwk4UdGbwhWumFqp]{Ras Nsi’s} liderazgo. Si @UUID[Actor.toaFenthaza00000]{Fenthaza} está viva, ella utiliza su influencia para organizar un enfrentamiento entre Ras Nsi y la abominación en el fane (@UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.jDapyFVU0c9UoIBn]{zona 9}). Si Fenthaza está incapacitado o muerto, la abominación acosa su camino a la sala del trono de Ras Nsi (@UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.levHlyIkCVBQVoEj]{área 11}), donde se mata.</p>"
+          "description": "<p>1 @UUID[Actor.toaYuantiAbomina]{abominación yuan-ti} llega al templo para desafiar el liderazgo de @UUID[Actor.zwk4UdGbwhWumFqp]{Ras Nsi}. Si @UUID[Actor.toaFenthaza00000]{Fenthaza} está viva, usa su influencia para organizar un enfrentamiento entre ambos en el Fano (@UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.jDapyFVU0c9UoIBn]{zona 9}). Si está incapacitada o muerta, la abominación se abre paso por la fuerza hasta la sala del trono de Ras Nsi (@UUID[JournalEntry.toaCh4Locationsi.JournalEntryPage.levHlyIkCVBQVoEj]{zona 11}), donde la matan.</p>"
         },
         "ZV5Xl3TlU1HPMaYl": {
-          "description": "<p>[[/r 2d4]] @UUID[Compendium.dnd5e.monsters.Actor.tYfQIxCJT0WaaKmc]{fanáticos del culto} (NE humanos y mujeres de etnias mixtas) buscando una audiencia con Ras Nsi, para prometer su devoción a Dendar la Serpiente Nocturna. Los fanáticos del culto traen tributo en forma de tesoro (reunión una vez en el tesoro: Desafío 0-4 tabla en el capítulo 7 de la <em>Guía del Dungeon Master</em>).</p>"
+          "description": "<p>[[/r 2d4]] @UUID[Compendium.dnd5e.monsters.Actor.tYfQIxCJT0WaaKmc]{sectarios fanáticos}, hombres y mujeres humanos de distintas etnias y alineamiento neutral malvado, buscan audiencia con Ras Nsi para jurar devoción a Dendar, la Serpiente Nocturna. Traen tesoros como tributo; tira una vez en la tabla Tesoro acumulado: Desafío 0–4 del capítulo 7 de la <em>Guía del Dungeon Master</em>.</p>"
         },
         "Z9mI61d4zAr5oX1B": {
-          "description": "<p>[[/r 2d6]] @UUID[Actor.ogAVSIzos9mQ3kqC]{guerreros tribales} (N hombres y mujeres humanos Chultan) entregando tributo a Ras Nsi. Este homenaje consiste en comida, bebida y tesoro (recorra una vez en el tesoro: Desafío 0-4 tabla en el capítulo 7 de la <em>Guía del Dungeon Master</em>).</p>"
+          "description": "<p>[[/r 2d6]] @UUID[Actor.ogAVSIzos9mQ3kqC]{guerreros tribales}, hombres y mujeres humanos chultanos de alineamiento neutral, entregan un tributo de comida, bebida y tesoros a Ras Nsi. Tira una vez en la tabla Tesoro acumulado: Desafío 0–4 del capítulo 7 de la <em>Guía del Dungeon Master</em>.</p>"
         }
       }
     },
     "toaCh4YuantiMali": {
-      "name": "Cantidad de yuan-tis malison que regresan",
+      "name": "Tipo de corrupto yuan-ti que regresa",
       "results": {
         "uBi5QwS0cbwd972a": {
-          "description": "<p>@UUID[Actor.toaYuantiMal2000]{Yuan-ti malison (tipo 1)}</p>"
+          "description": "<p>@UUID[Actor.toaYuantiMal2000]{Corrupto yuan-ti (tipo 1)}</p>"
         },
         "EAbhZAvy8sey6EAc": {
-          "description": "<p>@UUID[Actor.toaYuantiMal2000]{Yuan-ti malison (tipo 2)}</p>"
+          "description": "<p>@UUID[Actor.toaYuantiMal2000]{Corrupto yuan-ti (tipo 2)}</p>"
         },
         "w6prxBRvROPSRmvW": {
-          "description": "<p>@UUID[Actor.toaYuantiMal3000]{Yuan-ti malison (tipo 3)}</p>"
+          "description": "<p>@UUID[Actor.toaYuantiMal3000]{Corrupto yuan-ti (tipo 3)}</p>"
         }
       }
     },
     "toaCh5ArmillaryS": {
-      "name": "Conjunción de Esfera Armilar",
+      "name": "Conjunciones en la esfera armilar",
       "results": {
         "WXRPVLt54o3xdynv": {
-          "description": "<p>La esfera armilar y cualquier criatura dentro de ella desaparecen. En última instancia, el DM decide dónde terminan, si es que en algún lugar. Las posibilidades incluyen Mechanus, el Vast Pantano en Oerth, Mount Nevermind en Krynn, un desierto en Athas, Victorian London en la Tierra, o el sol.</p>"
+          "description": "<p>La esfera armilar y las criaturas de su interior desaparecen. El DM decide dónde acaban, si es que llegan a algún sitio. Entre los destinos posibles están Mechanus, el Gran Pantano de Oerth, el monte Noimporta de Krynn, un desierto de Athas, el Londres victoriano de la Tierra o el sol.</p>"
         },
         "wZtgLvCgUkVpWfMm": {
-          "description": "<p>La criatura sentada en la silla armilar es tocada por una entidad desconocida y sufre un cambio radical de personalidad. Trabaje con el jugador para determinar un cambio apropiado.</p>"
+          "description": "<p>Una entidad desconocida toca a la criatura sentada en la silla y provoca un cambio radical en su personalidad. Acuerda con el jugador un cambio apropiado.</p>"
         },
         "GQFNx3gCACHmZqBf": {
-          "description": "<p>A @UUID[Compendium.dnd5e.spells.Item.LkvI11Uue774QBKZ]{cloudkill} el conjuro se lanza dentro del globo.</p>"
+          "description": "<p>Se lanza @UUID[Compendium.dnd5e.spells.Item.LkvI11Uue774QBKZ]{nube aniquiladora} dentro del globo.</p>"
         },
         "dbZeu6SWNLK13pL6": {
-          "description": "<p>El orbe en forma de sol se abre, derramando [[/award 5000gp]] en el suelo.</p>"
+          "description": "<p>El orbe solar se abre y derrama [[/award 5000gp]] sobre el suelo.</p>"
         },
         "Lrh6u3WCy7OBZGOF": {
-          "description": "<p>La criatura sentada en la silla armilar gana un encanto de heroísmo (ver “Regalos sobrenaturales” en el capítulo 7 de la <em>Guía del Dungeon Master</em>).</p>"
+          "description": "<p>La criatura sentada en la silla obtiene un sortilegio del heroísmo (consulta «Dones sobrenaturales» en el capítulo 7 de la <em>Guía del Dungeon Master</em>).</p>"
         },
         "ISKnwPcKxFuPeY2x": {
-          "description": "<p>Cada criatura a menos de 20 pies de la esfera armilar recupera [[/heal 50]]{50 puntos de impacto}. Las criaturas dentro del globo no obtienen este beneficio.</p>"
+          "description": "<p>Toda criatura a un máximo de 20 pies de la esfera recupera [[/heal 50]]{50 puntos de golpe}. Las criaturas del interior no reciben este beneficio.</p>"
         },
         "fjIcqeaoi7syW7z4": {
-          "description": "<p>A @UUID[Compendium.dnd5e.items.Item.thkvJ5QBRORIwkkV]{gema de brillo} aparece en el regazo de la criatura sentada en la silla armilar.</p>"
+          "description": "<p>Una @UUID[Compendium.dnd5e.items.Item.thkvJ5QBRORIwkkV]{gema del resplandor} aparece en el regazo de la criatura sentada en la silla.</p>"
         },
         "wcAuEuBF7V9fzEOb": {
-          "description": "<p>La puntuación de inteligencia de la criatura sentada en la silla armilar aumenta permanentemente por [[/r 1d4 + 1]], hasta un máximo de 22.</p>"
+          "description": "<p>La Inteligencia de la criatura sentada en la silla aumenta permanentemente en [[/r 1d4 + 1]], hasta un máximo de 22.</p>"
         },
         "amAzkfSnKERWqJWF": {
-          "description": "<p>La criatura sentada en la silla armilar se le concede la capacidad de lanzar el @UUID[Compendium.dnd5e.spells.Item.3okM6Gn63zzEULkz]{deseo} Deletrear una vez.</p>"
+          "description": "<p>La criatura sentada en la silla obtiene la capacidad de lanzar @UUID[Compendium.dnd5e.spells.Item.3okM6Gn63zzEULkz]{deseo} una vez.</p>"
         }
       }
     },
     "toaCh5MazeDiscov": {
-      "name": "Descubrimientos del laberinto",
+      "name": "Hallazgos del laberinto",
       "results": {
         "kgc1TEkWgBYExGeO": {
-          "description": "<p>Nada.</p>"
+          "description": "<p>Nada</p>"
         },
         "RlDlINBizYvfQ0zc": {
-          "description": "<p>Restos esqueléticos de un niño Omuan</p>"
+          "description": "<p>Restos óseos de un niño omuense</p>"
         },
         "wGHg0VLwzTJLUNkU": {
-          "description": "<p>@UUID[Actor.mAsVfo1pjQS5KgA0]{Minotauro} que lucha hasta la muerte</p>"
+          "description": "<p>Un @UUID[Actor.mAsVfo1pjQS5KgA0]{minotauro} que lucha hasta la muerte</p>"
         },
         "tCy4AVCNnycQ2oqG": {
-          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaCh5BlueCrysta]{Tecla de cristal azul}</p>"
+          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaCh5BlueCrysta]{Llave de cristal azul}</p>"
         },
         "YnAwc0hgWrqPHkZt": {
-          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaCh5GoldCrysta]{Tecla de cristal de oro}</p>"
+          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaCh5GoldCrysta]{Llave de cristal dorada}</p>"
         },
         "Hcjnsf1OxyUCMWYZ": {
-          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaCh5PurpleCrys]{Tecla de cristal púrpura}</p>"
+          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaCh5PurpleCrys]{Llave de cristal morada}</p>"
         },
         "2FrkxFSakM14EqOr": {
-          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaCh5GreenCryst]{Tecla de cristal verde}</p>"
+          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaCh5GreenCryst]{Llave de cristal verde}</p>"
         },
         "kExNfnGbMyQkHPCR": {
-          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaCh5RedCrystal]{Tecla de cristal rojo}</p>"
+          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaCh5RedCrystal]{Llave de cristal roja}</p>"
         },
         "zHRCdqIxXmIH5yUZ": {
-          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaCh5BlackCryst]{Tecla de cristal negro}</p>"
+          "description": "<p>@UUID[Compendium.dnd-tomb-annihilation.items.Item.toaCh5BlackCryst]{Llave de cristal negra}</p>"
         }
       }
     },
@@ -660,95 +660,95 @@
       "name": "Efectos de la sala giratoria",
       "results": {
         "djdsy9NxyhSK1TAM": {
-          "description": "<p></p><p>El demonio se enfrenta a exhalar chorros de un gas soporífico que se disipa rápidamente. Cada criatura en la habitación que no es inmune a la condición envenenada debe tener éxito en un [[/save con 15 format=long]] o caída &amp;Reference[unconscious apply=false]{inconsciente}. Una criatura inconsciente puede repetir el lanzamiento de ahorro cada vez que toma daño, terminando con el efecto en sí misma en un éxito.</p>"
+          "description": "<p></p><p>Los rostros demoníacos exhalan chorros de gas soporífero que se dispersa rápidamente. Toda criatura de la sala que no sea inmune al estado envenenado debe superar una [[/save con 15 format=long]] o quedar &amp;Reference[unconscious apply=false]{inconsciente}. Puede repetir la salvación cada vez que reciba daño; si la supera, el efecto termina para ella.</p>"
         },
         "PUtDkqJtxQfdTXZB": {
-          "description": "<p></p><p>El demonio se enfrenta a exhalar chorros de polvo chispeante, que ciega a cualquier criatura en la habitación que no tiene éxito en un [[/save wis 15 format=long]]. La ceguera de una criatura dura hasta que se cura con un @UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{menor restauración} conjuro o magia similar.</p>"
+          "description": "<p></p><p>Los rostros demoníacos exhalan polvo brillante que deja cegada a toda criatura de la sala que no supere una [[/save wis 15 format=long]]. La ceguera dura hasta que se cure con @UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{restablecimiento menor} o magia similar.</p>"
         },
         "Mz3kVRTaYjs3IHjI": {
-          "description": "<p>Puntas de piedra de 6 pulgadas de largo sobresalen mágicamente de las paredes. Cualquier criatura que recibe daños de la habitación al principio de su turno toma un adicional [[/damage 2d10 piercing average]] daño de los picos. Los picos se retraen cuando se activa el efecto de la habitación de al lado.</p>"
+          "description": "<p>De las paredes brotan mágicamente pinchos de piedra de 6 pulgadas de largo. Toda criatura que reciba daño de la sala al comienzo de su turno sufre además [[/damage 2d10 piercing average]] de daño de los pinchos. Se retraen al activarse el siguiente efecto de la sala.</p>"
         },
         "S4A886JKJIsDJYWI": {
-          "description": "<p>El demonio se enfrenta a chorros de un gas incendiario que rápidamente se enciende, llenando la habitación de fuego. Cada criatura en la habitación toma [[/damage 10d8 fire average]] daño.</p>"
+          "description": "<p>Los rostros demoníacos lanzan gas incendiario que prende al instante y llena la sala de fuego. Cada criatura recibe [[/damage 10d8 fire average]] de daño.</p>"
         }
       }
     },
     "toaChultRumors00": {
-      "name": "Rumores de chullo",
+      "name": "Rumores de Chult",
       "results": {
         "Wxn7DjzRczcdbJRL": {
-          "description": "Los pájaros habitan un monasterio que cuelga a un lado de una meseta a muchos kilómetros del río Olung, pasando la garganta sonriente. La gente de las aves tiene al último heredero real de Chul como prisionero."
+          "description": "Hay un monasterio habitado por hombres pájaro colgado del lateral de una meseta a muchas millas río Olung arriba, pasada la Garganta Risueña. Los hombres pájaro tienen prisionera a la última heredera real de Chult."
         },
         "vfMCpkolOgB83m2U": {
-          "description": "En el corazón de la selva hay una ciudad construida por los minotauros. Ahora está invadido por gente de serpientes, pero las cosas aún peores habitan abajo. En las visiones, he visto demonios extraños gritando en la oscuridad."
+          "description": "En el corazón de la selva se encuentra una ciudad construida por minotauros. Ahora está infestada de hombres serpiente, pero bajo ella viven cosas aún peores. He tenido visiones de extraños diablos gritando en la oscuridad."
         },
         "ZuVixyWB9IZco4Zk": {
-          "description": "Si subes por el río Tiryki unos cinco días en canoa, verás una aguja de piedra al este. Los nativos lo llaman Firefinger. “Terror folk” anidan allí, y si te ven, te enfrentas a una pelea."
+          "description": "Si navegas en canoa unos cinco días río Tiryki arriba, verás una aguja de piedra al este. Los nativos la llaman Dedo de Fuego. Allí anidan los «terroráctilos» y, si te ven, te has buscado una pelea."
         },
         "ocV8pAEfF8jTnqCA": {
-          "description": "Uno debe comprar una carta de exploración en Fort Beluarian antes de emprender cualquier expedición de la selva. El Puño Ardiente castiga a los exploradores que no tienen el papeleo requerido."
+          "description": "Antes de lanzarse a una expedición a la selva es necesario comprar un permiso de exploración en Fuerte Beluarian. El Puño Ardiente castiga a los exploradores que no tienen la documentación requerida."
         },
         "ftY9dIvwTnOlXvQ7": {
-          "description": "Chul tenía muchos reyes y reinas, pero ninguno más hermoso que la reina Zalkoré. Miles de guerreros mataron y murieron por ella, pero el único monumento conmemorativo de su reinado es el palacio del jardín de Nangalore, que se encuentra cerca de la orilla oriental del río Olung, al norte del lago Luo."
+          "description": "Chult ha tenido muchos reyes y reinas, pero ninguno tan bello como la reina Zalkore. Miles de guerreros mataron y murieron por ella. A pesar de ello, el único recuerdo de su reinado es el palacio jardín de Nangalore, que se encuentra cerca de la orilla oriental del río Olung, al norte del lago Luo."
         },
         "BbaIrnAZXGHHgMY1": {
-          "description": "Chult fue una vez un patio de recreo para un dragón verde. Sus huesos marcan la ubicación de un tesoro escondido. Si viajas a Mezro y te diriges al este a través de la Garganta Sonriente, luego al sur hacia Kir Sabal, ¡podrías tropezar con los huesos del dragón y ganarte un lugar en los libros de historia!"
+          "description": "Chult fue una vez el patio de recreo de una dragona verde. Sus huesos marcan la localización de un tesoro escondido. Si viajas hacia Mezro y te diriges al este cruzando la Garganta Risueña y luego al sur, en dirección a Kir Sabal, ¡quizá te encuentres con los huesos de la dragona y te hagas un hueco en los libros de historia!"
         },
         "GghpwD3Tcv5xU4RV": {
-          "description": "Después de todo, la ciudad de Mezro no fue destruida durante la plaga de conjuros. Sus ruinas son una ilusión. Oí a un hombre de piel pálida susurrarle esto a un hombre dinosaurio con una espada grande. El hombre dinosaurio olía a madreselva."
+          "description": "En realidad, la ciudad de Mezro no fue destruida durante la Plaga de Conjuros. Sus ruinas son una ilusión. Se lo oí susurrar a un hombre de piel pálida que hablaba con un hombre dinosaurio con una gran espada. El hombre dinosaurio olía a madreselva."
         },
         "cMIUmUvtWdRr0w1U": {
-          "description": "Los enanos están decididos a reclamar la mina Wyrmheart, pero un dragón rojo vive allí ahora. Hace tiempo que no veo a uno de ellos."
+          "description": "Los enanos están decididos a recuperar la Mina Wyrmheart, pero ahora vive ahí un dragón rojo. Hace tiempo que no veo a ninguno de ellos."
         },
         "r9WdsZn3GAEDA6qw": {
-          "description": "La selva está llena de espíritus de la naturaleza... raras criaturas elementales con máscaras. Ellos no hablan, y nunca he sabido que uno sea dañino, pero sus poderes mágicos no deben tomarse a la ligera."
+          "description": "La selva está llena de espíritus de la naturaleza, extrañas criaturitas elementales con máscaras. No hablan y nunca he tenido noticia de que ninguno sea dañino, pero sus poderes mágicos no se deberían tomar a la ligera."
         },
         "l3e9547eh0qqPtrD": {
-          "description": "Algunos habitantes de la ciudad esperaban la llegada de una aeronave Halruaan llamada la Diosa Estelar. Nunca llegó. Apuesto a que se estrelló en alguna parte de la selva."
+          "description": "En la ciudad había algunas personas que esperaban la llegada de una aeronave halruaana llamada Diosa Estelar. Nunca llegó. Apuesto a que se ha estrellado en algún lugar de la selva."
         },
         "9kCbz7Y389DVBGWM": {
-          "description": "Hay tortugas gigantes en Snapping Turtle Bay. Uno de ellos es tan grande como una casa. Es conocido como el rey Toba, y su caparazón tiene piedras preciosas incrustadas en él."
+          "description": "En la Bahía Tortuga Mordedora hay tortugas mordedoras gigantes. Una de ellas es tan grande como una casa. Se la conoce como Rey Toba y tiene piedras preciosas incrustadas en el caparazón."
         },
         "FEUPW50kngxXl8sG": {
-          "description": "La Orden del Guantelete vino aquí para limpiar la selva de no-muertos. Perdieron uno de sus campamentos no hace mucho. Apenas se aferran a otro. Veo a sus emisarios todo el tiempo, subiendo por el río Soshenstar en canoas para conseguir más suministros y templarios de Port Nyanzaru."
+          "description": "La Orden del Guantelete vino aquí a limpiar la selva de muertos vivientes. Hace no demasiado perdieron uno de sus campamentos y apenas logran mantener otro que todavía tienen. Veo a sus emisarios todo el rato, yendo río Soshenstar arriba en canoa para conseguir más provisiones y templarios de Puerto Nyanzaru."
         },
         "WzCW1JiOFN8CBQwo": {
-          "description": "Cuidado con cualquier niebla con un tinte azul. Contagia una fiebre que causa alucinaciones mágicas."
+          "description": "Mantente alerta si ves una bruma con un matiz azul. Extiende una fiebre que causa alucinaciones mágicas."
         },
         "jdbux46R6RNm51dK": {
-          "description": "Una tortuga dragón llamada Aremag vive en la Bahía de Chul. Si deseas zarpar desde Port Nyanzaru, necesitarás un tesoro para apaciguar al monstruo codicioso. Cuánto tesoro, no puedo decir. Aremag le dirá lo que quiere, y lo mejor es darle lo que exige."
+          "description": "Un dragón tortuga llamado Aremag vive en la Bahía de Chult. Si pretendes hacerte a la mar desde Puerto Nyanzaru, necesitarás tesoros para aplacar al codicioso monstruo. Cuántos tesoros, no te sé decir. Aremag te indicará lo que quiere y más te vale darle lo que pide."
         },
         "JyLCBh489Ypps5FN": {
-          "description": "Una ciudad arruinada se encuentra en el río Tath, pasando el desfiladero Kahakla. Supuestamente, nadie ha explorado el desfiladero, pero eso no es cierto. Es sólo que los pocos que lo lograron vivo en su mayoría se mantienen callados acerca de lo que encontraron allí. Tengo bajo buena autoridad que las ruinas están custodiadas por un naga que es sabio y generoso."
+          "description": "Hay una ciudad en ruinas río Tath arriba, pasada la Garganta Kahakla. Supuestamente, nadie ha explorado más allá de la garganta, pero no es cierto. Lo que pasa es que los pocos que han conseguido salir vivos suelen guardar silencio sobre lo que han encontrado allí. Sé de buena tinta que las ruinas están custodiadas por una naga sabia y generosa."
         },
         "24BQz2YwUFJgMVNv": {
-          "description": "El gran dios Ubtao guió una vez al pueblo de Chul, esté cansado de su constante lucha y los abandonó. Desde entonces, los chultanes han recurrido a la adoración de otros dioses, algunos de los cuales eran engañadores y engañadores."
+          "description": "Hubo un tiempo en el que el gran dios Ubtao guiaba a la gente de Chult, pero se cansó de sus constantes guerras y los abandonó. Desde entonces, los chultanos han vuelto su fe a otras deidades, algunas de las cuales son embaucadoras y embusteras."
         },
         "f2qIvCirLziaiV8F": {
-          "description": "Hace mucho tiempo, una pacífica tribu de pescadores llamada Aldani enfureció a Ubtao capturando y comiendo todas las langostas en un río. Como castigo por su codicia, todos ellos fueron transformados en monstruos que habitan en la cuenca de Aldani."
+          "description": "Hace mucho tiempo, una pacífica tribu de pescadores llamada aldani desató la ira de Ubtao al capturar y comerse todas las langostas de un río. Como castigo por su codicia, todos fueron transformados en monstruos que habitan en la cuenca Aldani."
         },
         "6zzuMAWUSuGC7am9": {
-          "description": "Encaramado sobre una meseta con vistas a la cuenca de Aldani es un pueblo fantasma. Toda la gente desapareció allí. Nadie sabe por qué. Se puede llegar a la cuenca de Aldani siguiendo el río Soshenstar."
+          "description": "Hay una aldea fantasma encaramada encima de una meseta que domina la cuenca Aldani. Todos los que se encontraban allí desaparecieron. Nadie sabe por qué. A la cuenca Aldani se puede llegar siguiendo el río Soshenstar."
         },
         "VONiTgKZkmv8Zt6W": {
-          "description": "El gran dios Ubtao amaba los laberintos. Si te encuentras en un laberinto de cualquier tipo, traza un camino a través de él. Usted ganará el favor de Ubtao al hacerlo."
+          "description": "Al gran dios Ubtao le encantaban los laberintos. Si por casualidad encuentras un laberinto de cualquier tipo, traza un camino a través de él. Con eso conseguirás el favor de Ubtao."
         }
       }
     },
     "toaFlaw000000000": {
-      "name": "Fallo (antropólogo)",
+      "name": "Defectos (antropólogo)",
       "results": {
         "5vCqIWIgAxnJt1oj": {
-          "description": "Los barcos me marean."
+          "description": "Me mareo en los barcos."
         },
         "NQln9kXrpwaZLmOG": {
-          "description": "Hablo conmigo mismo, y no hago amigos fácilmente."
+          "description": "Hablo solo y me cuesta hacer amigos."
         },
         "3lbUjlxM1Ff7o4Vn": {
-          "description": "Creo que soy intelectualmente superior a las personas de otras culturas y tengo mucho que enseñarles."
+          "description": "Me creo intelectualmente superior a las personas de otras culturas y pienso que tengo mucho que enseñarles."
         },
         "TAe1FgIF936aE3HZ": {
-          "description": "He aprendido algunos hábitos desagradables que viven entre duendes, lagartijas u orcos."
+          "description": "He adquirido hábitos desagradables viviendo entre goblins, hombres lagarto u orcos."
         },
         "HWlxH0PoioDEIra7": {
           "description": "Me quejo de todo."
@@ -759,71 +759,71 @@
       }
     },
     "toaFlaw100000000": {
-      "name": "Fallo (Arqueólogo)",
+      "name": "Defectos (arqueólogo)",
       "results": {
         "1eqVN6FfadSz03Cb": {
-          "description": "Tengo un miedo secreto a algún animal salvaje común... y en mi trabajo, los veo por todas partes."
+          "description": "Temo en secreto a un animal salvaje común, y en mi trabajo lo encuentro por todas partes."
         },
         "YvzFDUs9HWHRuOUY": {
-          "description": "No puedo salir de una habitación sin buscar puertas secretas."
+          "description": "No puedo salir de una sala sin buscar puertas secretas."
         },
         "QEkuZWaqgQXwYWZq": {
-          "description": "Cuando no estoy explorando mazmorras o ruinas, me pongo nervioso e impaciente."
+          "description": "Cuando no exploro ruinas o mazmorras, me pongo nervioso e impaciente."
         },
         "Unj1HWhLnNcBGCbg": {
-          "description": "No tengo tiempo para amigos o familiares. Paso cada momento despierto pensando y preparándome para mi próxima expedición."
+          "description": "No tengo tiempo para amigos ni familia. Dedico cada momento despierto a pensar en la próxima expedición y prepararla."
         },
         "qBz8VS0nhS7NirkF": {
-          "description": "Cuando se me da la opción de ir a la izquierda o a la derecha, siempre voy a la izquierda."
+          "description": "Si debo elegir entre izquierda y derecha, siempre voy a la izquierda."
         },
         "eQDpvDiWGmXzPb3y": {
-          "description": "No puedo dormir excepto en la oscuridad total."
+          "description": "Solo puedo dormir en completa oscuridad."
         }
       }
     },
     "toaIdeal00000000": {
-      "name": "Ideal (antropólogo)",
+      "name": "Ideales (antropólogo)",
       "results": {
         "HAvKDTto602rpY48": {
-          "description": "<strong>Descubrimiento.</strong> Quiero ser la primera persona en descubrir una cultura perdida."
+          "description": "<strong>Descubrimiento.</strong> Quiero ser la primera persona en descubrir una cultura perdida. (Cualquiera)"
         },
         "gkcoATU1OEj9TqKn": {
-          "description": "<strong>Distancia.</strong> Uno no debe interferir con los asuntos de otra cultura, ni siquiera una persona necesitada de ayuda. (Legítima)"
+          "description": "<strong>Distancia.</strong> No se debe intervenir en los asuntos de otra cultura, aunque necesite ayuda. (Legal)"
         },
         "52Qeww8K8957aR7z": {
-          "description": "<strong>Conocimiento.</strong> Al entender otras razas y culturas, aprendemos a entendernos a nosotros mismos. (Cualquiera)"
+          "description": "<strong>Conocimiento.</strong> Al comprender otras razas y culturas, aprendemos a comprendernos. (Cualquiera)"
         },
         "kgmE5Uw6boepkatv": {
-          "description": "<strong>Poder.</strong> La gente común anhela un liderazgo fuerte, y hago todo lo posible para proporcionárselo."
+          "description": "<strong>Poder.</strong> La gente común desea un liderazgo fuerte y hago cuanto puedo por ofrecérselo. (Legal)"
         },
         "CX5ZukLR7w8jM8ym": {
-          "description": "<strong>Protección.</strong> Debo hacer todo lo posible para salvar a una sociedad que se enfrenta a la extinción."
+          "description": "<strong>Protección.</strong> Debo hacer todo lo posible por salvar a una sociedad al borde de la extinción. (Bueno)"
         },
         "SNE4hzgRvsxDGE6c": {
-          "description": "<strong>Indiferente.</strong> La vida es cruel. ¿Cuál es el punto en salvar a la gente si van a morir de todos modos? (Caótico)"
+          "description": "<strong>Indiferencia.</strong> La vida es cruel. ¿De qué sirve salvar a la gente si va a morir de todos modos? (Caótico)"
         }
       }
     },
     "toaIdeal10000000": {
-      "name": "Ideal (Arqueólogo)",
+      "name": "Ideales (arqueólogo)",
       "results": {
         "jJqWRHGalLSu3i9C": {
-          "description": "<strong>Conservación.</strong> Ese artefacto pertenece a un museo."
+          "description": "<strong>Preservación.</strong> Ese objeto debería estar en un museo. (Bueno)"
         },
         "YHZOpMIVBateTEcf": {
-          "description": "<strong>Codicia.</strong> No arriesgaré mi vida por nada. Espero algún tipo de pago."
+          "description": "<strong>Codicia.</strong> No arriesgaré la vida por nada. Espero alguna recompensa. (Cualquiera)"
         },
         "YKo5Ifz4rYTMc3Bw": {
-          "description": "<strong>Deseo de la Muerte.</strong> Nada es más estimulante que un escape estrecho de las mandíbulas de la muerte."
+          "description": "<strong>Deseo de morir.</strong> Nada es más emocionante que escapar por poco de las garras de la muerte. (Caótico)"
         },
         "zR5bSUF4RjgpKROU": {
-          "description": "<strong>Dignidad.</strong> Los muertos y sus pertenencias merecen ser tratados con respeto."
+          "description": "<strong>Dignidad.</strong> Los muertos y sus pertenencias merecen respeto. (Legal)"
         },
         "1Wtm2jnoyvA2P9G9": {
-          "description": "<strong>La inmortalidad.</strong> Toda mi exploración es parte de un plan para encontrar el secreto de la vida eterna. (Cualquiera)"
+          "description": "<strong>Inmortalidad.</strong> Todas mis exploraciones forman parte de un plan para descubrir el secreto de la vida eterna. (Cualquiera)"
         },
         "zxYisBONE3IgIfe9": {
-          "description": "<strong>Peligro.</strong> Con cada gran descubrimiento viene grave peligro. Los dos caminan de la mano."
+          "description": "<strong>Peligro.</strong> Cada gran descubrimiento trae un grave peligro. Ambos van de la mano. (Cualquiera)"
         }
       }
     },
@@ -831,16 +831,16 @@
       "name": "Efectos de la fuente mágica",
       "results": {
         "yWrLCMhVn0mQzFaf": {
-          "description": "<p>La criatura que bebe el agua debe hacer un [[/save con 12 format=long]], tomando [[/damage 8d10 necrotic average]] daño en un error de guardar, o la mitad de daño en un éxito. Si este daño reduce la criatura a 0 puntos de impacto, muere y se convierte en polvo.</p>"
+          "description": "<p>Quien beba el agua debe hacer una [[/save con 12 format=long]]: recibe [[/damage 8d10 necrotic average]] de daño si falla o la mitad si la supera. Si el daño lo reduce a 0 puntos de golpe, muere y se convierte en polvo.</p>"
         },
         "79crtpSozA0RqEH5": {
-          "description": "<p>La criatura que bebe el agua pierde la capacidad de hablar durante 8 horas. A @UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{menor restauración} conjuro o magia similar termina este efecto.</p>"
+          "description": "<p>Quien beba el agua pierde la capacidad de hablar durante 8 horas. Un conjuro de @UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{restablecimiento menor} o magia similar termina el efecto.</p>"
         },
         "Wjj6HAG3BrjHwyGH": {
-          "description": "<p>La criatura que bebe el agua mágicamente cambia el sexo. A @UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{mayor restauración} el conjuro restaura el sexo original de la criatura, al igual que otra bebida de la fuente que produce este mismo resultado.</p>"
+          "description": "<p>Quien beba el agua cambia de sexo mágicamente. Un conjuro de @UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{restablecimiento mayor} restaura su sexo original, al igual que volver a beber y obtener este mismo resultado.</p>"
         },
         "BGYCvZJHhBOcyVDR": {
-          "description": "<p>La criatura que bebe el agua gana [[/heal 2d10 temp]].</p>"
+          "description": "<p>Quien beba el agua obtiene [[/heal 2d10 temp]].</p>"
         }
       }
     },
@@ -989,48 +989,48 @@
       }
     },
     "toaPersonalityTr": {
-      "name": "Rasgo de personalidad (antropólogo)",
+      "name": "Rasgos de personalidad (antropólogo)",
       "results": {
         "gzliEtSGdLXCChDY": {
-          "description": "Prefiero la compañía de aquellos que no son como yo, incluyendo gente de otras razas."
+          "description": "Prefiero la compañía de quienes son distintos de mí, incluidas personas de otras razas."
         },
         "nPy04FLI0Vmc55nd": {
-          "description": "Soy muy estricto cuando se trata de observar la etiqueta adecuada y las costumbres locales."
+          "description": "Soy muy estricto al respetar la etiqueta y las costumbres locales."
         },
         "T8IB59eC2p6TaBpI": {
-          "description": "Prefiero observar que entrometerme."
+          "description": "Prefiero observar a entrometerme."
         },
         "OYEiOB5u3z1LZAZV": {
-          "description": "Al vivir entre personas violentas, me he vuelto insensible a la violencia."
+          "description": "Vivir entre gente violenta me ha insensibilizado ante la violencia."
         },
         "z6UzZGNphpWCmZMJ": {
-          "description": "Arriesgaría la vida y la extremidad para descubrir una nueva cultura o desvelar los secretos de un muerto."
+          "description": "Arriesgaría la vida para descubrir una cultura o desentrañar los secretos de una desaparecida."
         },
         "cHEEl8mkq6DOHBvE": {
-          "description": "Cuando llegue a un nuevo asentamiento por primera vez, debo aprender todas sus costumbres."
+          "description": "Cuando llego por primera vez a un asentamiento, necesito aprender todas sus costumbres."
         }
       }
     },
     "toaRarePlants000": {
-      "name": "Planta(s) rara(s)",
+      "name": "Plantas raras",
       "results": {
         "1xpeduXWyW1nQldT": {
-          "description": "<p>[[/r 2d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafDancingMon]{Frutas de mono bailando} creciendo en un árbol</p>"
+          "description": "<p>[[/r 2d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafDancingMon]{frutas del mono bailongo} que crecen en un árbol</p>"
         },
         "D8KxU3C6Ub9Rcvgj": {
-          "description": "<p>Arbusto de menga con [[/r 2d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafMengaLeave]{onzas de hojas}</p>"
+          "description": "<p>Un arbusto de menga con [[/r 2d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafMengaLeave]{onzas de hojas}</p>"
         },
         "ge40BlTkQfizqK4l": {
-          "description": "<p>[[/r 1d4]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafRyathRoot0]{raíces de riath} crecer en el suelo</p>"
+          "description": "<p>[[/r 1d4]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafRyathRoot0]{raíces de ryath} que crecen en el suelo</p>"
         },
         "caQlq5CHN0dK1Rgs": {
-          "description": "<p>[[/r 4d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafSindaBerri]{bayas sinda} creciendo en un arbusto</p>"
+          "description": "<p>[[/r 4d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafSindaBerri]{bayas de sinda} que crecen en un arbusto</p>"
         },
         "ONMrah4PUhWU8yH4": {
-          "description": "<p>Wukka árbol con [[/r 2d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafWukkaNuts0]{Nueces de wukka}</p>"
+          "description": "<p>Un árbol wukka con [[/r 2d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafWukkaNuts0]{frutos secos wukka}</p>"
         },
         "NtNCn7q4Q89Y9MAC": {
-          "description": "<p>[[/r 1d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafZabou00000]{zabou} creciendo en un árbol muerto</p>"
+          "description": "<p>[[/r 1d6]] @UUID[Compendium.dnd-tomb-annihilation.items.Item.toafafZabou00000]{zabous} que crecen en un árbol muerto</p>"
         }
       }
     },
@@ -1038,77 +1038,77 @@
       "name": "Estatua de Ubtao",
       "results": {
         "Z9DLf8QDROfqIrZ4": {
-          "description": "<p>El tesoro se encuentra al pie de la estatua, dejado allí como tributo por una criatura de la selva. Rodar una vez en el @UUID[Compendium.dnd-tomb-annihilation.tables.RollTable.dmgTreasureDrops]{Gotas de tesoro} mesa para determinar qué tesoro se encuentra. Si el rollo indica que no hay tesoro, los personajes encuentran piezas sin valor de joyas de hueso en su lugar.</p>"
+          "description": "<p>A los pies de la estatua hay un tesoro que alguna criatura de la selva dejó como tributo. Tira una vez en la tabla @UUID[Compendium.dnd-tomb-annihilation.tables.RollTable.dmgTreasureDrops]{Tesoros obtenidos} para determinar qué encuentran. Si la tirada indica que no hay tesoro, los personajes encuentran en su lugar adornos de hueso sin valor.</p>"
         },
         "nS04O2WxBbhj8bEJ": {
-          "description": "<p>Los cráneos de goblin, grung y su-monster están amontonados alrededor de la base de la estatua.</p>"
+          "description": "<p>Alrededor de la base de la estatua se amontonan cráneos de goblins, grungs y sucarates.</p>"
         },
         "ENFV6CPl3fOXTevA": {
-          "description": "<p>A @UUID[Compendium.dnd5e.spells.Item.pB7XVYwdGNcUG935]{glifo de la protección} está inscrito en la estatua. Para detectar el glifo, un personaje que busca la estatua debe tener éxito en un [[/check investigation 15 format=long]]. Si alguna criatura toca la estatua, el glifo estalla con energía mágica en una esfera de 20 pies de radio centrada en la estatua. Cada criatura en la zona debe tener éxito en un [[/save dex 14 format=long]], tomando [[/damage 5d8 thunder average]] daño en un error de guardar, o la mitad de daño en un éxito. El ruido estruendoso tiene un [[/r 1d100cs&lt;=75#Sturges or a troll hears the noise on a result of 1]]{75 por ciento de probabilidad} de atraer agitaciones o un troll acechando cerca (ver “@UUID[JournalEntry.toaAppBRandomEnc.JournalEntryPage.mJLP1CT91yz4xyEu]{Stirges}” y “@UUID[JournalEntry.toaAppBRandomEnc.JournalEntryPage.gqmqw9126FVmMnBl]{Trol}”).</p>"
+          "description": "<p>La estatua tiene inscrito un @UUID[Compendium.dnd5e.spells.Item.pB7XVYwdGNcUG935]{glifo custodio}. Para detectarlo, un personaje que examine la estatua debe superar una [[/check investigation 15 format=long]]. Si cualquier criatura toca la estatua, el glifo libera energía mágica en una esfera de 20 pies de radio centrada en ella. Cada criatura en el área debe realizar una [[/save dex 14 format=long]]; sufre [[/damage 5d8 thunder average]] de daño si falla, o la mitad si tiene éxito. El estruendo tiene una [[/r 1d100cs&lt;=75#Sturges or a troll hears the noise on a result of 1]]{probabilidad del 75 por ciento} de atraer a estirges o a un troll que merodeen cerca (consulta «@UUID[JournalEntry.toaAppBRandomEnc.JournalEntryPage.mJLP1CT91yz4xyEu]{Estirges}» y «@UUID[JournalEntry.toaAppBRandomEnc.JournalEntryPage.gqmqw9126FVmMnBl]{Troll}»).</p>"
         },
         "6wkRaiZ2kwxzM5hD": {
-          "description": "<p>La estatua tiene surcos tallados en su estómago que forman un laberinto. Cualquier personaje que estudia los surcos y tiene éxito en un [[/check int 10 format=long]] ve un camino claro a través del laberinto. Ese personaje es entonces otorgado con el poder de lanzar el @UUID[Compendium.dnd5e.spells.Item.cYI4RNNjI5GAmLhy]{encontrar el camino} deletrear como una acción, sin componentes necesarios, trazando el mismo camino con su dedo. Una vez usada, esta habilidad desaparece. Una vez que la estatua ha concedido este beneficio, no puede hacerlo de nuevo hasta el próximo amanecer.</p>"
+          "description": "<p>La estatua tiene un laberinto tallado en el vientre. Cualquier personaje que lo estudie y supere una [[/check int 10 format=long]] descubre un camino claro para recorrerlo. Ese personaje obtiene el poder de lanzar el conjuro @UUID[Compendium.dnd5e.spells.Item.cYI4RNNjI5GAmLhy]{encontrar el camino} como acción, sin componentes, trazando ese mismo recorrido con el dedo. El poder desaparece después de usarlo una vez. Una vez concedido este beneficio, la estatua no puede volver a otorgarlo hasta el siguiente amanecer.</p>"
         }
       }
     },
     "toaThornMazeEnco": {
-      "name": "Encuentros de Thorn Laberinto",
+      "name": "Encuentros en el laberinto espinoso",
       "results": {
         "pBvl5l2AMZ2d8utn": {
-          "description": "No encuentro."
+          "description": "Ningún encuentro."
         },
         "Dk1d2qYTBbCfmqCB": {
-          "description": "<p>@UUID[Actor.toaCh2GrungsDung]{1d6 + 6 grungs} (Guerreros de piel verde) en patrulla.</p>"
+          "description": "<p>@UUID[Actor.toaCh2GrungsDung]{1d6 + 6 grungs} (guerreros de piel verde) patrullando.</p>"
         },
         "BZ0vhRAPsxiGFj9G": {
-          "description": "<p>@UUID[Actor.toaCh2AssassinVi]{1d3 vides asesinas} (ver @UUID[JournalEntry.toaAppDMonstersA]{Apéndice D}) mezclando con las paredes circundantes.</p>"
+          "description": "<p>@UUID[Actor.toaCh2AssassinVi]{1d3 enredaderas asesinas} (consulta el @UUID[JournalEntry.toaAppDMonstersA]{apéndice D}) camufladas entre las paredes circundantes.</p>"
         },
         "Ql9TVhcBmW6YHCOF": {
-          "description": "<p>@UUID[Actor.toaCh2GhoulsDung]{1d4 ghouls} perdido en el laberinto.</p>"
+          "description": "<p>@UUID[Actor.toaCh2GhoulsDung]{1d4 gules} perdidos en el laberinto.</p>"
         },
         "RKhXFfhs8utKEcRK": {
-          "description": "Un escarabajo inofensivo de Yahcha (ver @UUID[JournalEntry.toaAppCDiscoveri]{apéndice C})."
+          "description": "Un escarabajo yahcha inofensivo (consulta el @UUID[JournalEntry.toaAppCDiscoveri]{apéndice C})."
         },
         "31OkuWEECx1weIp5": {
-          "description": "Los personajes escuchan un crujido que suena a la vez lujurioso y desolado. No se puede determinar su origen."
+          "description": "Los personajes oyen un croar gutural que suena a la vez vigoroso y desolado. No se puede determinar de dónde procede."
         },
         "sC5YGEDqVHCc80zx": {
-          "description": "<p>@UUID[Actor.toaCh2ZombiesDun]{1d6 zombis} perdido en el laberinto.</p>"
+          "description": "<p>@UUID[Actor.toaCh2ZombiesDun]{1d6 zombis} perdidos en el laberinto.</p>"
         },
         "9QJjR1YWnfQPXZnT": {
-          "description": "Un hoyo oculto de 5 pies de ancho, 10 pies de profundidad, y forrado con estacas de madera envenenadas. El personaje principal ve el foso con un éxito [[/check perception 15 format=long]]. El primer personaje que pisa un pozo cae, tomando [[/damage 1d6 bludgeoning average]] daños y aterrizaje en [[/r 1d4]] apuestas, cada una de las cuales trata [[/damage 1d6 piercing &amp; 2d6 poison average]] daño."
+          "description": "Un pozo oculto de 5 pies de anchura y 10 pies de profundidad, lleno de estacas de madera envenenadas. El personaje que encabeza la marcha detecta el pozo si supera una [[/check perception 15 format=long]]. El primero que lo pise cae dentro y sufre [[/damage 1d6 bludgeoning average]] de daño, además de aterrizar sobre [[/r 1d4]] estacas que infligen [[/damage 1d6 piercing &amp; 2d6 poison average]] de daño cada una."
         },
         "w2vQOwRh75ptZu8g": {
-          "description": "Una puerta secreta interior. Requiere un éxito. [[/check perception 15 format=long]] a ver."
+          "description": "Una puerta secreta interior. Para detectarla es necesario superar una [[/check perception 15 format=long]]."
         }
       }
     },
     "toaTrait10000000": {
-      "name": "Rasgo de Personalidad (Arqueólogo)",
+      "name": "Rasgos de personalidad (arqueólogo)",
       "results": {
         "t4D0ykwqSvQ0WMQH": {
-          "description": "Me encanta un buen rompecabezas o misterio."
+          "description": "Me encantan los buenos rompecabezas y misterios."
         },
         "vlKeijxc9DNFyU4X": {
-          "description": "Soy una rata de manada que nunca tira nada."
+          "description": "Lo acumulo todo: nunca tiro nada."
         },
         "ryi0F66Xw6WkbgKE": {
-          "description": "La fama es más importante que el dinero."
+          "description": "La fama me importa más que el dinero."
         },
         "umkETB8QXB41nm32": {
-          "description": "No tengo reparos en robarles a los muertos."
+          "description": "No tengo escrúpulos a la hora de robar a los muertos."
         },
         "V17rOWaHWwciGgK7": {
-          "description": "Soy más feliz en una vieja tumba polvorienta que en los centros de la civilización."
+          "description": "Soy más feliz en una tumba antigua y polvorienta que en los centros de la civilización."
         },
         "YtaCWmPoAgwCvXzF": {
-          "description": "Las trampas no me ponen nervioso. Idiotas que disparan trampas me ponen nervioso."
+          "description": "Las trampas no me ponen nervioso. Los idiotas que las activan, sí."
         },
         "RErKvnEdMvv3plTe": {
-          "description": "Puede que falle, pero nunca me rendiré."
+          "description": "Puedo fracasar, pero nunca me rendiré."
         },
         "FqMEIXHOcSDC0qzZ": {
-          "description": "Puede que pienses que soy un erudito, pero me encanta una buena pelea. Estos puños fueron hechos para golpear."
+          "description": "Puede que parezca un erudito, pero me encanta una buena pelea. Estos puños están hechos para golpear."
         }
       }
     },
@@ -1116,19 +1116,19 @@
       "name": "Zombis",
       "results": {
         "G6TFasPmOwQrKb8H": {
-          "description": "<p>[[/r 3d6]] @UUID[Actor.J6yWqkj0lotaRnTh]{zombies}</p>"
+          "description": "<p>[[/r 3d6]] @UUID[Actor.J6yWqkj0lotaRnTh]{zombis}</p>"
         },
         "p2GGZJkx8cdeRXXN": {
-          "description": "<p>1 @UUID[Actor.toaAnkylosaurusZ]{ankylosaurus zombie }(ver @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{Apéndice D})</p>"
+          "description": "<p>1 @UUID[Actor.toaAnkylosaurusZ]{anquilosaurio zombi} (consulta el @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{apéndice D})</p>"
         },
         "i8KisLCSm2VFmOY0": {
-          "description": "<p>[[/r 1d4]] @UUID[Actor.toaGirallonZombi]{Girallon zombis} (ver @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{Apéndice D})</p>"
+          "description": "<p>[[/r 1d4]] @UUID[Actor.toaGirallonZombi]{girallons zombis} (consulta el @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{apéndice D})</p>"
         },
         "dAJyD4cBY7IW2VrE": {
-          "description": "<p>[[/r 1d4]] @UUID[Compendium.dnd5e.monsters.Actor.RenLfmDT2XlbCF4x]{zombis ogros}</p>"
+          "description": "<p>[[/r 1d4]] @UUID[Compendium.dnd5e.monsters.Actor.RenLfmDT2XlbCF4x]{ogros zombis}</p>"
         },
         "rrlff9wABfEvoQ04": {
-          "description": "<p>1 @UUID[Actor.toaTyrannosaurus]{tyrannosaurus zombi} (ver @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{Apéndice D})</p>"
+          "description": "<p>1 @UUID[Actor.toaTyrannosaurus]{tiranosaurio zombi} (consulta el @UUID[JournalEntry.toaAppDMonstersA.JournalEntryPage.FDyn4HWR2JU4EFY6]{apéndice D})</p>"
         }
       }
     },
@@ -1216,7 +1216,7 @@
       }
     },
     "toaencJungle0000": {
-      "name": "Selva: No hay muertos vivientes",
+      "name": "Selva: sin muertos vivientes",
       "results": {
         "HDnpCGLLpCJbEDCp": {
           "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.kcNFt99uaTAlXhsn caption=false cite=false]</p>"
@@ -1291,10 +1291,10 @@
           "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.qZB5LogHGOr5MCiX caption=false cite=false]</p>"
         },
         "I9ewCCBPwImsGkvb": {
-          "description": "<p>Chul está lleno de cadáveres y huesos de los que han caído víctimas de sus terrores. Cuando los personajes descubren una de esas víctimas, rodar un [[/r d20]] y consultar a la @UUID[Compendium.dnd-tomb-annihilation.tables.RollTable.dmgRanEncDeadExp]{Exploradores muertos} mesa para determinar lo que encuentran. Luego roda una vez en el @UUID[Compendium.dnd-tomb-annihilation.tables.RollTable.dmgTreasureDrops]{Gotas de tesoro} mesa para ver qué, en su caso, se puede encontrar en o cerca de los restos.</p>"
+          "description": "<p>Chult está sembrado de cadáveres y huesos de quienes han sucumbido a sus horrores. Cuando los personajes descubran una de estas víctimas, tira un [[/r d20]] y consulta la tabla @UUID[Compendium.dnd-tomb-annihilation.tables.RollTable.dmgRanEncDeadExp]{Exploradores muertos} para determinar qué encuentran. Después, tira una vez en la tabla @UUID[Compendium.dnd-tomb-annihilation.tables.RollTable.dmgTreasureDrops]{Tesoros obtenidos} para averiguar si hay algo de valor entre los restos o cerca de ellos.</p>"
         },
         "2P3CnNzxVWR7QRrr": {
-          "description": "<p>El partido se encuentra con otro @UUID[Actor.toaEncExplorers0]{banda de exploradores}, que consiste en un mago, un sacerdote, un explorador, y 1d6 guerreros tribales. Rodar un d6 para determinar el @UUID[Compendium.dnd-tomb-annihilation.tables.RollTable.toaAppBExplorers]{situación del grupo}:</p><p>@embed[Compendium.dnd-tomb-annihilation.tables.RollTable.toaAppBExplorers rollable classes=\"caption-top\"]</p>"
+          "description": "<p>El grupo se encuentra con otra @UUID[Actor.toaEncExplorers0]{banda de exploradores}, formada por un mago, un sacerdote, un batidor y 1d6 guerreros tribales. Tira un d6 para determinar la @UUID[Compendium.dnd-tomb-annihilation.tables.RollTable.toaAppBExplorers]{situación del grupo}:</p><p>@embed[Compendium.dnd-tomb-annihilation.tables.RollTable.toaAppBExplorers rollable classes=\"caption-top\"]</p>"
         },
         "xOq5J0mUKOgO7ODP": {
           "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.uK4SZtMPjJiX1Gch caption=false cite=false]</p>"
@@ -1422,7 +1422,7 @@
       }
     },
     "toaencJungle1000": {
-      "name": "Selva: Menos muertos vivientes",
+      "name": "Selva: pocos muertos vivientes",
       "results": {
         "CAQDS1Xxt6mRy604": {
           "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.kcNFt99uaTAlXhsn caption=false cite=false]</p>"
@@ -1589,7 +1589,7 @@
       }
     },
     "toaencJungle2000": {
-      "name": "Selva: Mayor No Muerto",
+      "name": "Selva: muchos muertos vivientes",
       "results": {
         "Uw9dirgc0jOOgBCv": {
           "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.nYaWMaTC90KIkJrz caption=false cite=false]</p>"
@@ -2226,7 +2226,7 @@
       }
     },
     "toaencWasteland0": {
-      "name": "Tierras baldías",
+      "name": "Eriales",
       "results": {
         "dNxU3N7IcK8uDhDr": {
           "description": "<p>@embed[JournalEntry.toaAppBRandomEnc.JournalEntryPage.nYaWMaTC90KIkJrz caption=false cite=false]</p>"
