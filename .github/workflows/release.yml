@@ -30,6 +30,12 @@ jobs:
         with:
           node-version: "22"
 
+      - name: Check release build inputs
+        run: |
+          test -f dev-tools/build_light.py
+          test -f dev-tools/translation/handout-assets.json
+          test -f dev-tools/translation/atlas-assets.json
+
       - name: Test converters and packaging
         run: |
           node --test tests/*.test.mjs

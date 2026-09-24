@@ -1,0 +1,372 @@
+{
+  "pdf": "La Tumba de la Aniquilación-es.pdf",
+  "pdfSha256": "da438380e78126e6b665be67079c2d982d340364cc0438b94372e9c48c286a20",
+  "adventureId": "OQ0bB1QgjuxagwGI",
+  "journalId": "toaAtlas00000000",
+  "assets": [
+    {
+      "pageId": "PKl5p0cr20zTmPRz",
+      "pdfPage": 20,
+      "cropPdfPoints": [
+        58.9,
+        41.3,
+        542.8,
+        698
+      ],
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/port-nyanzaru/port-nyanzaru-dm.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/atlas/es/PKl5p0cr20zTmPRz.jpg",
+      "sha256": "efb493dbbea5aeecc1696993f629690e76a89e9de5692eceec94af4b8075561f"
+    },
+    {
+      "pageId": "r5Eh6P1HR0ZW24oO",
+      "pdfPage": 29,
+      "cropPdfPoints": [
+        53.3,
+        28.8,
+        530.4,
+        358.5
+      ],
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/merchant-princes-villa/merchant-princes-villa-dm.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/atlas/es/r5Eh6P1HR0ZW24oO.jpg",
+      "sha256": "2e8a4fb1cbb9354fa422a39f32d636e102c6ea9f2ec7e3055615aa6a5a6573ca"
+    },
+    {
+      "pageId": "YmRoyFdlfhNOWyuD",
+      "pdfPage": 40,
+      "cropPdfPoints": [
+        50.9,
+        33.6,
+        551.2,
+        710.7
+      ],
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/chult/chult-labeled.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/atlas/es/YmRoyFdlfhNOWyuD.jpg",
+      "sha256": "451af298e5f35502a6bb0ee18e3235c642538d8930c11aedee644b790f461f36"
+    },
+    {
+      "pageId": "XUYsTwbT6tsSUTmw",
+      "pdfPage": 46,
+      "cropPdfPoints": [
+        62.2,
+        34.3,
+        539.3,
+        364
+      ],
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/camp-righteous/camp-righteous-dm.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/atlas/es/XUYsTwbT6tsSUTmw.jpg",
+      "sha256": "ae50ae9b4a63833bdd5a70f07462d65bb24a509be836e2adc2c4ff834b2260a9"
+    },
+    {
+      "pageId": "Tsw3so8kK5A7wwqA",
+      "pdfPage": 54,
+      "cropPdfPoints": [
+        62.5,
+        31.6,
+        539.6,
+        361.3
+      ],
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/firefinger/firefinger-dm.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/atlas/es/Tsw3so8kK5A7wwqA.jpg",
+      "sha256": "806dc7ef244b02d4e5587b7d0846c77853dc111af16c576ad26307c9253f9820"
+    },
+    {
+      "pageId": "25FfMlR6XrnCOuGq",
+      "pdfPage": 59,
+      "cropPdfPoints": [
+        53.3,
+        30.4,
+        530.4,
+        360
+      ],
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/jahaka-anchorage/jahaka-anchorage-dm.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/atlas/es/25FfMlR6XrnCOuGq.jpg",
+      "sha256": "c74c54c8fa463da8dbcc523f741abc4e5f7797deb18f1ea53822c0f23059bf2f"
+    },
+    {
+      "pageId": "UXVMbbWtM7MCGYfC",
+      "pdfPage": 72,
+      "cropPdfPoints": [
+        62.3,
+        26.4,
+        539.4,
+        356.1
+      ],
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/kir-sabal/kir-sabal-dm.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/atlas/es/UXVMbbWtM7MCGYfC.jpg",
+      "sha256": "6b73a167f6e82a372ab4344dd3f938e99b719c401116ef54872965172b52664e"
+    },
+    {
+      "pageId": "yc8PZb1Y4xuqn9xz",
+      "pdfPage": 81,
+      "cropPdfPoints": [
+        38.2,
+        27.6,
+        542.3,
+        711.7
+      ],
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/nangalore/nangalore-dm.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/atlas/es/yc8PZb1Y4xuqn9xz.jpg",
+      "sha256": "6d755857df3cbe7e85660e3c31d12f52b06c1787042c4bf67969085d35fc3609"
+    },
+    {
+      "pageId": "yB3e7XeNyEimnMC0",
+      "pdfPage": 88,
+      "cropPdfPoints": [
+        62.4,
+        29.9,
+        539.5,
+        359.6
+      ],
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/wreck-of-the-star-goddess/wreck-of-the-star-goddess-dm.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/atlas/es/yB3e7XeNyEimnMC0.jpg",
+      "sha256": "d7c82164b09d7d79fea92ab3aca853d03ae63ec03a90dfb727e90c1b7c6c6980"
+    },
+    {
+      "pageId": "wkfRCgAXnTELXhPI",
+      "pdfPage": 78,
+      "cropPdfPoints": [
+        61.5,
+        27.5,
+        539.4,
+        357.7
+      ],
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/wyrmheart-mine/wyrmheart-mine-dm.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/atlas/es/wkfRCgAXnTELXhPI.jpg",
+      "sha256": "9bb2fe8a6a54110f46ba8242b7e0e134a106a9237719f1d296fe9cf1b0bec357"
+    },
+    {
+      "pageId": "5z0tczTEyExEhEYK",
+      "pdfPage": 42,
+      "cropPdfPoints": [
+        62.3,
+        29.8,
+        539.4,
+        359.4
+      ],
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/ataaz-muhahah/ataaz-muhahah-dm.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/atlas/es/5z0tczTEyExEhEYK.jpg",
+      "sha256": "3d589cd8efcc2b548275b5fb0714a2633133f84c5425308d3a9c2a3f222d5ab0"
+    },
+    {
+      "pageId": "qaFBKBCaEyFccKzu",
+      "pdfPage": 49,
+      "cropPdfPoints": [
+        54.2,
+        34,
+        529.5,
+        362.4
+      ],
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/camp-vengeance/camp-vengeance-dm.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/atlas/es/qaFBKBCaEyFccKzu.jpg",
+      "sha256": "370a4f79f9b0614d1ab44da544f66c525ac62556781c134e6a58eb1eee6fc83f"
+    },
+    {
+      "pageId": "KISG7F07e24PQgN4",
+      "pdfPage": 56,
+      "cropPdfPoints": [
+        63.3,
+        24.2,
+        538.6,
+        352.6
+      ],
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/dungrunglung/dungrunglung-dm.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/atlas/es/KISG7F07e24PQgN4.jpg",
+      "sha256": "5e5eb17e2280a035a2f3d1c20c983e54d505c13a79cf0db9e3e60b040fb78dab"
+    },
+    {
+      "pageId": "tJo2EBVl28o8TE6F",
+      "pdfPage": 62,
+      "cropPdfPoints": [
+        62.3,
+        30,
+        539.4,
+        359.6
+      ],
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/fort-beluarian/fort-beluarian-dm.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/atlas/es/tJo2EBVl28o8TE6F.jpg",
+      "sha256": "f5c8ff8642a3669aea5c1f1da63d5e27524525783d0427ba8dc90a02825766b6"
+    },
+    {
+      "pageId": "WSz3AAZ8PqL1DU0s",
+      "pdfPage": 52,
+      "cropPdfPoints": [
+        62.3,
+        29.8,
+        539.4,
+        359.4
+      ],
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/heart-of-ubtao/heart-of-ubtao-dm.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/atlas/es/WSz3AAZ8PqL1DU0s.jpg",
+      "sha256": "a4482059f20c1c11bc5944c3a1603700efc1ad1fd9fba4135c03e5144f5ec96f"
+    },
+    {
+      "pageId": "ihK0q3Bjpk30776z",
+      "pdfPage": 67,
+      "cropPdfPoints": [
+        54.5,
+        26.2,
+        529.4,
+        354.4
+      ],
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/hrakhamar/hrakhamar-dm.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/atlas/es/ihK0q3Bjpk30776z.jpg",
+      "sha256": "f8bc2b5a51a315492b3e5e27a1b7becc6da7cf87f9f33e1e2ea2140b66236622"
+    },
+    {
+      "pageId": "2rRmsqDGumFCTzNU",
+      "pdfPage": 91,
+      "cropPdfPoints": [
+        53.3,
+        27.7,
+        530.4,
+        357.4
+      ],
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/yellyark/yellyark-dm.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/atlas/es/2rRmsqDGumFCTzNU.jpg",
+      "sha256": "d5558535204e1e409f15b4ac81c3a84a729e0b3f25d36778168384237c12468c"
+    },
+    {
+      "pageId": "IDEcMjNikwfUZZjg",
+      "pdfPage": 99,
+      "cropPdfPoints": [
+        51.9,
+        41.9,
+        531.8,
+        693.2
+      ],
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/omu-the-forbidden-city/omu-the-forbidden-city-dm.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/atlas/es/IDEcMjNikwfUZZjg.jpg",
+      "sha256": "f71d8cbe35acbe1dadee36d978c47c94b09275b6c526b26678d1a2a7fad487df"
+    },
+    {
+      "pageId": "5cAG2DguKqeKo5nb",
+      "pdfPage": 100,
+      "cropPdfPoints": [
+        60.4,
+        41.4,
+        540.3,
+        692.7
+      ],
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/nine-shrines/nine-shrines-dm.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/atlas/es/5cAG2DguKqeKo5nb.jpg",
+      "sha256": "d377c8c8f7857abc19733e704a825386808133a6ffa570c5d4f9634102211e6c"
+    },
+    {
+      "pageId": "xgaQNLgIyhRamIy4",
+      "pdfPage": 116,
+      "cropPdfPoints": [
+        55.5,
+        41.3,
+        546.2,
+        707.2
+      ],
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/fane-of-the-night-serpent/fane-of-the-night-serpent-dm.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/atlas/es/xgaQNLgIyhRamIy4.jpg",
+      "sha256": "dd2dd090432914cba1aae564fdea296674568afe476a40e7735255e69e449a75"
+    },
+    {
+      "pageId": "yQ0EIRd4IxCDKk55",
+      "pdfPage": 62,
+      "cropPdfPoints": [
+        405,
+        40,
+        529,
+        350
+      ],
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/fort-beluarian-inner-bailey/fort-beluarian-inner-bailey-dm.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/atlas/es/yQ0EIRd4IxCDKk55.jpg",
+      "sha256": "56b745960cbfd9f30404d2bcbc7e3bd7ab00fbd5a1dd01e34192b5afc058dcf0"
+    },
+    {
+      "pageId": "4IDB4ojSh25tHivw",
+      "pdfPage": 136,
+      "cropPdfPoints": [
+        62.3,
+        28.2,
+        539.4,
+        357.9
+      ],
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/level-1-rotten-halls/level-1-rotten-halls-dm.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/atlas/es/4IDB4ojSh25tHivw.jpg",
+      "sha256": "035e42b3e664b7ae4bc7c1fea076e9e47ac39fb3f07dac79cacfb8b335525286"
+    },
+    {
+      "pageId": "rZbTaXxLYqjcnEks",
+      "pdfPage": 141,
+      "cropPdfPoints": [
+        53.3,
+        29,
+        530.4,
+        358.7
+      ],
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/level-2-dungeon-of-deception/level-2-dungeon-of-deception-dm.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/atlas/es/rZbTaXxLYqjcnEks.jpg",
+      "sha256": "c26c940d6a0f5ebbdd53d9ae1a4465474a3a7d58a8e051bd5e2c0264971ce1ff"
+    },
+    {
+      "pageId": "6Ksw6YQd0QhItwzb",
+      "pdfPage": 150,
+      "cropPdfPoints": [
+        62.3,
+        28.9,
+        539.4,
+        358.6
+      ],
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/level-3-vault-of-reflection/level-3-vault-of-reflection-dm.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/atlas/es/6Ksw6YQd0QhItwzb.jpg",
+      "sha256": "7f01b94c0aaa4d7336ccff32a3fd6341a54b5753a49c71c58690a712110a90a8"
+    },
+    {
+      "pageId": "AiHNVbBMeyjGOPGl",
+      "pdfPage": 161,
+      "cropPdfPoints": [
+        53.3,
+        27.7,
+        530.4,
+        357.4
+      ],
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/level-4-chambers-of-horror/level-4-chambers-of-horror-dm.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/atlas/es/AiHNVbBMeyjGOPGl.jpg",
+      "sha256": "1ff767ed4caa8078700aefbb35334592a39de7cf6945d163c64b030c0bb4376b"
+    },
+    {
+      "pageId": "lgP6PrVZUf8aDcAi",
+      "pdfPage": 172,
+      "cropPdfPoints": [
+        62.3,
+        26.8,
+        539.4,
+        356.5
+      ],
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/level-5-gears-of-hate/level-5-gears-of-hate-dm.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/atlas/es/lgP6PrVZUf8aDcAi.jpg",
+      "sha256": "2761a52b4997d9bd34b1b3677f666c78014c2cf26ed787ed93e8eba11884343f"
+    },
+    {
+      "pageId": "QPsr5xJjgKyUI3qB",
+      "pdfPage": 153,
+      "cropPdfPoints": [
+        50,
+        60,
+        290,
+        294
+      ],
+      "source": "modules/dnd-tomb-annihilation/assets/journal-art/revolving-room.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/atlas/es/QPsr5xJjgKyUI3qB.jpg",
+      "sha256": "2875081a5f781bea04f8be0a6b408fdcdcf6c724239e9778c83a7f981612433b"
+    },
+    {
+      "pageId": "Evp7GVuey2T9UUVi",
+      "pdfPage": 183,
+      "cropPdfPoints": [
+        53.3,
+        22.2,
+        530.4,
+        351.9
+      ],
+      "source": "modules/dnd-tomb-annihilation/assets/scenes/level-6-cradle-of-the-death-god/level-6-cradle-of-the-death-god-dm.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/atlas/es/Evp7GVuey2T9UUVi.jpg",
+      "sha256": "772f4fb2a75f4ccc00d9b259b055b0bac0542f20b2d0026a9ca898e7a32ce597"
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "pdf": "La Tumba de la Aniquilación-es.pdf",
+  "pdfSha256": "da438380e78126e6b665be67079c2d982d340364cc0438b94372e9c48c286a20",
+  "journalId": "toaAppEPlayerHan",
+  "adventureId": "OQ0bB1QgjuxagwGI",
+  "unchangedHandouts": [
+    11,
+    14,
+    16,
+    23,
+    24
+  ],
+  "assets": [
+    {
+      "number": 1,
+      "pdfPage": 244,
+      "pageId": "4tCpwoj4A71rw6Rx",
+      "source": "modules/dnd-tomb-annihilation/assets/journal-art/map-chult-player.jpg",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/handouts/es/handout-01.jpg",
+      "cropAt100Dpi": [
+        99,
+        147,
+        738,
+        1010
+      ],
+      "sha256": "924bb9efa743a1ed8be67b251e4f7789d1d11d78266a51ef087979db6a85b674"
+    },
+    {
+      "number": 2,
+      "pdfPage": 245,
+      "pageId": "73pfOhi0uI8ImMlm",
+      "source": "modules/dnd-tomb-annihilation/assets/journal-art/handout-02-azaka-stormfang.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/handouts/es/handout-02.jpg",
+      "cropAt100Dpi": [
+        0,
+        88,
+        750,
+        520
+      ],
+      "sha256": "890dc6aef5ff2608d16339319dd833012f73ac7fd27c059257c3dc64c16ffc19"
+    },
+    {
+      "number": 3,
+      "pdfPage": 246,
+      "pageId": "Da6RwTnohbRNNMPU",
+      "source": "modules/dnd-tomb-annihilation/assets/journal-art/handout-03-eku.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/handouts/es/handout-03.jpg",
+      "cropAt100Dpi": [
+        73,
+        88,
+        824,
+        505
+      ],
+      "sha256": "909c36aebb28b09a426ac6e2121e88470e7e6be0de88ea365ab40d4eb3aba13d"
+    },
+    {
+      "number": 4,
+      "pdfPage": 246,
+      "pageId": "HqIM8px13pWr0aLv",
+      "source": "modules/dnd-tomb-annihilation/assets/journal-art/handout-04-faroul-gondolo.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/handouts/es/handout-04.jpg",
+      "cropAt100Dpi": [
+        73,
+        583,
+        824,
+        997
+      ],
+      "sha256": "6cfcce259b1afc1299d3cef1017ef888fbf9e6548bfdfd24b291645a8590f65f"
+    },
+    {
+      "number": 5,
+      "pdfPage": 247,
+      "pageId": "siiN4Qhpk1ARBRh3",
+      "source": "modules/dnd-tomb-annihilation/assets/journal-art/handout-05-hew-hackinstone.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/handouts/es/handout-05.jpg",
+      "cropAt100Dpi": [
+        0,
+        88,
+        750,
+        505
+      ],
+      "sha256": "39b962fd090cfa2884760ce979681c3349352ce823fecb395c347a8bd716d0f5"
+    },
+    {
+      "number": 6,
+      "pdfPage": 247,
+      "pageId": "ciEZf8O0K3rnHhNs",
+      "source": "modules/dnd-tomb-annihilation/assets/journal-art/handout-06-musharib.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/handouts/es/handout-06.jpg",
+      "cropAt100Dpi": [
+        0,
+        585,
+        750,
+        1020
+      ],
+      "sha256": "7bd834e6dc546ecb403ea0631af60c732d27f8508d8bfc697005fa4cef22946d"
+    },
+    {
+      "number": 7,
+      "pdfPage": 248,
+      "pageId": "c93X1nruLP5dwoYI",
+      "source": "modules/dnd-tomb-annihilation/assets/journal-art/handout-07-qawasha-kupalue.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/handouts/es/handout-07.jpg",
+      "cropAt100Dpi": [
+        73,
+        88,
+        824,
+        505
+      ],
+      "sha256": "e20e40ddfbcf67e56081fe5c3591bcb28dc82aabad2660526ae211a6fef50b80"
+    },
+    {
+      "number": 8,
+      "pdfPage": 245,
+      "pageId": "Q2rWfVReK0dKbyPb",
+      "source": "modules/dnd-tomb-annihilation/assets/journal-art/handout-08-river-mist-flask-wine.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/handouts/es/handout-08.jpg",
+      "cropAt100Dpi": [
+        0,
+        583,
+        750,
+        1015
+      ],
+      "sha256": "f98d14c16bc7975362c86339df3fed5ea8a0400fc90414e303c4304eae358ec9"
+    },
+    {
+      "number": 9,
+      "pdfPage": 248,
+      "pageId": "RY1oSiH0powrtzd5",
+      "source": "modules/dnd-tomb-annihilation/assets/journal-art/handout-09-salida.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/handouts/es/handout-09.jpg",
+      "cropAt100Dpi": [
+        73,
+        585,
+        824,
+        1000
+      ],
+      "sha256": "a1acc727e85711d11a0d263e46965d4b87e97bafa9fe2ae129b7dc58b6140ca0"
+    },
+    {
+      "number": 10,
+      "pdfPage": 249,
+      "pageId": "lpN4JMJO4H5SLTiC",
+      "source": "modules/dnd-tomb-annihilation/assets/journal-art/handout-10-shago.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/handouts/es/handout-10.jpg",
+      "cropAt100Dpi": [
+        0,
+        88,
+        750,
+        516
+      ],
+      "sha256": "86ebbe31e18247d91521f39f32c463f16f20133801728e1b983704d99364414b"
+    },
+    {
+      "number": 12,
+      "pdfPage": 250,
+      "pageId": "JhEjrKSGTbCelI3e",
+      "source": "modules/dnd-tomb-annihilation/assets/journal-art/map-omu-player.jpg",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/handouts/es/handout-12.jpg",
+      "cropAt100Dpi": [
+        85,
+        96,
+        751,
+        999
+      ],
+      "sha256": "b5df3cef29f924d29dbd8fb833f43a83db83519bf679402c0355192c97a2880b"
+    },
+    {
+      "number": 13,
+      "pdfPage": 251,
+      "pageId": "SLdBpcrK8dNlXkxp",
+      "source": "modules/dnd-tomb-annihilation/assets/journal-art/lord-brixtons-letter.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/handouts/es/handout-13.jpg",
+      "cropAt100Dpi": [
+        61,
+        101,
+        750,
+        492
+      ],
+      "sha256": "6a4105dc8682aa8cfe808f0ef780f501010199aebbcdd3c566f09cf53124deb5"
+    },
+    {
+      "number": 15,
+      "pdfPage": 252,
+      "pageId": "MbunRtLHwATJIJCr",
+      "source": "modules/dnd-tomb-annihilation/assets/journal-art/papazotls-riddle.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/handouts/es/handout-15.jpg",
+      "cropAt100Dpi": [
+        83,
+        102,
+        758,
+        457
+      ],
+      "sha256": "60407bedbb1abe7aea1afe673011e7b7f72b54cde846762003f5ef5bacee430f"
+    },
+    {
+      "number": 17,
+      "pdfPage": 253,
+      "pageId": "26wtZOCBLI1UWqpz",
+      "source": "modules/dnd-tomb-annihilation/assets/journal-art/acereraks-first-warning.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/handouts/es/handout-17.jpg",
+      "cropAt100Dpi": [
+        73,
+        102,
+        709,
+        501
+      ],
+      "sha256": "6f8686e22ad8aa3bac8b312589de6d19dba4a4259a86ec2020e4d21944602637"
+    },
+    {
+      "number": 18,
+      "pdfPage": 253,
+      "pageId": "Pr5FPZyukQ9GQa6T",
+      "source": "modules/dnd-tomb-annihilation/assets/journal-art/acereraks-second-warning.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/handouts/es/handout-18.jpg",
+      "cropAt100Dpi": [
+        70,
+        577,
+        719,
+        922
+      ],
+      "sha256": "9369f538689467628bd3e45d6cd83498d96bb66bfd9a0521ae3bf1789346ed71"
+    },
+    {
+      "number": 19,
+      "pdfPage": 254,
+      "pageId": "UW7u47h0ZKEnwYP0",
+      "source": "modules/dnd-tomb-annihilation/assets/journal-art/acereraks-third-warning.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/handouts/es/handout-19.jpg",
+      "cropAt100Dpi": [
+        85,
+        98,
+        731,
+        517
+      ],
+      "sha256": "43cb60cb6690b109f6d703b3b33218485f0fcfcbc3c995ddeae23bf856ad336b"
+    },
+    {
+      "number": 20,
+      "pdfPage": 254,
+      "pageId": "A8cdWYcacokPLv2D",
+      "source": "modules/dnd-tomb-annihilation/assets/journal-art/acereraks-fourth-warning.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/handouts/es/handout-20.jpg",
+      "cropAt100Dpi": [
+        82,
+        579,
+        730,
+        998
+      ],
+      "sha256": "d967eb40759cdf6279c9c1cdb96a661ff6ea679b576d645bb6f75c2744432963"
+    },
+    {
+      "number": 21,
+      "pdfPage": 255,
+      "pageId": "sctAPcZLR40PFy6s",
+      "source": "modules/dnd-tomb-annihilation/assets/journal-art/devlins-journal.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/handouts/es/handout-21.jpg",
+      "cropAt100Dpi": [
+        72,
+        97,
+        739,
+        552
+      ],
+      "sha256": "8f9ed7fa50a69facd33d771f234a10dbae55e14d68c2bae8eede3759e0103142"
+    },
+    {
+      "number": 22,
+      "pdfPage": 255,
+      "pageId": "FMGCsWGCPeGWfqgY",
+      "source": "modules/dnd-tomb-annihilation/assets/journal-art/withers-journal.webp",
+      "translation": "modules/translate-dnd5e-tomb-annihilation-es/assets/handouts/es/handout-22.jpg",
+      "cropAt100Dpi": [
+        72,
+        623,
+        739,
+        971
+      ],
+      "sha256": "1cbf51ee81e8c6971e5aa8d01eebd247fa07c22a27d016ee419559cc0d1e2d5e"
+    }
+  ]
+}
