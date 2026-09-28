@@ -6,60 +6,48 @@ on:
       - "v*"
 
 permissions:
-  contents: write
+  contents: read
 
 concurrency:
   group: release-${{ github.ref }}
   cancel-in-progress: false
 
 jobs:
+  validate:
+    name: Validate release
+    uses: ./.github/workflows/validate.yml
+    with:
+      release-tag: ${{ github.ref_name }}
+
   release:
-    name: Build & Publish Text-Only Release (Draft)
+    name: Publish validated release (Draft)
+    needs: validate
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
-      - name: Checkout tagged commit
-        uses: actions/checkout@v5
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - name: Download validated package
+        uses: actions/download-artifact@v4
         with:
-          python-version: "3.11"
+          name: module-package
+          path: dist
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: "22"
-
-      - name: Check release build inputs
+      - name: Verify expected asset exists
         run: |
-          test -f dev-tools/build_light.py
-          test -f dev-tools/translation/handout-assets.json
-          test -f dev-tools/translation/atlas-assets.json
+          test -f "dist/translate-dnd5e-tomb-annihilation-es.zip"
+          test -f "dist/module.json"
+          test -f "dist/SHA256SUMS.txt"
+          (cd dist && sha256sum --check SHA256SUMS.txt)
+          echo "OK: release assets exist"
 
-      - name: Test converters and packaging
-        run: |
-          node --test tests/*.test.mjs
-          python -m unittest discover -s tests -p 'test_*.py'
-
-      - name: Build lightweight release assets
-        env:
-          RELEASE_TAG: ${{ github.ref_name }}
-        run: python dev-tools/build_light.py --release-tag "$RELEASE_TAG"
-
-      - name: Verify expected assets
-        run: |
-          test -f dist/translate-dnd5e-tomb-annihilation-es.zip
-          test -f dist/module.json
-          cd dist
-          sha256sum --check SHA256SUMS.txt
-
-      - name: Create GitHub Release (DRAFT) and upload assets
+      - name: Create GitHub Release (DRAFT) and upload asset
         uses: softprops/action-gh-release@v2
         with:
           draft: true
           generate_release_notes: true
           fail_on_unmatched_files: true
           files: |
-            dist/translate-dnd5e-tomb-annihilation-es.zip
+            dist/*.zip
             dist/module.json
             dist/SHA256SUMS.txt

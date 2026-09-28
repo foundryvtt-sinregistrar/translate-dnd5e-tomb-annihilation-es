@@ -1,86 +1,75 @@
-# La tumba de la aniquilación — Español (Babele)
+# La tumba de la aniquilación — Solo texto — Traducción al español
 
-Versión de prueba `0.2.0` del módulo `translate-dnd5e-tomb-annihilation-es`.
-Incluye traducción de los cinco compendios y 126 textos de interfaz.
-**Revisión textual cerrada; validación funcional en curso.** No es una edición final ni
-una publicación instalable desde una URL remota. El ZIP local se instala
-extrayendo su carpeta en `Data/modules/` con Foundry detenido.
+**Español** | [English](README.en.md)
 
-## Entorno objetivo
+Traducción para Foundry VTT mediante Babele. Identificador: `translate-dnd5e-tomb-annihilation-es`.
 
-- Foundry VTT 14.368 y dnd5e 6.0.3.
-- Babele 2.9.1 y sus dependencias.
-- Módulo oficial `dnd-tomb-annihilation` 2.0.0 instalado y activo.
+## Estado
 
-La carga de Babele, los esquemas y la importación completa se han comprobado
-en este entorno. Véase [la validación del mundo nuevo](dev-tools/translation/VALIDACION-MUNDO-NUEVO.md)
-para los resultados y las incidencias funcionales pendientes.
+Versión: **0.2.0**. Variante de prueba solo texto. Incluye cinco compendios y 126 claves de interfaz. La revisión textual consta como cerrada en los informes del proyecto; la validación funcional integral sigue pendiente. El paquete sustituye 47 rutas de imágenes españolas por las del módulo oficial y no incluye imágenes. Los rótulos de esas imágenes permanecen en su idioma original.
 
-## Instalación local
+Consulta [CHANGELOG.md](CHANGELOG.md).
 
-1. Mantener esta carpeta en `Data/modules/translate-dnd5e-tomb-annihilation-es`.
-2. Reiniciar Foundry para que reconozca el módulo nuevo.
-3. Activar Babele, el módulo oficial y esta traducción.
-4. Seleccionar español y recargar el mundo.
-5. Antes de importar, desactivar en Babele **Sync imported Adventure token names**.
-   La aventura ya incluye nombres revisados para cada ficha. Esa sincronización
-   los sustituye por nombres genéricos del actor y puede ocultar nombres de PNJ.
+## Requisitos
 
-El registro de Babele espera a `setup`, cuando existe `core.language`, y se
-limita a español y variantes regionales. Los documentos que ya estaban
-importados en un mundo no se sustituyen automáticamente al activar el módulo.
+Versiones declaradas en el manifiesto; «—» indica que no se declara ese límite.
 
-## Compendios preparados
+| Dependencia | Mínima | Verificada |
+|---|---|---|
+| Foundry VTT | 14.368 | 14.368 |
+| dnd5e | 6.0.3 | 6.0.3 |
+| babele | 2.9.1 | — |
+| dnd-tomb-annihilation | 2.0.0 | — |
 
-| Archivo dentro de `compendium/` | Tipo |
-|---|---|
-| `dnd-tomb-annihilation.adventures.json` | Adventure |
-| `dnd-tomb-annihilation.actors.json` | Actor |
-| `dnd-tomb-annihilation.items.json` | Item |
-| `dnd-tomb-annihilation.tables.json` | RollTable |
-| `dnd-tomb-annihilation.macros.json` | Macro |
+Instala y activa las dependencias, adquiriendo por separado los productos oficiales cuando sean necesarios.
 
-La lista procede del manifiesto del módulo oficial local. Los diarios y escenas
-deben inventariarse dentro de la aventura: no se han inventado packs separados.
-La traducción de Adventure incluye 475 actores, 79 diarios con 1.033 páginas,
-42 escenas y 41 carpetas. También cubre textos de modificaciones locales de
-fichas. Los nombres propios y los fragmentos puramente técnicos pueden coincidir
-con el original. Las ayudas para jugadores incluyen 19 imágenes españolas;
-el atlas incorpora otros 28 mapas y diagramas españoles. Quedan rótulos
-ingleses en 14 fondos de escena y la escala del mapa de Puerto Nyanzaru para
-jugadores. Las pruebas no cubren todas las automatizaciones de una partida.
+Antes de importar, desactiva en Babele **Sync imported Adventure token names**. Las variantes completa y solo texto comparten identificador: no se instalan como módulos distintos. Usa una importación nueva en un mundo de prueba para comprobar esta variante. La variante completa necesita recursos españoles que no están versionados; su reconstrucción no está disponible con este clon.
+
+## Instalación
+
+En la configuración de Foundry, abre **Add-on Modules → Install Module** y utiliza este manifiesto:
+
+```text
+https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/releases/latest/download/module.json
+```
+
+Para instalar manualmente, descarga `translate-dnd5e-tomb-annihilation-es.zip` de las [releases](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/releases). Con Foundry detenido, extrae la carpeta `translate-dnd5e-tomb-annihilation-es` en `Data/modules/`; el manifiesto debe quedar en `Data/modules/translate-dnd5e-tomb-annihilation-es/module.json`.
+
+## Activación
+
+1. Abre un mundo dnd5e.
+2. Activa Babele, sus dependencias, los productos oficiales requeridos y esta traducción.
+3. Selecciona **Español** y recarga el mundo.
+4. Abre un compendio traducido para comprobar el resultado.
+
+El registro es automático para `es` y sus variantes regionales. Otros idiomas no activan la traducción española.
+
+## Actualización
+
+Actualiza desde Foundry o sustituye la carpeta con el ZIP publicado y Foundry detenido. Recarga el mundo. Las copias ya importadas no se sincronizan automáticamente: revisa las diferencias antes de sustituir documentos con cambios propios.
+
+## Contenido incluido
+
+- `dnd-tomb-annihilation.actors.json`.
+- `dnd-tomb-annihilation.adventures.json`.
+- `dnd-tomb-annihilation.items.json`.
+- `dnd-tomb-annihilation.macros.json`.
+- `dnd-tomb-annihilation.tables.json`.
+
+## Limitaciones
+
+La cobertura textual y las pruebas automáticas no acreditan todas las automatizaciones de una partida. Conserva las limitaciones indicadas en Estado. Las copias importadas no se actualizan automáticamente. Las nuevas URLs de release necesitan una publicación con sus adjuntos; mientras no estén disponibles, utiliza un ZIP validado. No se distribuyen fuentes privadas, PDF, OCR ni exportaciones oficiales completas.
+
+## Soporte y contribuciones
+
+Comunica errores en las [incidencias](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/issues), indicando versiones, compendio/documento afectado, pasos, resultado esperado y observado, y si se trata de una copia importada.
 
 ## Desarrollo
 
-### Paquete ligero, solo texto
+La [guía de desarrollo](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/blob/main/DEVELOPER.md) está disponible en el repositorio y se excluye del ZIP instalable.
 
-Ejecutar `python dev-tools/build_light.py` para generar en `dist/` el ZIP
-`translate-dnd5e-tomb-annihilation-es-0.2.0-light.zip`. Conserva la traducción
-textual y recupera las 47 rutas de imágenes del módulo oficial, sin incluir
-imágenes ni modificar la variante completa. Requiere el módulo oficial local
-para comprobar que existen esos recursos.
+## Licencia y créditos
 
-Ambas variantes tienen el mismo identificador y versión: son alternativas de
-instalación. Los documentos ya importados no se actualizan automáticamente;
-probar la variante ligera mediante una importación nueva si el mundo anterior
-utilizaba las imágenes españolas.
+Consulta la licencia y sus condiciones en [LICENSE.md](LICENSE.md). La licencia de las aportaciones propias está pendiente de elección; el aviso no concede derechos adicionales sobre materiales propios o de terceros.
 
-Consultar [DEVELOPER.md](DEVELOPER.md) y [ROADMAP.md](dev-tools/ROADMAP.md).
-
-```sh
-node --test tests/*.test.mjs
-```
-
-Repositorio: [foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es).
-El workflow de release genera un borrador con el ZIP ligero y un manifiesto
-instalable al subir un tag `v*`. Véase [cómo publicar](dev-tools/RELEASE.md).
-Los PDF EN/ES ya están procesados para consulta local; consultar
-[la guía de referencias](dev-tools/export/README.md) y
-[el estado de traducción](dev-tools/translation/ESTADO-TRADUCCION.md).
-Los PDF, OCR y exportaciones se guardan en `dev-tools/export/data/`, excluidos
-de Git y del paquete de distribución.
-
-Traducción no oficial, sin afiliación con Wizards of the Coast ni Foundry VTT.
-Requiere el contenido oficial y no incluye sus bases de datos. Las imágenes
-españolas de las ayudas proceden del PDF aportado; véase su
-[nota de procedencia](assets/handouts/es/README.md).
+Traducción no oficial, sin afiliación con Wizards of the Coast ni Foundry VTT. Los materiales del producto oficial pertenecen a sus respectivos titulares. Autor del módulo: [foundryvtt-sinregistrar](https://github.com/foundryvtt-sinregistrar).
