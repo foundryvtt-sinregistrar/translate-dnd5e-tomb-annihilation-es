@@ -5,6 +5,8 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ## [Unreleased]
 
+## [0.2.1] - 2026-09-28
+
 - Adoptada la licencia MIT para las aportaciones propias de foundryvtt-sinregistrar, conservando los derechos y condiciones de terceros.
 
 ### Changed
@@ -46,3 +48,8 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 - Validación con Babele y esquemas de Foundry; cinco documentos de prueba.
 - Pendientes revisión lingüística completa, importación integral en mundo limpio
   y primera publicación.
+
+## Version Links
+
+[Unreleased]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/compare/v0.2.1...HEAD
+[0.2.1]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/releases/tag/v0.2.1

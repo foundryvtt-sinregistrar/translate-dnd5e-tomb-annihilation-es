@@ -43,7 +43,7 @@ https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/
 Esta URL funciona después de publicar una release normal visible para el usuario;
 no funciona con un borrador ni selecciona versiones marcadas como prerelease.
 Para instalar una prerelease publicada, usar su manifiesto específico:
-`https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/releases/download/v0.2.0/module.json`.
+`https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/releases/download/v0.2.1/module.json`.
 Un repositorio privado requiere acceso; una instalación pública desde Foundry
 requiere que los archivos sean accesibles sin autenticación.
 

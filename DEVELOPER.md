@@ -1,6 +1,6 @@
 # Guía de desarrollo
 
-Proyecto: `translate-dnd5e-tomb-annihilation-es`, versión de trabajo **0.2.0**. Instalación: [README.md](README.md) y [README.en.md](README.en.md).
+Proyecto: `translate-dnd5e-tomb-annihilation-es`, versión de trabajo **0.2.1**. Instalación: [README.md](README.md) y [README.en.md](README.en.md).
 
 ## Entorno y compatibilidad
 
