@@ -6,7 +6,7 @@ Plantilla inicial: PHB `caf298ee2c8b78c27634c2e2f23baf87e44243fe`; base anterior
 
 ## Archivos y adaptaciones
 
-Documentación bilingüe, DEVELOPER, CHANGELOG, `.editorconfig`, `.gitattributes`, base de `.gitignore`, constructor y suite de 24 pruebas compartida. El perfil versionado conserva alias `translate-dnd5e-tomb-annihilation-es.zip`, canal `latest` y variante `text-only`. Se mantiene la licencia existente; los avisos de DM/Tomb no sustituyen la decisión pendiente sobre sus aportaciones.
+Documentación bilingüe, DEVELOPER, CHANGELOG, `.editorconfig`, `.gitattributes`, base de `.gitignore`, constructor y suite de 24 pruebas compartida. El perfil versionado conserva alias `translate-dnd5e-tomb-annihilation-es.zip`, canal `latest` y variante `text-only`. El 28 de septiembre de 2026 el titular eligió MIT para sus aportaciones propias, con copyright de foundryvtt-sinregistrar. LICENSE.md delimita el alcance y conserva los derechos de terceros.
 
 El perfil `text-only` ejecuta `dev-tools/buildScripts/text_only.py`. Lee las dos tablas de sustitución del commit seleccionado, exige cobertura exacta de las 47 rutas reales y rechaza referencias españolas sin resolver. Distribuye ambos README y licencia, genera manifiesto con título «Solo texto» y hashes; nunca incorpora imágenes. `dev-tools/build_light.py` delega en la misma interfaz. Las fuentes traducidas del checkout permanecen intactas. No se necesita una instalación de Foundry para construir. La variante completa no se puede reconstruir sin sus recursos externos.
 
