@@ -1,5 +1,19 @@
 # Tomb of Annihilation — Text only — Spanish Translation
 
+**Current version — Foundry v14**
+
+![Foundry v14](https://img.shields.io/badge/Foundry-v14-green)
+[![Release v0.2.1](https://img.shields.io/badge/release-v0.2.1-blue)](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/releases/tag/v0.2.1)
+![dnd5e 6.0.3](https://img.shields.io/badge/dnd5e-6.0.3-blue)
+![Babele 2.9.1 required](https://img.shields.io/badge/Babele-2.9.1_required-orange)
+![Tomb of Annihilation required](https://img.shields.io/badge/Tomb_of_Annihilation-required-orange)
+![Text only](https://img.shields.io/badge/package-text_only-lightgrey)
+[![Latest release](https://img.shields.io/github/v/release/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es?label=release)](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/releases/latest)
+[![Latest release downloads](https://img.shields.io/github/downloads/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/latest/total?label=latest%20release%20downloads)](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/releases/latest)
+
+[![Total downloads](https://img.shields.io/github/downloads/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/total?label=total%20downloads)](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/releases)
+
+
 [Español](README.md) | **English**
 
 Translation for Foundry VTT using Babele. Module ID: `translate-dnd5e-tomb-annihilation-es`.
