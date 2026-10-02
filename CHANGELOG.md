@@ -5,6 +5,10 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ## [Unreleased]
 
+## [1.14.0] - 2026-10-02
+
+- Actualizada la versión declarada del módulo y las referencias de descarga.
+
 ## [0.2.1] - 2026-09-28
 
 - Comprobados en Foundry 698 documentos, nombres y campos explícitos; importada y revisada una muestra. Evidencia y límites en `dev-tools/homogeneizacion/VALIDACION-FOUNDRY.md`.
@@ -53,5 +57,6 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ## Version Links
 
-[Unreleased]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/compare/v0.2.1...HEAD
+[Unreleased]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/compare/v1.14.0...HEAD
+[1.14.0]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/releases/tag/v1.14.0
 [0.2.1]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/releases/tag/v0.2.1

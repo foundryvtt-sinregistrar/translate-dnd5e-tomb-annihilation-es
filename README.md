@@ -3,7 +3,7 @@
 **Versión actual — Foundry v14**
 
 ![Foundry v14](https://img.shields.io/badge/Foundry-v14-green)
-[![Release v0.2.1](https://img.shields.io/badge/release-v0.2.1-blue)](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/releases/tag/v0.2.1)
+[![Release v1.14.0](https://img.shields.io/badge/release-v1.14.0-blue)](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/releases/tag/v1.14.0)
 ![dnd5e 6.0.3](https://img.shields.io/badge/dnd5e-6.0.3-blue)
 ![Babele 2.9.1 required](https://img.shields.io/badge/Babele-2.9.1_required-orange)
 ![Tomb of Annihilation required](https://img.shields.io/badge/Tomb_of_Annihilation-required-orange)
@@ -21,7 +21,7 @@ Traducción para Foundry VTT mediante Babele. Identificador: `translate-dnd5e-to
 
 ## Estado
 
-Versión: **0.2.1**. Variante de prueba solo texto. Incluye cinco compendios y 126 claves de interfaz. La revisión textual consta como cerrada en los informes del proyecto; la validación funcional integral sigue pendiente. El paquete sustituye 47 rutas de imágenes españolas por las del módulo oficial y no incluye imágenes. Los rótulos de esas imágenes permanecen en su idioma original.
+Versión: **1.14.0**. Variante de prueba solo texto. Incluye cinco compendios y 126 claves de interfaz. La revisión textual consta como cerrada en los informes del proyecto; la validación funcional integral sigue pendiente. El paquete sustituye 47 rutas de imágenes españolas por las del módulo oficial y no incluye imágenes. Los rótulos de esas imágenes permanecen en su idioma original.
 
 Consulta [CHANGELOG.md](CHANGELOG.md).
 

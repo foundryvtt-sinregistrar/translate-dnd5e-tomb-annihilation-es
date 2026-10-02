@@ -3,7 +3,7 @@
 **Current version — Foundry v14**
 
 ![Foundry v14](https://img.shields.io/badge/Foundry-v14-green)
-[![Release v0.2.1](https://img.shields.io/badge/release-v0.2.1-blue)](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/releases/tag/v0.2.1)
+[![Release v1.14.0](https://img.shields.io/badge/release-v1.14.0-blue)](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/releases/tag/v1.14.0)
 ![dnd5e 6.0.3](https://img.shields.io/badge/dnd5e-6.0.3-blue)
 ![Babele 2.9.1 required](https://img.shields.io/badge/Babele-2.9.1_required-orange)
 ![Tomb of Annihilation required](https://img.shields.io/badge/Tomb_of_Annihilation-required-orange)
@@ -21,7 +21,7 @@ Translation for Foundry VTT using Babele. Module ID: `translate-dnd5e-tomb-annih
 
 ## Status
 
-Version: **0.2.1**. Text-only test variant. Includes five compendiums and 126 interface keys. Project reports record the textual review as closed; complete functional validation remains pending. The package replaces 47 Spanish image paths with paths from the official module and does not include images. Labels within those images remain in their original language.
+Version: **1.14.0**. Text-only test variant. Includes five compendiums and 126 interface keys. Project reports record the textual review as closed; complete functional validation remains pending. The package replaces 47 Spanish image paths with paths from the official module and does not include images. Labels within those images remain in their original language.
 
 See [CHANGELOG.md](CHANGELOG.md).
 
