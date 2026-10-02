@@ -8,6 +8,7 @@
 ![Babele 2.9.1 required](https://img.shields.io/badge/Babele-2.9.1_required-orange)
 ![Tomb of Annihilation required](https://img.shields.io/badge/Tomb_of_Annihilation-required-orange)
 ![Text only](https://img.shields.io/badge/package-text_only-lightgrey)
+
 [![Latest release](https://img.shields.io/github/v/release/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es?label=release)](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/releases/latest)
 [![Latest release downloads](https://img.shields.io/github/downloads/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/latest/total?label=latest%20release%20downloads)](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/releases/latest)
 
