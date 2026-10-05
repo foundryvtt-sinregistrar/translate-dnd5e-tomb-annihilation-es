@@ -5,6 +5,20 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ## [Unreleased]
 
+## [1.14.1] - 2026-10-05
+
+### Fixed
+
+- Convertidores de avances, efectos, actividades y tablas limitados a campos textuales; las traducciones no pueden sobrescribir niveles, fórmulas, UUID, rangos ni configuración mecánica.
+- Avances compatibles con `name`/ `title`, arrays, objetos indexados y contenedores serializados con `contents`.
+- Aplicada la misma protección a objetos y efectos embebidos en actores.
+
+### Added
+
+- Evidencia y límites de la validación en `dev-tools/VALIDACION-COMPATIBILIDAD-6X.md`.
+
+- Pruebas de regresión de formatos de colección, preservación de mecánicas y etiquetas de perfiles de invocación.
+
 ## [1.14.0] - 2026-10-02
 
 - Actualizada la versión declarada del módulo y las referencias de descarga.
@@ -57,6 +71,7 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ## Version Links
 
-[Unreleased]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/compare/v1.14.0...HEAD
+[Unreleased]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/compare/v1.14.1...HEAD
+[1.14.1]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/releases/tag/v1.14.1
 [1.14.0]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/releases/tag/v1.14.0
 [0.2.1]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/releases/tag/v0.2.1

@@ -1,29 +1,11 @@
-export function mergeById(source, translation) {
-  if (!source || typeof source !== "object" || !translation || typeof translation !== "object") {
-    return source;
-  }
+import { translateById, activityPaths, effectPaths, tablePaths, scenePaths } from "./text-only.js";
 
-  const out = foundry.utils.deepClone(source);
-  for (const [id, patch] of Object.entries(translation)) {
-    if (!patch || typeof patch !== "object") continue;
-
-    if (Array.isArray(out)) {
-      const target = out.find((row) => (row?._id ?? row?.id) === id);
-      if (target) foundry.utils.mergeObject(target, patch, { insertKeys: true, overwrite: true, inplace: true });
-      continue;
-    }
-
-    if (out[id]) {
-      foundry.utils.mergeObject(out[id], patch, { insertKeys: true, overwrite: true, inplace: true });
-    }
-  }
-  return out;
-}
-
-export const toaActivitiesById = mergeById;
-export const toaEffectsById = mergeById;
-export const toaAdvancementById = mergeById;
-export const toaTableResultsById = mergeById;
+// Retained export for callers localizing general labels.
+export const mergeById = (source, translation) => translateById(source, translation, scenePaths);
+export const toaActivitiesById = (source, translation) => translateById(source, translation, activityPaths, "activity");
+export const toaEffectsById = (source, translation) => translateById(source, translation, effectPaths);
+export const toaAdvancementById = (source, translation) => translateById(source, translation, ["hint"], "advancement");
+export const toaTableResultsById = (source, translation) => translateById(source, translation, tablePaths);
 export const toaSceneTextById = mergeById;
 
 export function toaFolderNamesById(source, translation) {
@@ -55,7 +37,7 @@ export function toaAdventureActorsById(source, translation) {
       if (typeof patch[key] === "string") foundry.utils.setProperty(actor,path,patch[key]);
     }
     if (patch.items) actor.items = toaActorItemsById(actor.items,patch.items);
-    if (patch.effects) actor.effects = mergeById(actor.effects,patch.effects);
+    if (patch.effects) actor.effects = toaEffectsById(actor.effects,patch.effects);
   }
   return out;
 }
@@ -130,12 +112,12 @@ export function toaActorItemsById(source, translation) {
     }
     if (patch.activities) {
       item.system ??= {};
-      item.system.activities = mergeById(item.system.activities ?? {}, patch.activities);
+    item.system.activities = toaActivitiesById(item.system.activities ?? {}, patch.activities);
     }
-    if (patch.effects) item.effects = mergeById(item.effects ?? [], patch.effects);
+    if (patch.effects) item.effects = toaEffectsById(item.effects ?? [], patch.effects);
     if (patch.advancement) {
       item.system ??= {};
-      item.system.advancement = mergeById(item.system.advancement ?? [], patch.advancement);
+    item.system.advancement = toaAdvancementById(item.system.advancement ?? [], patch.advancement);
     }
   }
   return out;
