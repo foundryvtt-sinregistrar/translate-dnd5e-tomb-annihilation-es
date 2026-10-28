@@ -27,6 +27,8 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ## [1.14.0] - 2026-10-02
 
+### Changed
+
 - Actualizada la versión declarada del módulo y las referencias de descarga.
 
 ## [0.2.1] - 2026-09-28
@@ -46,6 +48,8 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ## [0.2.0] — 2026-09-23 — Versión de prueba local
 
+### Changed
+
 - Revisión editorial completa de 20.154 campos y 126 claves de interfaz.
 - 19 ayudas y 28 mapas/diagramas en español.
 - Reparaciones de enlaces retirados y anclas españolas verificadas en Foundry.
@@ -58,6 +62,8 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 - Paquete local; no se publica una release remota ni se configura actualización automática.
 
 ## [0.1.0] — Borrador inicial (histórico)
+
+### Added
 
 - Esqueleto `0.1.0` para Foundry VTT 14.368 y dnd5e 6.0.3.
 - Dependencias Babele y `dnd-tomb-annihilation`.

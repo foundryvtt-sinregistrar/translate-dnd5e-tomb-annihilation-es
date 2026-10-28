@@ -1,9 +1,10 @@
 # La tumba de la aniquilación — Solo texto — Traducción al español
 
+**Español** | [English](README.en.md)
+
 **Versión actual — Foundry v14**
 
 ![Foundry v14](https://img.shields.io/badge/Foundry-v14-green)
-[![Release v1.14.0](https://img.shields.io/badge/release-v1.14.0-blue)](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/releases/tag/v1.14.0)
 ![dnd5e 6.0.3](https://img.shields.io/badge/dnd5e-6.0.3-blue)
 ![Babele 2.9.1 required](https://img.shields.io/badge/Babele-2.9.1_required-orange)
 ![Tomb of Annihilation required](https://img.shields.io/badge/Tomb_of_Annihilation-required-orange)
