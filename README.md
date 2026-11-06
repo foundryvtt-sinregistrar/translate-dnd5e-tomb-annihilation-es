@@ -12,8 +12,8 @@
 ![Tomb of Annihilation required](https://img.shields.io/badge/Tomb_of_Annihilation-required-orange)
 ![Text only](https://img.shields.io/badge/package-text_only-lightgrey)
 
-[![Última versión](https://img.shields.io/github/v/release/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es?label=release)](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/releases/latest)
-[![Descargas de la última versión](https://img.shields.io/github/downloads/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/latest/total?label=descargas%20%C3%BAltima%20release)](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/releases/latest)
+[![Última versión](https://img.shields.io/github/v/release/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es?label=versi%C3%B3n)](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/releases/latest)
+[![Descargas de la última versión](https://img.shields.io/github/downloads/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/latest/total?label=descargas%20%C3%BAltima%20versi%C3%B3n)](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/releases/latest)
 
 [![Descargas totales](https://img.shields.io/github/downloads/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/total?label=descargas%20totales)](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/releases)
 
