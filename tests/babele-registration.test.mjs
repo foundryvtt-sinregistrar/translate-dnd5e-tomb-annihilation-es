@@ -3,7 +3,9 @@ import { test } from "node:test";
 import { readFileSync } from "node:fs";
 import { runInNewContext } from "node:vm";
 
-const source = readFileSync(new URL("../scripts/babele-register.js", import.meta.url), "utf8");
+// This unit isolates registration; adventure-import has its own integration tests.
+const source = readFileSync(new URL("../scripts/babele-register.js", import.meta.url), "utf8")
+    .replace(/^import '\.\/adventure-import\.mjs';\r?$/m, "");
 
 for (const [language, expected] of [
     ["es", ["es"]], ["es-ES", ["es-ES", "es"]], ["es-MX", ["es-MX", "es"]],

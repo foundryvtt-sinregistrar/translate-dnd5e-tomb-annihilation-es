@@ -1,3 +1,5 @@
+import './adventure-import.mjs';
+
 /**
  * Babele registration for this translation module.
  * - Registers only for Spanish ("es" and variants such as "es-ES").

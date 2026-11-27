@@ -7,7 +7,11 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ### Changed
 
-- Compatibilidad verificada con Foundry VTT 14.370 y D&D5e 6.0.6.
+- Compatibilidad verificada con Foundry VTT 14.370 y D&D5e 6.1.1 mediante importación completa y comprobación tras recargar. Evidencia en [la validación](dev-tools/VALIDACION-DND5E-6.1.1.md).
+
+### Fixed
+
+- Conserva las etiquetas revisadas de fichas de escena, como Nephyr y Pirata, frente a la sincronización asíncrona de nombres de actor de Babele. La restauración se limita a las escenas de la aventura importadas en español.
 
 ## [1.14.2] - 2026-10-27
 

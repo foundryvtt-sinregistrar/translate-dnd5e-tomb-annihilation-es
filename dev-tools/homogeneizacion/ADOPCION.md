@@ -12,6 +12,11 @@ El perfil `text-only` ejecuta `dev-tools/buildScripts/text_only.py`. Lee las dos
 
 ## Sincronización
 
+Validación posterior (2026-11-27), en `compat/dnd5e-6.1.1`: importación completa
+en copia QA, restauración de etiquetas de fichas frente a la sincronización
+asíncrona de Babele y marca verificada 6.1.1. Se conserva el perfil `text-only`.
+Evidencia y límites en [la validación](../VALIDACION-DND5E-6.1.1.md).
+
 Antes de actualizar herramientas comunes, compara la base registrada con la nueva revisión de PHB y revisa las diferencias de cada archivo. Conserva este perfil, las suites propias y los adaptadores. No sobrescribas traducciones ni adaptes una licencia mediante una copia ciega. Los SHA-256 del inventario identifican los bytes de Git sin conversiones LF/CRLF.
 
 ## Validación y commits
