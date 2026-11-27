@@ -24,7 +24,7 @@ Translation for Foundry VTT using Babele. Module ID: `translate-dnd5e-tomb-annih
 
 ## Status
 
-Version: **1.14.0**. Text-only test variant. Includes five compendiums and 126 interface keys. Project reports record the textual review as closed; complete functional validation remains pending. The package replaces 47 Spanish image paths with paths from the official module and does not include images. Labels within those images remain in their original language.
+Version: **1.14.3**. Text-only test variant. Includes five compendiums and 126 interface keys. Project reports record the textual review as closed; complete functional validation remains pending. The package replaces 47 Spanish image paths with paths from the official module and does not include images. Labels within those images remain in their original language.
 
 See [CHANGELOG.md](CHANGELOG.md).
 

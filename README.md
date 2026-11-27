@@ -24,7 +24,7 @@ Traducción para Foundry VTT mediante Babele. Identificador: `translate-dnd5e-to
 
 ## Estado
 
-Versión: **1.14.0**. Variante de prueba solo texto. Incluye cinco compendios y 126 claves de interfaz. La revisión textual consta como cerrada en los informes del proyecto; la validación funcional integral sigue pendiente. El paquete sustituye 47 rutas de imágenes españolas por las del módulo oficial y no incluye imágenes. Los rótulos de esas imágenes permanecen en su idioma original.
+Versión: **1.14.3**. Variante de prueba solo texto. Incluye cinco compendios y 126 claves de interfaz. La revisión textual consta como cerrada en los informes del proyecto; la validación funcional integral sigue pendiente. El paquete sustituye 47 rutas de imágenes españolas por las del módulo oficial y no incluye imágenes. Los rótulos de esas imágenes permanecen en su idioma original.
 
 Consulta [CHANGELOG.md](CHANGELOG.md).
 

@@ -5,6 +5,8 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ## [Unreleased]
 
+## [1.14.3] - 2026-11-27
+
 ### Changed
 
 - Compatibilidad verificada con Foundry VTT 14.370 y D&D5e 6.1.1 mediante importación completa y comprobación tras recargar. Evidencia en [la validación](dev-tools/VALIDACION-DND5E-6.1.1.md).
@@ -91,7 +93,8 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ## Version Links
 
-[Unreleased]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/compare/v1.14.1...HEAD
+[Unreleased]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/compare/v1.14.3...HEAD
 [1.14.1]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/releases/tag/v1.14.1
 [1.14.0]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/releases/tag/v1.14.0
 [0.2.1]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/releases/tag/v0.2.1
+[1.14.3]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tomb-annihilation-es/releases/tag/v1.14.3
